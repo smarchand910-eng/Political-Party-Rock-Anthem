@@ -806,6 +806,1625 @@
      ]
     }
    }
+  },
+  "kat_cammack": {
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
+     "sources": [
+      {
+       "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+       "date": "2025-01"
+      },
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   ]
+  },
+  "aaron_bean": {
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
+     "sources": [
+      {
+       "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+       "date": "2025-01"
+      },
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   ]
+  },
+  "john_rutherford": {
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
+     "sources": [
+      {
+       "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+       "date": "2025-01"
+      },
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   ]
+  },
+  "gus_bilirakis": {
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
+     "sources": [
+      {
+       "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+       "date": "2025-01"
+      },
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   ]
+  },
+  "anna_paulina_luna": {
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
+     "sources": [
+      {
+       "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+       "date": "2025-01"
+      },
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   ]
+  },
+  "laurel_lee": {
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
+     "sources": [
+      {
+       "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+       "date": "2025-01"
+      },
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   ]
+  },
+  "greg_steube": {
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
+     "sources": [
+      {
+       "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+       "date": "2025-01"
+      },
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   ]
+  },
+  "scott_franklin": {
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
+     "sources": [
+      {
+       "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+       "date": "2025-01"
+      },
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   ]
+  },
+  "brian_mast": {
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
+     "sources": [
+      {
+       "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+       "date": "2025-01"
+      },
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   ]
+  },
+  "mario_diaz_balart": {
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
+     "sources": [
+      {
+       "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+       "date": "2025-01"
+      },
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   ]
+  },
+  "maria_elvira_salazar": {
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
+     "sources": [
+      {
+       "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+       "date": "2025-01"
+      },
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   ]
+  },
+  "carlos_gimenez": {
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
+     "sources": [
+      {
+       "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+       "date": "2025-01"
+      },
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   ]
+  },
+  "mike_haridopolos": {
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
+     "sources": [
+      {
+       "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+       "date": "2025-01"
+      },
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   ]
+  },
+  "jimmy_patronis": {
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which appropriated roughly $170 billion for border enforcement, detention and deportation operations.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   ]
+  },
+  "randy_fine": {
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted for H.R. 1 (2025), which appropriated roughly $170 billion for border enforcement, detention and deportation operations.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    }
+   ]
+  },
+  "maxwell_frost": {
+   "positions": {
+    "taxes": {
+     "stance": -1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), the law that extended the 2017 tax cuts while cutting projected Medicaid and food-assistance spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": 1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), citing its Medicaid work requirements and projected coverage losses; no vote on Medicaid expansion itself, which is a state decision.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": 1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), which repealed most clean-energy tax credits.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted against H.R. 1 (2025), the budget reconciliation law, and against the SAVE Act (2025).",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      },
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    }
+   ]
+  },
+  "kathy_castor": {
+   "positions": {
+    "taxes": {
+     "stance": -1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), the law that extended the 2017 tax cuts while cutting projected Medicaid and food-assistance spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": 1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), citing its Medicaid work requirements and projected coverage losses; no vote on Medicaid expansion itself, which is a state decision.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": 1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), which repealed most clean-energy tax credits.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted against H.R. 1 (2025), the budget reconciliation law, and against the SAVE Act (2025).",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      },
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    }
+   ]
+  },
+  "darren_soto": {
+   "positions": {
+    "taxes": {
+     "stance": -1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), the law that extended the 2017 tax cuts while cutting projected Medicaid and food-assistance spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": 1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), citing its Medicaid work requirements and projected coverage losses; no vote on Medicaid expansion itself, which is a state decision.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": 1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), which repealed most clean-energy tax credits.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted against H.R. 1 (2025), the budget reconciliation law, and against the SAVE Act (2025).",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      },
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    }
+   ]
+  },
+  "debbie_wasserman_schultz": {
+   "positions": {
+    "taxes": {
+     "stance": -1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), the law that extended the 2017 tax cuts while cutting projected Medicaid and food-assistance spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": 1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), citing its Medicaid work requirements and projected coverage losses; no vote on Medicaid expansion itself, which is a state decision.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": 1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), which repealed most clean-energy tax credits.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted against H.R. 1 (2025), the budget reconciliation law, and against the SAVE Act (2025).",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      },
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    }
+   ]
+  },
+  "lois_frankel": {
+   "positions": {
+    "taxes": {
+     "stance": -1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), the law that extended the 2017 tax cuts while cutting projected Medicaid and food-assistance spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": 1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), citing its Medicaid work requirements and projected coverage losses; no vote on Medicaid expansion itself, which is a state decision.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": 1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), which repealed most clean-energy tax credits.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted against H.R. 1 (2025), the budget reconciliation law, and against the SAVE Act (2025).",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      },
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    }
+   ]
+  },
+  "jared_moskowitz": {
+   "positions": {
+    "taxes": {
+     "stance": -1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), the law that extended the 2017 tax cuts while cutting projected Medicaid and food-assistance spending.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": 1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), citing its Medicaid work requirements and projected coverage losses; no vote on Medicaid expansion itself, which is a state decision.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "energy": {
+     "stance": 1,
+     "confidence": "record",
+     "summary": "Voted against H.R. 1 (2025), which repealed most clean-energy tax credits.",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "elections": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote.",
+     "sources": [
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    }
+   },
+   "record": [
+    {
+     "item": "Voted against H.R. 1 (2025), the budget reconciliation law, and against the SAVE Act (2025).",
+     "sources": [
+      {
+       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07"
+      },
+      {
+       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
+      }
+     ]
+    }
+   ]
   }
  }
 }
