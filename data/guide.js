@@ -8683,7 +8683,7 @@ window.GUIDE_DATA = {
       "trump": {
        "stance": 2,
        "confidence": "stated",
-       "summary": "Former Republican Party of Florida chair who campaigns as an ally of President Trump and Gov. DeSantis.",
+       "summary": "Chaired the Republican Party of Florida from 2015 to 2019, including during President Trump's 2016 campaign, and has modeled his CFO audits on the federal DOGE effort, branding them 'Florida DOGE'.",
        "sources": [
         {
          "title": "Blaise Ingoglia - Wikipedia (with citations)",
