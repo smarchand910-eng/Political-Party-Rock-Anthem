@@ -1,0 +1,19 @@
+# One line per person: <id> <direct image URL>. Fill in URLs you find (campaign site, official portrait),
+# then run: python3 scripts/fetch_photos.py && python3 scripts/build_data.py
+# Suggested places to look are noted after each id. Already-downloaded people are omitted.
+# joe_strada        https://votestrada.com/  (campaign site headshot)
+# james_pericola    https://jamespericola.com/  (campaign site headshot)
+# ralph_groves      https://www.grovesforcongress.com/meet-ralph-groves
+# neil_gillespie    https://neilgillespie4senate.blogspot.com/
+# samantha_scott    https://www.flhouse.gov/  (official House portrait) or https://samanthascott.org/
+# pamala_bivins     https://pamala4fldistrict52.com/
+# jeffrey_bogue     https://www.sumtercountyfl.gov/161/District-4  or https://www.votejeffbogue.com/
+# scott_jewett      https://scottjewett.com/
+# charles_burkett   (news photo: WLRN, May 2026)
+# dean_abrams       https://www.deanabrams.com/
+# jeff_datto        (Facebook: DrJeffDatto)
+# frank_russo       (Ballotpedia page)
+# judge_carlos_g_muniz  https://supremecourt.flcourts.gov/  (official portrait)
+# judge_john_m_harris   https://5dca.flcourts.gov/Judges
+# judge_scott_d_makar   https://5dca.flcourts.gov/Judges
+# judge_f_rand_wallis   https://5dca.flcourts.gov/Judges
