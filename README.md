@@ -9,7 +9,10 @@ A nonpartisan, source-cited voter guide for the races and ballot questions a **S
 - **Every contested race on the Sumter County ballot**: U.S. Senate (special), U.S. House 11, Governor/Lt. Governor, Attorney General, CFO, Agriculture Commissioner, Florida House 52, County Commission District 4, plus the three constitutional amendments, judicial merit retention, and seats already decided in August.
 - **Candidate profiles** with photo, background, how they got on the ballot, positions on 21 major issues (each with a neutral summary, quote where available, and sources), *other issues the candidate has raised on their own*, a documented record, and reported endorsements.
 - **Side-by-side comparison** per race.
-- **"Match me"**: rate 21 statements (with a "matters a lot" weighting), get a percentage match per candidate per race, with the number of issues the score is based on shown openly.
+- **"Match me"**: swipe or tap through 21 statements (with a "matters a lot" weighting) while a live leaderboard updates after every answer; results show a percentage match per candidate per race, with the number of issues the score is based on shown openly.
+- **Landscape map**: candidates plotted as photo bubbles by the average of their documented stances on economic and social/legal statements, with you plotted as a star after the quiz.
+- **"Where they split" heat strip** above every comparison table, and a countdown to registration, mail-ballot and election deadlines on the home page.
+- **Photos**: portraits in `assets/photos/<candidate_id>.jpg` are used first, then the remote `photo_url`, then initials. Drop a file named after the candidate id (see `data/research/*.json`) to add or replace one.
 - **Neutrality rules** enforced in the data: positions are described in the candidate's own words, loaded labels are not used, and if a candidate has not taken a public position the guide says **"No public position found"** instead of guessing from party. Unknown positions are excluded from match scores.
 
 ## Project layout

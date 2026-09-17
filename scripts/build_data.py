@@ -57,6 +57,13 @@ def main():
                 c['photo_url'] = None
             if c.get('withdrawn'):
                 c['party'] = c.get('party') or 'No Party Affiliation'
+            # --- local photo (assets/photos/<id>.jpg|jpeg|png) takes precedence ---
+            for ext in ('jpg', 'jpeg', 'png'):
+                lp = os.path.join(ROOT, 'assets', 'photos', f"{c.get('id')}.{ext}")
+                if os.path.exists(lp):
+                    c['photo_local'] = f"assets/photos/{c.get('id')}.{ext}"
+                    c['photo_source'] = 'Ballotpedia candidate photo (downloaded copy in assets/photos)'
+                    break
             for iid in issue_ids:
                 p = positions.get(iid)
                 if not p:
@@ -97,12 +104,19 @@ def main():
         'vote_by_mail_request_deadline': 'Thu, Oct 22, 2026 (5 p.m.)',
         'early_voting_dates': 'Oct 24 – Oct 31 (confirm county hours)',
     })
+    judicial = load(os.path.join(RESEARCH, 'judicial.json'), {}) or {}
+    for j in judicial.get('judges', []):
+        slug = 'judge_' + re.sub(r'[^a-z_]', '', j['name'].lower().replace(' ', '_').replace('ñ', 'n'))
+        for ext in ('jpg', 'jpeg', 'png'):
+            if os.path.exists(os.path.join(ROOT, 'assets', 'photos', f'{slug}.{ext}')):
+                j['photo_local'] = f'assets/photos/{slug}.{ext}'
+                break
     out = {
         'generated_at': datetime.date.today().strftime('%B %d, %Y'),
         'issues': issues,
         'races': races,
         'amendments': (load(os.path.join(RESEARCH, 'amendments.json'), {}) or {}).get('amendments', []),
-        'judicial': load(os.path.join(RESEARCH, 'judicial.json'), {}) or {},
+        'judicial': judicial,
         'voting_info': voting,
         'other_races': load(os.path.join(RESEARCH, 'county_commission_other.json'), {}) or {},
         'school_board': load(os.path.join(RESEARCH, 'school_board_results.json'), {}) or {},

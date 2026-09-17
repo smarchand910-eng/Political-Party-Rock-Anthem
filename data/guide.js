@@ -234,7 +234,7 @@ window.GUIDE_DATA = {
      "party": "Republican",
      "incumbent": true,
      "photo_url": "https://www.congress.gov/img/member/m001244_200.jpg",
-     "photo_source": "Congress.gov official member photo (bioguide M001244)",
+     "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
      "website": "https://ashleymoody.com/",
      "occupation": "U.S. Senator (appointed January 2025); former Florida Attorney General, circuit judge and federal prosecutor",
      "residence": "Plant City, Hillsborough County",
@@ -1196,7 +1196,8 @@ window.GUIDE_DATA = {
         }
        ]
       }
-     ]
+     ],
+     "photo_local": "assets/photos/ashley_moody.jpg"
     },
     {
      "id": "angie_nixon",
@@ -1204,7 +1205,7 @@ window.GUIDE_DATA = {
      "party": "Democratic",
      "incumbent": false,
      "photo_url": "https://www.myfloridahouse.gov/FileStores/Web/Imaging/Member/4766.jpg",
-     "photo_source": "Florida House of Representatives member photo (MemberId 4766, confirmed via https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4766); the FileStores image URL pattern itself could not be verified because myfloridahouse.gov is blocked from this environment",
+     "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
      "website": "https://angienixon.com/",
      "occupation": "Florida State Representative (District 13, Jacksonville); union and community organizer",
      "residence": "Jacksonville, Duval County",
@@ -2096,7 +2097,8 @@ window.GUIDE_DATA = {
         }
        ]
       }
-     ]
+     ],
+     "photo_local": "assets/photos/angie_nixon.jpg"
     },
     {
      "id": "neil_gillespie",
@@ -4133,7 +4135,7 @@ window.GUIDE_DATA = {
      "incumbent": false,
      "running_mate": "Bryan Avila (state senator, Miami)",
      "photo_url": "https://www.congress.gov/img/member/d000032_200.jpg",
-     "photo_source": "congress.gov official member portrait (bioguide D000032)",
+     "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
      "website": "https://byrondonalds.com/",
      "occupation": "U.S. Representative, Florida's 19th District",
      "residence": "Naples, Collier County",
@@ -4963,7 +4965,8 @@ window.GUIDE_DATA = {
         }
        ]
       }
-     ]
+     ],
+     "photo_local": "assets/photos/byron_donalds.jpg"
     },
     {
      "id": "david_jolly",
@@ -4972,7 +4975,7 @@ window.GUIDE_DATA = {
      "incumbent": false,
      "running_mate": "Gwen Graham (former U.S. Representative)",
      "photo_url": "https://www.congress.gov/img/member/j000296_200.jpg",
-     "photo_source": "congress.gov official member portrait from his House service (bioguide J000296)",
+     "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
      "website": "https://davidjolly.com/",
      "occupation": "Attorney; former U.S. Representative; political commentator",
      "residence": "Pinellas County (Tampa Bay area)",
@@ -5738,7 +5741,8 @@ window.GUIDE_DATA = {
         }
        ]
       }
-     ]
+     ],
+     "photo_local": "assets/photos/david_jolly.jpg"
     },
     {
      "id": "scott_jewett",
@@ -6692,7 +6696,7 @@ window.GUIDE_DATA = {
      "incumbent": false,
      "running_mate": null,
      "photo_url": null,
-     "photo_source": "campaign site (photo URL not verified)",
+     "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
      "website": "https://nomoecorruption.com/",
      "occupation": "Artist, author and prison-reform activist",
      "residence": "Florida (city/county not verified)",
@@ -6905,7 +6909,8 @@ window.GUIDE_DATA = {
        "title": "Official page / photo source",
        "url": "https://nomoecorruption.com/"
       }
-     ]
+     ],
+     "photo_local": "assets/photos/moe_dimanche.jpg"
     },
     {
      "id": "desmond_meade",
@@ -7375,7 +7380,7 @@ window.GUIDE_DATA = {
      "party": "Republican",
      "incumbent": true,
      "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20Uthmeier.jpg",
-     "photo_source": "Wikimedia Commons (file name unverified; official portrait also on myfloridalegal.com)",
+     "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
      "website": "https://jamesforfl.com/",
      "occupation": "Florida Attorney General (appointed); attorney",
      "residence": "Tallahassee, Leon County (native of Destin, Okaloosa County)",
@@ -7983,7 +7988,8 @@ window.GUIDE_DATA = {
         }
        ]
       }
-     ]
+     ],
+     "photo_local": "assets/photos/james_uthmeier.jpg"
     },
     {
      "id": "jose_javier_rodriguez",
@@ -7991,7 +7997,7 @@ window.GUIDE_DATA = {
      "party": "Democratic",
      "incumbent": false,
      "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Javier%20Rodr%C3%ADguez.jpg",
-     "photo_source": "Wikimedia Commons (file name unverified; official portrait also on flsenate.gov archives)",
+     "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
      "website": "https://www.jjr.vote",
      "occupation": "Attorney; former U.S. Assistant Secretary of Labor",
      "residence": "Miami, Miami-Dade County",
@@ -8402,7 +8408,8 @@ window.GUIDE_DATA = {
         }
        ]
       }
-     ]
+     ],
+     "photo_local": "assets/photos/jose_javier_rodriguez.jpg"
     }
    ]
   },
@@ -8432,7 +8439,7 @@ window.GUIDE_DATA = {
      "party": "Republican",
      "incumbent": true,
      "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blaise%20Ingoglia.jpg",
-     "photo_source": "Wikimedia Commons (file name unverified; official portrait also on myfloridacfo.com and flsenate.gov)",
+     "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
      "website": "https://blaiseforflorida.com/",
      "occupation": "Florida Chief Financial Officer (appointed); homebuilder",
      "residence": "Spring Hill, Hernando County",
@@ -8905,7 +8912,8 @@ window.GUIDE_DATA = {
         }
        ]
       }
-     ]
+     ],
+     "photo_local": "assets/photos/blaise_ingoglia.jpg"
     },
     {
      "id": "annette_taddeo",
@@ -8913,7 +8921,7 @@ window.GUIDE_DATA = {
      "party": "Democratic",
      "incumbent": false,
      "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Annette%20Taddeo.jpg",
-     "photo_source": "Wikimedia Commons (file name unverified)",
+     "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
      "website": "https://annettetaddeo.com/",
      "occupation": "Businesswoman; former state senator",
      "residence": "Miami, Miami-Dade County",
@@ -9285,7 +9293,8 @@ window.GUIDE_DATA = {
         }
        ]
       }
-     ]
+     ],
+     "photo_local": "assets/photos/annette_taddeo.jpg"
     }
    ]
   },
@@ -9315,7 +9324,7 @@ window.GUIDE_DATA = {
      "party": "Republican",
      "incumbent": true,
      "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wilton%20Simpson.jpg",
-     "photo_source": "Wikimedia Commons (file name unverified; official portrait on fdacs.gov)",
+     "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
      "website": "https://wiltonsimpson.com/",
      "occupation": "Florida Commissioner of Agriculture and Consumer Services; farmer/businessman",
      "residence": "Trilby, Pasco County (unverified)",
@@ -9791,7 +9800,8 @@ window.GUIDE_DATA = {
         }
        ]
       }
-     ]
+     ],
+     "photo_local": "assets/photos/wilton_simpson.jpg"
     },
     {
      "id": "joey_atkins",
@@ -9799,7 +9809,7 @@ window.GUIDE_DATA = {
      "party": "Democratic",
      "incumbent": false,
      "photo_url": null,
-     "photo_source": "No public portrait URL located; campaign Instagram is @joeyforflorida (https://www.instagram.com/joeyforflorida/)",
+     "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
      "website": "https://www.joeyforflorida.com/",
      "occupation": "Attorney and sports agent",
      "residence": "Miami, Miami-Dade County",
@@ -10038,7 +10048,8 @@ window.GUIDE_DATA = {
       }
      ],
      "record": [],
-     "endorsements": []
+     "endorsements": [],
+     "photo_local": "assets/photos/joey_atkins.png"
     }
    ]
   },
@@ -10214,14 +10225,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -10632,14 +10643,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -10962,14 +10973,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -11380,14 +11391,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",

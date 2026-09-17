@@ -44,8 +44,11 @@
 
   function avatar(c, size = '') {
     const cls = `avatar ${size}`.trim();
-    if (c.photo_url) {
-      return `<span class="${cls}" data-initials="${esc(initials(c.name))}"><img src="${esc(c.photo_url)}" alt="Photo of ${esc(c.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.textContent=this.parentNode.dataset.initials"></span>`;
+    const local = c.photo_local, remote = c.photo_url;
+    if (local || remote) {
+      const src = local || remote;
+      const fb = local && remote ? ` data-fallback="${esc(remote)}"` : '';
+      return `<span class="${cls}" data-initials="${esc(initials(c.name))}"><img src="${esc(src)}"${fb} alt="Photo of ${esc(c.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="if(this.dataset.fallback){this.src=this.dataset.fallback;delete this.dataset.fallback;}else{this.parentNode.textContent=this.parentNode.dataset.initials}"></span>`;
     }
     return `<span class="${cls}" aria-hidden="true">${esc(initials(c.name))}</span>`;
   }
@@ -88,6 +91,117 @@
     return { pct: den ? Math.round(100 * num / den) : null, used, answered, agree, disagree };
   }
 
+
+  /* ---------- Landscape axes ---------- */
+  // Each axis is the mean of the candidate's coded stances on the listed statements, with the sign
+  // giving the direction that counts toward the positive end. Requires >= 3 documented statements.
+  const AXES = {
+    x: { label: 'Economic policy', neg: 'Larger public role', pos: 'Smaller government', parts: { taxes: 1, property_tax: 1, healthcare: -1, housing: -1, insurance: -1, energy: -1, social_security: -1 } },
+    y: { label: 'Social & legal policy', neg: 'Expand access / loosen', pos: 'Restrict / enforce', parts: { immigration: 1, abortion: -1, guns: -1, education_choice: 1, elections: -1, crime: 1, lgbtq: 1, marijuana: -1, environment: -1, trump: 1 } }
+  };
+  function axisValue(getStance, axis) {
+    let sum = 0, n = 0;
+    for (const [iid, sign] of Object.entries(AXES[axis].parts)) { const v = getStance(iid); if (v == null) continue; sum += sign * v; n++; }
+    return n >= 3 ? { v: sum / n, n } : null;
+  }
+  function candPoint(c) { const g = iid => (c.positions && c.positions[iid] && c.positions[iid].stance != null) ? c.positions[iid].stance : null; return { x: axisValue(g, 'x'), y: axisValue(g, 'y') }; }
+  function userPoint(answers) { const g = iid => (answers[iid] && answers[iid].value != null) ? answers[iid].value : null; return { x: axisValue(g, 'x'), y: axisValue(g, 'y') }; }
+
+  function landscapeMap(cands, opts = {}) {
+    const W = 720, H = 520, m = { l: 56, r: 24, t: 24, b: 56 };
+    const sx = v => m.l + ((v + 2) / 4) * (W - m.l - m.r), sy = v => m.t + ((2 - v) / 4) * (H - m.t - m.b);
+    const placed = [], tray = [];
+    cands.forEach(c => { const p = candPoint(c); if (p.x && p.y) placed.push({ c, p }); else tray.push(c); });
+    const r = 22;
+    const ticks = [-2, -1, 0, 1, 2];
+    const defs = placed.map(({ c }) => `<clipPath id="clip-${esc(c.id)}"><circle cx="0" cy="0" r="${r - 3}"/></clipPath>`).join('');
+    const bubbles = placed.map(({ c, p }) => {
+      const x = sx(p.x.v), y = sy(p.y.v);
+      const img = c.photo_local || c.photo_url;
+      const color = `var(--${partyClass(c.party).replace('party-', '').toLowerCase().replace('republican', 'rep').replace('democratic', 'dem').replace('libertarian', 'lib').replace('write-in', 'wri').replace('nonpartisan', 'npa')})`;
+      return `<g class="bubble" transform="translate(${x.toFixed(1)},${y.toFixed(1)})" data-id="${esc(c.id)}" tabindex="0" role="img" aria-label="${esc(c.name)}: ${AXES.x.label} ${p.x.v.toFixed(1)}, ${AXES.y.label} ${p.y.v.toFixed(1)}">
+        <g class="inner"><circle class="ring" r="${r + 2}"/>
+        <circle r="${r}" fill="${color}"/>
+        ${img ? `<image href="${esc(img)}" x="${-(r - 3)}" y="${-(r - 3)}" width="${2 * (r - 3)}" height="${2 * (r - 3)}" clip-path="url(#clip-${esc(c.id)})" preserveAspectRatio="xMidYMid slice"/>` : `<text text-anchor="middle" dy="5" fill="#fff" font-size="13" font-weight="700">${esc(initials(c.name))}</text>`}</g>
+        <text class="name" x="${r + 6}" dy="4">${esc(c.name.split(' ').slice(-1)[0])}</text>
+      </g>`;
+    }).join('');
+    let you = '';
+    if (opts.you && opts.you.x && opts.you.y) {
+      const x = sx(opts.you.x.v), y = sy(opts.you.y.v);
+      you = `<g class="bubble" transform="translate(${x.toFixed(1)},${y.toFixed(1)})" data-id="__you" tabindex="0" aria-label="You"><path class="you" d="M0,-16 L4.7,-4.9 L16.9,-4.9 L7.1,2.2 L10.6,13.4 L0,6.4 L-10.6,13.4 L-7.1,2.2 L-16.9,-4.9 L-4.7,-4.9 Z"/><text class="name" x="20" dy="4">You</text></g>`;
+    }
+    return `<div class="map-wrap"><svg class="map-svg" viewBox="0 0 ${W} ${H}" role="img" aria-label="Candidates plotted by economic and social policy positions">
+      <defs>${defs}</defs>
+      ${ticks.map(t => `<line class="grid" x1="${sx(t)}" x2="${sx(t)}" y1="${m.t}" y2="${H - m.b}"/><line class="grid" y1="${sy(t)}" y2="${sy(t)}" x1="${m.l}" x2="${W - m.r}"/>`).join('')}
+      <line x1="${sx(0)}" x2="${sx(0)}" y1="${m.t}" y2="${H - m.b}" stroke="var(--text-muted)" stroke-width="1.5" opacity=".6"/>
+      <line y1="${sy(0)}" y2="${sy(0)}" x1="${m.l}" x2="${W - m.r}" stroke="var(--text-muted)" stroke-width="1.5" opacity=".6"/>
+      <text class="axis-label" x="${(m.l + W - m.r) / 2}" y="${H - 10}" text-anchor="middle">${esc(AXES.x.label)}</text>
+      <text class="axis-end" x="${m.l}" y="${H - 28}">← ${esc(AXES.x.neg)}</text>
+      <text class="axis-end" x="${W - m.r}" y="${H - 28}" text-anchor="end">${esc(AXES.x.pos)} →</text>
+      <text class="axis-label" transform="translate(16,${(m.t + H - m.b) / 2}) rotate(-90)" text-anchor="middle">${esc(AXES.y.label)}</text>
+      <text class="axis-end" transform="translate(34,${m.t + 4}) rotate(-90)" text-anchor="end">${esc(AXES.y.pos)} ↑</text>
+      <text class="axis-end" transform="translate(34,${H - m.b}) rotate(-90)">↓ ${esc(AXES.y.neg)}</text>
+      ${bubbles}${you}
+    </svg><div class="map-tip" role="tooltip"></div></div>
+    ${tray.length ? `<div class="map-tray">Not enough documented positions to place: ${tray.map(c => `<a class="cand-chip" href="#/candidate/${esc(c.id)}">${avatar(c, 'sm')}${esc(c.name)}</a>`).join('')}</div>` : ''}
+    <details style="margin-top:10px"><summary>How the axes are computed</summary><p class="muted" style="margin-top:8px">Each axis is the average of a candidate's coded stances (+2 to −2) on a fixed set of statements, so it comes straight from the documented positions and nothing else. A candidate needs at least three documented statements on an axis to be placed.</p>
+      <p><strong>${esc(AXES.x.label)}</strong> (toward "${esc(AXES.x.pos)}"): ${Object.entries(AXES.x.parts).map(([k, v]) => `${esc(ISSUE_BY_ID[k] ? ISSUE_BY_ID[k].label : k)} (${v > 0 ? 'agree' : 'disagree'})`).join(', ')}.</p>
+      <p><strong>${esc(AXES.y.label)}</strong> (toward "${esc(AXES.y.pos)}"): ${Object.entries(AXES.y.parts).map(([k, v]) => `${esc(ISSUE_BY_ID[k] ? ISSUE_BY_ID[k].label : k)} (${v > 0 ? 'agree' : 'disagree'})`).join(', ')}.</p>
+      <div class="table-wrap"><table><thead><tr><th>Candidate</th><th>${esc(AXES.x.label)}</th><th>${esc(AXES.y.label)}</th></tr></thead><tbody>${cands.map(c => { const p = candPoint(c); return `<tr><td>${esc(c.name)}</td><td>${p.x ? `${p.x.v.toFixed(2)} (${p.x.n} statements)` : 'not enough data'}</td><td>${p.y ? `${p.y.v.toFixed(2)} (${p.y.n} statements)` : 'not enough data'}</td></tr>`; }).join('')}${opts.you && opts.you.x && opts.you.y ? `<tr><td><strong>You</strong></td><td>${opts.you.x.v.toFixed(2)}</td><td>${opts.you.y.v.toFixed(2)}</td></tr>` : ''}</tbody></table></div></details>`;
+  }
+  function bindMap(root) {
+    root.querySelectorAll('.map-wrap').forEach(wrap => {
+      const tip = wrap.querySelector('.map-tip');
+      const show = (g, ev) => {
+        const id = g.dataset.id;
+        if (id === '__you') { tip.innerHTML = '<strong>You</strong><br><span class="muted">Placed from your answers.</span>'; }
+        else { const c = CAND_BY_ID[id]; const p = candPoint(c); const r = RACE_BY_ID[c.race_id]; tip.innerHTML = `<strong>${esc(c.name)}</strong> <span class="muted">(${esc(partyShort(c.party))})</span><br><span class="muted">${esc(r.title)}</span><br>${esc(AXES.x.label)}: ${p.x.v.toFixed(1)} · ${esc(AXES.y.label)}: ${p.y.v.toFixed(1)}<br><span class="muted">${p.x.n + p.y.n} documented statements used. Click for profile.</span>`; }
+        tip.style.display = 'block';
+        const b = wrap.getBoundingClientRect();
+        const px = (ev && ev.clientX ? ev.clientX - b.left : b.width / 2), py = (ev && ev.clientY ? ev.clientY - b.top : b.height / 2);
+        tip.style.left = Math.min(px + 14, b.width - 270) + 'px'; tip.style.top = (py + 14) + 'px';
+      };
+      wrap.querySelectorAll('.bubble').forEach(g => {
+        g.addEventListener('mousemove', ev => show(g, ev));
+        g.addEventListener('focus', ev => show(g, ev));
+        g.addEventListener('mouseleave', () => { tip.style.display = 'none'; });
+        g.addEventListener('blur', () => { tip.style.display = 'none'; });
+        g.addEventListener('click', () => { if (g.dataset.id !== '__you') location.hash = '#/candidate/' + g.dataset.id; });
+      });
+    });
+  }
+
+  /* ---------- Heat strip: where the candidates split ---------- */
+  function heatStrip(r, cands, issues) {
+    const cells = issues.map(issue => {
+      const vals = cands.filter(c => !c.withdrawn).map(c => (c.positions || {})[issue.id]).filter(p => p && p.stance != null).map(p => p.stance);
+      const spread = vals.length >= 2 ? Math.max(...vals) - Math.min(...vals) : null;
+      const cls = spread == null ? 'hx' : spread === 0 ? 'h0' : 'h' + spread;
+      const text = spread == null ? `${esc(issue.label)}: not enough documented positions to compare (${vals.length} candidate${vals.length === 1 ? '' : 's'} with a position).` : spread === 0 ? `${esc(issue.label)}: the candidates with documented positions agree.` : `${esc(issue.label)}: candidates differ by ${spread} step${spread > 1 ? 's' : ''} on the 5-point scale.`;
+      return `<button type="button" class="${cls}" data-issue="${esc(issue.id)}" data-text="${text}" aria-label="${text}"></button>`;
+    }).join('');
+    return `<div class="heat-legend"><span><i style="background:color-mix(in srgb, var(--success) 16%, var(--surface))"></i>Agree</span><span><i style="background:color-mix(in srgb, var(--accent) 18%, var(--surface))"></i>Differ a little</span><span><i style="background:var(--accent)"></i>Differ strongly</span><span><i style="background:repeating-linear-gradient(45deg, var(--surface-2) 0 3px, var(--surface) 3px 6px)"></i>Not enough data</span><span class="muted">· hover for details, click to jump to the row</span></div>
+      <div class="heat" role="group" aria-label="Where the candidates split, by issue">${cells}</div>
+      <div class="heat-labels">${issues.map(i => `<span title="${esc(i.label)}">${esc(i.label)}</span>`).join('')}</div>
+      <div class="heat-tip muted" aria-live="polite">Where the candidates in this race split, issue by issue.</div>`;
+  }
+  function bindHeat(root) {
+    const tip = root.querySelector('.heat-tip'); if (!tip) return;
+    root.querySelectorAll('.heat button').forEach(b => {
+      const showT = () => { tip.textContent = b.dataset.text; };
+      b.addEventListener('mouseenter', showT); b.addEventListener('focus', showT);
+      b.addEventListener('click', () => { const row = root.querySelector(`tr[data-issue="${b.dataset.issue}"]`); if (row) { root.querySelectorAll('tr.highlight').forEach(x => x.classList.remove('highlight')); row.classList.add('highlight'); row.scrollIntoView({ behavior: 'smooth', block: 'center' }); } });
+    });
+  }
+
+  /* ---------- Countdown ---------- */
+  function countdown() {
+    const items = [['Election Day', '2026-11-03', 'Tue, Nov 3'], ['Registration deadline', '2026-10-05', 'Mon, Oct 5'], ['Mail-ballot request deadline', '2026-10-22', 'Thu, Oct 22'], ['Early voting begins', '2026-10-24', 'Sat, Oct 24 (confirm)']];
+    const today = new Date(); today.setHours(0, 0, 0, 0);
+    return `<div class="countdown">${items.map(([label, iso, pretty]) => { const d = Math.round((new Date(iso + 'T00:00:00') - today) / 86400000); const num = d > 0 ? d : d === 0 ? 'Today' : 'Passed'; return `<div class="cd-tile"><div class="cd-num">${esc(String(num))}</div><div class="cd-label">${d > 0 ? 'days until ' : ''}${esc(label)}</div><div class="cd-date">${esc(pretty)}</div></div>`; }).join('')}</div>`;
+  }
+
   /* ---------- views ---------- */
   function viewHome() {
     const vi = (DATA.voting_info || {}).short || {};
@@ -106,7 +220,7 @@
           <a class="btn" href="#/vote">How &amp; where to vote</a>
         </div>
       </section>
-      ${dates.length ? `<section class="section"><div class="dates-grid">${dates.map(d => `<div class="date-tile"><div class="muted">${esc(d[0])}</div><div class="d">${esc(d[1])}</div></div>`).join('')}</div></section>` : ''}
+      <section class="section">${countdown()}</section>
       <section class="section">
         <div class="section-head"><h2>Races on the Sumter County ballot</h2><a href="#/races">See all →</a></div>
         <div class="grid grid-2">${RACES.map(raceCard).join('')}</div>
@@ -168,16 +282,18 @@
       <section class="section"><h2>Candidates</h2>${cands.some(c => c.withdrawn) ? '<p class="notice notice-warn">A candidate marked "Withdrew" ended their campaign after qualifying. Their name may still be printed on the ballot; votes for a withdrawn candidate are not counted. They are excluded from match results.</p>' : ''}<div class="stack">${cands.map(c => candidateCard(c)).join('')}</div></section>
       <section class="section">
         <div class="section-head"><h2>Side-by-side on the major issues</h2></div>
-        <div class="legend"><span class="stance stance-2">Strongly agrees</span><span class="stance stance-1">Leans agree</span><span class="stance stance-0">Mixed / neutral</span><span class="stance stance--1">Leans disagree</span><span class="stance stance--2">Strongly disagrees</span><span class="stance stance-null">No public position found</span></div>
+        ${heatStrip(r, cands, issues)}
+        <div class="legend" style="margin-top:14px"><span class="stance stance-2">Strongly agrees</span><span class="stance stance-1">Leans agree</span><span class="stance stance-0">Mixed / neutral</span><span class="stance stance--1">Leans disagree</span><span class="stance stance--2">Strongly disagrees</span><span class="stance stance-null">No public position found</span></div>
         <p class="muted">Each row is a statement. The chips show how each candidate's stated positions or record relate to that statement. Expand a row to read the evidence and sources. "No public position found" means we could not find a statement or record on the topic, not that the candidate has none.</p>
         <div class="table-wrap"><table class="compare">
           <thead><tr><th>Issue</th>${cands.map(c => `<th class="cand-col"><a href="#/candidate/${esc(c.id)}">${esc(c.name)}</a><br>${partyTag(c)}</th>`).join('')}</tr></thead>
-          <tbody>${issues.map(issue => `<tr>
+          <tbody>${issues.map(issue => `<tr data-issue="${esc(issue.id)}">
             <td class="issue-cell">${esc(issue.label)}<small>${esc(issue.statement)}</small></td>
             ${cands.map(c => { const p = (c.positions || {})[issue.id]; return `<td>${stanceChip(p)}${p && p.summary && p.stance != null ? `<div class="cell-summary">${esc(p.summary)}${sourcesHtml(p.sources)}</div>` : ''}</td>`; }).join('')}
           </tr>`).join('')}</tbody>
         </table></div>
       </section>
+      <section class="section"><div class="section-head"><h2>Where they sit on the map</h2></div><p class="muted">Each candidate is placed by the average of their documented stances. It is a summary of the table above, not an extra judgment.</p><div class="card">${landscapeMap(cands)}</div></section>
       <section class="section"><h2>Other issues the candidates have raised</h2>
         <p class="muted">Priorities each candidate has brought up on their own, beyond the major-issue list above.</p>
         <div class="grid grid-2">${cands.map(c => `<div class="card"><h3><a href="#/candidate/${esc(c.id)}">${esc(c.name)}</a></h3>${otherIssuesHtml(c, true)}</div>`).join('')}</div>
@@ -249,8 +365,9 @@
       <div class="btn-row"><a class="btn btn-primary" href="#/match">See how you match with ${esc(c.name.split(' ')[0])} →</a><a class="btn" href="#/race/${esc(r.id)}">Back to race</a></div>`;
   }
 
-  /* ---------- Match quiz ---------- */
+  /* ---------- Match quiz (swipe cards + live leaderboard) ---------- */
   let quizIndex = 0;
+  let lbRace = null;
   function viewMatch() {
     const answers = loadAnswers();
     const total = ISSUES.length;
@@ -258,36 +375,81 @@
     const i = Math.min(quizIndex, total - 1);
     const issue = ISSUES[i];
     const a = answers[issue.id] || {};
-    const applies = (issue.levels || []).map(l => ({ federal: 'federal races', state: 'state races', county: 'county races' }[l])).join(', ');
+    const applies = (issue.levels || []).map(l => ({ federal: 'federal', state: 'state', county: 'county' }[l])).join(', ');
     return `<h1>Match me to the candidates</h1>
-      <p class="lead muted">Rate ${total} statements. Your answers are compared with each candidate's documented positions on the issues that apply to their office. Answers stay in your browser only. Skip anything you do not care about.</p>
+      <p class="lead muted">Swipe right to agree, left to disagree (or use the buttons). The leaderboard updates after every answer. Answers stay in your browser only.</p>
       <div class="quiz-progress" aria-hidden="true"><span style="width:${Math.round(100 * answered / total)}%"></span></div>
-      <div class="card q-card">
-        <div class="eyebrow">${i + 1} of ${total} · ${esc(issue.label)} <span class="muted">(used for ${esc(applies)})</span></div>
-        <div class="q-statement">"${esc(issue.statement)}"</div>
-        <div class="scale" role="group" aria-label="Your answer">${USER_SCALE.map(s => `<button type="button" data-answer="${s.v}" class="${a.value === s.v ? 'selected' : ''}">${esc(s.label)}</button>`).join('')}</div>
-        <div class="importance"><span class="muted">How much does this matter to you?</span>
-          <span class="toggle"><button type="button" data-imp="0" class="${!a.important ? 'selected' : ''}">Normal</button><button type="button" data-imp="1" class="${a.important ? 'selected' : ''}">A lot (double weight)</button></span>
-          <button type="button" class="btn btn-sm" data-skip="1">Skip this one</button>
+      <div class="quiz-layout">
+        <div>
+          <div class="swipe-stage">
+            ${i < total - 1 ? '<div class="stack-peek" aria-hidden="true"></div>' : ''}
+            <div class="swipe-card" id="swipe-card" tabindex="0" aria-label="Statement ${i + 1} of ${total}">
+              <div class="swipe-stamp stamp-agree">Agree</div><div class="swipe-stamp stamp-disagree">Disagree</div>
+              <div class="eyebrow">${i + 1} of ${total} · ${esc(issue.label)} <span class="muted">· ${esc(applies)} races</span></div>
+              <div class="q-statement">"${esc(issue.statement)}"</div>
+              <div class="importance"><span class="muted">Matters a lot to me?</span>
+                <span class="toggle"><button type="button" data-imp="0" class="${!a.important ? 'selected' : ''}">Normal</button><button type="button" data-imp="1" class="${a.important ? 'selected' : ''}">Double weight</button></span>
+              </div>
+            </div>
+          </div>
+          <div class="swipe-buttons" role="group" aria-label="Your answer">${USER_SCALE.slice().reverse().map(s => `<button type="button" data-answer="${s.v}" class="${a.value === s.v ? 'selected' : ''}">${esc(s.label)}</button>`).join('')}</div>
+          <div class="swipe-hint">Drag the card, press ← / → (hold Shift for "strongly"), or tap a button. Space or ↓ skips.</div>
+          <div class="q-nav">
+            <button type="button" class="btn" data-prev="1" ${i === 0 ? 'disabled' : ''}>← Back</button>
+            <div><button type="button" class="btn btn-sm" data-skip="1">Skip</button> <a class="btn btn-primary" href="#/match/results">See full results (${answered})</a></div>
+          </div>
+          <p class="muted" style="margin-top:12px"><button type="button" class="btn btn-sm" data-reset="1">Clear my answers</button></p>
         </div>
-        <div class="q-nav">
-          <button type="button" class="btn" data-prev="1" ${i === 0 ? 'disabled' : ''}>← Back</button>
-          <div><a class="btn" href="#/match/results">See results (${answered} answered)</a> <button type="button" class="btn btn-primary" data-next="1">${i === total - 1 ? 'Finish →' : 'Next →'}</button></div>
-        </div>
-      </div>
-      <p class="muted" style="margin-top:12px"><button type="button" class="btn btn-sm" data-reset="1">Clear my answers</button></p>`;
+        <aside class="leaderboard card" aria-live="polite">
+          <div class="eyebrow">Live leaderboard</div>
+          <select class="lb-race" data-lbrace aria-label="Race to show">${RACES.map(r => `<option value="${esc(r.id)}" ${(lbRace || RACES[0].id) === r.id ? 'selected' : ''}>${esc(r.title)}</option>`).join('')}</select>
+          <div data-lbrows>${leaderboardRows(lbRace || RACES[0].id, answers)}</div>
+          <p class="lb-sub" style="margin-top:10px">Scores use only issues that apply to this office and that the candidate has a documented position on. "—" means fewer than three scorable issues so far.</p>
+        </aside>
+      </div>`;
+  }
+  let lbPrevOrder = {};
+  function leaderboardRows(raceId, answers) {
+    const r = RACE_BY_ID[raceId];
+    const scored = (r.candidates || []).filter(c => !c.withdrawn).map(c => Object.assign({ cand: c }, scoreCandidate(c, r, answers))).sort((a, b) => (b.pct == null || b.used < 3 ? -1 : b.pct) - (a.pct == null || a.used < 3 ? -1 : a.pct));
+    const prev = lbPrevOrder[raceId] || [];
+    lbPrevOrder[raceId] = scored.map(s => s.cand.id);
+    return scored.map((sc, idx) => {
+      const pi = prev.indexOf(sc.cand.id);
+      const mv = pi === -1 || pi === idx ? '' : pi > idx ? '<span class="lb-move up">▲</span>' : '<span class="lb-move down">▼</span>';
+      const ok = sc.pct != null && sc.used >= 3;
+      return `<div class="lb-row">${avatar(sc.cand)}<div><div class="lb-name">${esc(sc.cand.name)} <small class="muted">${esc(partyShort(sc.cand.party))}</small>${mv}</div><div class="lb-bar"><span style="width:${ok ? sc.pct : 0}%"></span></div><div class="lb-sub">${sc.used} of ${sc.answered} answered issues scorable</div></div><div class="lb-pct">${ok ? sc.pct + '%' : '—'}</div></div>`;
+    }).join('');
   }
   function bindMatch(root) {
     const answers = loadAnswers();
     const issue = ISSUES[Math.min(quizIndex, ISSUES.length - 1)];
+    const card = root.querySelector('#swipe-card');
     const set = (patch) => { answers[issue.id] = Object.assign({}, answers[issue.id] || {}, patch); saveAnswers(answers); };
-    root.querySelectorAll('[data-answer]').forEach(b => b.addEventListener('click', () => { set({ value: Number(b.dataset.answer) }); advance(); }));
-    root.querySelectorAll('[data-imp]').forEach(b => b.addEventListener('click', () => { set({ important: b.dataset.imp === '1' }); render(); }));
-    const skip = root.querySelector('[data-skip]'); if (skip) skip.addEventListener('click', () => { set({ value: null }); advance(); });
+    const refreshLb = () => { const rows = root.querySelector('[data-lbrows]'); if (rows) rows.innerHTML = leaderboardRows(lbRace || RACES[0].id, answers); const prog = root.querySelector('.quiz-progress span'); if (prog) prog.style.width = Math.round(100 * Object.values(answers).filter(a => a && a.value != null).length / ISSUES.length) + '%'; };
+    const answer = (v, dir) => {
+      set({ value: v });
+      refreshLb();
+      card.classList.add(dir === 'right' ? 'fly-right' : dir === 'left' ? 'fly-left' : 'fly-down');
+      setTimeout(advance, 260);
+    };
+    root.querySelectorAll('[data-answer]').forEach(b => b.addEventListener('click', () => { const v = Number(b.dataset.answer); answer(v, v > 0 ? 'right' : v < 0 ? 'left' : 'down'); }));
+    root.querySelectorAll('[data-imp]').forEach(b => b.addEventListener('click', () => { set({ important: b.dataset.imp === '1' }); root.querySelectorAll('[data-imp]').forEach(x => x.classList.toggle('selected', x === b)); refreshLb(); }));
+    const skip = root.querySelector('[data-skip]'); if (skip) skip.addEventListener('click', () => answer(null, 'down'));
     const prev = root.querySelector('[data-prev]'); if (prev) prev.addEventListener('click', () => { quizIndex = Math.max(0, quizIndex - 1); render(); });
-    const next = root.querySelector('[data-next]'); if (next) next.addEventListener('click', advance);
-    const reset = root.querySelector('[data-reset]'); if (reset) reset.addEventListener('click', () => { if (confirm('Clear all of your answers?')) { saveAnswers({}); quizIndex = 0; render(); } });
+    const reset = root.querySelector('[data-reset]'); if (reset) reset.addEventListener('click', () => { if (confirm('Clear all of your answers?')) { saveAnswers({}); lbPrevOrder = {}; quizIndex = 0; render(); } });
+    const sel = root.querySelector('[data-lbrace]'); if (sel) sel.addEventListener('change', () => { lbRace = sel.value; refreshLb(); });
     function advance() { if (quizIndex >= ISSUES.length - 1) { location.hash = '#/match/results'; } else { quizIndex++; render(); } }
+    // drag / swipe
+    let startX = 0, startY = 0, dx = 0, dragging = false;
+    const stampA = card.querySelector('.stamp-agree'), stampD = card.querySelector('.stamp-disagree');
+    const onMove = ev => { if (!dragging) return; const pt = ev.touches ? ev.touches[0] : ev; dx = pt.clientX - startX; const dy = pt.clientY - startY; if (Math.abs(dy) > Math.abs(dx) && Math.abs(dx) < 10) return; card.style.transform = `translateX(${dx}px) rotate(${dx / 20}deg)`; stampA.style.opacity = Math.min(1, Math.max(0, dx / 90)); stampD.style.opacity = Math.min(1, Math.max(0, -dx / 90)); };
+    const onEnd = () => { if (!dragging) return; dragging = false; card.classList.remove('dragging'); const strong = Math.abs(dx) > 200; if (dx > 80) { card.style.transform = ''; answer(strong ? 2 : 1, 'right'); } else if (dx < -80) { card.style.transform = ''; answer(strong ? -2 : -1, 'left'); } else { card.style.transform = ''; stampA.style.opacity = 0; stampD.style.opacity = 0; } dx = 0; };
+    const onStart = ev => { if (ev.target.closest('button')) return; const pt = ev.touches ? ev.touches[0] : ev; startX = pt.clientX; startY = pt.clientY; dragging = true; card.classList.add('dragging'); };
+    card.addEventListener('mousedown', onStart); window.addEventListener('mousemove', onMove); window.addEventListener('mouseup', onEnd);
+    card.addEventListener('touchstart', onStart, { passive: true }); card.addEventListener('touchmove', onMove, { passive: true }); card.addEventListener('touchend', onEnd);
+    card.focus({ preventScroll: true });
+    card.addEventListener('keydown', ev => { if (ev.key === 'ArrowRight') { ev.preventDefault(); answer(ev.shiftKey ? 2 : 1, 'right'); } else if (ev.key === 'ArrowLeft') { ev.preventDefault(); answer(ev.shiftKey ? -2 : -1, 'left'); } else if (ev.key === ' ' || ev.key === 'ArrowDown') { ev.preventDefault(); answer(null, 'down'); } else if (ev.key === '0') { answer(0, 'down'); } });
   }
 
   function viewResults() {
@@ -314,6 +476,10 @@
     return `<h1>Your matches</h1>
       <p class="lead muted">Higher percentages mean a candidate's documented positions are closer to your answers on the issues that apply to that office. Percentages are only as good as the public record: a candidate who has said little will match on fewer issues, and that is shown under each name. Read the full profiles before deciding.</p>
       <div class="btn-row"><a class="btn" href="#/match">Change my answers</a><button type="button" class="btn" data-print="1">Print or save as PDF</button></div>
+      <section class="section"><h2>You on the map</h2><p class="muted">Your star is placed from your answers using the same formula as the candidates. Use the buttons to show one race at a time.</p>
+        <div class="map-filters" data-mapfilter>${['all'].concat(RACES.map(r => r.id)).map(id => `<button type="button" data-race="${esc(id)}" class="${id === 'all' ? 'selected' : ''}">${esc(id === 'all' ? 'All races' : RACE_BY_ID[id].title)}</button>`).join('')}</div>
+        <div class="card" data-mapcard>${landscapeMap(CANDIDATES.filter(c => !c.withdrawn), { you: userPoint(answers) })}</div>
+      </section>
       <div class="stack section">${sections.join('')}</div>
       <p class="muted section">How the score works: for each statement you answered, the distance between your answer and the candidate's coded stance (both on a 5-point scale) is turned into agreement from 0% to 100%, then averaged with your "matters a lot" statements counting double. Only issues relevant to the office and with a documented candidate position are included. <a href="#/about">Full methodology →</a></p>`;
   }
@@ -399,6 +565,7 @@
         </ul></div>
         <div><h2>How positions are coded</h2><p>Each of the ${ISSUES.length} statements below is rated by voters on a five-point scale. Candidates are coded on the same scale (+2 strongly agrees through −2 strongly disagrees) from explicit statements ("stated") or from votes and official actions ("record"). When neither exists, the position is <strong>null / "No public position found"</strong>. Nothing is inferred from party label. Unknown positions are excluded from that candidate's match score and are listed openly on the profile, so a candidate with a thin public record shows a smaller evidence base rather than a fake score.</p>
         <ul>${ISSUES.map(i => `<li><strong>${esc(i.label)}:</strong> "${esc(i.statement)}" <small class="muted">(${(i.levels || []).join(', ')})</small></li>`).join('')}</ul></div>
+        <div><h2>The map and the heat strip</h2><p>The "landscape map" places each candidate by the average of their coded stances on two fixed groups of statements (economic and social/legal), listed under every map. It is a summary of the same documented positions, not a separate judgment, and a candidate with fewer than three documented statements on an axis is shown in a tray instead of being placed. The colored strip above each comparison table shows how far apart the candidates are on each issue, using a single color that darkens as the gap widens; hatched cells mean fewer than two candidates have a documented position.</p></div>
         <div><h2>How the match score works</h2><p>For each statement you answered, agreement = 1 − |your answer − candidate stance| ÷ 4. Scores are averaged over the statements that apply to that office and for which the candidate has a documented position, with statements you mark "matters a lot" counted twice. A candidate needs at least three scorable statements to receive a percentage. Answers are stored only in your browser.</p></div>
         <div><h2>Which offices use which issues</h2><p>Federal races (U.S. Senate, U.S. House) are scored on federal issues such as Social Security, tariffs and foreign aid. State races (Governor, Cabinet, Florida House) are scored on state issues such as property taxes, insurance and school choice. County races are scored on growth, property taxes, public safety, housing and the environment. Positions a candidate has stated on issues outside their office's scope are still shown on the profile, in a separate section.</p></div>
         <div><h2>Limitations</h2><ul>
@@ -419,9 +586,9 @@
     let html = '', nav = 'home', after = null;
     if (parts.length === 0) { html = viewHome(); }
     else if (parts[0] === 'races') { html = viewRaces(); nav = 'races'; }
-    else if (parts[0] === 'race' && parts[1]) { html = viewRace(decodeURIComponent(parts[1])); nav = 'races'; }
+    else if (parts[0] === 'race' && parts[1]) { html = viewRace(decodeURIComponent(parts[1])); nav = 'races'; after = r => { bindHeat(r); bindMap(r); }; }
     else if (parts[0] === 'candidate' && parts[1]) { html = viewCandidate(decodeURIComponent(parts[1])); nav = 'races'; }
-    else if (parts[0] === 'match' && parts[1] === 'results') { html = viewResults(); nav = 'match'; after = r => { const p = r.querySelector('[data-print]'); if (p) p.addEventListener('click', () => window.print()); }; }
+    else if (parts[0] === 'match' && parts[1] === 'results') { html = viewResults(); nav = 'match'; after = r => { const p = r.querySelector('[data-print]'); if (p) p.addEventListener('click', () => window.print()); bindMap(r); const f = r.querySelector('[data-mapfilter]'); if (f) f.querySelectorAll('button').forEach(b => b.addEventListener('click', () => { f.querySelectorAll('button').forEach(x => x.classList.toggle('selected', x === b)); const id = b.dataset.race; const cands = (id === 'all' ? CANDIDATES : (RACE_BY_ID[id].candidates || [])).filter(c => !c.withdrawn); r.querySelector('[data-mapcard]').innerHTML = landscapeMap(cands, { you: userPoint(loadAnswers()) }); bindMap(r); })); }; }
     else if (parts[0] === 'match') { html = viewMatch(); nav = 'match'; after = bindMatch; }
     else if (parts[0] === 'amendments') { html = viewAmendments(); nav = 'amendments'; }
     else if (parts[0] === 'judges') { html = viewJudges(); nav = 'judges'; }
