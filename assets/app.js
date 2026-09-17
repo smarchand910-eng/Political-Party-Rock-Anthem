@@ -184,12 +184,18 @@
       </section>`;
   }
 
+  function coverage(c) {
+    const r = RACE_BY_ID[c.race_id]; if (!r) return '';
+    const rel = issuesForLevel(r.level);
+    const known = rel.filter(i => c.positions && c.positions[i.id] && c.positions[i.id].stance != null).length;
+    return `<span class="tag" title="Number of major issues relevant to this office on which a sourced position was found">Positions documented: ${known} of ${rel.length}</span>`;
+  }
   function candidateCard(c) {
     return `<div class="card cand-card">
       <a href="#/candidate/${esc(c.id)}" aria-label="${esc(c.name)} profile">${avatar(c, 'lg')}</a>
       <div>
         <h3><a href="#/candidate/${esc(c.id)}">${esc(c.name)}</a>${c.running_mate ? ` <small class="muted">with ${esc(c.running_mate)}</small>` : ''}</h3>
-        <div class="cand-meta">${partyTag(c)}${c.incumbent ? '<span class="tag badge-incumbent">Incumbent</span>' : ''}${c.withdrawn ? `<span class="tag" style="color:var(--danger)">Withdrew ${esc(c.withdrawn === true ? '' : c.withdrawn)}</span>` : ''}${c.occupation ? `<span class="muted">${esc(c.occupation)}</span>` : ''}</div>
+        <div class="cand-meta">${partyTag(c)}${c.incumbent ? '<span class="tag badge-incumbent">Incumbent</span>' : ''}${c.withdrawn ? `<span class="tag" style="color:var(--danger)">Withdrew ${esc(c.withdrawn === true ? '' : c.withdrawn)}</span>` : ''}${coverage(c)}${c.occupation ? `<span class="muted">${esc(c.occupation)}</span>` : ''}</div>
         <p>${esc(truncate(c.background || '', 320))}</p>
         <div class="btn-row" style="margin-top:8px"><a class="btn btn-sm" href="#/candidate/${esc(c.id)}">Full profile</a>${c.website ? `<a class="btn btn-sm" href="${esc(c.website)}" target="_blank" rel="noopener">Campaign site ↗</a>` : ''}</div>
       </div>
