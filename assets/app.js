@@ -596,8 +596,10 @@
   /* ---------- All Florida counties (official line-ups from the Division of Elections) ---------- */
   const SW = window.STATEWIDE_DATA || null;
   const COUNTY_KEY = 'flguide.county';
-  function loadCounty() { try { return localStorage.getItem(COUNTY_KEY) || ''; } catch (e) { return ''; } }
-  function saveCounty(c) { try { localStorage.setItem(COUNTY_KEY, c); } catch (e) { /* ignore */ } }
+  // The county choice is never persisted: it resets on every page load, and any value saved by an earlier version is removed.
+  try { localStorage.removeItem(COUNTY_KEY); } catch (e) { /* ignore */ }
+  function loadCounty() { return ''; }
+  function saveCounty() { /* intentionally not stored */ }
   function countyList() { return SW ? Object.values(SW.counties).sort((a, b) => a.name.localeCompare(b.name)) : []; }
   function countyPicker(selected) {
     if (!SW) return '';
