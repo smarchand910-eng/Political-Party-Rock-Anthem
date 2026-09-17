@@ -2,6 +2,8 @@
 
 A nonpartisan, source-cited voter guide for the races and ballot questions a **Sumter County, Florida** voter will see in the 2026 general election, with a questionnaire that matches your views to each candidate's documented positions.
 
+**Covers all 67 Florida counties** at the ballot-line-up level (official candidate lists for Congress, the Legislature, judges and county offices, plus each Supervisor of Elections) and Sumter County in depth (researched positions, match tool, referendums, voting logistics).
+
 **No build step, no framework, no server required.** Open `index.html` in a browser, or host the folder on GitHub Pages / Netlify / any static host.
 
 ## What it does
@@ -15,6 +17,16 @@ A nonpartisan, source-cited voter guide for the races and ballot questions a **S
 - **Photos**: portraits in `assets/photos/<candidate_id>.jpg` are used first, then the remote `photo_url`, then initials. Drop a file named after the candidate id (see `data/research/*.json`) to add or replace one, or list `<id> <image-url>` pairs in `data/photo_urls.txt` and run `python3 scripts/fetch_photos.py` from a normal internet connection.
 - **Neutrality rules** enforced in the data: positions are described in the candidate's own words, loaded labels are not used, and if a candidate has not taken a public position the guide says **"No public position found"** instead of guessing from party. Unknown positions are excluded from match scores.
 
+## All-county coverage
+
+Pick any county from the home page or `#/counties`. Each county page (`#/county/<code>`, e.g. `#/county/LAK`) shows:
+
+- the congressional, Florida Senate and Florida House districts that cover the county (with "part of the county" flagged) and which Senate seats are up in 2026;
+- the official candidate line-up for every such district, for circuit-judge contests in the county's judicial circuit, for the District Court of Appeal retention questions the county votes on, and for county offices (commission, school board, county judge, constitutional officers), with special districts collapsed;
+- the county's Supervisor of Elections contact and website (for sample ballots, early voting and mail ballots).
+
+Sources are official and rebuilt by `python3 scripts/build_statewide.py` from `data/statewide/`: the Division of Elections candidate extract (contact fields stripped), the Census county-to-congressional-district file, the Legislature's district-by-county listings, the judicial-circuit and appellate-district statutes, and the Division of Elections supervisor directory. Candidate **positions** are researched only for the races on the Sumter County ballot; other counties get line-ups, not profiles. City elections and local referendums are not in the state list, so county pages point to the county sample ballot for those.
+
 ## Project layout
 
 ```
@@ -26,7 +38,10 @@ data/races.json       Race metadata (what the office does, term, level)
 data/research/*.json  One file per race with candidates, positions, sources (editable)
 data/research/supplements.json  Editor-coded positions from documented votes that fill gaps
 data/guide.js         GENERATED — the merged dataset the site loads
+data/statewide/*.json Official statewide inputs (candidate extract, district maps, judicial geography, supervisors)
+data/statewide.js     GENERATED — per-county districts and candidate line-ups for all 67 counties
 scripts/build_data.py Merges data/*.json into data/guide.js and validates it
+scripts/build_statewide.py Builds data/statewide.js from data/statewide/
 docs/RESEARCH_BRIEF.md The research brief and JSON schema used to collect the data
 ```
 

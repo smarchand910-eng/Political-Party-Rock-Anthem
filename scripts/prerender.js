@@ -26,6 +26,11 @@ const routes = [
   { hash: '#/vote', out: 'how-to-vote', title: 'How and where to vote in Sumter County, Florida', desc: 'Registration deadline, mail ballot deadlines, early voting sites and hours, ID rules and Election Day details for Sumter County.' },
   { hash: '#/about', out: 'methodology', title: 'Methodology and neutrality rules — Sumter County Voter Guide', desc: 'How candidate positions are sourced and coded, why some are marked unknown, and how the match score works.' },
 ];
+routes.push({ hash: '#/counties', out: 'counties', title: 'Florida 2026 ballot by county — all 67 counties', desc: 'Pick your Florida county to see the official candidate line-up for every federal, state, judicial and county contest on the November 3, 2026 ballot, plus your Supervisor of Elections.' });
+const SW = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'data', 'statewide.js'), 'utf8').replace(/^window\.STATEWIDE_DATA = /, '').replace(/;\s*$/, ''));
+for (const c of Object.values(SW.counties)) {
+  routes.push({ hash: `#/county/${c.code}`, out: `counties/${slug(c.name + ' county')}`, title: `${c.name} County, Florida ballot — November 3, 2026`, desc: `Who is on the ${c.name} County ballot: U.S. House ${c.congressional.map(d => d.district).join(', ')}, Florida Senate ${c.senate.map(d => d.district).join(', ')}, Florida House ${c.house.map(d => d.district).join(', ')}, judges, county offices and the Supervisor of Elections, from the official candidate list.` });
+}
 for (const r of data.races) {
   routes.push({ hash: `#/race/${r.id}`, out: `races/${slug(r.title)}`, title: `${r.title} — Sumter County 2026 candidates compared`, desc: `Candidates for ${r.title} on the November 3, 2026 Sumter County ballot: ${r.candidates.map(c => `${c.name} (${c.party})`).join(', ')}. Positions on the major issues, side by side, with sources.` });
   for (const c of r.candidates) {
@@ -41,6 +46,7 @@ function copyDir(src, dest) { fs.mkdirSync(dest, { recursive: true }); for (cons
   copyDir(path.join(ROOT, 'assets'), path.join(DIST, 'assets'));
   fs.mkdirSync(path.join(DIST, 'data'), { recursive: true });
   fs.copyFileSync(path.join(ROOT, 'data', 'guide.js'), path.join(DIST, 'data', 'guide.js'));
+  fs.copyFileSync(path.join(ROOT, 'data', 'statewide.js'), path.join(DIST, 'data', 'statewide.js'));
   if (fs.existsSync(path.join(ROOT, 'CNAME'))) fs.copyFileSync(path.join(ROOT, 'CNAME'), path.join(DIST, 'CNAME'));
   fs.writeFileSync(path.join(DIST, '.nojekyll'), '');
 

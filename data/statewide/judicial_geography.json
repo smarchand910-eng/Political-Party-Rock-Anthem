@@ -1,0 +1,146 @@
+{
+ "_source": "Judicial circuits: s. 26.021, Fla. Stat. Appellate districts: ss. 35.02-35.044, Fla. Stat. (as amended by ch. 2022-163, effective Jan. 1, 2023). Fetched from leg.state.fl.us 2026-09-17.",
+ "circuit_counties": {
+  "1": [
+   "Escambia",
+   "Okaloosa",
+   "Santa Rosa",
+   "Walton"
+  ],
+  "2": [
+   "Franklin",
+   "Gadsden",
+   "Jefferson",
+   "Leon",
+   "Liberty",
+   "Wakulla"
+  ],
+  "3": [
+   "Columbia",
+   "Dixie",
+   "Hamilton",
+   "Lafayette",
+   "Madison",
+   "Suwannee",
+   "Taylor"
+  ],
+  "4": [
+   "Clay",
+   "Duval",
+   "Nassau"
+  ],
+  "5": [
+   "Citrus",
+   "Hernando",
+   "Lake",
+   "Marion",
+   "Sumter"
+  ],
+  "6": [
+   "Pasco",
+   "Pinellas"
+  ],
+  "7": [
+   "Flagler",
+   "Putnam",
+   "St. Johns",
+   "Volusia"
+  ],
+  "8": [
+   "Alachua",
+   "Baker",
+   "Bradford",
+   "Gilchrist",
+   "Levy",
+   "Union"
+  ],
+  "9": [
+   "Orange",
+   "Osceola"
+  ],
+  "10": [
+   "Hardee",
+   "Highlands",
+   "Polk"
+  ],
+  "11": [
+   "Miami-Dade"
+  ],
+  "12": [
+   "DeSoto",
+   "Manatee",
+   "Sarasota"
+  ],
+  "13": [
+   "Hillsborough"
+  ],
+  "14": [
+   "Bay",
+   "Calhoun",
+   "Gulf",
+   "Holmes",
+   "Jackson",
+   "Washington"
+  ],
+  "15": [
+   "Palm Beach"
+  ],
+  "16": [
+   "Monroe"
+  ],
+  "17": [
+   "Broward"
+  ],
+  "18": [
+   "Brevard",
+   "Seminole"
+  ],
+  "19": [
+   "Indian River",
+   "Martin",
+   "Okeechobee",
+   "St. Lucie"
+  ],
+  "20": [
+   "Charlotte",
+   "Collier",
+   "Glades",
+   "Hendry",
+   "Lee"
+  ]
+ },
+ "dca_circuits": {
+  "1": [
+   1,
+   2,
+   3,
+   8,
+   14
+  ],
+  "2": [
+   6,
+   12,
+   13
+  ],
+  "3": [
+   11,
+   16
+  ],
+  "4": [
+   15,
+   17,
+   19
+  ],
+  "5": [
+   4,
+   5,
+   7,
+   18
+  ],
+  "6": [
+   9,
+   10,
+   20
+  ]
+ }
+}

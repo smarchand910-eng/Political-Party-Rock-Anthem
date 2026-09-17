@@ -291,3 +291,14 @@ p, li, dd, .background, .issue-summary, .cell-summary, .sources, .notice, .brand
 .heat-legend i { display: inline-block; width: 14px; height: 14px; border-radius: 3px; vertical-align: middle; margin-right: 4px; }
 .heat-tip { font-size: .88rem; min-height: 1.4em; margin-top: 6px; }
 tr.highlight td { background: var(--accent-soft); }
+
+/* County pages */
+.county-picker { display: flex; flex-direction: column; gap: 6px; }
+.county-picker select { font: inherit; padding: 10px 12px; border: 1px solid var(--border, #cbd5e1); border-radius: var(--radius-sm, 8px); background: var(--card, #fff); color: inherit; max-width: 420px; }
+.county-home { display: flex; flex-direction: column; gap: 8px; }
+.county-card h3 { margin: 0 0 4px; }
+.sw-cands { list-style: none; padding: 0; margin: 8px 0 0; }
+.sw-cands li { padding: 6px 0; border-top: 1px solid var(--border, #e2e8f0); }
+.sw-cands li:first-child { border-top: 0; }
+.sw-seat h4 { margin: 12px 0 2px; }
+.county-head { margin-bottom: 12px; }
