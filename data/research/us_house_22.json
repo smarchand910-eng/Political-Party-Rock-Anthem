@@ -15,7 +15,7 @@
     "Collier (southern part, incl. Marco Island)"
   ],
   "what_it_does": "Represents Florida's 22th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Open, newly drawn seat (Rep. Lois Frankel moved to CD 23). Roster from Florida Politics and NBC6: Casey Askar (R) vs. Pia Dandiya (D). No NPA candidate identified; absence unconfirmed. Sources: https://floridapolitics.com/archives/814079-casey-askar-pia-dandiya-to-compete-for-new-cd-22-seat-after-winning-their-primary-races-tuesday/ ; https://www.nbcmiami.com/news/politics/decision/results-of-floridas-district-22-republican-primary-election/3846233/ ; https://www.nbcmiami.com/news/politics/decision/results-of-floridas-district-22-democratic-primary/3846238/ ; county makeup per WUSF map breakdown. Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts; county descriptions here reflect post-redistricting reporting where found (https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map).",
   "candidates": [
     {
@@ -25,18 +25,29 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Casey_Askar.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Businessman (food-industry / restaurant franchising)",
+      "website": "https://www.caseyaskar.com/",
+      "occupation": "Businessman (restaurant franchisee, commercial real estate, energy and construction); U.S. Marine Corps veteran",
       "residence": "Not found",
-      "background": "Casey Askar, described in coverage as a food-industry businessman, won the crowded Aug. 18, 2026 Republican primary for the new 22nd District with about 31% of the vote, ahead of fintech entrepreneur Michael Carbonara (about 19%) and Keiser University vice chancellor Belinda Keiser (about 18%); Marine veteran David Burck also ran. The Cook Political Report rates the redrawn district R+4.",
+      "background": "Casey Askar was born in Iraq and came to the United States at age 7; his campaign says his family fled religious persecution. He joined the U.S. Marine Corps at 18 and later built businesses in franchising (his site cites brands such as Church's Chicken and Dunkin'), commercial real estate, energy and construction; he is a father of seven. He won the crowded Aug. 18, 2026 Republican primary for the new 22nd District with about 31% of the vote, ahead of fintech entrepreneur Michael Carbonara (about 19%) and Keiser University vice chancellor Belinda Keiser (about 18%); Marine veteran David Burck also ran. President Trump endorsed him for the general election in September 2026, and the NRCC added him to its 'MAGA Majority' program. The Cook Political Report rates the redrawn district R+4.",
       "primary_result": "Won Aug 18, 2026 Republican primary with ~31% over Carbonara (~19%), Keiser (~18%) and Burck (Florida Politics; NBC6)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Askar's campaign site says Washington's problem is spending, not insufficient taxation; his stated priorities include lowering taxes and regulations and reducing federal spending.",
+          "quote": "Washington's problem is not that it taxes too little, but that it spends too much",
+          "sources": [
+            {
+              "title": "Casey Askar for Congress (campaign site)",
+              "url": "https://www.caseyaskar.com/",
+              "date": null
+            },
+            {
+              "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+              "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+              "date": "2026-08-04"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -60,25 +71,63 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Askar says President Trump's 'merit-based America First immigration policy needs to be kept in place' and lists securing the border among his priorities. A specific position on large-scale deportation was not found.",
+          "quote": "President Trump's merit-based America First immigration policy needs to be kept in place",
+          "sources": [
+            {
+              "title": "Casey Askar - US House Candidate: Record & Positions (Decode the Vote)",
+              "url": "https://www.decodethevote.com/candidate/cand-sos-fl-casey-askar",
+              "date": "2026"
+            },
+            {
+              "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+              "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+              "date": "2026-08-04"
+            },
+            {
+              "title": "Casey Askar for Congress (campaign site)",
+              "url": "https://www.caseyaskar.com/",
+              "date": null
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In a candidate survey Askar said human life deserves legal protection from conception until natural death, and that embryos created through artificial methods should be protected from purposeful destruction.",
+          "quote": "human life deserves legal protection from conception until natural death",
+          "sources": [
+            {
+              "title": "iVoterGuide candidate profile - Casey Askar (FL U.S. Rep., Dist. 22)",
+              "url": "https://ivoterguide.com/candidate/53675/race/28531/election/1431",
+              "date": "2026"
+            },
+            {
+              "title": "Casey Askar - US House Candidate: Record & Positions (Decode the Vote)",
+              "url": "https://www.decodethevote.com/candidate/cand-sos-fl-casey-askar",
+              "date": "2026"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Askar's campaign says that as a congressman he 'will protect 2nd Amendment rights.' No position on specific measures such as red-flag laws or the 21 purchase age was found.",
+          "quote": "will protect 2nd Amendment rights",
+          "sources": [
+            {
+              "title": "Casey Askar for Congress (campaign site)",
+              "url": "https://www.caseyaskar.com/",
+              "date": null
+            },
+            {
+              "title": "Casey Askar's Issue Positions / Political Courage Test (Vote Smart)",
+              "url": "https://justfacts.votesmart.org/candidate/political-courage-test/191402/casey-askar",
+              "date": "2026"
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -90,9 +139,15 @@
         "social_security": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "No public position found as of Sept 2026. Vote Smart reported it was unable to find his position on Social Security or Medicare.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Casey Askar's Issue Positions / Political Courage Test (Vote Smart)",
+              "url": "https://justfacts.votesmart.org/candidate/political-courage-test/191402/casey-askar",
+              "date": "2026"
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -123,18 +178,40 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Askar supports mandatory Real ID and immigration-status verification to vote 'so that only American citizens can vote,' which would add a new registration/voting requirement.",
+          "quote": "so that only American citizens can vote",
+          "sources": [
+            {
+              "title": "Casey Askar - US House Candidate: Record & Positions (Decode the Vote)",
+              "url": "https://www.decodethevote.com/candidate/cand-sos-fl-casey-askar",
+              "date": "2026"
+            },
+            {
+              "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+              "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+              "date": "2026-08-04"
+            }
+          ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Askar lists supporting law enforcement among his campaign priorities; no detailed position on sentencing or police funding was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+              "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+              "date": "2026-08-04"
+            },
+            {
+              "title": "Casey Askar for Congress (campaign site)",
+              "url": "https://www.caseyaskar.com/",
+              "date": null
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -144,11 +221,27 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Askar supports 'unleashing' U.S. domestic energy production to reduce reliance on foreign oil; no statement on renewable energy or utility-rate oversight was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Casey Askar for Congress (campaign site)",
+              "url": "https://www.caseyaskar.com/",
+              "date": null
+            },
+            {
+              "title": "Casey Askar's Issue Positions / Political Courage Test (Vote Smart)",
+              "url": "https://justfacts.votesmart.org/candidate/political-courage-test/191402/casey-askar",
+              "date": "2026"
+            },
+            {
+              "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+              "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+              "date": "2026-08-04"
+            }
+          ]
         },
         "tariffs": {
           "stance": null,
@@ -165,11 +258,27 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Askar's campaign describes him as 'backing Trump agenda'; President Trump endorsed him in September 2026 and the NRCC placed him in its 'MAGA Majority' program.",
+          "quote": "backing Trump agenda",
+          "sources": [
+            {
+              "title": "Casey Askar for Congress (campaign site)",
+              "url": "https://www.caseyaskar.com/",
+              "date": null
+            },
+            {
+              "title": "President Trump endorses Republican congressional candidate Casey Askar for Florida's 22nd district (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-09-03/president-trump-endorses-republican-congressional-candidate-casey-askar-for-floridas-22nd-district",
+              "date": "2026-09-03"
+            },
+            {
+              "title": "NRCC Announces Casey Askar to MAGA Majority Program (NRCC)",
+              "url": "https://nrcc.org/2026/09/08/nrcc-announces-casey-askar-to-maga-majority-program/",
+              "date": "2026-09-08"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -179,9 +288,147 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "Reduce federal spending and regulation",
+          "summary": "Askar says he would cut federal spending, lower regulations and expand job opportunities, citing his experience employing thousands of workers.",
+          "sources": [
+            {
+              "title": "Casey Askar for Congress (campaign site)",
+              "url": "https://www.caseyaskar.com/",
+              "date": null
+            },
+            {
+              "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+              "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+              "date": "2026-08-04"
+            }
+          ]
+        },
+        {
+          "title": "Domestic energy production",
+          "summary": "He supports expanding U.S. domestic energy production for the economy and national security and to reduce reliance on foreign oil.",
+          "sources": [
+            {
+              "title": "Casey Askar for Congress (campaign site)",
+              "url": "https://www.caseyaskar.com/",
+              "date": null
+            },
+            {
+              "title": "Casey Askar's Issue Positions / Political Courage Test (Vote Smart)",
+              "url": "https://justfacts.votesmart.org/candidate/political-courage-test/191402/casey-askar",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Voter ID / citizenship verification",
+          "summary": "He supports mandatory Real ID and immigration-status verification to vote.",
+          "sources": [
+            {
+              "title": "Casey Askar - US House Candidate: Record & Positions (Decode the Vote)",
+              "url": "https://www.decodethevote.com/candidate/cand-sos-fl-casey-askar",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Parental involvement in education",
+          "summary": "His priorities include expanding parental involvement and educational opportunities.",
+          "sources": [
+            {
+              "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+              "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+              "date": "2026-08-04"
+            }
+          ]
+        },
+        {
+          "title": "Support for law enforcement",
+          "summary": "He lists supporting law enforcement among his priorities.",
+          "sources": [
+            {
+              "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+              "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+              "date": "2026-08-04"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Endorsed by President Trump for the Nov. 2026 general election (Truth Social post quoted by WLRN and WINK).",
+          "sources": [
+            {
+              "title": "President Trump endorses Republican congressional candidate Casey Askar for Florida's 22nd district (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-09-03/president-trump-endorses-republican-congressional-candidate-casey-askar-for-floridas-22nd-district",
+              "date": "2026-09-03"
+            },
+            {
+              "title": "Trump endorses Casey Askar, Jim Schwartzel for Florida congressional seats (WINK News)",
+              "url": "https://www.winknews.com/news/politics/trump-endorses-casey-askar-jim-schwartzel-for-florida-congressional-seats/article_49182eef-447a-4f83-8f54-145a79d070b4.html",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "item": "Added to the NRCC's 2026 'MAGA Majority' program in September 2026.",
+          "sources": [
+            {
+              "title": "NRCC Announces Casey Askar to MAGA Majority Program (NRCC)",
+              "url": "https://nrcc.org/2026/09/08/nrcc-announces-casey-askar-to-maga-majority-program/",
+              "date": "2026-09-08"
+            }
+          ]
+        },
+        {
+          "item": "Won the Aug. 18, 2026 Republican primary with about 31% in a multi-candidate field.",
+          "sources": [
+            {
+              "title": "Casey Askar, Pia Dandiya to compete for new CD 22 seat (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/814079-casey-askar-pia-dandiya-to-compete-for-new-cd-22-seat-after-winning-their-primary-races-tuesday/",
+              "date": "2026-08-18"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "President Donald Trump",
+          "sources": [
+            {
+              "title": "President Trump endorses Republican congressional candidate Casey Askar for Florida's 22nd district (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-09-03/president-trump-endorses-republican-congressional-candidate-casey-askar-for-floridas-22nd-district",
+              "date": "2026-09-03"
+            },
+            {
+              "title": "Trump endorses Casey Askar, Jim Schwartzel for Florida congressional seats (WINK News)",
+              "url": "https://www.winknews.com/news/politics/trump-endorses-casey-askar-jim-schwartzel-for-florida-congressional-seats/article_49182eef-447a-4f83-8f54-145a79d070b4.html",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "CPAC",
+          "sources": [
+            {
+              "title": "Top Conservative Group CPAC Endorses 'Proven Conservative' Casey Askar for Congress (The Floridian)",
+              "url": "https://floridianpress.com/2026/07/top-conservative-group-cpac-endorses-proven-conservative-casey-askar-for-congress/",
+              "date": "2026-07"
+            }
+          ]
+        },
+        {
+          "by": "Gen. Michael Flynn (primary)",
+          "sources": [
+            {
+              "title": "General Mike Flynn Endorses Casey Askar for Florida's 22nd Congressional District Race (The Floridian)",
+              "url": "https://floridianpress.com/2026/08/hold_flynn/",
+              "date": "2026-08"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "pia_dandiya",
@@ -190,10 +437,10 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Pia_Dandiya.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Former high school principal; former White House Fellow",
-      "residence": "Not found",
-      "background": "Pia Dandiya is a former high school principal and White House Fellow. She won the Aug. 18, 2026 Democratic primary with about 61% of the vote over attorney Kaysia Earley.",
+      "website": "https://piaforcongress.com/",
+      "occupation": "Former Apple executive (public-sector partnerships); former high school principal; former White House Fellow",
+      "residence": "Palm Beach Gardens, Palm Beach County",
+      "background": "Pia Dandiya, a first-generation American born and raised in Palm Beach County, worked as a public school teacher and became a high school principal in Harlem at age 28; she later served as a White House Fellow and as an Apple executive leading public-sector partnerships in education, health care and state government. She originally launched a campaign against U.S. Rep. Brian Mast in the old 21st District and shifted to the new 22nd after the 2026 map was adopted. She won the Aug. 18, 2026 Democratic primary with about 61% over attorney Kaysia Earley. The DCCC placed her in its 'Red to Blue' program and her campaign reported crossing $2 million raised. She lives in Palm Beach Gardens with her husband and son.",
       "primary_result": "Won Aug 18, 2026 Democratic primary with ~61.3% over Kaysia Earley (Florida Politics; NBC6)",
       "positions": {
         "taxes": {
@@ -232,11 +479,27 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Dandiya says she supports codifying and protecting reproductive rights and defends access to abortion and contraception, arguing that personal health-care and family decisions should be free from government interference.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Pia Dandiya for Congress (campaign site)",
+              "url": "https://piaforcongress.com/",
+              "date": null
+            },
+            {
+              "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
+              "date": "2025"
+            },
+            {
+              "title": "Pia Dandiya - EMILYs List",
+              "url": "https://emilyslist.org/candidate/pia-dandiya/",
+              "date": "2026"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -246,18 +509,40 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Dandiya says she is running to lower health-care costs; her launch agenda includes 'reducing health care costs.' A specific position on Medicaid expansion or ACA subsidies was not found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet Pia Dandiya (campaign site)",
+              "url": "https://piaforcongress.com/about",
+              "date": null
+            },
+            {
+              "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
+              "date": "2025"
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Dandiya lists protecting Social Security and Medicare as one of her main reasons for running; how she would fund the programs (e.g., additional revenue) was not specified in sources found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet Pia Dandiya (campaign site)",
+              "url": "https://piaforcongress.com/about",
+              "date": null
+            },
+            {
+              "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
+              "date": "2025"
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -344,9 +629,126 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "Affordability and cost of living",
+          "summary": "Dandiya says she is running to 'take on the affordability crisis.'",
+          "sources": [
+            {
+              "title": "Meet Pia Dandiya (campaign site)",
+              "url": "https://piaforcongress.com/about",
+              "date": null
+            },
+            {
+              "title": "This Week in South Florida: Pia Dandiya (Local 10)",
+              "url": "https://www.local10.com/this-week-in-south-florida/2026/08/30/this-week-in-south-florida-pia-dandiya/",
+              "date": "2026-08-30"
+            }
+          ]
+        },
+        {
+          "title": "Anti-corruption in Congress",
+          "summary": "She says she wants to 'crack down on corruption in Congress.'",
+          "sources": [
+            {
+              "title": "Meet Pia Dandiya (campaign site)",
+              "url": "https://piaforcongress.com/about",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Universal pre-K and public education",
+          "summary": "Her launch agenda includes passing universal pre-K and investing in strengthening public education.",
+          "sources": [
+            {
+              "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "title": "Workforce preparation",
+          "summary": "She lists preparing Americans for 21st-century jobs among her legislative goals.",
+          "sources": [
+            {
+              "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
+              "date": "2025"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Placed in the DCCC's 'Red to Blue' program; campaign reported crossing $2 million raised.",
+          "sources": [
+            {
+              "title": "Pia Dandiya - EMILYs List",
+              "url": "https://emilyslist.org/candidate/pia-dandiya/",
+              "date": "2026"
+            },
+            {
+              "title": "Pia Dandiya reports raising $400K in first month (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/746401-pia-dandiya-reports-raising-400k-in-first-month-running-to-unseat-brian-mast-in-cd-21/",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "item": "Originally launched in the old CD 21 against Rep. Brian Mast before shifting to the new CD 22 after redistricting.",
+          "sources": [
+            {
+              "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
+              "date": "2025"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "EMILYs List",
+          "sources": [
+            {
+              "title": "Pia Dandiya - EMILYs List",
+              "url": "https://emilyslist.org/candidate/pia-dandiya/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "New Politics",
+          "sources": [
+            {
+              "title": "New Politics endorses Pia Dandiya for Congress in Florida's 22nd District (New Politics)",
+              "url": "https://www.newpolitics.org/news/new-politics-endorses-pia-dandiya-for-congress-in-floridas-22nd-district",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "South Florida Sun Sentinel editorial board (Democratic primary)",
+          "sources": [
+            {
+              "title": "Sun Sentinel primary endorsement (reposted on campaign site)",
+              "url": "https://piaforcongress.com/updates/sun-sentinel-endorsement-cd22",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "by": "Dave Aronberg and Patrick Murphy (during CD 21 bid)",
+          "sources": [
+            {
+              "title": "'An ideal candidate': Pia Dandiya's CD 21 bid adds nods from Dave Aronberg, Patrick Murphy (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/748695-an-ideal-candidate-pia-dandiyas-cd-21-bid-adds-nods-from-dave-aronberg-patrick-murphy/",
+              "date": "2025"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

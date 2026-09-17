@@ -13,7 +13,7 @@
     "Broward (part)"
   ],
   "what_it_does": "Represents Florida's 24th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Open seat (Rep. Frederica Wilson retiring). Roster from WLRN, CBS Miami, Local 10, NBC6 and Florida Politics: Oliver Gilbert (D) vs. Te Mayonna Brown (R), who was unopposed in her primary. County makeup: Miami-Dade-based district; local coverage (Miramar News) describes it as also reaching into Broward. Sources: https://www.wlrn.org/government-politics/2026-08-18/oliver-gilbert-prevails-in-crowded-7-way-democratic-primary-to-succeed-rep-frederica-wilson ; https://www.nbcmiami.com/news/politics/decision/te-brown-is-projected-winner-of-floridas-district-24-republican-primary/3847775/ ; https://www.miramarflnews.com/news/local/article316923349.html Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts; county descriptions here reflect post-redistricting reporting where found (https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map).",
   "candidates": [
     {
@@ -23,10 +23,10 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Oliver_Gilbert.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Former Miami-Dade County Commissioner; former Mayor of Miami Gardens",
+      "website": "https://olivergilbert.vote/",
+      "occupation": "Attorney and former prosecutor; Miami-Dade County Commissioner, District 1 (elected 2020; commission chair 2020-2024); former Mayor of Miami Gardens (2012-2020)",
       "residence": "Miami Gardens, Miami-Dade County",
-      "background": "Oliver Gilbert is a former Miami-Dade County Commissioner and former mayor of Miami Gardens. He won the seven-way Aug. 18, 2026 Democratic primary with about 34.5%, edging state Sen. Shevrin Jones (about 32%), with Kendrick Meek Jr. (about 17%), Rudolph Moise, Jean Monestime, Marshall Davis Sr. and Roderick Vereen trailing.",
+      "background": "Oliver G. Gilbert III is an attorney and former prosecutor who served as mayor of Miami Gardens from 2012 to 2020 and was elected to the Miami-Dade County Commission (District 1) in 2020, chairing the commission from 2020 to 2024. Retiring U.S. Rep. Frederica Wilson endorsed him as her successor in June 2026. He won the seven-way Aug. 18, 2026 Democratic primary with about 34.5%, edging state Sen. Shevrin Jones (about 32%), with Kendrick Meek Jr. (about 17%), Rudolph Moise, Jean Monestime, Marshall Davis Sr. and Roderick Vereen trailing, despite more than $2 million in spending against him. He also serves in a leadership role on the FIFA World Cup 2026 Miami host committee.",
       "primary_result": "Won Aug 18, 2026 Democratic primary with ~34.5% over Shevrin Jones (~32%), Kendrick Meek Jr. (~17%) and four others (Florida Politics; Local 10; CBS Miami)",
       "positions": {
         "taxes": {
@@ -51,25 +51,63 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Gilbert names housing affordability as a priority and cites his county work on affordable housing; specific federal proposals were not captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Oliver Gilbert touts record as Democratic field forms in race to replace U.S. Rep. Frederica Wilson (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/oliver-gilbert-democratic-primary-race-replace-frederica-wilson-congressional-district-24/",
+              "date": "2026"
+            },
+            {
+              "title": "About Commissioner Oliver G. Gilbert III (Miami-Dade County)",
+              "url": "https://www.miamidade.gov/global/government/commission/district01/about-commissioner-gilbert.page",
+              "date": null
+            },
+            {
+              "title": "Oliver Gilbert III says experience and results set his candidacy apart (Hy-Lo News)",
+              "url": "https://hylonewsmiami.com/2026/07/28/oliver-gilbert-iii-says-experience-and-results-set-his-candidacy-apart-in-floridas-24th-district/",
+              "date": "2026-07-28"
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Gilbert says he will push the U.S. Senate to act on Temporary Protected Status for Haitians, arguing that uncertainty over immigration protections is hurting families, workers and the economy. No position on broader deportation policy was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Oliver Gilbert advances in District 24, vows to fight for Haitian TPS protections (CBS Miami video)",
+              "url": "https://www.cbsnews.com/miami/video/oliver-gilbert-advances-in-district-24-vows-to-fight-for-haitian-tps-protections/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Oliver Gilbert discusses next steps in Congressional race after primary win (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/oliver-gilbert-congressional-run-8-23-2026/",
+              "date": "2026-08-23"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Candidate-profile aggregators report Gilbert expresses support for reproductive rights and has spoken positively about expanding abortion access; a direct statement from the candidate was not captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Oliver Gilbert - 2026 candidate profile (ElectionsFLA, aggregator)",
+              "url": "https://electionsfla.com/candidates/oliver-gilbert",
+              "date": "2026"
+            },
+            {
+              "title": "Oliver Gilbert: 2026 Florida U.S. House candidate profile (Prediction Edge, aggregator)",
+              "url": "https://www.predictionedge.com/elections/profile/oliver-gilbert/",
+              "date": "2026"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -79,11 +117,22 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Gilbert has proposed lowering the Medicare eligibility age and raising Medicaid income limits, and names health care among his top priorities.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Oliver Gilbert touts record as Democratic field forms in race to replace U.S. Rep. Frederica Wilson (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/oliver-gilbert-democratic-primary-race-replace-frederica-wilson-congressional-district-24/",
+              "date": "2026"
+            },
+            {
+              "title": "Seven Democrats compete for chance to win seat representing Florida's District 24 (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/florida-district-24-frederica-wildon-primary-august-2026/",
+              "date": "2026-08"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -128,11 +177,27 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 0,
+          "confidence": "record",
+          "summary": "As Miami Gardens mayor Gilbert rebuilt the city police department with local personnel while emphasizing community engagement and trust; supporters credit the approach with a 39% crime reduction. His record combines police investment with reform-oriented policing, so it does not map cleanly to this statement.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "The Miami Times Editorial Board endorsement: Oliver Gilbert for Florida's 24th Congressional District (Miami Times, opinion)",
+              "url": "https://www.miamitimesonline.com/opinion/the-miami-times-editorial-board-endorsement-oliver-gilbert-for-floridas-24th-congressional-district/article_464cdaf6-756f-4eff-b787-ec5d3d1158c4.html",
+              "date": "2026-08"
+            },
+            {
+              "title": "Oliver Gilbert III says experience and results set his candidacy apart (Hy-Lo News)",
+              "url": "https://hylonewsmiami.com/2026/07/28/oliver-gilbert-iii-says-experience-and-results-set-his-candidacy-apart-in-floridas-24th-district/",
+              "date": "2026-07-28"
+            },
+            {
+              "title": "Oliver Gilbert - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Oliver_Gilbert",
+              "date": null
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -177,9 +242,136 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "Rapid mass transit / North Corridor",
+          "summary": "Gilbert lists rapid mass transit, especially the long-debated North Corridor project, among his top priorities.",
+          "sources": [
+            {
+              "title": "Oliver Gilbert touts record as Democratic field forms in race to replace U.S. Rep. Frederica Wilson (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/oliver-gilbert-democratic-primary-race-replace-frederica-wilson-congressional-district-24/",
+              "date": "2026"
+            },
+            {
+              "title": "Oliver Gilbert III says experience and results set his candidacy apart (Hy-Lo News)",
+              "url": "https://hylonewsmiami.com/2026/07/28/oliver-gilbert-iii-says-experience-and-results-set-his-candidacy-apart-in-floridas-24th-district/",
+              "date": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "title": "Haitian TPS",
+          "summary": "He vows to press the Senate on Temporary Protected Status for Haitians.",
+          "sources": [
+            {
+              "title": "Oliver Gilbert advances in District 24, vows to fight for Haitian TPS protections (CBS Miami video)",
+              "url": "https://www.cbsnews.com/miami/video/oliver-gilbert-advances-in-district-24-vows-to-fight-for-haitian-tps-protections/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "title": "Affordability",
+          "summary": "Asked the biggest issue facing District 24, Gilbert said 'It's definitely affordability.'",
+          "sources": [
+            {
+              "title": "Oliver Gilbert discusses next steps in Congressional race after primary win (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/oliver-gilbert-congressional-run-8-23-2026/",
+              "date": "2026-08-23"
+            }
+          ]
+        },
+        {
+          "title": "Small business development and education",
+          "summary": "He says his local-government record prepared him to work on transportation, housing, health care, education and small business development.",
+          "sources": [
+            {
+              "title": "Oliver Gilbert III says experience and results set his candidacy apart (Hy-Lo News)",
+              "url": "https://hylonewsmiami.com/2026/07/28/oliver-gilbert-iii-says-experience-and-results-set-his-candidacy-apart-in-floridas-24th-district/",
+              "date": "2026-07-28"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Mayor of Miami Gardens 2012-2020; Miami-Dade County Commissioner (District 1) since 2020 and commission chair 2020-2024.",
+          "sources": [
+            {
+              "title": "About Commissioner Oliver G. Gilbert III (Miami-Dade County)",
+              "url": "https://www.miamidade.gov/global/government/commission/district01/about-commissioner-gilbert.page",
+              "date": null
+            },
+            {
+              "title": "Oliver Gilbert - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Oliver_Gilbert",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Endorsed by retiring Rep. Frederica Wilson as her successor (June 2026).",
+          "sources": [
+            {
+              "title": "Frederica Wilson taps Oliver Gilbert to carry her torch in Florida's District 24 (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-06-22/frederica-wilson-oliver-gilbert-florida-district-24",
+              "date": "2026-06-22"
+            },
+            {
+              "title": "Frederica Wilson endorses Oliver Gilbert as successor in District 24 (NBC 6)",
+              "url": "https://www.nbcmiami.com/news/local/rep-frederica-wilson-endorses-oliver-gilbert/3824338/",
+              "date": "2026-06"
+            }
+          ]
+        },
+        {
+          "item": "Won the Aug. 18, 2026 Democratic primary despite more than $2 million in outside spending against him (Political Cortadito).",
+          "sources": [
+            {
+              "title": "Oliver Gilbert beats back $2 million+ attack, wins crowded CD 24 primary (Political Cortadito)",
+              "url": "https://politicalcortadito.com/2026/08/21/oliver-gilbert-congress-24-primary/",
+              "date": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "item": "Serves in a leadership role on the FIFA World Cup 2026 Miami host committee.",
+          "sources": [
+            {
+              "title": "Oliver G. Gilbert III - FIFA World Cup 2026 Miami Host Committee",
+              "url": "https://miamifwc26.com/leadership/oliver-g-gilbert-iii/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "U.S. Rep. Frederica Wilson",
+          "sources": [
+            {
+              "title": "Frederica Wilson taps Oliver Gilbert to carry her torch in Florida's District 24 (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-06-22/frederica-wilson-oliver-gilbert-florida-district-24",
+              "date": "2026-06-22"
+            },
+            {
+              "title": "Frederica Wilson endorses Oliver Gilbert as successor in District 24 (NBC 6)",
+              "url": "https://www.nbcmiami.com/news/local/rep-frederica-wilson-endorses-oliver-gilbert/3824338/",
+              "date": "2026-06"
+            }
+          ]
+        },
+        {
+          "by": "The Miami Times editorial board",
+          "sources": [
+            {
+              "title": "The Miami Times Editorial Board endorsement: Oliver Gilbert for Florida's 24th Congressional District (Miami Times, opinion)",
+              "url": "https://www.miamitimesonline.com/opinion/the-miami-times-editorial-board-endorsement-oliver-gilbert-for-floridas-24th-congressional-district/article_464cdaf6-756f-4eff-b787-ec5d3d1158c4.html",
+              "date": "2026-08"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "te_brown",
@@ -188,10 +380,10 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Te_Brown.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not found",
+      "website": "https://tebrownforflorida.com/",
+      "occupation": "Businesswoman, educator and real-estate developer (self-described)",
       "residence": "Not found",
-      "background": "Te Mayonna (Te) Brown was the only Republican to file for District 24 and advanced to the November general election, where she faces Democrat Oliver Gilbert in a district that leans heavily Democratic.",
+      "background": "Te Mayonna (Te) Brown describes herself as a businesswoman, educator and real-estate developer. She was the only Republican to file for District 24, so the primary was canceled and she advanced to the November general election against Democrat Oliver Gilbert in a district that leans heavily Democratic. The Bulwark reported that she also lost a Republican U.S. House primary in Illinois earlier in 2026 and appears to be under indictment for felony wire fraud; her campaign reported raising about $313,000 to the FEC.",
       "primary_result": "Unopposed for Republican nomination (NBC6; WLRN)",
       "positions": {
         "taxes": {
@@ -260,9 +452,15 @@
         "education_choice": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "No codable position found as of Sept 2026; a Local Candidates page lists a school-choice/charter-school entry for her, but its content was not captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Te Brown on School Choice & Charter Schools (Local Candidates)",
+              "url": "https://www.localcandidates.org/politicians/te-brown/positions/3b967849-a90b-4c96-b93f-89041f5cb268",
+              "date": "2026"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -343,7 +541,33 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Reported by The Bulwark to have lost a 2026 Republican U.S. House primary in Illinois before appearing on the Florida CD 24 ballot, and to appear to be under indictment for felony wire fraud (as reported; not independently verified here).",
+          "sources": [
+            {
+              "title": "We Found Her: The Most Absurd General-Election Candidate in America (The Bulwark)",
+              "url": "https://www.thebulwark.com/p/we-found-her-the-most-absurd-general-election-candidate-te-brown-illinois-florida-congress-fraud-primary-election-putin-whale-orca-polar-bear-russia-ukraine",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "item": "Unopposed for the Republican nomination; campaign reported about $313,000 raised to the FEC.",
+          "sources": [
+            {
+              "title": "Te Brown is projected winner of Florida's District 24 Republican primary (NBC 6)",
+              "url": "https://www.nbcmiami.com/news/politics/decision/te-brown-is-projected-winner-of-floridas-district-24-republican-primary/3847775/",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "Te Mayonna Brown - BallotReady",
+              "url": "https://www.ballotready.org/people/te-mayonna-brown",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

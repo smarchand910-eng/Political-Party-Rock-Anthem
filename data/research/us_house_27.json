@@ -22,18 +22,34 @@
       "incumbent": true,
       "photo_url": "https://www.congress.gov/img/member/s000168_200.jpg",
       "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
-      "website": null,
+      "website": "https://mariaelvirasalazar.com/",
       "occupation": "U.S. Representative (since 2021)",
       "residence": "Coral Gables area, Miami-Dade County (not re-verified)",
-      "background": "Maria Elvira Salazar, a former television journalist, has represented the 27th District since January 2021. She won the Aug. 18, 2026 Republican primary with 81.3% of the vote over Coral Gables attorney V. Michael Arias (18.7%).",
+      "background": "Maria Elvira Salazar, a former television journalist, has represented the 27th District since January 2021. She is the lead Republican sponsor of the bipartisan Dignity Act immigration bill (H.R. 4393, reintroduced July 2025 with Rep. Veronica Escobar). She won the Aug. 18, 2026 Republican primary with 81.3% of the vote over Coral Gables attorney V. Michael Arias (18.7%). In September 2026 she aired a campaign ad saying the administration's immigration enforcement has 'gone too far.'",
       "primary_result": "Won Aug 18, 2026 Republican primary with 81.3% over V. Michael Arias (18.7%) (CBS Miami; Florida Politics)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Salazar voted for H.R. 1 (2025), calling it 'a historic win' with 'game-changing tax relief for working families,' including extended tax cuts and no tax on tips and overtime.",
+          "quote": "Game-changing tax relief for working families",
+          "sources": [
+            {
+              "title": "Rep. Salazar on X: 'A historic win! The House just passed the Big Beautiful Bill!'",
+              "url": "https://x.com/RepMariaSalazar/status/1940840898905960906",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -57,32 +73,91 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Salazar voted for the Laken Riley Act and describes her Dignity Act as 'enforcement first' with 'zero tolerance for criminals' and permanent border security, but the bill would also give long-term undocumented immigrants earned legal status ('No amnesty. No handouts. No citizenship.'). In a September 2026 ad she said the administration's immigration enforcement has 'gone too far,' and she has asked for deferred action for Cubans, Haitians, Nicaraguans and Venezuelans.",
+          "quote": "No amnesty. No handouts. No citizenship.",
+          "sources": [
+            {
+              "title": "The Dignity Act (salazar.house.gov)",
+              "url": "https://salazar.house.gov/dignity-act",
+              "date": null
+            },
+            {
+              "title": "Maria Elvira Salazar: I Am Leading the Charge on Immigration Reform with the Dignity Act (campaign site)",
+              "url": "https://mariaelvirasalazar.com/dignity_act/",
+              "date": null
+            },
+            {
+              "title": "In campaign ad, GOP congresswoman says Trump's immigration enforcement has 'gone too far' (CBS News)",
+              "url": "https://www.cbsnews.com/news/maria-elvira-salazar-trump-immigration-ad-gone-too-far/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Congresswoman Salazar Asks Administration for Deferred Action on Cubans, Haitians, Nicaraguans, and Venezuelans (salazar.house.gov)",
+              "url": "https://salazar.house.gov/media/press-releases/congresswoman-salazar-asks-administration-deferred-action-cubans-haitians-0",
+              "date": "2025"
+            },
+            {
+              "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            },
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            }
+          ]
         },
         "abortion": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "No explicit statement captured as of Sept 2026; scorecards from Reproductive Freedom for All and SBA Pro-Life America exist but their contents were not retrieved.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Maria Elvira Salazar's Congressional Scorecard (Reproductive Freedom for All)",
+              "url": "https://reproductivefreedomforall.org/lawmaker/maria-elvira-salazar/",
+              "date": null
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In Vote Smart's candidate survey Salazar said 'I 100% support the 2nd Amendment'; no position on specific measures such as red-flag laws was found.",
+          "quote": "I 100% support the 2nd Amendment",
+          "sources": [
+            {
+              "title": "Maria Salazar's Issue Positions / Political Courage Test (Vote Smart)",
+              "url": "https://justfacts.votesmart.org/candidate/political-courage-test/182300/maria-salazar",
+              "date": null
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Salazar voted for H.R. 1 (2025), which Democrats said would cost about 99,000-100,000 people in her district Medicaid or ACA coverage per CBO projections; her opponent also says she voted against restoring ACA subsidies.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Test for Salazar? Dems say her vote on Trump tax cut bill would remove Medicaid, Medicare for 99k in her district (Key Biscayne Independent)",
+              "url": "https://kbindependent.org/2025/07/03/test-for-salazar-dems-say-her-vote-on-trump-tax-cut-bill-would-remove-medicaid-medicare-for-99k-in-her-district/",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -120,11 +195,22 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Salazar voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote (passed 220-208 with every voting Republican in favor).",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+              "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -155,18 +241,50 @@
           "sources": []
         },
         "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Salazar voted for the $60.8 billion Ukraine Security Supplemental (H.R. 8035, April 2024), one of five Florida Republicans to do so.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "How every House member voted on aid to Ukraine, Israel and more (Washington Post)",
+              "url": "https://www.washingtonpost.com/politics/interactive/2024/04/20/ukraine-israel-border-funding-house-vote/",
+              "date": "2024-04-20"
+            }
+          ]
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Salazar voted for and celebrated the administration's signature 2025 tax-and-spending bill, but in a September 2026 campaign ad said its immigration enforcement has 'gone too far' and that Hispanic voters 'feel betrayed.'",
+          "quote": "gone too far",
+          "sources": [
+            {
+              "title": "In campaign ad, GOP congresswoman says Trump's immigration enforcement has 'gone too far' (CBS News)",
+              "url": "https://www.cbsnews.com/news/maria-elvira-salazar-trump-immigration-ad-gone-too-far/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Maria Salazar slams Trump's immigration tactics (The Hill)",
+              "url": "https://thehill.com/homenews/campaign/6095767-maria-salazar-trump-immigration-ad/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Rep. Salazar on X: 'A historic win! The House just passed the Big Beautiful Bill!'",
+              "url": "https://x.com/RepMariaSalazar/status/1940840898905960906",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -176,9 +294,196 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "Dignity Act immigration reform",
+          "summary": "Lead sponsor of H.R. 4393, which pairs border enforcement with earned legal status (not citizenship) for long-term undocumented immigrants; PolitiFact examined claims that it is 'mass amnesty,' and some Republican colleagues have attacked it.",
+          "sources": [
+            {
+              "title": "The Dignity Act (salazar.house.gov)",
+              "url": "https://salazar.house.gov/dignity-act",
+              "date": null
+            },
+            {
+              "title": "PolitiFact FL: Would Salazar's 'Dignity Act' grant mass amnesty to immigrants? (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-04-14/politifact-fl-would-florida-us-rep-maria-salazars-dignity-act-grant-mass-amnesty-to-immigrants",
+              "date": "2026-04-14"
+            },
+            {
+              "title": "MAGA-aligned lawmakers target a Republican colleague for her immigration bill (NOTUS)",
+              "url": "https://www.notus.org/maga-aligned-lawmakers-target-a-republican-colleague-for-her-immigration-bill",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Deferred action for Cubans, Haitians, Nicaraguans and Venezuelans",
+          "summary": "She asked the administration for deferred action after humanitarian parole and TPS were revoked.",
+          "sources": [
+            {
+              "title": "Congresswoman Salazar Asks Administration for Deferred Action on Cubans, Haitians, Nicaraguans, and Venezuelans (salazar.house.gov)",
+              "url": "https://salazar.house.gov/media/press-releases/congresswoman-salazar-asks-administration-deferred-action-cubans-haitians-0",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "title": "Small business",
+          "summary": "NFIB and the U.S. Chamber endorsed her as a small-business 'champion.'",
+          "sources": [
+            {
+              "title": "NFIB backs small-business 'champion' Maria Elvira Salazar for re-election in CD 27 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/812589-nfib-backs-small-business-champion-maria-elvira-salazar-for-re-election-in-cd-27/",
+              "date": "2026-08"
+            },
+            {
+              "title": "'Leading the charge': U.S. Chamber backs Maria Elvira Salazar for CD 27 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/815983-leading-the-charge-u-s-chamber-backs-maria-elvira-salazar-for-cd-27/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "title": "No tax on tips and overtime",
+          "summary": "She highlighted these provisions of H.R. 1.",
+          "sources": [
+            {
+              "title": "Rep. Salazar on X: 'A historic win! The House just passed the Big Beautiful Bill!'",
+              "url": "https://x.com/RepMariaSalazar/status/1940840898905960906",
+              "date": "2025-07-03"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted YES on H.R. 1, the One Big Beautiful Bill Act (final passage July 3, 2025).",
+          "sources": [
+            {
+              "title": "Rep. Salazar on X: 'A historic win! The House just passed the Big Beautiful Bill!'",
+              "url": "https://x.com/RepMariaSalazar/status/1940840898905960906",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            }
+          ]
+        },
+        {
+          "item": "Voted YES on the Laken Riley Act (S. 5, Jan. 22, 2025).",
+          "sources": [
+            {
+              "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            },
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            }
+          ]
+        },
+        {
+          "item": "Voted YES on the SAVE Act (H.R. 22, April 10, 2025).",
+          "sources": [
+            {
+              "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+              "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            }
+          ]
+        },
+        {
+          "item": "Voted YES on the Ukraine Security Supplemental Appropriations Act (H.R. 8035, April 20, 2024).",
+          "sources": [
+            {
+              "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+              "date": "2024-04-20"
+            }
+          ]
+        },
+        {
+          "item": "Lead sponsor of the Dignity Act (H.R. 4393, reintroduced July 15, 2025).",
+          "sources": [
+            {
+              "title": "The Dignity Act (salazar.house.gov)",
+              "url": "https://salazar.house.gov/dignity-act",
+              "date": null
+            },
+            {
+              "title": "PolitiFact FL: Would Salazar's 'Dignity Act' grant mass amnesty to immigrants? (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-04-14/politifact-fl-would-florida-us-rep-maria-salazars-dignity-act-grant-mass-amnesty-to-immigrants",
+              "date": "2026-04-14"
+            }
+          ]
+        },
+        {
+          "item": "Aired a September 2026 ad breaking with the administration on immigration enforcement.",
+          "sources": [
+            {
+              "title": "In campaign ad, GOP congresswoman says Trump's immigration enforcement has 'gone too far' (CBS News)",
+              "url": "https://www.cbsnews.com/news/maria-elvira-salazar-trump-immigration-ad-gone-too-far/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Maria Salazar slams Trump's immigration tactics (The Hill)",
+              "url": "https://thehill.com/homenews/campaign/6095767-maria-salazar-trump-immigration-ad/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "item": "Democrats criticized her H.R. 1 vote, citing CBO projections of about 99,000 district residents losing coverage.",
+          "sources": [
+            {
+              "title": "Test for Salazar? Dems say her vote on Trump tax cut bill would remove Medicaid, Medicare for 99k in her district (Key Biscayne Independent)",
+              "url": "https://kbindependent.org/2025/07/03/test-for-salazar-dems-say-her-vote-on-trump-tax-cut-bill-would-remove-medicaid-medicare-for-99k-in-her-district/",
+              "date": "2025-07-03"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "U.S. Chamber of Commerce",
+          "sources": [
+            {
+              "title": "'Leading the charge': U.S. Chamber backs Maria Elvira Salazar for CD 27 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/815983-leading-the-charge-u-s-chamber-backs-maria-elvira-salazar-for-cd-27/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "by": "NFIB (National Federation of Independent Business)",
+          "sources": [
+            {
+              "title": "NFIB backs small-business 'champion' Maria Elvira Salazar for re-election in CD 27 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/812589-nfib-backs-small-business-champion-maria-elvira-salazar-for-re-election-in-cd-27/",
+              "date": "2026-08"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "eliott_rodriguez",
@@ -190,7 +495,7 @@
       "website": null,
       "occupation": "Retired broadcast journalist (former CBS News Miami anchor)",
       "residence": "Miami-Dade County",
-      "background": "Eliott Rodriguez, 69, is a retired broadcast journalist who anchored at CBS News Miami for 25 years; he was born in New York to Cuban parents. He left the station and announced his candidacy in March 2026, then won the Aug. 18 Democratic primary with about 53.5% over former homicide prosecutor Robin Peguero. Coverage describes affordability and opposition to the Trump administration's immigration policies as central themes of his campaign.",
+      "background": "Eliott Rodriguez, 69, is a retired broadcast journalist who anchored at CBS News Miami for 25 years after nearly five decades in journalism; he was born in New York to Cuban immigrant parents. He left the station and announced his candidacy in March 2026, reported raising $312,000 in his first 21 days, and won the Aug. 18 Democratic primary with about 53.5% over former homicide prosecutor Robin Peguero. His campaign centers on affordability, protecting Social Security and Medicare, restoring health-care subsidies, opposing tariffs and opposing the Trump administration's immigration enforcement.",
       "primary_result": "Won Aug 18, 2026 Democratic primary with ~53.5% over Robin Peguero (CBS Miami; WLRN)",
       "positions": {
         "taxes": {
@@ -224,8 +529,8 @@
         "immigration": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "Local coverage of his primary win reports that opposition to the Trump administration's immigration policies is a central theme of Rodriguez's campaign; his specific enforcement proposals were not captured in this research.",
-          "quote": null,
+          "summary": "Rodriguez campaigns against the Trump administration's deportation crackdown, saying in a January 2026 ad that 'secure borders matter, but so does due process and our constitution.' He also argues Salazar's Dignity Act fails to provide permanent legal pathways for Venezuelans, Haitians and Cubans.",
+          "quote": "Yes, secure borders matter, but so does due process and our constitution.",
           "sources": [
             {
               "title": "Ex-TV anchor Eliott Rodriguez wins the Democratic nod in Florida's 27th (WLRN)",
@@ -236,15 +541,31 @@
               "title": "Eliott Rodriguez wins Democratic primary for Florida's 27th Congressional District (CBS Miami)",
               "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-27-eliott-rodriguez/",
               "date": "2026-08-18"
+            },
+            {
+              "title": "Maria Salazar slams Trump's immigration tactics (The Hill)",
+              "url": "https://thehill.com/homenews/campaign/6095767-maria-salazar-trump-immigration-ad/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Cost of living, immigration and Cuba: Eliott Rodriguez debates with Voz News anchor (Voz)",
+              "url": "https://voz.us/en/politics/260904/38847/cost-of-living-immigration-and-cuba-elliot-rodriguez-debates-with-voz-news-anchor-karina-yapor.html",
+              "date": "2026-09-04"
             }
           ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Rodriguez campaigned on protecting abortion rights.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Eliott Rodriguez defeats Robin Peguero in CD 27 Democratic Primary (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/814671-eliott-rodriguez-defeats-robin-peguero-in-cd-27-democratic-primary/",
+              "date": "2026-08-18"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -254,18 +575,50 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Rodriguez says he would fight to restore expired Affordable Care Act subsidies, which he says Salazar voted to remove, and to lower prescription drug costs.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Former CBS-4 anchor Eliott Rodriguez cites deep local roots in bid to win seat in Congress (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-07-13/former-cbs-4-anchor-eliott-rodriguez-cites-deep-local-roots-in-bid-to-win-seat-in-congress",
+              "date": "2026-07-13"
+            },
+            {
+              "title": "Robin Peguero, Eliott Rodriguez battle for a shot at Maria Elvira Salazar (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/811888-robin-peguero-eliott-rodriguez-battle-for-a-shot-at-maria-elvira-salazar/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Cost of living, immigration and Cuba: Eliott Rodriguez debates with Voz News anchor (Voz)",
+              "url": "https://voz.us/en/politics/260904/38847/cost-of-living-immigration-and-cuba-elliot-rodriguez-debates-with-voz-news-anchor-karina-yapor.html",
+              "date": "2026-09-04"
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Rodriguez identifies protecting Social Security and Medicare as key priorities and has tied Salazar to efforts to cut the programs; his position on additional revenue was not captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Robin Peguero, Eliott Rodriguez battle for a shot at Maria Elvira Salazar (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/811888-robin-peguero-eliott-rodriguez-battle-for-a-shot-at-maria-elvira-salazar/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Former CBS-4 anchor Eliott Rodriguez cites deep local roots in bid to win seat in Congress (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-07-13/former-cbs-4-anchor-eliott-rodriguez-cites-deep-local-roots-in-bid-to-win-seat-in-congress",
+              "date": "2026-07-13"
+            },
+            {
+              "title": "Candidate Profile: Eliott Rodriguez, Florida's 27th Congressional District (South Dade News Leader)",
+              "url": "https://www.southdadenewsleader.com/news/candidate-profile-eliott-rodriguez-floridas-27th-congressional-district/article_9763913c-deeb-40b3-94a4-ca844eacdcd0.html",
+              "date": "2026"
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -275,11 +628,22 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Rodriguez campaigned on addressing climate change and safeguarding South Florida's environment; specific proposals were not captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Eliott Rodriguez defeats Robin Peguero in CD 27 Democratic Primary (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/814671-eliott-rodriguez-defeats-robin-peguero-in-cd-27-democratic-primary/",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "Candidate Profile: Eliott Rodriguez, Florida's 27th Congressional District (South Dade News Leader)",
+              "url": "https://www.southdadenewsleader.com/news/candidate-profile-eliott-rodriguez-floridas-27th-congressional-district/article_9763913c-deeb-40b3-94a4-ca844eacdcd0.html",
+              "date": "2026"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -324,11 +688,22 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Rodriguez opposes the administration's tariffs, describing them as part of an 'anti-consumer agenda' that raises costs.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Former CBS-4 anchor Eliott Rodriguez cites deep local roots in bid to win seat in Congress (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-07-13/former-cbs-4-anchor-eliott-rodriguez-cites-deep-local-roots-in-bid-to-win-seat-in-congress",
+              "date": "2026-07-13"
+            },
+            {
+              "title": "Cost of living, immigration and Cuba: Eliott Rodriguez debates with Voz News anchor (Voz)",
+              "url": "https://voz.us/en/politics/260904/38847/cost-of-living-immigration-and-cuba-elliot-rodriguez-debates-with-voz-news-anchor-karina-yapor.html",
+              "date": "2026-09-04"
+            }
+          ]
         },
         "ukraine": {
           "stance": null,
@@ -338,11 +713,27 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Rodriguez frames his campaign as a challenge to 'Salazar and the Trump Republicans,' opposing the administration's deportation crackdown and tariffs.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Ex-TV anchor Eliott Rodriguez wins the Democratic nod in Florida's 27th (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-08-18/ex-tv-anchor-eliott-rodriguez-27-district",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "Maria Salazar slams Trump's immigration tactics (The Hill)",
+              "url": "https://thehill.com/homenews/campaign/6095767-maria-salazar-trump-immigration-ad/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Former CBS-4 anchor Eliott Rodriguez cites deep local roots in bid to win seat in Congress (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-07-13/former-cbs-4-anchor-eliott-rodriguez-cites-deep-local-roots-in-bid-to-win-seat-in-congress",
+              "date": "2026-07-13"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -363,9 +754,84 @@
               "date": "2026-08-18"
             }
           ]
+        },
+        {
+          "title": "Prosecuting corruption",
+          "summary": "He lists prosecuting corruption among his campaign themes.",
+          "sources": [
+            {
+              "title": "Eliott Rodriguez defeats Robin Peguero in CD 27 Democratic Primary (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/814671-eliott-rodriguez-defeats-robin-peguero-in-cd-27-democratic-primary/",
+              "date": "2026-08-18"
+            }
+          ]
+        },
+        {
+          "title": "Public education",
+          "summary": "His platform includes investing in public education.",
+          "sources": [
+            {
+              "title": "Candidate Profile: Eliott Rodriguez, Florida's 27th Congressional District (South Dade News Leader)",
+              "url": "https://www.southdadenewsleader.com/news/candidate-profile-eliott-rodriguez-floridas-27th-congressional-district/article_9763913c-deeb-40b3-94a4-ca844eacdcd0.html",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Cuba",
+          "summary": "The son of Cuban immigrants, he has discussed Cuba policy in interviews and was the first journalist to interview dissident Osvaldo Paya.",
+          "sources": [
+            {
+              "title": "Cost of living, immigration and Cuba: Eliott Rodriguez debates with Voz News anchor (Voz)",
+              "url": "https://voz.us/en/politics/260904/38847/cost-of-living-immigration-and-cuba-elliot-rodriguez-debates-with-voz-news-anchor-karina-yapor.html",
+              "date": "2026-09-04"
+            },
+            {
+              "title": "Former CBS-4 anchor Eliott Rodriguez cites deep local roots in bid to win seat in Congress (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-07-13/former-cbs-4-anchor-eliott-rodriguez-cites-deep-local-roots-in-bid-to-win-seat-in-congress",
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "title": "Prescription drug costs",
+          "summary": "He says he would work to lower prescription costs.",
+          "sources": [
+            {
+              "title": "Robin Peguero, Eliott Rodriguez battle for a shot at Maria Elvira Salazar (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/811888-robin-peguero-eliott-rodriguez-battle-for-a-shot-at-maria-elvira-salazar/",
+              "date": "2026-08"
+            }
+          ]
         }
       ],
-      "record": [],
+      "record": [
+        {
+          "item": "Anchored at CBS News Miami for 25 years before leaving to run in March 2026.",
+          "sources": [
+            {
+              "title": "Former CBS Miami anchor Eliott Rodriguez running for Florida's 27th district (NBC 6)",
+              "url": "https://www.nbcmiami.com/news/politics/former-cbs-miami-anchor-eliott-rodriguez-running-for-floridas-27th-district/3779290/",
+              "date": "2026-03"
+            },
+            {
+              "title": "Former CBS-4 anchor Eliott Rodriguez cites deep local roots in bid to win seat in Congress (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-07-13/former-cbs-4-anchor-eliott-rodriguez-cites-deep-local-roots-in-bid-to-win-seat-in-congress",
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "item": "Reported raising $312,000 in the first 21 days of his campaign.",
+          "sources": [
+            {
+              "title": "Eliott Rodriguez reports $312K raised in 21 days for CD 27 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/789171-this-is-what-consolidation-looks-like-eliott-rodriguez-reports-312k-raised-in-21-days-for-cd-27/",
+              "date": "2026-04"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

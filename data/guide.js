@@ -10266,14 +10266,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -10684,14 +10684,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -11019,14 +11019,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -11437,14 +11437,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -20667,14 +20667,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -20871,14 +20871,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21076,14 +21076,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21281,14 +21281,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21486,14 +21486,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21691,14 +21691,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21869,14 +21869,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22073,14 +22073,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22283,14 +22283,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22498,14 +22498,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22722,14 +22722,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22940,14 +22940,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -23161,14 +23161,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -23338,14 +23338,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -23544,14 +23544,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -23749,14 +23749,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -23921,14 +23921,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -24136,14 +24136,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -24325,14 +24325,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -24538,14 +24538,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -24710,14 +24710,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -24914,14 +24914,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -25086,14 +25086,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -25258,14 +25258,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -25467,14 +25467,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -25645,14 +25645,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -25854,14 +25854,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -26058,14 +26058,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -26241,14 +26241,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -26445,14 +26445,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -26617,14 +26617,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -26825,14 +26825,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -27035,14 +27035,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -27207,14 +27207,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -27415,14 +27415,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -27630,14 +27630,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -27808,14 +27808,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28017,14 +28017,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28204,14 +28204,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28376,14 +28376,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28580,14 +28580,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28788,14 +28788,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29009,14 +29009,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29213,14 +29213,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29422,14 +29422,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29599,14 +29599,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29776,14 +29776,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29953,14 +29953,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30162,14 +30162,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30366,14 +30366,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30584,14 +30584,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30768,14 +30768,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30978,14 +30978,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31157,14 +31157,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31376,14 +31376,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31560,14 +31560,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31771,14 +31771,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31986,14 +31986,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32165,14 +32165,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32388,14 +32388,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32567,14 +32567,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32787,14 +32787,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32971,14 +32971,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33149,14 +33149,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33365,14 +33365,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33595,14 +33595,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33774,14 +33774,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33993,14 +33993,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -34171,14 +34171,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -34387,14 +34387,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -34565,14 +34565,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -34781,14 +34781,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -34975,14 +34975,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35185,14 +35185,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35407,14 +35407,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35603,14 +35603,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35818,14 +35818,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36008,14 +36008,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36232,14 +36232,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36411,14 +36411,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36626,14 +36626,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36810,14 +36810,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37025,14 +37025,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37252,14 +37252,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37431,14 +37431,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37604,14 +37604,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37825,14 +37825,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38039,14 +38039,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38222,14 +38222,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38405,14 +38405,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -48807,7 +48807,7 @@ window.GUIDE_DATA = {
     "Hendry",
     "Collier (southern part, incl. Marco Island)"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": true,
    "decided_note": null,
    "kind": "race",
@@ -48841,18 +48841,29 @@ window.GUIDE_DATA = {
      "incumbent": false,
      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Casey_Askar.jpg",
      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-     "website": null,
-     "occupation": "Businessman (food-industry / restaurant franchising)",
+     "website": "https://www.caseyaskar.com/",
+     "occupation": "Businessman (restaurant franchisee, commercial real estate, energy and construction); U.S. Marine Corps veteran",
      "residence": "Not found",
-     "background": "Casey Askar, described in coverage as a food-industry businessman, won the crowded Aug. 18, 2026 Republican primary for the new 22nd District with about 31% of the vote, ahead of fintech entrepreneur Michael Carbonara (about 19%) and Keiser University vice chancellor Belinda Keiser (about 18%); Marine veteran David Burck also ran. The Cook Political Report rates the redrawn district R+4.",
+     "background": "Casey Askar was born in Iraq and came to the United States at age 7; his campaign says his family fled religious persecution. He joined the U.S. Marine Corps at 18 and later built businesses in franchising (his site cites brands such as Church's Chicken and Dunkin'), commercial real estate, energy and construction; he is a father of seven. He won the crowded Aug. 18, 2026 Republican primary for the new 22nd District with about 31% of the vote, ahead of fintech entrepreneur Michael Carbonara (about 19%) and Keiser University vice chancellor Belinda Keiser (about 18%); Marine veteran David Burck also ran. President Trump endorsed him for the general election in September 2026, and the NRCC added him to its 'MAGA Majority' program. The Cook Political Report rates the redrawn district R+4.",
      "primary_result": "Won Aug 18, 2026 Republican primary with ~31% over Carbonara (~19%), Keiser (~18%) and Burck (Florida Politics; NBC6)",
      "positions": {
       "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Askar's campaign site says Washington's problem is spending, not insufficient taxation; his stated priorities include lowering taxes and regulations and reducing federal spending.",
+       "quote": "Washington's problem is not that it taxes too little, but that it spends too much",
+       "sources": [
+        {
+         "title": "Casey Askar for Congress (campaign site)",
+         "url": "https://www.caseyaskar.com/",
+         "date": null
+        },
+        {
+         "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+         "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+         "date": "2026-08-04"
+        }
+       ]
       },
       "property_tax": {
        "stance": null,
@@ -48876,25 +48887,63 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Askar says President Trump's 'merit-based America First immigration policy needs to be kept in place' and lists securing the border among his priorities. A specific position on large-scale deportation was not found.",
+       "quote": "President Trump's merit-based America First immigration policy needs to be kept in place",
+       "sources": [
+        {
+         "title": "Casey Askar - US House Candidate: Record & Positions (Decode the Vote)",
+         "url": "https://www.decodethevote.com/candidate/cand-sos-fl-casey-askar",
+         "date": "2026"
+        },
+        {
+         "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+         "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+         "date": "2026-08-04"
+        },
+        {
+         "title": "Casey Askar for Congress (campaign site)",
+         "url": "https://www.caseyaskar.com/",
+         "date": null
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "In a candidate survey Askar said human life deserves legal protection from conception until natural death, and that embryos created through artificial methods should be protected from purposeful destruction.",
+       "quote": "human life deserves legal protection from conception until natural death",
+       "sources": [
+        {
+         "title": "iVoterGuide candidate profile - Casey Askar (FL U.S. Rep., Dist. 22)",
+         "url": "https://ivoterguide.com/candidate/53675/race/28531/election/1431",
+         "date": "2026"
+        },
+        {
+         "title": "Casey Askar - US House Candidate: Record & Positions (Decode the Vote)",
+         "url": "https://www.decodethevote.com/candidate/cand-sos-fl-casey-askar",
+         "date": "2026"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Askar's campaign says that as a congressman he 'will protect 2nd Amendment rights.' No position on specific measures such as red-flag laws or the 21 purchase age was found.",
+       "quote": "will protect 2nd Amendment rights",
+       "sources": [
+        {
+         "title": "Casey Askar for Congress (campaign site)",
+         "url": "https://www.caseyaskar.com/",
+         "date": null
+        },
+        {
+         "title": "Casey Askar's Issue Positions / Political Courage Test (Vote Smart)",
+         "url": "https://justfacts.votesmart.org/candidate/political-courage-test/191402/casey-askar",
+         "date": "2026"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -48906,9 +48955,15 @@ window.GUIDE_DATA = {
       "social_security": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "summary": "No public position found as of Sept 2026. Vote Smart reported it was unable to find his position on Social Security or Medicare.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Casey Askar's Issue Positions / Political Courage Test (Vote Smart)",
+         "url": "https://justfacts.votesmart.org/candidate/political-courage-test/191402/casey-askar",
+         "date": "2026"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -48939,18 +48994,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Askar supports mandatory Real ID and immigration-status verification to vote 'so that only American citizens can vote,' which would add a new registration/voting requirement.",
+       "quote": "so that only American citizens can vote",
+       "sources": [
+        {
+         "title": "Casey Askar - US House Candidate: Record & Positions (Decode the Vote)",
+         "url": "https://www.decodethevote.com/candidate/cand-sos-fl-casey-askar",
+         "date": "2026"
+        },
+        {
+         "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+         "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+         "date": "2026-08-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Askar lists supporting law enforcement among his campaign priorities; no detailed position on sentencing or police funding was found.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+         "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+         "date": "2026-08-04"
+        },
+        {
+         "title": "Casey Askar for Congress (campaign site)",
+         "url": "https://www.caseyaskar.com/",
+         "date": null
+        }
+       ]
       },
       "lgbtq": {
        "stance": null,
@@ -48960,11 +49037,27 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Askar supports 'unleashing' U.S. domestic energy production to reduce reliance on foreign oil; no statement on renewable energy or utility-rate oversight was found.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Casey Askar for Congress (campaign site)",
+         "url": "https://www.caseyaskar.com/",
+         "date": null
+        },
+        {
+         "title": "Casey Askar's Issue Positions / Political Courage Test (Vote Smart)",
+         "url": "https://justfacts.votesmart.org/candidate/political-courage-test/191402/casey-askar",
+         "date": "2026"
+        },
+        {
+         "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+         "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+         "date": "2026-08-04"
+        }
+       ]
       },
       "tariffs": {
        "stance": null,
@@ -48981,11 +49074,27 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Askar's campaign describes him as 'backing Trump agenda'; President Trump endorsed him in September 2026 and the NRCC placed him in its 'MAGA Majority' program.",
+       "quote": "backing Trump agenda",
+       "sources": [
+        {
+         "title": "Casey Askar for Congress (campaign site)",
+         "url": "https://www.caseyaskar.com/",
+         "date": null
+        },
+        {
+         "title": "President Trump endorses Republican congressional candidate Casey Askar for Florida's 22nd district (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-09-03/president-trump-endorses-republican-congressional-candidate-casey-askar-for-floridas-22nd-district",
+         "date": "2026-09-03"
+        },
+        {
+         "title": "NRCC Announces Casey Askar to MAGA Majority Program (NRCC)",
+         "url": "https://nrcc.org/2026/09/08/nrcc-announces-casey-askar-to-maga-majority-program/",
+         "date": "2026-09-08"
+        }
+       ]
       },
       "veterans": {
        "stance": null,
@@ -48995,9 +49104,147 @@ window.GUIDE_DATA = {
        "sources": []
       }
      },
-     "other_issues": [],
-     "record": [],
-     "endorsements": []
+     "other_issues": [
+      {
+       "title": "Reduce federal spending and regulation",
+       "summary": "Askar says he would cut federal spending, lower regulations and expand job opportunities, citing his experience employing thousands of workers.",
+       "sources": [
+        {
+         "title": "Casey Askar for Congress (campaign site)",
+         "url": "https://www.caseyaskar.com/",
+         "date": null
+        },
+        {
+         "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+         "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+         "date": "2026-08-04"
+        }
+       ]
+      },
+      {
+       "title": "Domestic energy production",
+       "summary": "He supports expanding U.S. domestic energy production for the economy and national security and to reduce reliance on foreign oil.",
+       "sources": [
+        {
+         "title": "Casey Askar for Congress (campaign site)",
+         "url": "https://www.caseyaskar.com/",
+         "date": null
+        },
+        {
+         "title": "Casey Askar's Issue Positions / Political Courage Test (Vote Smart)",
+         "url": "https://justfacts.votesmart.org/candidate/political-courage-test/191402/casey-askar",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Voter ID / citizenship verification",
+       "summary": "He supports mandatory Real ID and immigration-status verification to vote.",
+       "sources": [
+        {
+         "title": "Casey Askar - US House Candidate: Record & Positions (Decode the Vote)",
+         "url": "https://www.decodethevote.com/candidate/cand-sos-fl-casey-askar",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Parental involvement in education",
+       "summary": "His priorities include expanding parental involvement and educational opportunities.",
+       "sources": [
+        {
+         "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+         "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+         "date": "2026-08-04"
+        }
+       ]
+      },
+      {
+       "title": "Support for law enforcement",
+       "summary": "He lists supporting law enforcement among his priorities.",
+       "sources": [
+        {
+         "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
+         "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+         "date": "2026-08-04"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Endorsed by President Trump for the Nov. 2026 general election (Truth Social post quoted by WLRN and WINK).",
+       "sources": [
+        {
+         "title": "President Trump endorses Republican congressional candidate Casey Askar for Florida's 22nd district (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-09-03/president-trump-endorses-republican-congressional-candidate-casey-askar-for-floridas-22nd-district",
+         "date": "2026-09-03"
+        },
+        {
+         "title": "Trump endorses Casey Askar, Jim Schwartzel for Florida congressional seats (WINK News)",
+         "url": "https://www.winknews.com/news/politics/trump-endorses-casey-askar-jim-schwartzel-for-florida-congressional-seats/article_49182eef-447a-4f83-8f54-145a79d070b4.html",
+         "date": "2026-09"
+        }
+       ]
+      },
+      {
+       "item": "Added to the NRCC's 2026 'MAGA Majority' program in September 2026.",
+       "sources": [
+        {
+         "title": "NRCC Announces Casey Askar to MAGA Majority Program (NRCC)",
+         "url": "https://nrcc.org/2026/09/08/nrcc-announces-casey-askar-to-maga-majority-program/",
+         "date": "2026-09-08"
+        }
+       ]
+      },
+      {
+       "item": "Won the Aug. 18, 2026 Republican primary with about 31% in a multi-candidate field.",
+       "sources": [
+        {
+         "title": "Casey Askar, Pia Dandiya to compete for new CD 22 seat (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/814079-casey-askar-pia-dandiya-to-compete-for-new-cd-22-seat-after-winning-their-primary-races-tuesday/",
+         "date": "2026-08-18"
+        }
+       ]
+      }
+     ],
+     "endorsements": [
+      {
+       "by": "President Donald Trump",
+       "sources": [
+        {
+         "title": "President Trump endorses Republican congressional candidate Casey Askar for Florida's 22nd district (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-09-03/president-trump-endorses-republican-congressional-candidate-casey-askar-for-floridas-22nd-district",
+         "date": "2026-09-03"
+        },
+        {
+         "title": "Trump endorses Casey Askar, Jim Schwartzel for Florida congressional seats (WINK News)",
+         "url": "https://www.winknews.com/news/politics/trump-endorses-casey-askar-jim-schwartzel-for-florida-congressional-seats/article_49182eef-447a-4f83-8f54-145a79d070b4.html",
+         "date": "2026-09"
+        }
+       ]
+      },
+      {
+       "by": "CPAC",
+       "sources": [
+        {
+         "title": "Top Conservative Group CPAC Endorses 'Proven Conservative' Casey Askar for Congress (The Floridian)",
+         "url": "https://floridianpress.com/2026/07/top-conservative-group-cpac-endorses-proven-conservative-casey-askar-for-congress/",
+         "date": "2026-07"
+        }
+       ]
+      },
+      {
+       "by": "Gen. Michael Flynn (primary)",
+       "sources": [
+        {
+         "title": "General Mike Flynn Endorses Casey Askar for Florida's 22nd Congressional District Race (The Floridian)",
+         "url": "https://floridianpress.com/2026/08/hold_flynn/",
+         "date": "2026-08"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "pia_dandiya",
@@ -49006,10 +49253,10 @@ window.GUIDE_DATA = {
      "incumbent": false,
      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Pia_Dandiya.jpg",
      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-     "website": null,
-     "occupation": "Former high school principal; former White House Fellow",
-     "residence": "Not found",
-     "background": "Pia Dandiya is a former high school principal and White House Fellow. She won the Aug. 18, 2026 Democratic primary with about 61% of the vote over attorney Kaysia Earley.",
+     "website": "https://piaforcongress.com/",
+     "occupation": "Former Apple executive (public-sector partnerships); former high school principal; former White House Fellow",
+     "residence": "Palm Beach Gardens, Palm Beach County",
+     "background": "Pia Dandiya, a first-generation American born and raised in Palm Beach County, worked as a public school teacher and became a high school principal in Harlem at age 28; she later served as a White House Fellow and as an Apple executive leading public-sector partnerships in education, health care and state government. She originally launched a campaign against U.S. Rep. Brian Mast in the old 21st District and shifted to the new 22nd after the 2026 map was adopted. She won the Aug. 18, 2026 Democratic primary with about 61% over attorney Kaysia Earley. The DCCC placed her in its 'Red to Blue' program and her campaign reported crossing $2 million raised. She lives in Palm Beach Gardens with her husband and son.",
      "primary_result": "Won Aug 18, 2026 Democratic primary with ~61.3% over Kaysia Earley (Florida Politics; NBC6)",
      "positions": {
       "taxes": {
@@ -49048,1389 +49295,27 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "healthcare": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      }
-     },
-     "other_issues": [],
-     "record": [],
-     "endorsements": []
-    }
-   ]
-  },
-  {
-   "id": "us_house_23",
-   "order": 20023,
-   "title": "U.S. House, District 23",
-   "level": "federal",
-   "office_group": "Federal",
-   "term": "2 years",
-   "what_it_does": "Represents Florida's 23th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-   "jurisdiction": {
-    "type": "cd",
-    "id": 23
-   },
-   "counties": [
-    "Palm Beach"
-   ],
-   "coverage": "roster",
-   "on_november_ballot": true,
-   "decided_note": null,
-   "kind": "race",
-   "ballot_summary": null,
-   "what_yes_means": null,
-   "what_no_means": null,
-   "verified_ballot_note": "Roster from WPTV, WLRN and Florida Politics: Lois Frankel (D) vs. Deborah Adeimy (R). The redrawn CD 23 lies entirely within Palm Beach County. No NPA candidate identified; absence unconfirmed.",
-   "verified_ballot_sources": [
-    {
-     "title": "wptv.com",
-     "url": "https://www.wptv.com/news/political/elections-local/lois-frankel-wins-democratic-nomination-for-u-s-house-in-floridas-23rd-congressional-district"
-    },
-    {
-     "title": "floridapolitics.com",
-     "url": "https://floridapolitics.com/archives/814105-lois-frankel-to-face-republican-challenger-deborah-adeimy-for-control-of-new-cd-23-seat/"
-    },
-    {
-     "title": "wlrn.org",
-     "url": "https://www.wlrn.org/government-politics/2026-08-18/lois-frankel-wins-victoria-doyle-florida-23-primary"
-    },
-    {
-     "title": "wusf.org",
-     "url": "https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map"
-    }
-   ],
-   "candidates": [
-    {
-     "id": "lois_frankel",
-     "name": "Lois Frankel",
-     "party": "Democratic",
-     "incumbent": true,
-     "photo_url": "https://www.congress.gov/img/member/f000462_200.jpg",
-     "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
-     "website": null,
-     "occupation": "U.S. Representative (since 2013; currently represents CD 22)",
-     "residence": "West Palm Beach, Palm Beach County",
-     "background": "Lois Frankel, a former West Palm Beach mayor and Florida House minority leader, has served in Congress since 2013 and currently represents the 22nd District; after the 2026 map she shifted her candidacy to the new 23rd. She won the Aug. 18, 2026 Democratic primary with about 75%, defeating Victoria Doyle (about 23%) and Mark Piper (about 2%). Note: she is a sitting member of Congress; the current CD 23 representative, Jared Moskowitz, is running in CD 25.",
-     "primary_result": "Won Aug 18, 2026 Democratic primary with ~75% over Victoria Doyle (~23%) and Mark Piper (~2%) (WPTV; WLRN)",
-     "positions": {
-      "taxes": {
-       "stance": -1,
-       "confidence": "record",
-       "summary": "Voted against H.R. 1 (2025), the law that extended the 2017 tax cuts while cutting projected Medicaid and food-assistance spending.",
-       "sources": [
-        {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
-        }
-       ]
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "healthcare": {
-       "stance": 1,
-       "confidence": "record",
-       "summary": "Voted against H.R. 1 (2025), citing its Medicaid work requirements and projected coverage losses; no vote on Medicaid expansion itself, which is a state decision.",
-       "sources": [
-        {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
-        }
-       ]
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": 1,
-       "confidence": "record",
-       "summary": "Voted against H.R. 1 (2025), which repealed most clean-energy tax credits.",
-       "sources": [
-        {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
-        }
-       ]
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      }
-     },
-     "other_issues": [],
-     "record": [],
-     "endorsements": []
-    },
-    {
-     "id": "deborah_adeimy",
-     "name": "Deborah Adeimy",
-     "party": "Republican",
-     "incumbent": false,
-     "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Deborah_Adeimy.jpg",
-     "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-     "website": null,
-     "occupation": "Not found",
-     "residence": "Palm Beach County (not verified)",
-     "background": "Deborah Adeimy won the Aug. 18, 2026 Republican primary with about 74% of the vote over Paola Branda and will face Lois Frankel in November.",
-     "primary_result": "Won Aug 18, 2026 Republican primary with ~74% over Paola Branda (Florida Politics)",
-     "positions": {
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "healthcare": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      }
-     },
-     "other_issues": [],
-     "record": [],
-     "endorsements": []
-    }
-   ]
-  },
-  {
-   "id": "us_house_24",
-   "order": 20024,
-   "title": "U.S. House, District 24",
-   "level": "federal",
-   "office_group": "Federal",
-   "term": "2 years",
-   "what_it_does": "Represents Florida's 24th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-   "jurisdiction": {
-    "type": "cd",
-    "id": 24
-   },
-   "counties": [
-    "Miami-Dade (part)",
-    "Broward (part)"
-   ],
-   "coverage": "roster",
-   "on_november_ballot": true,
-   "decided_note": null,
-   "kind": "race",
-   "ballot_summary": null,
-   "what_yes_means": null,
-   "what_no_means": null,
-   "verified_ballot_note": "Open seat (Rep. Frederica Wilson retiring). Roster from WLRN, CBS Miami, Local 10, NBC6 and Florida Politics: Oliver Gilbert (D) vs. Te Mayonna Brown (R), who was unopposed in her primary. County makeup: Miami-Dade-based district; local coverage (Miramar News) describes it as also reaching into Broward.",
-   "verified_ballot_sources": [
-    {
-     "title": "wlrn.org",
-     "url": "https://www.wlrn.org/government-politics/2026-08-18/oliver-gilbert-prevails-in-crowded-7-way-democratic-primary-to-succeed-rep-frederica-wilson"
-    },
-    {
-     "title": "nbcmiami.com",
-     "url": "https://www.nbcmiami.com/news/politics/decision/te-brown-is-projected-winner-of-floridas-district-24-republican-primary/3847775/"
-    },
-    {
-     "title": "miramarflnews.com",
-     "url": "https://www.miramarflnews.com/news/local/article316923349.html"
-    },
-    {
-     "title": "wusf.org",
-     "url": "https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map"
-    }
-   ],
-   "candidates": [
-    {
-     "id": "oliver_gilbert",
-     "name": "Oliver Gilbert",
-     "party": "Democratic",
-     "incumbent": false,
-     "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Oliver_Gilbert.jpg",
-     "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-     "website": null,
-     "occupation": "Former Miami-Dade County Commissioner; former Mayor of Miami Gardens",
-     "residence": "Miami Gardens, Miami-Dade County",
-     "background": "Oliver Gilbert is a former Miami-Dade County Commissioner and former mayor of Miami Gardens. He won the seven-way Aug. 18, 2026 Democratic primary with about 34.5%, edging state Sen. Shevrin Jones (about 32%), with Kendrick Meek Jr. (about 17%), Rudolph Moise, Jean Monestime, Marshall Davis Sr. and Roderick Vereen trailing.",
-     "primary_result": "Won Aug 18, 2026 Democratic primary with ~34.5% over Shevrin Jones (~32%), Kendrick Meek Jr. (~17%) and four others (Florida Politics; Local 10; CBS Miami)",
-     "positions": {
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "healthcare": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      }
-     },
-     "other_issues": [],
-     "record": [],
-     "endorsements": []
-    },
-    {
-     "id": "te_brown",
-     "name": "Te Mayonna Brown",
-     "party": "Republican",
-     "incumbent": false,
-     "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Te_Brown.jpg",
-     "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-     "website": null,
-     "occupation": "Not found",
-     "residence": "Not found",
-     "background": "Te Mayonna (Te) Brown was the only Republican to file for District 24 and advanced to the November general election, where she faces Democrat Oliver Gilbert in a district that leans heavily Democratic.",
-     "primary_result": "Unopposed for Republican nomination (NBC6; WLRN)",
-     "positions": {
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "healthcare": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      }
-     },
-     "other_issues": [],
-     "record": [],
-     "endorsements": []
-    }
-   ]
-  },
-  {
-   "id": "us_house_25",
-   "order": 20025,
-   "title": "U.S. House, District 25",
-   "level": "federal",
-   "office_group": "Federal",
-   "term": "2 years",
-   "what_it_does": "Represents Florida's 25th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-   "jurisdiction": {
-    "type": "cd",
-    "id": 25
-   },
-   "counties": [
-    "Palm Beach (part, incl. Boca Raton)",
-    "Broward (part)"
-   ],
-   "coverage": "roster",
-   "on_november_ballot": true,
-   "decided_note": null,
-   "kind": "race",
-   "ballot_summary": null,
-   "what_yes_means": null,
-   "what_no_means": null,
-   "verified_ballot_note": "Newly drawn district. Roster from CBS Miami, Boca Daily News and Boca Raton Tribune: Scott Singer (R) vs. Jared Moskowitz (D). County makeup inferred from coverage (Boca Raton-based; Rep. Wasserman Schultz's Weston home no longer inside it) and not independently confirmed. No NPA candidate identified; absence unconfirmed.",
-   "verified_ballot_sources": [
-    {
-     "title": "cbsnews.com",
-     "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-25-republican-scott-singer/"
-    },
-    {
-     "title": "bocadailynews.com",
-     "url": "https://bocadailynews.com/2026/08/former-boca-raton-mayor-singer-wins-gop-congressional-primary"
-    },
-    {
-     "title": "cbsnews.com",
-     "url": "https://www.cbsnews.com/miami/live-updates/2026-florida-primary-live-updates-results/"
-    },
-    {
-     "title": "wusf.org",
-     "url": "https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map"
-    }
-   ],
-   "candidates": [
-    {
-     "id": "scott_singer",
-     "name": "Scott Singer",
-     "party": "Republican",
-     "incumbent": false,
-     "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Scott_Singer.jpg",
-     "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-     "website": "https://www.scottsingerusa.com/",
-     "occupation": "Former Mayor of Boca Raton",
-     "residence": "Boca Raton, Palm Beach County",
-     "background": "Scott Singer served as mayor of Boca Raton (sworn in 2018). He won the five-way Aug. 18, 2026 Republican primary for the new 25th District with 11,758 votes (about 31%), narrowly ahead of George Moraitis (10,299) and Dan Franzese (9,634), with Joe Kaufman (4,630) and Raven Harrison (1,183) trailing.",
-     "primary_result": "Won Aug 18, 2026 Republican primary with 11,758 votes (~31%) over Moraitis (10,299), Franzese (9,634), Kaufman (4,630) and Harrison (1,183) (Boca Daily News; CBS Miami)",
-     "positions": {
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "healthcare": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      }
-     },
-     "other_issues": [],
-     "record": [],
-     "endorsements": []
-    },
-    {
-     "id": "jared_moskowitz",
-     "name": "Jared Moskowitz",
-     "party": "Democratic",
-     "incumbent": true,
-     "photo_url": "https://www.congress.gov/img/member/m001217_200.jpg",
-     "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
-     "website": null,
-     "occupation": "U.S. Representative (since 2023; currently represents CD 23)",
-     "residence": "Parkland, Broward County",
-     "background": "Jared Moskowitz has served in Congress since 2023 representing the 23rd District and previously was Florida's emergency management director and a state representative. After the 2026 redistricting he ran in the new 25th and won the Aug. 18, 2026 Democratic primary over Oliver Larkin. Note: he is a sitting member of Congress but the new CD 25 is an open seat.",
-     "primary_result": "Won Aug 18, 2026 Democratic primary over Oliver Larkin (CBS Miami); percentage not captured",
-     "positions": {
-      "taxes": {
-       "stance": -1,
-       "confidence": "record",
-       "summary": "Voted against H.R. 1 (2025), the law that extended the 2017 tax cuts while cutting projected Medicaid and food-assistance spending.",
-       "sources": [
-        {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
-        }
-       ]
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "healthcare": {
-       "stance": 1,
-       "confidence": "record",
-       "summary": "Voted against H.R. 1 (2025), citing its Medicaid work requirements and projected coverage losses; no vote on Medicaid expansion itself, which is a state decision.",
-       "sources": [
-        {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
-        }
-       ]
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": 1,
-       "confidence": "record",
-       "summary": "Voted against H.R. 1 (2025), which repealed most clean-energy tax credits.",
-       "sources": [
-        {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
-        }
-       ]
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      }
-     },
-     "other_issues": [],
-     "record": [],
-     "endorsements": []
-    }
-   ]
-  },
-  {
-   "id": "us_house_26",
-   "order": 20026,
-   "title": "U.S. House, District 26",
-   "level": "federal",
-   "office_group": "Federal",
-   "term": "2 years",
-   "what_it_does": "Represents Florida's 26th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-   "jurisdiction": {
-    "type": "cd",
-    "id": 26
-   },
-   "counties": [
-    "Miami-Dade (part)"
-   ],
-   "coverage": "roster",
-   "on_november_ballot": true,
-   "decided_note": null,
-   "kind": "race",
-   "ballot_summary": null,
-   "what_yes_means": null,
-   "what_no_means": null,
-   "verified_ballot_note": "Roster from CBS Miami primary coverage and local (Coral Springs/Miramar/Pembroke Pines News) reporting: Mario Diaz-Balart (R) and Nicole Locklin (D) were each unopposed in their primaries; Deborah Meidinger Hosey (NPA) is also on the November ballot. County makeup under the new map was not confirmed beyond Miami-Dade.",
-   "verified_ballot_sources": [
-    {
-     "title": "cbsnews.com",
-     "url": "https://www.cbsnews.com/miami/live-updates/2026-florida-primary-live-updates-results/"
-    },
-    {
-     "title": "coralspringsflnews.com",
-     "url": "https://www.coralspringsflnews.com/news/local/article316927284.html"
-    },
-    {
-     "title": "locklinforcongress.com",
-     "url": "https://locklinforcongress.com/"
-    },
-    {
-     "title": "wusf.org",
-     "url": "https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map"
-    }
-   ],
-   "candidates": [
-    {
-     "id": "mario_diaz_balart",
-     "name": "Mario Diaz-Balart",
-     "party": "Republican",
-     "incumbent": true,
-     "photo_url": "https://www.congress.gov/img/member/d000600_200.jpg",
-     "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
-     "website": null,
-     "occupation": "U.S. Representative (since 2003)",
-     "residence": "Hialeah area, Miami-Dade County (not re-verified)",
-     "background": "Mario Diaz-Balart has served in the U.S. House since 2003 and previously served in the Florida Legislature. He was unopposed in the Aug. 18, 2026 Republican primary for the 26th District.",
-     "primary_result": "Unopposed in Aug 18, 2026 Republican primary (CBS Miami)",
-     "positions": {
-      "taxes": {
        "stance": 2,
-       "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+       "confidence": "stated",
+       "summary": "Dandiya says she supports codifying and protecting reproductive rights and defends access to abortion and contraception, arguing that personal health-care and family decisions should be free from government interference.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
-        }
-       ]
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "immigration": {
-       "stance": 2,
-       "confidence": "record",
-       "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
-       "sources": [
-        {
-         "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
-         "date": "2025-01"
+         "title": "Pia Dandiya for Congress (campaign site)",
+         "url": "https://piaforcongress.com/",
+         "date": null
         },
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
+         "date": "2025"
+        },
+        {
+         "title": "Pia Dandiya - EMILYs List",
+         "url": "https://emilyslist.org/candidate/pia-dandiya/",
+         "date": "2026"
         }
        ]
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
       },
       "guns": {
        "stance": null,
@@ -50440,204 +49325,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "healthcare": {
-       "stance": -2,
-       "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Dandiya says she is running to lower health-care costs; her launch agenda includes 'reducing health care costs.' A specific position on Medicaid expansion or ACA subsidies was not found.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Meet Pia Dandiya (campaign site)",
+         "url": "https://piaforcongress.com/about",
+         "date": null
+        },
+        {
+         "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
+         "date": "2025"
         }
        ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Dandiya lists protecting Social Security and Medicare as one of her main reasons for running; how she would fund the programs (e.g., additional revenue) was not specified in sources found.",
        "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": -2,
-       "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
-        }
-       ]
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      }
-     },
-     "other_issues": [],
-     "record": [
-      {
-       "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
-       "sources": [
+         "title": "Meet Pia Dandiya (campaign site)",
+         "url": "https://piaforcongress.com/about",
+         "date": null
+        },
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
+         "date": "2025"
         }
        ]
-      }
-     ],
-     "endorsements": []
-    },
-    {
-     "id": "nicole_locklin",
-     "name": "Nicole Locklin",
-     "party": "Democratic",
-     "incumbent": false,
-     "photo_url": null,
-     "photo_source": "campaign site og:image (URL unverified)",
-     "website": "https://locklinforcongress.com/",
-     "occupation": "Attorney",
-     "residence": "Miami, Miami-Dade County",
-     "background": "Nicole Locklin is a Miami-based attorney with more than a decade of experience in law, compliance and business operations, including work at the technology company Nextdoor beginning in 2020. She was unopposed in the Aug. 18, 2026 Democratic primary. Her campaign launch emphasized affordability, anti-corruption, economic justice and ending 'endless wars.'",
-     "primary_result": "Unopposed in Aug 18, 2026 Democratic primary (CBS Miami)",
-     "positions": {
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "healthcare": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
       },
       "education_choice": {
        "stance": null,
@@ -50726,6 +49447,3172 @@ window.GUIDE_DATA = {
      },
      "other_issues": [
       {
+       "title": "Affordability and cost of living",
+       "summary": "Dandiya says she is running to 'take on the affordability crisis.'",
+       "sources": [
+        {
+         "title": "Meet Pia Dandiya (campaign site)",
+         "url": "https://piaforcongress.com/about",
+         "date": null
+        },
+        {
+         "title": "This Week in South Florida: Pia Dandiya (Local 10)",
+         "url": "https://www.local10.com/this-week-in-south-florida/2026/08/30/this-week-in-south-florida-pia-dandiya/",
+         "date": "2026-08-30"
+        }
+       ]
+      },
+      {
+       "title": "Anti-corruption in Congress",
+       "summary": "She says she wants to 'crack down on corruption in Congress.'",
+       "sources": [
+        {
+         "title": "Meet Pia Dandiya (campaign site)",
+         "url": "https://piaforcongress.com/about",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Universal pre-K and public education",
+       "summary": "Her launch agenda includes passing universal pre-K and investing in strengthening public education.",
+       "sources": [
+        {
+         "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
+         "date": "2025"
+        }
+       ]
+      },
+      {
+       "title": "Workforce preparation",
+       "summary": "She lists preparing Americans for 21st-century jobs among her legislative goals.",
+       "sources": [
+        {
+         "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
+         "date": "2025"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Placed in the DCCC's 'Red to Blue' program; campaign reported crossing $2 million raised.",
+       "sources": [
+        {
+         "title": "Pia Dandiya - EMILYs List",
+         "url": "https://emilyslist.org/candidate/pia-dandiya/",
+         "date": "2026"
+        },
+        {
+         "title": "Pia Dandiya reports raising $400K in first month (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/746401-pia-dandiya-reports-raising-400k-in-first-month-running-to-unseat-brian-mast-in-cd-21/",
+         "date": "2025"
+        }
+       ]
+      },
+      {
+       "item": "Originally launched in the old CD 21 against Rep. Brian Mast before shifting to the new CD 22 after redistricting.",
+       "sources": [
+        {
+         "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
+         "date": "2025"
+        }
+       ]
+      }
+     ],
+     "endorsements": [
+      {
+       "by": "EMILYs List",
+       "sources": [
+        {
+         "title": "Pia Dandiya - EMILYs List",
+         "url": "https://emilyslist.org/candidate/pia-dandiya/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "by": "New Politics",
+       "sources": [
+        {
+         "title": "New Politics endorses Pia Dandiya for Congress in Florida's 22nd District (New Politics)",
+         "url": "https://www.newpolitics.org/news/new-politics-endorses-pia-dandiya-for-congress-in-floridas-22nd-district",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "by": "South Florida Sun Sentinel editorial board (Democratic primary)",
+       "sources": [
+        {
+         "title": "Sun Sentinel primary endorsement (reposted on campaign site)",
+         "url": "https://piaforcongress.com/updates/sun-sentinel-endorsement-cd22",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "by": "Dave Aronberg and Patrick Murphy (during CD 21 bid)",
+       "sources": [
+        {
+         "title": "'An ideal candidate': Pia Dandiya's CD 21 bid adds nods from Dave Aronberg, Patrick Murphy (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/748695-an-ideal-candidate-pia-dandiyas-cd-21-bid-adds-nods-from-dave-aronberg-patrick-murphy/",
+         "date": "2025"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "us_house_23",
+   "order": 20023,
+   "title": "U.S. House, District 23",
+   "level": "federal",
+   "office_group": "Federal",
+   "term": "2 years",
+   "what_it_does": "Represents Florida's 23th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
+   "jurisdiction": {
+    "type": "cd",
+    "id": 23
+   },
+   "counties": [
+    "Palm Beach"
+   ],
+   "coverage": "partial",
+   "on_november_ballot": true,
+   "decided_note": null,
+   "kind": "race",
+   "ballot_summary": null,
+   "what_yes_means": null,
+   "what_no_means": null,
+   "verified_ballot_note": "Roster from WPTV, WLRN and Florida Politics: Lois Frankel (D) vs. Deborah Adeimy (R). The redrawn CD 23 lies entirely within Palm Beach County. No NPA candidate identified; absence unconfirmed.",
+   "verified_ballot_sources": [
+    {
+     "title": "wptv.com",
+     "url": "https://www.wptv.com/news/political/elections-local/lois-frankel-wins-democratic-nomination-for-u-s-house-in-floridas-23rd-congressional-district"
+    },
+    {
+     "title": "floridapolitics.com",
+     "url": "https://floridapolitics.com/archives/814105-lois-frankel-to-face-republican-challenger-deborah-adeimy-for-control-of-new-cd-23-seat/"
+    },
+    {
+     "title": "wlrn.org",
+     "url": "https://www.wlrn.org/government-politics/2026-08-18/lois-frankel-wins-victoria-doyle-florida-23-primary"
+    },
+    {
+     "title": "wusf.org",
+     "url": "https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "lois_frankel",
+     "name": "Lois Frankel",
+     "party": "Democratic",
+     "incumbent": true,
+     "photo_url": "https://www.congress.gov/img/member/f000462_200.jpg",
+     "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
+     "website": "https://loisfrankelforcongress.com/",
+     "occupation": "U.S. Representative (since 2013; currently represents CD 22)",
+     "residence": "West Palm Beach, Palm Beach County",
+     "background": "Lois Frankel, a former West Palm Beach mayor and Florida House minority leader, has served in Congress since 2013 and currently represents the 22nd District; after the 2026 map she shifted her candidacy to the new 23rd. She is the ranking Democrat on the House Appropriations subcommittee on National Security, Department of State and Related Programs. She won the Aug. 18, 2026 Democratic primary with about 75%, defeating Victoria Doyle (about 23%) and Mark Piper (about 2%). Florida Politics reports she says protecting entitlements and reforming immigration are her top priorities for an eighth term.",
+     "primary_result": "Won Aug 18, 2026 Democratic primary with ~75% over Victoria Doyle (~23%) and Mark Piper (~2%) (WPTV; WLRN)",
+     "positions": {
+      "taxes": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Frankel voted against H.R. 1 (2025), which extended the 2017 tax cuts while reducing Medicaid and SNAP spending; her statement cited 'the largest Medicaid cut in history.' She has not stated that tax cuts should take priority over services.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Rep. Frankel Votes No on Trump, Republicans' Big, Ugly Bill (frankel.house.gov)",
+         "url": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=4883",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07-04"
+        },
+        {
+         "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        }
+       ]
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Frankel names 'reforming immigration' as a top priority (Florida Politics, Aug. 2026), but the specific enforcement/deportation positions needed to code this statement were not captured; her individual Laken Riley Act vote was not confirmed in sources found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Seeking eighth term, Lois Frankel says protecting entitlements, reforming immigration are her top priorities (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/814326-frankel-priorities/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      "abortion": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Frankel co-leads the Women's Health Protection Act, which would guarantee a right to abortion care nationwide, and says women, not politicians, should decide whether and when to start a family, with access to abortion, contraception and IVF.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Pressley, Chu, Frankel, Escobar lead 204 colleagues to introduce Women's Health Protection Act (Rep. Pressley release)",
+         "url": "https://pressley.house.gov/2023/03/30/pressley-chu-frankel-escobar-lead-204-colleagues-to-introduce-womens-health-protection-act-of-2023/",
+         "date": "2023-03-30"
+        },
+        {
+         "title": "H.R.12 - Women's Health Protection Act of 2025 - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/12/text",
+         "date": "2025"
+        },
+        {
+         "title": "Women's Health Care - issue page (frankel.house.gov)",
+         "url": "https://frankel.house.gov/issues/issue/?IssueID=14898",
+         "date": null
+        }
+       ]
+      },
+      "guns": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Frankel voted for the Bipartisan Safer Communities Act (2022), which expanded background checks for buyers under 21 and funded state red-flag laws. Her position on other measures was not captured.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Rep. Frankel Statement on Passage of Bipartisan Gun Violence Prevention Bill (frankel.house.gov)",
+         "url": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=3494",
+         "date": "2022-06"
+        }
+       ]
+      },
+      "healthcare": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Frankel voted no on H.R. 1 (2025), saying it would 'rip health care away from nearly 17 million Americans, including two million Floridians' through Medicaid cuts. A specific statement on extending ACA subsidies or Florida Medicaid expansion was not captured.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Rep. Frankel Votes No on Trump, Republicans' Big, Ugly Bill (frankel.house.gov)",
+         "url": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=4883",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07-04"
+        },
+        {
+         "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        }
+       ]
+      },
+      "social_security": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Frankel told Florida Politics that protecting entitlements (Social Security and Medicare) is one of her top priorities for another term; her office maintains a Social Security and Medicare issue page. Her position on new revenue was not captured.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Seeking eighth term, Lois Frankel says protecting entitlements, reforming immigration are her top priorities (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/814326-frankel-priorities/",
+         "date": "2026-08"
+        },
+        {
+         "title": "Social Security and Medicare - issue page (frankel.house.gov)",
+         "url": "https://frankel.house.gov/news/documentquery.aspx?IssueID=14896",
+         "date": null
+        }
+       ]
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Frankel voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote; only four Democrats supported it. In 2026 she publicly weighed in on SAVE America Act provisions in a reconciliation package.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+         "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "Donalds, Diaz-Balart, Frankel weigh in on SAVE America Act provisions in budget reconciliation package (The Floridian)",
+         "url": "https://floridianpress.com/2026/07/donalds-diaz-balart-weigh-in-on-save-america-act-provisions-in-budget-reconciliation-package/",
+         "date": "2026-07"
+        }
+       ]
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against H.R. 1 (2025), which repealed most clean-energy tax credits.",
+       "sources": [
+        {
+         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07"
+        }
+       ]
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Frankel voted for the $60.8 billion Ukraine Security Supplemental Appropriations Act (H.R. 8035) in April 2024, which passed 311-112 with all Democrats in favor. As ranking member of the State-Foreign Operations subcommittee she criticized 2026 cuts to humanitarian aid, citing Ukraine.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "Ranking Member Frankel statement at full committee markup of the 2026 State, Foreign Operations funding bill (House Appropriations Democrats)",
+         "url": "https://democrats-appropriations.house.gov/news/statements/ranking-member-frankel-statement-full-committee-markup-2026-state-foreign",
+         "date": "2025"
+        }
+       ]
+      },
+      "trump": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Frankel voted against and publicly labeled the administration's signature 2025 bill the 'Big, Ugly Bill,' and has criticized the administration's foreign-aid cuts and reinstatement of the 'Global Gag Rule.'",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Rep. Frankel Votes No on Trump, Republicans' Big, Ugly Bill (frankel.house.gov)",
+         "url": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=4883",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "Ranking Member Frankel statement at full committee markup of the 2026 State, Foreign Operations funding bill (House Appropriations Democrats)",
+         "url": "https://democrats-appropriations.house.gov/news/statements/ranking-member-frankel-statement-full-committee-markup-2026-state-foreign",
+         "date": "2025"
+        }
+       ]
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Foreign aid and State Department funding",
+       "summary": "As ranking Democrat on the National Security/State subcommittee, Frankel opposed a 42% cut to humanitarian aid and the reinstatement of the 'Global Gag Rule' in the 2026 bill; her office says she later led House passage of the FY26 State Department funding bill.",
+       "sources": [
+        {
+         "title": "Ranking Member Frankel statement at full committee markup of the 2026 State, Foreign Operations funding bill (House Appropriations Democrats)",
+         "url": "https://democrats-appropriations.house.gov/news/statements/ranking-member-frankel-statement-full-committee-markup-2026-state-foreign",
+         "date": "2025"
+        },
+        {
+         "title": "Rep. Frankel Leads House Passage of FY26 National Security and Department of State Funding Bill (frankel.house.gov)",
+         "url": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=4952",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Women's Health Protection Act",
+       "summary": "Co-lead of legislation to codify a nationwide right to abortion care.",
+       "sources": [
+        {
+         "title": "Pressley, Chu, Frankel, Escobar lead 204 colleagues to introduce Women's Health Protection Act (Rep. Pressley release)",
+         "url": "https://pressley.house.gov/2023/03/30/pressley-chu-frankel-escobar-lead-204-colleagues-to-introduce-womens-health-protection-act-of-2023/",
+         "date": "2023-03-30"
+        },
+        {
+         "title": "H.R.12 - Women's Health Protection Act of 2025 - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/12/text",
+         "date": "2025"
+        }
+       ]
+      },
+      {
+       "title": "Seniority as an asset",
+       "summary": "In the primary Frankel campaigned on her seniority and appropriations role.",
+       "sources": [
+        {
+         "title": "Lois Frankel banks on seniority against progressive challenger Victoria Doyle (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/813028-lois-frankel-banks-on-seniority-against-progressive-challenger-victoria-doyle-in-cd-23-primary/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "title": "Entitlement protection and immigration reform",
+       "summary": "She lists protecting Social Security/Medicare and reforming immigration as her top priorities for the next term.",
+       "sources": [
+        {
+         "title": "Seeking eighth term, Lois Frankel says protecting entitlements, reforming immigration are her top priorities (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/814326-frankel-priorities/",
+         "date": "2026-08"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Voted NO on H.R. 1, the One Big Beautiful Bill Act (final passage July 3, 2025, 218-214).",
+       "sources": [
+        {
+         "title": "Rep. Frankel Votes No on Trump, Republicans' Big, Ugly Bill (frankel.house.gov)",
+         "url": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=4883",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07-04"
+        }
+       ]
+      },
+      {
+       "item": "Voted NO on the SAVE Act (H.R. 22, April 10, 2025; passed 220-208 with four Democrats in favor).",
+       "sources": [
+        {
+         "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+         "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04-10"
+        }
+       ]
+      },
+      {
+       "item": "Voted YES on the Ukraine Security Supplemental Appropriations Act (H.R. 8035, April 20, 2024).",
+       "sources": [
+        {
+         "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+         "date": "2024-04-20"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Bipartisan Safer Communities Act (2022).",
+       "sources": [
+        {
+         "title": "Rep. Frankel Statement on Passage of Bipartisan Gun Violence Prevention Bill (frankel.house.gov)",
+         "url": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=3494",
+         "date": "2022-06"
+        }
+       ]
+      },
+      {
+       "item": "Co-lead of the Women's Health Protection Act (H.R. 12).",
+       "sources": [
+        {
+         "title": "Pressley, Chu, Frankel, Escobar lead 204 colleagues to introduce Women's Health Protection Act (Rep. Pressley release)",
+         "url": "https://pressley.house.gov/2023/03/30/pressley-chu-frankel-escobar-lead-204-colleagues-to-introduce-womens-health-protection-act-of-2023/",
+         "date": "2023-03-30"
+        },
+        {
+         "title": "H.R.12 - Women's Health Protection Act of 2025 - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/12/text",
+         "date": "2025"
+        }
+       ]
+      },
+      {
+       "item": "Ranking member, House Appropriations Subcommittee on National Security, Department of State and Related Programs.",
+       "sources": [
+        {
+         "title": "Ranking Member Frankel statement at full committee markup of the 2026 State, Foreign Operations funding bill (House Appropriations Democrats)",
+         "url": "https://democrats-appropriations.house.gov/news/statements/ranking-member-frankel-statement-full-committee-markup-2026-state-foreign",
+         "date": "2025"
+        }
+       ]
+      }
+     ],
+     "endorsements": []
+    },
+    {
+     "id": "deborah_adeimy",
+     "name": "Deborah Adeimy",
+     "party": "Republican",
+     "incumbent": false,
+     "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Deborah_Adeimy.jpg",
+     "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+     "website": "https://debadeimy4congress.com/",
+     "occupation": "Financial advisor / fiduciary (prior roles at Citigroup Global Markets, Merrill Lynch, Morgan Stanley, Wells Fargo Advisors and J.P. Morgan)",
+     "residence": "West Palm Beach, Palm Beach County",
+     "background": "Deborah Adeimy has worked in financial services as a fiduciary/financial advisor, with roles at firms including Citigroup Global Markets, Merrill Lynch, Morgan Stanley, Wells Fargo Advisors and J.P. Morgan. She ran for Congress in 2022 and 2024 (Palm Beach County's old CD 22) before this 2026 bid, and the Palm Beach Post editorial board endorsed her in a prior CD 22 Republican primary. She won the Aug. 18, 2026 Republican primary with about 74% of the vote over Paola Branda and faces Lois Frankel in November.",
+     "primary_result": "Won Aug 18, 2026 Republican primary with ~74% over Paola Branda (Florida Politics)",
+     "positions": {
+      "taxes": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Adeimy says 'Americans know how to spend their earned income better than Government' and campaigns on tax relief and reducing regulations; she has not addressed the trade-off with government services in sources found.",
+       "quote": "Americans know how to spend their earned income better than Government",
+       "sources": [
+        {
+         "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+         "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+         "date": "2026"
+        },
+        {
+         "title": "Deborah Adeimy for US Congress (campaign site)",
+         "url": "https://debadeimy4congress.com/",
+         "date": null
+        },
+        {
+         "title": "Lois Frankel to face Republican challenger Deborah Adeimy for control of new CD 23 seat (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/814105-lois-frankel-to-face-republican-challenger-deborah-adeimy-for-control-of-new-cd-23-seat/",
+         "date": "2026-08-18"
+        }
+       ]
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Adeimy says immigration should be about joining and strengthening America but opposes illegal and 'forced entry,' and campaigns on border security. A position on large-scale deportation was not found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "iVoterGuide candidate profile - Deborah Adeimy (FL U.S. Rep., Dist. 23)",
+         "url": "https://ivoterguide.com/candidate/64909/race/28532/election/1431",
+         "date": "2026"
+        },
+        {
+         "title": "Deborah Adeimy - Ballotpedia",
+         "url": "https://ballotpedia.org/Deborah_Adeimy",
+         "date": "2026"
+        }
+       ]
+      },
+      "abortion": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "In candidate surveys Adeimy said human life deserves legal protection from conception until natural death and opposed government funding for abortion providers, including Planned Parenthood.",
+       "quote": "human life deserves legal protection from conception until natural death",
+       "sources": [
+        {
+         "title": "iVoterGuide candidate profile - Deborah Adeimy (FL U.S. Rep., Dist. 23)",
+         "url": "https://ivoterguide.com/candidate/64909/race/28532/election/1431",
+         "date": "2026"
+        },
+        {
+         "title": "Deborah Adeimy - Ballotpedia",
+         "url": "https://ballotpedia.org/Deborah_Adeimy",
+         "date": "2026"
+        }
+       ]
+      },
+      "guns": {
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Adeimy says she backs Second Amendment rights; no position on specific measures such as red-flag laws was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+         "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+         "date": "2026"
+        },
+        {
+         "title": "Deborah Adeimy (R) - Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/deborah-adeimy",
+         "date": "2026"
+        }
+       ]
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Adeimy supports using Social Security numbers for voter identification, a new verification requirement.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+         "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+         "date": "2026"
+        },
+        {
+         "title": "Deborah Adeimy (R) - Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/deborah-adeimy",
+         "date": "2026"
+        }
+       ]
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Coverage of her candidacy notes she acknowledges global warming and sea-level rise as realities and supports exploring alternative energy sources; no position on fossil-fuel production or utility-rate oversight was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Palm Beach Post Editorial Board endorsement: Deb Adeimy for US House District 22 GOP primary (via Yahoo News)",
+         "url": "https://news.yahoo.com/palm-beach-post-editorial-board-174222675.html",
+         "date": null
+        },
+        {
+         "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+         "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+         "date": "2026"
+        }
+       ]
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Adeimy supports improving veterans' preference in jobs and medical programs.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+         "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+         "date": "2026"
+        },
+        {
+         "title": "Deborah Adeimy (R) - Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/deborah-adeimy",
+         "date": "2026"
+        }
+       ]
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Small business and deregulation",
+       "summary": "She advocates for small businesses and reducing regulations.",
+       "sources": [
+        {
+         "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+         "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+         "date": "2026"
+        },
+        {
+         "title": "Deborah Adeimy for US Congress (campaign site)",
+         "url": "https://debadeimy4congress.com/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Parental rights and school transparency",
+       "summary": "She calls for increased transparency and parental rights in schools.",
+       "sources": [
+        {
+         "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+         "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+         "date": "2026"
+        },
+        {
+         "title": "Deborah Adeimy - Ballotpedia",
+         "url": "https://ballotpedia.org/Deborah_Adeimy",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Voter ID",
+       "summary": "She supports using Social Security numbers as voter identification.",
+       "sources": [
+        {
+         "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+         "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Climate and sea-level rise",
+       "summary": "She acknowledges global warming and sea-level rise and supports exploring alternative energy.",
+       "sources": [
+        {
+         "title": "Palm Beach Post Editorial Board endorsement: Deb Adeimy for US House District 22 GOP primary (via Yahoo News)",
+         "url": "https://news.yahoo.com/palm-beach-post-editorial-board-174222675.html",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Ran for the U.S. House in 2022 and 2024 before the 2026 bid.",
+       "sources": [
+        {
+         "title": "Deborah Adeimy - Ballotpedia",
+         "url": "https://ballotpedia.org/Deborah_Adeimy",
+         "date": "2026"
+        },
+        {
+         "title": "Deborah Adeimy | R | FL-23 - Inside Elections",
+         "url": "https://insideelections.com/person/deborah-adeimy/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Endorsed by the Palm Beach Post editorial board in a prior CD 22 Republican primary.",
+       "sources": [
+        {
+         "title": "Palm Beach Post Editorial Board endorsement: Deb Adeimy for US House District 22 GOP primary (via Yahoo News)",
+         "url": "https://news.yahoo.com/palm-beach-post-editorial-board-174222675.html",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "endorsements": []
+    }
+   ]
+  },
+  {
+   "id": "us_house_24",
+   "order": 20024,
+   "title": "U.S. House, District 24",
+   "level": "federal",
+   "office_group": "Federal",
+   "term": "2 years",
+   "what_it_does": "Represents Florida's 24th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
+   "jurisdiction": {
+    "type": "cd",
+    "id": 24
+   },
+   "counties": [
+    "Miami-Dade (part)",
+    "Broward (part)"
+   ],
+   "coverage": "partial",
+   "on_november_ballot": true,
+   "decided_note": null,
+   "kind": "race",
+   "ballot_summary": null,
+   "what_yes_means": null,
+   "what_no_means": null,
+   "verified_ballot_note": "Open seat (Rep. Frederica Wilson retiring). Roster from WLRN, CBS Miami, Local 10, NBC6 and Florida Politics: Oliver Gilbert (D) vs. Te Mayonna Brown (R), who was unopposed in her primary. County makeup: Miami-Dade-based district; local coverage (Miramar News) describes it as also reaching into Broward.",
+   "verified_ballot_sources": [
+    {
+     "title": "wlrn.org",
+     "url": "https://www.wlrn.org/government-politics/2026-08-18/oliver-gilbert-prevails-in-crowded-7-way-democratic-primary-to-succeed-rep-frederica-wilson"
+    },
+    {
+     "title": "nbcmiami.com",
+     "url": "https://www.nbcmiami.com/news/politics/decision/te-brown-is-projected-winner-of-floridas-district-24-republican-primary/3847775/"
+    },
+    {
+     "title": "miramarflnews.com",
+     "url": "https://www.miramarflnews.com/news/local/article316923349.html"
+    },
+    {
+     "title": "wusf.org",
+     "url": "https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "oliver_gilbert",
+     "name": "Oliver Gilbert",
+     "party": "Democratic",
+     "incumbent": false,
+     "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Oliver_Gilbert.jpg",
+     "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+     "website": "https://olivergilbert.vote/",
+     "occupation": "Attorney and former prosecutor; Miami-Dade County Commissioner, District 1 (elected 2020; commission chair 2020-2024); former Mayor of Miami Gardens (2012-2020)",
+     "residence": "Miami Gardens, Miami-Dade County",
+     "background": "Oliver G. Gilbert III is an attorney and former prosecutor who served as mayor of Miami Gardens from 2012 to 2020 and was elected to the Miami-Dade County Commission (District 1) in 2020, chairing the commission from 2020 to 2024. Retiring U.S. Rep. Frederica Wilson endorsed him as her successor in June 2026. He won the seven-way Aug. 18, 2026 Democratic primary with about 34.5%, edging state Sen. Shevrin Jones (about 32%), with Kendrick Meek Jr. (about 17%), Rudolph Moise, Jean Monestime, Marshall Davis Sr. and Roderick Vereen trailing, despite more than $2 million in spending against him. He also serves in a leadership role on the FIFA World Cup 2026 Miami host committee.",
+     "primary_result": "Won Aug 18, 2026 Democratic primary with ~34.5% over Shevrin Jones (~32%), Kendrick Meek Jr. (~17%) and four others (Florida Politics; Local 10; CBS Miami)",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Gilbert names housing affordability as a priority and cites his county work on affordable housing; specific federal proposals were not captured.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Oliver Gilbert touts record as Democratic field forms in race to replace U.S. Rep. Frederica Wilson (CBS Miami)",
+         "url": "https://www.cbsnews.com/miami/news/oliver-gilbert-democratic-primary-race-replace-frederica-wilson-congressional-district-24/",
+         "date": "2026"
+        },
+        {
+         "title": "About Commissioner Oliver G. Gilbert III (Miami-Dade County)",
+         "url": "https://www.miamidade.gov/global/government/commission/district01/about-commissioner-gilbert.page",
+         "date": null
+        },
+        {
+         "title": "Oliver Gilbert III says experience and results set his candidacy apart (Hy-Lo News)",
+         "url": "https://hylonewsmiami.com/2026/07/28/oliver-gilbert-iii-says-experience-and-results-set-his-candidacy-apart-in-floridas-24th-district/",
+         "date": "2026-07-28"
+        }
+       ]
+      },
+      "immigration": {
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Gilbert says he will push the U.S. Senate to act on Temporary Protected Status for Haitians, arguing that uncertainty over immigration protections is hurting families, workers and the economy. No position on broader deportation policy was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Oliver Gilbert advances in District 24, vows to fight for Haitian TPS protections (CBS Miami video)",
+         "url": "https://www.cbsnews.com/miami/video/oliver-gilbert-advances-in-district-24-vows-to-fight-for-haitian-tps-protections/",
+         "date": "2026-08"
+        },
+        {
+         "title": "Oliver Gilbert discusses next steps in Congressional race after primary win (CBS Miami)",
+         "url": "https://www.cbsnews.com/miami/news/oliver-gilbert-congressional-run-8-23-2026/",
+         "date": "2026-08-23"
+        }
+       ]
+      },
+      "abortion": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Candidate-profile aggregators report Gilbert expresses support for reproductive rights and has spoken positively about expanding abortion access; a direct statement from the candidate was not captured.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Oliver Gilbert - 2026 candidate profile (ElectionsFLA, aggregator)",
+         "url": "https://electionsfla.com/candidates/oliver-gilbert",
+         "date": "2026"
+        },
+        {
+         "title": "Oliver Gilbert: 2026 Florida U.S. House candidate profile (Prediction Edge, aggregator)",
+         "url": "https://www.predictionedge.com/elections/profile/oliver-gilbert/",
+         "date": "2026"
+        }
+       ]
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Gilbert has proposed lowering the Medicare eligibility age and raising Medicaid income limits, and names health care among his top priorities.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Oliver Gilbert touts record as Democratic field forms in race to replace U.S. Rep. Frederica Wilson (CBS Miami)",
+         "url": "https://www.cbsnews.com/miami/news/oliver-gilbert-democratic-primary-race-replace-frederica-wilson-congressional-district-24/",
+         "date": "2026"
+        },
+        {
+         "title": "Seven Democrats compete for chance to win seat representing Florida's District 24 (CBS Miami)",
+         "url": "https://www.cbsnews.com/miami/news/florida-district-24-frederica-wildon-primary-august-2026/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": 0,
+       "confidence": "record",
+       "summary": "As Miami Gardens mayor Gilbert rebuilt the city police department with local personnel while emphasizing community engagement and trust; supporters credit the approach with a 39% crime reduction. His record combines police investment with reform-oriented policing, so it does not map cleanly to this statement.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "The Miami Times Editorial Board endorsement: Oliver Gilbert for Florida's 24th Congressional District (Miami Times, opinion)",
+         "url": "https://www.miamitimesonline.com/opinion/the-miami-times-editorial-board-endorsement-oliver-gilbert-for-floridas-24th-congressional-district/article_464cdaf6-756f-4eff-b787-ec5d3d1158c4.html",
+         "date": "2026-08"
+        },
+        {
+         "title": "Oliver Gilbert III says experience and results set his candidacy apart (Hy-Lo News)",
+         "url": "https://hylonewsmiami.com/2026/07/28/oliver-gilbert-iii-says-experience-and-results-set-his-candidacy-apart-in-floridas-24th-district/",
+         "date": "2026-07-28"
+        },
+        {
+         "title": "Oliver Gilbert - Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Oliver_Gilbert",
+         "date": null
+        }
+       ]
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Rapid mass transit / North Corridor",
+       "summary": "Gilbert lists rapid mass transit, especially the long-debated North Corridor project, among his top priorities.",
+       "sources": [
+        {
+         "title": "Oliver Gilbert touts record as Democratic field forms in race to replace U.S. Rep. Frederica Wilson (CBS Miami)",
+         "url": "https://www.cbsnews.com/miami/news/oliver-gilbert-democratic-primary-race-replace-frederica-wilson-congressional-district-24/",
+         "date": "2026"
+        },
+        {
+         "title": "Oliver Gilbert III says experience and results set his candidacy apart (Hy-Lo News)",
+         "url": "https://hylonewsmiami.com/2026/07/28/oliver-gilbert-iii-says-experience-and-results-set-his-candidacy-apart-in-floridas-24th-district/",
+         "date": "2026-07-28"
+        }
+       ]
+      },
+      {
+       "title": "Haitian TPS",
+       "summary": "He vows to press the Senate on Temporary Protected Status for Haitians.",
+       "sources": [
+        {
+         "title": "Oliver Gilbert advances in District 24, vows to fight for Haitian TPS protections (CBS Miami video)",
+         "url": "https://www.cbsnews.com/miami/video/oliver-gilbert-advances-in-district-24-vows-to-fight-for-haitian-tps-protections/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "title": "Affordability",
+       "summary": "Asked the biggest issue facing District 24, Gilbert said 'It's definitely affordability.'",
+       "sources": [
+        {
+         "title": "Oliver Gilbert discusses next steps in Congressional race after primary win (CBS Miami)",
+         "url": "https://www.cbsnews.com/miami/news/oliver-gilbert-congressional-run-8-23-2026/",
+         "date": "2026-08-23"
+        }
+       ]
+      },
+      {
+       "title": "Small business development and education",
+       "summary": "He says his local-government record prepared him to work on transportation, housing, health care, education and small business development.",
+       "sources": [
+        {
+         "title": "Oliver Gilbert III says experience and results set his candidacy apart (Hy-Lo News)",
+         "url": "https://hylonewsmiami.com/2026/07/28/oliver-gilbert-iii-says-experience-and-results-set-his-candidacy-apart-in-floridas-24th-district/",
+         "date": "2026-07-28"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Mayor of Miami Gardens 2012-2020; Miami-Dade County Commissioner (District 1) since 2020 and commission chair 2020-2024.",
+       "sources": [
+        {
+         "title": "About Commissioner Oliver G. Gilbert III (Miami-Dade County)",
+         "url": "https://www.miamidade.gov/global/government/commission/district01/about-commissioner-gilbert.page",
+         "date": null
+        },
+        {
+         "title": "Oliver Gilbert - Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Oliver_Gilbert",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Endorsed by retiring Rep. Frederica Wilson as her successor (June 2026).",
+       "sources": [
+        {
+         "title": "Frederica Wilson taps Oliver Gilbert to carry her torch in Florida's District 24 (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-06-22/frederica-wilson-oliver-gilbert-florida-district-24",
+         "date": "2026-06-22"
+        },
+        {
+         "title": "Frederica Wilson endorses Oliver Gilbert as successor in District 24 (NBC 6)",
+         "url": "https://www.nbcmiami.com/news/local/rep-frederica-wilson-endorses-oliver-gilbert/3824338/",
+         "date": "2026-06"
+        }
+       ]
+      },
+      {
+       "item": "Won the Aug. 18, 2026 Democratic primary despite more than $2 million in outside spending against him (Political Cortadito).",
+       "sources": [
+        {
+         "title": "Oliver Gilbert beats back $2 million+ attack, wins crowded CD 24 primary (Political Cortadito)",
+         "url": "https://politicalcortadito.com/2026/08/21/oliver-gilbert-congress-24-primary/",
+         "date": "2026-08-21"
+        }
+       ]
+      },
+      {
+       "item": "Serves in a leadership role on the FIFA World Cup 2026 Miami host committee.",
+       "sources": [
+        {
+         "title": "Oliver G. Gilbert III - FIFA World Cup 2026 Miami Host Committee",
+         "url": "https://miamifwc26.com/leadership/oliver-g-gilbert-iii/",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "endorsements": [
+      {
+       "by": "U.S. Rep. Frederica Wilson",
+       "sources": [
+        {
+         "title": "Frederica Wilson taps Oliver Gilbert to carry her torch in Florida's District 24 (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-06-22/frederica-wilson-oliver-gilbert-florida-district-24",
+         "date": "2026-06-22"
+        },
+        {
+         "title": "Frederica Wilson endorses Oliver Gilbert as successor in District 24 (NBC 6)",
+         "url": "https://www.nbcmiami.com/news/local/rep-frederica-wilson-endorses-oliver-gilbert/3824338/",
+         "date": "2026-06"
+        }
+       ]
+      },
+      {
+       "by": "The Miami Times editorial board",
+       "sources": [
+        {
+         "title": "The Miami Times Editorial Board endorsement: Oliver Gilbert for Florida's 24th Congressional District (Miami Times, opinion)",
+         "url": "https://www.miamitimesonline.com/opinion/the-miami-times-editorial-board-endorsement-oliver-gilbert-for-floridas-24th-congressional-district/article_464cdaf6-756f-4eff-b787-ec5d3d1158c4.html",
+         "date": "2026-08"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "te_brown",
+     "name": "Te Mayonna Brown",
+     "party": "Republican",
+     "incumbent": false,
+     "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Te_Brown.jpg",
+     "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+     "website": "https://tebrownforflorida.com/",
+     "occupation": "Businesswoman, educator and real-estate developer (self-described)",
+     "residence": "Not found",
+     "background": "Te Mayonna (Te) Brown describes herself as a businesswoman, educator and real-estate developer. She was the only Republican to file for District 24, so the primary was canceled and she advanced to the November general election against Democrat Oliver Gilbert in a district that leans heavily Democratic. The Bulwark reported that she also lost a Republican U.S. House primary in Illinois earlier in 2026 and appears to be under indictment for felony wire fraud; her campaign reported raising about $313,000 to the FEC.",
+     "primary_result": "Unopposed for Republican nomination (NBC6; WLRN)",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No codable position found as of Sept 2026; a Local Candidates page lists a school-choice/charter-school entry for her, but its content was not captured.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Te Brown on School Choice & Charter Schools (Local Candidates)",
+         "url": "https://www.localcandidates.org/politicians/te-brown/positions/3b967849-a90b-4c96-b93f-89041f5cb268",
+         "date": "2026"
+        }
+       ]
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [],
+     "record": [
+      {
+       "item": "Reported by The Bulwark to have lost a 2026 Republican U.S. House primary in Illinois before appearing on the Florida CD 24 ballot, and to appear to be under indictment for felony wire fraud (as reported; not independently verified here).",
+       "sources": [
+        {
+         "title": "We Found Her: The Most Absurd General-Election Candidate in America (The Bulwark)",
+         "url": "https://www.thebulwark.com/p/we-found-her-the-most-absurd-general-election-candidate-te-brown-illinois-florida-congress-fraud-primary-election-putin-whale-orca-polar-bear-russia-ukraine",
+         "date": "2026-09"
+        }
+       ]
+      },
+      {
+       "item": "Unopposed for the Republican nomination; campaign reported about $313,000 raised to the FEC.",
+       "sources": [
+        {
+         "title": "Te Brown is projected winner of Florida's District 24 Republican primary (NBC 6)",
+         "url": "https://www.nbcmiami.com/news/politics/decision/te-brown-is-projected-winner-of-floridas-district-24-republican-primary/3847775/",
+         "date": "2026-08-18"
+        },
+        {
+         "title": "Te Mayonna Brown - BallotReady",
+         "url": "https://www.ballotready.org/people/te-mayonna-brown",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
+     "endorsements": []
+    }
+   ]
+  },
+  {
+   "id": "us_house_25",
+   "order": 20025,
+   "title": "U.S. House, District 25",
+   "level": "federal",
+   "office_group": "Federal",
+   "term": "2 years",
+   "what_it_does": "Represents Florida's 25th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
+   "jurisdiction": {
+    "type": "cd",
+    "id": 25
+   },
+   "counties": [
+    "Palm Beach (part, incl. Boca Raton)",
+    "Broward (part)"
+   ],
+   "coverage": "partial",
+   "on_november_ballot": true,
+   "decided_note": null,
+   "kind": "race",
+   "ballot_summary": null,
+   "what_yes_means": null,
+   "what_no_means": null,
+   "verified_ballot_note": "Newly drawn district. Roster from CBS Miami, Boca Daily News and Boca Raton Tribune: Scott Singer (R) vs. Jared Moskowitz (D). County makeup inferred from coverage (Boca Raton-based; Rep. Wasserman Schultz's Weston home no longer inside it) and not independently confirmed. No NPA candidate identified; absence unconfirmed.",
+   "verified_ballot_sources": [
+    {
+     "title": "cbsnews.com",
+     "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-25-republican-scott-singer/"
+    },
+    {
+     "title": "bocadailynews.com",
+     "url": "https://bocadailynews.com/2026/08/former-boca-raton-mayor-singer-wins-gop-congressional-primary"
+    },
+    {
+     "title": "cbsnews.com",
+     "url": "https://www.cbsnews.com/miami/live-updates/2026-florida-primary-live-updates-results/"
+    },
+    {
+     "title": "wusf.org",
+     "url": "https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "scott_singer",
+     "name": "Scott Singer",
+     "party": "Republican",
+     "incumbent": false,
+     "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Scott_Singer.jpg",
+     "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+     "website": "https://www.scottsingerusa.com/",
+     "occupation": "Former Mayor of Boca Raton",
+     "residence": "Boca Raton, Palm Beach County",
+     "background": "Scott Singer served as mayor of Boca Raton from 2018 until his congressional run; his campaign says the city cut its property tax rate seven straight years under him. He launched a bid against U.S. Rep. Jared Moskowitz in the old CD 23 in December 2025 and pivoted to the new 25th District after the 2026 map passed. He won the five-way Aug. 18, 2026 Republican primary with 11,758 votes (about 31%), narrowly ahead of George Moraitis (10,299) and Dan Franzese (9,634), with Joe Kaufman (4,630) and Raven Harrison (1,183) trailing.",
+     "primary_result": "Won Aug 18, 2026 Republican primary with 11,758 votes (~31%) over Moraitis (10,299), Franzese (9,634), Kaufman (4,630) and Harrison (1,183) (Boca Daily News; CBS Miami)",
+     "positions": {
+      "taxes": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Singer campaigns on tax reform and support for President Trump's tax policies, and cites cutting Boca Raton's tax rate seven straight years to the lowest of any full-service city in Florida.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Scott Singer wins Republican primary for Florida's Congressional District 25 (CBS Miami)",
+         "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-25-republican-scott-singer/",
+         "date": "2026-08-18"
+        },
+        {
+         "title": "About Scott Singer (campaign site)",
+         "url": "https://www.scottsingerusa.com/about-scott-singer",
+         "date": null
+        },
+        {
+         "title": "Scott Singer Pitches Final Policy Points Ahead of District 25 Republican Primary (The Floridian)",
+         "url": "https://floridianpress.com/2026/08/scott-singer-pitches-final-policy-points-ahead-of-district-25-republican-primary/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      "property_tax": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "As mayor, Singer's campaign says the city cut its property tax rate seven straight times; he has not taken a position on eliminating Florida homestead property taxes in sources found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "About Scott Singer (campaign site)",
+         "url": "https://www.scottsingerusa.com/about-scott-singer",
+         "date": null
+        },
+        {
+         "title": "EXCLUSIVE: Ex-Boca Mayor Scott Singer cites record, local roots in interview for Congress bid (Florida's Voice)",
+         "url": "https://flvoicenews.com/exclusive-ex-boca-mayor-scott-singer-cites-record-local-roots-in-interview-for-congress-bid/",
+         "date": "2026"
+        }
+       ]
+      },
+      "insurance": {
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Singer says Congress should use its commerce powers to encourage more cross-border insurance competition and expand preventive efforts beyond the National Flood Insurance Program, a market-oriented approach.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Candidates tackle affordability, insurance and security in Florida Congressional District 25 primary (CBS Miami)",
+         "url": "https://www.cbsnews.com/miami/news/florida-congressional-district-25-primary-candidates-2026/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      "housing": {
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Singer attributes about 30% of housing costs to regulation, including federal environmental rules, and says removing that regulatory cost 'lowers that cost of housing for all residents,' rather than proposing subsidies.",
+       "quote": "Getting rid of the 30% regulatory cost lowers that cost of housing for all residents",
+       "sources": [
+        {
+         "title": "Candidates tackle affordability, insurance and security in Florida Congressional District 25 primary (CBS Miami)",
+         "url": "https://www.cbsnews.com/miami/news/florida-congressional-district-25-primary-candidates-2026/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      "immigration": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Singer's campaign says he 'strongly supports President Trump's efforts to secure the border' and enforce immigration laws, reversing Biden-era policies; a specific position on large-scale deportation was not found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Scott Singer for Congress (campaign site)",
+         "url": "https://www.scottsingerusa.com/",
+         "date": null
+        },
+        {
+         "title": "Scott Singer wins Republican primary for Florida's Congressional District 25 (CBS Miami)",
+         "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-25-republican-scott-singer/",
+         "date": "2026-08-18"
+        }
+       ]
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Post-primary coverage lists restoring Affordable Care Act tax credits and addressing Medicare cuts among Singer's priorities, along with lowering health-care costs.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Jared Moskowitz wins Dem primary, will face Scott Singer in November (Palm Beach Post via Yahoo)",
+         "url": "https://www.yahoo.com/news/politics/articles/us-house-25-democratic-race-230157452.html",
+         "date": "2026-08-18"
+        }
+       ]
+      },
+      "social_security": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Singer lists addressing Medicare cuts among his priorities; no statement on Social Security financing was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Jared Moskowitz wins Dem primary, will face Scott Singer in November (Palm Beach Post via Yahoo)",
+         "url": "https://www.yahoo.com/news/politics/articles/us-house-25-democratic-race-230157452.html",
+         "date": "2026-08-18"
+        }
+       ]
+      },
+      "education_choice": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Singer's campaign emphasizes protecting parental rights and expanding school choice.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Scott Singer Pitches Final Policy Points Ahead of District 25 Republican Primary (The Floridian)",
+         "url": "https://floridianpress.com/2026/08/scott-singer-pitches-final-policy-points-ahead-of-district-25-republican-primary/",
+         "date": "2026-08"
+        },
+        {
+         "title": "Scott Singer for Congress (campaign site)",
+         "url": "https://www.scottsingerusa.com/",
+         "date": null
+        }
+       ]
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Singer criticized Rep. Moskowitz's vote against the SAVE Act, which would require documentary proof of citizenship to register to vote.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Scott Singer Poised to Challenge Rep. Jared Moskowitz Over his SAVE Act Vote (The Floridian)",
+         "url": "https://floridianpress.com/2026/03/scott-singer-poised-to-challenge-rep-jared-moskowitz-over-his-save-act-vote/",
+         "date": "2026-03"
+        }
+       ]
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Singer expresses support for President Trump's 'America First' agenda, his tax policies and his border enforcement efforts.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Scott Singer wins Republican primary for Florida's Congressional District 25 (CBS Miami)",
+         "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-25-republican-scott-singer/",
+         "date": "2026-08-18"
+        },
+        {
+         "title": "Scott Singer for Congress (campaign site)",
+         "url": "https://www.scottsingerusa.com/",
+         "date": null
+        }
+       ]
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Cutting regulations and bringing jobs back",
+       "summary": "Singer campaigns on cutting regulations and bringing jobs back to the United States.",
+       "sources": [
+        {
+         "title": "Scott Singer wins Republican primary for Florida's Congressional District 25 (CBS Miami)",
+         "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-25-republican-scott-singer/",
+         "date": "2026-08-18"
+        }
+       ]
+      },
+      {
+       "title": "Property-insurance reform",
+       "summary": "He proposes cross-state insurance competition and expanded mitigation efforts beyond the NFIP.",
+       "sources": [
+        {
+         "title": "Candidates tackle affordability, insurance and security in Florida Congressional District 25 primary (CBS Miami)",
+         "url": "https://www.cbsnews.com/miami/news/florida-congressional-district-25-primary-candidates-2026/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "title": "Israel and antisemitism",
+       "summary": "In an interview he cited Israel and concerns about socialism in the Democratic Party as reasons to replace Moskowitz.",
+       "sources": [
+        {
+         "title": "INTERVIEW: Scott Singer explains why Rep. Jared Moskowitz needs to go (Washington Reporter)",
+         "url": "https://washingtonreporter.news/interview-scott-singer-explains-why-rep-jared-moskowitz-needs-to-go/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Record as Boca Raton mayor",
+       "summary": "He highlights his local record, including tax-rate cuts and city services.",
+       "sources": [
+        {
+         "title": "About Scott Singer (campaign site)",
+         "url": "https://www.scottsingerusa.com/about-scott-singer",
+         "date": null
+        },
+        {
+         "title": "EXCLUSIVE: Ex-Boca Mayor Scott Singer cites record, local roots in interview for Congress bid (Florida's Voice)",
+         "url": "https://flvoicenews.com/exclusive-ex-boca-mayor-scott-singer-cites-record-local-roots-in-interview-for-congress-bid/",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Mayor of Boca Raton from 2018; campaign says the city cut its tax rate seven straight times during his tenure.",
+       "sources": [
+        {
+         "title": "About Scott Singer (campaign site)",
+         "url": "https://www.scottsingerusa.com/about-scott-singer",
+         "date": null
+        },
+        {
+         "title": "Boca Raton Mayor Scott Singer launches bid for Congress, challenging U.S. Rep. Jared Moskowitz (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2025-12-18/scott-singer-congress-us-rep-jared-moskowitz",
+         "date": "2025-12-18"
+        }
+       ]
+      },
+      {
+       "item": "Launched a CD 23 challenge to Moskowitz in December 2025, then pivoted to the new CD 25 after the map passed.",
+       "sources": [
+        {
+         "title": "Boca Raton Mayor Scott Singer launches bid for Congress, challenging U.S. Rep. Jared Moskowitz (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2025-12-18/scott-singer-congress-us-rep-jared-moskowitz",
+         "date": "2025-12-18"
+        },
+        {
+         "title": "Redistricting shuffle: Scott Singer pivots campaign to CD 25 after new congressional map passes (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/793919-redistricting-shuffle-scott-singer-pivots-campaign-to-cd-25-after-new-congressional-map-passes/",
+         "date": "2026-05"
+        }
+       ]
+      }
+     ],
+     "endorsements": []
+    },
+    {
+     "id": "jared_moskowitz",
+     "name": "Jared Moskowitz",
+     "party": "Democratic",
+     "incumbent": true,
+     "photo_url": "https://www.congress.gov/img/member/m001217_200.jpg",
+     "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
+     "website": "https://jaredforflorida.com/",
+     "occupation": "U.S. Representative (since 2023; currently represents CD 23)",
+     "residence": "Parkland, Broward County",
+     "background": "Jared Moskowitz has served in Congress since 2023 representing the 23rd District and previously was Florida's emergency management director and a state representative, where he worked on the 2018 school-safety law passed after the Parkland shooting. After the 2026 redistricting he ran in the new 25th and won the Aug. 18, 2026 Democratic primary over Oliver Larkin, a challenger backed by Democratic Socialists. He joined and later co-chaired the House DOGE caucus, which he declared 'dead' in May 2025. Note: he is a sitting member of Congress but the new CD 25 is an open seat.",
+     "primary_result": "Won Aug 18, 2026 Democratic primary over Oliver Larkin (CBS Miami); percentage not captured",
+     "positions": {
+      "taxes": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Moskowitz voted against H.R. 1 (2025), which extended the 2017 tax cuts while cutting Medicaid and SNAP spending (all House Democrats opposed final passage); he has criticized tariff increases as 'a tax on families.'",
+       "quote": null,
+       "sources": [
+        {
+         "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07-04"
+        },
+        {
+         "title": "House passes final version of One Big Beautiful Bill Act, 218-214 (AHA News)",
+         "url": "https://www.aha.org/news/headline/2025-07-03-house-passes-final-version-one-big-beautiful-bill-act",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "Jared Moskowitz: 2026 Florida U.S. House profile (Prediction Edge, aggregator)",
+         "url": "https://www.predictionedge.com/elections/profile/jared-moskowitz/",
+         "date": "2026"
+        }
+       ]
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No codable position found as of Sept 2026; Moskowitz lists addressing Florida's homeowners-insurance crisis as a priority but the mechanism (state intervention vs. market reforms) was not captured.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Jared Moskowitz wins Dem primary, will face Scott Singer in November (Palm Beach Post via Yahoo)",
+         "url": "https://www.yahoo.com/news/politics/articles/us-house-25-democratic-race-230157452.html",
+         "date": "2026-08-18"
+        }
+       ]
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Moskowitz was the only Florida Democrat to vote for the Laken Riley Act (H.R. 29/S. 5, Jan. 2025), which requires federal detention of unauthorized immigrants arrested for theft-related and certain other crimes. He voted against the SAVE Act. No stated position on large-scale deportation was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Six Florida Democrats vote against 'Laken Riley Act' (Florida's Voice)",
+         "url": "https://flvoicenews.com/six-florida-democrats-vote-against-laken-riley-act-meant-to-target-illegal-alien-criminals-nationwide/",
+         "date": "2025-01"
+        },
+        {
+         "title": "These Democrats flipped their votes on the Laken Riley Act (The Hill)",
+         "url": "https://thehill.com/homenews/house/5072320-these-democrats-flipped-their-votes-on-the-laken-riley-act/",
+         "date": "2025-01"
+        },
+        {
+         "title": "House Roll Call 6 on H.R. 29, Laken Riley Act, Jan. 7, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/20256",
+         "date": "2025-01-07"
+        },
+        {
+         "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/202523",
+         "date": "2025-01-22"
+        },
+        {
+         "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+         "date": "2025-01-29"
+        }
+       ]
+      },
+      "abortion": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Moskowitz's campaign says he supports preserving and expanding access to abortion and reproductive health care.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Jared Moskowitz for Congress (campaign site)",
+         "url": "https://jaredforflorida.com/",
+         "date": null
+        },
+        {
+         "title": "Jared Moskowitz: 2026 Florida U.S. House profile (Prediction Edge, aggregator)",
+         "url": "https://www.predictionedge.com/elections/profile/jared-moskowitz/",
+         "date": "2026"
+        }
+       ]
+      },
+      "guns": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Moskowitz, who represented Parkland in the Legislature, helped pass Florida's 2018 law raising the purchase age to 21 and creating red-flag orders; in Congress he supports an assault-weapons ban, universal background checks, a federal red-flag law, raising the federal purchase age for semiautomatic firearms and limits on ghost guns and 3D-printed gun files.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Gun Violence Prevention & School Safety (moskowitz.house.gov)",
+         "url": "https://moskowitz.house.gov/gun-violence-prevention-school-safety",
+         "date": null
+        },
+        {
+         "title": "Moskowitz Introduces Two Pieces of Legislation to Address the Gun Violence Crisis (moskowitz.house.gov)",
+         "url": "https://moskowitz.house.gov/posts/school-lockdown-and-3d-gun-legislation",
+         "date": null
+        },
+        {
+         "title": "Florida lawmakers united to support gun control measures after the Parkland shooting (NPR)",
+         "url": "https://www.npr.org/2022/06/14/1105025440/florida-lawmakers-united-to-support-gun-control-measures-after-the-parkland-shoo",
+         "date": "2022-06-14"
+        }
+       ]
+      },
+      "healthcare": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Moskowitz voted against H.R. 1 (2025) and his campaign says he has acted to block proposed Medicaid cuts and joined bipartisan bills to expand Medicare benefits.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07-04"
+        },
+        {
+         "title": "Jared Moskowitz: 2026 Florida U.S. House profile (Prediction Edge, aggregator)",
+         "url": "https://www.predictionedge.com/elections/profile/jared-moskowitz/",
+         "date": "2026"
+        },
+        {
+         "title": "Jared Moskowitz for Congress (campaign site)",
+         "url": "https://jaredforflorida.com/",
+         "date": null
+        }
+       ]
+      },
+      "social_security": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Protecting Social Security and Medicare is among Moskowitz's listed campaign priorities; in 2025 he partnered with Rep. Al Green on legislation to protect Social Security phone services from reported DOGE-driven changes.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Jared Moskowitz wins Dem primary, will face Scott Singer in November (Palm Beach Post via Yahoo)",
+         "url": "https://www.yahoo.com/news/politics/articles/us-house-25-democratic-race-230157452.html",
+         "date": "2026-08-18"
+        },
+        {
+         "title": "Jared Moskowitz, Al Green partner to protect Social Security phone services amid reported threats from DOGE (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/727014-jared-moskowitz-al-green-partner-to-protect-social-security-phone-services-amid-reported-threats-from-doge/",
+         "date": "2025"
+        }
+       ]
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Moskowitz voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote; his opponent has criticized that vote.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Scott Singer Poised to Challenge Rep. Jared Moskowitz Over his SAVE Act Vote (The Floridian)",
+         "url": "https://floridianpress.com/2026/03/scott-singer-poised-to-challenge-rep-jared-moskowitz-over-his-save-act-vote/",
+         "date": "2026-03"
+        },
+        {
+         "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+         "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04-10"
+        }
+       ]
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against H.R. 1 (2025), which repealed most clean-energy tax credits.",
+       "sources": [
+        {
+         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07"
+        }
+       ]
+      },
+      "tariffs": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Moskowitz criticizes tariff increases as a tax on families and introduced the Supporting American Allies Act to exempt Israel and Ukraine from new tariffs.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "New Moskowitz Legislation Protects U.S. Allies Israel and Ukraine from the Threat of Tariffs (moskowitz.house.gov)",
+         "url": "https://moskowitz.house.gov/posts/israel-ukraine-tariff-exemption-bill",
+         "date": "2025"
+        },
+        {
+         "title": "Jared Moskowitz: 2026 Florida U.S. House profile (Prediction Edge, aggregator)",
+         "url": "https://www.predictionedge.com/elections/profile/jared-moskowitz/",
+         "date": "2026"
+        }
+       ]
+      },
+      "ukraine": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Moskowitz voted for the $60.8 billion Ukraine Security Supplemental (H.R. 8035, April 2024), has described Ukraine and Israel as allies 'fighting against adversaries that want them erased,' and sponsored a bill to shield both from tariffs.",
+       "quote": "Our allies Israel & Ukraine are fighting against adversaries that want them erased",
+       "sources": [
+        {
+         "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "Rep. Moskowitz: 'Our allies Israel & Ukraine are fighting against adversaries that want them erased' (Facebook post)",
+         "url": "https://www.facebook.com/RepMoskowitz/posts/our-allies-israel-ukraine-are-fighting-against-adversaries-that-want-them-erased/754469017532110/",
+         "date": null
+        },
+        {
+         "title": "New Moskowitz Legislation Protects U.S. Allies Israel and Ukraine from the Threat of Tariffs (moskowitz.house.gov)",
+         "url": "https://moskowitz.house.gov/posts/israel-ukraine-tariff-exemption-bill",
+         "date": "2025"
+        }
+       ]
+      },
+      "trump": {
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Moskowitz joined the House DOGE caucus in late 2024 and voted with Republicans on the Laken Riley Act, but by May 2025 said the execution of the administration's agenda had been a 'total failure' and declared the DOGE caucus 'dead.'",
+       "quote": "total failure",
+       "sources": [
+        {
+         "title": "Rep. Moskowitz: Execution of Trump's agenda has been 'total failure' (CNN)",
+         "url": "https://www.cnn.com/2025/05/01/Tv/video/sitroom-blitzer-jared-moskowitz-doge-trump-economy",
+         "date": "2025-05-01"
+        },
+        {
+         "title": "Jared Moskowitz says DOGE Caucus is dead after being frozen out by Elon Musk (The Hill)",
+         "url": "https://thehill.com/homenews/house/5299102-moskowitz-doge-caucus-dead/",
+         "date": "2025-05"
+        },
+        {
+         "title": "Democratic Rep. Moskowitz joins Trump group pushing for government efficiency (NPR)",
+         "url": "https://www.npr.org/2024/12/05/nx-s1-5215817/democratic-rep-moskowitz-joins-trump-group-pushing-for-government-efficiency",
+         "date": "2024-12-05"
+        }
+       ]
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Homeowners insurance crisis",
+       "summary": "He lists addressing Florida's homeowners-insurance crisis among his priorities.",
+       "sources": [
+        {
+         "title": "Jared Moskowitz wins Dem primary, will face Scott Singer in November (Palm Beach Post via Yahoo)",
+         "url": "https://www.yahoo.com/news/politics/articles/us-house-25-democratic-race-230157452.html",
+         "date": "2026-08-18"
+        }
+       ]
+      },
+      {
+       "title": "Israel and antisemitism",
+       "summary": "Moskowitz supports continued U.S. military assistance to Israel, opposes the BDS movement, and ran a 2026 ad targeting antisemitism.",
+       "sources": [
+        {
+         "title": "Israel (moskowitz.house.gov)",
+         "url": "https://moskowitz.house.gov/israel",
+         "date": null
+        },
+        {
+         "title": "South Florida Democrat Moskowitz airs campaign ad targeting antisemitism (The Forward)",
+         "url": "https://forward.com/fast-forward/850511/south-florida-democrat-moskowitz-airs-campaign-ad-targeting-antisemitism-with-concentration-camp-footage",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "DOGE caucus / government efficiency",
+       "summary": "He joined the bipartisan DOGE caucus in Dec. 2024 and later declared it 'a complete failure' after two meetings in five months.",
+       "sources": [
+        {
+         "title": "Democratic Rep. Moskowitz joins Trump group pushing for government efficiency (NPR)",
+         "url": "https://www.npr.org/2024/12/05/nx-s1-5215817/democratic-rep-moskowitz-joins-trump-group-pushing-for-government-efficiency",
+         "date": "2024-12-05"
+        },
+        {
+         "title": "Jared Moskowitz says DOGE Caucus is dead after being frozen out by Elon Musk (The Hill)",
+         "url": "https://thehill.com/homenews/house/5299102-moskowitz-doge-caucus-dead/",
+         "date": "2025-05"
+        }
+       ]
+      },
+      {
+       "title": "School safety legislation",
+       "summary": "He has introduced bills on school lockdown procedures and 3D-printed guns.",
+       "sources": [
+        {
+         "title": "Moskowitz Introduces Two Pieces of Legislation to Address the Gun Violence Crisis (moskowitz.house.gov)",
+         "url": "https://moskowitz.house.gov/posts/school-lockdown-and-3d-gun-legislation",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Defending democratic institutions",
+       "summary": "His campaign lists defending democratic institutions and the rule of law among his priorities.",
+       "sources": [
+        {
+         "title": "Jared Moskowitz wins Dem primary, will face Scott Singer in November (Palm Beach Post via Yahoo)",
+         "url": "https://www.yahoo.com/news/politics/articles/us-house-25-democratic-race-230157452.html",
+         "date": "2026-08-18"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Voted YES on the Laken Riley Act (H.R. 29, Jan. 7, 2025, and S. 5, Jan. 22, 2025), the only Florida Democrat to do so.",
+       "sources": [
+        {
+         "title": "Six Florida Democrats vote against 'Laken Riley Act' (Florida's Voice)",
+         "url": "https://flvoicenews.com/six-florida-democrats-vote-against-laken-riley-act-meant-to-target-illegal-alien-criminals-nationwide/",
+         "date": "2025-01"
+        },
+        {
+         "title": "House Roll Call 6 on H.R. 29, Laken Riley Act, Jan. 7, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/20256",
+         "date": "2025-01-07"
+        },
+        {
+         "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/202523",
+         "date": "2025-01-22"
+        },
+        {
+         "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+         "date": "2025-01-29"
+        }
+       ]
+      },
+      {
+       "item": "Voted NO on the SAVE Act (H.R. 22, April 10, 2025).",
+       "sources": [
+        {
+         "title": "Scott Singer Poised to Challenge Rep. Jared Moskowitz Over his SAVE Act Vote (The Floridian)",
+         "url": "https://floridianpress.com/2026/03/scott-singer-poised-to-challenge-rep-jared-moskowitz-over-his-save-act-vote/",
+         "date": "2026-03"
+        },
+        {
+         "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+         "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04-10"
+        }
+       ]
+      },
+      {
+       "item": "Voted NO on H.R. 1, the One Big Beautiful Bill Act (final passage July 3, 2025, 218-214; all Democrats opposed).",
+       "sources": [
+        {
+         "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07-04"
+        },
+        {
+         "title": "House passes final version of One Big Beautiful Bill Act, 218-214 (AHA News)",
+         "url": "https://www.aha.org/news/headline/2025-07-03-house-passes-final-version-one-big-beautiful-bill-act",
+         "date": "2025-07-03"
+        }
+       ]
+      },
+      {
+       "item": "Voted YES on the Ukraine Security Supplemental Appropriations Act (H.R. 8035, April 20, 2024).",
+       "sources": [
+        {
+         "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+         "date": "2024-04-20"
+        }
+       ]
+      },
+      {
+       "item": "Introduced the Supporting American Allies Act to exempt Israel and Ukraine from tariffs.",
+       "sources": [
+        {
+         "title": "New Moskowitz Legislation Protects U.S. Allies Israel and Ukraine from the Threat of Tariffs (moskowitz.house.gov)",
+         "url": "https://moskowitz.house.gov/posts/israel-ukraine-tariff-exemption-bill",
+         "date": "2025"
+        }
+       ]
+      },
+      {
+       "item": "Joined the House DOGE caucus (Dec. 2024) and later declared it 'dead' (May 2025).",
+       "sources": [
+        {
+         "title": "Democratic Rep. Moskowitz joins Trump group pushing for government efficiency (NPR)",
+         "url": "https://www.npr.org/2024/12/05/nx-s1-5215817/democratic-rep-moskowitz-joins-trump-group-pushing-for-government-efficiency",
+         "date": "2024-12-05"
+        },
+        {
+         "title": "Jared Moskowitz says DOGE Caucus is dead after being frozen out by Elon Musk (The Hill)",
+         "url": "https://thehill.com/homenews/house/5299102-moskowitz-doge-caucus-dead/",
+         "date": "2025-05"
+        }
+       ]
+      },
+      {
+       "item": "Won the Aug. 18, 2026 primary over Oliver Larkin, who was backed by Democratic Socialists.",
+       "sources": [
+        {
+         "title": "Rep. Moskowitz fends off progressive challenger in FL-25 Democratic primary (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-08-18/jared-moskowitz-25-democratic-primary",
+         "date": "2026-08-18"
+        },
+        {
+         "title": "As Dem Socialists back Oliver Larkin over Jared Moskowitz... (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/806218-as-dem-socialists-back-oliver-larkin-over-jared-moskowitz-republicans-salivate-over-running-against-full-blown-crazies/",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
+     "endorsements": []
+    }
+   ]
+  },
+  {
+   "id": "us_house_26",
+   "order": 20026,
+   "title": "U.S. House, District 26",
+   "level": "federal",
+   "office_group": "Federal",
+   "term": "2 years",
+   "what_it_does": "Represents Florida's 26th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
+   "jurisdiction": {
+    "type": "cd",
+    "id": 26
+   },
+   "counties": [
+    "Miami-Dade (part)"
+   ],
+   "coverage": "partial",
+   "on_november_ballot": true,
+   "decided_note": null,
+   "kind": "race",
+   "ballot_summary": null,
+   "what_yes_means": null,
+   "what_no_means": null,
+   "verified_ballot_note": "Roster from CBS Miami primary coverage and local (Coral Springs/Miramar/Pembroke Pines News) reporting: Mario Diaz-Balart (R) and Nicole Locklin (D) were each unopposed in their primaries; Deborah Meidinger Hosey (NPA) is also on the November ballot. County makeup under the new map was not confirmed beyond Miami-Dade.",
+   "verified_ballot_sources": [
+    {
+     "title": "cbsnews.com",
+     "url": "https://www.cbsnews.com/miami/live-updates/2026-florida-primary-live-updates-results/"
+    },
+    {
+     "title": "coralspringsflnews.com",
+     "url": "https://www.coralspringsflnews.com/news/local/article316927284.html"
+    },
+    {
+     "title": "locklinforcongress.com",
+     "url": "https://locklinforcongress.com/"
+    },
+    {
+     "title": "wusf.org",
+     "url": "https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "mario_diaz_balart",
+     "name": "Mario Diaz-Balart",
+     "party": "Republican",
+     "incumbent": true,
+     "photo_url": "https://www.congress.gov/img/member/d000600_200.jpg",
+     "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
+     "website": null,
+     "occupation": "U.S. Representative (since 2003)",
+     "residence": "Hialeah area, Miami-Dade County (not re-verified)",
+     "background": "Mario Diaz-Balart has served in the U.S. House since 2003 and previously served in the Florida Legislature. He chairs the House Appropriations subcommittee on National Security, Department of State and Related Programs. He was unopposed in the Aug. 18, 2026 Republican primary for the 26th District. Local coverage describes the redrawn district as including southwest Broward communities such as Miramar and Pembroke Pines.",
+     "primary_result": "Unopposed in Aug 18, 2026 Republican primary (CBS Miami)",
+     "positions": {
+      "taxes": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Diaz-Balart voted for H.R. 1 (2025) and said it 'responsibly reduces excess spending' while making the 2017 tax cuts permanent, which he said averted a 24% tax hike for the average FL-26 taxpayer.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Diaz-Balart applauds passage of President Trump's One Big Beautiful Bill (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-applauds-passage-president-trumps-one-big-beautiful-bill",
+         "date": "2025-07"
+        },
+        {
+         "title": "Diaz-Balart: President Trump's One Big Beautiful Bill Will Boost Economic Growth and Reduce Taxes (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-president-trumps-one-big-beautiful-bill-will-boost-economic",
+         "date": "2025"
+        },
+        {
+         "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07-04"
+        }
+       ]
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": 0,
+       "confidence": "record",
+       "summary": "Diaz-Balart voted for the Laken Riley Act (mandatory detention for certain arrested unauthorized immigrants) and for border-security funding in H.R. 1, but opposed the administration's termination of Temporary Protected Status for Venezuelans and co-sponsored earlier TPS protection legislation, calling for case-by-case relief.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Diaz-Balart Statement on TPS for Venezuelans (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-statement-tps-venezuelans-0",
+         "date": "2025"
+        },
+        {
+         "title": "Venezuelans in Florida angry at Trump TPS immigration move (NPR)",
+         "url": "https://www.npr.org/2025/02/04/nx-s1-5285470/venezuelans-florida-tps-immigration-trump",
+         "date": "2025-02-04"
+        },
+        {
+         "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/202523",
+         "date": "2025-01-22"
+        },
+        {
+         "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+         "date": "2025-01-29"
+        },
+        {
+         "title": "Immigration issue page (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/issues/immigration",
+         "date": null
+        }
+       ]
+      },
+      "abortion": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "SBA Pro-Life America's scorecard says Diaz-Balart has voted consistently to protect the unborn and to stop taxpayer funding of abortion; his office says he protected long-standing pro-life provisions in FY26 appropriations. NARAL has rated his voting record 0%.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Rep. Mario Diaz-Balart - SBA Pro-Life America Scorecard",
+         "url": "https://sbaprolife.org/representative/mario-diaz-balart",
+         "date": "2026"
+        },
+        {
+         "title": "Diaz-Balart Delivers Stronger National Security, Less Waste with Passage of FY26 Appropriations Minibus (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-delivers-stronger-national-security-less-waste-passage-fy26",
+         "date": "2026"
+        },
+        {
+         "title": "Mario Diaz-Balart on Abortion (OnTheIssues)",
+         "url": "https://ontheissues.org/FL/Mario_Diaz-Balart_Abortion.htm",
+         "date": null
+        }
+       ]
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Diaz-Balart voted for H.R. 1 (2025), which added Medicaid work requirements and other changes the CBO projected would reduce coverage; he says the bill protects Medicaid and Medicare benefits 'for eligible Americans in need.'",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Diaz-Balart applauds passage of President Trump's One Big Beautiful Bill (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-applauds-passage-president-trumps-one-big-beautiful-bill",
+         "date": "2025-07"
+        },
+        {
+         "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07-04"
+        }
+       ]
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Diaz-Balart voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote (it passed 220-208 with every voting Republican in favor); in 2026 he weighed in on adding SAVE America Act provisions to a reconciliation package.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+         "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "Donalds, Diaz-Balart weigh in on SAVE America Act provisions in budget reconciliation package (The Floridian)",
+         "url": "https://floridianpress.com/2026/07/donalds-diaz-balart-weigh-in-on-save-america-act-provisions-in-budget-reconciliation-package/",
+         "date": "2026-07"
+        }
+       ]
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Diaz-Balart voted for H.R. 1 (2025) and highlighted that it would 'unleash American energy' by reversing Biden-era energy policies; no statement supporting renewable mandates or utility-rate oversight was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Diaz-Balart applauds passage of President Trump's One Big Beautiful Bill (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-applauds-passage-president-trumps-one-big-beautiful-bill",
+         "date": "2025-07"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07-04"
+        }
+       ]
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Diaz-Balart voted for the $60.8 billion Ukraine Security Supplemental (H.R. 8035, April 2024), saying lawmakers could 'turn our heads away and hope to appease this great evil, or we can stand with our allies.'",
+       "quote": "stand with our allies and confront this nefarious scourge",
+       "sources": [
+        {
+         "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "How every House member voted on aid to Ukraine, Israel and more (Washington Post)",
+         "url": "https://www.washingtonpost.com/politics/interactive/2024/04/20/ukraine-israel-border-funding-house-vote/",
+         "date": "2024-04-20"
+        }
+       ]
+      },
+      "trump": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Diaz-Balart repeatedly praised 'President Trump's One Big Beautiful Bill' and voted for it, but publicly opposed the administration's move to end TPS for Venezuelans.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Diaz-Balart applauds passage of President Trump's One Big Beautiful Bill (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-applauds-passage-president-trumps-one-big-beautiful-bill",
+         "date": "2025-07"
+        },
+        {
+         "title": "Diaz-Balart Statement on TPS for Venezuelans (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-statement-tps-venezuelans-0",
+         "date": "2025"
+        },
+        {
+         "title": "Venezuelans in Florida angry at Trump TPS immigration move (NPR)",
+         "url": "https://www.npr.org/2025/02/04/nx-s1-5285470/venezuelans-florida-tps-immigration-trump",
+         "date": "2025-02-04"
+        }
+       ]
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Venezuelan TPS and case-by-case relief",
+       "summary": "He opposed ending TPS for Venezuelans and, with Reps. Gimenez and Salazar, issued a joint statement in solidarity with Venezuelans.",
+       "sources": [
+        {
+         "title": "Diaz-Balart Statement on TPS for Venezuelans (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-statement-tps-venezuelans-0",
+         "date": "2025"
+        },
+        {
+         "title": "Venezuelans in Florida angry at Trump TPS immigration move (NPR)",
+         "url": "https://www.npr.org/2025/02/04/nx-s1-5285470/venezuelans-florida-tps-immigration-trump",
+         "date": "2025-02-04"
+        }
+       ]
+      },
+      {
+       "title": "Appropriations / national security funding",
+       "summary": "As subcommittee chair he touts FY26 appropriations bills for 'stronger national security, less waste.'",
+       "sources": [
+        {
+         "title": "Diaz-Balart Delivers Stronger National Security, Less Waste with Passage of FY26 Appropriations Minibus (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-delivers-stronger-national-security-less-waste-passage-fy26",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Tax relief",
+       "summary": "He emphasizes making the 2017 tax cuts permanent.",
+       "sources": [
+        {
+         "title": "Tax Relief issue page (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/issue/tax-relief",
+         "date": null
+        },
+        {
+         "title": "Diaz-Balart: President Trump's One Big Beautiful Bill Will Boost Economic Growth and Reduce Taxes (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-president-trumps-one-big-beautiful-bill-will-boost-economic",
+         "date": "2025"
+        }
+       ]
+      },
+      {
+       "title": "Border security funding",
+       "summary": "He cites H.R. 1's border-security investments.",
+       "sources": [
+        {
+         "title": "Diaz-Balart applauds passage of President Trump's One Big Beautiful Bill (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-applauds-passage-president-trumps-one-big-beautiful-bill",
+         "date": "2025-07"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Voted YES on H.R. 1, the One Big Beautiful Bill Act (final passage July 3, 2025).",
+       "sources": [
+        {
+         "title": "Diaz-Balart applauds passage of President Trump's One Big Beautiful Bill (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-applauds-passage-president-trumps-one-big-beautiful-bill",
+         "date": "2025-07"
+        },
+        {
+         "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07-04"
+        }
+       ]
+      },
+      {
+       "item": "Voted YES on the Laken Riley Act (S. 5, Jan. 22, 2025).",
+       "sources": [
+        {
+         "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/202523",
+         "date": "2025-01-22"
+        },
+        {
+         "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+         "date": "2025-01-29"
+        }
+       ]
+      },
+      {
+       "item": "Voted YES on the SAVE Act (H.R. 22, April 10, 2025).",
+       "sources": [
+        {
+         "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+         "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04-10"
+        }
+       ]
+      },
+      {
+       "item": "Voted YES on the Ukraine Security Supplemental Appropriations Act (H.R. 8035, April 20, 2024).",
+       "sources": [
+        {
+         "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+         "date": "2024-04-20"
+        }
+       ]
+      },
+      {
+       "item": "Publicly opposed the 2025 termination of TPS for Venezuelans.",
+       "sources": [
+        {
+         "title": "Diaz-Balart Statement on TPS for Venezuelans (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-statement-tps-venezuelans-0",
+         "date": "2025"
+        },
+        {
+         "title": "Venezuelans in Florida angry at Trump TPS immigration move (NPR)",
+         "url": "https://www.npr.org/2025/02/04/nx-s1-5285470/venezuelans-florida-tps-immigration-trump",
+         "date": "2025-02-04"
+        }
+       ]
+      },
+      {
+       "item": "Chairs the House Appropriations subcommittee overseeing State Department and foreign operations funding.",
+       "sources": [
+        {
+         "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "Diaz-Balart Delivers Stronger National Security, Less Waste with Passage of FY26 Appropriations Minibus (mariodiazbalart.house.gov)",
+         "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-delivers-stronger-national-security-less-waste-passage-fy26",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
+       "sources": [
+        {
+         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07"
+        }
+       ]
+      }
+     ],
+     "endorsements": []
+    },
+    {
+     "id": "nicole_locklin",
+     "name": "Nicole Locklin",
+     "party": "Democratic",
+     "incumbent": false,
+     "photo_url": null,
+     "photo_source": "campaign site og:image (URL unverified)",
+     "website": "https://locklinforcongress.com/",
+     "occupation": "Attorney (most recently lead commercial legal counsel for health care and life sciences at Databricks)",
+     "residence": "Miami, Miami-Dade County",
+     "background": "Nicole Locklin is a Miami-based attorney with more than a decade of experience in law, compliance and business operations, including work at Nextdoor beginning in 2020 and most recently as lead commercial legal counsel for health care and life sciences at Databricks. Local coverage says she is originally from Oklahoma and has lived in Miami since 2024. She was unopposed in the Aug. 18, 2026 Democratic primary. Her campaign centers on affordability, anti-corruption (she pledges to reject corporate PAC money), universal health care, ending immigration raids and ending 'endless wars.'",
+     "primary_result": "Unopposed in Aug 18, 2026 Democratic primary (CBS Miami)",
+     "positions": {
+      "taxes": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Locklin advocates higher taxes on billionaires and large corporations to fund investments in health care, housing, education and jobs.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Nicole Locklin (D) - Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/nicole-locklin",
+         "date": "2026"
+        },
+        {
+         "title": "Nicole Locklin Launches Campaign for U.S. Congress in FL-CD-26 (National Law Review press release)",
+         "url": "https://natlawreview.com/press-releases/nicole-locklin-launches-campaign-us-congress-fl-cd-26-focused-affordability",
+         "date": "2026"
+        }
+       ]
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Locklin lists affordable housing among the investments she would fund with higher taxes on billionaires and corporations, and cites rising housing costs in the district.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Nicole Locklin (D) - Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/nicole-locklin",
+         "date": "2026"
+        },
+        {
+         "title": "Nicole Locklin Launches Campaign for U.S. Congress in FL-CD-26 (National Law Review press release)",
+         "url": "https://natlawreview.com/press-releases/nicole-locklin-launches-campaign-us-congress-fl-cd-26-focused-affordability",
+         "date": "2026"
+        },
+        {
+         "title": "Meet the two candidates vying to win southwest Broward's District 26 in November (Miramar News)",
+         "url": "https://www.miramarflnews.com/news/local/article316927221.html",
+         "date": "2026-09"
+        }
+       ]
+      },
+      "immigration": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Locklin campaigns on ending immigration raids and supports abolishing ICE, emphasizing constitutional due-process protections before anyone is detained or removed.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Meet the two candidates vying to win southwest Broward's District 26 in November (Miramar News)",
+         "url": "https://www.miramarflnews.com/news/local/article316927221.html",
+         "date": "2026-09"
+        },
+        {
+         "title": "Nicole Locklin (D) - Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/nicole-locklin",
+         "date": "2026"
+        },
+        {
+         "title": "Nicole Locklin for U.S. Congress (campaign site)",
+         "url": "https://locklinforcongress.com/",
+         "date": null
+        }
+       ]
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Locklin says health care is a human right and supports the fastest path to guaranteed universal coverage, whether Medicare for All, a strong public option or a Medicare buy-in.",
+       "quote": "Medicare for All, a strong public option, Medicare buy-in, or any model that gets us to universal coverage",
+       "sources": [
+        {
+         "title": "Issues: Healthcare (campaign site)",
+         "url": "https://locklinforcongress.com/issues-healthcare",
+         "date": null
+        },
+        {
+         "title": "Meet the two candidates vying to win southwest Broward's District 26 in November (Miramar News)",
+         "url": "https://www.miramarflnews.com/news/local/article316927221.html",
+         "date": "2026-09"
+        }
+       ]
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Her campaign lists 'reversing climate change' among the priorities she would fight for.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Nicole Locklin for U.S. Congress (campaign site)",
+         "url": "https://locklinforcongress.com/",
+         "date": null
+        }
+       ]
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Her campaign lists 'expanded benefits for veterans' among her priorities.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Nicole Locklin for U.S. Congress (campaign site)",
+         "url": "https://locklinforcongress.com/",
+         "date": null
+        }
+       ]
+      }
+     },
+     "other_issues": [
+      {
        "title": "Anti-corruption and affordability platform",
        "summary": "Locklin's launch announcement centers her campaign on affordability, anti-corruption, economic justice and ending 'endless wars,' citing rising housing costs and insurance premiums in the district.",
        "sources": [
@@ -50740,9 +52627,90 @@ window.GUIDE_DATA = {
          "date": null
         }
        ]
+      },
+      {
+       "title": "Anti-corruption / no corporate PAC money",
+       "summary": "She pledges to reject corporate PAC money and to fight government corruption.",
+       "sources": [
+        {
+         "title": "Nicole Locklin (D) - Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/nicole-locklin",
+         "date": "2026"
+        },
+        {
+         "title": "Nicole Locklin for U.S. Congress (campaign site)",
+         "url": "https://locklinforcongress.com/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Ending 'endless wars' and Palestine",
+       "summary": "She calls for an end to 'endless and unauthorized wars' and shifting spending to domestic priorities; her site has a Palestine issue page.",
+       "sources": [
+        {
+         "title": "Nicole Locklin Launches Campaign for U.S. Congress in FL-CD-26 (National Law Review press release)",
+         "url": "https://natlawreview.com/press-releases/nicole-locklin-launches-campaign-us-congress-fl-cd-26-focused-affordability",
+         "date": "2026"
+        },
+        {
+         "title": "Issues: Palestine (campaign site)",
+         "url": "https://locklinforcongress.com/issues-palestine",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Cuban relief effort",
+       "summary": "Local coverage lists the Cuban relief effort among her campaign themes.",
+       "sources": [
+        {
+         "title": "Meet the two candidates vying to win southwest Broward's District 26 in November (Miramar News)",
+         "url": "https://www.miramarflnews.com/news/local/article316927221.html",
+         "date": "2026-09"
+        }
+       ]
+      },
+      {
+       "title": "Labor unions and jobs",
+       "summary": "She lists strengthening labor unions and good-paying jobs among her priorities.",
+       "sources": [
+        {
+         "title": "Nicole Locklin for U.S. Congress (campaign site)",
+         "url": "https://locklinforcongress.com/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Animal rights",
+       "summary": "Her campaign lists animal rights among the issues she would fight for.",
+       "sources": [
+        {
+         "title": "Nicole Locklin for U.S. Congress (campaign site)",
+         "url": "https://locklinforcongress.com/",
+         "date": null
+        }
+       ]
       }
      ],
-     "record": [],
+     "record": [
+      {
+       "item": "Unopposed in the Aug. 18, 2026 Democratic primary; local coverage notes she moved to Miami in 2024.",
+       "sources": [
+        {
+         "title": "Meet the two candidates vying to win southwest Broward's District 26 in November (Miramar News)",
+         "url": "https://www.miramarflnews.com/news/local/article316927221.html",
+         "date": "2026-09"
+        },
+        {
+         "title": "D26 congressional race: Mario Diaz-Balart and Nicole Locklin (Pembroke Pines News)",
+         "url": "https://www.pembrokepinesflnews.com/news/local/article316919155.html",
+         "date": "2026-09"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -50761,7 +52729,7 @@ window.GUIDE_DATA = {
      "website": null,
      "occupation": "Not found",
      "residence": "Not found",
-     "background": "Deborah Meidinger Hosey is a no-party-affiliation candidate reported to be on the Nov. 3, 2026 ballot for District 26 alongside Diaz-Balart and Locklin.",
+     "background": "Deborah Ann Meidinger Hosey qualified without party affiliation for the Nov. 3, 2026 ballot in District 26 and faces Republican Mario Diaz-Balart and Democrat Nicole Locklin. No campaign website, biography or issue statements were found in searches as of Sept. 2026.",
      "primary_result": "No primary (NPA candidate; local news / primary-results roundup)",
      "positions": {
       "taxes": {
@@ -50913,7 +52881,28 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Qualified as a no-party-affiliation candidate during the June 2026 qualifying period.",
+       "sources": [
+        {
+         "title": "Delegation for 6.12.26: Qualifying Week Special Edition (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/801765-delegation-for-6-12-26-qualifying-week-special-edition/",
+         "date": "2026-06-12"
+        },
+        {
+         "title": "Deborah Ann Meidinger Hosey - BallotReady",
+         "url": "https://www.ballotready.org/people/deborah-ann-meidinger-hosey",
+         "date": "2026"
+        },
+        {
+         "title": "Deborah Meidinger Hosey - Good Party candidate page",
+         "url": "https://goodparty.org/candidate/deborah-meidinger-hosey/us-house-of-representatives-florida-26th-congressional-district",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
      "endorsements": []
     }
    ]
@@ -50967,21 +52956,32 @@ window.GUIDE_DATA = {
      "incumbent": true,
      "photo_url": "https://www.congress.gov/img/member/s000168_200.jpg",
      "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
-     "website": null,
+     "website": "https://mariaelvirasalazar.com/",
      "occupation": "U.S. Representative (since 2021)",
      "residence": "Coral Gables area, Miami-Dade County (not re-verified)",
-     "background": "Maria Elvira Salazar, a former television journalist, has represented the 27th District since January 2021. She won the Aug. 18, 2026 Republican primary with 81.3% of the vote over Coral Gables attorney V. Michael Arias (18.7%).",
+     "background": "Maria Elvira Salazar, a former television journalist, has represented the 27th District since January 2021. She is the lead Republican sponsor of the bipartisan Dignity Act immigration bill (H.R. 4393, reintroduced July 2025 with Rep. Veronica Escobar). She won the Aug. 18, 2026 Republican primary with 81.3% of the vote over Coral Gables attorney V. Michael Arias (18.7%). In September 2026 she aired a campaign ad saying the administration's immigration enforcement has 'gone too far.'",
      "primary_result": "Won Aug 18, 2026 Republican primary with 81.3% over V. Michael Arias (18.7%) (CBS Miami; Florida Politics)",
      "positions": {
       "taxes": {
        "stance": 2,
        "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+       "summary": "Salazar voted for H.R. 1 (2025), calling it 'a historic win' with 'game-changing tax relief for working families,' including extended tax cuts and no tax on tips and overtime.",
+       "quote": "Game-changing tax relief for working families",
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+         "title": "Rep. Salazar on X: 'A historic win! The House just passed the Big Beautiful Bill!'",
+         "url": "https://x.com/RepMariaSalazar/status/1940840898905960906",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
          "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "date": "2025-07-04"
         }
        ]
       },
@@ -51007,45 +53007,89 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": 2,
-       "confidence": "record",
-       "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
+       "stance": 0,
+       "confidence": "stated",
+       "summary": "Salazar voted for the Laken Riley Act and describes her Dignity Act as 'enforcement first' with 'zero tolerance for criminals' and permanent border security, but the bill would also give long-term undocumented immigrants earned legal status ('No amnesty. No handouts. No citizenship.'). In a September 2026 ad she said the administration's immigration enforcement has 'gone too far,' and she has asked for deferred action for Cubans, Haitians, Nicaraguans and Venezuelans.",
+       "quote": "No amnesty. No handouts. No citizenship.",
        "sources": [
         {
-         "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
-         "date": "2025-01"
+         "title": "The Dignity Act (salazar.house.gov)",
+         "url": "https://salazar.house.gov/dignity-act",
+         "date": null
         },
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Maria Elvira Salazar: I Am Leading the Charge on Immigration Reform with the Dignity Act (campaign site)",
+         "url": "https://mariaelvirasalazar.com/dignity_act/",
+         "date": null
+        },
+        {
+         "title": "In campaign ad, GOP congresswoman says Trump's immigration enforcement has 'gone too far' (CBS News)",
+         "url": "https://www.cbsnews.com/news/maria-elvira-salazar-trump-immigration-ad-gone-too-far/",
+         "date": "2026-09"
+        },
+        {
+         "title": "Congresswoman Salazar Asks Administration for Deferred Action on Cubans, Haitians, Nicaraguans, and Venezuelans (salazar.house.gov)",
+         "url": "https://salazar.house.gov/media/press-releases/congresswoman-salazar-asks-administration-deferred-action-cubans-haitians-0",
+         "date": "2025"
+        },
+        {
+         "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/202523",
+         "date": "2025-01-22"
+        },
+        {
+         "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+         "date": "2025-01-29"
         }
        ]
       },
       "abortion": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "summary": "No explicit statement captured as of Sept 2026; scorecards from Reproductive Freedom for All and SBA Pro-Life America exist but their contents were not retrieved.",
        "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "healthcare": {
-       "stance": -2,
-       "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+         "title": "Maria Elvira Salazar's Congressional Scorecard (Reproductive Freedom for All)",
+         "url": "https://reproductivefreedomforall.org/lawmaker/maria-elvira-salazar/",
+         "date": null
+        }
+       ]
+      },
+      "guns": {
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "In Vote Smart's candidate survey Salazar said 'I 100% support the 2nd Amendment'; no position on specific measures such as red-flag laws was found.",
+       "quote": "I 100% support the 2nd Amendment",
+       "sources": [
+        {
+         "title": "Maria Salazar's Issue Positions / Political Courage Test (Vote Smart)",
+         "url": "https://justfacts.votesmart.org/candidate/political-courage-test/182300/maria-salazar",
+         "date": null
+        }
+       ]
+      },
+      "healthcare": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Salazar voted for H.R. 1 (2025), which Democrats said would cost about 99,000-100,000 people in her district Medicaid or ACA coverage per CBO projections; her opponent also says she voted against restoring ACA subsidies.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Test for Salazar? Dems say her vote on Trump tax cut bill would remove Medicaid, Medicare for 99k in her district (Key Biscayne Independent)",
+         "url": "https://kbindependent.org/2025/07/03/test-for-salazar-dems-say-her-vote-on-trump-tax-cut-bill-would-remove-medicaid-medicare-for-99k-in-her-district/",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
          "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "date": "2025-07-04"
         }
        ]
       },
@@ -51085,11 +53129,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Salazar voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote (passed 220-208 with every voting Republican in favor).",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+         "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04-10"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -51125,18 +53180,50 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Salazar voted for the $60.8 billion Ukraine Security Supplemental (H.R. 8035, April 2024), one of five Florida Republicans to do so.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "How every House member voted on aid to Ukraine, Israel and more (Washington Post)",
+         "url": "https://www.washingtonpost.com/politics/interactive/2024/04/20/ukraine-israel-border-funding-house-vote/",
+         "date": "2024-04-20"
+        }
+       ]
       },
       "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 0,
+       "confidence": "stated",
+       "summary": "Salazar voted for and celebrated the administration's signature 2025 tax-and-spending bill, but in a September 2026 campaign ad said its immigration enforcement has 'gone too far' and that Hispanic voters 'feel betrayed.'",
+       "quote": "gone too far",
+       "sources": [
+        {
+         "title": "In campaign ad, GOP congresswoman says Trump's immigration enforcement has 'gone too far' (CBS News)",
+         "url": "https://www.cbsnews.com/news/maria-elvira-salazar-trump-immigration-ad-gone-too-far/",
+         "date": "2026-09"
+        },
+        {
+         "title": "Maria Salazar slams Trump's immigration tactics (The Hill)",
+         "url": "https://thehill.com/homenews/campaign/6095767-maria-salazar-trump-immigration-ad/",
+         "date": "2026-09"
+        },
+        {
+         "title": "Rep. Salazar on X: 'A historic win! The House just passed the Big Beautiful Bill!'",
+         "url": "https://x.com/RepMariaSalazar/status/1940840898905960906",
+         "date": "2025-07-03"
+        }
+       ]
       },
       "veterans": {
        "stance": null,
@@ -51146,8 +53233,173 @@ window.GUIDE_DATA = {
        "sources": []
       }
      },
-     "other_issues": [],
+     "other_issues": [
+      {
+       "title": "Dignity Act immigration reform",
+       "summary": "Lead sponsor of H.R. 4393, which pairs border enforcement with earned legal status (not citizenship) for long-term undocumented immigrants; PolitiFact examined claims that it is 'mass amnesty,' and some Republican colleagues have attacked it.",
+       "sources": [
+        {
+         "title": "The Dignity Act (salazar.house.gov)",
+         "url": "https://salazar.house.gov/dignity-act",
+         "date": null
+        },
+        {
+         "title": "PolitiFact FL: Would Salazar's 'Dignity Act' grant mass amnesty to immigrants? (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-04-14/politifact-fl-would-florida-us-rep-maria-salazars-dignity-act-grant-mass-amnesty-to-immigrants",
+         "date": "2026-04-14"
+        },
+        {
+         "title": "MAGA-aligned lawmakers target a Republican colleague for her immigration bill (NOTUS)",
+         "url": "https://www.notus.org/maga-aligned-lawmakers-target-a-republican-colleague-for-her-immigration-bill",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Deferred action for Cubans, Haitians, Nicaraguans and Venezuelans",
+       "summary": "She asked the administration for deferred action after humanitarian parole and TPS were revoked.",
+       "sources": [
+        {
+         "title": "Congresswoman Salazar Asks Administration for Deferred Action on Cubans, Haitians, Nicaraguans, and Venezuelans (salazar.house.gov)",
+         "url": "https://salazar.house.gov/media/press-releases/congresswoman-salazar-asks-administration-deferred-action-cubans-haitians-0",
+         "date": "2025"
+        }
+       ]
+      },
+      {
+       "title": "Small business",
+       "summary": "NFIB and the U.S. Chamber endorsed her as a small-business 'champion.'",
+       "sources": [
+        {
+         "title": "NFIB backs small-business 'champion' Maria Elvira Salazar for re-election in CD 27 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/812589-nfib-backs-small-business-champion-maria-elvira-salazar-for-re-election-in-cd-27/",
+         "date": "2026-08"
+        },
+        {
+         "title": "'Leading the charge': U.S. Chamber backs Maria Elvira Salazar for CD 27 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/815983-leading-the-charge-u-s-chamber-backs-maria-elvira-salazar-for-cd-27/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "title": "No tax on tips and overtime",
+       "summary": "She highlighted these provisions of H.R. 1.",
+       "sources": [
+        {
+         "title": "Rep. Salazar on X: 'A historic win! The House just passed the Big Beautiful Bill!'",
+         "url": "https://x.com/RepMariaSalazar/status/1940840898905960906",
+         "date": "2025-07-03"
+        }
+       ]
+      }
+     ],
      "record": [
+      {
+       "item": "Voted YES on H.R. 1, the One Big Beautiful Bill Act (final passage July 3, 2025).",
+       "sources": [
+        {
+         "title": "Rep. Salazar on X: 'A historic win! The House just passed the Big Beautiful Bill!'",
+         "url": "https://x.com/RepMariaSalazar/status/1940840898905960906",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07-04"
+        }
+       ]
+      },
+      {
+       "item": "Voted YES on the Laken Riley Act (S. 5, Jan. 22, 2025).",
+       "sources": [
+        {
+         "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/202523",
+         "date": "2025-01-22"
+        },
+        {
+         "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+         "date": "2025-01-29"
+        }
+       ]
+      },
+      {
+       "item": "Voted YES on the SAVE Act (H.R. 22, April 10, 2025).",
+       "sources": [
+        {
+         "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+         "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04-10"
+        }
+       ]
+      },
+      {
+       "item": "Voted YES on the Ukraine Security Supplemental Appropriations Act (H.R. 8035, April 20, 2024).",
+       "sources": [
+        {
+         "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+         "date": "2024-04-20"
+        }
+       ]
+      },
+      {
+       "item": "Lead sponsor of the Dignity Act (H.R. 4393, reintroduced July 15, 2025).",
+       "sources": [
+        {
+         "title": "The Dignity Act (salazar.house.gov)",
+         "url": "https://salazar.house.gov/dignity-act",
+         "date": null
+        },
+        {
+         "title": "PolitiFact FL: Would Salazar's 'Dignity Act' grant mass amnesty to immigrants? (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-04-14/politifact-fl-would-florida-us-rep-maria-salazars-dignity-act-grant-mass-amnesty-to-immigrants",
+         "date": "2026-04-14"
+        }
+       ]
+      },
+      {
+       "item": "Aired a September 2026 ad breaking with the administration on immigration enforcement.",
+       "sources": [
+        {
+         "title": "In campaign ad, GOP congresswoman says Trump's immigration enforcement has 'gone too far' (CBS News)",
+         "url": "https://www.cbsnews.com/news/maria-elvira-salazar-trump-immigration-ad-gone-too-far/",
+         "date": "2026-09"
+        },
+        {
+         "title": "Maria Salazar slams Trump's immigration tactics (The Hill)",
+         "url": "https://thehill.com/homenews/campaign/6095767-maria-salazar-trump-immigration-ad/",
+         "date": "2026-09"
+        }
+       ]
+      },
+      {
+       "item": "Democrats criticized her H.R. 1 vote, citing CBO projections of about 99,000 district residents losing coverage.",
+       "sources": [
+        {
+         "title": "Test for Salazar? Dems say her vote on Trump tax cut bill would remove Medicaid, Medicare for 99k in her district (Key Biscayne Independent)",
+         "url": "https://kbindependent.org/2025/07/03/test-for-salazar-dems-say-her-vote-on-trump-tax-cut-bill-would-remove-medicaid-medicare-for-99k-in-her-district/",
+         "date": "2025-07-03"
+        }
+       ]
+      },
       {
        "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
        "sources": [
@@ -51159,7 +53411,28 @@ window.GUIDE_DATA = {
        ]
       }
      ],
-     "endorsements": []
+     "endorsements": [
+      {
+       "by": "U.S. Chamber of Commerce",
+       "sources": [
+        {
+         "title": "'Leading the charge': U.S. Chamber backs Maria Elvira Salazar for CD 27 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/815983-leading-the-charge-u-s-chamber-backs-maria-elvira-salazar-for-cd-27/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "by": "NFIB (National Federation of Independent Business)",
+       "sources": [
+        {
+         "title": "NFIB backs small-business 'champion' Maria Elvira Salazar for re-election in CD 27 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/812589-nfib-backs-small-business-champion-maria-elvira-salazar-for-re-election-in-cd-27/",
+         "date": "2026-08"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "eliott_rodriguez",
@@ -51171,7 +53444,7 @@ window.GUIDE_DATA = {
      "website": null,
      "occupation": "Retired broadcast journalist (former CBS News Miami anchor)",
      "residence": "Miami-Dade County",
-     "background": "Eliott Rodriguez, 69, is a retired broadcast journalist who anchored at CBS News Miami for 25 years; he was born in New York to Cuban parents. He left the station and announced his candidacy in March 2026, then won the Aug. 18 Democratic primary with about 53.5% over former homicide prosecutor Robin Peguero. Coverage describes affordability and opposition to the Trump administration's immigration policies as central themes of his campaign.",
+     "background": "Eliott Rodriguez, 69, is a retired broadcast journalist who anchored at CBS News Miami for 25 years after nearly five decades in journalism; he was born in New York to Cuban immigrant parents. He left the station and announced his candidacy in March 2026, reported raising $312,000 in his first 21 days, and won the Aug. 18 Democratic primary with about 53.5% over former homicide prosecutor Robin Peguero. His campaign centers on affordability, protecting Social Security and Medicare, restoring health-care subsidies, opposing tariffs and opposing the Trump administration's immigration enforcement.",
      "primary_result": "Won Aug 18, 2026 Democratic primary with ~53.5% over Robin Peguero (CBS Miami; WLRN)",
      "positions": {
       "taxes": {
@@ -51205,8 +53478,8 @@ window.GUIDE_DATA = {
       "immigration": {
        "stance": -1,
        "confidence": "stated",
-       "summary": "Local coverage of his primary win reports that opposition to the Trump administration's immigration policies is a central theme of Rodriguez's campaign; his specific enforcement proposals were not captured in this research.",
-       "quote": null,
+       "summary": "Rodriguez campaigns against the Trump administration's deportation crackdown, saying in a January 2026 ad that 'secure borders matter, but so does due process and our constitution.' He also argues Salazar's Dignity Act fails to provide permanent legal pathways for Venezuelans, Haitians and Cubans.",
+       "quote": "Yes, secure borders matter, but so does due process and our constitution.",
        "sources": [
         {
          "title": "Ex-TV anchor Eliott Rodriguez wins the Democratic nod in Florida's 27th (WLRN)",
@@ -51217,15 +53490,31 @@ window.GUIDE_DATA = {
          "title": "Eliott Rodriguez wins Democratic primary for Florida's 27th Congressional District (CBS Miami)",
          "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-27-eliott-rodriguez/",
          "date": "2026-08-18"
+        },
+        {
+         "title": "Maria Salazar slams Trump's immigration tactics (The Hill)",
+         "url": "https://thehill.com/homenews/campaign/6095767-maria-salazar-trump-immigration-ad/",
+         "date": "2026-09"
+        },
+        {
+         "title": "Cost of living, immigration and Cuba: Eliott Rodriguez debates with Voz News anchor (Voz)",
+         "url": "https://voz.us/en/politics/260904/38847/cost-of-living-immigration-and-cuba-elliot-rodriguez-debates-with-voz-news-anchor-karina-yapor.html",
+         "date": "2026-09-04"
         }
        ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Rodriguez campaigned on protecting abortion rights.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Eliott Rodriguez defeats Robin Peguero in CD 27 Democratic Primary (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/814671-eliott-rodriguez-defeats-robin-peguero-in-cd-27-democratic-primary/",
+         "date": "2026-08-18"
+        }
+       ]
       },
       "guns": {
        "stance": null,
@@ -51235,18 +53524,50 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "healthcare": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Rodriguez says he would fight to restore expired Affordable Care Act subsidies, which he says Salazar voted to remove, and to lower prescription drug costs.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Former CBS-4 anchor Eliott Rodriguez cites deep local roots in bid to win seat in Congress (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-07-13/former-cbs-4-anchor-eliott-rodriguez-cites-deep-local-roots-in-bid-to-win-seat-in-congress",
+         "date": "2026-07-13"
+        },
+        {
+         "title": "Robin Peguero, Eliott Rodriguez battle for a shot at Maria Elvira Salazar (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/811888-robin-peguero-eliott-rodriguez-battle-for-a-shot-at-maria-elvira-salazar/",
+         "date": "2026-08"
+        },
+        {
+         "title": "Cost of living, immigration and Cuba: Eliott Rodriguez debates with Voz News anchor (Voz)",
+         "url": "https://voz.us/en/politics/260904/38847/cost-of-living-immigration-and-cuba-elliot-rodriguez-debates-with-voz-news-anchor-karina-yapor.html",
+         "date": "2026-09-04"
+        }
+       ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Rodriguez identifies protecting Social Security and Medicare as key priorities and has tied Salazar to efforts to cut the programs; his position on additional revenue was not captured.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Robin Peguero, Eliott Rodriguez battle for a shot at Maria Elvira Salazar (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/811888-robin-peguero-eliott-rodriguez-battle-for-a-shot-at-maria-elvira-salazar/",
+         "date": "2026-08"
+        },
+        {
+         "title": "Former CBS-4 anchor Eliott Rodriguez cites deep local roots in bid to win seat in Congress (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-07-13/former-cbs-4-anchor-eliott-rodriguez-cites-deep-local-roots-in-bid-to-win-seat-in-congress",
+         "date": "2026-07-13"
+        },
+        {
+         "title": "Candidate Profile: Eliott Rodriguez, Florida's 27th Congressional District (South Dade News Leader)",
+         "url": "https://www.southdadenewsleader.com/news/candidate-profile-eliott-rodriguez-floridas-27th-congressional-district/article_9763913c-deeb-40b3-94a4-ca844eacdcd0.html",
+         "date": "2026"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -51256,11 +53577,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Rodriguez campaigned on addressing climate change and safeguarding South Florida's environment; specific proposals were not captured.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Eliott Rodriguez defeats Robin Peguero in CD 27 Democratic Primary (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/814671-eliott-rodriguez-defeats-robin-peguero-in-cd-27-democratic-primary/",
+         "date": "2026-08-18"
+        },
+        {
+         "title": "Candidate Profile: Eliott Rodriguez, Florida's 27th Congressional District (South Dade News Leader)",
+         "url": "https://www.southdadenewsleader.com/news/candidate-profile-eliott-rodriguez-floridas-27th-congressional-district/article_9763913c-deeb-40b3-94a4-ca844eacdcd0.html",
+         "date": "2026"
+        }
+       ]
       },
       "growth": {
        "stance": null,
@@ -51305,11 +53637,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Rodriguez opposes the administration's tariffs, describing them as part of an 'anti-consumer agenda' that raises costs.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Former CBS-4 anchor Eliott Rodriguez cites deep local roots in bid to win seat in Congress (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-07-13/former-cbs-4-anchor-eliott-rodriguez-cites-deep-local-roots-in-bid-to-win-seat-in-congress",
+         "date": "2026-07-13"
+        },
+        {
+         "title": "Cost of living, immigration and Cuba: Eliott Rodriguez debates with Voz News anchor (Voz)",
+         "url": "https://voz.us/en/politics/260904/38847/cost-of-living-immigration-and-cuba-elliot-rodriguez-debates-with-voz-news-anchor-karina-yapor.html",
+         "date": "2026-09-04"
+        }
+       ]
       },
       "ukraine": {
        "stance": null,
@@ -51319,11 +53662,27 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Rodriguez frames his campaign as a challenge to 'Salazar and the Trump Republicans,' opposing the administration's deportation crackdown and tariffs.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Ex-TV anchor Eliott Rodriguez wins the Democratic nod in Florida's 27th (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-08-18/ex-tv-anchor-eliott-rodriguez-27-district",
+         "date": "2026-08-18"
+        },
+        {
+         "title": "Maria Salazar slams Trump's immigration tactics (The Hill)",
+         "url": "https://thehill.com/homenews/campaign/6095767-maria-salazar-trump-immigration-ad/",
+         "date": "2026-09"
+        },
+        {
+         "title": "Former CBS-4 anchor Eliott Rodriguez cites deep local roots in bid to win seat in Congress (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-07-13/former-cbs-4-anchor-eliott-rodriguez-cites-deep-local-roots-in-bid-to-win-seat-in-congress",
+         "date": "2026-07-13"
+        }
+       ]
       },
       "veterans": {
        "stance": null,
@@ -51344,9 +53703,84 @@ window.GUIDE_DATA = {
          "date": "2026-08-18"
         }
        ]
+      },
+      {
+       "title": "Prosecuting corruption",
+       "summary": "He lists prosecuting corruption among his campaign themes.",
+       "sources": [
+        {
+         "title": "Eliott Rodriguez defeats Robin Peguero in CD 27 Democratic Primary (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/814671-eliott-rodriguez-defeats-robin-peguero-in-cd-27-democratic-primary/",
+         "date": "2026-08-18"
+        }
+       ]
+      },
+      {
+       "title": "Public education",
+       "summary": "His platform includes investing in public education.",
+       "sources": [
+        {
+         "title": "Candidate Profile: Eliott Rodriguez, Florida's 27th Congressional District (South Dade News Leader)",
+         "url": "https://www.southdadenewsleader.com/news/candidate-profile-eliott-rodriguez-floridas-27th-congressional-district/article_9763913c-deeb-40b3-94a4-ca844eacdcd0.html",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Cuba",
+       "summary": "The son of Cuban immigrants, he has discussed Cuba policy in interviews and was the first journalist to interview dissident Osvaldo Paya.",
+       "sources": [
+        {
+         "title": "Cost of living, immigration and Cuba: Eliott Rodriguez debates with Voz News anchor (Voz)",
+         "url": "https://voz.us/en/politics/260904/38847/cost-of-living-immigration-and-cuba-elliot-rodriguez-debates-with-voz-news-anchor-karina-yapor.html",
+         "date": "2026-09-04"
+        },
+        {
+         "title": "Former CBS-4 anchor Eliott Rodriguez cites deep local roots in bid to win seat in Congress (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-07-13/former-cbs-4-anchor-eliott-rodriguez-cites-deep-local-roots-in-bid-to-win-seat-in-congress",
+         "date": "2026-07-13"
+        }
+       ]
+      },
+      {
+       "title": "Prescription drug costs",
+       "summary": "He says he would work to lower prescription costs.",
+       "sources": [
+        {
+         "title": "Robin Peguero, Eliott Rodriguez battle for a shot at Maria Elvira Salazar (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/811888-robin-peguero-eliott-rodriguez-battle-for-a-shot-at-maria-elvira-salazar/",
+         "date": "2026-08"
+        }
+       ]
       }
      ],
-     "record": [],
+     "record": [
+      {
+       "item": "Anchored at CBS News Miami for 25 years before leaving to run in March 2026.",
+       "sources": [
+        {
+         "title": "Former CBS Miami anchor Eliott Rodriguez running for Florida's 27th district (NBC 6)",
+         "url": "https://www.nbcmiami.com/news/politics/former-cbs-miami-anchor-eliott-rodriguez-running-for-floridas-27th-district/3779290/",
+         "date": "2026-03"
+        },
+        {
+         "title": "Former CBS-4 anchor Eliott Rodriguez cites deep local roots in bid to win seat in Congress (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-07-13/former-cbs-4-anchor-eliott-rodriguez-cites-deep-local-roots-in-bid-to-win-seat-in-congress",
+         "date": "2026-07-13"
+        }
+       ]
+      },
+      {
+       "item": "Reported raising $312,000 in the first 21 days of his campaign.",
+       "sources": [
+        {
+         "title": "Eliott Rodriguez reports $312K raised in 21 days for CD 27 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/789171-this-is-what-consolidation-looks-like-eliott-rodriguez-reports-312k-raised-in-21-days-for-cd-27/",
+         "date": "2026-04"
+        }
+       ]
+      }
+     ],
      "endorsements": []
     }
    ]
@@ -51404,18 +53838,34 @@ window.GUIDE_DATA = {
      "website": null,
      "occupation": "U.S. Representative (since 2021); former Miami-Dade County Mayor",
      "residence": "Miami-Dade County",
-     "background": "Carlos Gimenez, a former Miami fire chief and Miami-Dade County mayor (2011-2020), has represented the 28th District since January 2021 (elected in the old 26th). He was unopposed in the Aug. 18, 2026 Republican primary.",
+     "background": "Carlos Gimenez, a former Miami fire chief and Miami-Dade County mayor (2011-2020), has represented the 28th District since January 2021 (elected in the old 26th). He was unopposed in the Aug. 18, 2026 Republican primary. In 2026 he has publicly urged the administration to change its ICE enforcement strategy and to 'normalize' longtime immigrants, while supporting the administration's tax bill and tariff proposals.",
      "primary_result": "Unopposed in Aug 18, 2026 Republican primary (CBS Miami)",
      "positions": {
       "taxes": {
        "stance": 2,
        "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which made the 2017 individual tax cuts permanent and added new deductions, paired with reductions in projected federal spending.",
+       "summary": "Gimenez co-signed the Florida Republican letter supporting H.R. 1 and voted for the bill, which extended the 2017 tax cuts and reduced Medicaid and SNAP spending.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "title": "Buchanan leads Florida Republican letter in support of One Big Beautiful Bill (buchanan.house.gov)",
+         "url": "https://buchanan.house.gov/2025/6/buchanan-leads-florida-republican-letter-in-support-of-one-big-beautiful-bill",
+         "date": "2025-06"
+        },
+        {
+         "title": "Webster and Florida Republicans support passage of One Big Beautiful Bill (webster.house.gov)",
+         "url": "https://webster.house.gov/press-releases?id=75C0C58D-D6A5-42E2-84FF-02805A05C95E",
          "date": "2025-07"
+        },
+        {
+         "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07-04"
         }
        ]
       },
@@ -51441,45 +53891,99 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": 2,
-       "confidence": "record",
-       "summary": "Voted for the Laken Riley Act (January 2025), requiring federal detention of unauthorized immigrants charged with theft and certain other crimes, and for H.R. 1 (2025), which funded expanded detention and deportation operations.",
+       "stance": 0,
+       "confidence": "stated",
+       "summary": "Gimenez voted for the Laken Riley Act and petitioned DHS to deport Castro-regime agents, but in 2026 said the administration's ICE enforcement strategy 'was a mistake,' that detention should be reserved for criminals, gang members and people with deportation orders rather than 20-year residents, that deporting Haitian TPS holders 'would be a huge mistake,' and that longtime immigrants should be 'normalized' along the lines of DACA.",
+       "quote": "we need to find a way to normalize them",
        "sources": [
         {
-         "title": "S.5 Laken Riley Act, 119th Congress: actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
-         "date": "2025-01"
+         "title": "GOP Congressman warns Trump admin ICE enforcement strategy 'was a mistake' (Newsweek)",
+         "url": "https://www.newsweek.com/carlos-gimenez-trump-admin-ice-strategy-mistake-11455095",
+         "date": "2026"
         },
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Carlos Gimenez urges normalization of longtime US immigrants, DACA recipients (The Hill)",
+         "url": "https://thehill.com/homenews/administration/5954255-carlos-gimenez-trump-normalization-immigrants-daca/",
+         "date": "2026"
+        },
+        {
+         "title": "ICE reportedly set to ramp up operations against Haitian migrants after TPS ruling (TIME)",
+         "url": "https://time.com/article/2026/07/27/haitian-immigrants-ice-operations-temporary-protected-status/",
+         "date": "2026-07-27"
+        },
+        {
+         "title": "Carlos Gimenez questions the need for more ICE detention centers (The Floridian)",
+         "url": "https://floridianpress.com/2026/02/carlos-gimenez-comments-on-potential-new-detention-facility-in-orlando/",
+         "date": "2026-02"
+        },
+        {
+         "title": "Congressman Gimenez petitions DHS to deport Castro regime agents (gimenez.house.gov)",
+         "url": "https://gimenez.house.gov/2025/3/congressman-carlos-gimenez-petitions-dhs-to-deport-castro-regime-agents",
+         "date": "2025-03"
+        },
+        {
+         "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/202523",
+         "date": "2025-01-22"
+        },
+        {
+         "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+         "date": "2025-01-29"
         }
        ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "healthcare": {
        "stance": -2,
        "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which added Medicaid work requirements and eligibility checks and reduced projected federal Medicaid spending.",
+       "summary": "SBA Pro-Life America's scorecard says Gimenez has voted consistently to 'defend the lives of the unborn' and to block tax dollars from paying for abortion, including abortion travel expenses.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
+         "title": "Rep. Carlos Gimenez - SBA Pro-Life America National Pro-Life Scorecard",
+         "url": "https://sbaprolife.org/representative/carlos-gimenez",
+         "date": "2026"
+        }
+       ]
+      },
+      "guns": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Gimenez voted for the Bipartisan Background Checks Act (H.R. 8, 2021), which would extend background checks to private-party firearm transfers; no position on red-flag laws or the 21 purchase age was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Carlos Gimenez's voting records / key votes (Vote Smart)",
+         "url": "https://justfacts.votesmart.org/candidate/key-votes/81366/carlos-gimenez/2/abortion",
+         "date": null
+        },
+        {
+         "title": "Carlos Gimenez on Gun Control (OnTheIssues)",
+         "url": "https://www.ontheissues.org/FL/Carlos_Gimenez_Gun_Control.htm",
+         "date": null
+        }
+       ]
+      },
+      "healthcare": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Gimenez voted for H.R. 1 (2025); the Florida GOP letter he signed says the bill protects Medicaid 'for American citizens' by adding work requirements and removing waste, fraud and abuse, while CBO projected coverage losses.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Buchanan leads Florida Republican letter in support of One Big Beautiful Bill (buchanan.house.gov)",
+         "url": "https://buchanan.house.gov/2025/6/buchanan-leads-florida-republican-letter-in-support-of-one-big-beautiful-bill",
+         "date": "2025-06"
+        },
+        {
+         "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
          "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "date": "2025-07-04"
         }
        ]
       },
@@ -51519,11 +54023,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Gimenez voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote (passed 220-208 with every voting Republican in favor).",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+         "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04-10"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -51552,25 +54067,68 @@ window.GUIDE_DATA = {
        ]
       },
       "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "In November 2024 Gimenez applauded President-elect Trump's proposed 25% tariff on Mexico and Canada as leverage until the drug and border crises are resolved; a broader statement on tariffs' economic effects was not found.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Congressman Gimenez applauds Trump's proposed 25% tariff on Mexico and Canada (gimenez.house.gov)",
+         "url": "https://gimenez.house.gov/2024/11/ongressman-carlos-gimenez-applauds-trump-s-proposed-25-tariff-on-mexico-and-canada",
+         "date": "2024-11"
+        }
+       ]
       },
       "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Gimenez voted for the $60.8 billion Ukraine Security Supplemental (H.R. 8035, April 2024), one of five Florida Republicans to do so.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "How every House member voted on aid to Ukraine, Israel and more (Washington Post)",
+         "url": "https://www.washingtonpost.com/politics/interactive/2024/04/20/ukraine-israel-border-funding-house-vote/",
+         "date": "2024-04-20"
+        }
+       ]
       },
       "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Gimenez supported the administration's 2025 tax bill and tariff proposals and praised the January 2026 capture of Nicolas Maduro, but has said the administration's ICE enforcement strategy 'was a mistake' and needed a course correction.",
+       "quote": "was a mistake",
+       "sources": [
+        {
+         "title": "GOP Congressman warns Trump admin ICE enforcement strategy 'was a mistake' (Newsweek)",
+         "url": "https://www.newsweek.com/carlos-gimenez-trump-admin-ice-strategy-mistake-11455095",
+         "date": "2026"
+        },
+        {
+         "title": "Carlos Gimenez: Trump needed ICE course correction long ago (Mediaite)",
+         "url": "https://www.mediaite.com/media/news/weve-been-warning-gop-congressman-says-trump-needed-ice-course-correction-a-long-time-ago/",
+         "date": "2026"
+        },
+        {
+         "title": "Buchanan leads Florida Republican letter in support of One Big Beautiful Bill (buchanan.house.gov)",
+         "url": "https://buchanan.house.gov/2025/6/buchanan-leads-florida-republican-letter-in-support-of-one-big-beautiful-bill",
+         "date": "2025-06"
+        },
+        {
+         "title": "Congressman Gimenez issues statement on Maduro's capture (gimenez.house.gov)",
+         "url": "https://gimenez.house.gov/2026/1/congressman-carlos-a-gimenez-issues-statement-on-maduro-s-capture",
+         "date": "2026-01"
+        }
+       ]
       },
       "veterans": {
        "stance": null,
@@ -51580,8 +54138,184 @@ window.GUIDE_DATA = {
        "sources": []
       }
      },
-     "other_issues": [],
+     "other_issues": [
+      {
+       "title": "ICE detention oversight",
+       "summary": "He conducted a fact-finding visit to an ICE facility in June 2025 and in 2026 questioned the need for more detention centers, saying they should hold criminals and people with deportation orders.",
+       "sources": [
+        {
+         "title": "Congressman Carlos Gimenez releases statement following ICE facility fact-finding mission (gimenez.house.gov)",
+         "url": "https://gimenez.house.gov/2025/6/congressman-carlos-gimenez-releases-statement-following-ice-facility-fact-finding-mission",
+         "date": "2025-06"
+        },
+        {
+         "title": "Carlos Gimenez questions the need for more ICE detention centers (The Floridian)",
+         "url": "https://floridianpress.com/2026/02/carlos-gimenez-comments-on-potential-new-detention-facility-in-orlando/",
+         "date": "2026-02"
+        }
+       ]
+      },
+      {
+       "title": "Normalizing longtime immigrants / DACA",
+       "summary": "He urged the administration to find a way to 'normalize' immigrants who have worked and lived in the U.S. for years, citing DACA as a model.",
+       "sources": [
+        {
+         "title": "Carlos Gimenez urges normalization of longtime US immigrants, DACA recipients (The Hill)",
+         "url": "https://thehill.com/homenews/administration/5954255-carlos-gimenez-trump-normalization-immigrants-daca/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Venezuela and Cuba",
+       "summary": "He issued statements on the capture of Nicolas Maduro, said 'we are ready for Cuba,' petitioned DHS to deport Castro-regime agents, and applauded TPS extensions for Venezuelans.",
+       "sources": [
+        {
+         "title": "Congressman Gimenez issues statement on Maduro's capture (gimenez.house.gov)",
+         "url": "https://gimenez.house.gov/2026/1/congressman-carlos-a-gimenez-issues-statement-on-maduro-s-capture",
+         "date": "2026-01"
+        },
+        {
+         "title": "Congressman Gimenez petitions DHS to deport Castro regime agents (gimenez.house.gov)",
+         "url": "https://gimenez.house.gov/2025/3/congressman-carlos-gimenez-petitions-dhs-to-deport-castro-regime-agents",
+         "date": "2025-03"
+        },
+        {
+         "title": "Cuban-American lawmakers applaud reinstatement of TPS for Venezuelans (Cuba Headlines)",
+         "url": "https://www.cubaheadlines.com/articles/300239",
+         "date": "2025"
+        }
+       ]
+      },
+      {
+       "title": "Haitian TPS",
+       "summary": "He said deporting Haitians currently under TPS back to Haiti 'would be a huge mistake.'",
+       "sources": [
+        {
+         "title": "ICE reportedly set to ramp up operations against Haitian migrants after TPS ruling (TIME)",
+         "url": "https://time.com/article/2026/07/27/haitian-immigrants-ice-operations-temporary-protected-status/",
+         "date": "2026-07-27"
+        }
+       ]
+      },
+      {
+       "title": "Tariffs as border leverage",
+       "summary": "He backed proposed 25% tariffs on Mexico and Canada tied to the drug and border crises.",
+       "sources": [
+        {
+         "title": "Congressman Gimenez applauds Trump's proposed 25% tariff on Mexico and Canada (gimenez.house.gov)",
+         "url": "https://gimenez.house.gov/2024/11/ongressman-carlos-gimenez-applauds-trump-s-proposed-25-tariff-on-mexico-and-canada",
+         "date": "2024-11"
+        }
+       ]
+      }
+     ],
      "record": [
+      {
+       "item": "Voted YES on H.R. 1, the One Big Beautiful Bill Act (final passage July 3, 2025), and co-signed the Florida GOP delegation letter supporting it.",
+       "sources": [
+        {
+         "title": "Buchanan leads Florida Republican letter in support of One Big Beautiful Bill (buchanan.house.gov)",
+         "url": "https://buchanan.house.gov/2025/6/buchanan-leads-florida-republican-letter-in-support-of-one-big-beautiful-bill",
+         "date": "2025-06"
+        },
+        {
+         "title": "Webster and Florida Republicans support passage of One Big Beautiful Bill (webster.house.gov)",
+         "url": "https://webster.house.gov/press-releases?id=75C0C58D-D6A5-42E2-84FF-02805A05C95E",
+         "date": "2025-07"
+        },
+        {
+         "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/2025190",
+         "date": "2025-07-03"
+        },
+        {
+         "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07-04"
+        }
+       ]
+      },
+      {
+       "item": "Voted YES on the Laken Riley Act (S. 5, Jan. 22, 2025).",
+       "sources": [
+        {
+         "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+         "url": "https://clerk.house.gov/Votes/202523",
+         "date": "2025-01-22"
+        },
+        {
+         "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+         "date": "2025-01-29"
+        }
+       ]
+      },
+      {
+       "item": "Voted YES on the SAVE Act (H.R. 22, April 10, 2025).",
+       "sources": [
+        {
+         "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+         "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04-10"
+        }
+       ]
+      },
+      {
+       "item": "Voted YES on the Ukraine Security Supplemental Appropriations Act (H.R. 8035, April 20, 2024).",
+       "sources": [
+        {
+         "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+         "date": "2024-04-20"
+        },
+        {
+         "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+         "date": "2024-04-20"
+        }
+       ]
+      },
+      {
+       "item": "Voted YES on the Bipartisan Background Checks Act (H.R. 8, 2021).",
+       "sources": [
+        {
+         "title": "Carlos Gimenez's voting records / key votes (Vote Smart)",
+         "url": "https://justfacts.votesmart.org/candidate/key-votes/81366/carlos-gimenez/2/abortion",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Publicly said in 2026 that the administration's ICE enforcement strategy 'was a mistake.'",
+       "sources": [
+        {
+         "title": "GOP Congressman warns Trump admin ICE enforcement strategy 'was a mistake' (Newsweek)",
+         "url": "https://www.newsweek.com/carlos-gimenez-trump-admin-ice-strategy-mistake-11455095",
+         "date": "2026"
+        },
+        {
+         "title": "Carlos Gimenez: Trump needed ICE course correction long ago (Mediaite)",
+         "url": "https://www.mediaite.com/media/news/weve-been-warning-gop-congressman-says-trump-needed-ice-course-correction-a-long-time-ago/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Miami-Dade County Mayor 2011-2020; former Miami fire chief.",
+       "sources": [
+        {
+         "title": "Carlos Gimenez - Ballotpedia",
+         "url": "https://ballotpedia.org/Carlos_Gimenez",
+         "date": "2026"
+        }
+       ]
+      },
       {
        "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
        "sources": [
@@ -51605,7 +54339,7 @@ window.GUIDE_DATA = {
      "website": "https://ehrforcongress.us/",
      "occupation": "Retired U.S. Navy commander",
      "residence": "Not found (district: Miami-Dade/Monroe)",
-     "background": "Phil 'Felipe' Ehr is a retired U.S. Navy commander who served 26 years, including in roles supporting Cold War-era operations, Desert Storm and Allied Force. He was the 2024 Democratic nominee against Carlos Gimenez and was unopposed in the Aug. 18, 2026 Democratic primary. U.S. Rep. Jamie Raskin endorsed him in September 2026.",
+     "background": "Phil 'Felipe' Ehr is a retired U.S. Navy commander who served from 1982 to 2008, including roles supporting Cold War-era operations, Desert Storm and Allied Force; his campaign says he has since completed humanitarian aid delivery missions in Ukraine. He was the Democratic nominee in Florida's 1st District in 2020 and against Carlos Gimenez in CD 28 in 2024, and was unopposed in the Aug. 18, 2026 Democratic primary. U.S. Rep. Jamie Raskin endorsed him in September 2026.",
      "primary_result": "Unopposed in Aug 18, 2026 Democratic primary (CBS Miami)",
      "positions": {
       "taxes": {
@@ -51637,18 +54371,45 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 0,
+       "confidence": "stated",
+       "summary": "Ehr says he wants to stop illegal border crossings and enforce 'rational immigration laws,' citing his work on border-security technology, while calling for reform of ICE and CBP operations starting with 'transparency, accountability and training,' including rules on identification and use of force.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Dem Phil Ehr running for Congress in 28th District (Keys News)",
+         "url": "https://www.keysnews.com/news/local/dem-phil-ehr-running-for-congress-in-28th-district/article_0914d6a3-3611-4a92-90eb-c7de2fc001ab.html",
+         "date": "2026"
+        },
+        {
+         "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+         "url": "https://ehrforcongress.us/",
+         "date": null
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Ehr says he will vote to codify Roe v. Wade's protections into law and describes the goal as ending government overreach on reproductive decisions.",
+       "quote": "In Congress, I will vote to codify Roe's protections into law.",
+       "sources": [
+        {
+         "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+         "url": "https://ehrforcongress.us/",
+         "date": null
+        },
+        {
+         "title": "Phil Ehr's policy on Abortion (iSideWith)",
+         "url": "https://www.isidewith.com/candidates/phil-ehr/policies/social/abortion",
+         "date": null
+        },
+        {
+         "title": "Phil Ehr's Issue Positions (Vote Smart Political Courage Test)",
+         "url": "https://justfacts.votesmart.org/candidate/political-courage-test/182249/phil-ehr",
+         "date": null
+        }
+       ]
       },
       "guns": {
        "stance": null,
@@ -51658,11 +54419,17 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "healthcare": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Ehr proposes a 'Healthcare Stability & Program Choice Act' to lower premiums, expand access and reduce out-of-pocket costs.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+         "url": "https://ehrforcongress.us/",
+         "date": null
+        }
+       ]
       },
       "social_security": {
        "stance": null,
@@ -51679,18 +54446,35 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Ehr's platform includes protecting the Everglades, defending water resources, 'responsible growth' and a temporary moratorium on large-scale AI data centers and other high-impact developments.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+         "url": "https://ehrforcongress.us/",
+         "date": null
+        },
+        {
+         "title": "Dem Phil Ehr running for Congress in 28th District (Keys News)",
+         "url": "https://www.keysnews.com/news/local/dem-phil-ehr-running-for-congress-in-28th-district/article_0914d6a3-3611-4a92-90eb-c7de2fc001ab.html",
+         "date": "2026"
+        }
+       ]
       },
       "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Ehr supports 'responsible growth' and a temporary moratorium on large-scale AI data centers and other high-impact developments.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+         "url": "https://ehrforcongress.us/",
+         "date": null
+        }
+       ]
       },
       "marijuana": {
        "stance": null,
@@ -51728,18 +54512,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Ehr says the administration's 'trade wars' and 'reckless tariffs' raised prices on construction materials and groceries; he supports trade policies that protect U.S. jobs 'without sabotaging American consumers or our allies.'",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Dem Phil Ehr running for Congress in 28th District (Keys News)",
+         "url": "https://www.keysnews.com/news/local/dem-phil-ehr-running-for-congress-in-28th-district/article_0914d6a3-3611-4a92-90eb-c7de2fc001ab.html",
+         "date": "2026"
+        },
+        {
+         "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+         "url": "https://ehrforcongress.us/",
+         "date": null
+        }
+       ]
       },
       "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Ehr's campaign says he completed dozens of humanitarian aid delivery missions in Ukraine for people who 'risked it all for freedom'; an explicit position on continued U.S. military aid was not captured.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Meet Phil (campaign site)",
+         "url": "https://ehrforcongress.us/meet-phil/",
+         "date": null
+        },
+        {
+         "title": "Commander Phil Ehr is running to unseat Carlos Gimenez (campaign ActBlue page)",
+         "url": "https://secure.actblue.com/donate/phil-ehr",
+         "date": "2026"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -51767,7 +54573,57 @@ window.GUIDE_DATA = {
        ]
       }
      },
-     "other_issues": [],
+     "other_issues": [
+      {
+       "title": "Moratorium on large AI data centers",
+       "summary": "He proposes a temporary moratorium on large-scale AI data centers and other high-impact developments.",
+       "sources": [
+        {
+         "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+         "url": "https://ehrforcongress.us/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Protecting the VA",
+       "summary": "He says he will stand against the 'quiet dismantling' of the VA and expand rather than privatize veterans' care.",
+       "sources": [
+        {
+         "title": "Commander Phil Ehr is running to unseat Carlos Gimenez (campaign ActBlue page)",
+         "url": "https://secure.actblue.com/donate/phil-ehr",
+         "date": "2026"
+        },
+        {
+         "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+         "url": "https://ehrforcongress.us/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "ICE/CBP reform",
+       "summary": "He calls for transparency, accountability and training reforms for ICE and CBP, including proper identification and use-of-force rules.",
+       "sources": [
+        {
+         "title": "Dem Phil Ehr running for Congress in 28th District (Keys News)",
+         "url": "https://www.keysnews.com/news/local/dem-phil-ehr-running-for-congress-in-28th-district/article_0914d6a3-3611-4a92-90eb-c7de2fc001ab.html",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Everglades and water",
+       "summary": "Protecting the Everglades and water resources is part of his platform.",
+       "sources": [
+        {
+         "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+         "url": "https://ehrforcongress.us/",
+         "date": null
+        }
+       ]
+      }
+     ],
      "record": [
       {
        "item": "Lost to Carlos Gimenez as the 2024 Democratic nominee in CD 28.",
@@ -51775,6 +54631,36 @@ window.GUIDE_DATA = {
         {
          "title": "Phil Ehr again in an uphill battle for a Washington job, this time against Carlos Gimenez (Florida Politics)",
          "url": "https://floridapolitics.com/archives/703005-phil-ehr-again-in-an-uphill-battle-for-a-washington-job-this-time-against-carlos-gimenez-in-reddening-cd-28/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Democratic nominee in Florida's 1st Congressional District in 2020.",
+       "sources": [
+        {
+         "title": "DAUK Webinar with Phil Ehr (Candidate for FL-01) - Democrats Abroad",
+         "url": "https://www.democratsabroad.org/phil_ehr_candidate_for_fl_01",
+         "date": "2020"
+        },
+        {
+         "title": "Phil Ehr - Ballotpedia",
+         "url": "https://ballotpedia.org/Phil_Ehr",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Served in the U.S. Navy 1982-2008, retiring as a commander.",
+       "sources": [
+        {
+         "title": "Phil Ehr - Ballotpedia",
+         "url": "https://ballotpedia.org/Phil_Ehr",
+         "date": "2026"
+        },
+        {
+         "title": "Meet Phil (campaign site)",
+         "url": "https://ehrforcongress.us/meet-phil/",
          "date": null
         }
        ]
@@ -51801,9 +54687,9 @@ window.GUIDE_DATA = {
      "photo_url": null,
      "photo_source": null,
      "website": null,
-     "occupation": "Not found",
+     "occupation": "Business owner",
      "residence": "Not found",
-     "background": "Eddy Rojas is an independent (no party affiliation) candidate on the Nov. 3, 2026 ballot for District 28, making it a three-way race with Gimenez and Ehr.",
+     "background": "Eddy Rojas is an independent (no party affiliation) candidate on the Nov. 3, 2026 ballot for District 28, making it a three-way race with Gimenez and Ehr. Ballotpedia says he was born in Cuba, immigrated to Miami, began his career as a valet and later established several companies; his platform says he plans to bring his business experience to Congress. No issue-specific positions were found.",
      "primary_result": "No primary (NPA candidate; CBS Miami / Keys News)",
      "positions": {
       "taxes": {
@@ -51955,7 +54841,23 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Born in Cuba; immigrated to Miami and founded several companies after starting as a valet (per Ballotpedia).",
+       "sources": [
+        {
+         "title": "Eddy Rojas - Ballotpedia",
+         "url": "https://ballotpedia.org/Eddy_Rojas",
+         "date": "2026"
+        },
+        {
+         "title": "Eddy Rojas - BallotReady",
+         "url": "https://www.ballotready.org/people/eddy-rojas-b572360f-5a83-45f0-af65-81c21d376fef",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
      "endorsements": []
     }
    ]

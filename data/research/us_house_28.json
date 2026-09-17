@@ -26,15 +26,36 @@
       "website": null,
       "occupation": "U.S. Representative (since 2021); former Miami-Dade County Mayor",
       "residence": "Miami-Dade County",
-      "background": "Carlos Gimenez, a former Miami fire chief and Miami-Dade County mayor (2011-2020), has represented the 28th District since January 2021 (elected in the old 26th). He was unopposed in the Aug. 18, 2026 Republican primary.",
+      "background": "Carlos Gimenez, a former Miami fire chief and Miami-Dade County mayor (2011-2020), has represented the 28th District since January 2021 (elected in the old 26th). He was unopposed in the Aug. 18, 2026 Republican primary. In 2026 he has publicly urged the administration to change its ICE enforcement strategy and to 'normalize' longtime immigrants, while supporting the administration's tax bill and tariff proposals.",
       "primary_result": "Unopposed in Aug 18, 2026 Republican primary (CBS Miami)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Gimenez co-signed the Florida Republican letter supporting H.R. 1 and voted for the bill, which extended the 2017 tax cuts and reduced Medicaid and SNAP spending.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Buchanan leads Florida Republican letter in support of One Big Beautiful Bill (buchanan.house.gov)",
+              "url": "https://buchanan.house.gov/2025/6/buchanan-leads-florida-republican-letter-in-support-of-one-big-beautiful-bill",
+              "date": "2025-06"
+            },
+            {
+              "title": "Webster and Florida Republicans support passage of One Big Beautiful Bill (webster.house.gov)",
+              "url": "https://webster.house.gov/press-releases?id=75C0C58D-D6A5-42E2-84FF-02805A05C95E",
+              "date": "2025-07"
+            },
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -58,32 +79,101 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Gimenez voted for the Laken Riley Act and petitioned DHS to deport Castro-regime agents, but in 2026 said the administration's ICE enforcement strategy 'was a mistake,' that detention should be reserved for criminals, gang members and people with deportation orders rather than 20-year residents, that deporting Haitian TPS holders 'would be a huge mistake,' and that longtime immigrants should be 'normalized' along the lines of DACA.",
+          "quote": "we need to find a way to normalize them",
+          "sources": [
+            {
+              "title": "GOP Congressman warns Trump admin ICE enforcement strategy 'was a mistake' (Newsweek)",
+              "url": "https://www.newsweek.com/carlos-gimenez-trump-admin-ice-strategy-mistake-11455095",
+              "date": "2026"
+            },
+            {
+              "title": "Carlos Gimenez urges normalization of longtime US immigrants, DACA recipients (The Hill)",
+              "url": "https://thehill.com/homenews/administration/5954255-carlos-gimenez-trump-normalization-immigrants-daca/",
+              "date": "2026"
+            },
+            {
+              "title": "ICE reportedly set to ramp up operations against Haitian migrants after TPS ruling (TIME)",
+              "url": "https://time.com/article/2026/07/27/haitian-immigrants-ice-operations-temporary-protected-status/",
+              "date": "2026-07-27"
+            },
+            {
+              "title": "Carlos Gimenez questions the need for more ICE detention centers (The Floridian)",
+              "url": "https://floridianpress.com/2026/02/carlos-gimenez-comments-on-potential-new-detention-facility-in-orlando/",
+              "date": "2026-02"
+            },
+            {
+              "title": "Congressman Gimenez petitions DHS to deport Castro regime agents (gimenez.house.gov)",
+              "url": "https://gimenez.house.gov/2025/3/congressman-carlos-gimenez-petitions-dhs-to-deport-castro-regime-agents",
+              "date": "2025-03"
+            },
+            {
+              "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            },
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "record",
+          "summary": "SBA Pro-Life America's scorecard says Gimenez has voted consistently to 'defend the lives of the unborn' and to block tax dollars from paying for abortion, including abortion travel expenses.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Rep. Carlos Gimenez - SBA Pro-Life America National Pro-Life Scorecard",
+              "url": "https://sbaprolife.org/representative/carlos-gimenez",
+              "date": "2026"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Gimenez voted for the Bipartisan Background Checks Act (H.R. 8, 2021), which would extend background checks to private-party firearm transfers; no position on red-flag laws or the 21 purchase age was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Carlos Gimenez's voting records / key votes (Vote Smart)",
+              "url": "https://justfacts.votesmart.org/candidate/key-votes/81366/carlos-gimenez/2/abortion",
+              "date": null
+            },
+            {
+              "title": "Carlos Gimenez on Gun Control (OnTheIssues)",
+              "url": "https://www.ontheissues.org/FL/Carlos_Gimenez_Gun_Control.htm",
+              "date": null
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Gimenez voted for H.R. 1 (2025); the Florida GOP letter he signed says the bill protects Medicaid 'for American citizens' by adding work requirements and removing waste, fraud and abuse, while CBO projected coverage losses.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Buchanan leads Florida Republican letter in support of One Big Beautiful Bill (buchanan.house.gov)",
+              "url": "https://buchanan.house.gov/2025/6/buchanan-leads-florida-republican-letter-in-support-of-one-big-beautiful-bill",
+              "date": "2025-06"
+            },
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -121,11 +211,22 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Gimenez voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote (passed 220-208 with every voting Republican in favor).",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+              "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -149,25 +250,68 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In November 2024 Gimenez applauded President-elect Trump's proposed 25% tariff on Mexico and Canada as leverage until the drug and border crises are resolved; a broader statement on tariffs' economic effects was not found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Congressman Gimenez applauds Trump's proposed 25% tariff on Mexico and Canada (gimenez.house.gov)",
+              "url": "https://gimenez.house.gov/2024/11/ongressman-carlos-gimenez-applauds-trump-s-proposed-25-tariff-on-mexico-and-canada",
+              "date": "2024-11"
+            }
+          ]
         },
         "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Gimenez voted for the $60.8 billion Ukraine Security Supplemental (H.R. 8035, April 2024), one of five Florida Republicans to do so.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "How every House member voted on aid to Ukraine, Israel and more (Washington Post)",
+              "url": "https://www.washingtonpost.com/politics/interactive/2024/04/20/ukraine-israel-border-funding-house-vote/",
+              "date": "2024-04-20"
+            }
+          ]
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Gimenez supported the administration's 2025 tax bill and tariff proposals and praised the January 2026 capture of Nicolas Maduro, but has said the administration's ICE enforcement strategy 'was a mistake' and needed a course correction.",
+          "quote": "was a mistake",
+          "sources": [
+            {
+              "title": "GOP Congressman warns Trump admin ICE enforcement strategy 'was a mistake' (Newsweek)",
+              "url": "https://www.newsweek.com/carlos-gimenez-trump-admin-ice-strategy-mistake-11455095",
+              "date": "2026"
+            },
+            {
+              "title": "Carlos Gimenez: Trump needed ICE course correction long ago (Mediaite)",
+              "url": "https://www.mediaite.com/media/news/weve-been-warning-gop-congressman-says-trump-needed-ice-course-correction-a-long-time-ago/",
+              "date": "2026"
+            },
+            {
+              "title": "Buchanan leads Florida Republican letter in support of One Big Beautiful Bill (buchanan.house.gov)",
+              "url": "https://buchanan.house.gov/2025/6/buchanan-leads-florida-republican-letter-in-support-of-one-big-beautiful-bill",
+              "date": "2025-06"
+            },
+            {
+              "title": "Congressman Gimenez issues statement on Maduro's capture (gimenez.house.gov)",
+              "url": "https://gimenez.house.gov/2026/1/congressman-carlos-a-gimenez-issues-statement-on-maduro-s-capture",
+              "date": "2026-01"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -177,8 +321,185 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "ICE detention oversight",
+          "summary": "He conducted a fact-finding visit to an ICE facility in June 2025 and in 2026 questioned the need for more detention centers, saying they should hold criminals and people with deportation orders.",
+          "sources": [
+            {
+              "title": "Congressman Carlos Gimenez releases statement following ICE facility fact-finding mission (gimenez.house.gov)",
+              "url": "https://gimenez.house.gov/2025/6/congressman-carlos-gimenez-releases-statement-following-ice-facility-fact-finding-mission",
+              "date": "2025-06"
+            },
+            {
+              "title": "Carlos Gimenez questions the need for more ICE detention centers (The Floridian)",
+              "url": "https://floridianpress.com/2026/02/carlos-gimenez-comments-on-potential-new-detention-facility-in-orlando/",
+              "date": "2026-02"
+            }
+          ]
+        },
+        {
+          "title": "Normalizing longtime immigrants / DACA",
+          "summary": "He urged the administration to find a way to 'normalize' immigrants who have worked and lived in the U.S. for years, citing DACA as a model.",
+          "sources": [
+            {
+              "title": "Carlos Gimenez urges normalization of longtime US immigrants, DACA recipients (The Hill)",
+              "url": "https://thehill.com/homenews/administration/5954255-carlos-gimenez-trump-normalization-immigrants-daca/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Venezuela and Cuba",
+          "summary": "He issued statements on the capture of Nicolas Maduro, said 'we are ready for Cuba,' petitioned DHS to deport Castro-regime agents, and applauded TPS extensions for Venezuelans.",
+          "sources": [
+            {
+              "title": "Congressman Gimenez issues statement on Maduro's capture (gimenez.house.gov)",
+              "url": "https://gimenez.house.gov/2026/1/congressman-carlos-a-gimenez-issues-statement-on-maduro-s-capture",
+              "date": "2026-01"
+            },
+            {
+              "title": "Congressman Gimenez petitions DHS to deport Castro regime agents (gimenez.house.gov)",
+              "url": "https://gimenez.house.gov/2025/3/congressman-carlos-gimenez-petitions-dhs-to-deport-castro-regime-agents",
+              "date": "2025-03"
+            },
+            {
+              "title": "Cuban-American lawmakers applaud reinstatement of TPS for Venezuelans (Cuba Headlines)",
+              "url": "https://www.cubaheadlines.com/articles/300239",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "title": "Haitian TPS",
+          "summary": "He said deporting Haitians currently under TPS back to Haiti 'would be a huge mistake.'",
+          "sources": [
+            {
+              "title": "ICE reportedly set to ramp up operations against Haitian migrants after TPS ruling (TIME)",
+              "url": "https://time.com/article/2026/07/27/haitian-immigrants-ice-operations-temporary-protected-status/",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "title": "Tariffs as border leverage",
+          "summary": "He backed proposed 25% tariffs on Mexico and Canada tied to the drug and border crises.",
+          "sources": [
+            {
+              "title": "Congressman Gimenez applauds Trump's proposed 25% tariff on Mexico and Canada (gimenez.house.gov)",
+              "url": "https://gimenez.house.gov/2024/11/ongressman-carlos-gimenez-applauds-trump-s-proposed-25-tariff-on-mexico-and-canada",
+              "date": "2024-11"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted YES on H.R. 1, the One Big Beautiful Bill Act (final passage July 3, 2025), and co-signed the Florida GOP delegation letter supporting it.",
+          "sources": [
+            {
+              "title": "Buchanan leads Florida Republican letter in support of One Big Beautiful Bill (buchanan.house.gov)",
+              "url": "https://buchanan.house.gov/2025/6/buchanan-leads-florida-republican-letter-in-support-of-one-big-beautiful-bill",
+              "date": "2025-06"
+            },
+            {
+              "title": "Webster and Florida Republicans support passage of One Big Beautiful Bill (webster.house.gov)",
+              "url": "https://webster.house.gov/press-releases?id=75C0C58D-D6A5-42E2-84FF-02805A05C95E",
+              "date": "2025-07"
+            },
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            }
+          ]
+        },
+        {
+          "item": "Voted YES on the Laken Riley Act (S. 5, Jan. 22, 2025).",
+          "sources": [
+            {
+              "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            },
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            }
+          ]
+        },
+        {
+          "item": "Voted YES on the SAVE Act (H.R. 22, April 10, 2025).",
+          "sources": [
+            {
+              "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+              "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            }
+          ]
+        },
+        {
+          "item": "Voted YES on the Ukraine Security Supplemental Appropriations Act (H.R. 8035, April 20, 2024).",
+          "sources": [
+            {
+              "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+              "date": "2024-04-20"
+            }
+          ]
+        },
+        {
+          "item": "Voted YES on the Bipartisan Background Checks Act (H.R. 8, 2021).",
+          "sources": [
+            {
+              "title": "Carlos Gimenez's voting records / key votes (Vote Smart)",
+              "url": "https://justfacts.votesmart.org/candidate/key-votes/81366/carlos-gimenez/2/abortion",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Publicly said in 2026 that the administration's ICE enforcement strategy 'was a mistake.'",
+          "sources": [
+            {
+              "title": "GOP Congressman warns Trump admin ICE enforcement strategy 'was a mistake' (Newsweek)",
+              "url": "https://www.newsweek.com/carlos-gimenez-trump-admin-ice-strategy-mistake-11455095",
+              "date": "2026"
+            },
+            {
+              "title": "Carlos Gimenez: Trump needed ICE course correction long ago (Mediaite)",
+              "url": "https://www.mediaite.com/media/news/weve-been-warning-gop-congressman-says-trump-needed-ice-course-correction-a-long-time-ago/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "item": "Miami-Dade County Mayor 2011-2020; former Miami fire chief.",
+          "sources": [
+            {
+              "title": "Carlos Gimenez - Ballotpedia",
+              "url": "https://ballotpedia.org/Carlos_Gimenez",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -191,7 +512,7 @@
       "website": "https://ehrforcongress.us/",
       "occupation": "Retired U.S. Navy commander",
       "residence": "Not found (district: Miami-Dade/Monroe)",
-      "background": "Phil 'Felipe' Ehr is a retired U.S. Navy commander who served 26 years, including in roles supporting Cold War-era operations, Desert Storm and Allied Force. He was the 2024 Democratic nominee against Carlos Gimenez and was unopposed in the Aug. 18, 2026 Democratic primary. U.S. Rep. Jamie Raskin endorsed him in September 2026.",
+      "background": "Phil 'Felipe' Ehr is a retired U.S. Navy commander who served from 1982 to 2008, including roles supporting Cold War-era operations, Desert Storm and Allied Force; his campaign says he has since completed humanitarian aid delivery missions in Ukraine. He was the Democratic nominee in Florida's 1st District in 2020 and against Carlos Gimenez in CD 28 in 2024, and was unopposed in the Aug. 18, 2026 Democratic primary. U.S. Rep. Jamie Raskin endorsed him in September 2026.",
       "primary_result": "Unopposed in Aug 18, 2026 Democratic primary (CBS Miami)",
       "positions": {
         "taxes": {
@@ -223,18 +544,45 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Ehr says he wants to stop illegal border crossings and enforce 'rational immigration laws,' citing his work on border-security technology, while calling for reform of ICE and CBP operations starting with 'transparency, accountability and training,' including rules on identification and use of force.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Dem Phil Ehr running for Congress in 28th District (Keys News)",
+              "url": "https://www.keysnews.com/news/local/dem-phil-ehr-running-for-congress-in-28th-district/article_0914d6a3-3611-4a92-90eb-c7de2fc001ab.html",
+              "date": "2026"
+            },
+            {
+              "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+              "url": "https://ehrforcongress.us/",
+              "date": null
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Ehr says he will vote to codify Roe v. Wade's protections into law and describes the goal as ending government overreach on reproductive decisions.",
+          "quote": "In Congress, I will vote to codify Roe's protections into law.",
+          "sources": [
+            {
+              "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+              "url": "https://ehrforcongress.us/",
+              "date": null
+            },
+            {
+              "title": "Phil Ehr's policy on Abortion (iSideWith)",
+              "url": "https://www.isidewith.com/candidates/phil-ehr/policies/social/abortion",
+              "date": null
+            },
+            {
+              "title": "Phil Ehr's Issue Positions (Vote Smart Political Courage Test)",
+              "url": "https://justfacts.votesmart.org/candidate/political-courage-test/182249/phil-ehr",
+              "date": null
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -244,11 +592,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Ehr proposes a 'Healthcare Stability & Program Choice Act' to lower premiums, expand access and reduce out-of-pocket costs.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+              "url": "https://ehrforcongress.us/",
+              "date": null
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -265,18 +619,35 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Ehr's platform includes protecting the Everglades, defending water resources, 'responsible growth' and a temporary moratorium on large-scale AI data centers and other high-impact developments.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+              "url": "https://ehrforcongress.us/",
+              "date": null
+            },
+            {
+              "title": "Dem Phil Ehr running for Congress in 28th District (Keys News)",
+              "url": "https://www.keysnews.com/news/local/dem-phil-ehr-running-for-congress-in-28th-district/article_0914d6a3-3611-4a92-90eb-c7de2fc001ab.html",
+              "date": "2026"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Ehr supports 'responsible growth' and a temporary moratorium on large-scale AI data centers and other high-impact developments.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+              "url": "https://ehrforcongress.us/",
+              "date": null
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -314,18 +685,40 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Ehr says the administration's 'trade wars' and 'reckless tariffs' raised prices on construction materials and groceries; he supports trade policies that protect U.S. jobs 'without sabotaging American consumers or our allies.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Dem Phil Ehr running for Congress in 28th District (Keys News)",
+              "url": "https://www.keysnews.com/news/local/dem-phil-ehr-running-for-congress-in-28th-district/article_0914d6a3-3611-4a92-90eb-c7de2fc001ab.html",
+              "date": "2026"
+            },
+            {
+              "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+              "url": "https://ehrforcongress.us/",
+              "date": null
+            }
+          ]
         },
         "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Ehr's campaign says he completed dozens of humanitarian aid delivery missions in Ukraine for people who 'risked it all for freedom'; an explicit position on continued U.S. military aid was not captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet Phil (campaign site)",
+              "url": "https://ehrforcongress.us/meet-phil/",
+              "date": null
+            },
+            {
+              "title": "Commander Phil Ehr is running to unseat Carlos Gimenez (campaign ActBlue page)",
+              "url": "https://secure.actblue.com/donate/phil-ehr",
+              "date": "2026"
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -353,7 +746,57 @@
           ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Moratorium on large AI data centers",
+          "summary": "He proposes a temporary moratorium on large-scale AI data centers and other high-impact developments.",
+          "sources": [
+            {
+              "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+              "url": "https://ehrforcongress.us/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Protecting the VA",
+          "summary": "He says he will stand against the 'quiet dismantling' of the VA and expand rather than privatize veterans' care.",
+          "sources": [
+            {
+              "title": "Commander Phil Ehr is running to unseat Carlos Gimenez (campaign ActBlue page)",
+              "url": "https://secure.actblue.com/donate/phil-ehr",
+              "date": "2026"
+            },
+            {
+              "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+              "url": "https://ehrforcongress.us/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "ICE/CBP reform",
+          "summary": "He calls for transparency, accountability and training reforms for ICE and CBP, including proper identification and use-of-force rules.",
+          "sources": [
+            {
+              "title": "Dem Phil Ehr running for Congress in 28th District (Keys News)",
+              "url": "https://www.keysnews.com/news/local/dem-phil-ehr-running-for-congress-in-28th-district/article_0914d6a3-3611-4a92-90eb-c7de2fc001ab.html",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Everglades and water",
+          "summary": "Protecting the Everglades and water resources is part of his platform.",
+          "sources": [
+            {
+              "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
+              "url": "https://ehrforcongress.us/",
+              "date": null
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Lost to Carlos Gimenez as the 2024 Democratic nominee in CD 28.",
@@ -361,6 +804,36 @@
             {
               "title": "Phil Ehr again in an uphill battle for a Washington job, this time against Carlos Gimenez (Florida Politics)",
               "url": "https://floridapolitics.com/archives/703005-phil-ehr-again-in-an-uphill-battle-for-a-washington-job-this-time-against-carlos-gimenez-in-reddening-cd-28/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Democratic nominee in Florida's 1st Congressional District in 2020.",
+          "sources": [
+            {
+              "title": "DAUK Webinar with Phil Ehr (Candidate for FL-01) - Democrats Abroad",
+              "url": "https://www.democratsabroad.org/phil_ehr_candidate_for_fl_01",
+              "date": "2020"
+            },
+            {
+              "title": "Phil Ehr - Ballotpedia",
+              "url": "https://ballotpedia.org/Phil_Ehr",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "item": "Served in the U.S. Navy 1982-2008, retiring as a commander.",
+          "sources": [
+            {
+              "title": "Phil Ehr - Ballotpedia",
+              "url": "https://ballotpedia.org/Phil_Ehr",
+              "date": "2026"
+            },
+            {
+              "title": "Meet Phil (campaign site)",
+              "url": "https://ehrforcongress.us/meet-phil/",
               "date": null
             }
           ]
@@ -387,9 +860,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": "Not found",
+      "occupation": "Business owner",
       "residence": "Not found",
-      "background": "Eddy Rojas is an independent (no party affiliation) candidate on the Nov. 3, 2026 ballot for District 28, making it a three-way race with Gimenez and Ehr.",
+      "background": "Eddy Rojas is an independent (no party affiliation) candidate on the Nov. 3, 2026 ballot for District 28, making it a three-way race with Gimenez and Ehr. Ballotpedia says he was born in Cuba, immigrated to Miami, began his career as a valet and later established several companies; his platform says he plans to bring his business experience to Congress. No issue-specific positions were found.",
       "primary_result": "No primary (NPA candidate; CBS Miami / Keys News)",
       "positions": {
         "taxes": {
@@ -541,7 +1014,23 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Born in Cuba; immigrated to Miami and founded several companies after starting as a valet (per Ballotpedia).",
+          "sources": [
+            {
+              "title": "Eddy Rojas - Ballotpedia",
+              "url": "https://ballotpedia.org/Eddy_Rojas",
+              "date": "2026"
+            },
+            {
+              "title": "Eddy Rojas - BallotReady",
+              "url": "https://www.ballotready.org/people/eddy-rojas-b572360f-5a83-45f0-af65-81c21d376fef",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

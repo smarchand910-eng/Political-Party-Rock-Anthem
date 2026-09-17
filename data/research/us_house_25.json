@@ -13,7 +13,7 @@
     "Broward (part)"
   ],
   "what_it_does": "Represents Florida's 25th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Newly drawn district. Roster from CBS Miami, Boca Daily News and Boca Raton Tribune: Scott Singer (R) vs. Jared Moskowitz (D). County makeup inferred from coverage (Boca Raton-based; Rep. Wasserman Schultz's Weston home no longer inside it) and not independently confirmed. No NPA candidate identified; absence unconfirmed. Sources: https://www.cbsnews.com/miami/news/2026-florida-primary-district-25-republican-scott-singer/ ; https://bocadailynews.com/2026/08/former-boca-raton-mayor-singer-wins-gop-congressional-primary ; https://www.cbsnews.com/miami/live-updates/2026-florida-primary-live-updates-results/ Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts; county descriptions here reflect post-redistricting reporting where found (https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map).",
   "candidates": [
     {
@@ -26,43 +26,93 @@
       "website": "https://www.scottsingerusa.com/",
       "occupation": "Former Mayor of Boca Raton",
       "residence": "Boca Raton, Palm Beach County",
-      "background": "Scott Singer served as mayor of Boca Raton (sworn in 2018). He won the five-way Aug. 18, 2026 Republican primary for the new 25th District with 11,758 votes (about 31%), narrowly ahead of George Moraitis (10,299) and Dan Franzese (9,634), with Joe Kaufman (4,630) and Raven Harrison (1,183) trailing.",
+      "background": "Scott Singer served as mayor of Boca Raton from 2018 until his congressional run; his campaign says the city cut its property tax rate seven straight years under him. He launched a bid against U.S. Rep. Jared Moskowitz in the old CD 23 in December 2025 and pivoted to the new 25th District after the 2026 map passed. He won the five-way Aug. 18, 2026 Republican primary with 11,758 votes (about 31%), narrowly ahead of George Moraitis (10,299) and Dan Franzese (9,634), with Joe Kaufman (4,630) and Raven Harrison (1,183) trailing.",
       "primary_result": "Won Aug 18, 2026 Republican primary with 11,758 votes (~31%) over Moraitis (10,299), Franzese (9,634), Kaufman (4,630) and Harrison (1,183) (Boca Daily News; CBS Miami)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Singer campaigns on tax reform and support for President Trump's tax policies, and cites cutting Boca Raton's tax rate seven straight years to the lowest of any full-service city in Florida.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Scott Singer wins Republican primary for Florida's Congressional District 25 (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-25-republican-scott-singer/",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "About Scott Singer (campaign site)",
+              "url": "https://www.scottsingerusa.com/about-scott-singer",
+              "date": null
+            },
+            {
+              "title": "Scott Singer Pitches Final Policy Points Ahead of District 25 Republican Primary (The Floridian)",
+              "url": "https://floridianpress.com/2026/08/scott-singer-pitches-final-policy-points-ahead-of-district-25-republican-primary/",
+              "date": "2026-08"
+            }
+          ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "As mayor, Singer's campaign says the city cut its property tax rate seven straight times; he has not taken a position on eliminating Florida homestead property taxes in sources found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "About Scott Singer (campaign site)",
+              "url": "https://www.scottsingerusa.com/about-scott-singer",
+              "date": null
+            },
+            {
+              "title": "EXCLUSIVE: Ex-Boca Mayor Scott Singer cites record, local roots in interview for Congress bid (Florida's Voice)",
+              "url": "https://flvoicenews.com/exclusive-ex-boca-mayor-scott-singer-cites-record-local-roots-in-interview-for-congress-bid/",
+              "date": "2026"
+            }
+          ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Singer says Congress should use its commerce powers to encourage more cross-border insurance competition and expand preventive efforts beyond the National Flood Insurance Program, a market-oriented approach.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Candidates tackle affordability, insurance and security in Florida Congressional District 25 primary (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/florida-congressional-district-25-primary-candidates-2026/",
+              "date": "2026-08"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Singer attributes about 30% of housing costs to regulation, including federal environmental rules, and says removing that regulatory cost 'lowers that cost of housing for all residents,' rather than proposing subsidies.",
+          "quote": "Getting rid of the 30% regulatory cost lowers that cost of housing for all residents",
+          "sources": [
+            {
+              "title": "Candidates tackle affordability, insurance and security in Florida Congressional District 25 primary (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/florida-congressional-district-25-primary-candidates-2026/",
+              "date": "2026-08"
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Singer's campaign says he 'strongly supports President Trump's efforts to secure the border' and enforce immigration laws, reversing Biden-era policies; a specific position on large-scale deportation was not found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Scott Singer for Congress (campaign site)",
+              "url": "https://www.scottsingerusa.com/",
+              "date": null
+            },
+            {
+              "title": "Scott Singer wins Republican primary for Florida's Congressional District 25 (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-25-republican-scott-singer/",
+              "date": "2026-08-18"
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -79,25 +129,48 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Post-primary coverage lists restoring Affordable Care Act tax credits and addressing Medicare cuts among Singer's priorities, along with lowering health-care costs.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Jared Moskowitz wins Dem primary, will face Scott Singer in November (Palm Beach Post via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/us-house-25-democratic-race-230157452.html",
+              "date": "2026-08-18"
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Singer lists addressing Medicare cuts among his priorities; no statement on Social Security financing was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Jared Moskowitz wins Dem primary, will face Scott Singer in November (Palm Beach Post via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/us-house-25-democratic-race-230157452.html",
+              "date": "2026-08-18"
+            }
+          ]
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Singer's campaign emphasizes protecting parental rights and expanding school choice.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Scott Singer Pitches Final Policy Points Ahead of District 25 Republican Primary (The Floridian)",
+              "url": "https://floridianpress.com/2026/08/scott-singer-pitches-final-policy-points-ahead-of-district-25-republican-primary/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Scott Singer for Congress (campaign site)",
+              "url": "https://www.scottsingerusa.com/",
+              "date": null
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -121,11 +194,17 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Singer criticized Rep. Moskowitz's vote against the SAVE Act, which would require documentary proof of citizenship to register to vote.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Scott Singer Poised to Challenge Rep. Jared Moskowitz Over his SAVE Act Vote (The Floridian)",
+              "url": "https://floridianpress.com/2026/03/scott-singer-poised-to-challenge-rep-jared-moskowitz-over-his-save-act-vote/",
+              "date": "2026-03"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -163,11 +242,22 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Singer expresses support for President Trump's 'America First' agenda, his tax policies and his border enforcement efforts.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Scott Singer wins Republican primary for Florida's Congressional District 25 (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-25-republican-scott-singer/",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "Scott Singer for Congress (campaign site)",
+              "url": "https://www.scottsingerusa.com/",
+              "date": null
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -177,8 +267,89 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Cutting regulations and bringing jobs back",
+          "summary": "Singer campaigns on cutting regulations and bringing jobs back to the United States.",
+          "sources": [
+            {
+              "title": "Scott Singer wins Republican primary for Florida's Congressional District 25 (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-25-republican-scott-singer/",
+              "date": "2026-08-18"
+            }
+          ]
+        },
+        {
+          "title": "Property-insurance reform",
+          "summary": "He proposes cross-state insurance competition and expanded mitigation efforts beyond the NFIP.",
+          "sources": [
+            {
+              "title": "Candidates tackle affordability, insurance and security in Florida Congressional District 25 primary (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/florida-congressional-district-25-primary-candidates-2026/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "title": "Israel and antisemitism",
+          "summary": "In an interview he cited Israel and concerns about socialism in the Democratic Party as reasons to replace Moskowitz.",
+          "sources": [
+            {
+              "title": "INTERVIEW: Scott Singer explains why Rep. Jared Moskowitz needs to go (Washington Reporter)",
+              "url": "https://washingtonreporter.news/interview-scott-singer-explains-why-rep-jared-moskowitz-needs-to-go/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Record as Boca Raton mayor",
+          "summary": "He highlights his local record, including tax-rate cuts and city services.",
+          "sources": [
+            {
+              "title": "About Scott Singer (campaign site)",
+              "url": "https://www.scottsingerusa.com/about-scott-singer",
+              "date": null
+            },
+            {
+              "title": "EXCLUSIVE: Ex-Boca Mayor Scott Singer cites record, local roots in interview for Congress bid (Florida's Voice)",
+              "url": "https://flvoicenews.com/exclusive-ex-boca-mayor-scott-singer-cites-record-local-roots-in-interview-for-congress-bid/",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Mayor of Boca Raton from 2018; campaign says the city cut its tax rate seven straight times during his tenure.",
+          "sources": [
+            {
+              "title": "About Scott Singer (campaign site)",
+              "url": "https://www.scottsingerusa.com/about-scott-singer",
+              "date": null
+            },
+            {
+              "title": "Boca Raton Mayor Scott Singer launches bid for Congress, challenging U.S. Rep. Jared Moskowitz (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2025-12-18/scott-singer-congress-us-rep-jared-moskowitz",
+              "date": "2025-12-18"
+            }
+          ]
+        },
+        {
+          "item": "Launched a CD 23 challenge to Moskowitz in December 2025, then pivoted to the new CD 25 after the map passed.",
+          "sources": [
+            {
+              "title": "Boca Raton Mayor Scott Singer launches bid for Congress, challenging U.S. Rep. Jared Moskowitz (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2025-12-18/scott-singer-congress-us-rep-jared-moskowitz",
+              "date": "2025-12-18"
+            },
+            {
+              "title": "Redistricting shuffle: Scott Singer pivots campaign to CD 25 after new congressional map passes (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/793919-redistricting-shuffle-scott-singer-pivots-campaign-to-cd-25-after-new-congressional-map-passes/",
+              "date": "2026-05"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -188,18 +359,39 @@
       "incumbent": true,
       "photo_url": "https://www.congress.gov/img/member/m001217_200.jpg",
       "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
-      "website": null,
+      "website": "https://jaredforflorida.com/",
       "occupation": "U.S. Representative (since 2023; currently represents CD 23)",
       "residence": "Parkland, Broward County",
-      "background": "Jared Moskowitz has served in Congress since 2023 representing the 23rd District and previously was Florida's emergency management director and a state representative. After the 2026 redistricting he ran in the new 25th and won the Aug. 18, 2026 Democratic primary over Oliver Larkin. Note: he is a sitting member of Congress but the new CD 25 is an open seat.",
+      "background": "Jared Moskowitz has served in Congress since 2023 representing the 23rd District and previously was Florida's emergency management director and a state representative, where he worked on the 2018 school-safety law passed after the Parkland shooting. After the 2026 redistricting he ran in the new 25th and won the Aug. 18, 2026 Democratic primary over Oliver Larkin, a challenger backed by Democratic Socialists. He joined and later co-chaired the House DOGE caucus, which he declared 'dead' in May 2025. Note: he is a sitting member of Congress but the new CD 25 is an open seat.",
       "primary_result": "Won Aug 18, 2026 Democratic primary over Oliver Larkin (CBS Miami); percentage not captured",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Moskowitz voted against H.R. 1 (2025), which extended the 2017 tax cuts while cutting Medicaid and SNAP spending (all House Democrats opposed final passage); he has criticized tariff increases as 'a tax on families.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House passes final version of One Big Beautiful Bill Act, 218-214 (AHA News)",
+              "url": "https://www.aha.org/news/headline/2025-07-03-house-passes-final-version-one-big-beautiful-bill-act",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "Jared Moskowitz: 2026 Florida U.S. House profile (Prediction Edge, aggregator)",
+              "url": "https://www.predictionedge.com/elections/profile/jared-moskowitz/",
+              "date": "2026"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -211,9 +403,15 @@
         "insurance": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "No codable position found as of Sept 2026; Moskowitz lists addressing Florida's homeowners-insurance crisis as a priority but the mechanism (state intervention vs. market reforms) was not captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Jared Moskowitz wins Dem primary, will face Scott Singer in November (Palm Beach Post via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/us-house-25-democratic-race-230157452.html",
+              "date": "2026-08-18"
+            }
+          ]
         },
         "housing": {
           "stance": null,
@@ -223,39 +421,124 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Moskowitz was the only Florida Democrat to vote for the Laken Riley Act (H.R. 29/S. 5, Jan. 2025), which requires federal detention of unauthorized immigrants arrested for theft-related and certain other crimes. He voted against the SAVE Act. No stated position on large-scale deportation was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Six Florida Democrats vote against 'Laken Riley Act' (Florida's Voice)",
+              "url": "https://flvoicenews.com/six-florida-democrats-vote-against-laken-riley-act-meant-to-target-illegal-alien-criminals-nationwide/",
+              "date": "2025-01"
+            },
+            {
+              "title": "These Democrats flipped their votes on the Laken Riley Act (The Hill)",
+              "url": "https://thehill.com/homenews/house/5072320-these-democrats-flipped-their-votes-on-the-laken-riley-act/",
+              "date": "2025-01"
+            },
+            {
+              "title": "House Roll Call 6 on H.R. 29, Laken Riley Act, Jan. 7, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/20256",
+              "date": "2025-01-07"
+            },
+            {
+              "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            },
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Moskowitz's campaign says he supports preserving and expanding access to abortion and reproductive health care.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Jared Moskowitz for Congress (campaign site)",
+              "url": "https://jaredforflorida.com/",
+              "date": null
+            },
+            {
+              "title": "Jared Moskowitz: 2026 Florida U.S. House profile (Prediction Edge, aggregator)",
+              "url": "https://www.predictionedge.com/elections/profile/jared-moskowitz/",
+              "date": "2026"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Moskowitz, who represented Parkland in the Legislature, helped pass Florida's 2018 law raising the purchase age to 21 and creating red-flag orders; in Congress he supports an assault-weapons ban, universal background checks, a federal red-flag law, raising the federal purchase age for semiautomatic firearms and limits on ghost guns and 3D-printed gun files.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Gun Violence Prevention & School Safety (moskowitz.house.gov)",
+              "url": "https://moskowitz.house.gov/gun-violence-prevention-school-safety",
+              "date": null
+            },
+            {
+              "title": "Moskowitz Introduces Two Pieces of Legislation to Address the Gun Violence Crisis (moskowitz.house.gov)",
+              "url": "https://moskowitz.house.gov/posts/school-lockdown-and-3d-gun-legislation",
+              "date": null
+            },
+            {
+              "title": "Florida lawmakers united to support gun control measures after the Parkland shooting (NPR)",
+              "url": "https://www.npr.org/2022/06/14/1105025440/florida-lawmakers-united-to-support-gun-control-measures-after-the-parkland-shoo",
+              "date": "2022-06-14"
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Moskowitz voted against H.R. 1 (2025) and his campaign says he has acted to block proposed Medicaid cuts and joined bipartisan bills to expand Medicare benefits.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "Jared Moskowitz: 2026 Florida U.S. House profile (Prediction Edge, aggregator)",
+              "url": "https://www.predictionedge.com/elections/profile/jared-moskowitz/",
+              "date": "2026"
+            },
+            {
+              "title": "Jared Moskowitz for Congress (campaign site)",
+              "url": "https://jaredforflorida.com/",
+              "date": null
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Protecting Social Security and Medicare is among Moskowitz's listed campaign priorities; in 2025 he partnered with Rep. Al Green on legislation to protect Social Security phone services from reported DOGE-driven changes.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Jared Moskowitz wins Dem primary, will face Scott Singer in November (Palm Beach Post via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/us-house-25-democratic-race-230157452.html",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "Jared Moskowitz, Al Green partner to protect Social Security phone services amid reported threats from DOGE (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/727014-jared-moskowitz-al-green-partner-to-protect-social-security-phone-services-amid-reported-threats-from-doge/",
+              "date": "2025"
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -286,11 +569,27 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Moskowitz voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote; his opponent has criticized that vote.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Scott Singer Poised to Challenge Rep. Jared Moskowitz Over his SAVE Act Vote (The Floridian)",
+              "url": "https://floridianpress.com/2026/03/scott-singer-poised-to-challenge-rep-jared-moskowitz-over-his-save-act-vote/",
+              "date": "2026-03"
+            },
+            {
+              "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+              "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -314,25 +613,73 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Moskowitz criticizes tariff increases as a tax on families and introduced the Supporting American Allies Act to exempt Israel and Ukraine from new tariffs.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "New Moskowitz Legislation Protects U.S. Allies Israel and Ukraine from the Threat of Tariffs (moskowitz.house.gov)",
+              "url": "https://moskowitz.house.gov/posts/israel-ukraine-tariff-exemption-bill",
+              "date": "2025"
+            },
+            {
+              "title": "Jared Moskowitz: 2026 Florida U.S. House profile (Prediction Edge, aggregator)",
+              "url": "https://www.predictionedge.com/elections/profile/jared-moskowitz/",
+              "date": "2026"
+            }
+          ]
         },
         "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Moskowitz voted for the $60.8 billion Ukraine Security Supplemental (H.R. 8035, April 2024), has described Ukraine and Israel as allies 'fighting against adversaries that want them erased,' and sponsored a bill to shield both from tariffs.",
+          "quote": "Our allies Israel & Ukraine are fighting against adversaries that want them erased",
+          "sources": [
+            {
+              "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "Rep. Moskowitz: 'Our allies Israel & Ukraine are fighting against adversaries that want them erased' (Facebook post)",
+              "url": "https://www.facebook.com/RepMoskowitz/posts/our-allies-israel-ukraine-are-fighting-against-adversaries-that-want-them-erased/754469017532110/",
+              "date": null
+            },
+            {
+              "title": "New Moskowitz Legislation Protects U.S. Allies Israel and Ukraine from the Threat of Tariffs (moskowitz.house.gov)",
+              "url": "https://moskowitz.house.gov/posts/israel-ukraine-tariff-exemption-bill",
+              "date": "2025"
+            }
+          ]
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Moskowitz joined the House DOGE caucus in late 2024 and voted with Republicans on the Laken Riley Act, but by May 2025 said the execution of the administration's agenda had been a 'total failure' and declared the DOGE caucus 'dead.'",
+          "quote": "total failure",
+          "sources": [
+            {
+              "title": "Rep. Moskowitz: Execution of Trump's agenda has been 'total failure' (CNN)",
+              "url": "https://www.cnn.com/2025/05/01/Tv/video/sitroom-blitzer-jared-moskowitz-doge-trump-economy",
+              "date": "2025-05-01"
+            },
+            {
+              "title": "Jared Moskowitz says DOGE Caucus is dead after being frozen out by Elon Musk (The Hill)",
+              "url": "https://thehill.com/homenews/house/5299102-moskowitz-doge-caucus-dead/",
+              "date": "2025-05"
+            },
+            {
+              "title": "Democratic Rep. Moskowitz joins Trump group pushing for government efficiency (NPR)",
+              "url": "https://www.npr.org/2024/12/05/nx-s1-5215817/democratic-rep-moskowitz-joins-trump-group-pushing-for-government-efficiency",
+              "date": "2024-12-05"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -342,8 +689,195 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Homeowners insurance crisis",
+          "summary": "He lists addressing Florida's homeowners-insurance crisis among his priorities.",
+          "sources": [
+            {
+              "title": "Jared Moskowitz wins Dem primary, will face Scott Singer in November (Palm Beach Post via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/us-house-25-democratic-race-230157452.html",
+              "date": "2026-08-18"
+            }
+          ]
+        },
+        {
+          "title": "Israel and antisemitism",
+          "summary": "Moskowitz supports continued U.S. military assistance to Israel, opposes the BDS movement, and ran a 2026 ad targeting antisemitism.",
+          "sources": [
+            {
+              "title": "Israel (moskowitz.house.gov)",
+              "url": "https://moskowitz.house.gov/israel",
+              "date": null
+            },
+            {
+              "title": "South Florida Democrat Moskowitz airs campaign ad targeting antisemitism (The Forward)",
+              "url": "https://forward.com/fast-forward/850511/south-florida-democrat-moskowitz-airs-campaign-ad-targeting-antisemitism-with-concentration-camp-footage",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "DOGE caucus / government efficiency",
+          "summary": "He joined the bipartisan DOGE caucus in Dec. 2024 and later declared it 'a complete failure' after two meetings in five months.",
+          "sources": [
+            {
+              "title": "Democratic Rep. Moskowitz joins Trump group pushing for government efficiency (NPR)",
+              "url": "https://www.npr.org/2024/12/05/nx-s1-5215817/democratic-rep-moskowitz-joins-trump-group-pushing-for-government-efficiency",
+              "date": "2024-12-05"
+            },
+            {
+              "title": "Jared Moskowitz says DOGE Caucus is dead after being frozen out by Elon Musk (The Hill)",
+              "url": "https://thehill.com/homenews/house/5299102-moskowitz-doge-caucus-dead/",
+              "date": "2025-05"
+            }
+          ]
+        },
+        {
+          "title": "School safety legislation",
+          "summary": "He has introduced bills on school lockdown procedures and 3D-printed guns.",
+          "sources": [
+            {
+              "title": "Moskowitz Introduces Two Pieces of Legislation to Address the Gun Violence Crisis (moskowitz.house.gov)",
+              "url": "https://moskowitz.house.gov/posts/school-lockdown-and-3d-gun-legislation",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Defending democratic institutions",
+          "summary": "His campaign lists defending democratic institutions and the rule of law among his priorities.",
+          "sources": [
+            {
+              "title": "Jared Moskowitz wins Dem primary, will face Scott Singer in November (Palm Beach Post via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/us-house-25-democratic-race-230157452.html",
+              "date": "2026-08-18"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted YES on the Laken Riley Act (H.R. 29, Jan. 7, 2025, and S. 5, Jan. 22, 2025), the only Florida Democrat to do so.",
+          "sources": [
+            {
+              "title": "Six Florida Democrats vote against 'Laken Riley Act' (Florida's Voice)",
+              "url": "https://flvoicenews.com/six-florida-democrats-vote-against-laken-riley-act-meant-to-target-illegal-alien-criminals-nationwide/",
+              "date": "2025-01"
+            },
+            {
+              "title": "House Roll Call 6 on H.R. 29, Laken Riley Act, Jan. 7, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/20256",
+              "date": "2025-01-07"
+            },
+            {
+              "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            },
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            }
+          ]
+        },
+        {
+          "item": "Voted NO on the SAVE Act (H.R. 22, April 10, 2025).",
+          "sources": [
+            {
+              "title": "Scott Singer Poised to Challenge Rep. Jared Moskowitz Over his SAVE Act Vote (The Floridian)",
+              "url": "https://floridianpress.com/2026/03/scott-singer-poised-to-challenge-rep-jared-moskowitz-over-his-save-act-vote/",
+              "date": "2026-03"
+            },
+            {
+              "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+              "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            }
+          ]
+        },
+        {
+          "item": "Voted NO on H.R. 1, the One Big Beautiful Bill Act (final passage July 3, 2025, 218-214; all Democrats opposed).",
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House passes final version of One Big Beautiful Bill Act, 218-214 (AHA News)",
+              "url": "https://www.aha.org/news/headline/2025-07-03-house-passes-final-version-one-big-beautiful-bill-act",
+              "date": "2025-07-03"
+            }
+          ]
+        },
+        {
+          "item": "Voted YES on the Ukraine Security Supplemental Appropriations Act (H.R. 8035, April 20, 2024).",
+          "sources": [
+            {
+              "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+              "date": "2024-04-20"
+            }
+          ]
+        },
+        {
+          "item": "Introduced the Supporting American Allies Act to exempt Israel and Ukraine from tariffs.",
+          "sources": [
+            {
+              "title": "New Moskowitz Legislation Protects U.S. Allies Israel and Ukraine from the Threat of Tariffs (moskowitz.house.gov)",
+              "url": "https://moskowitz.house.gov/posts/israel-ukraine-tariff-exemption-bill",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "item": "Joined the House DOGE caucus (Dec. 2024) and later declared it 'dead' (May 2025).",
+          "sources": [
+            {
+              "title": "Democratic Rep. Moskowitz joins Trump group pushing for government efficiency (NPR)",
+              "url": "https://www.npr.org/2024/12/05/nx-s1-5215817/democratic-rep-moskowitz-joins-trump-group-pushing-for-government-efficiency",
+              "date": "2024-12-05"
+            },
+            {
+              "title": "Jared Moskowitz says DOGE Caucus is dead after being frozen out by Elon Musk (The Hill)",
+              "url": "https://thehill.com/homenews/house/5299102-moskowitz-doge-caucus-dead/",
+              "date": "2025-05"
+            }
+          ]
+        },
+        {
+          "item": "Won the Aug. 18, 2026 primary over Oliver Larkin, who was backed by Democratic Socialists.",
+          "sources": [
+            {
+              "title": "Rep. Moskowitz fends off progressive challenger in FL-25 Democratic primary (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-08-18/jared-moskowitz-25-democratic-primary",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "As Dem Socialists back Oliver Larkin over Jared Moskowitz... (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/806218-as-dem-socialists-back-oliver-larkin-over-jared-moskowitz-republicans-salivate-over-running-against-full-blown-crazies/",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

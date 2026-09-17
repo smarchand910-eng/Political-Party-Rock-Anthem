@@ -12,7 +12,7 @@
     "Miami-Dade (part)"
   ],
   "what_it_does": "Represents Florida's 26th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Roster from CBS Miami primary coverage and local (Coral Springs/Miramar/Pembroke Pines News) reporting: Mario Diaz-Balart (R) and Nicole Locklin (D) were each unopposed in their primaries; Deborah Meidinger Hosey (NPA) is also on the November ballot. County makeup under the new map was not confirmed beyond Miami-Dade. Sources: https://www.cbsnews.com/miami/live-updates/2026-florida-primary-live-updates-results/ ; https://www.coralspringsflnews.com/news/local/article316927284.html ; https://locklinforcongress.com/ Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts; county descriptions here reflect post-redistricting reporting where found (https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map).",
   "candidates": [
     {
@@ -25,15 +25,36 @@
       "website": null,
       "occupation": "U.S. Representative (since 2003)",
       "residence": "Hialeah area, Miami-Dade County (not re-verified)",
-      "background": "Mario Diaz-Balart has served in the U.S. House since 2003 and previously served in the Florida Legislature. He was unopposed in the Aug. 18, 2026 Republican primary for the 26th District.",
+      "background": "Mario Diaz-Balart has served in the U.S. House since 2003 and previously served in the Florida Legislature. He chairs the House Appropriations subcommittee on National Security, Department of State and Related Programs. He was unopposed in the Aug. 18, 2026 Republican primary for the 26th District. Local coverage describes the redrawn district as including southwest Broward communities such as Miramar and Pembroke Pines.",
       "primary_result": "Unopposed in Aug 18, 2026 Republican primary (CBS Miami)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Diaz-Balart voted for H.R. 1 (2025) and said it 'responsibly reduces excess spending' while making the 2017 tax cuts permanent, which he said averted a 24% tax hike for the average FL-26 taxpayer.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Diaz-Balart applauds passage of President Trump's One Big Beautiful Bill (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-applauds-passage-president-trumps-one-big-beautiful-bill",
+              "date": "2025-07"
+            },
+            {
+              "title": "Diaz-Balart: President Trump's One Big Beautiful Bill Will Boost Economic Growth and Reduce Taxes (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-president-trumps-one-big-beautiful-bill-will-boost-economic",
+              "date": "2025"
+            },
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -57,18 +78,60 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 0,
+          "confidence": "record",
+          "summary": "Diaz-Balart voted for the Laken Riley Act (mandatory detention for certain arrested unauthorized immigrants) and for border-security funding in H.R. 1, but opposed the administration's termination of Temporary Protected Status for Venezuelans and co-sponsored earlier TPS protection legislation, calling for case-by-case relief.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Diaz-Balart Statement on TPS for Venezuelans (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-statement-tps-venezuelans-0",
+              "date": "2025"
+            },
+            {
+              "title": "Venezuelans in Florida angry at Trump TPS immigration move (NPR)",
+              "url": "https://www.npr.org/2025/02/04/nx-s1-5285470/venezuelans-florida-tps-immigration-trump",
+              "date": "2025-02-04"
+            },
+            {
+              "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            },
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            },
+            {
+              "title": "Immigration issue page (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/issues/immigration",
+              "date": null
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "record",
+          "summary": "SBA Pro-Life America's scorecard says Diaz-Balart has voted consistently to protect the unborn and to stop taxpayer funding of abortion; his office says he protected long-standing pro-life provisions in FY26 appropriations. NARAL has rated his voting record 0%.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Rep. Mario Diaz-Balart - SBA Pro-Life America Scorecard",
+              "url": "https://sbaprolife.org/representative/mario-diaz-balart",
+              "date": "2026"
+            },
+            {
+              "title": "Diaz-Balart Delivers Stronger National Security, Less Waste with Passage of FY26 Appropriations Minibus (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-delivers-stronger-national-security-less-waste-passage-fy26",
+              "date": "2026"
+            },
+            {
+              "title": "Mario Diaz-Balart on Abortion (OnTheIssues)",
+              "url": "https://ontheissues.org/FL/Mario_Diaz-Balart_Abortion.htm",
+              "date": null
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -78,11 +141,27 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Diaz-Balart voted for H.R. 1 (2025), which added Medicaid work requirements and other changes the CBO projected would reduce coverage; he says the bill protects Medicaid and Medicare benefits 'for eligible Americans in need.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Diaz-Balart applauds passage of President Trump's One Big Beautiful Bill (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-applauds-passage-president-trumps-one-big-beautiful-bill",
+              "date": "2025-07"
+            },
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -120,11 +199,27 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Diaz-Balart voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote (it passed 220-208 with every voting Republican in favor); in 2026 he weighed in on adding SAVE America Act provisions to a reconciliation package.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+              "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "Donalds, Diaz-Balart weigh in on SAVE America Act provisions in budget reconciliation package (The Floridian)",
+              "url": "https://floridianpress.com/2026/07/donalds-diaz-balart-weigh-in-on-save-america-act-provisions-in-budget-reconciliation-package/",
+              "date": "2026-07"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -141,11 +236,22 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Diaz-Balart voted for H.R. 1 (2025) and highlighted that it would 'unleash American energy' by reversing Biden-era energy policies; no statement supporting renewable mandates or utility-rate oversight was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Diaz-Balart applauds passage of President Trump's One Big Beautiful Bill (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-applauds-passage-president-trumps-one-big-beautiful-bill",
+              "date": "2025-07"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            }
+          ]
         },
         "tariffs": {
           "stance": null,
@@ -155,18 +261,50 @@
           "sources": []
         },
         "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Diaz-Balart voted for the $60.8 billion Ukraine Security Supplemental (H.R. 8035, April 2024), saying lawmakers could 'turn our heads away and hope to appease this great evil, or we can stand with our allies.'",
+          "quote": "stand with our allies and confront this nefarious scourge",
+          "sources": [
+            {
+              "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "How every House member voted on aid to Ukraine, Israel and more (Washington Post)",
+              "url": "https://www.washingtonpost.com/politics/interactive/2024/04/20/ukraine-israel-border-funding-house-vote/",
+              "date": "2024-04-20"
+            }
+          ]
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Diaz-Balart repeatedly praised 'President Trump's One Big Beautiful Bill' and voted for it, but publicly opposed the administration's move to end TPS for Venezuelans.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Diaz-Balart applauds passage of President Trump's One Big Beautiful Bill (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-applauds-passage-president-trumps-one-big-beautiful-bill",
+              "date": "2025-07"
+            },
+            {
+              "title": "Diaz-Balart Statement on TPS for Venezuelans (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-statement-tps-venezuelans-0",
+              "date": "2025"
+            },
+            {
+              "title": "Venezuelans in Florida angry at Trump TPS immigration move (NPR)",
+              "url": "https://www.npr.org/2025/02/04/nx-s1-5285470/venezuelans-florida-tps-immigration-trump",
+              "date": "2025-02-04"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -176,8 +314,159 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Venezuelan TPS and case-by-case relief",
+          "summary": "He opposed ending TPS for Venezuelans and, with Reps. Gimenez and Salazar, issued a joint statement in solidarity with Venezuelans.",
+          "sources": [
+            {
+              "title": "Diaz-Balart Statement on TPS for Venezuelans (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-statement-tps-venezuelans-0",
+              "date": "2025"
+            },
+            {
+              "title": "Venezuelans in Florida angry at Trump TPS immigration move (NPR)",
+              "url": "https://www.npr.org/2025/02/04/nx-s1-5285470/venezuelans-florida-tps-immigration-trump",
+              "date": "2025-02-04"
+            }
+          ]
+        },
+        {
+          "title": "Appropriations / national security funding",
+          "summary": "As subcommittee chair he touts FY26 appropriations bills for 'stronger national security, less waste.'",
+          "sources": [
+            {
+              "title": "Diaz-Balart Delivers Stronger National Security, Less Waste with Passage of FY26 Appropriations Minibus (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-delivers-stronger-national-security-less-waste-passage-fy26",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Tax relief",
+          "summary": "He emphasizes making the 2017 tax cuts permanent.",
+          "sources": [
+            {
+              "title": "Tax Relief issue page (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/issue/tax-relief",
+              "date": null
+            },
+            {
+              "title": "Diaz-Balart: President Trump's One Big Beautiful Bill Will Boost Economic Growth and Reduce Taxes (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-president-trumps-one-big-beautiful-bill-will-boost-economic",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "title": "Border security funding",
+          "summary": "He cites H.R. 1's border-security investments.",
+          "sources": [
+            {
+              "title": "Diaz-Balart applauds passage of President Trump's One Big Beautiful Bill (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-applauds-passage-president-trumps-one-big-beautiful-bill",
+              "date": "2025-07"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted YES on H.R. 1, the One Big Beautiful Bill Act (final passage July 3, 2025).",
+          "sources": [
+            {
+              "title": "Diaz-Balart applauds passage of President Trump's One Big Beautiful Bill (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-applauds-passage-president-trumps-one-big-beautiful-bill",
+              "date": "2025-07"
+            },
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            }
+          ]
+        },
+        {
+          "item": "Voted YES on the Laken Riley Act (S. 5, Jan. 22, 2025).",
+          "sources": [
+            {
+              "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            },
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            }
+          ]
+        },
+        {
+          "item": "Voted YES on the SAVE Act (H.R. 22, April 10, 2025).",
+          "sources": [
+            {
+              "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+              "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            }
+          ]
+        },
+        {
+          "item": "Voted YES on the Ukraine Security Supplemental Appropriations Act (H.R. 8035, April 20, 2024).",
+          "sources": [
+            {
+              "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+              "date": "2024-04-20"
+            }
+          ]
+        },
+        {
+          "item": "Publicly opposed the 2025 termination of TPS for Venezuelans.",
+          "sources": [
+            {
+              "title": "Diaz-Balart Statement on TPS for Venezuelans (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-statement-tps-venezuelans-0",
+              "date": "2025"
+            },
+            {
+              "title": "Venezuelans in Florida angry at Trump TPS immigration move (NPR)",
+              "url": "https://www.npr.org/2025/02/04/nx-s1-5285470/venezuelans-florida-tps-immigration-trump",
+              "date": "2025-02-04"
+            }
+          ]
+        },
+        {
+          "item": "Chairs the House Appropriations subcommittee overseeing State Department and foreign operations funding.",
+          "sources": [
+            {
+              "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "Diaz-Balart Delivers Stronger National Security, Less Waste with Passage of FY26 Appropriations Minibus (mariodiazbalart.house.gov)",
+              "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-delivers-stronger-national-security-less-waste-passage-fy26",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -188,17 +477,28 @@
       "photo_url": "https://locklinforcongress.com/",
       "photo_source": "campaign site og:image (URL unverified)",
       "website": "https://locklinforcongress.com/",
-      "occupation": "Attorney",
+      "occupation": "Attorney (most recently lead commercial legal counsel for health care and life sciences at Databricks)",
       "residence": "Miami, Miami-Dade County",
-      "background": "Nicole Locklin is a Miami-based attorney with more than a decade of experience in law, compliance and business operations, including work at the technology company Nextdoor beginning in 2020. She was unopposed in the Aug. 18, 2026 Democratic primary. Her campaign launch emphasized affordability, anti-corruption, economic justice and ending 'endless wars.'",
+      "background": "Nicole Locklin is a Miami-based attorney with more than a decade of experience in law, compliance and business operations, including work at Nextdoor beginning in 2020 and most recently as lead commercial legal counsel for health care and life sciences at Databricks. Local coverage says she is originally from Oklahoma and has lived in Miami since 2024. She was unopposed in the Aug. 18, 2026 Democratic primary. Her campaign centers on affordability, anti-corruption (she pledges to reject corporate PAC money), universal health care, ending immigration raids and ending 'endless wars.'",
       "primary_result": "Unopposed in Aug 18, 2026 Democratic primary (CBS Miami)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Locklin advocates higher taxes on billionaires and large corporations to fund investments in health care, housing, education and jobs.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Nicole Locklin (D) - Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/nicole-locklin",
+              "date": "2026"
+            },
+            {
+              "title": "Nicole Locklin Launches Campaign for U.S. Congress in FL-CD-26 (National Law Review press release)",
+              "url": "https://natlawreview.com/press-releases/nicole-locklin-launches-campaign-us-congress-fl-cd-26-focused-affordability",
+              "date": "2026"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -215,18 +515,50 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Locklin lists affordable housing among the investments she would fund with higher taxes on billionaires and corporations, and cites rising housing costs in the district.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Nicole Locklin (D) - Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/nicole-locklin",
+              "date": "2026"
+            },
+            {
+              "title": "Nicole Locklin Launches Campaign for U.S. Congress in FL-CD-26 (National Law Review press release)",
+              "url": "https://natlawreview.com/press-releases/nicole-locklin-launches-campaign-us-congress-fl-cd-26-focused-affordability",
+              "date": "2026"
+            },
+            {
+              "title": "Meet the two candidates vying to win southwest Broward's District 26 in November (Miramar News)",
+              "url": "https://www.miramarflnews.com/news/local/article316927221.html",
+              "date": "2026-09"
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Locklin campaigns on ending immigration raids and supports abolishing ICE, emphasizing constitutional due-process protections before anyone is detained or removed.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet the two candidates vying to win southwest Broward's District 26 in November (Miramar News)",
+              "url": "https://www.miramarflnews.com/news/local/article316927221.html",
+              "date": "2026-09"
+            },
+            {
+              "title": "Nicole Locklin (D) - Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/nicole-locklin",
+              "date": "2026"
+            },
+            {
+              "title": "Nicole Locklin for U.S. Congress (campaign site)",
+              "url": "https://locklinforcongress.com/",
+              "date": null
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -243,11 +575,22 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Locklin says health care is a human right and supports the fastest path to guaranteed universal coverage, whether Medicare for All, a strong public option or a Medicare buy-in.",
+          "quote": "Medicare for All, a strong public option, Medicare buy-in, or any model that gets us to universal coverage",
+          "sources": [
+            {
+              "title": "Issues: Healthcare (campaign site)",
+              "url": "https://locklinforcongress.com/issues-healthcare",
+              "date": null
+            },
+            {
+              "title": "Meet the two candidates vying to win southwest Broward's District 26 in November (Miramar News)",
+              "url": "https://www.miramarflnews.com/news/local/article316927221.html",
+              "date": "2026-09"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -264,11 +607,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her campaign lists 'reversing climate change' among the priorities she would fight for.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Nicole Locklin for U.S. Congress (campaign site)",
+              "url": "https://locklinforcongress.com/",
+              "date": null
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -334,11 +683,17 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her campaign lists 'expanded benefits for veterans' among her priorities.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Nicole Locklin for U.S. Congress (campaign site)",
+              "url": "https://locklinforcongress.com/",
+              "date": null
+            }
+          ]
         }
       },
       "other_issues": [
@@ -357,9 +712,90 @@
               "date": null
             }
           ]
+        },
+        {
+          "title": "Anti-corruption / no corporate PAC money",
+          "summary": "She pledges to reject corporate PAC money and to fight government corruption.",
+          "sources": [
+            {
+              "title": "Nicole Locklin (D) - Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/nicole-locklin",
+              "date": "2026"
+            },
+            {
+              "title": "Nicole Locklin for U.S. Congress (campaign site)",
+              "url": "https://locklinforcongress.com/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Ending 'endless wars' and Palestine",
+          "summary": "She calls for an end to 'endless and unauthorized wars' and shifting spending to domestic priorities; her site has a Palestine issue page.",
+          "sources": [
+            {
+              "title": "Nicole Locklin Launches Campaign for U.S. Congress in FL-CD-26 (National Law Review press release)",
+              "url": "https://natlawreview.com/press-releases/nicole-locklin-launches-campaign-us-congress-fl-cd-26-focused-affordability",
+              "date": "2026"
+            },
+            {
+              "title": "Issues: Palestine (campaign site)",
+              "url": "https://locklinforcongress.com/issues-palestine",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Cuban relief effort",
+          "summary": "Local coverage lists the Cuban relief effort among her campaign themes.",
+          "sources": [
+            {
+              "title": "Meet the two candidates vying to win southwest Broward's District 26 in November (Miramar News)",
+              "url": "https://www.miramarflnews.com/news/local/article316927221.html",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Labor unions and jobs",
+          "summary": "She lists strengthening labor unions and good-paying jobs among her priorities.",
+          "sources": [
+            {
+              "title": "Nicole Locklin for U.S. Congress (campaign site)",
+              "url": "https://locklinforcongress.com/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Animal rights",
+          "summary": "Her campaign lists animal rights among the issues she would fight for.",
+          "sources": [
+            {
+              "title": "Nicole Locklin for U.S. Congress (campaign site)",
+              "url": "https://locklinforcongress.com/",
+              "date": null
+            }
+          ]
         }
       ],
-      "record": [],
+      "record": [
+        {
+          "item": "Unopposed in the Aug. 18, 2026 Democratic primary; local coverage notes she moved to Miami in 2024.",
+          "sources": [
+            {
+              "title": "Meet the two candidates vying to win southwest Broward's District 26 in November (Miramar News)",
+              "url": "https://www.miramarflnews.com/news/local/article316927221.html",
+              "date": "2026-09"
+            },
+            {
+              "title": "D26 congressional race: Mario Diaz-Balart and Nicole Locklin (Pembroke Pines News)",
+              "url": "https://www.pembrokepinesflnews.com/news/local/article316919155.html",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -372,7 +808,7 @@
       "website": null,
       "occupation": "Not found",
       "residence": "Not found",
-      "background": "Deborah Meidinger Hosey is a no-party-affiliation candidate reported to be on the Nov. 3, 2026 ballot for District 26 alongside Diaz-Balart and Locklin.",
+      "background": "Deborah Ann Meidinger Hosey qualified without party affiliation for the Nov. 3, 2026 ballot in District 26 and faces Republican Mario Diaz-Balart and Democrat Nicole Locklin. No campaign website, biography or issue statements were found in searches as of Sept. 2026.",
       "primary_result": "No primary (NPA candidate; local news / primary-results roundup)",
       "positions": {
         "taxes": {
@@ -524,7 +960,28 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Qualified as a no-party-affiliation candidate during the June 2026 qualifying period.",
+          "sources": [
+            {
+              "title": "Delegation for 6.12.26: Qualifying Week Special Edition (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/801765-delegation-for-6-12-26-qualifying-week-special-edition/",
+              "date": "2026-06-12"
+            },
+            {
+              "title": "Deborah Ann Meidinger Hosey - BallotReady",
+              "url": "https://www.ballotready.org/people/deborah-ann-meidinger-hosey",
+              "date": "2026"
+            },
+            {
+              "title": "Deborah Meidinger Hosey - Good Party candidate page",
+              "url": "https://goodparty.org/candidate/deborah-meidinger-hosey/us-house-of-representatives-florida-26th-congressional-district",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

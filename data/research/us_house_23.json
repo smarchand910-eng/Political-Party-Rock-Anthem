@@ -12,7 +12,7 @@
     "Palm Beach"
   ],
   "what_it_does": "Represents Florida's 23th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Roster from WPTV, WLRN and Florida Politics: Lois Frankel (D) vs. Deborah Adeimy (R). The redrawn CD 23 lies entirely within Palm Beach County. No NPA candidate identified; absence unconfirmed. Sources: https://www.wptv.com/news/political/elections-local/lois-frankel-wins-democratic-nomination-for-u-s-house-in-floridas-23rd-congressional-district ; https://floridapolitics.com/archives/814105-lois-frankel-to-face-republican-challenger-deborah-adeimy-for-control-of-new-cd-23-seat/ ; https://www.wlrn.org/government-politics/2026-08-18/lois-frankel-wins-victoria-doyle-florida-23-primary Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts; county descriptions here reflect post-redistricting reporting where found (https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map).",
   "candidates": [
     {
@@ -22,18 +22,34 @@
       "incumbent": true,
       "photo_url": "https://www.congress.gov/img/member/f000462_200.jpg",
       "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
-      "website": null,
+      "website": "https://loisfrankelforcongress.com/",
       "occupation": "U.S. Representative (since 2013; currently represents CD 22)",
       "residence": "West Palm Beach, Palm Beach County",
-      "background": "Lois Frankel, a former West Palm Beach mayor and Florida House minority leader, has served in Congress since 2013 and currently represents the 22nd District; after the 2026 map she shifted her candidacy to the new 23rd. She won the Aug. 18, 2026 Democratic primary with about 75%, defeating Victoria Doyle (about 23%) and Mark Piper (about 2%). Note: she is a sitting member of Congress; the current CD 23 representative, Jared Moskowitz, is running in CD 25.",
+      "background": "Lois Frankel, a former West Palm Beach mayor and Florida House minority leader, has served in Congress since 2013 and currently represents the 22nd District; after the 2026 map she shifted her candidacy to the new 23rd. She is the ranking Democrat on the House Appropriations subcommittee on National Security, Department of State and Related Programs. She won the Aug. 18, 2026 Democratic primary with about 75%, defeating Victoria Doyle (about 23%) and Mark Piper (about 2%). Florida Politics reports she says protecting entitlements and reforming immigration are her top priorities for an eighth term.",
       "primary_result": "Won Aug 18, 2026 Democratic primary with ~75% over Victoria Doyle (~23%) and Mark Piper (~2%) (WPTV; WLRN)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Frankel voted against H.R. 1 (2025), which extended the 2017 tax cuts while reducing Medicaid and SNAP spending; her statement cited 'the largest Medicaid cut in history.' She has not stated that tax cuts should take priority over services.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Rep. Frankel Votes No on Trump, Republicans' Big, Ugly Bill (frankel.house.gov)",
+              "url": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=4883",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -59,37 +75,92 @@
         "immigration": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "Frankel names 'reforming immigration' as a top priority (Florida Politics, Aug. 2026), but the specific enforcement/deportation positions needed to code this statement were not captured; her individual Laken Riley Act vote was not confirmed in sources found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Seeking eighth term, Lois Frankel says protecting entitlements, reforming immigration are her top priorities (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/814326-frankel-priorities/",
+              "date": "2026-08"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Frankel co-leads the Women's Health Protection Act, which would guarantee a right to abortion care nationwide, and says women, not politicians, should decide whether and when to start a family, with access to abortion, contraception and IVF.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Pressley, Chu, Frankel, Escobar lead 204 colleagues to introduce Women's Health Protection Act (Rep. Pressley release)",
+              "url": "https://pressley.house.gov/2023/03/30/pressley-chu-frankel-escobar-lead-204-colleagues-to-introduce-womens-health-protection-act-of-2023/",
+              "date": "2023-03-30"
+            },
+            {
+              "title": "H.R.12 - Women's Health Protection Act of 2025 - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/12/text",
+              "date": "2025"
+            },
+            {
+              "title": "Women's Health Care - issue page (frankel.house.gov)",
+              "url": "https://frankel.house.gov/issues/issue/?IssueID=14898",
+              "date": null
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Frankel voted for the Bipartisan Safer Communities Act (2022), which expanded background checks for buyers under 21 and funded state red-flag laws. Her position on other measures was not captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Rep. Frankel Statement on Passage of Bipartisan Gun Violence Prevention Bill (frankel.house.gov)",
+              "url": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=3494",
+              "date": "2022-06"
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Frankel voted no on H.R. 1 (2025), saying it would 'rip health care away from nearly 17 million Americans, including two million Floridians' through Medicaid cuts. A specific statement on extending ACA subsidies or Florida Medicaid expansion was not captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Rep. Frankel Votes No on Trump, Republicans' Big, Ugly Bill (frankel.house.gov)",
+              "url": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=4883",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Frankel told Florida Politics that protecting entitlements (Social Security and Medicare) is one of her top priorities for another term; her office maintains a Social Security and Medicare issue page. Her position on new revenue was not captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Seeking eighth term, Lois Frankel says protecting entitlements, reforming immigration are her top priorities (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/814326-frankel-priorities/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Social Security and Medicare - issue page (frankel.house.gov)",
+              "url": "https://frankel.house.gov/news/documentquery.aspx?IssueID=14896",
+              "date": null
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -120,11 +191,27 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Frankel voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote; only four Democrats supported it. In 2026 she publicly weighed in on SAVE America Act provisions in a reconciliation package.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+              "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "Donalds, Diaz-Balart, Frankel weigh in on SAVE America Act provisions in budget reconciliation package (The Floridian)",
+              "url": "https://floridianpress.com/2026/07/donalds-diaz-balart-weigh-in-on-save-america-act-provisions-in-budget-reconciliation-package/",
+              "date": "2026-07"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -155,18 +242,45 @@
           "sources": []
         },
         "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Frankel voted for the $60.8 billion Ukraine Security Supplemental Appropriations Act (H.R. 8035) in April 2024, which passed 311-112 with all Democrats in favor. As ranking member of the State-Foreign Operations subcommittee she criticized 2026 cuts to humanitarian aid, citing Ukraine.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "Ranking Member Frankel statement at full committee markup of the 2026 State, Foreign Operations funding bill (House Appropriations Democrats)",
+              "url": "https://democrats-appropriations.house.gov/news/statements/ranking-member-frankel-statement-full-committee-markup-2026-state-foreign",
+              "date": "2025"
+            }
+          ]
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Frankel voted against and publicly labeled the administration's signature 2025 bill the 'Big, Ugly Bill,' and has criticized the administration's foreign-aid cuts and reinstatement of the 'Global Gag Rule.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Rep. Frankel Votes No on Trump, Republicans' Big, Ugly Bill (frankel.house.gov)",
+              "url": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=4883",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "Ranking Member Frankel statement at full committee markup of the 2026 State, Foreign Operations funding bill (House Appropriations Democrats)",
+              "url": "https://democrats-appropriations.house.gov/news/statements/ranking-member-frankel-statement-full-committee-markup-2026-state-foreign",
+              "date": "2025"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -176,8 +290,149 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Foreign aid and State Department funding",
+          "summary": "As ranking Democrat on the National Security/State subcommittee, Frankel opposed a 42% cut to humanitarian aid and the reinstatement of the 'Global Gag Rule' in the 2026 bill; her office says she later led House passage of the FY26 State Department funding bill.",
+          "sources": [
+            {
+              "title": "Ranking Member Frankel statement at full committee markup of the 2026 State, Foreign Operations funding bill (House Appropriations Democrats)",
+              "url": "https://democrats-appropriations.house.gov/news/statements/ranking-member-frankel-statement-full-committee-markup-2026-state-foreign",
+              "date": "2025"
+            },
+            {
+              "title": "Rep. Frankel Leads House Passage of FY26 National Security and Department of State Funding Bill (frankel.house.gov)",
+              "url": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=4952",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Women's Health Protection Act",
+          "summary": "Co-lead of legislation to codify a nationwide right to abortion care.",
+          "sources": [
+            {
+              "title": "Pressley, Chu, Frankel, Escobar lead 204 colleagues to introduce Women's Health Protection Act (Rep. Pressley release)",
+              "url": "https://pressley.house.gov/2023/03/30/pressley-chu-frankel-escobar-lead-204-colleagues-to-introduce-womens-health-protection-act-of-2023/",
+              "date": "2023-03-30"
+            },
+            {
+              "title": "H.R.12 - Women's Health Protection Act of 2025 - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/12/text",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "title": "Seniority as an asset",
+          "summary": "In the primary Frankel campaigned on her seniority and appropriations role.",
+          "sources": [
+            {
+              "title": "Lois Frankel banks on seniority against progressive challenger Victoria Doyle (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/813028-lois-frankel-banks-on-seniority-against-progressive-challenger-victoria-doyle-in-cd-23-primary/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "title": "Entitlement protection and immigration reform",
+          "summary": "She lists protecting Social Security/Medicare and reforming immigration as her top priorities for the next term.",
+          "sources": [
+            {
+              "title": "Seeking eighth term, Lois Frankel says protecting entitlements, reforming immigration are her top priorities (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/814326-frankel-priorities/",
+              "date": "2026-08"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted NO on H.R. 1, the One Big Beautiful Bill Act (final passage July 3, 2025, 218-214).",
+          "sources": [
+            {
+              "title": "Rep. Frankel Votes No on Trump, Republicans' Big, Ugly Bill (frankel.house.gov)",
+              "url": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=4883",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214), July 3, 2025 - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            }
+          ]
+        },
+        {
+          "item": "Voted NO on the SAVE Act (H.R. 22, April 10, 2025; passed 220-208 with four Democrats in favor).",
+          "sources": [
+            {
+              "title": "H.R. 22: SAVE Act -- House Vote #102 (220-208), April 10, 2025 - GovTrack",
+              "url": "https://www.govtrack.us/congress/votes/119-2025/h102",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            }
+          ]
+        },
+        {
+          "item": "Voted YES on the Ukraine Security Supplemental Appropriations Act (H.R. 8035, April 20, 2024).",
+          "sources": [
+            {
+              "title": "Aid to Ukraine, Israel overwhelmingly approved by U.S. House in bipartisan vote (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2024/04/20/aid-to-ukraine-israel-overwhelmingly-approved-by-u-s-house-in-bipartisan-vote/",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 (118th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035/all-actions-without-amendments",
+              "date": "2024-04-20"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the Bipartisan Safer Communities Act (2022).",
+          "sources": [
+            {
+              "title": "Rep. Frankel Statement on Passage of Bipartisan Gun Violence Prevention Bill (frankel.house.gov)",
+              "url": "https://frankel.house.gov/news/documentsingle.aspx?DocumentID=3494",
+              "date": "2022-06"
+            }
+          ]
+        },
+        {
+          "item": "Co-lead of the Women's Health Protection Act (H.R. 12).",
+          "sources": [
+            {
+              "title": "Pressley, Chu, Frankel, Escobar lead 204 colleagues to introduce Women's Health Protection Act (Rep. Pressley release)",
+              "url": "https://pressley.house.gov/2023/03/30/pressley-chu-frankel-escobar-lead-204-colleagues-to-introduce-womens-health-protection-act-of-2023/",
+              "date": "2023-03-30"
+            },
+            {
+              "title": "H.R.12 - Women's Health Protection Act of 2025 - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/12/text",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "item": "Ranking member, House Appropriations Subcommittee on National Security, Department of State and Related Programs.",
+          "sources": [
+            {
+              "title": "Ranking Member Frankel statement at full committee markup of the 2026 State, Foreign Operations funding bill (House Appropriations Democrats)",
+              "url": "https://democrats-appropriations.house.gov/news/statements/ranking-member-frankel-statement-full-committee-markup-2026-state-foreign",
+              "date": "2025"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -187,18 +442,34 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Deborah_Adeimy.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not found",
-      "residence": "Palm Beach County (not verified)",
-      "background": "Deborah Adeimy won the Aug. 18, 2026 Republican primary with about 74% of the vote over Paola Branda and will face Lois Frankel in November.",
+      "website": "https://debadeimy4congress.com/",
+      "occupation": "Financial advisor / fiduciary (prior roles at Citigroup Global Markets, Merrill Lynch, Morgan Stanley, Wells Fargo Advisors and J.P. Morgan)",
+      "residence": "West Palm Beach, Palm Beach County",
+      "background": "Deborah Adeimy has worked in financial services as a fiduciary/financial advisor, with roles at firms including Citigroup Global Markets, Merrill Lynch, Morgan Stanley, Wells Fargo Advisors and J.P. Morgan. She ran for Congress in 2022 and 2024 (Palm Beach County's old CD 22) before this 2026 bid, and the Palm Beach Post editorial board endorsed her in a prior CD 22 Republican primary. She won the Aug. 18, 2026 Republican primary with about 74% of the vote over Paola Branda and faces Lois Frankel in November.",
       "primary_result": "Won Aug 18, 2026 Republican primary with ~74% over Paola Branda (Florida Politics)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Adeimy says 'Americans know how to spend their earned income better than Government' and campaigns on tax relief and reducing regulations; she has not addressed the trade-off with government services in sources found.",
+          "quote": "Americans know how to spend their earned income better than Government",
+          "sources": [
+            {
+              "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+              "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+              "date": "2026"
+            },
+            {
+              "title": "Deborah Adeimy for US Congress (campaign site)",
+              "url": "https://debadeimy4congress.com/",
+              "date": null
+            },
+            {
+              "title": "Lois Frankel to face Republican challenger Deborah Adeimy for control of new CD 23 seat (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/814105-lois-frankel-to-face-republican-challenger-deborah-adeimy-for-control-of-new-cd-23-seat/",
+              "date": "2026-08-18"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -222,25 +493,58 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Adeimy says immigration should be about joining and strengthening America but opposes illegal and 'forced entry,' and campaigns on border security. A position on large-scale deportation was not found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "iVoterGuide candidate profile - Deborah Adeimy (FL U.S. Rep., Dist. 23)",
+              "url": "https://ivoterguide.com/candidate/64909/race/28532/election/1431",
+              "date": "2026"
+            },
+            {
+              "title": "Deborah Adeimy - Ballotpedia",
+              "url": "https://ballotpedia.org/Deborah_Adeimy",
+              "date": "2026"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In candidate surveys Adeimy said human life deserves legal protection from conception until natural death and opposed government funding for abortion providers, including Planned Parenthood.",
+          "quote": "human life deserves legal protection from conception until natural death",
+          "sources": [
+            {
+              "title": "iVoterGuide candidate profile - Deborah Adeimy (FL U.S. Rep., Dist. 23)",
+              "url": "https://ivoterguide.com/candidate/64909/race/28532/election/1431",
+              "date": "2026"
+            },
+            {
+              "title": "Deborah Adeimy - Ballotpedia",
+              "url": "https://ballotpedia.org/Deborah_Adeimy",
+              "date": "2026"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Adeimy says she backs Second Amendment rights; no position on specific measures such as red-flag laws was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+              "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+              "date": "2026"
+            },
+            {
+              "title": "Deborah Adeimy (R) - Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/deborah-adeimy",
+              "date": "2026"
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -285,11 +589,22 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Adeimy supports using Social Security numbers for voter identification, a new verification requirement.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+              "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+              "date": "2026"
+            },
+            {
+              "title": "Deborah Adeimy (R) - Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/deborah-adeimy",
+              "date": "2026"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -306,11 +621,22 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Coverage of her candidacy notes she acknowledges global warming and sea-level rise as realities and supports exploring alternative energy sources; no position on fossil-fuel production or utility-rate oversight was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Palm Beach Post Editorial Board endorsement: Deb Adeimy for US House District 22 GOP primary (via Yahoo News)",
+              "url": "https://news.yahoo.com/palm-beach-post-editorial-board-174222675.html",
+              "date": null
+            },
+            {
+              "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+              "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+              "date": "2026"
+            }
+          ]
         },
         "tariffs": {
           "stance": null,
@@ -334,15 +660,107 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Adeimy supports improving veterans' preference in jobs and medical programs.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+              "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+              "date": "2026"
+            },
+            {
+              "title": "Deborah Adeimy (R) - Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/deborah-adeimy",
+              "date": "2026"
+            }
+          ]
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Small business and deregulation",
+          "summary": "She advocates for small businesses and reducing regulations.",
+          "sources": [
+            {
+              "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+              "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+              "date": "2026"
+            },
+            {
+              "title": "Deborah Adeimy for US Congress (campaign site)",
+              "url": "https://debadeimy4congress.com/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Parental rights and school transparency",
+          "summary": "She calls for increased transparency and parental rights in schools.",
+          "sources": [
+            {
+              "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+              "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+              "date": "2026"
+            },
+            {
+              "title": "Deborah Adeimy - Ballotpedia",
+              "url": "https://ballotpedia.org/Deborah_Adeimy",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Voter ID",
+          "summary": "She supports using Social Security numbers as voter identification.",
+          "sources": [
+            {
+              "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
+              "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Climate and sea-level rise",
+          "summary": "She acknowledges global warming and sea-level rise and supports exploring alternative energy.",
+          "sources": [
+            {
+              "title": "Palm Beach Post Editorial Board endorsement: Deb Adeimy for US House District 22 GOP primary (via Yahoo News)",
+              "url": "https://news.yahoo.com/palm-beach-post-editorial-board-174222675.html",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Ran for the U.S. House in 2022 and 2024 before the 2026 bid.",
+          "sources": [
+            {
+              "title": "Deborah Adeimy - Ballotpedia",
+              "url": "https://ballotpedia.org/Deborah_Adeimy",
+              "date": "2026"
+            },
+            {
+              "title": "Deborah Adeimy | R | FL-23 - Inside Elections",
+              "url": "https://insideelections.com/person/deborah-adeimy/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "item": "Endorsed by the Palm Beach Post editorial board in a prior CD 22 Republican primary.",
+          "sources": [
+            {
+              "title": "Palm Beach Post Editorial Board endorsement: Deb Adeimy for US House District 22 GOP primary (via Yahoo News)",
+              "url": "https://news.yahoo.com/palm-beach-post-editorial-board-174222675.html",
+              "date": null
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]
