@@ -1,10 +1,14 @@
-# Sumter County Voter Guide — November 3, 2026
+# Florida Voter Guide — November 3, 2026
 
-A nonpartisan, source-cited voter guide for the races and ballot questions a **Sumter County, Florida** voter will see in the 2026 general election, with a questionnaire that matches your views to each candidate's documented positions.
+A nonpartisan, source-cited voter guide for the races and ballot questions on a **Florida** voter's ballot in the 2026 general election, filtered by address, with a questionnaire that matches your views to each candidate's documented positions. It began as a Sumter County guide, and Sumter's races carry the deepest research.
 
 **No build step, no framework, no server required.** Open `index.html` in a browser, or host the folder on GitHub Pages / Netlify / any static host.
 
 ## What it does
+
+- **Address lookup.** A voter enters a Florida street address; the U.S. Census Bureau's public geocoder returns the county, congressional district and state legislative districts, and the site keeps only those numbers in the browser. A manual county/district form and a Sumter County preset are provided as fallbacks.
+- **Ballot filtering.** Every race carries a `jurisdiction` (`statewide`, `cd`, `sd`, `hd` or `county`). Home, Races, Match results, Judges and How-to-vote pages show only what is on that voter's ballot; everything else stays reachable under "Other Florida races".
+- **Coverage badges.** Races are marked `full` (positions researched), `partial`, `roster` (candidate list verified, positions not yet researched) or `none`, so gaps are visible instead of hidden.
 
 - **Every contested race on the Sumter County ballot**: U.S. Senate (special), U.S. House 11, Governor/Lt. Governor, Attorney General, CFO, Agriculture Commissioner, Florida House 52, County Commission District 4, plus the three constitutional amendments, judicial merit retention, and seats already decided in August.
 - **Candidate profiles** with photo, background, how they got on the ballot, positions on 21 major issues (each with a neutral summary, quote where available, and sources), *other issues the candidate has raised on their own*, a documented record, and reported endorsements.
@@ -24,6 +28,11 @@ assets/app.js         Router, views, matching algorithm
 data/issues.json      The 21 issue statements and which office levels they apply to
 data/races.json       Race metadata (what the office does, term, level)
 data/research/*.json  One file per race with candidates, positions, sources (editable)
+                      Statewide files are auto-registered by id: us_house_<n>, state_senate_<n>,
+                      state_house_<n>, county_<county>_<office>; each carries its own title,
+                      jurisdiction, counties and coverage level
+data/florida.json     County -> judicial circuit -> District Court of Appeal for all 67 counties
+data/research/counties.json  Supervisor of Elections links per county
 data/research/supplements.json  Editor-coded positions from documented votes that fill gaps
 data/guide.js         GENERATED — the merged dataset the site loads
 scripts/build_data.py Merges data/*.json into data/guide.js and validates it
