@@ -1,0 +1,372 @@
+{
+  "race_id": "state_senate_30",
+  "title": "Florida Senate, District 30",
+  "level": "state",
+  "office_group": "State",
+  "term": "4 years",
+  "jurisdiction": {
+    "type": "sd",
+    "id": 30
+  },
+  "counties": [
+    "Broward (part)",
+    "Palm Beach (part)"
+  ],
+  "counties_verified": true,
+  "what_it_does": "Represents District 30 in the Florida Senate; votes on state laws and the state budget.",
+  "on_november_ballot": true,
+  "decided_note": null,
+  "coverage": "roster",
+  "verified_ballot_note": "OPEN SEAT: Tina Scott Polsky (D) is not seeking another term. Florida Politics reports former Senate Democratic Leader Lauren Book is the Democratic candidate and that after the Republican primary resolved her Nov. 3 opponent is Republican Hector Rivera (Jerusa Zitta also ran in the GOP primary) (https://floridapolitics.com/archives/818232-lauren-book-adds-34k-more-to-sd-30-coffers-after-low-funded-gop-primary-resolves/). Whether Book had a primary or an NPA qualified was not verified. District per Florida Politics: part of Boca Raton and Broward cities including Coconut Creek, Coral Springs, Deerfield Beach, Parkland and Pompano Beach. Research limitation (Sept 2026): Ballotpedia, Wikipedia, dos.fl.gov, floridaelectionwatch.gov, Florida Politics and all news sites were blocked for fetching in this sandbox and the WebSearch budget was capped, so the roster is built only from search-result snippets; write-in/NPA qualifiers could not be checked. Positions are null because no snippet contained an explicit issue statement.",
+  "candidates": [
+    {
+      "id": "lauren_book",
+      "name": "Lauren Book",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": "Former State Senator; child-safety advocate",
+      "residence": "Broward County",
+      "background": "Book, a child-safety advocate from Broward County, served in the Senate from 2016 to 2024 (including as Senate Democratic Leader) and launched a 2026 campaign for SD 30 with the backing of outgoing Sen. Polsky, Sen. Lori Berman and Sen. Mack Bernard; she reported raising about $1.3 million.",
+      "primary_result": "Democratic nominee (Florida Politics); primary details not verified.",
+      "ballot_status": "verified",
+      "roster_sources": [
+        {
+          "title": "Lauren Book adds $34K more to SD 30 coffers after low-funded GOP Primary resolves - Florida Politics",
+          "url": "https://floridapolitics.com/archives/818232-lauren-book-adds-34k-more-to-sd-30-coffers-after-low-funded-gop-primary-resolves/",
+          "date": "2026-08"
+        },
+        {
+          "title": "'Continuing the fight': Lauren Book launches campaign for SD 30 - Florida Politics",
+          "url": "https://floridapolitics.com/archives/798515-continuing-the-fight-lauren-book-launches-campaign-for-sd-30-expediting-hopeful-return/",
+          "date": "2026-05"
+        },
+        {
+          "title": "Lauren Book dusts GOP foes with $1.3M raised so far for SD 30 - Florida Politics",
+          "url": "https://floridapolitics.com/archives/810712-lauren-book-dusts-gop-foes-with-1-3m-raised-so-far-for-sd-30/",
+          "date": null
+        }
+      ],
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [
+        {
+          "by": "Sen. Tina Scott Polsky, Sen. Lori Berman, Sen. Mack Bernard",
+          "sources": [
+            {
+              "title": "'Continuing the fight': Lauren Book launches campaign for SD 30 - Florida Politics",
+              "url": "https://floridapolitics.com/archives/798515-continuing-the-fight-lauren-book-launches-campaign-for-sd-30-expediting-hopeful-return/",
+              "date": "2026-05"
+            }
+          ]
+        },
+        {
+          "by": "Four LGBTQ+ organizations",
+          "sources": [
+            {
+              "title": "Lauren Book notches endorsements from 4 LGBTQ+ organizations in SD 30 bid - Florida Politics",
+              "url": "https://floridapolitics.com/archives/808921-lauren-book-notches-endorsements-from-4-lgbtq-organizations-in-sd-30-bid/",
+              "date": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hector_rivera",
+      "name": "Hector Rivera",
+      "party": "Republican",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Rivera emerged from the Aug. 18, 2026 Republican primary (which also included Jerusa Zitta) as the GOP nominee against Book in SD 30; Florida Politics described the GOP primary as low-funded. No further background found.",
+      "primary_result": "Won Aug. 18, 2026 Republican primary (Florida Politics); percentage not captured.",
+      "ballot_status": "verified",
+      "roster_sources": [
+        {
+          "title": "Lauren Book adds $34K more to SD 30 coffers after low-funded GOP Primary resolves - Florida Politics",
+          "url": "https://floridapolitics.com/archives/818232-lauren-book-adds-34k-more-to-sd-30-coffers-after-low-funded-gop-primary-resolves/",
+          "date": "2026-08"
+        }
+      ],
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": []
+    }
+  ]
+}

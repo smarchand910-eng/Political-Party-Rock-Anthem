@@ -1,0 +1,354 @@
+{
+  "race_id": "state_senate_2",
+  "title": "Florida Senate, District 2",
+  "level": "state",
+  "office_group": "State",
+  "term": "4 years",
+  "jurisdiction": {
+    "type": "sd",
+    "id": 2
+  },
+  "counties": [
+    "Bay",
+    "Holmes",
+    "Walton",
+    "Washington",
+    "Okaloosa (part)"
+  ],
+  "counties_verified": false,
+  "what_it_does": "Represents District 2 in the Florida Senate; votes on state laws and the state budget.",
+  "on_november_ballot": true,
+  "decided_note": null,
+  "coverage": "roster",
+  "verified_ballot_note": "WUWF's June 12, 2026 qualifying wrap-up reports that in SD 2 Republican incumbent Jay Trumbull qualified along with Democrat Lauren Donahoo; Ballotpedia lists Trumbull as running in the Nov. 3, 2026 general election (https://www.wuwf.org/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election; https://ballotpedia.org/Florida_State_Senate_District_2). County list is from general knowledge of the 2022 map and was NOT verified by a snippet. Research limitation (Sept 2026): Ballotpedia, Wikipedia, dos.fl.gov, floridaelectionwatch.gov, Florida Politics and all news sites were blocked for fetching in this sandbox and the WebSearch budget was capped, so the roster is built only from search-result snippets; write-in/NPA qualifiers could not be checked. Positions are null because no snippet contained an explicit issue statement.",
+  "candidates": [
+    {
+      "id": "jay_trumbull",
+      "name": "Jay Trumbull",
+      "party": "Republican",
+      "incumbent": true,
+      "photo_url": "https://www.flsenate.gov/Senators/s2",
+      "photo_source": "Florida Senate member page (portrait image URL not verified; site blocked in sandbox)",
+      "website": null,
+      "occupation": "State Senator",
+      "residence": "Panama City, Bay County",
+      "background": "Trumbull, a Panama City Republican, has represented Senate District 2 since Nov. 8, 2022 after serving in the Florida House. He qualified for re-election in June 2026.",
+      "primary_result": "No Republican primary opponent reported; qualified June 2026 (WUWF).",
+      "ballot_status": "verified",
+      "roster_sources": [
+        {
+          "title": "The field is set as candidate qualifying closes for Florida's 2026 election - WUWF",
+          "url": "https://www.wuwf.org/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election",
+          "date": "2026-06-12"
+        },
+        {
+          "title": "Florida State Senate District 2 - Ballotpedia",
+          "url": "https://ballotpedia.org/Florida_State_Senate_District_2",
+          "date": null
+        },
+        {
+          "title": "Jay Trumbull - Ballotpedia",
+          "url": "https://ballotpedia.org/Jay_Trumbull",
+          "date": null
+        }
+      ],
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": []
+    },
+    {
+      "id": "lauren_donahoo",
+      "name": "Lauren Donahoo",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Donahoo qualified in June 2026 as the Democratic candidate for Senate District 2 (WUWF). No further biographical information was found in search results.",
+      "primary_result": "Sole Democrat reported at qualifying (WUWF).",
+      "ballot_status": "verified",
+      "roster_sources": [
+        {
+          "title": "The field is set as candidate qualifying closes for Florida's 2026 election - WUWF",
+          "url": "https://www.wuwf.org/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election",
+          "date": "2026-06-12"
+        }
+      ],
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": []
+    }
+  ]
+}

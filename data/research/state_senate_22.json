@@ -1,0 +1,203 @@
+{
+  "race_id": "state_senate_22",
+  "title": "Florida Senate, District 22",
+  "level": "state",
+  "office_group": "State",
+  "term": "4 years",
+  "jurisdiction": {
+    "type": "sd",
+    "id": 22
+  },
+  "counties": [
+    "Sarasota",
+    "Manatee (part)"
+  ],
+  "counties_verified": true,
+  "what_it_does": "Represents District 22 in the Florida Senate; votes on state laws and the state budget.",
+  "on_november_ballot": true,
+  "decided_note": null,
+  "coverage": "partial",
+  "verified_ballot_note": "OPEN SEAT: Joe Gruters (R) left to run for CFO (Ballotpedia). Florida Politics reports Rep. James Buchanan defeated Vic Rohe by nearly 4-to-1 in the Aug. 18, 2026 Republican primary (https://floridapolitics.com/archives/816592-winners-and-losers-emerging-from-the-2026-primary-elections/). Whether any Democrat, NPA or write-in qualified could NOT be verified; a Sept. 2025 report said Buchanan was then the only candidate. If no one else qualified, the seat would have been decided in the Aug. 18 primary and would NOT appear on the November ballot - verify. Research limitation (Sept 2026): Ballotpedia, Wikipedia, dos.fl.gov, floridaelectionwatch.gov, Florida Politics and all news sites were blocked for fetching in this sandbox and the WebSearch budget was capped, so the roster is built only from search-result snippets; write-in/NPA qualifiers could not be checked. Positions are null because no snippet contained an explicit issue statement.",
+  "candidates": [
+    {
+      "id": "james_buchanan",
+      "name": "James Buchanan",
+      "party": "Republican",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": "State Representative",
+      "residence": "Sarasota, Sarasota County",
+      "background": "Buchanan, a Sarasota Republican state representative (elected to the House in 2018), won the Aug. 18, 2026 Republican primary for the open SD 22 seat by nearly a 4-to-1 margin over Vic Rohe; Senate Republican leaders endorsed him in 2025.",
+      "primary_result": "Won Aug. 18, 2026 Republican primary over Vic Rohe by nearly 4-to-1 (Florida Politics).",
+      "ballot_status": "verified",
+      "roster_sources": [
+        {
+          "title": "Winners and losers emerging from the 2026 Primary Elections - Florida Politics",
+          "url": "https://floridapolitics.com/archives/816592-winners-and-losers-emerging-from-the-2026-primary-elections/",
+          "date": "2026-08"
+        },
+        {
+          "title": "Florida State Senate District 22 - Ballotpedia",
+          "url": "https://ballotpedia.org/Florida_State_Senate_District_22",
+          "date": null
+        },
+        {
+          "title": "Senate Republican Leaders Endorse James Buchanan in SD 22 Race - The Floridian",
+          "url": "https://floridianpress.com/2025/09/senate-republican-leaders-endorse-james-buchanan-in-sd-22-race/",
+          "date": "2025-09"
+        }
+      ],
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [
+        {
+          "by": "Florida Senate Republican leadership",
+          "sources": [
+            {
+              "title": "Senate Republican Leaders Endorse James Buchanan in SD 22 Race - The Floridian",
+              "url": "https://floridianpress.com/2025/09/senate-republican-leaders-endorse-james-buchanan-in-sd-22-race/",
+              "date": "2025-09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "race_id": "state_senate_40",
+  "title": "Florida Senate, District 40",
+  "level": "state",
+  "office_group": "State",
+  "term": "4 years",
+  "jurisdiction": {
+    "type": "sd",
+    "id": 40
+  },
+  "counties": [
+    "Monroe",
+    "Miami-Dade (part)"
+  ],
+  "counties_verified": true,
+  "what_it_does": "Represents District 40 in the Florida Senate; votes on state laws and the state budget.",
+  "on_november_ballot": false,
+  "decided_note": "Per a Ballotpedia-derived search snippet, incumbent Ana Maria Rodriguez (R) drew no opponent; the general election was cancelled and she won without appearing on the ballot. CONFLICT: a Wikipedia-derived snippet stated she was term-limited and ineligible - could not be resolved; verify with the Division of Elections.",
+  "coverage": "partial",
+  "verified_ballot_note": "Ballotpedia snippet: 'the general election was canceled, and Ana Maria Rodriguez (R) won without appearing on the ballot' (https://ballotpedia.org/Florida_State_Senate_District_40). A conflicting Wikipedia-derived snippet said she was ineligible for re-election (https://en.wikipedia.org/wiki/Florida%27s_40th_Senate_district). No other SD 40 candidate surfaced in any search. Research limitation (Sept 2026): Ballotpedia, Wikipedia, dos.fl.gov, floridaelectionwatch.gov, Florida Politics and all news sites were blocked for fetching in this sandbox and the WebSearch budget was capped, so the roster is built only from search-result snippets; write-in/NPA qualifiers could not be checked. Positions are null because no snippet contained an explicit issue statement.",
+  "candidates": [
+    {
+      "id": "ana_maria_rodriguez",
+      "name": "Ana Maria Rodriguez",
+      "party": "Republican",
+      "incumbent": true,
+      "photo_url": "https://www.flsenate.gov/Senators/s40",
+      "photo_source": "Florida Senate member page (portrait image URL not verified; site blocked in sandbox)",
+      "website": "https://electanamaria.com/",
+      "occupation": "State Senator",
+      "residence": "Doral, Miami-Dade County",
+      "background": "Rodriguez, a Doral Republican, served in the Florida House before winning the Senate in 2020 and re-election in SD 40 in 2022; per Ballotpedia she was re-elected without opposition in 2026.",
+      "primary_result": "Unopposed per Ballotpedia snippet (unverified).",
+      "ballot_status": "reported unopposed; conflicting snippet - verify",
+      "roster_sources": [
+        {
+          "title": "Florida State Senate District 40 - Ballotpedia",
+          "url": "https://ballotpedia.org/Florida_State_Senate_District_40",
+          "date": null
+        },
+        {
+          "title": "Ana Maria Rodriguez - Ballotpedia",
+          "url": "https://ballotpedia.org/Ana_Maria_Rodriguez",
+          "date": null
+        }
+      ],
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": []
+    }
+  ]
+}

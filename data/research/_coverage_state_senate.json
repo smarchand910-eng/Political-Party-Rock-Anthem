@@ -1,0 +1,351 @@
+{
+  "office": "Florida State Senate",
+  "election": "2026-11-03",
+  "districts_up": [
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    18,
+    20,
+    22,
+    24,
+    26,
+    28,
+    30,
+    32,
+    34,
+    36,
+    38,
+    40
+  ],
+  "odd_district_specials_nov3": "None found. Searches turned up 2025 specials in SD 11 and SD 15 and the March 24, 2026 SD 14 special (an even district) only. Source: https://en.wikipedia.org/wiki/2026_Florida_Senate_election; https://ballotpedia.org/Florida_State_Senate_elections,_2026",
+  "method": "WebSearch snippets only (40-search cap; all WebFetch targets blocked). Ballotpedia 'Florida State Senate elections, 2026' confirms 20 even-numbered seats are up on Nov. 3, 2026.",
+  "districts": {
+    "2": {
+      "on_november_ballot": true,
+      "coverage": "roster",
+      "counties": [
+        "Bay",
+        "Holmes",
+        "Walton",
+        "Washington",
+        "Okaloosa (part)"
+      ],
+      "counties_verified": false,
+      "incumbent": "Jay Trumbull",
+      "candidates": [
+        "Jay Trumbull (Republican)",
+        "Lauren Donahoo (Democratic)"
+      ],
+      "decided_note": null,
+      "gaps": "Counties not verified by snippet."
+    },
+    "4": {
+      "on_november_ballot": true,
+      "coverage": "roster",
+      "counties": [
+        "Nassau",
+        "Duval (part)"
+      ],
+      "counties_verified": false,
+      "incumbent": "Clay Yarborough",
+      "candidates": [
+        "Clay Yarborough (Republican)",
+        "Sharmin Turner (Democratic) [reported in snippets; not independently verified]"
+      ],
+      "decided_note": null,
+      "gaps": "Contradictory snippets on whether Yarborough is unopposed; Sharmin Turner listed as Democrat."
+    },
+    "6": {
+      "on_november_ballot": true,
+      "coverage": "roster",
+      "counties": [
+        "Baker",
+        "Bradford",
+        "Clay",
+        "Columbia",
+        "Gilchrist",
+        "Union",
+        "Alachua (part)"
+      ],
+      "counties_verified": true,
+      "incumbent": "Jennifer Bradley",
+      "candidates": [
+        "Jennifer Bradley (Republican)",
+        "Jason Bellamy-Fults (Democratic)",
+        "Joseph Thornton (American Solidarity Party)"
+      ],
+      "decided_note": null,
+      "gaps": null
+    },
+    "8": {
+      "on_november_ballot": true,
+      "coverage": "partial",
+      "counties": [
+        "Volusia (most)",
+        "Brevard (part)"
+      ],
+      "counties_verified": true,
+      "incumbent": null,
+      "candidates": [
+        "Jake Johansson (Republican) [primary candidate; nomination not verified]",
+        "Elizabeth Fetterhoff (Republican) [primary candidate; nomination not verified]",
+        "Heather Louise Bendl (Republican) [primary candidate; nomination not verified]",
+        "Jason Voelz (Republican) [primary candidate; nomination not verified]"
+      ],
+      "decided_note": null,
+      "gaps": "Open seat; GOP primary winner (Bendl/Fetterhoff/Johansson/Voelz) and any Democrat/NPA not verified."
+    },
+    "10": {
+      "on_november_ballot": true,
+      "coverage": "roster",
+      "counties": [
+        "Seminole",
+        "Orange (part)"
+      ],
+      "counties_verified": true,
+      "incumbent": "Jason Brodeur",
+      "candidates": [
+        "Jason Brodeur (Republican)",
+        "John Lowndes (Democratic)"
+      ],
+      "decided_note": null,
+      "gaps": null
+    },
+    "12": {
+      "on_november_ballot": true,
+      "coverage": "partial",
+      "counties": [
+        "Polk (part)"
+      ],
+      "counties_verified": true,
+      "incumbent": "Colleen Burton",
+      "candidates": [
+        "Colleen Burton (Republican)",
+        "Alfred Reynolds (Democratic) [campaign account opened; qualification not verified]"
+      ],
+      "decided_note": null,
+      "gaps": "Democrat Alfred Reynolds' qualification not verified."
+    },
+    "14": {
+      "on_november_ballot": true,
+      "coverage": "roster",
+      "counties": [
+        "Hillsborough (part)"
+      ],
+      "counties_verified": false,
+      "incumbent": "Brian Nathan",
+      "candidates": [
+        "Brian Nathan (Democratic)",
+        "Josie Tomkow (Republican)"
+      ],
+      "decided_note": null,
+      "gaps": "County list and primary details not verified."
+    },
+    "16": {
+      "on_november_ballot": false,
+      "coverage": "roster",
+      "counties": [
+        "Hillsborough (part)",
+        "Pinellas (part)"
+      ],
+      "counties_verified": true,
+      "incumbent": null,
+      "candidates": [
+        "Fentrice Driskell (Democratic)"
+      ],
+      "decided_note": "Decided in the Aug. 18, 2026 Democratic primary: with no Republican in the race, Fentrice Driskell's primary win over Michele Rayner effectively decided the seat (Florida Politics). Whether a write-in closed the primary or Driskell was elected outright could not be verified; no NPA/write-in candidate was found in snippets.",
+      "gaps": "Not on Nov ballot if no write-in/NPA; write-in status unverified."
+    },
+    "18": {
+      "on_november_ballot": true,
+      "coverage": "roster",
+      "counties": [
+        "Pinellas (part)"
+      ],
+      "counties_verified": true,
+      "incumbent": "Nick DiCeglie",
+      "candidates": [
+        "Nick DiCeglie (Republican)",
+        "Karla Kemp (Democratic)"
+      ],
+      "decided_note": null,
+      "gaps": null
+    },
+    "20": {
+      "on_november_ballot": true,
+      "coverage": "partial",
+      "counties": [
+        "Manatee (northern part)",
+        "Hillsborough (southern part)"
+      ],
+      "counties_verified": true,
+      "incumbent": "Jim Boyd",
+      "candidates": [
+        "Jim Boyd (Republican)",
+        "Gerald Baldi (Democratic) [primary candidate; nomination not verified]",
+        "John Houman (Democratic) [primary candidate; nomination not verified]"
+      ],
+      "decided_note": null,
+      "gaps": "Democratic primary winner (Baldi vs Houman) not verified."
+    },
+    "22": {
+      "on_november_ballot": true,
+      "coverage": "partial",
+      "counties": [
+        "Sarasota",
+        "Manatee (part)"
+      ],
+      "counties_verified": true,
+      "incumbent": null,
+      "candidates": [
+        "James Buchanan (Republican)"
+      ],
+      "decided_note": null,
+      "gaps": "Unknown whether any Democrat/NPA qualified against Buchanan; if none, seat was decided Aug 18 and is not on the Nov ballot."
+    },
+    "24": {
+      "on_november_ballot": true,
+      "coverage": "partial",
+      "counties": [
+        "Palm Beach (part)"
+      ],
+      "counties_verified": true,
+      "incumbent": "Mack Bernard",
+      "candidates": [
+        "Mack Bernard (Democratic)",
+        "Jackie Green (Republican) [campaign account opened; qualification not verified]"
+      ],
+      "decided_note": null,
+      "gaps": "Republican Jackie Green's qualification not verified."
+    },
+    "26": {
+      "on_november_ballot": true,
+      "coverage": "partial",
+      "counties": [
+        "Palm Beach (part)"
+      ],
+      "counties_verified": true,
+      "incumbent": null,
+      "candidates": [
+        "David Silvers (Democratic) [primary candidate; nomination not verified]",
+        "Rick Roth (Republican) [primary candidate; nomination not verified]"
+      ],
+      "decided_note": null,
+      "gaps": "Open seat; primary results for Silvers (D) and Roth (R) not verified."
+    },
+    "28": {
+      "on_november_ballot": true,
+      "coverage": "roster",
+      "counties": [
+        "Collier",
+        "Hendry",
+        "Lee (part)"
+      ],
+      "counties_verified": true,
+      "incumbent": null,
+      "candidates": [
+        "Lauren Melo (Republican)",
+        "David Silverberg (Democratic)"
+      ],
+      "decided_note": null,
+      "gaps": null
+    },
+    "30": {
+      "on_november_ballot": true,
+      "coverage": "roster",
+      "counties": [
+        "Broward (part)",
+        "Palm Beach (part)"
+      ],
+      "counties_verified": true,
+      "incumbent": null,
+      "candidates": [
+        "Lauren Book (Democratic)",
+        "Hector Rivera (Republican)"
+      ],
+      "decided_note": null,
+      "gaps": null
+    },
+    "32": {
+      "on_november_ballot": true,
+      "coverage": "partial",
+      "counties": [
+        "Broward (part)"
+      ],
+      "counties_verified": true,
+      "incumbent": "Rosalind Osgood",
+      "candidates": [
+        "Rosalind Osgood (Democratic)"
+      ],
+      "decided_note": null,
+      "gaps": "No opponent to Osgood found; unopposed status unverified."
+    },
+    "34": {
+      "on_november_ballot": true,
+      "coverage": "roster",
+      "counties": [
+        "Miami-Dade (part)",
+        "Broward (part) - unverified"
+      ],
+      "counties_verified": false,
+      "incumbent": null,
+      "candidates": [
+        "Ashley Gantt (Democratic)",
+        "Elizabeth Jeanty (Republican)"
+      ],
+      "decided_note": null,
+      "gaps": "County split (Miami-Dade/Broward) not verified."
+    },
+    "36": {
+      "on_november_ballot": true,
+      "coverage": "roster",
+      "counties": [
+        "Miami-Dade (part)"
+      ],
+      "counties_verified": true,
+      "incumbent": "Ileana Garcia",
+      "candidates": [
+        "Ileana Garcia (Republican)",
+        "George Lavin (Democratic)"
+      ],
+      "decided_note": null,
+      "gaps": null
+    },
+    "38": {
+      "on_november_ballot": true,
+      "coverage": "partial",
+      "counties": [
+        "Miami-Dade (part)"
+      ],
+      "counties_verified": true,
+      "incumbent": "Alexis Calatayud",
+      "candidates": [
+        "Alexis Calatayud (Republican)",
+        "Lamondin (first name not captured) (Democratic) [reported in snippet; full name not verified]"
+      ],
+      "decided_note": null,
+      "gaps": "Democratic nominee's full name (surname Lamondin) not captured."
+    },
+    "40": {
+      "on_november_ballot": false,
+      "coverage": "partial",
+      "counties": [
+        "Monroe",
+        "Miami-Dade (part)"
+      ],
+      "counties_verified": true,
+      "incumbent": "Ana Maria Rodriguez",
+      "candidates": [
+        "Ana Maria Rodriguez (Republican) [reported unopposed; conflicting snippet - verify]"
+      ],
+      "decided_note": "Per a Ballotpedia-derived search snippet, incumbent Ana Maria Rodriguez (R) drew no opponent; the general election was cancelled and she won without appearing on the ballot. CONFLICT: a Wikipedia-derived snippet stated she was term-limited and ineligible - could not be resolved; verify with the Division of Elections.",
+      "gaps": "Conflicting snippets: unopposed re-election vs. term-limited; unresolved."
+    }
+  }
+}

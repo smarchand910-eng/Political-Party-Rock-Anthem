@@ -349,8 +349,8 @@
     return `<div class="card race-card">
       <div><span class="tag tag-level">${esc(r.office_group)}</span> <span class="tag">${esc(jurLabel(r))}</span>${r.coverage && r.coverage !== 'full' ? `<span class="tag" style="color:var(--warn)">${r.coverage === 'roster' ? 'Candidate list only' : r.coverage === 'partial' ? 'Partly researched' : 'No data yet'}</span>` : ''}${r.on_november_ballot === false ? '<span class="tag">Not on Nov. ballot</span>' : ''}</div>
       <h3><a href="#/race/${esc(r.id)}">${esc(r.title)}</a></h3>
-      <div class="cand-row">${cands.map(c => `<a class="cand-chip" href="#/candidate/${esc(c.id)}">${avatar(c, 'sm')}${esc(c.name)} <small>(${esc(partyShort(c.party))})</small></a>`).join('') || '<span class="empty">Candidate data pending</span>'}</div>
-      <div><a class="btn btn-sm" href="#/race/${esc(r.id)}">Compare positions →</a></div>
+      ${r.kind === 'measure' ? `<p class="muted">${esc(truncate(r.ballot_summary || 'Local ballot question.', 180))}</p><div><a class="btn btn-sm" href="#/race/${esc(r.id)}">Read the question →</a></div>` : `<div class="cand-row">${cands.map(c => `<a class="cand-chip" href="#/candidate/${esc(c.id)}">${avatar(c, 'sm')}${esc(c.name)} <small>(${esc(partyShort(c.party))})</small></a>`).join('') || '<span class="empty">No candidate data yet</span>'}</div>
+      <div><a class="btn btn-sm" href="#/race/${esc(r.id)}">${cands.length ? 'Compare positions →' : 'Details →'}</a></div>`}
     </div>`;
   }
 

@@ -115,7 +115,7 @@ def main():
             c['positions'] = positions
             cands.append(c)
         r['candidates'] = cands
-        if not cands:
+        if not cands and meta.get('kind', 'race') != 'measure':
             problems.append(f"race {meta['id']}: no candidates (research file missing?)")
         races.append(r)
 
