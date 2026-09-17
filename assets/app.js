@@ -228,9 +228,20 @@
     cands.forEach(c => { const p = candPoint(c); if (p.x && p.y) placed.push({ c, p }); else tray.push(c); });
     const r = 22;
     const ticks = [-2, -1, 0, 1, 2];
+    // Separate bubbles that would overlap so every candidate stays visible; positions move by at most a few pixels per pass.
+    const pts = placed.map(({ p }) => ({ x: sx(p.x.v), y: sy(p.y.v) }));
+    for (let pass = 0; pass < 30; pass++) {
+      let moved = false;
+      for (let a = 0; a < pts.length; a++) for (let b2 = a + 1; b2 < pts.length; b2++) {
+        const dx = pts[b2].x - pts[a].x, dy = pts[b2].y - pts[a].y; const d = Math.hypot(dx, dy) || 0.01; const min = 2 * r + 6;
+        if (d < min) { const push = (min - d) / 2; const ux = dx / d, uy = dy / d; pts[a].x -= ux * push; pts[a].y -= uy * push; pts[b2].x += ux * push; pts[b2].y += uy * push; moved = true; }
+      }
+      if (!moved) break;
+    }
+    pts.forEach(pt => { pt.x = Math.max(m.l + r, Math.min(W - m.r - r, pt.x)); pt.y = Math.max(m.t + r, Math.min(H - m.b - r, pt.y)); });
     const defs = placed.map(({ c }) => `<clipPath id="clip-${esc(c.id)}"><circle cx="0" cy="0" r="${r - 3}"/></clipPath>`).join('');
-    const bubbles = placed.map(({ c, p }) => {
-      const x = sx(p.x.v), y = sy(p.y.v);
+    const bubbles = placed.map(({ c, p }, idx) => {
+      const x = pts[idx].x, y = pts[idx].y;
       const img = c.photo_local || c.photo_url;
       const color = `var(--${partyClass(c.party).replace('party-', '').toLowerCase().replace('republican', 'rep').replace('democratic', 'dem').replace('libertarian', 'lib').replace('write-in', 'wri').replace('nonpartisan', 'npa')})`;
       return `<g class="bubble" transform="translate(${x.toFixed(1)},${y.toFixed(1)})" data-id="${esc(c.id)}" tabindex="0" role="img" aria-label="${esc(c.name)}: ${AXES.x.label} ${p.x.v.toFixed(1)}, ${AXES.y.label} ${p.y.v.toFixed(1)}">
@@ -259,6 +270,7 @@
       <text class="axis-end" x="${sx(0) + 6}" y="${m.t + 14}" opacity=".8">center line = neutral / mixed</text>
       ${bubbles}${you}
     </svg><div class="map-tip" role="tooltip"></div></div>
+    <div class="map-legend" aria-label="Bubble colors by party">${(() => { const seen = new Map(); cands.forEach(c => { const k = partyClass(c.party); if (!seen.has(k)) seen.set(k, c.party || 'No Party Affiliation'); }); return [...seen.entries()].map(([k, label]) => `<span><i class="${k}"></i>${esc(label)}</span>`).join(''); })()}<span class="muted">· photo or initials inside each bubble · hover or tap for details</span></div>
     ${tray.length ? `<div class="map-tray">Not enough documented positions to place: ${tray.map(c => `<a class="cand-chip" href="#/candidate/${esc(c.id)}">${avatar(c, 'sm')}${esc(c.name)}</a>`).join('')}</div>` : ''}
     <details style="margin-top:10px"><summary>How the axes are computed</summary><p class="muted" style="margin-top:8px">Each axis is the average of a candidate's coded stances (+2 to −2) on a fixed set of statements, so it comes straight from the documented positions and nothing else. A candidate needs at least three documented statements on an axis to be placed.</p>
       <p><strong>${esc(AXES.x.label)}</strong> (toward "${esc(AXES.x.pos)}"): ${Object.entries(AXES.x.parts).map(([k, v]) => `${esc(ISSUE_BY_ID[k] ? ISSUE_BY_ID[k].label : k)} (${v > 0 ? 'agree' : 'disagree'})`).join(', ')}.</p>
