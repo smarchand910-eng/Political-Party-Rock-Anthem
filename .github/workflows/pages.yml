@@ -2,7 +2,7 @@ name: Build and deploy to GitHub Pages
 
 on:
   push:
-    branches: [main, master]
+    branches: [main, master, claude/florida-midterm-voter-guide-gt74ss]
   workflow_dispatch:
 
 permissions:
