@@ -580,7 +580,8 @@
 
   /* ---------- Router ---------- */
   function route() {
-    const hash = location.hash.replace(/^#/, '') || '/';
+    const pre = $('#main') && $('#main').dataset.route;
+    const hash = location.hash.replace(/^#/, '') || (pre ? pre.replace(/^#/, '') : '/');
     const parts = hash.split('/').filter(Boolean);
     const main = $('#main');
     let html = '', nav = 'home', after = null;

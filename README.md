@@ -30,6 +30,15 @@ scripts/build_data.py Merges data/*.json into data/guide.js and validates it
 docs/RESEARCH_BRIEF.md The research brief and JSON schema used to collect the data
 ```
 
+## Publishing it (free) and getting it into Google
+
+1. **Merge this branch into `main`.** The workflow in `.github/workflows/pages.yml` runs on every push to `main`: it rebuilds the data, prerenders every race and candidate into a real HTML page (`/candidates/david-jolly/`, `/races/governor-lieutenant-governor/`, …), writes `sitemap.xml` and `robots.txt`, and deploys to GitHub Pages.
+2. **Enable Pages once:** GitHub repo → Settings → Pages → *Build and deployment* → Source: **GitHub Actions**. The site appears at `https://<your-username>.github.io/Political-Party-Rock-Anthem/` within a couple of minutes.
+3. **Optional custom domain** (recommended for search ranking and trust): buy a domain, add it under Settings → Pages → Custom domain, and commit a `CNAME` file containing the domain. The prerender picks up the new base URL automatically.
+4. **Tell Google:** go to [Google Search Console](https://search.google.com/search-console), add the site URL, verify ownership (the HTML-tag method works: paste the tag into `index.html`), then submit `https://<site>/sitemap.xml`. Use *URL inspection → Request indexing* on the home page to speed things up. Bing Webmaster Tools accepts the same sitemap.
+
+Prerendering is what makes individual candidates and races show up as separate search results; without it Google would only see the home page.
+
 ## Updating the data
 
 1. Edit the relevant file in `data/research/` (or add a stance in `data/research/supplements.json`). Every coded stance **must** have at least one source; the build script downgrades unsourced stances to "unknown".
