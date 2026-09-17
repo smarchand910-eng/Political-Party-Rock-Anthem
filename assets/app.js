@@ -603,6 +603,11 @@
   try { localStorage.removeItem(COUNTY_KEY); } catch (e) { /* ignore */ }
   function loadCounty() { return ''; }
   function saveCounty() { /* intentionally not stored */ }
+  // Reset the county question everywhere it appears (used when the quiz finishes and the results chart is shown).
+  function resetCountyChoice() {
+    try { localStorage.removeItem(COUNTY_KEY); } catch (e) { /* ignore */ }
+    document.querySelectorAll('[data-county-picker]').forEach(sel => { sel.value = ''; });
+  }
   function countyList() { return SW ? Object.values(SW.counties).sort((a, b) => a.name.localeCompare(b.name)) : []; }
   function countyPicker(selected) {
     if (!SW) return '';
@@ -695,7 +700,7 @@
     else if (parts[0] === 'races') { html = viewRaces(); nav = 'races'; }
     else if (parts[0] === 'race' && parts[1]) { html = viewRace(decodeURIComponent(parts[1])); nav = 'races'; after = r => { bindHeat(r); bindMap(r); }; }
     else if (parts[0] === 'candidate' && parts[1]) { html = viewCandidate(decodeURIComponent(parts[1])); nav = 'races'; }
-    else if (parts[0] === 'match' && parts[1] === 'results') { html = viewResults(); nav = 'match'; after = r => { const p = r.querySelector('[data-print]'); if (p) p.addEventListener('click', () => window.print()); bindMap(r); const f = r.querySelector('[data-mapfilter]'); if (f) f.querySelectorAll('button').forEach(b => b.addEventListener('click', () => { f.querySelectorAll('button').forEach(x => x.classList.toggle('selected', x === b)); const id = b.dataset.race; const cands = (id === 'all' ? CANDIDATES : (RACE_BY_ID[id].candidates || [])).filter(c => !c.withdrawn); r.querySelector('[data-mapcard]').innerHTML = landscapeMap(cands, { you: userPoint(loadAnswers()) }); bindMap(r); })); }; }
+    else if (parts[0] === 'match' && parts[1] === 'results') { resetCountyChoice(); html = viewResults(); nav = 'match'; after = r => { resetCountyChoice(); const p = r.querySelector('[data-print]'); if (p) p.addEventListener('click', () => window.print()); bindMap(r); const f = r.querySelector('[data-mapfilter]'); if (f) f.querySelectorAll('button').forEach(b => b.addEventListener('click', () => { f.querySelectorAll('button').forEach(x => x.classList.toggle('selected', x === b)); const id = b.dataset.race; const cands = (id === 'all' ? CANDIDATES : (RACE_BY_ID[id].candidates || [])).filter(c => !c.withdrawn); r.querySelector('[data-mapcard]').innerHTML = landscapeMap(cands, { you: userPoint(loadAnswers()) }); bindMap(r); })); }; }
     else if (parts[0] === 'match') { html = viewMatch(); nav = 'match'; after = bindMatch; }
     else if (parts[0] === 'amendments') { html = viewAmendments(); nav = 'amendments'; }
     else if (parts[0] === 'judges') { html = viewJudges(); nav = 'judges'; }
