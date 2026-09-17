@@ -1,8 +1,10 @@
 name: Build and deploy to GitHub Pages
 
+# Deploys run from the repository's default branch (GitHub's Pages environment only accepts that branch).
+# If you make `main` the default branch, replace the branch name below with main.
 on:
   push:
-    branches: [main, master, claude/florida-midterm-voter-guide-gt74ss]
+    branches: [claude/florida-midterm-voter-guide-gt74ss]
   workflow_dispatch:
 
 permissions:
@@ -12,7 +14,7 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
