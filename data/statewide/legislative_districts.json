@@ -1,0 +1,1683 @@
+{
+ "_source": "House: https://www.flhouse.gov/Sections/Representatives/representatives.aspx (2024-2026 term, fetched 2026-09-17). Senate: https://www.flsenate.gov/Senators/ (2024-2026 term, fetched 2026-09-17). Even-numbered Senate districts are on the 2026 ballot per the Division of Elections candidate list.",
+ "house_district_counties": {
+  "1": "Part of Escambia",
+  "2": "Parts of Escambia, Santa Rosa",
+  "3": "Parts of Okaloosa, Santa Rosa",
+  "4": "Part of Okaloosa",
+  "5": "Calhoun, Holmes, Jackson, Walton, Washington",
+  "6": "Bay",
+  "7": "Dixie, Franklin, Gulf, Hamilton, Lafayette, Liberty, Suwannee, Taylor, Wakulla, Parts of Jefferson, Leon",
+  "8": "Gadsden, Part of Leon",
+  "9": "Madison, Parts of Jefferson, Leon",
+  "10": "Baker, Bradford, Columbia, Union, Part of Alachua",
+  "11": "Part of Clay",
+  "12": "Part of Duval",
+  "13": "Part of Duval",
+  "14": "Part of Duval",
+  "15": "Nassau, Part of Duval",
+  "16": "Part of Duval",
+  "17": "Part of Duval",
+  "18": "Part of St. Johns",
+  "19": "Flagler, Part of St. Johns",
+  "20": "Putnam, Parts of Clay, Marion, St. Johns",
+  "21": "Parts of Alachua, Marion",
+  "22": "Gilchrist, Levy, Part of Alachua",
+  "23": "Citrus, Part of Marion",
+  "24": "Part of Marion",
+  "25": "Part of Lake",
+  "26": "Part of Lake",
+  "27": "Parts of Lake, Marion, Volusia",
+  "28": "Part of Volusia",
+  "29": "Part of Volusia",
+  "30": "Parts of Brevard, Volusia",
+  "31": "Part of Brevard",
+  "32": "Part of Brevard",
+  "33": "Part of Brevard",
+  "34": "Indian River, Part of Brevard",
+  "35": "Parts of Orange, Osceola",
+  "36": "Part of Seminole",
+  "37": "Parts of Orange, Seminole",
+  "38": "Part of Seminole",
+  "39": "Parts of Orange, Seminole",
+  "40": "Part of Orange",
+  "41": "Part of Orange",
+  "42": "Part of Orange",
+  "43": "Part of Orange",
+  "44": "Part of Orange",
+  "45": "Parts of Orange, Osceola",
+  "46": "Part of Osceola",
+  "47": "Parts of Orange, Osceola",
+  "48": "Part of Polk",
+  "49": "Part of Polk",
+  "50": "Part of Polk",
+  "51": "Part of Polk",
+  "52": "Sumter, Part of Hernando",
+  "53": "Parts of Hernando, Pasco",
+  "54": "Part of Pasco",
+  "55": "Part of Pasco",
+  "56": "Part of Pasco",
+  "57": "Part of Pinellas",
+  "58": "Part of Pinellas",
+  "59": "Part of Pinellas",
+  "60": "Part of Pinellas",
+  "61": "Parts of Hillsborough, Pinellas",
+  "62": "Parts of Hillsborough, Pinellas",
+  "63": "Part of Hillsborough",
+  "64": "Part of Hillsborough",
+  "65": "Part of Hillsborough",
+  "66": "Part of Hillsborough",
+  "67": "Part of Hillsborough",
+  "68": "Part of Hillsborough",
+  "69": "Part of Hillsborough",
+  "70": "Parts of Hillsborough, Manatee",
+  "71": "Part of Manatee",
+  "72": "Part of Manatee",
+  "73": "Part of Sarasota",
+  "74": "Part of Sarasota",
+  "75": "Parts of Charlotte, Sarasota",
+  "76": "DeSoto and Parts of Charlotte, Lee",
+  "77": "Part of Lee",
+  "78": "Part of Lee",
+  "79": "Part of Lee",
+  "80": "Parts of Collier, Lee",
+  "81": "Part of Collier",
+  "82": "Hendry and Part of Collier",
+  "83": "Glades, Hardee, Highlands, Okeechobee",
+  "84": "Part of St. Lucie",
+  "85": "Parts of Martin, St. Lucie",
+  "86": "Parts of Martin, Palm Beach",
+  "87": "Part of Palm Beach",
+  "88": "Part of Palm Beach",
+  "89": "Part of Palm Beach",
+  "90": "Part of Palm Beach",
+  "91": "Part of Palm Beach",
+  "92": "Part of Palm Beach",
+  "93": "Part of Palm Beach",
+  "94": "Part of Palm Beach",
+  "95": "Part of Broward",
+  "96": "Part of Broward",
+  "97": "Part of Broward",
+  "98": "Part of Broward",
+  "99": "Part of Broward",
+  "100": "Part of Broward",
+  "101": "Part of Broward",
+  "102": "Part of Broward",
+  "103": "Part of Broward",
+  "104": "Parts of Broward, Miami-Dade",
+  "105": "Parts of Broward, Miami-Dade",
+  "106": "Part of Miami-Dade",
+  "107": "Part of Miami-Dade",
+  "108": "Part of Miami-Dade",
+  "109": "Part of Miami-Dade",
+  "110": "Part of Miami-Dade",
+  "111": "Part of Miami-Dade",
+  "112": "Part of Miami-Dade",
+  "113": "Part of Miami-Dade",
+  "114": "Part of Miami-Dade",
+  "115": "Part of Miami-Dade",
+  "116": "Part of Miami-Dade",
+  "117": "Part of Miami-Dade",
+  "118": "Part of Miami-Dade",
+  "119": "Part of Miami-Dade",
+  "120": "Monroe and Part of Miami-Dade"
+ },
+ "senate_district_counties": {
+  "27": "Charlotte, DeSoto, Hardee, parts of Lee, Polk",
+  "25": "Osceola, part of Orange",
+  "26": "Part of Palm Beach",
+  "24": "Part of Palm Beach",
+  "20": "Parts of Hillsborough, Manatee",
+  "15": "Part of Orange",
+  "6": "Baker, Bradford, Clay, Columbia, Gilchrist, Union, part of Alachua",
+  "10": "Seminole, part of Orange",
+  "23": "Parts of Hillsborough, Pasco",
+  "12": "Part of Polk",
+  "38": "Part of Miami-Dade",
+  "5": "Part of Duval",
+  "18": "Part of Pinellas",
+  "1": "Escambia, Santa Rosa, part of Okaloosa",
+  "36": "Part of Miami-Dade",
+  "29": "Glades, Highlands, Indian River, Okeechobee, part of St. Lucie",
+  "22": "Sarasota, part of Manatee",
+  "31": "Martin, parts of Palm Beach, St. Lucie",
+  "21": "Parts of Pasco, Pinellas",
+  "34": "Part of Miami-Dade",
+  "7": "Flagler, Putnam, St. Johns, part of Volusia",
+  "33": "Part of Lee",
+  "11": "Citrus, Hernando, Sumter, part of Pasco",
+  "19": "Part of Brevard",
+  "9": "Levy, Marion, part of Alachua",
+  "14": "Part of Hillsborough",
+  "32": "Part of Broward",
+  "28": "Collier, Hendry, part of Lee",
+  "37": "Parts of Broward, Miami-Dade",
+  "30": "Parts of Broward, Palm Beach",
+  "40": "Monroe, part of Miami-Dade",
+  "16": "Parts of Hillsborough, Pinellas",
+  "35": "Part of Broward",
+  "3": "Dixie, Franklin, Gadsden, Gulf, Hamilton, Jefferson, Lafayette, Leon, Liberty, Madison, Suwannee, Taylor, Wakulla",
+  "17": "Part of Orange",
+  "13": "Lake, part of Orange",
+  "2": "Bay, Calhoun, Holmes, Jackson, Walton, Washington, part of Okaloosa",
+  "8": "Parts of Brevard, Volusia",
+  "4": "Nassau, part of Duval",
+  "39": "Part of Miami-Dade"
+ },
+ "by_county": {
+  "Alachua": {
+   "house": [
+    {
+     "district": 10,
+     "whole_county": false
+    },
+    {
+     "district": 21,
+     "whole_county": false
+    },
+    {
+     "district": 22,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 6,
+     "whole_county": false
+    },
+    {
+     "district": 9,
+     "whole_county": false
+    }
+   ]
+  },
+  "Baker": {
+   "house": [
+    {
+     "district": 10,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 6,
+     "whole_county": true
+    }
+   ]
+  },
+  "Bay": {
+   "house": [
+    {
+     "district": 6,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 2,
+     "whole_county": true
+    }
+   ]
+  },
+  "Bradford": {
+   "house": [
+    {
+     "district": 10,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 6,
+     "whole_county": true
+    }
+   ]
+  },
+  "Brevard": {
+   "house": [
+    {
+     "district": 30,
+     "whole_county": false
+    },
+    {
+     "district": 31,
+     "whole_county": false
+    },
+    {
+     "district": 32,
+     "whole_county": false
+    },
+    {
+     "district": 33,
+     "whole_county": false
+    },
+    {
+     "district": 34,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 8,
+     "whole_county": false
+    },
+    {
+     "district": 19,
+     "whole_county": false
+    }
+   ]
+  },
+  "Broward": {
+   "house": [
+    {
+     "district": 95,
+     "whole_county": false
+    },
+    {
+     "district": 96,
+     "whole_county": false
+    },
+    {
+     "district": 97,
+     "whole_county": false
+    },
+    {
+     "district": 98,
+     "whole_county": false
+    },
+    {
+     "district": 99,
+     "whole_county": false
+    },
+    {
+     "district": 100,
+     "whole_county": false
+    },
+    {
+     "district": 101,
+     "whole_county": false
+    },
+    {
+     "district": 102,
+     "whole_county": false
+    },
+    {
+     "district": 103,
+     "whole_county": false
+    },
+    {
+     "district": 104,
+     "whole_county": false
+    },
+    {
+     "district": 105,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 30,
+     "whole_county": false
+    },
+    {
+     "district": 32,
+     "whole_county": false
+    },
+    {
+     "district": 35,
+     "whole_county": false
+    },
+    {
+     "district": 37,
+     "whole_county": false
+    }
+   ]
+  },
+  "Calhoun": {
+   "house": [
+    {
+     "district": 5,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 2,
+     "whole_county": true
+    }
+   ]
+  },
+  "Charlotte": {
+   "house": [
+    {
+     "district": 75,
+     "whole_county": false
+    },
+    {
+     "district": 76,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 27,
+     "whole_county": true
+    }
+   ]
+  },
+  "Citrus": {
+   "house": [
+    {
+     "district": 23,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 11,
+     "whole_county": true
+    }
+   ]
+  },
+  "Clay": {
+   "house": [
+    {
+     "district": 11,
+     "whole_county": false
+    },
+    {
+     "district": 20,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 6,
+     "whole_county": true
+    }
+   ]
+  },
+  "Collier": {
+   "house": [
+    {
+     "district": 80,
+     "whole_county": false
+    },
+    {
+     "district": 81,
+     "whole_county": false
+    },
+    {
+     "district": 82,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 28,
+     "whole_county": true
+    }
+   ]
+  },
+  "Columbia": {
+   "house": [
+    {
+     "district": 10,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 6,
+     "whole_county": true
+    }
+   ]
+  },
+  "Miami-Dade": {
+   "house": [
+    {
+     "district": 104,
+     "whole_county": false
+    },
+    {
+     "district": 105,
+     "whole_county": false
+    },
+    {
+     "district": 106,
+     "whole_county": false
+    },
+    {
+     "district": 107,
+     "whole_county": false
+    },
+    {
+     "district": 108,
+     "whole_county": false
+    },
+    {
+     "district": 109,
+     "whole_county": false
+    },
+    {
+     "district": 110,
+     "whole_county": false
+    },
+    {
+     "district": 111,
+     "whole_county": false
+    },
+    {
+     "district": 112,
+     "whole_county": false
+    },
+    {
+     "district": 113,
+     "whole_county": false
+    },
+    {
+     "district": 114,
+     "whole_county": false
+    },
+    {
+     "district": 115,
+     "whole_county": false
+    },
+    {
+     "district": 116,
+     "whole_county": false
+    },
+    {
+     "district": 117,
+     "whole_county": false
+    },
+    {
+     "district": 118,
+     "whole_county": false
+    },
+    {
+     "district": 119,
+     "whole_county": false
+    },
+    {
+     "district": 120,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 34,
+     "whole_county": false
+    },
+    {
+     "district": 36,
+     "whole_county": false
+    },
+    {
+     "district": 37,
+     "whole_county": false
+    },
+    {
+     "district": 38,
+     "whole_county": false
+    },
+    {
+     "district": 39,
+     "whole_county": false
+    },
+    {
+     "district": 40,
+     "whole_county": false
+    }
+   ]
+  },
+  "DeSoto": {
+   "house": [
+    {
+     "district": 76,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 27,
+     "whole_county": true
+    }
+   ]
+  },
+  "Dixie": {
+   "house": [
+    {
+     "district": 7,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 3,
+     "whole_county": true
+    }
+   ]
+  },
+  "Duval": {
+   "house": [
+    {
+     "district": 12,
+     "whole_county": false
+    },
+    {
+     "district": 13,
+     "whole_county": false
+    },
+    {
+     "district": 14,
+     "whole_county": false
+    },
+    {
+     "district": 15,
+     "whole_county": false
+    },
+    {
+     "district": 16,
+     "whole_county": false
+    },
+    {
+     "district": 17,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 4,
+     "whole_county": false
+    },
+    {
+     "district": 5,
+     "whole_county": false
+    }
+   ]
+  },
+  "Escambia": {
+   "house": [
+    {
+     "district": 1,
+     "whole_county": false
+    },
+    {
+     "district": 2,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 1,
+     "whole_county": true
+    }
+   ]
+  },
+  "Flagler": {
+   "house": [
+    {
+     "district": 19,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 7,
+     "whole_county": true
+    }
+   ]
+  },
+  "Franklin": {
+   "house": [
+    {
+     "district": 7,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 3,
+     "whole_county": true
+    }
+   ]
+  },
+  "Gadsden": {
+   "house": [
+    {
+     "district": 8,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 3,
+     "whole_county": true
+    }
+   ]
+  },
+  "Gilchrist": {
+   "house": [
+    {
+     "district": 22,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 6,
+     "whole_county": true
+    }
+   ]
+  },
+  "Glades": {
+   "house": [
+    {
+     "district": 83,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 29,
+     "whole_county": true
+    }
+   ]
+  },
+  "Gulf": {
+   "house": [
+    {
+     "district": 7,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 3,
+     "whole_county": true
+    }
+   ]
+  },
+  "Hamilton": {
+   "house": [
+    {
+     "district": 7,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 3,
+     "whole_county": true
+    }
+   ]
+  },
+  "Hardee": {
+   "house": [
+    {
+     "district": 83,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 27,
+     "whole_county": true
+    }
+   ]
+  },
+  "Hendry": {
+   "house": [
+    {
+     "district": 82,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 28,
+     "whole_county": true
+    }
+   ]
+  },
+  "Hernando": {
+   "house": [
+    {
+     "district": 52,
+     "whole_county": false
+    },
+    {
+     "district": 53,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 11,
+     "whole_county": true
+    }
+   ]
+  },
+  "Highlands": {
+   "house": [
+    {
+     "district": 83,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 29,
+     "whole_county": true
+    }
+   ]
+  },
+  "Hillsborough": {
+   "house": [
+    {
+     "district": 61,
+     "whole_county": false
+    },
+    {
+     "district": 62,
+     "whole_county": false
+    },
+    {
+     "district": 63,
+     "whole_county": false
+    },
+    {
+     "district": 64,
+     "whole_county": false
+    },
+    {
+     "district": 65,
+     "whole_county": false
+    },
+    {
+     "district": 66,
+     "whole_county": false
+    },
+    {
+     "district": 67,
+     "whole_county": false
+    },
+    {
+     "district": 68,
+     "whole_county": false
+    },
+    {
+     "district": 69,
+     "whole_county": false
+    },
+    {
+     "district": 70,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 14,
+     "whole_county": false
+    },
+    {
+     "district": 16,
+     "whole_county": false
+    },
+    {
+     "district": 20,
+     "whole_county": false
+    },
+    {
+     "district": 23,
+     "whole_county": false
+    }
+   ]
+  },
+  "Holmes": {
+   "house": [
+    {
+     "district": 5,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 2,
+     "whole_county": true
+    }
+   ]
+  },
+  "Indian River": {
+   "house": [
+    {
+     "district": 34,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 29,
+     "whole_county": true
+    }
+   ]
+  },
+  "Jackson": {
+   "house": [
+    {
+     "district": 5,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 2,
+     "whole_county": true
+    }
+   ]
+  },
+  "Jefferson": {
+   "house": [
+    {
+     "district": 7,
+     "whole_county": false
+    },
+    {
+     "district": 9,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 3,
+     "whole_county": true
+    }
+   ]
+  },
+  "Lafayette": {
+   "house": [
+    {
+     "district": 7,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 3,
+     "whole_county": true
+    }
+   ]
+  },
+  "Lake": {
+   "house": [
+    {
+     "district": 25,
+     "whole_county": false
+    },
+    {
+     "district": 26,
+     "whole_county": false
+    },
+    {
+     "district": 27,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 13,
+     "whole_county": true
+    }
+   ]
+  },
+  "Lee": {
+   "house": [
+    {
+     "district": 76,
+     "whole_county": false
+    },
+    {
+     "district": 77,
+     "whole_county": false
+    },
+    {
+     "district": 78,
+     "whole_county": false
+    },
+    {
+     "district": 79,
+     "whole_county": false
+    },
+    {
+     "district": 80,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 27,
+     "whole_county": false
+    },
+    {
+     "district": 28,
+     "whole_county": false
+    },
+    {
+     "district": 33,
+     "whole_county": false
+    }
+   ]
+  },
+  "Leon": {
+   "house": [
+    {
+     "district": 7,
+     "whole_county": false
+    },
+    {
+     "district": 8,
+     "whole_county": false
+    },
+    {
+     "district": 9,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 3,
+     "whole_county": true
+    }
+   ]
+  },
+  "Levy": {
+   "house": [
+    {
+     "district": 22,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 9,
+     "whole_county": true
+    }
+   ]
+  },
+  "Liberty": {
+   "house": [
+    {
+     "district": 7,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 3,
+     "whole_county": true
+    }
+   ]
+  },
+  "Madison": {
+   "house": [
+    {
+     "district": 9,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 3,
+     "whole_county": true
+    }
+   ]
+  },
+  "Manatee": {
+   "house": [
+    {
+     "district": 70,
+     "whole_county": false
+    },
+    {
+     "district": 71,
+     "whole_county": false
+    },
+    {
+     "district": 72,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 20,
+     "whole_county": false
+    },
+    {
+     "district": 22,
+     "whole_county": false
+    }
+   ]
+  },
+  "Monroe": {
+   "house": [
+    {
+     "district": 120,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 40,
+     "whole_county": true
+    }
+   ]
+  },
+  "Marion": {
+   "house": [
+    {
+     "district": 20,
+     "whole_county": false
+    },
+    {
+     "district": 21,
+     "whole_county": false
+    },
+    {
+     "district": 23,
+     "whole_county": false
+    },
+    {
+     "district": 24,
+     "whole_county": false
+    },
+    {
+     "district": 27,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 9,
+     "whole_county": true
+    }
+   ]
+  },
+  "Martin": {
+   "house": [
+    {
+     "district": 85,
+     "whole_county": false
+    },
+    {
+     "district": 86,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 31,
+     "whole_county": true
+    }
+   ]
+  },
+  "Nassau": {
+   "house": [
+    {
+     "district": 15,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 4,
+     "whole_county": true
+    }
+   ]
+  },
+  "Okaloosa": {
+   "house": [
+    {
+     "district": 3,
+     "whole_county": false
+    },
+    {
+     "district": 4,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 1,
+     "whole_county": false
+    },
+    {
+     "district": 2,
+     "whole_county": false
+    }
+   ]
+  },
+  "Okeechobee": {
+   "house": [
+    {
+     "district": 83,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 29,
+     "whole_county": true
+    }
+   ]
+  },
+  "Orange": {
+   "house": [
+    {
+     "district": 35,
+     "whole_county": false
+    },
+    {
+     "district": 37,
+     "whole_county": false
+    },
+    {
+     "district": 39,
+     "whole_county": false
+    },
+    {
+     "district": 40,
+     "whole_county": false
+    },
+    {
+     "district": 41,
+     "whole_county": false
+    },
+    {
+     "district": 42,
+     "whole_county": false
+    },
+    {
+     "district": 43,
+     "whole_county": false
+    },
+    {
+     "district": 44,
+     "whole_county": false
+    },
+    {
+     "district": 45,
+     "whole_county": false
+    },
+    {
+     "district": 47,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 10,
+     "whole_county": false
+    },
+    {
+     "district": 13,
+     "whole_county": false
+    },
+    {
+     "district": 15,
+     "whole_county": false
+    },
+    {
+     "district": 17,
+     "whole_county": false
+    },
+    {
+     "district": 25,
+     "whole_county": false
+    }
+   ]
+  },
+  "Osceola": {
+   "house": [
+    {
+     "district": 35,
+     "whole_county": false
+    },
+    {
+     "district": 45,
+     "whole_county": false
+    },
+    {
+     "district": 46,
+     "whole_county": false
+    },
+    {
+     "district": 47,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 25,
+     "whole_county": true
+    }
+   ]
+  },
+  "Palm Beach": {
+   "house": [
+    {
+     "district": 86,
+     "whole_county": false
+    },
+    {
+     "district": 87,
+     "whole_county": false
+    },
+    {
+     "district": 88,
+     "whole_county": false
+    },
+    {
+     "district": 89,
+     "whole_county": false
+    },
+    {
+     "district": 90,
+     "whole_county": false
+    },
+    {
+     "district": 91,
+     "whole_county": false
+    },
+    {
+     "district": 92,
+     "whole_county": false
+    },
+    {
+     "district": 93,
+     "whole_county": false
+    },
+    {
+     "district": 94,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 24,
+     "whole_county": false
+    },
+    {
+     "district": 26,
+     "whole_county": false
+    },
+    {
+     "district": 30,
+     "whole_county": false
+    },
+    {
+     "district": 31,
+     "whole_county": false
+    }
+   ]
+  },
+  "Pasco": {
+   "house": [
+    {
+     "district": 53,
+     "whole_county": false
+    },
+    {
+     "district": 54,
+     "whole_county": false
+    },
+    {
+     "district": 55,
+     "whole_county": false
+    },
+    {
+     "district": 56,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 11,
+     "whole_county": false
+    },
+    {
+     "district": 21,
+     "whole_county": false
+    },
+    {
+     "district": 23,
+     "whole_county": false
+    }
+   ]
+  },
+  "Pinellas": {
+   "house": [
+    {
+     "district": 57,
+     "whole_county": false
+    },
+    {
+     "district": 58,
+     "whole_county": false
+    },
+    {
+     "district": 59,
+     "whole_county": false
+    },
+    {
+     "district": 60,
+     "whole_county": false
+    },
+    {
+     "district": 61,
+     "whole_county": false
+    },
+    {
+     "district": 62,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 16,
+     "whole_county": false
+    },
+    {
+     "district": 18,
+     "whole_county": false
+    },
+    {
+     "district": 21,
+     "whole_county": false
+    }
+   ]
+  },
+  "Polk": {
+   "house": [
+    {
+     "district": 48,
+     "whole_county": false
+    },
+    {
+     "district": 49,
+     "whole_county": false
+    },
+    {
+     "district": 50,
+     "whole_county": false
+    },
+    {
+     "district": 51,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 12,
+     "whole_county": false
+    },
+    {
+     "district": 27,
+     "whole_county": false
+    }
+   ]
+  },
+  "Putnam": {
+   "house": [
+    {
+     "district": 20,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 7,
+     "whole_county": true
+    }
+   ]
+  },
+  "Santa Rosa": {
+   "house": [
+    {
+     "district": 2,
+     "whole_county": false
+    },
+    {
+     "district": 3,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 1,
+     "whole_county": true
+    }
+   ]
+  },
+  "Sarasota": {
+   "house": [
+    {
+     "district": 73,
+     "whole_county": false
+    },
+    {
+     "district": 74,
+     "whole_county": false
+    },
+    {
+     "district": 75,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 22,
+     "whole_county": true
+    }
+   ]
+  },
+  "Seminole": {
+   "house": [
+    {
+     "district": 36,
+     "whole_county": false
+    },
+    {
+     "district": 37,
+     "whole_county": false
+    },
+    {
+     "district": 38,
+     "whole_county": false
+    },
+    {
+     "district": 39,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 10,
+     "whole_county": true
+    }
+   ]
+  },
+  "St. Johns": {
+   "house": [
+    {
+     "district": 18,
+     "whole_county": false
+    },
+    {
+     "district": 19,
+     "whole_county": false
+    },
+    {
+     "district": 20,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 7,
+     "whole_county": true
+    }
+   ]
+  },
+  "St. Lucie": {
+   "house": [
+    {
+     "district": 84,
+     "whole_county": false
+    },
+    {
+     "district": 85,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 29,
+     "whole_county": false
+    },
+    {
+     "district": 31,
+     "whole_county": false
+    }
+   ]
+  },
+  "Sumter": {
+   "house": [
+    {
+     "district": 52,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 11,
+     "whole_county": true
+    }
+   ]
+  },
+  "Suwannee": {
+   "house": [
+    {
+     "district": 7,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 3,
+     "whole_county": true
+    }
+   ]
+  },
+  "Taylor": {
+   "house": [
+    {
+     "district": 7,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 3,
+     "whole_county": true
+    }
+   ]
+  },
+  "Union": {
+   "house": [
+    {
+     "district": 10,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 6,
+     "whole_county": true
+    }
+   ]
+  },
+  "Volusia": {
+   "house": [
+    {
+     "district": 27,
+     "whole_county": false
+    },
+    {
+     "district": 28,
+     "whole_county": false
+    },
+    {
+     "district": 29,
+     "whole_county": false
+    },
+    {
+     "district": 30,
+     "whole_county": false
+    }
+   ],
+   "senate": [
+    {
+     "district": 7,
+     "whole_county": false
+    },
+    {
+     "district": 8,
+     "whole_county": false
+    }
+   ]
+  },
+  "Wakulla": {
+   "house": [
+    {
+     "district": 7,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 3,
+     "whole_county": true
+    }
+   ]
+  },
+  "Walton": {
+   "house": [
+    {
+     "district": 5,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 2,
+     "whole_county": true
+    }
+   ]
+  },
+  "Washington": {
+   "house": [
+    {
+     "district": 5,
+     "whole_county": true
+    }
+   ],
+   "senate": [
+    {
+     "district": 2,
+     "whole_county": true
+    }
+   ]
+  }
+ }
+}

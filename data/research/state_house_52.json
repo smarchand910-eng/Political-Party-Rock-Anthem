@@ -1,6 +1,6 @@
 {
   "race_id": "state_house_52",
-  "verified_ballot_note": "Ballotpedia's District 52 page lists Samantha Scott (R) and Pamala Bivins (D) as the candidates for the Nov. 3, 2026 general election after the Aug. 18, 2026 primaries (https://ballotpedia.org/Florida_House_of_Representatives_District_52). Whether any write-in or NPA candidate also qualified could NOT be verified: the Sumter County Supervisor of Elections notice of general election (https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27) and Ballotpedia were blocked in this sandbox. Research limitation (two passes, Sept 2026): every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was capped, so positions are coded only from search-result snippets. Second pass found no statements by Scott on property tax/Amendment 3, insurance, immigration, guns, abortion, education or growth, and no individual roll-call votes. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
+  "verified_ballot_note": "Third pass (Sept 17, 2026): verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot, which lists Samantha Scott (REP) and Pamala Kaye Bivins (DEM) for State Representative, District 52, with no write-in line. Position research: Scott was seated March 25, 2026, after the regular session ended, so her only floor record is the June 2026 special session; her campaign site states values rather than issue positions, and no questionnaire responses were found. Bivins' site lists priorities without detailed positions. Sources: https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot ; https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf",
   "candidates": [
     {
       "id": "samantha_scott",
@@ -10,10 +10,10 @@
       "photo_url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=5070",
       "photo_source": "Florida House of Representatives member page (MemberId=5070); portrait image URL on that page not verified because the site was blocked in this sandbox",
       "website": "https://samanthascott.org/",
-      "occupation": "State Representative; businesswoman (co-owner of a Central Florida plumbing company; real estate)",
+      "occupation": "State Representative; director of marketing for Mike Scott Plumbing (family business); real estate professional; former executive director of the Sumter County Chamber of Commerce",
       "residence": "Bushnell, Sumter County",
-      "background": "Scott is a lifelong Sumter County resident from Bushnell who, with her husband Shawn, built a plumbing company that employs more than 200 people across Central Florida; she also worked in real estate and earlier served as the youngest executive director of the Sumter County Chamber of Commerce. She chaired the Republican Party of Sumter County, was appointed by Gov. Ron DeSantis to the Lake-Sumter State College District Board of Trustees, was named Sumter County Chamber Business Woman of the Year, and was a Florida delegate to the 2024 Republican National Convention. She entered the 2025-26 special election to succeed former Rep. John Temple; after Democrat Pamala Bivins withdrew and no one else qualified, the March 24, 2026 special election was cancelled and Scott was elected without opposition, assuming office March 25, 2026 (she was sworn in during a special session and at a local ceremony in the Sumter County Courthouse on April 10). She filed for the Aug. 18, 2026 Republican primary for a full term; Ballotpedia lists her and Bivins as the general-election candidates.",
-      "primary_result": "Filed for the Aug. 18, 2026 Republican primary; no Republican primary opponent found in search results (Ballotpedia lists her as the Republican candidate advancing to the Nov. 3 general). Not independently verified against the county sample ballot.",
+      "background": "Scott is a lifelong Sumter County resident from Bushnell, born June 18, 1981, in Orlando; she and her husband Shawn have five children and two grandchildren. She works as director of marketing for the family plumbing company and in real estate, and earlier served as executive director of the Sumter County Chamber of Commerce. She chaired the Sumter County Republican Executive Committee, chairs the Republican Party of Florida's Moms Coalition, was a 2024 Republican National Convention delegate, and was appointed by Gov. Ron DeSantis to the Lake-Sumter State College board of trustees in June 2025. After Rep. John Temple resigned Sept. 18, 2025, to become president of Lake-Sumter State College, Scott won the March 24, 2026 special election for District 52 without opposition after her only opponent withdrew, and was sworn in March 25, 2026, after the regular session had ended; she voted in the June 2026 special session on property taxes.",
+      "primary_result": "No primary opponent; the Sumter County sample ballot lists her as the Republican nominee for Nov. 3, 2026.",
       "positions": {
         "taxes": {
           "stance": null,
@@ -23,11 +23,27 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "On June 2, 2026, Scott voted yes on CS/HJR 1F, which placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; the measure passed the House 75-26. A vote to refer the amendment is treated here as leaning support; she has not published a statement on Amendment 3.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Floor vote for CS/HJR 1F, June 2, 2026, third reading, 75-26 (Florida House)",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "CS/HJR 1F (2026F) bill page - Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452",
+              "date": "2026-06"
+            },
+            {
+              "title": "Property tax overhaul headed to ballot; see how your legislators voted - Jacksonville Today",
+              "url": "https://jaxtoday.org/2026/06/02/property-tax-cut-ballot-florida/",
+              "date": "2026-06-02"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -141,11 +157,17 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her campaign site describes her as a 'trusted ally' of President Donald J. Trump; she was a 2024 Republican National Convention delegate and chairs the state party's Moms Coalition.",
+          "quote": "trusted ally",
+          "sources": [
+            {
+              "title": "Samantha Scott for State House - campaign website",
+              "url": "https://samanthascott.org/",
+              "date": "2026"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -207,6 +229,17 @@
               "title": "Scott sworn in for District 52 - Sumter Sun Times",
               "url": "https://www.midfloridanewspapers.com/sumter_sun_times/scott-sworn-in-for-district-52/article_66a55275-0036-4f45-97e6-af1d53985823.html",
               "date": "2026-04"
+            }
+          ]
+        },
+        {
+          "title": "'Faith, Family, and Freedom'",
+          "summary": "Campaign site frames her platform as 'Rooted in Faith, Family, and Freedom' and 'Conservative Leadership,' pledging to defend constitutional freedoms and 'fight for local families'; it does not list positions on specific bills.",
+          "sources": [
+            {
+              "title": "Samantha Scott for State House - campaign website",
+              "url": "https://samanthascott.org/",
+              "date": "2026"
             }
           ]
         }
@@ -296,6 +329,51 @@
               "date": null
             }
           ]
+        },
+        {
+          "item": "Voted yes on CS/HJR 1F (June 2, 2026), the joint resolution that put Amendment 3 (increased homestead exemption) on the November ballot.",
+          "sources": [
+            {
+              "title": "Floor vote for CS/HJR 1F, June 2, 2026, third reading, 75-26 (Florida House)",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "CS/HJR 1F (2026F) bill page - Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452",
+              "date": "2026-06"
+            }
+          ]
+        },
+        {
+          "item": "Sworn in March 25, 2026, after winning the March 24 special election unopposed; because the 2026 regular session ended March 13, District 52 had no representative during that session and she has no regular-session voting record.",
+          "sources": [
+            {
+              "title": "Samantha Scott (politician) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Samantha_Scott_(politician)",
+              "date": null
+            },
+            {
+              "title": "Representative Samantha Scott - Florida House of Representatives member page",
+              "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=5070&LegislativeTermId=91",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "item": "Chair of the Republican Party of Florida's Moms Coalition; former chair of the Sumter County Republican Executive Committee; 2024 RNC delegate; Lake-Sumter State College trustee (appointed June 2025).",
+          "sources": [
+            {
+              "title": "Samantha Scott for State House - campaign website",
+              "url": "https://samanthascott.org/",
+              "date": "2026"
+            },
+            {
+              "title": "Samantha Scott (politician) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Samantha_Scott_(politician)",
+              "date": null
+            }
+          ]
         }
       ],
       "endorsements": [
@@ -362,7 +440,7 @@
       "occupation": "Former Wildwood city commissioner and mayor pro tem",
       "residence": "Wildwood, Sumter County",
       "background": "Bivins (also known as Pamala Harrison-Bivins) was born and raised in Wildwood and is a lifetime resident. She served more than 25 years on the Wildwood City Commission, including as mayor pro tem, and resigned in November 2025 to run for the Florida House. She opened a campaign account for the HD 52 special election but withdrew before the qualifying deadline, leaving Samantha Scott unopposed; she then filed for the regular 2026 cycle as the Democratic candidate. Ballotpedia lists her as the Democratic candidate in the Aug. 18, 2026 primary advancing to the Nov. 3, 2026 general election.",
-      "primary_result": "Filed for the Aug. 18, 2026 Democratic primary; no Democratic primary opponent found in search results (Ballotpedia lists her as advancing to the Nov. 3 general). Not independently verified against the county sample ballot.",
+      "primary_result": "No primary opponent; the Sumter County sample ballot lists her as the Democratic nominee for Nov. 3, 2026.",
       "positions": {
         "taxes": {
           "stance": null,
@@ -444,6 +522,11 @@
               "title": "Villagers stand up for voting rights and warn of Trump's threats to midterm elections - Villages-News.com",
               "url": "https://www.villages-news.com/2026/07/19/villagers-stand-up-for-voting-rights-and-warn-of-trumps-threats-to-midterm-elections/",
               "date": "2026-07-19"
+            },
+            {
+              "title": "Leading Democratic candidate for governor rallies voters in The Villages - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/08/08/leading-democratic-candidate-for-governor-rallies-voters-in-the-villages/",
+              "date": "2026-08-08"
             }
           ]
         },
@@ -591,6 +674,17 @@
               "date": "2026-06-19"
             }
           ]
+        },
+        {
+          "title": "Serve the people, not a party",
+          "summary": "At a June 2026 Democratic club forum she listed health care, Social Security, Medicare, Medicaid, affordable housing and public education as priorities and said, 'You're elected to serve the people, and that's what we intend to do.'",
+          "sources": [
+            {
+              "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
+              "date": "2026-06-19"
+            }
+          ]
         }
       ],
       "record": [
@@ -631,6 +725,16 @@
               "title": "Pamala Bivins - Ballotpedia",
               "url": "https://ballotpedia.org/Pamala_Bivins",
               "date": null
+            }
+          ]
+        },
+        {
+          "item": "Spoke with voters about local infrastructure, health-care access and regional representation at an Aug. 8, 2026 rally in The Villages.",
+          "sources": [
+            {
+              "title": "Leading Democratic candidate for governor rallies voters in The Villages - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/08/08/leading-democratic-candidate-for-governor-rallies-voters-in-the-villages/",
+              "date": "2026-08-08"
             }
           ]
         }

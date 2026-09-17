@@ -1,6 +1,6 @@
 {
   "race_id": "us_senate_special",
-  "verified_ballot_note": "Ballotpedia's race page and its Aug 28, 2026 news summary, Wikipedia's race article and the Aug 6, 2026 Hy-Lo News voter guide all list the Nov 3 general-election candidates as Ashley Moody (R, incumbent), Angela 'Angie' Nixon (D) and Neil J. Gillespie (NPA); WUWF's June 12, 2026 qualifying report lists the same three plus the primary losers, and Spectrum News 13's Aug 19 results confirm Perry ran (and lost) in the Republican primary. A June 2026 online candidate guide described Gillespie as withdrawn, but every later source (Ballotpedia Aug 28, Hy-Lo News Aug 6, Palm Beach Examiner Aug 2026, Politics1) lists him as an active NPA candidate. No qualified write-in candidate was found in any source; the Florida Division of Elections candidate database (dos.elections.myflorida.com) is blocked from this environment, so the absence of a write-in could not be confirmed from the primary source (https://ballotpedia.org/United_States_Senate_special_election_in_Florida,_2026 ; https://news.ballotpedia.org/2026/08/28/special-election-to-fill-the-remainder-of-sec-of-state-marco-rubios-u-s-senate-term-happening-in-florida-on-nov-3/ ; https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida ; https://hylonewsmiami.com/2026/08/06/florida-u-s-senate-voter-guide-meet-the-candidates-in-the-2026-special-election/ ; https://www.wuwf.org/text/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election ; https://mynews13.com/fl/orlando/news/2026/08/19/u-s--senate-republican-primary-results).",
+  "verified_ballot_note": "Third pass (Sept 17, 2026): verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot, which lists Ashley Moody (REP), Angie Nixon (DEM) and Neil J. Gillespie (NPA) for United States Senator with no write-in line. Sources: https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot ; https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf",
   "candidates": [
     {
       "id": "ashley_moody",
@@ -667,6 +667,17 @@
               "date": "2025-06"
             }
           ]
+        },
+        {
+          "title": "Tax cut on Social Security income",
+          "summary": "Cites the 2025 One Big Beautiful Bill Act's tax cuts 'on tips, overtime and Social Security income' as an accomplishment; no statement found on Social Security benefit levels or solvency.",
+          "sources": [
+            {
+              "title": "Ashley Moody enters Florida U.S. Senate race as fundraising battle with Alex Vindman takes shape - CBS Miami",
+              "url": "https://www.cbsnews.com/miami/news/florida-us-senate-race-ashley-moody-alex-vindman-2026/",
+              "date": "2026-04-24"
+            }
+          ]
         }
       ],
       "record": [
@@ -1058,7 +1069,7 @@
           "stance": -2,
           "confidence": "stated",
           "summary": "Nixon calls mass deportation a 'moral failure,' says she would abolish ICE and rebuild immigration enforcement, supports a moratorium on deportations pending an audit of enforcement practices, a 'swift' path to citizenship for Dreamers and undocumented residents, and renewal and expansion of TPS. She joined advocates urging Miami to end its 287(g) agreement with ICE and has called ICE agents 'modern-day slave catchers.'",
-          "quote": null,
+          "quote": "a swift path to citizenship for Dreamers and undocumented residents",
           "sources": [
             {
               "title": "Angie Nixon for U.S. Senate - Priorities",
@@ -1091,7 +1102,7 @@
           "stance": 2,
           "confidence": "record",
           "summary": "Nixon voted against Florida's six-week abortion ban in the Legislature and supports protecting and expanding access to abortion and reproductive care, describing restrictions as a threat to Black maternal health and bodily autonomy. In 2021 she warned that Republican control would bring a 'full-scale assault on a woman's right to choose,' and she opposed a fetal-personhood measure, calling it 'devastating.'",
-          "quote": null,
+          "quote": "the right to abortion, contraception, and IVF, free from political interference",
           "sources": [
             {
               "title": "Angie Nixon: Dems losing in 2022 would lead to 'full-scale assault on a woman's right to choose' - Florida Politics",
@@ -1112,6 +1123,11 @@
               "title": "Angie Nixon - Wikipedia",
               "url": "https://en.wikipedia.org/wiki/Angie_Nixon",
               "date": null
+            },
+            {
+              "title": "Angie Nixon for U.S. Senate - Priorities",
+              "url": "https://angienixon.com/priorities/",
+              "date": "2026"
             }
           ]
         },
@@ -1333,7 +1349,7 @@
           "stance": 2,
           "confidence": "record",
           "summary": "In March 2025 Nixon joined Florida Democratic legislators in a letter urging the Public Service Commission to reject Florida Power & Light's proposed rate increase (the PSC approved a roughly $7 billion increase in November 2025). Her platform calls for a 'union-built' transition to renewable energy with jobs in wind, solar and grid modernization, ending fossil-fuel subsidies and making polluters pay.",
-          "quote": null,
+          "quote": "a bold, union-built transition to renewable energy",
           "sources": [
             {
               "title": "Florida Democratic Lawmakers Urge Public Service Commission to Reject FPL Rate Hike - Rep. Anna Eskamani",
@@ -1606,6 +1622,17 @@
               "date": "2026-08"
             }
           ]
+        },
+        {
+          "title": "End the war in Iran; cut the defense budget",
+          "summary": "Priorities page calls for an 'end to the war in Iran' and opposes the '$1.01 trillion defense budget'; it does not mention Ukraine.",
+          "sources": [
+            {
+              "title": "Angie Nixon for U.S. Senate - Priorities",
+              "url": "https://angienixon.com/priorities/",
+              "date": "2026"
+            }
+          ]
         }
       ],
       "record": [
@@ -1840,10 +1867,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": "No public portrait URL found",
-      "website": "https://neilgillespie4senate.blogspot.com/",
+      "website": "https://neil4justice.blogspot.com/",
       "occupation": "Blogger and self-described public-interest advocate; pro se litigant and justice-reform activist",
       "residence": "Ocala, Marion County",
-      "background": "Neil J. Gillespie, 68, is an Ocala (Oak Run) resident, blogger and founder of 'Justice Network,' which he describes as advocacy, education and news-gathering to help people fight injustice. Describing himself as a disabled non-lawyer, he has litigated pro se for years, including a challenge to the constitutionality of the federal Home Equity Conversion (reverse) Mortgage program arising from a foreclosure on his homestead that he took to the Florida Supreme Court and, by certiorari petitions, to the U.S. Supreme Court (Nos. 17-8689 and 18-7225). He has previously run for Ocala mayor and filed federal committees for president. He filed for the U.S. Senate special election in March 2026, paid the $6,060 no-party-affiliation qualifying fee in June 2026 and, as an NPA candidate, advanced directly to the November 3 general election without a primary. He describes himself as a 'working-class capitalist,' says he is fed up with the two-party 'duopoly,' invokes George Washington's warning about political factions, and promises an 'independent voice' in Washington. He has not completed Ballotpedia's candidate survey.",
+      "background": "Neil J. Gillespie, 68, is an Ocala (Oak Run) resident, blogger and founder of 'Justice Network,' which he describes as advocacy, education and news-gathering to help people fight injustice. Describing himself as a disabled non-lawyer, he has litigated pro se for years, including a challenge to the constitutionality of the federal Home Equity Conversion (reverse) Mortgage program arising from a foreclosure on his homestead that he took to the Florida Supreme Court and, by certiorari petitions, to the U.S. Supreme Court (Nos. 17-8689 and 18-7225). He has previously run for Ocala mayor and filed federal committees for president. He filed for the U.S. Senate special election in March 2026, paid the $6,060 no-party-affiliation qualifying fee in June 2026 and, as an NPA candidate, advanced directly to the November 3 general election without a primary. He describes himself as a 'working-class capitalist,' says he is fed up with the two-party 'duopoly,' invokes George Washington's warning about political factions, and promises an 'independent voice' in Washington. He has not completed Ballotpedia's candidate survey. His blog (2026) gives his age as 70, says he funds his advocacy from Social Security retirement income, and describes a 1988 traumatic brain injury and a speech impairment.",
       "primary_result": "No primary (NPA candidate advanced directly to the Nov 3 general election)",
       "positions": {
         "taxes": {
@@ -2045,6 +2072,39 @@
               "title": "Who Will Florida Voters Send to the U.S. Senate in November? - Palm Beach Examiner",
               "url": "https://palmbeachexaminer.substack.com/p/who-will-florida-voters-send-to-the",
               "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "title": "Abolish PACER fees",
+          "summary": "Says 'it's time for Congress to abolish the fees altogether' for federal court records, arguing the judiciary overcharged the public.",
+          "sources": [
+            {
+              "title": "Neil Gillespie - Justice Network blog (candidate's site)",
+              "url": "https://neil4justice.blogspot.com/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "A 'People's union' for pro se litigants",
+          "summary": "Writes that 'it is time for a People's union to support nonlawyers who appear pro se in court.'",
+          "sources": [
+            {
+              "title": "Neil Gillespie - Justice Network blog (candidate's site)",
+              "url": "https://neil4justice.blogspot.com/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Health-care costs and dialysis transportation",
+          "summary": "Criticizes dialysis providers for not arranging patient transportation and asks why 'healthcare in America costs so much.'",
+          "sources": [
+            {
+              "title": "Neil Gillespie - Justice Network blog (candidate's site)",
+              "url": "https://neil4justice.blogspot.com/",
+              "date": "2026"
             }
           ]
         }

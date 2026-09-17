@@ -31,6 +31,8 @@ jobs:
           python-version: '3.x'
       - name: Merge research data into data/guide.js
         run: python3 scripts/build_data.py
+      - name: Build statewide county line-ups into data/statewide.js
+        run: python3 scripts/build_statewide.py
       - name: Install Playwright (used to prerender each page for search engines)
         run: |
           npm init -y >/dev/null

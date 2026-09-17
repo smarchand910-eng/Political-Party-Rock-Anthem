@@ -1,45 +1,46 @@
 {
   "election": "Florida General Election, November 3, 2026",
-  "research_note": "Second pass Sept 17, 2026. Fetching of files.floridados.gov (official amendment booklet, updated Aug. 21, 2026), ballotpedia.org, flsenate.gov, floridapolicy.org, lwvfl.org and floridafarmbureau.org remained blocked, so ballot language is reproduced from search-result snippets that quote it. Items marked VERBATIM match two or more snippets; items marked UNVERIFIED should be checked against the Division of Elections booklet: https://files.floridados.gov/media/711355/eng-2026-booklet-constitutional-amendpub-updated-20260821.pdf",
+  "research_note": "Third pass Sept 17, 2026. The official Florida Division of Elections booklet 'Proposed Constitutional Amendments for the General Election (November 3, 2026)' (25 pages, updated Aug. 21, 2026) was downloaded and its text extracted; every ballot title and ballot summary below is copied from that PDF. The Sumter County 2026 General Election sample ballot (posted by the Supervisor of Elections, DocumentCenter/View/332) was also viewed and shows the same three amendments with identical text. Count confirmed: exactly three legislatively referred amendments (Nos. 1-3); no citizen initiative or additional legislative referral appears in the booklet or on the Sumter sample ballot. Booklet: https://files.floridados.gov/media/711355/eng-2026-booklet-constitutional-amendpub-updated-20260821.pdf ; Sumter sample ballot: https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
   "threshold_note": "All three are legislatively referred constitutional amendments; each requires approval by at least 60% of those voting on the question (Fla. Const. art. XI, s. 5(e)).",
   "amendments": [
     {
       "number": 1,
       "title": "Budget Stabilization Fund",
-      "title_note": "Ballot title as listed on the Florida Division of Elections constitutional-amendment index (constitutionalinitiatives.dos.fl.gov, seqnum 108) and by Ballotpedia; the booklet prints it in capitals.",
-      "ballot_summary": "Proposing an amendment to the State Constitution to increase the amount of funds that may be retained in the budget stabilization fund from 10 percent to 25 percent of general revenue collections, require the Legislature to transfer the lesser of $750 million or the amount required to reach 25 percent of general revenue collections each year unless certain conditions are met, and allow the Legislature to withdraw funds for critical state needs.",
-      "ballot_summary_note": "VERBATIM as quoted by Sparker's Soapbox and Ballotpedia (search snippets agree); not checked against the official booklet PDF.",
-      "sponsor": "HJR 5019 (2025 Regular Session), Florida House of Representatives. Passed the House 100-1 and the Senate 29-4 (June 2025).",
-      "what_yes_means": "A YES vote raises the constitutional cap on the state's rainy-day reserve (the Budget Stabilization Fund) from 10% to 25% of general revenue collections; requires the Legislature to deposit the lesser of $750 million or the amount needed to reach the cap each year, except in years when the fund is drawn down (for example after a hurricane or other disaster or to cover a projected revenue shortfall) or when the Legislature determines there is a critical state need; and allows the Legislature to withdraw money from the fund for 'critical state needs' in addition to existing withdrawals for emergencies and revenue shortfalls.",
+      "title_note": "VERIFIED against the Division of Elections booklet (Aug. 21, 2026 update), which prints the ballot title as 'BUDGET STABILIZATION FUND.—' (Article III, Section 19). The Sumter County sample ballot prints it as 'Budget Stabilization Fund'.",
+      "ballot_summary": "Proposing an amendment to the State Constitution to increase the amount of funds that may be retained in the budget stabilization fund from 10% to 25% of general revenue collections, require the legislature to transfer the lesser of $750 million or the amount required to reach 25% of the general revenue collections each year unless certain conditions are met, and allow the legislature to withdraw funds for critical state needs.",
+      "ballot_summary_note": "VERIFIED verbatim against the Division of Elections booklet PDF and the Sumter County sample ballot (Sept. 17, 2026). Earlier text in this file spelled out 'percent' and capitalized 'Legislature'; the official text uses '10% to 25%', 'the legislature' and '25% of the general revenue collections'.",
+      "sponsor": "HJR 5019 (2025 Regular Session), sponsored by Rep. McClure. Passed the House 100-1 and the Senate 29-4 on June 16, 2025; signed by officers and filed with the Secretary of State June 17, 2025 (flsenate.gov bill page, fetched Sept. 17, 2026).",
+      "what_yes_means": "A YES vote raises the constitutional cap on the state's rainy-day reserve (the Budget Stabilization Fund) from 10% to 25% of general revenue collections; requires the Legislature to deposit each year the lesser of $750 million or the amount needed to reach the cap, except in a year when the fund is drawn down for an emergency or revenue shortfall, or (no more than once every five years, by a two-thirds vote of each house) when the Legislature finds a critical state need that exceeds the transfer; and allows the Legislature to withdraw money for a nonrecurring 'critical state need' when the fund's principal exceeds 15% of general revenue collections and two-thirds of each house approves, in addition to existing withdrawals for emergencies and revenue shortfalls (LWVFL analysis of the amendment text, July 21, 2026).",
       "what_no_means": "A NO vote keeps the current constitutional structure: the fund is capped at 10% of general revenue collections, and existing rules for deposits and withdrawals (for emergencies and revenue shortfalls) remain unchanged.",
-      "fiscal_impact": "Legislatively referred amendments do not carry a Financial Impact Estimating Conference statement. The measure directs the Legislature to move up to $750 million a year of general revenue into the fund until the 25% cap is reached, which reduces general revenue available for other spending or tax cuts in those years (WUSF/Ballotpedia). Legislative staff-analysis dollar figures were not retrievable in this sandbox (UNVERIFIED).",
+      "fiscal_impact": "Legislatively referred amendments do not carry a Financial Impact Estimating Conference statement. The League of Women Voters of Florida's analysis (July 21, 2026) summarizes the legislative fiscal statement as 'indeterminate, but likely insignificant' for the state. The measure directs up to $750 million a year of general revenue into the fund until the 25% cap is reached, which reduces general revenue available for other spending or tax cuts in those years; the FY 2025-26 state budget already set aside a $750 million deposit contingent on voter approval (Florida TaxWatch budget summary, search snippet). For FY 2024-25 the fund held about 9.3% of general revenue collections (LWVFL analysis).",
       "fiscal_impact_sources": [
-        "https://ballotpedia.org/Florida_Changes_to_Budget_Stabilization_Fund_Amendment_(2026)",
-        "https://www.wusf.org/politics-issues/2026-09-15/desantis-splits-with-gop-amendment-1-reserve-funds",
-        "https://www.flsenate.gov/Committees/billsummaries/2025/html/5019"
+        "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
+        "https://floridataxwatch.org/legislative-policy/budget/",
+        "https://www.flsenate.gov/Session/Bill/2025/5019",
+        "https://www.wusf.org/politics-issues/2026-09-15/desantis-splits-with-gop-amendment-1-reserve-funds"
       ],
       "supporters": [
         {
           "who": "Republican Party of Florida",
-          "argument": "The state party's official account announced in September 2026 that 'the Florida GOP has officially endorsed Amendment 1,' describing a larger reserve as protection for state finances in downturns and emergencies.",
+          "argument": "Endorsed Amendment 1 in September 2026. Party statement (quoted by WUSF, Sept. 15, 2026): 'This amendment will help strengthen Florida's rainy day fund so the state can handle storms, downturns, and other emergencies without raising taxes or raiding the budget.'",
           "sources": [
-            "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/",
-            "https://www.wusf.org/politics-issues/2026-09-15/desantis-splits-with-gop-amendment-1-reserve-funds"
+            "https://www.wusf.org/politics-issues/2026-09-15/desantis-splits-with-gop-amendment-1-reserve-funds",
+            "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/"
           ]
         },
         {
           "who": "Florida Legislature (bipartisan referral vote)",
-          "argument": "HJR 5019 passed the House 100-1 and the Senate 29-4; sponsors described the change as building a stronger cushion for hurricanes, economic downturns and budget shortfalls.",
+          "argument": "HJR 5019 passed the House 100-1 and the Senate 29-4 on June 16, 2025. Former House Speaker Daniel Perez cited the state's lack of reserves during the 2000s recession as the reason to build a larger cushion (WUSF).",
           "sources": [
-            "https://news.ballotpedia.org/2025/06/19/florida-voters-to-decide-on-changes-to-budget-stabilization-fund-in-2026/",
-            "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=82516"
+            "https://www.flsenate.gov/Session/Bill/2025/5019",
+            "https://www.wusf.org/politics-issues/2026-09-15/desantis-splits-with-gop-amendment-1-reserve-funds"
           ]
         }
       ],
       "opponents": [
         {
           "who": "Gov. Ron DeSantis",
-          "argument": "On Sept. 14-15, 2026 the governor called Amendment 1 'a foolish constitutional amendment proposal,' said 'we already have a maxed out rainy day fund and have run the largest surpluses in state history,' argued extra revenue should go to lower taxes (including help for local governments with property-tax exemptions and removing tolls), and recommended a NO vote.",
+          "argument": "On Sept. 14-15, 2026 the governor called Amendment 1 'a foolish constitutional amendment proposal,' said 'we already have a maxed out rainy day fund and have run the largest surpluses in state history,' argued surplus revenue should go to tax cuts and removing tolls, and recommended a NO vote (WUSF, Sept. 15, 2026, fetched).",
           "sources": [
             "https://www.wusf.org/politics-issues/2026-09-15/desantis-splits-with-gop-amendment-1-reserve-funds",
             "https://www.clickorlando.com/news/florida/2026/09/15/foolish-gov-desantis-blasts-florida-republicans-over-new-amendment-proposal/",
@@ -47,9 +48,18 @@
           ]
         },
         {
-          "who": "No organized opposition group identified",
-          "argument": "As of Sept. 17, 2026, searches found no organization formally campaigning against Amendment 1. Explanatory coverage (Bradenton Times, VOTE411) notes the trade-off that mandatory deposits reduce money available for current-year spending or tax cuts.",
+          "who": "House Democratic Leader Fentrice Driskell (legislative debate)",
+          "argument": "Argued the money would be better spent on immediate needs: 'You don't get to talk about saving money for a rainy day when it's still raining, and it's already raining on the people in Florida' (quoted in WFLA/Hoodline coverage; search snippet, Sept. 2026).",
           "sources": [
+            "https://www.wfla.com/news/politics/desantis-breaks-with-gop-over-budget-stabilization-amendment/",
+            "https://hoodline.com/2026/09/desantis-calls-gop-push-for-bigger-rainy-day-fund-foolish/"
+          ]
+        },
+        {
+          "who": "No organized opposition campaign identified",
+          "argument": "The League of Women Voters of Florida's July 21, 2026 analysis lists 'Opponents - None known at this time' and takes no position on Amendment 1; Florida TaxWatch, Florida Policy Institute, the Florida Chamber and Americans for Prosperity had no published position found as of Sept. 17, 2026. Explanatory coverage (Bradenton Times, VOTE411) notes the trade-off that mandatory deposits reduce money available for current-year spending or tax cuts.",
+          "sources": [
+            "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
             "https://thebradentontimes.com/stories/2026-constitutional-amendment-1-budget-stabilization-fund,212210",
             "https://onyourballot.vote411.org/race-detail.do?id=71659260"
           ]
@@ -57,43 +67,60 @@
       ],
       "threshold": "60%",
       "sources": [
+        "https://files.floridados.gov/media/711355/eng-2026-booklet-constitutional-amendpub-updated-20260821.pdf",
+        "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+        "https://www.flsenate.gov/Session/Bill/2025/5019",
         "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=108",
         "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=82516",
-        "https://www.flsenate.gov/Session/Bill/2025/5019",
-        "https://ballotpedia.org/Florida_Changes_to_Budget_Stabilization_Fund_Amendment_(2026)",
-        "https://news.ballotpedia.org/2025/06/19/florida-voters-to-decide-on-changes-to-budget-stabilization-fund-in-2026/",
-        "https://www.sparkers-soapbox.com/florida-amendment-1-budget-stabilization-fund-2026/",
+        "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
         "https://www.wusf.org/politics-issues/2026-09-15/desantis-splits-with-gop-amendment-1-reserve-funds",
         "https://www.clickorlando.com/news/florida/2026/09/15/foolish-gov-desantis-blasts-florida-republicans-over-new-amendment-proposal/",
         "https://onyourballot.vote411.org/race-detail.do?id=71659260",
         "https://thebradentontimes.com/stories/2026-constitutional-amendment-1-budget-stabilization-fund,212210",
-        "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/"
+        "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/",
+        "https://ballotpedia.org/Florida_Changes_to_Budget_Stabilization_Fund_Amendment_(2026)"
       ],
       "sponsor_sources": [
-        "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=82516",
         "https://www.flsenate.gov/Session/Bill/2025/5019",
-        "https://news.ballotpedia.org/2025/06/19/florida-voters-to-decide-on-changes-to-budget-stabilization-fund-in-2026/"
+        "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=82516",
+        "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf"
+      ],
+      "constitution_sections": "Article III, Section 19",
+      "neutral_analyses": [
+        {
+          "who": "League of Women Voters of Florida analysis (no position on Amendment 1)",
+          "url": "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf"
+        },
+        {
+          "who": "VOTE411 (League of Women Voters)",
+          "url": "https://onyourballot.vote411.org/race-detail.do?id=71659260"
+        },
+        {
+          "who": "Bradenton Times explainer",
+          "url": "https://thebradentontimes.com/stories/2026-constitutional-amendment-1-budget-stabilization-fund,212210"
+        }
       ]
     },
     {
       "number": 2,
       "title": "Exemption of Tangible Personal Property on Agricultural Land from Taxation",
-      "title_note": "VERBATIM ballot title (printed in capitals on the ballot) per Ballotpedia and the Division of Elections index (seqnum 109).",
-      "ballot_summary": "Proposing an amendment to the State Constitution to exempt tangible personal property habitually located or typically present on land classified as agricultural, used in the production of agricultural products or for agritourism activities, and owned by the landowner or leaseholder of the agricultural land from ad valorem taxation.",
-      "ballot_summary_note": "First sentence VERBATIM per Ballotpedia snippet. The summary may continue with language authorizing the Legislature to define terms and limit the exemption by general law and an effective date of Jan. 1, 2027 (Ballotpedia describes both provisions); that remainder is UNVERIFIED against the official booklet.",
-      "sponsor": "CS/HJR 1215 (2025 Regular Session), filed Feb. 26, 2025 by Rep. Danny Alvarez. Passed the House 110-1 (Rep. Anna Eskamani the lone no vote) and the Senate 37-0.",
+      "title_note": "VERIFIED against the Division of Elections booklet, which prints 'EXEMPTION OF TANGIBLE PERSONAL PROPERTY ON AGRICULTURAL LAND FROM TAXATION. —' (Article VII, Section 3; Article XII); the Sumter County sample ballot prints it in title case.",
+      "ballot_summary": "Proposing an amendment to the State Constitution to exempt tangible personal property habitually located or typically present on land classified as agricultural, used in the production of agricultural products or for agritourism activities, and owned by the landowner or leaseholder of the agricultural land from ad valorem taxation. If approved this amendment would first apply for tax years beginning January 1, 2027.",
+      "ballot_summary_note": "VERIFIED verbatim against the Division of Elections booklet PDF and the Sumter County sample ballot (Sept. 17, 2026). The earlier file was missing the second sentence about the Jan. 1, 2027 effective date; the summary does not mention the Legislature's power to define terms (that appears only in the amendment text).",
+      "sponsor": "CS/HJR 1215 (2025 Regular Session), sponsored by the House State Affairs Committee and Reps. Danny Alvarez, Barnaby, Chamberlin, Fabricio, J. López, Maggard, Owen, Salzman and Yarkosky. Passed the House 110-1 on April 25, 2025 and the Senate 37-0 on May 2, 2025; filed with the Secretary of State June 18, 2025 (flsenate.gov bill page, fetched Sept. 17, 2026).",
       "what_yes_means": "A YES vote exempts qualifying tangible personal property (for example tractors, irrigation equipment and other farm machinery) that is normally kept on agricultural land, used to produce agricultural products or for agritourism, and owned by the land's owner or lessee, from county, city, school and special-district property taxes beginning with the 2027 tax year, and lets the Legislature define and limit the exemption by law.",
       "what_no_means": "A NO vote keeps current law, under which tangible personal property used in agriculture remains subject to local ad valorem taxation (subject to the existing $25,000 tangible personal property exemption).",
-      "fiscal_impact": "Legislatively referred amendments do not carry a Financial Impact Estimating Conference statement. State economists at Florida's Revenue Estimating Conference projected no impact on state revenues and at least $28.7 million a year less for local governments statewide (Spectrum News 13, citing the legislative analysis). Rep. Anna Eskamani cited a roughly $30 million local fiscal impact when voting no.",
+      "fiscal_impact": "Legislatively referred amendments do not carry a Financial Impact Estimating Conference statement. The Legislature's bill analysis reports that the Revenue Estimating Conference projected no state impact and a negative recurring impact on local government revenues of about $31 million beginning in FY 2027-28 (LWVFL analysis citing the analysis; a Senate analysis snippet gives $31 million in 2027-28, $32.3 million in 2028-29 and $33.6 million in 2029-30). Rep. Anna Eskamani cited roughly $30 million when casting the lone no vote.",
       "fiscal_impact_sources": [
-        "https://mynews13.com/fl/orlando/news/2026/04/09/floridians-to-vote-on-amendment-on-tangible-property-tax-for-agricultural-businesses",
+        "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
+        "https://www.flsenate.gov/Session/Bill/2025/318/Analyses/2025s00318.ft.PDF",
         "https://www.flsenate.gov/Session/Bill/2025/1215/Analyses/h1215z.WMC.PDF",
-        "https://ballotpedia.org/Florida_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)"
+        "https://mynews13.com/fl/orlando/news/2026/04/09/floridians-to-vote-on-amendment-on-tangible-property-tax-for-agricultural-businesses"
       ],
       "supporters": [
         {
           "who": "Florida Farm Bureau Federation",
-          "argument": "Published 'Vote YES on Amendment 2,' saying farmers and ranchers currently pay annual taxes on equipment already taxed at purchase, and that lowering the cost of doing business protects local food production, preserves family farms and keeps Florida agriculture strong.",
+          "argument": "'Vote YES on Amendment 2' (Sept. 11, 2026): 'Florida farmers and ranchers pay annual taxes on farm equipment that was already taxed when it was purchased.' The Farm Bureau says the exemption covers equipment, not land or buildings, and that 'reducing the cost of doing business for Florida farmers and ranchers would protect local food production, preserve family farms and keep Florida agriculture strong for future generations.' (page fetched Sept. 17, 2026)",
           "sources": [
             "https://floridafarmbureau.org/news/vote-yes-on-amendment-2/"
           ]
@@ -106,90 +133,112 @@
           ]
         },
         {
-          "who": "Rep. Danny Alvarez (sponsor) and the Florida Legislature",
-          "argument": "The sponsor argued the exemption removes a financial barrier for struggling farmers and lets them reinvest in operations; the joint resolution passed 110-1 and 37-0.",
+          "who": "Florida Legislature (sponsor Rep. Danny Alvarez; near-unanimous referral)",
+          "argument": "The sponsor argued the exemption removes a financial barrier for farmers and lets them reinvest in operations (Ballotpedia snippet); the joint resolution passed 110-1 and 37-0.",
           "sources": [
-            "https://ballotpedia.org/Florida_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)",
-            "https://floridapolitics.com/archives/736070-legislature-votes-to-put-agriculture-tax-cut-on-statewide-ballot-in-2026/"
+            "https://www.flsenate.gov/Session/Bill/2025/1215",
+            "https://ballotpedia.org/Florida_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)"
           ]
         }
       ],
       "opponents": [
         {
           "who": "Rep. Anna Eskamani (D-Orlando)",
-          "argument": "Cast the only vote against HJR 1215, saying it would cost local governments about $30 million with no guardrails to prevent windfalls.",
+          "argument": "Cast the only vote against HJR 1215, saying it would cost local governments about $30 million with no guardrails to prevent windfalls and would mostly benefit large agribusinesses with multiple tangible-property accounts (Ballotpedia snippet).",
           "sources": [
             "https://ballotpedia.org/Florida_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)"
           ]
         },
         {
           "who": "No organized opposition group identified",
-          "argument": "As of Sept. 17, 2026, searches found no organization formally campaigning against Amendment 2. Explanatory coverage notes the exemption shifts a share of local tax burden away from agricultural operations and reduces local revenue.",
+          "argument": "The League of Women Voters of Florida analysis (July 21, 2026) lists 'Opponents: None known at this time' and takes no position; Florida TaxWatch, Florida Policy Institute, Florida Association of Counties, Florida League of Cities, the Florida Chamber and Americans for Prosperity had no published position on Amendment 2 found as of Sept. 17, 2026. Explanatory coverage notes the exemption reduces local revenue and shifts a share of the local tax burden away from agricultural operations.",
           "sources": [
+            "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
             "https://thebradentontimes.com/stories/2026-constitutional-amendment-2-agricultural-tangible-personal-property-tax-exemption,212219"
           ]
         }
       ],
       "threshold": "60%",
       "sources": [
-        "https://ballotpedia.org/Florida_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)",
+        "https://files.floridados.gov/media/711355/eng-2026-booklet-constitutional-amendpub-updated-20260821.pdf",
+        "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+        "https://www.flsenate.gov/Session/Bill/2025/1215",
         "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=109",
-        "https://www.flsenate.gov/Session/Bill/2025/1215/Analyses/h1215z.WMC.PDF",
-        "https://www.flsenate.gov/Committees/billsummaries/2025/html/1215",
-        "https://mynews13.com/fl/orlando/news/2026/04/09/floridians-to-vote-on-amendment-on-tangible-property-tax-for-agricultural-businesses",
-        "https://floridapolitics.com/archives/736070-legislature-votes-to-put-agriculture-tax-cut-on-statewide-ballot-in-2026/",
+        "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
         "https://floridafarmbureau.org/news/vote-yes-on-amendment-2/",
-        "https://www.aginfo.net/report/62493/Southeast-Regional-Ag-News/Florida-Voters-to-Decide-on-Agricultural-Tax-Break-in-2026",
+        "https://www.flsenate.gov/Session/Bill/2025/1215/Analyses/h1215z.WMC.PDF",
+        "https://www.flsenate.gov/Session/Bill/2025/318/Analyses/2025s00318.ft.PDF",
+        "https://mynews13.com/fl/orlando/news/2026/04/09/floridians-to-vote-on-amendment-on-tangible-property-tax-for-agricultural-businesses",
+        "https://ballotpedia.org/Florida_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)",
         "https://thebradentontimes.com/stories/2026-constitutional-amendment-2-agricultural-tangible-personal-property-tax-exemption,212219"
       ],
       "sponsor_sources": [
+        "https://www.flsenate.gov/Session/Bill/2025/1215",
         "https://www.flsenate.gov/Session/Bill/2025/1215/Analyses/h1215z.WMC.PDF",
-        "https://www.flsenate.gov/Committees/billsummaries/2025/html/1215",
-        "https://floridapolitics.com/archives/736070-legislature-votes-to-put-agriculture-tax-cut-on-statewide-ballot-in-2026/"
+        "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf"
+      ],
+      "constitution_sections": "Article VII, Section 3; Article XII",
+      "neutral_analyses": [
+        {
+          "who": "League of Women Voters of Florida analysis (no position on Amendment 2)",
+          "url": "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf"
+        },
+        {
+          "who": "Bradenton Times explainer",
+          "url": "https://thebradentontimes.com/stories/2026-constitutional-amendment-2-agricultural-tangible-personal-property-tax-exemption,212219"
+        }
       ]
     },
     {
       "number": 3,
       "title": "Increased Homestead Exemption; Lower Cap on Increases in Non-Homestead Property Assessments",
-      "title_note": "VERBATIM current ballot title. The Legislature's original title, 'Save Our Homes From Excessive Property Taxes,' was struck by Leon County Circuit Judge David Frank on Aug. 3-4, 2026 as 'more akin to a political slogan'; Attorney General James Uthmeier issued the rewritten title and summary on Aug. 13-14, 2026, and Gov. DeSantis said the state would not appeal. The Division of Elections booklet was updated Aug. 21, 2026.",
-      "ballot_summary": "This amendment increases the homestead exemption, for all non-school taxes, to $150,000 in 2027 and $250,000 in 2028, and adjusts for inflation thereafter. It requires the Legislature to prescribe a uniform procedure for counties and municipalities, for their respective levies, to increase the homestead exemption up to full assessed value, and allows special districts, subject to referendum approval, to do the same. Persons who are not Florida residents on December 31, 2026, will receive the existing homestead exemption upon qualifying for a homestead exemption, with the increased homestead exemption beginning with the fifth year of exemption, to the extent permitted by the U.S. Constitution. This amendment reduces the annual cap on assessment increases for non-homestead properties from 10% to 5%.",
-      "ballot_summary_note": "VERBATIM rewritten summary as quoted by Jones Walker LLP and CBS12 from the Attorney General's Aug. 13, 2026 filing. Confirm against the Aug. 21, 2026 Division of Elections booklet; whether the court formally approved the rewrite before the booklet update was not confirmed in this sandbox.",
-      "sponsor": "CS/HJR 1F (2026 Special Session F), Florida House of Representatives; the special session on property-tax relief was called by Gov. Ron DeSantis. Ballot language rewritten by the Attorney General under court order in August 2026.",
-      "what_yes_means": "A YES vote raises the homestead exemption that applies to county, city and special-district (non-school) taxes from the current $50,000 to $150,000 in 2027 and $250,000 in 2028, indexed to inflation afterward; requires the Legislature to set a uniform procedure by which counties and cities may raise the exemption for their own levies up to a home's full assessed value, and lets special districts do the same with voter approval; phases the larger exemption in for people who are not Florida residents on Dec. 31, 2026 (they get the existing exemption first and the increased exemption starting in their fifth year); and lowers the annual assessment-increase cap on non-homestead property (rentals, second homes, businesses) from 10% to 5%. The $25,000 school-tax exemption and the existing 3% Save Our Homes assessment cap for homesteads are unchanged.",
+      "title_note": "VERIFIED against the Division of Elections booklet (updated Aug. 21, 2026), which prints 'INCREASED HOMESTEAD EXEMPTION; LOWER CAP ON INCREASES IN NON-HOMESTEAD PROPERTY ASSESSMENTS.—' (Article VII, Sections 4, 6 and 9; Article XII), and against the Sumter County sample ballot. The Legislature's original title, 'Save Our Homes From Excessive Property Taxes,' was struck by Leon County Circuit Judge David Frank on Aug. 3-4, 2026 as 'more akin to a political slogan'; Attorney General James Uthmeier issued the rewritten title and summary Aug. 13-14, 2026, and the state did not appeal.",
+      "ballot_summary": "This amendment increases the homestead exemption, for all non-school taxes, to $150,000 in 2027 and $250,000 in 2028, and adjusts for inflation thereafter. It requires the Legislature to prescribe a uniform procedure for counties and municipalities, for their respective levies, to increase the homestead exemption up to full assessed value, and allows special districts, subject to referendum approval, to do the same.\n\nPersons who are not Florida residents on December 31, 2026, will receive the existing homestead exemption upon qualifying for a homestead exemption, with the increased homestead exemption beginning with the fifth year of exemption, to the extent permitted by the U.S. Constitution.\n\nThis amendment reduces the annual cap on assessment increases for non-homestead properties from 10% to 5%.\n\nThis amendment requires counties and municipalities to use property taxes solely for public safety, education and schools, infrastructure, natural resources, bond debt service, retirement benefits for employees, and operations and administration. Other expenditures may be approved by county officers or county or municipal governing bodies unless prohibited by general law, notwithstanding Article VII, Section 9(a) of the Florida Constitution, which allows counties and municipalities to levy property taxes for their respective purposes.\n\nThis amendment takes effect January 1, 2027.",
+      "ballot_summary_note": "VERIFIED verbatim (five paragraphs) against the Division of Elections booklet PDF and the Sumter County sample ballot (Sept. 17, 2026). The earlier file omitted the fourth paragraph (restricting what counties and municipalities may spend property taxes on) and the effective-date sentence; both are on the official ballot.",
+      "sponsor": "CS/HJR 1F (2026 Special Session F), sponsored by the House State Affairs Committee and Rep. Overdorf; the special session on property taxes was called by Gov. Ron DeSantis. Passed the House 75-26 and the Senate 30-9 on June 2, 2026; filed with the Secretary of State June 16, 2026 (flhouse.gov bill page, fetched Sept. 17, 2026; the LWVFL analysis reports the House vote as 75-27). Ballot title and summary rewritten by the Attorney General under court order in August 2026.",
+      "what_yes_means": "A YES vote raises the homestead exemption that applies to county, city and special-district (non-school) taxes from the current $50,000 to $150,000 in 2027 and $250,000 in 2028, indexed to inflation afterward; requires the Legislature to set a uniform procedure by which counties and cities may raise the exemption for their own levies up to a home's full assessed value, and lets special districts do the same with voter approval; phases the larger exemption in for people who are not Florida residents on Dec. 31, 2026 (they get the existing exemption first and the increased exemption starting in their fifth year of exemption); lowers the annual assessment-increase cap on non-homestead property (rentals, second homes, businesses) from 10% to 5%; and limits county and municipal property-tax spending to public safety, education and schools, infrastructure, natural resources, bond debt service, employee retirement benefits, and operations and administration, with other spending allowed if approved by county officers or governing bodies unless general law prohibits it. Takes effect Jan. 1, 2027. The $25,000 school-tax exemption and the existing 3% Save Our Homes assessment cap for homesteads are unchanged.",
       "what_no_means": "A NO vote leaves the current homestead exemption (up to $50,000, of which $25,000 applies to school taxes), the existing Save Our Homes 3% cap, and the 10% non-homestead assessment cap in place.",
-      "fiscal_impact": "Florida's Revenue Estimating Conference (state economists) projected the amendment's quantifiable provisions would reduce local non-school property tax collections by about $4.93-$4.95 billion in FY 2027-28, rising to about $11.8 billion per year by FY 2031-32 when fully phased in. The Legislature's staff analysis (h0001z.SAC, June 16, 2026) accompanies CS/HJR 1F. County-level figures were published by the REC; the Sumter County figure was not retrievable in this sandbox.",
+      "fiscal_impact": "Florida's Revenue Estimating Conference (state economists) projected the amendment would reduce local non-school property tax collections by about $4.9-5.0 billion in FY 2027-28, $8.8 billion in FY 2028-29, $9.7 billion in FY 2029-30 and $10.7 billion in FY 2030-31, with a recurring impact of about $11.86 billion a year when fully phased in (LWVFL analysis; Florida Chamber; Florida TaxWatch). Sumter County: the Florida Association of Counties' county-by-county table (June 2026, county levies only) estimates -$24.9 million in FY 2027-28 and -$45.1 million in FY 2028-29 for Sumter County ($24.3M/$43.8M from the homestead exemption plus $0.6M/$1.3M from the 5% cap); County Administrator Bradley Arnold told commissioners in July 2026 the county could lose about $16 million the first year and $45 million the second (Villages-News, July 12, 2026). The Legislature's staff analysis (h0001z.SAC, June 16, 2026) accompanies CS/HJR 1F.",
       "fiscal_impact_sources": [
+        "https://www.fl-counties.com/wp-content/uploads/2026/06/FAC-Fiscal-Impact-Readers-Guide-and-Backgrounder-6.3.pdf",
+        "https://www.villages-news.com/2026/07/12/sumter-county-officials-bracing-for-huge-potential-losses-of-revenue/",
+        "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
+        "https://floridataxwatch.org/legislative-policy/property-taxes/",
+        "https://www.flchamber.com/floridas-2026-property-tax-amendment/",
         "https://www.wctv.tv/2026/07/20/impact-amendment-3-floridas-revenue-estimating-conference-releases-new-projections/",
-        "https://www.tampabay28.com/news/state/state-economists-property-tax-amendment-could-cost-florida-local-governments-11-8-billion-annually",
-        "https://suncoastsearchlight.org/fact-brief-florida-revenue-estimating-conference-amendment-3/",
         "https://www.flhouse.gov/Sections/Documents/loaddoc.aspx?BillNumber=1&DocumentType=Analysis&FileName=h0001z.SAC.DOCX&Session=2026F"
       ],
       "supporters": [
         {
-          "who": "Gov. Ron DeSantis",
-          "argument": "The governor called the 2026 special session that produced CS/HJR 1F and has advocated large reductions in homestead property taxes, arguing homeowners should not face rising tax bills on homes they already own.",
+          "who": "Florida Realtors ('Vote Yes on 3' campaign)",
+          "argument": "Launched the Vote Yes on 3 campaign Sept. 9, 2026 (reported with a $10 million commitment). 2026 president Chuck Bonfiglio Jr.: 'Affordability is on the forefront for every Floridian, and they need meaningful relief.' The association says the amendment 'offers voters an opportunity to provide meaningful property tax relief while strengthening Florida's commitment to attainable homeownership.'",
           "sources": [
-            "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452",
-            "https://www.pcpao.gov/amendment3"
-          ]
-        },
-        {
-          "who": "Florida Realtors",
-          "argument": "Launched a campaign on Sept. 16, 2026 urging voters to support Amendment 3 as property-tax relief for homeowners.",
-          "sources": [
-            "https://www.clickorlando.com/election-2026/2026/09/16/florida-realtors-launch-campaign-urging-voters-to-support-amendment-3-property-tax-changes/"
+            "https://www.floridarealtors.org/news-media/news-articles/2026/09/florida-realtors-launches-vote-yes-3-campaign",
+            "https://www.clickorlando.com/election-2026/2026/09/16/florida-realtors-launch-campaign-urging-voters-to-support-amendment-3-property-tax-changes/",
+            "https://www.wlrn.org/government-politics/2026-09-16/florida-gop-endorses-amendment-3-american-planning-association-opposes",
+            "https://voteyeson3.com/"
           ]
         },
         {
           "who": "Republican Party of Florida",
-          "argument": "The state party endorsed Amendment 3 (with Amendment 1) in September 2026 as property-tax relief for Florida homeowners.",
+          "argument": "Endorsed Amendment 3 (with Amendment 1) in September 2026. Chair Evan Power: 'Floridians work hard for what they have. Government should not spend it all.' (WLRN, Sept. 16, 2026)",
           "sources": [
+            "https://www.wlrn.org/government-politics/2026-09-16/florida-gop-endorses-amendment-3-american-planning-association-opposes",
             "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/"
           ]
         },
         {
-          "who": "Florida House of Representatives (sponsor)",
-          "argument": "House leadership sponsored the joint resolution to lock a larger homestead exemption into the constitution and slow assessment growth on non-homestead property.",
+          "who": "Gov. Ron DeSantis",
+          "argument": "Called the June 2026 special session that produced CS/HJR 1F and has said he will promote the measure (WLRN, Sept. 16, 2026); he has also said the final version 'wasn't my proposal' (CBS Miami, search snippet).",
+          "sources": [
+            "https://www.wlrn.org/government-politics/2026-09-16/florida-gop-endorses-amendment-3-american-planning-association-opposes",
+            "https://www.cbsnews.com/miami/news/gov-desantis-property-tax-measure-florida-2026-ballot/",
+            "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452"
+          ]
+        },
+        {
+          "who": "Florida Legislature (sponsor: House State Affairs Committee / Rep. Overdorf)",
+          "argument": "House leadership sponsored the joint resolution to lock a larger homestead exemption into the constitution, slow assessment growth on non-homestead property and limit what local property taxes may fund; it passed 75-26 and 30-9.",
           "sources": [
             "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452"
           ]
@@ -198,17 +247,43 @@
       "opponents": [
         {
           "who": "League of Women Voters of Florida",
-          "argument": "Adopted a formal position opposing Amendment 3. President Jessica Lowe-Minor said the League opposes putting 'communities and the services we love at risk because of a confusing ballot amendment,' citing effects on parks, libraries, roads and public safety.",
+          "argument": "Formally opposed Amendment 3 on Aug. 24, 2026, citing its positions against restricting revenue through the constitution and in favor of local home rule. President Jessica Lowe-Minor: 'We don't want to put our communities and the services we love at risk because of a confusing ballot amendment.' The League's July 2026 analysis lists local governments, libraries, special districts and renters among those affected.",
           "sources": [
             "https://lwvspa.org/league-of-women-voters-of-florida-formally-opposes-amendment-3/",
-            "https://lwvfl.org/florida-leagues-change-of-position-on-amendment-3-fl/"
+            "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf"
+          ]
+        },
+        {
+          "who": "Florida League of Cities",
+          "argument": "Says 'Amendment 3 is not a tax cut, it's a tax shift': when property-tax revenue drops, costs for public safety, stormwater and roads move to 'renters, businesses, and the neighbors who didn't get the break.' Lobbyist Matt Singer (July 9, 2026): 'One person's tax exemption is another person's tax increase'; the League says 85 of 411 municipalities could not fund public safety under a $250,000 exemption. City-by-city impact packets, including Bushnell and Wildwood, are posted on its property-tax page.",
+          "sources": [
+            "https://www.flcities.com/propertytaxes/",
+            "https://www.tampabaybeacons.com/2026/07/27/cities-group-to-voters-no-on-3/"
+          ]
+        },
+        {
+          "who": "Florida Association of Counties",
+          "argument": "Published county-by-county revenue-loss estimates (Sumter County: about $24.9 million in FY 2027-28 and $45.1 million in FY 2028-29 for county levies) and warned that the 29 fiscally constrained counties could lose a fifth to a third of their revenue; the LWVFL analysis lists FAC among opponents. FAC's readers guide itself presents the figures as a baseline impact assessment without a formal vote recommendation.",
+          "sources": [
+            "https://www.fl-counties.com/wp-content/uploads/2026/06/FAC-Fiscal-Impact-Readers-Guide-and-Backgrounder-6.3.pdf",
+            "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
+            "https://www.wptv.com/news/state/floridas-property-tax-amendment-faces-growing-opposition-with-little-organized-support-to-counter-it"
+          ]
+        },
+        {
+          "who": "Florida Policy Institute",
+          "argument": "Its voter guide (updated Sept. 15, 2026) says the amendment would cut nearly $12 billion a year in recurring local revenue, that local governments would face service cuts, higher taxes and fees, or both, and that renters, consumers and small businesses would bear shifted costs; it notes roughly 3 million renter households get no direct benefit.",
+          "sources": [
+            "https://www.floridapolicy.org/posts/voter-guide-what-floridians-should-know-about-amendment-3",
+            "https://www.floridapolicy.org/posts/florida-property-tax-amendment-ballot-language-summary"
           ]
         },
         {
           "who": "Florida Sheriffs Association",
           "argument": "Said it is 'significantly concerned' that the revenue loss could affect funding for law enforcement and other county services without a replacement revenue source.",
           "sources": [
-            "https://www.clickorlando.com/election-2026/2026/08/03/florida-sheriffs-police-firefighters-groups-sound-alarm-over-property-tax-amendment/"
+            "https://www.clickorlando.com/election-2026/2026/08/03/florida-sheriffs-police-firefighters-groups-sound-alarm-over-property-tax-amendment/",
+            "https://floridaphoenix.com/2026/08/03/florida-sheriffs-association-is-significantly-concerned-about-amendment-3/"
           ]
         },
         {
@@ -219,26 +294,18 @@
           ]
         },
         {
-          "who": "Florida State Fraternal Order of Police",
-          "argument": "Formally opposed the amendment, citing the risk to police funding.",
-          "sources": [
-            "https://www.wptv.com/news/state/floridas-property-tax-amendment-faces-growing-opposition-with-little-organized-support-to-counter-it"
-          ]
-        },
-        {
-          "who": "Florida Professional Firefighters; Florida Fire Chiefs Association",
-          "argument": "Warned the amendment could undermine fire and EMS funding without providing a replacement revenue source.",
+          "who": "Florida State Fraternal Order of Police; Florida Professional Firefighters; Florida Fire Chiefs Association",
+          "argument": "Formally opposed or warned against the amendment, citing the risk to police, fire and EMS funding without a replacement revenue source.",
           "sources": [
             "https://www.wptv.com/news/state/floridas-property-tax-amendment-faces-growing-opposition-with-little-organized-support-to-counter-it",
             "https://www.clickorlando.com/election-2026/2026/08/03/florida-sheriffs-police-firefighters-groups-sound-alarm-over-property-tax-amendment/"
           ]
         },
         {
-          "who": "Florida League of Cities; Florida Association of Counties",
-          "argument": "Warned that the projected multi-billion-dollar annual revenue loss would force cities and counties to cut services, raise other taxes or fees, or both.",
+          "who": "American Planning Association, Florida Chapter",
+          "argument": "Opposes the amendment; president Allara Mills-Gutcher said the chapter supports tax relief in principle but 'there was a decision made to put it on the ballot without any kind of analysis, without any kind of data' (WLRN, Sept. 16, 2026).",
           "sources": [
-            "https://www.wptv.com/news/state/floridas-property-tax-amendment-faces-growing-opposition-with-little-organized-support-to-counter-it",
-            "https://www.tampafp.com/opposition-surges-against-florida-amendment-3-as-budget-warnings-mount/"
+            "https://www.wlrn.org/government-politics/2026-09-16/florida-gop-endorses-amendment-3-american-planning-association-opposes"
           ]
         },
         {
@@ -249,21 +316,29 @@
           ]
         },
         {
-          "who": "Florida Policy Institute (analysis)",
-          "argument": "Published a summary of the ballot language and county-by-county local fiscal impacts, emphasizing the size of the local revenue reduction.",
+          "who": "Other opponents listed by the LWVFL analysis (July 21, 2026)",
+          "argument": "The League's analysis lists Florida PTA, Florida Education Association, SEIU Florida, Florida Rising, Florida For All, Southern Poverty Law Center, the Tax Foundation, 'Vote No On 3' and the editorial boards of the Wall Street Journal, Miami Herald, Orlando Sentinel, Palm Beach Post and Sun-Sentinel among opponents; these were not individually verified in this pass.",
           "sources": [
-            "https://www.floridapolicy.org/posts/florida-property-tax-amendment-ballot-language-summary"
+            "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf"
           ]
         }
       ],
       "neutral_analyses": [
         {
-          "who": "Florida TaxWatch",
+          "who": "Florida TaxWatch (states it does not support or oppose ballot measures; its property-tax page calls the 'hurried evaluation and adoption' of the proposal 'unwise and unnecessary' and notes the Legislature lacked the revenue estimate when it voted)",
+          "url": "https://floridataxwatch.org/legislative-policy/property-taxes/"
+        },
+        {
+          "who": "Florida TaxWatch Property Tax Resource Center",
           "url": "https://floridataxwatch.org/research/florida-property-tax-resource-center/"
         },
         {
-          "who": "Florida Policy Institute voter guide",
-          "url": "https://www.floridapolicy.org/posts/voter-guide-what-floridians-should-know-about-amendment-3"
+          "who": "Florida Chamber of Commerce explainer (no formal position; earlier warned lawmakers a shift of the tax burden to non-homestead property 'will likely result in higher prices, fewer new jobs, lessened services and/or diminished investment'; CEO Mark Wilson expects the 2027 Tax and Budget Reform Commission to look at further proposals for 2028)",
+          "url": "https://www.flchamber.com/floridas-2026-property-tax-amendment/"
+        },
+        {
+          "who": "Florida Policy Institute ballot-language summary and county impacts",
+          "url": "https://www.floridapolicy.org/posts/florida-property-tax-amendment-ballot-language-summary"
         },
         {
           "who": "Tax Foundation",
@@ -278,31 +353,42 @@
           "url": "https://ocfl.net/OpenGovernment/PropertyTaxAmendment3.aspx"
         },
         {
-          "who": "Florida Chamber of Commerce explainer",
-          "url": "https://www.flchamber.com/floridas-2026-property-tax-amendment/"
+          "who": "Americans for Prosperity-Florida: no published position on Amendments 1-3 found in searches as of Sept. 17, 2026",
+          "url": "https://americansforprosperity.org/state/florida/"
         }
       ],
       "threshold": "60%",
       "sources": [
+        "https://files.floridados.gov/media/711355/eng-2026-booklet-constitutional-amendpub-updated-20260821.pdf",
+        "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
         "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452",
         "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=110",
-        "https://www.pcpao.gov/amendment3",
+        "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
+        "https://lwvspa.org/league-of-women-voters-of-florida-formally-opposes-amendment-3/",
+        "https://www.flcities.com/propertytaxes/",
+        "https://www.tampabaybeacons.com/2026/07/27/cities-group-to-voters-no-on-3/",
+        "https://www.fl-counties.com/wp-content/uploads/2026/06/FAC-Fiscal-Impact-Readers-Guide-and-Backgrounder-6.3.pdf",
+        "https://www.villages-news.com/2026/07/12/sumter-county-officials-bracing-for-huge-potential-losses-of-revenue/",
+        "https://www.floridapolicy.org/posts/voter-guide-what-floridians-should-know-about-amendment-3",
         "https://www.floridapolicy.org/posts/florida-property-tax-amendment-ballot-language-summary",
+        "https://floridataxwatch.org/legislative-policy/property-taxes/",
+        "https://floridataxwatch.org/research/florida-property-tax-resource-center/",
+        "https://www.flchamber.com/floridas-2026-property-tax-amendment/",
+        "https://www.floridarealtors.org/news-media/news-articles/2026/09/florida-realtors-launches-vote-yes-3-campaign",
+        "https://www.wlrn.org/government-politics/2026-09-16/florida-gop-endorses-amendment-3-american-planning-association-opposes",
         "https://www.wctv.tv/2026/07/20/impact-amendment-3-floridas-revenue-estimating-conference-releases-new-projections/",
-        "https://www.tampabay28.com/news/state/state-economists-property-tax-amendment-could-cost-florida-local-governments-11-8-billion-annually",
         "https://www.wptv.com/news/state/floridas-property-tax-amendment-faces-growing-opposition-with-little-organized-support-to-counter-it",
         "https://www.clickorlando.com/election-2026/2026/08/03/florida-sheriffs-police-firefighters-groups-sound-alarm-over-property-tax-amendment/",
+        "https://www.clickorlando.com/election-2026/2026/09/16/florida-realtors-launch-campaign-urging-voters-to-support-amendment-3-property-tax-changes/",
         "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/",
-        "https://news.ballotpedia.org/2026/06/03/florida-voters-to-decide-expanded-homestead-tax-exemption-amendment-in-november/",
-        "https://www.joneswalker.com/en/insights/blogs/perspectives/floridas-revised-property-tax-amendment-ballot-language.html?id=102nhw8",
+        "https://www.pcpao.gov/amendment3",
         "https://floridaphoenix.com/2026/08/04/amendment-3-ballot-title-summary-language-dont-pass-muster-judge-rules/",
         "https://www.wflx.com/2026/08/14/florida-releases-court-ordered-rewrite-amendment-3-ballot-language/",
-        "https://lwvspa.org/league-of-women-voters-of-florida-formally-opposes-amendment-3/",
-        "https://www.clickorlando.com/election-2026/2026/09/16/florida-realtors-launch-campaign-urging-voters-to-support-amendment-3-property-tax-changes/"
+        "https://www.joneswalker.com/en/insights/blogs/perspectives/floridas-revised-property-tax-amendment-ballot-language.html?id=102nhw8"
       ],
       "original_title": "Save Our Homes From Excessive Property Taxes",
       "ballot_language_litigation": {
-        "summary": "A Leon County circuit judge (David Frank) ruled Aug. 3-4, 2026 that the original title and summary were misleading and not neutral; the state chose not to appeal, and the Attorney General released rewritten language Aug. 13-14, 2026.",
+        "summary": "A Leon County circuit judge (David Frank) ruled Aug. 3-4, 2026 that the original title ('Save Our Homes From Excessive Property Taxes') and summary were misleading and not neutral; the state chose not to appeal, the Attorney General released rewritten language Aug. 13-14, 2026, and the Division of Elections booklet updated Aug. 21, 2026 and the Sumter County sample ballot both carry the rewritten title and summary (verified Sept. 17, 2026).",
         "sources": [
           "https://floridaphoenix.com/2026/08/04/amendment-3-ballot-title-summary-language-dont-pass-muster-judge-rules/",
           "https://floridapolitics.com/archives/811300-more-akin-to-a-political-slogan-judge-orders-rewrite-of-property-tax-amendments-ballot-language/",
@@ -311,7 +397,9 @@
           "https://www.joneswalker.com/en/insights/blogs/perspectives/floridas-revised-property-tax-amendment-ballot-language.html?id=102nhw8",
           "https://cbs12.com/news/florida/florida-ag-uthmeier-releases-rewritten-amendment-3-ballot-language-after-judge-orders-changes-property-tax-amendment-save-our-homes-property-tax-exemption-"
         ]
-      }
+      },
+      "constitution_sections": "Article VII, Sections 4, 6 and 9; Article XII"
     }
-  ]
+  ],
+  "sumter_county_referenda_note": "The Sumter County sample ballot also carries two county questions that are not constitutional amendments: County Referendum No. 1, 'Renewal of the 5th and 6th Cent Local Option Fuel Tax' (continue the 5th and 6th cent per gallon local option fuel tax, about $2,648,888 a year for road maintenance and construction, for up to 30 years beginning Jan. 1, 2028; Yes/No), and County Referendum No. 2, 'Tourist Development Tax Ordinance' (approve the 2% tourist development tax in Sumter County Ordinance 26-08; FOR/AGAINST). Source: https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot"
 }

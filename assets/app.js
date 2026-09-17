@@ -1,4 +1,4 @@
-/* Sumter County Voter Guide 2026 — single-page app (no build step, no framework). */
+/* Florida Voters Guide 2026 — single-page app (no build step, no framework). */
 (function () {
   'use strict';
 
@@ -67,8 +67,11 @@
   function partyTag(c) { return `<span class="tag tag-party ${partyClass(c.party)}">${esc(c.party || 'No Party Affiliation')}</span>`; }
 
   /* ---------- storage ---------- */
-  function loadAnswers() { try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (e) { return {}; } }
-  function saveAnswers(a) { try { localStorage.setItem(STORAGE_KEY, JSON.stringify(a)); } catch (e) { /* ignore */ } }
+  // Quiz answers live in memory only: they reset on every page load, and answers saved by an earlier version are removed.
+  try { localStorage.removeItem(STORAGE_KEY); } catch (e) { /* ignore */ }
+  let ANSWERS = {};
+  function loadAnswers() { return Object.assign({}, ANSWERS); }
+  function saveAnswers(a) { ANSWERS = Object.assign({}, a || {}); }
 
   /* ---------- matching ---------- */
   function scoreCandidate(cand, race, answers) {
@@ -204,33 +207,38 @@
 
   /* ---------- views ---------- */
   function viewHome() {
-    const vi = (DATA.voting_info || {}).short || {};
-    const dates = [
-      ['Register by', vi.registration_deadline], ['Mail ballot request by', vi.vote_by_mail_request_deadline],
-      ['Early voting', vi.early_voting_dates], ['Election Day', vi.election_date || 'Tue, Nov 3, 2026']
-    ].filter(d => d[1]);
+    const statewideIds = ['us_senate_special', 'governor', 'attorney_general', 'cfo', 'agriculture_commissioner'];
+    const statewide = statewideIds.map(id => RACE_BY_ID[id]).filter(Boolean);
+    const local = RACES.filter(r => !statewideIds.includes(r.id));
     return `
       <section class="hero">
-        <div class="eyebrow">Sumter County, Florida · General Election · November 3, 2026</div>
+        <div class="eyebrow">Florida · General Election · November 3, 2026</div>
         <h1>Know every race on your ballot. Decide on the facts.</h1>
-        <p class="lead">A nonpartisan, source-cited guide to the candidates and questions Sumter County voters will see this November, plus a tool that matches your own views to each candidate's stated positions.</p>
-        <div class="btn-row">
-          <a class="btn btn-primary" href="#/match">Find my closest match →</a>
-          <a class="btn" href="#/races">Browse all races</a>
-          <a class="btn" href="#/vote">How &amp; where to vote</a>
-        </div>
+        <p class="lead">A nonpartisan, source-cited guide to Florida's November 3, 2026 election: the official candidate line-up for every county, researched positions for the statewide races, and plain-language explanations of the constitutional amendments.</p>
+        <div class="card county-home hero-picker">${countyPicker(loadCounty())}<p class="muted"><small>See the districts that cover your county, who is on your ballot for Congress, the Legislature, judges and county offices, and your Supervisor of Elections. <a href="#/counties">Browse all 67 counties →</a></small></p></div>
       </section>
       <section class="section">${countdown()}</section>
       <section class="section">
-        <div class="section-head"><h2>Races on the Sumter County ballot</h2><a href="#/races">See all →</a></div>
-        <div class="grid grid-2">${RACES.map(raceCard).join('')}</div>
+        <div class="section-head"><h2>Statewide races (on every Florida ballot)</h2><a href="#/races">See all →</a></div>
+        <div class="grid grid-2">${statewide.map(raceCard).join('')}</div>
       </section>
       <section class="section grid grid-3">
         <div class="card"><div class="eyebrow">Ballot questions</div><h3><a href="#/amendments">${(DATA.amendments || []).length || 3} constitutional amendments</a></h3><p class="muted">Official ballot language, what a Yes or No vote does, fiscal impact, and the arguments each side is making, attributed to who is making them.</p></div>
-        <div class="card"><div class="eyebrow">Judicial retention</div><h3><a href="#/judges">Should these judges keep their seats?</a></h3><p class="muted">Background on the Supreme Court justice and appellate judges you will be asked to retain or remove.</p></div>
-        <div class="card"><div class="eyebrow">How this guide works</div><h3><a href="#/about">Methodology &amp; neutrality rules</a></h3><p class="muted">How positions are coded, why some are marked unknown, and how the match score is calculated.</p></div>
-      </section>`;
+        <div class="card"><div class="eyebrow">Judicial retention</div><h3><a href="#/judges">Should these judges keep their seats?</a></h3><p class="muted">Background on Supreme Court Justice Carlos Muñiz, on every ballot statewide, and on the Fifth District Court of Appeal judges for the counties that vote on them.</p></div>
+        <div class="card"><div class="eyebrow">How this guide works</div><h3><a href="#/about">Methodology &amp; neutrality rules</a></h3><p class="muted">How positions are coded, why some are marked unknown, and how the match score works.</p></div>
+      </section>
+      ${local.length ? `<section class="section">
+        <div class="section-head"><h2>In depth: Sumter County</h2><a href="#/county/SUM">Sumter ballot →</a></div>
+        <p class="muted">The guide's home county has the fullest coverage: candidate profiles for its congressional and state House races, its two county referendums, local voting logistics, and a questionnaire that matches your views to the candidates.</p>
+        <div class="grid grid-2">${local.map(raceCard).join('')}</div>
+        <div class="grid grid-3" style="margin-top:12px">
+          <div class="card"><div class="eyebrow">Match tool</div><h3><a href="#/match">Match me to the candidates</a></h3><p class="muted">21 statements scored against documented positions for the statewide races and the Sumter County races.</p></div>
+          <div class="card"><div class="eyebrow">County questions</div><h3><a href="#/amendments">Two Sumter County referendums</a></h3><p class="muted">Fuel-tax renewal and a 2% tourist development tax, explained.</p></div>
+          <div class="card"><div class="eyebrow">Voting logistics</div><h3><a href="#/vote">How &amp; where to vote in Sumter</a></h3><p class="muted">Early-voting sites and hours, mail-ballot deadlines and ID rules.</p></div>
+        </div>
+      </section>` : ''}`;
   }
+
 
   function raceCard(r) {
     const cands = r.candidates || [];
@@ -248,19 +256,20 @@
     const other = DATA.other_races || {};
     const sb = DATA.school_board || {};
     return `<h1>Races on the ballot</h1>
-      <p class="lead muted">Every contested race Sumter County voters will see on November 3, 2026. Click a race to compare candidates issue by issue, or a candidate to read a full profile.</p>
+      <p class="lead muted">Every contested race Sumter County voters will see on November 3, 2026, verified against the official sample ballot. Click a race to compare candidates issue by issue, or a candidate to read a full profile.</p>
       ${Object.keys(groups).map(g => `<section class="section"><h2>${esc(g)}</h2><div class="grid grid-2">${groups[g].map(raceCard).join('')}</div></section>`).join('')}
       <section class="section"><h2>Also on the ballot</h2>
         <div class="grid grid-2">
-          <div class="card"><h3><a href="#/amendments">Constitutional amendments</a></h3><p class="muted">Three statewide amendments; each needs 60% to pass.</p></div>
+          <div class="card"><h3><a href="#/amendments">Constitutional amendments</a></h3><p class="muted">Three statewide amendments (each needs 60% to pass) plus two Sumter County referendums: the fuel-tax renewal and a 2% tourist development tax.</p></div>
           <div class="card"><h3><a href="#/judges">Judicial merit retention</a></h3><p class="muted">Yes/No votes on whether appellate judges keep their seats.</p></div>
         </div>
       </section>
-      ${(other.decided_or_unopposed && other.decided_or_unopposed.length) || (other.unverified && other.unverified.length) || (sb.results && sb.results.length) ? `
+      ${(other.decided_or_unopposed && other.decided_or_unopposed.length) || (other.unverified && other.unverified.length) || (sb.results && sb.results.length) || (other.municipal_and_district_races && (other.municipal_and_district_races.races || []).length) ? `
       <section class="section"><h2>Also on or off the ballot: decided, uncontested, municipal and unverified items</h2>
-        <p class="muted">Seats filled in the August 18 primary or without opposition, city council seats scheduled for November (candidates not yet verified), and items we could not confirm. Check your sample ballot for city races.</p>
+        <p class="muted">Seats filled in the August 18 primary or without opposition, and the city and Village district contests that appear only on some precincts' ballots. Everything here was checked against the official sample ballot.</p>
         <div class="card">
           ${(other.decided_or_unopposed || []).length ? `<h3>Decided in August or unopposed</h3><ul>${other.decided_or_unopposed.map(x => `<li><strong>${esc(x.office || x.title || x.race || '')}</strong>${x.status ? ` <span class="tag">${esc(x.status)}</span>` : ''}${x.result ? ': ' + esc(x.result) : ''}${x.note ? `<br><small class="muted">${esc(x.note)}</small>` : ''}${sourcesHtml(x.sources)}</li>`).join('')}</ul>` : ''}
+          ${(other.municipal_and_district_races && (other.municipal_and_district_races.races || []).length) ? `<h3>City and Village district races (only in the precincts listed)</h3>${other.municipal_and_district_races.note ? `<p class="muted"><small>${esc(other.municipal_and_district_races.note)}</small></p>` : ''}<ul>${other.municipal_and_district_races.races.map(x => `<li><strong>${esc(x.office)}</strong>: ${(x.candidates || []).map(esc).join(' vs. ')}${x.precincts ? `<br><small class="muted">Precincts ${esc(x.precincts)}</small>` : ''}${sourcesHtml(x.sources)}</li>`).join('')}</ul>${other.municipal_and_district_races.uncontested_note ? `<p class="muted"><small>${esc(other.municipal_and_district_races.uncontested_note)}</small></p>` : ''}` : ''}
           ${(other.unverified || []).length ? `<h3>Could not be verified</h3><ul>${other.unverified.map(x => `<li><strong>${esc(x.office || x.title || '')}</strong>${x.note ? `<br><small class="muted">${esc(x.note)}</small>` : ''}${sourcesHtml(x.sources)}</li>`).join('')}</ul>` : ''}
           ${other.verified_ballot_note ? `<p class="muted"><small>${esc(other.verified_ballot_note)}</small></p>` : ''}
           ${(sb.results || []).length ? `<h3>Sumter County School Board (nonpartisan, decided August 18)</h3><ul>${sb.results.map(x => `<li><strong>${esc(x.seat || x.district || x.office || '')}</strong>: ${esc(x.result || x.summary || (x.winner ? `${x.winner} won` : ''))}${x.note ? ` <small class="muted">— ${esc(x.note)}</small>` : ''}${sourcesHtml(x.sources)}</li>`).join('')}</ul>${sb.note ? `<p class="muted">${esc(sb.note)}</p>` : ''}${sourcesHtml(sb.sources)}` : ''}
@@ -505,7 +514,21 @@
           <div><h3>Who opposes it, and why</h3>${(a.opponents || []).length ? `<ul>${a.opponents.map(s => `<li><strong>${esc(s.who)}</strong>: ${esc(s.argument)}${sourcesHtml(s.sources)}</li>`).join('')}</ul>` : '<p class="empty">No organized opposition found.</p>'}</div>
         </div>
         ${sourcesHtml(a.sources)}
-      </div>`).join('') : '<p class="empty">Amendment data pending.</p>'}`;
+      </div>`).join('') : '<p class="empty">Amendment data pending.</p>'}
+      ${((DATA.other_races || {}).county_referendums || []).length ? `<section class="section"><h2>Sumter County referendums</h2>
+        <p class="lead muted">Two county questions appear on every Sumter County ballot after the constitutional amendments. Each passes with a simple majority of votes cast on the question.</p>
+        <div class="stack">${DATA.other_races.county_referendums.map(q => `<div class="card">
+          <div class="eyebrow">County Referendum No. ${esc(q.number)}${q.choices ? ` · ${esc(q.choices)}` : ''}</div>
+          <h3>${esc(q.title)}</h3>
+          ${q.ballot_question ? `<details><summary>Ballot question (official wording)</summary><p style="margin:8px 0 0">${esc(q.ballot_question)}</p></details>` : ''}
+          <div class="grid grid-2" style="margin-top:10px">
+            <div><h4>A YES / FOR vote means</h4><p>${esc(q.what_yes_means || '')}</p></div>
+            <div><h4>A NO / AGAINST vote means</h4><p>${esc(q.what_no_means || '')}</p></div>
+          </div>
+          ${q.background ? `<h4>Background</h4><p>${esc(q.background)}</p>` : ''}
+          ${sourcesHtml(q.sources)}
+        </div>`).join('')}</div>
+      </section>` : ''}`;
   }
 
   function viewJudges() {
@@ -576,6 +599,98 @@
       </div>`;
   }
 
+
+  /* ---------- All Florida counties (official line-ups from the Division of Elections) ---------- */
+  const SW = window.STATEWIDE_DATA || null;
+  const COUNTY_KEY = 'flguide.county';
+  // The county choice is never persisted: it resets on every page load, and any value saved by an earlier version is removed.
+  try { localStorage.removeItem(COUNTY_KEY); } catch (e) { /* ignore */ }
+  function loadCounty() { return ''; }
+  function saveCounty() { /* intentionally not stored */ }
+  // Reset the county question everywhere it appears (used when the quiz finishes and the results chart is shown).
+  function resetCountyChoice() {
+    try { localStorage.removeItem(COUNTY_KEY); } catch (e) { /* ignore */ }
+    document.querySelectorAll('[data-county-picker]').forEach(sel => { sel.value = ''; });
+  }
+  function countyList() { return SW ? Object.values(SW.counties).sort((a, b) => a.name.localeCompare(b.name)) : []; }
+  function countyPicker(selected) {
+    if (!SW) return '';
+    return `<label class="county-picker"><span class="eyebrow">Choose your county to see your ballot</span>
+      <select data-county-picker aria-label="Choose your Florida county">
+        <option value="">Select a county…</option>
+        ${countyList().map(c => `<option value="${esc(c.code)}"${c.code === selected ? ' selected' : ''}>${esc(c.name)}</option>`).join('')}
+      </select></label>`;
+  }
+  function bindCountyPicker(root) {
+    root.querySelectorAll('[data-county-picker]').forEach(sel => sel.addEventListener('change', () => { if (sel.value) { saveCounty(sel.value); location.hash = '#/county/' + sel.value; } }));
+  }
+  function swParty(c) { return `<span class="tag tag-party ${partyClass(c.party_label)}">${esc(c.party_label || c.party)}</span>`; }
+  function swCandList(list, opts) {
+    opts = opts || {};
+    if (!list || !list.length) return '<p class="empty">No candidate listed.</p>';
+    const unopposed = list.length === 1 && list[0].status === 'UNO';
+    if (unopposed) return `<p><strong>${esc(list[0].name)}</strong> ${swParty(list[0])} <span class="tag">Elected without opposition — no vote held</span></p>`;
+    const printed = list.filter(c => c.party !== 'WRI'); const wri = list.filter(c => c.party === 'WRI');
+    return `<ul class="sw-cands">${printed.map(c => `<li><strong>${esc(c.name)}</strong> ${swParty(c)}${c.status === 'UNO' ? ' <span class="tag">Unopposed</span>' : ''}${opts.seatLabel && c.seat ? ` <span class="muted">${esc(opts.seatLabel)} ${esc(c.seat)}</span>` : ''}</li>`).join('')}${wri.length ? `<li><em>Write-in line</em> <span class="muted">(${wri.length} qualified write-in candidate${wri.length > 1 ? 's' : ''}: ${wri.map(c => esc(c.name)).join(', ')}; write-in names are not printed on the ballot)</span></li>` : ''}</ul>`;
+  }
+  function swBySeat(list, seatLabel) {
+    const groups = {}; (list || []).forEach(c => { (groups[c.seat || ''] = groups[c.seat || ''] || []).push(c); });
+    return Object.keys(groups).sort((a, b) => (parseInt(a, 10) || 0) - (parseInt(b, 10) || 0) || a.localeCompare(b)).map(seat => `<div class="sw-seat">${seat ? `<h4>${esc(seatLabel)} ${esc(seat)}</h4>` : ''}${swCandList(groups[seat])}</div>`).join('');
+  }
+  function viewCounties() {
+    if (!SW) return notFound();
+    return `<h1>Florida counties</h1>
+      <p class="lead muted">Pick your county to see the districts that cover it, the official candidate line-up for every federal, state, judicial and county contest on its November 3, 2026 ballot, and your Supervisor of Elections. Line-ups come from the Florida Division of Elections candidate list; in-depth candidate research is available for the races on the Sumter County ballot.</p>
+      ${countyPicker(loadCounty())}
+      <div class="grid grid-3 section">${countyList().map(c => `<a class="card county-card" href="#/county/${esc(c.code)}"><h3>${esc(c.name)}</h3><p class="muted">U.S. House ${c.congressional.map(d => d.district).join(', ')} · Senate ${c.senate.map(d => d.district).join(', ')} · House ${c.house.map(d => d.district).join(', ')}</p></a>`).join('')}</div>`;
+  }
+  function viewCounty(code) {
+    if (!SW) return notFound();
+    const c = SW.counties[(code || '').toUpperCase()];
+    if (!c) return notFound();
+    saveCounty(c.code);
+    const R = SW.races; const isSumter = c.code === 'SUM';
+    const ourRace = id => RACE_BY_ID[id];
+    const cdBlocks = c.congressional.map(d => {
+      const list = R.us_house[String(d.district)] || [];
+      const ours = d.district === 11 && ourRace('us_house_11');
+      return `<div class="card"><h3>U.S. House, District ${d.district}${c.congressional.length > 1 ? ` <span class="muted">(about ${esc(d.pct_land)}% of the county's land area)</span>` : ''}</h3>${swCandList(list)}${ours ? `<p><a class="btn btn-sm" href="#/race/us_house_11">Researched positions and comparison →</a></p>` : ''}</div>`;
+    }).join('');
+    const senBlocks = c.senate.map(d => d.on_ballot
+      ? `<div class="card"><h3>Florida Senate, District ${d.district}${d.whole_county ? '' : ' <span class="muted">(part of the county)</span>'}</h3><p class="muted"><small>Covers: ${esc(SW.senate_district_counties[String(d.district)] || '')}</small></p>${swCandList(R.state_senate[String(d.district)] || [])}</div>`
+      : `<div class="card"><h3>Florida Senate, District ${d.district}${d.whole_county ? '' : ' <span class="muted">(part of the county)</span>'}</h3><p class="muted">Not on the 2026 ballot: odd-numbered Senate districts are next up in 2028.</p></div>`).join('');
+    const houseBlocks = c.house.map(d => {
+      const ours = d.district === 52 && ourRace('state_house_52');
+      return `<div class="card"><h3>Florida House, District ${d.district}${d.whole_county ? '' : ' <span class="muted">(part of the county)</span>'}</h3><p class="muted"><small>Covers: ${esc(SW.house_district_counties[String(d.district)] || '')}</small></p>${swCandList(R.state_house[String(d.district)] || [])}${ours ? `<p><a class="btn btn-sm" href="#/race/state_house_52">Researched positions and comparison →</a></p>` : ''}</div>`;
+    }).join('');
+    const dcaList = R.dca_judges[String(c.dca)] || [];
+    const circuitList = (R.circuit_judges[String(c.circuit)] || []).filter(x => x.status === 'QUA');
+    const localOrder = ['BCC', 'SCB', 'COJ', 'STA', 'PUB', 'COC', 'SOE', 'TAX', 'PRA', 'SHF', 'COF', 'CMB'];
+    const seatLabels = { BCC: 'District', SCB: 'District', COJ: 'Group', CTJ: 'Group' };
+    const localBlocks = localOrder.filter(k => c.local_offices[k]).map(k => `<div class="card"><h3>${esc(SW.office_labels[k] || k)}</h3>${swBySeat(c.local_offices[k], seatLabels[k] || 'Seat')}</div>`).join('');
+    const specialKeys = Object.keys(c.special_districts || {});
+    const specialBlocks = specialKeys.length ? `<details class="card"><summary><strong>Special districts</strong> (${specialKeys.map(k => esc(SW.office_labels[k] || k)).join(', ')}) — contested seats and unopposed members</summary>${specialKeys.map(k => `<h4>${esc(SW.office_labels[k] || k)}</h4>${swBySeat(c.special_districts[k], 'Seat')}`).join('')}</details>` : '';
+    const soe = c.supervisor;
+    return `<div class="county-head">${countyPicker(c.code)}</div>
+      <h1>${esc(c.name)} County ballot — November 3, 2026</h1>
+      <p class="lead muted">Official candidate line-up from the Florida Division of Elections (downloaded ${esc(SW.generated_at)}), plus the districts that cover ${esc(c.name)} County. Where a district covers only part of the county, your address decides which one you vote in: use the state's <a href="https://registration.elections.myflorida.com/CheckVoterStatus" target="_blank" rel="noopener">voter lookup ↗</a> or your county sample ballot.</p>
+      ${isSumter ? `<p class="notice">This is the guide's home county. Every race below has researched positions: see <a href="#/races">Races</a>, <a href="#/amendments">Amendments and county referendums</a>, <a href="#/judges">Judges</a> and <a href="#/vote">How to vote</a>.</p>` : `<p class="notice">Statewide races, the three amendments and the Supreme Court retention question are the same on every Florida ballot, and this guide's researched positions apply to them. For ${esc(c.name)} County's legislative, judicial and local contests the guide shows the official line-up only; positions have not been researched.</p>`}
+      <section class="section"><h2>Statewide (same everywhere in Florida)</h2><div class="grid grid-2">
+        ${['us_senate_special', 'governor', 'attorney_general', 'cfo', 'agriculture_commissioner'].map(id => ourRace(id)).filter(Boolean).map(raceCard).join('')}
+        <div class="card"><h3><a href="#/amendments">Constitutional amendments 1, 2 and 3</a></h3><p class="muted">Official language, what Yes and No mean, and who supports and opposes each.</p></div>
+        <div class="card"><h3>Supreme Court retention</h3>${swCandList(R.supreme_court)}<p><a class="btn btn-sm" href="#/judges">About Justice Muñiz →</a></p></div>
+      </div></section>
+      <section class="section"><h2>Congress</h2><div class="grid grid-2">${cdBlocks}</div></section>
+      <section class="section"><h2>Florida Legislature</h2><div class="grid grid-2">${senBlocks}${houseBlocks}</div></section>
+      <section class="section"><h2>Judges</h2><div class="grid grid-2">
+        <div class="card"><h3>${['First', 'Second', 'Third', 'Fourth', 'Fifth', 'Sixth'][c.dca - 1]} District Court of Appeal — merit retention</h3><p class="muted"><small>${esc(c.name)} County is in the ${['1st', '2nd', '3rd', '4th', '5th', '6th', '7th', '8th', '9th', '10th', '11th', '12th', '13th', '14th', '15th', '16th', '17th', '18th', '19th', '20th'][c.circuit - 1]} Judicial Circuit, whose appeals go to this court. Each judge is a separate Yes/No question.</small></p><ul class="sw-cands">${dcaList.map(j => `<li>Shall Judge <strong>${esc(j.name)}</strong> be retained in office?</li>`).join('')}</ul>${c.dca === 5 ? '<p><a class="btn btn-sm" href="#/judges">Judge backgrounds →</a></p>' : ''}</div>
+        <div class="card"><h3>Circuit Judge, ${['1st', '2nd', '3rd', '4th', '5th', '6th', '7th', '8th', '9th', '10th', '11th', '12th', '13th', '14th', '15th', '16th', '17th', '18th', '19th', '20th'][c.circuit - 1]} Circuit</h3>${circuitList.length ? swBySeat(circuitList, 'Group') : '<p class="muted">No contested circuit-judge seat on the November ballot in this circuit (contested groups were decided in August or all candidates were unopposed).</p>'}</div>
+      </div></section>
+      <section class="section"><h2>${esc(c.name)} County offices</h2>${localBlocks ? `<div class="grid grid-2">${localBlocks}</div>` : '<p class="muted">No county office appears in the state list for this county in 2026.</p>'}<p class="muted"><small>"Elected without opposition" seats do not appear on the ballot. Seats decided in the August primary are not listed. City and town elections and local referendums are run by each county and are not in the state candidate list: check your county's sample ballot.</small></p>${specialBlocks}</section>
+      <section class="section"><h2>${esc(c.name)} County Supervisor of Elections</h2><div class="card"><dl class="kv"><dt>Supervisor</dt><dd>${esc(soe.supervisor || '')}</dd><dt>Phone</dt><dd>${esc(soe.phone || '')}</dd><dt>Address</dt><dd>${esc(soe.address || '')}</dd></dl>${soe.website ? `<p><a class="btn btn-primary" href="${esc(soe.website)}" target="_blank" rel="noopener">Sample ballot, early voting and mail ballots ↗</a></p>` : ''}<p class="muted"><small>Statewide deadlines: register by Oct. 5, 2026; request a mail ballot by 5 p.m. Oct. 22; mandatory early voting Oct. 24–31 (counties may add days); polls open 7 a.m.–7 p.m. on Nov. 3.</small></p></div></section>
+      <section class="section"><details><summary class="muted">Sources for this page</summary><ul class="muted"><li>${esc(SW.sources.candidates)}</li><li>${esc(SW.sources.congressional)}</li><li>${esc(SW.sources.legislative)}</li><li>${esc(SW.sources.judicial)}</li><li>${esc(SW.sources.supervisors)}</li></ul></details></section>`;
+  }
+
   function notFound() { return `<h1>Not found</h1><p>That page does not exist. <a href="#/">Go home</a>.</p>`; }
 
   /* ---------- Router ---------- */
@@ -585,16 +700,18 @@
     const parts = hash.split('/').filter(Boolean);
     const main = $('#main');
     let html = '', nav = 'home', after = null;
-    if (parts.length === 0) { html = viewHome(); }
+    if (parts.length === 0) { html = viewHome(); after = bindCountyPicker; }
     else if (parts[0] === 'races') { html = viewRaces(); nav = 'races'; }
     else if (parts[0] === 'race' && parts[1]) { html = viewRace(decodeURIComponent(parts[1])); nav = 'races'; after = r => { bindHeat(r); bindMap(r); }; }
     else if (parts[0] === 'candidate' && parts[1]) { html = viewCandidate(decodeURIComponent(parts[1])); nav = 'races'; }
-    else if (parts[0] === 'match' && parts[1] === 'results') { html = viewResults(); nav = 'match'; after = r => { const p = r.querySelector('[data-print]'); if (p) p.addEventListener('click', () => window.print()); bindMap(r); const f = r.querySelector('[data-mapfilter]'); if (f) f.querySelectorAll('button').forEach(b => b.addEventListener('click', () => { f.querySelectorAll('button').forEach(x => x.classList.toggle('selected', x === b)); const id = b.dataset.race; const cands = (id === 'all' ? CANDIDATES : (RACE_BY_ID[id].candidates || [])).filter(c => !c.withdrawn); r.querySelector('[data-mapcard]').innerHTML = landscapeMap(cands, { you: userPoint(loadAnswers()) }); bindMap(r); })); }; }
+    else if (parts[0] === 'match' && parts[1] === 'results') { resetCountyChoice(); html = viewResults(); nav = 'match'; after = r => { resetCountyChoice(); const p = r.querySelector('[data-print]'); if (p) p.addEventListener('click', () => window.print()); bindMap(r); const f = r.querySelector('[data-mapfilter]'); if (f) f.querySelectorAll('button').forEach(b => b.addEventListener('click', () => { f.querySelectorAll('button').forEach(x => x.classList.toggle('selected', x === b)); const id = b.dataset.race; const cands = (id === 'all' ? CANDIDATES : (RACE_BY_ID[id].candidates || [])).filter(c => !c.withdrawn); r.querySelector('[data-mapcard]').innerHTML = landscapeMap(cands, { you: userPoint(loadAnswers()) }); bindMap(r); })); }; }
     else if (parts[0] === 'match') { html = viewMatch(); nav = 'match'; after = bindMatch; }
     else if (parts[0] === 'amendments') { html = viewAmendments(); nav = 'amendments'; }
     else if (parts[0] === 'judges') { html = viewJudges(); nav = 'judges'; }
     else if (parts[0] === 'vote') { html = viewVote(); nav = 'vote'; }
     else if (parts[0] === 'about') { html = viewAbout(); nav = 'about'; }
+    else if (parts[0] === 'counties') { html = viewCounties(); nav = 'counties'; after = bindCountyPicker; }
+    else if (parts[0] === 'county' && parts[1]) { html = viewCounty(decodeURIComponent(parts[1])); nav = 'counties'; after = bindCountyPicker; }
     else { html = notFound(); }
     main.innerHTML = html;
     if (after) after(main);
