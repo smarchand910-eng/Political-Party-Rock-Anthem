@@ -19,7 +19,7 @@ const slug = s => String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toL
 // route -> output folder + metadata
 const routes = [
   { hash: '#/', out: '', title: 'Sumter County Voter Guide 2026', desc: 'Nonpartisan, source-cited guide to every race and ballot question for Sumter County, Florida voters in the November 3, 2026 election, with a tool that matches your views to the candidates.' },
-  { hash: '#/races', out: 'races', title: 'Races on the Sumter County ballot — November 3, 2026', desc: 'Every contested race on the Sumter County, Florida ballot: U.S. Senate, U.S. House 11, Governor, Cabinet, Florida House 52, County Commission and more.' },
+  { hash: '#/races', out: 'races', title: 'Races on the Sumter County ballot — November 3, 2026', desc: 'Every contested race on the Sumter County, Florida ballot: U.S. Senate, U.S. House 11, Governor, Cabinet, Florida House 52, judicial retention, three amendments and two county referendums.' },
   { hash: '#/match', out: 'match', title: 'Match me to the candidates — Sumter County Voter Guide', desc: 'Answer 21 statements and see which Sumter County candidates come closest to your views, based only on their documented positions.' },
   { hash: '#/amendments', out: 'amendments', title: 'Florida 2026 constitutional amendments explained', desc: 'Official ballot language, what Yes and No mean, fiscal impact, and who supports and opposes Amendments 1, 2 and 3 on Florida\'s November 2026 ballot.' },
   { hash: '#/judges', out: 'judges', title: 'Judicial merit retention 2026 — Sumter County', desc: 'Background on the Florida Supreme Court justice and Fifth District Court of Appeal judges on the Sumter County retention ballot.' },

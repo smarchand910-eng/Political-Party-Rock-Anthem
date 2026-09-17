@@ -6,7 +6,7 @@ A nonpartisan, source-cited voter guide for the races and ballot questions a **S
 
 ## What it does
 
-- **Every contested race on the Sumter County ballot**: U.S. Senate (special), U.S. House 11, Governor/Lt. Governor, Attorney General, CFO, Agriculture Commissioner, Florida House 52, County Commission District 4, plus the three constitutional amendments, judicial merit retention, and seats already decided in August.
+- **Every contested race on the Sumter County ballot**, verified against the Supervisor of Elections' official 2026 General Election sample ballot: U.S. Senate (special), U.S. House 11, Governor/Lt. Governor, Attorney General, CFO, Agriculture Commissioner and Florida House 52, plus the three constitutional amendments, two county referendums (fuel-tax renewal and a 2% tourist development tax), four judicial merit-retention questions, the precinct-limited city and Village CDD contests, and seats already decided in August or filled without opposition (including County Commission District 4, where the write-in withdrew).
 - **Candidate profiles** with photo, background, how they got on the ballot, positions on 21 major issues (each with a neutral summary, quote where available, and sources), *other issues the candidate has raised on their own*, a documented record, and reported endorsements.
 - **Side-by-side comparison** per race.
 - **"Match me"**: swipe or tap through 21 statements (with a "matters a lot" weighting) while a live leaderboard updates after every answer; results show a percentage match per candidate per race, with the number of issues the score is based on shown openly.
@@ -47,6 +47,14 @@ Prerendering is what makes individual candidates and races show up as separate s
 
 Stance scale: `2` strongly agrees with the statement, `1` leans agree, `0` mixed/neutral, `-1` leans disagree, `-2` strongly disagrees, `null` no public position found. `confidence` is `stated` (explicit statement), `record` (vote or official action) or `unknown`.
 
-## Known gaps (as of the Sept 17, 2026 data pass)
+## Known gaps (as of the third data pass, Sept 17, 2026)
 
-The research environment could search the web but could not open most pages directly, so some candidates (notably the CFO, Agriculture Commissioner, Florida House 52 and County Commission 4 races, and the minor gubernatorial candidates) have thin position data. Those gaps are visible on each profile as "No public position found" rather than filled in. Items that could not be confirmed are flagged inline in the data files and on the Judges and How-to-vote pages. See `docs/RESEARCH_BRIEF.md` to extend the research with the same rules.
+The third pass could open most official and news pages directly (Ballotpedia and Florida Politics remained blocked, so those are cited only through search snippets). The ballot line-up, ballot language and judicial roster now come from the official sample ballot and the Division of Elections booklet. Remaining gaps, visible on each profile as "No public position found":
+
+- **Florida House 52**: Samantha Scott took office March 25, 2026, after the regular session, so her only floor vote is the June 2026 property-tax special session; her campaign site states values rather than issue positions. Pamala Bivins' site lists priorities without detail.
+- **Minor gubernatorial candidates**: Dr. Jeff Datto has no campaign site; Dean Abrams' site could not be fetched (positions come from search excerpts of it); Frank Russo and Moe Dimanche state only a few positions.
+- **U.S. House 11**: Joe Strada did not answer any questionnaire; James Pericola has not stated positions on abortion, guns or immigration; Ralph Groves' positions come from his own site.
+- **Cabinet races**: legislative roll-call votes fill most gaps for Ingoglia, Taddeo, Simpson and Rodríguez, but neither Democrat has stated positions on several state issues in the 2026 campaign, and Joey Mendoza Atkins' platform is brief.
+- **Voting logistics**: whether drop boxes will be at every early-voting site was not stated on the county page.
+
+See `docs/RESEARCH_BRIEF.md` to extend the research with the same rules.

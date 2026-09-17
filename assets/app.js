@@ -248,19 +248,20 @@
     const other = DATA.other_races || {};
     const sb = DATA.school_board || {};
     return `<h1>Races on the ballot</h1>
-      <p class="lead muted">Every contested race Sumter County voters will see on November 3, 2026. Click a race to compare candidates issue by issue, or a candidate to read a full profile.</p>
+      <p class="lead muted">Every contested race Sumter County voters will see on November 3, 2026, verified against the official sample ballot. Click a race to compare candidates issue by issue, or a candidate to read a full profile.</p>
       ${Object.keys(groups).map(g => `<section class="section"><h2>${esc(g)}</h2><div class="grid grid-2">${groups[g].map(raceCard).join('')}</div></section>`).join('')}
       <section class="section"><h2>Also on the ballot</h2>
         <div class="grid grid-2">
-          <div class="card"><h3><a href="#/amendments">Constitutional amendments</a></h3><p class="muted">Three statewide amendments; each needs 60% to pass.</p></div>
+          <div class="card"><h3><a href="#/amendments">Constitutional amendments</a></h3><p class="muted">Three statewide amendments (each needs 60% to pass) plus two Sumter County referendums: the fuel-tax renewal and a 2% tourist development tax.</p></div>
           <div class="card"><h3><a href="#/judges">Judicial merit retention</a></h3><p class="muted">Yes/No votes on whether appellate judges keep their seats.</p></div>
         </div>
       </section>
-      ${(other.decided_or_unopposed && other.decided_or_unopposed.length) || (other.unverified && other.unverified.length) || (sb.results && sb.results.length) ? `
+      ${(other.decided_or_unopposed && other.decided_or_unopposed.length) || (other.unverified && other.unverified.length) || (sb.results && sb.results.length) || (other.municipal_and_district_races && (other.municipal_and_district_races.races || []).length) ? `
       <section class="section"><h2>Also on or off the ballot: decided, uncontested, municipal and unverified items</h2>
-        <p class="muted">Seats filled in the August 18 primary or without opposition, city council seats scheduled for November (candidates not yet verified), and items we could not confirm. Check your sample ballot for city races.</p>
+        <p class="muted">Seats filled in the August 18 primary or without opposition, and the city and Village district contests that appear only on some precincts' ballots. Everything here was checked against the official sample ballot.</p>
         <div class="card">
           ${(other.decided_or_unopposed || []).length ? `<h3>Decided in August or unopposed</h3><ul>${other.decided_or_unopposed.map(x => `<li><strong>${esc(x.office || x.title || x.race || '')}</strong>${x.status ? ` <span class="tag">${esc(x.status)}</span>` : ''}${x.result ? ': ' + esc(x.result) : ''}${x.note ? `<br><small class="muted">${esc(x.note)}</small>` : ''}${sourcesHtml(x.sources)}</li>`).join('')}</ul>` : ''}
+          ${(other.municipal_and_district_races && (other.municipal_and_district_races.races || []).length) ? `<h3>City and Village district races (only in the precincts listed)</h3>${other.municipal_and_district_races.note ? `<p class="muted"><small>${esc(other.municipal_and_district_races.note)}</small></p>` : ''}<ul>${other.municipal_and_district_races.races.map(x => `<li><strong>${esc(x.office)}</strong>: ${(x.candidates || []).map(esc).join(' vs. ')}${x.precincts ? `<br><small class="muted">Precincts ${esc(x.precincts)}</small>` : ''}${sourcesHtml(x.sources)}</li>`).join('')}</ul>${other.municipal_and_district_races.uncontested_note ? `<p class="muted"><small>${esc(other.municipal_and_district_races.uncontested_note)}</small></p>` : ''}` : ''}
           ${(other.unverified || []).length ? `<h3>Could not be verified</h3><ul>${other.unverified.map(x => `<li><strong>${esc(x.office || x.title || '')}</strong>${x.note ? `<br><small class="muted">${esc(x.note)}</small>` : ''}${sourcesHtml(x.sources)}</li>`).join('')}</ul>` : ''}
           ${other.verified_ballot_note ? `<p class="muted"><small>${esc(other.verified_ballot_note)}</small></p>` : ''}
           ${(sb.results || []).length ? `<h3>Sumter County School Board (nonpartisan, decided August 18)</h3><ul>${sb.results.map(x => `<li><strong>${esc(x.seat || x.district || x.office || '')}</strong>: ${esc(x.result || x.summary || (x.winner ? `${x.winner} won` : ''))}${x.note ? ` <small class="muted">— ${esc(x.note)}</small>` : ''}${sourcesHtml(x.sources)}</li>`).join('')}</ul>${sb.note ? `<p class="muted">${esc(sb.note)}</p>` : ''}${sourcesHtml(sb.sources)}` : ''}
@@ -505,7 +506,21 @@
           <div><h3>Who opposes it, and why</h3>${(a.opponents || []).length ? `<ul>${a.opponents.map(s => `<li><strong>${esc(s.who)}</strong>: ${esc(s.argument)}${sourcesHtml(s.sources)}</li>`).join('')}</ul>` : '<p class="empty">No organized opposition found.</p>'}</div>
         </div>
         ${sourcesHtml(a.sources)}
-      </div>`).join('') : '<p class="empty">Amendment data pending.</p>'}`;
+      </div>`).join('') : '<p class="empty">Amendment data pending.</p>'}
+      ${((DATA.other_races || {}).county_referendums || []).length ? `<section class="section"><h2>Sumter County referendums</h2>
+        <p class="lead muted">Two county questions appear on every Sumter County ballot after the constitutional amendments. Each passes with a simple majority of votes cast on the question.</p>
+        <div class="stack">${DATA.other_races.county_referendums.map(q => `<div class="card">
+          <div class="eyebrow">County Referendum No. ${esc(q.number)}${q.choices ? ` · ${esc(q.choices)}` : ''}</div>
+          <h3>${esc(q.title)}</h3>
+          ${q.ballot_question ? `<details><summary>Ballot question (official wording)</summary><p style="margin:8px 0 0">${esc(q.ballot_question)}</p></details>` : ''}
+          <div class="grid grid-2" style="margin-top:10px">
+            <div><h4>A YES / FOR vote means</h4><p>${esc(q.what_yes_means || '')}</p></div>
+            <div><h4>A NO / AGAINST vote means</h4><p>${esc(q.what_no_means || '')}</p></div>
+          </div>
+          ${q.background ? `<h4>Background</h4><p>${esc(q.background)}</p>` : ''}
+          ${sourcesHtml(q.sources)}
+        </div>`).join('')}</div>
+      </section>` : ''}`;
   }
 
   function viewJudges() {
