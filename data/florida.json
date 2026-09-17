@@ -1,0 +1,281 @@
+{
+ "_comment": "County -> judicial circuit -> District Court of Appeal (DCA boundaries as realigned Jan 1, 2023). Used to show the right appellate-judge retention questions for a voter's county.",
+ "counties": {
+  "Escambia": {
+   "circuit": 1,
+   "dca": 1
+  },
+  "Okaloosa": {
+   "circuit": 1,
+   "dca": 1
+  },
+  "Santa Rosa": {
+   "circuit": 1,
+   "dca": 1
+  },
+  "Walton": {
+   "circuit": 1,
+   "dca": 1
+  },
+  "Franklin": {
+   "circuit": 2,
+   "dca": 1
+  },
+  "Gadsden": {
+   "circuit": 2,
+   "dca": 1
+  },
+  "Jefferson": {
+   "circuit": 2,
+   "dca": 1
+  },
+  "Leon": {
+   "circuit": 2,
+   "dca": 1
+  },
+  "Liberty": {
+   "circuit": 2,
+   "dca": 1
+  },
+  "Wakulla": {
+   "circuit": 2,
+   "dca": 1
+  },
+  "Columbia": {
+   "circuit": 3,
+   "dca": 1
+  },
+  "Dixie": {
+   "circuit": 3,
+   "dca": 1
+  },
+  "Hamilton": {
+   "circuit": 3,
+   "dca": 1
+  },
+  "Lafayette": {
+   "circuit": 3,
+   "dca": 1
+  },
+  "Madison": {
+   "circuit": 3,
+   "dca": 1
+  },
+  "Suwannee": {
+   "circuit": 3,
+   "dca": 1
+  },
+  "Taylor": {
+   "circuit": 3,
+   "dca": 1
+  },
+  "Clay": {
+   "circuit": 4,
+   "dca": 5
+  },
+  "Duval": {
+   "circuit": 4,
+   "dca": 5
+  },
+  "Nassau": {
+   "circuit": 4,
+   "dca": 5
+  },
+  "Citrus": {
+   "circuit": 5,
+   "dca": 5
+  },
+  "Hernando": {
+   "circuit": 5,
+   "dca": 5
+  },
+  "Lake": {
+   "circuit": 5,
+   "dca": 5
+  },
+  "Marion": {
+   "circuit": 5,
+   "dca": 5
+  },
+  "Sumter": {
+   "circuit": 5,
+   "dca": 5
+  },
+  "Pasco": {
+   "circuit": 6,
+   "dca": 2
+  },
+  "Pinellas": {
+   "circuit": 6,
+   "dca": 2
+  },
+  "Flagler": {
+   "circuit": 7,
+   "dca": 5
+  },
+  "Putnam": {
+   "circuit": 7,
+   "dca": 5
+  },
+  "St. Johns": {
+   "circuit": 7,
+   "dca": 5
+  },
+  "Volusia": {
+   "circuit": 7,
+   "dca": 5
+  },
+  "Alachua": {
+   "circuit": 8,
+   "dca": 1
+  },
+  "Baker": {
+   "circuit": 8,
+   "dca": 1
+  },
+  "Bradford": {
+   "circuit": 8,
+   "dca": 1
+  },
+  "Gilchrist": {
+   "circuit": 8,
+   "dca": 1
+  },
+  "Levy": {
+   "circuit": 8,
+   "dca": 1
+  },
+  "Union": {
+   "circuit": 8,
+   "dca": 1
+  },
+  "Orange": {
+   "circuit": 9,
+   "dca": 6
+  },
+  "Osceola": {
+   "circuit": 9,
+   "dca": 6
+  },
+  "Hardee": {
+   "circuit": 10,
+   "dca": 6
+  },
+  "Highlands": {
+   "circuit": 10,
+   "dca": 6
+  },
+  "Polk": {
+   "circuit": 10,
+   "dca": 6
+  },
+  "Miami-Dade": {
+   "circuit": 11,
+   "dca": 3
+  },
+  "DeSoto": {
+   "circuit": 12,
+   "dca": 2
+  },
+  "Manatee": {
+   "circuit": 12,
+   "dca": 2
+  },
+  "Sarasota": {
+   "circuit": 12,
+   "dca": 2
+  },
+  "Hillsborough": {
+   "circuit": 13,
+   "dca": 2
+  },
+  "Bay": {
+   "circuit": 14,
+   "dca": 1
+  },
+  "Calhoun": {
+   "circuit": 14,
+   "dca": 1
+  },
+  "Gulf": {
+   "circuit": 14,
+   "dca": 1
+  },
+  "Holmes": {
+   "circuit": 14,
+   "dca": 1
+  },
+  "Jackson": {
+   "circuit": 14,
+   "dca": 1
+  },
+  "Washington": {
+   "circuit": 14,
+   "dca": 1
+  },
+  "Palm Beach": {
+   "circuit": 15,
+   "dca": 4
+  },
+  "Monroe": {
+   "circuit": 16,
+   "dca": 3
+  },
+  "Broward": {
+   "circuit": 17,
+   "dca": 4
+  },
+  "Brevard": {
+   "circuit": 18,
+   "dca": 5
+  },
+  "Seminole": {
+   "circuit": 18,
+   "dca": 5
+  },
+  "Indian River": {
+   "circuit": 19,
+   "dca": 4
+  },
+  "Martin": {
+   "circuit": 19,
+   "dca": 4
+  },
+  "Okeechobee": {
+   "circuit": 19,
+   "dca": 4
+  },
+  "St. Lucie": {
+   "circuit": 19,
+   "dca": 4
+  },
+  "Charlotte": {
+   "circuit": 20,
+   "dca": 6
+  },
+  "Collier": {
+   "circuit": 20,
+   "dca": 6
+  },
+  "Glades": {
+   "circuit": 20,
+   "dca": 6
+  },
+  "Hendry": {
+   "circuit": 20,
+   "dca": 6
+  },
+  "Lee": {
+   "circuit": 20,
+   "dca": 6
+  }
+ },
+ "dca_names": {
+  "1": "First District Court of Appeal (Tallahassee)",
+  "2": "Second District Court of Appeal (St. Petersburg)",
+  "3": "Third District Court of Appeal (Miami)",
+  "4": "Fourth District Court of Appeal (West Palm Beach)",
+  "5": "Fifth District Court of Appeal (Daytona Beach)",
+  "6": "Sixth District Court of Appeal (Lakeland)"
+ }
+}

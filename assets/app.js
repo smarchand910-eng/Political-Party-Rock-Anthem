@@ -9,7 +9,12 @@
   const RACE_BY_ID = Object.fromEntries(RACES.map(r => [r.id, r]));
   const CANDIDATES = RACES.flatMap(r => (r.candidates || []).map(c => Object.assign({ race_id: r.id }, c)));
   const CAND_BY_ID = Object.fromEntries(CANDIDATES.map(c => [c.id, c]));
-  const STORAGE_KEY = 'scvg2026_answers_v1';
+  const STORAGE_KEY = 'scvg2026_answers_v1'; // Florida Voter Guide 2026
+  const PROFILE_KEY = 'scvg2026_profile_v1';
+  const FL = DATA.florida || { counties: {}, dca_names: {} };
+  const COUNTY_INFO = DATA.counties || {};
+  const COUNTY_NAMES = Object.keys(FL.counties || {}).sort();
+  const SUMTER_PRESET = { county: 'Sumter', cd: 11, sd: 13, hd: 52, label: 'Sumter County (preset)' };
 
   const STANCE_LABEL = { '2': 'Strongly agrees', '1': 'Leans agree', '0': 'Mixed / neutral', '-1': 'Leans disagree', '-2': 'Strongly disagrees', 'null': 'No public position found' };
   const CONF_LABEL = { stated: 'stated position', record: 'based on record', unknown: 'unknown' };
@@ -54,6 +59,8 @@
   }
   function sourcesHtml(sources) {
     if (!sources || !sources.length) return '';
+    sources = sources.map(x => typeof x === 'string' ? { url: x } : x).filter(x => x && x.url);
+    if (!sources.length) return '';
     return `<div class="sources">Sources: ${sources.map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener" title="${esc(s.title || '')}">${esc(s.title ? truncate(s.title, 60) : hostOf(s.url))}${s.date ? ` (${esc(s.date)})` : ''}</a>`).join(' · ')}</div>`;
   }
   const truncate = (s, n) => (s && s.length > n) ? s.slice(0, n - 1) + '…' : s;
@@ -91,6 +98,107 @@
     return { pct: den ? Math.round(100 * num / den) : null, used, answered, agree, disagree };
   }
 
+
+  /* ---------- Where do you vote? (profile) ---------- */
+  function loadProfile() { try { return JSON.parse(localStorage.getItem(PROFILE_KEY) || 'null'); } catch (e) { return null; } }
+  function saveProfile(p) { try { if (p) localStorage.setItem(PROFILE_KEY, JSON.stringify(p)); else localStorage.removeItem(PROFILE_KEY); } catch (e) { /* ignore */ } }
+  function raceOnBallot(r, prof) {
+    if (r.on_november_ballot === false) return false;
+    const j = r.jurisdiction || { type: 'statewide' };
+    if (j.type === 'statewide') return true;
+    if (!prof) return false;
+    if (j.type === 'cd') return prof.cd != null && Number(prof.cd) === Number(j.id);
+    if (j.type === 'sd') return prof.sd != null && Number(prof.sd) === Number(j.id);
+    if (j.type === 'hd') return prof.hd != null && Number(prof.hd) === Number(j.id);
+    if (j.type === 'county') return !!prof.county && String(j.id).toLowerCase() === String(prof.county).toLowerCase();
+    return false;
+  }
+  function ballotRaces(prof) { return RACES.filter(r => raceOnBallot(r, prof)); }
+  function jurLabel(r) { const j = r.jurisdiction || {}; return j.type === 'statewide' ? 'Statewide' : j.type === 'cd' ? `Congressional District ${j.id}` : j.type === 'sd' ? `Senate District ${j.id}` : j.type === 'hd' ? `House District ${j.id}` : j.type === 'county' ? `${j.id} County` : ''; }
+  function dcaFor(county) { const c = county && FL.counties && FL.counties[county]; return c ? c.dca : null; }
+  function profileSummary(prof) {
+    if (!prof) return '';
+    const bits = [];
+    if (prof.county) bits.push(`${prof.county} County`);
+    if (prof.cd) bits.push(`Congressional District ${prof.cd}`);
+    if (prof.sd) bits.push(`Senate District ${prof.sd}`);
+    if (prof.hd) bits.push(`House District ${prof.hd}`);
+    return bits.join(' · ');
+  }
+  function coverageNote(r) {
+    if (r.coverage === 'full') return '';
+    if (r.coverage === 'none' || !(r.candidates || []).length) return `<p class="notice notice-warn"><strong>No candidate data yet for this race.</strong> Check your county Supervisor of Elections sample ballot; this guide's research has not reached this contest.</p>`;
+    if (r.coverage === 'roster') return `<p class="notice notice-warn"><strong>Candidate list only.</strong> We have verified who is on the ballot for this race but have not yet researched their positions, so most issues will show "No public position found" and the match tool cannot score them. Campaign websites are linked where known.</p>`;
+    if (r.coverage === 'partial') return `<p class="notice notice-warn"><strong>Partly researched.</strong> Some positions are documented; many are still marked unknown.</p>`;
+    return '';
+  }
+  function addressPanel(compact) {
+    const prof = loadProfile();
+    if (prof && compact) return `<div class="card addr-bar"><div><span class="eyebrow" style="margin:0">Your ballot</span> <strong>${esc(profileSummary(prof))}</strong> <small class="muted">${prof.label && !/preset/.test(prof.label) ? '· ' + esc(prof.label) : ''}</small></div><div class="btn-row" style="margin:0"><a class="btn btn-sm" href="#/where">Change</a></div></div>`;
+    return `<div class="card addr-panel">
+      <div class="eyebrow">Where do you vote?</div>
+      ${prof ? `<p>Currently set to <strong>${esc(profileSummary(prof))}</strong>${prof.label && !/preset/.test(prof.label) ? ` <small class="muted">(${esc(prof.label)})</small>` : ''}.</p>` : `<p class="muted">Enter your Florida street address to see exactly the races and questions on your ballot. Only your county and district numbers are kept, in your browser; the address itself is sent once to the U.S. Census Bureau's public geocoder and not stored.</p>`}
+      <form class="addr-form" data-addr-form>
+        <input class="search" type="text" name="address" placeholder="Street address, city, FL  (e.g. 1234 Main St, Wildwood, FL)" autocomplete="street-address" required />
+        <button type="submit" class="btn btn-primary">Find my ballot</button>
+      </form>
+      <div class="addr-status muted" data-addr-status></div>
+      <details style="margin-top:10px"><summary>Or pick your county and districts manually</summary>
+        <form class="addr-manual" data-manual-form>
+          <label>County <select name="county"><option value="">—</option>${COUNTY_NAMES.map(c => `<option value="${esc(c)}" ${prof && prof.county === c ? 'selected' : ''}>${esc(c)}</option>`).join('')}</select></label>
+          <label>Congressional district <input type="number" name="cd" min="1" max="28" value="${prof && prof.cd ? prof.cd : ''}" /></label>
+          <label>State Senate district <input type="number" name="sd" min="1" max="40" value="${prof && prof.sd ? prof.sd : ''}" /></label>
+          <label>State House district <input type="number" name="hd" min="1" max="120" value="${prof && prof.hd ? prof.hd : ''}" /></label>
+          <button type="submit" class="btn btn-sm">Save</button>
+          <a class="btn btn-sm" href="https://registration.elections.myflorida.com/CheckVoterStatus" target="_blank" rel="noopener">Look up my districts on the state site ↗</a>
+        </form>
+      </details>
+      <div class="btn-row"><button type="button" class="btn btn-sm" data-preset="sumter">I vote in Sumter County / The Villages</button>${prof ? '<button type="button" class="btn btn-sm" data-clear-profile>Clear</button>' : ''}</div>
+      <p class="muted" style="margin:10px 0 0"><small>District boundaries come from the U.S. Census Bureau's current files. If Florida's 2026 redistricting changed your congressional district, confirm it with the state lookup and adjust the number above.</small></p>
+    </div>`;
+  }
+  function geocode(address) {
+    return new Promise((resolve, reject) => {
+      const cb = 'ccGeo' + Date.now();
+      const script = document.createElement('script');
+      const timer = setTimeout(() => { cleanup(); reject(new Error('The Census geocoder did not respond. Try again or use the manual option.')); }, 15000);
+      function cleanup() { clearTimeout(timer); delete window[cb]; script.remove(); }
+      window[cb] = data => { cleanup(); resolve(data); };
+      script.onerror = () => { cleanup(); reject(new Error('Could not reach the Census geocoder.')); };
+      script.src = 'https://geocoding.geo.census.gov/geocoder/geographies/onelineaddress?address=' + encodeURIComponent(address) + '&benchmark=Public_AR_Current&vintage=Current_Current&layers=all&format=jsonp&callback=' + cb;
+      document.head.appendChild(script);
+    });
+  }
+  function profileFromGeo(data, address) {
+    const m = data && data.result && data.result.addressMatches && data.result.addressMatches[0];
+    if (!m) return null;
+    const g = m.geographies || {};
+    const pick = re => { const k = Object.keys(g).find(k => re.test(k)); return k && g[k] && g[k][0]; };
+    const county = pick(/^Counties$/i), cd = pick(/Congressional Districts/i), sd = pick(/Legislative Districts - Upper/i), hd = pick(/Legislative Districts - Lower/i), st = pick(/^States$/i);
+    if (st && st.BASENAME && st.BASENAME !== 'Florida') return { error: `That address geocodes to ${st.BASENAME}, not Florida.` };
+    const num = o => { if (!o) return null; const v = parseInt(String(o.BASENAME || o.NAME || '').replace(/\D/g, ''), 10); return isNaN(v) ? null : v; };
+    return { county: county ? String(county.BASENAME || county.NAME || '').replace(/ County$/, '') : null, cd: num(cd), sd: num(sd), hd: num(hd), label: m.matchedAddress || address };
+  }
+  function bindAddress(root) {
+    const form = root.querySelector('[data-addr-form]'); const status = root.querySelector('[data-addr-status]');
+    if (form) form.addEventListener('submit', async ev => {
+      ev.preventDefault();
+      const addr = form.address.value.trim(); if (!addr) return;
+      status.textContent = 'Looking up your districts…';
+      try {
+        const data = await geocode(/florida|,\s*fl\b/i.test(addr) ? addr : addr + ', FL');
+        const prof = profileFromGeo(data, addr);
+        if (!prof) { status.textContent = 'No match for that address. Check the spelling, add the city, or use the manual option below.'; return; }
+        if (prof.error) { status.textContent = prof.error; return; }
+        saveProfile(prof); status.textContent = ''; render();
+      } catch (e) { status.textContent = e.message; }
+    });
+    const manual = root.querySelector('[data-manual-form]');
+    if (manual) manual.addEventListener('submit', ev => { ev.preventDefault(); const f = manual; const prof = { county: f.county.value || null, cd: f.cd.value ? Number(f.cd.value) : null, sd: f.sd.value ? Number(f.sd.value) : null, hd: f.hd.value ? Number(f.hd.value) : null, label: 'entered manually' }; if (!prof.county && !prof.cd && !prof.hd) return; saveProfile(prof); render(); });
+    const preset = root.querySelector('[data-preset="sumter"]'); if (preset) preset.addEventListener('click', () => { saveProfile(Object.assign({}, SUMTER_PRESET)); render(); });
+    const clear = root.querySelector('[data-clear-profile]'); if (clear) clear.addEventListener('click', () => { saveProfile(null); render(); });
+  }
+  function viewWhere() { return `<h1>Where do you vote?</h1>${addressPanel(false)}<div class="btn-row"><a class="btn btn-primary" href="#/">Back to my ballot →</a></div>`; }
 
   /* ---------- Landscape axes ---------- */
   // Each axis is the mean of the candidate's coded stances on the listed statements, with the sign
@@ -204,30 +312,31 @@
 
   /* ---------- views ---------- */
   function viewHome() {
-    const vi = (DATA.voting_info || {}).short || {};
-    const dates = [
-      ['Register by', vi.registration_deadline], ['Mail ballot request by', vi.vote_by_mail_request_deadline],
-      ['Early voting', vi.early_voting_dates], ['Election Day', vi.election_date || 'Tue, Nov 3, 2026']
-    ].filter(d => d[1]);
+    const prof = loadProfile();
+    const mine = ballotRaces(prof);
+    const groups = {};
+    mine.forEach(r => { (groups[r.office_group] = groups[r.office_group] || []).push(r); });
     return `
       <section class="hero">
-        <div class="eyebrow">Sumter County, Florida · General Election · November 3, 2026</div>
+        <div class="eyebrow">Florida · General Election · November 3, 2026</div>
         <h1>Know every race on your ballot. Decide on the facts.</h1>
-        <p class="lead">A nonpartisan, source-cited guide to the candidates and questions Sumter County voters will see this November, plus a tool that matches your own views to each candidate's stated positions.</p>
+        <p class="lead">A nonpartisan, source-cited guide to the candidates and questions on Florida ballots this November, filtered to your address, plus a tool that matches your own views to each candidate's documented positions.</p>
         <div class="btn-row">
           <a class="btn btn-primary" href="#/match">Find my closest match →</a>
-          <a class="btn" href="#/races">Browse all races</a>
+          <a class="btn" href="#/races">Browse races</a>
           <a class="btn" href="#/vote">How &amp; where to vote</a>
         </div>
       </section>
+      <section class="section">${addressPanel(!!prof)}</section>
       <section class="section">${countdown()}</section>
       <section class="section">
-        <div class="section-head"><h2>Races on the Sumter County ballot</h2><a href="#/races">See all →</a></div>
-        <div class="grid grid-2">${RACES.map(raceCard).join('')}</div>
+        <div class="section-head"><h2>${prof ? 'Races on your ballot' : 'Statewide races (every Florida voter)'}</h2><a href="#/races">See all →</a></div>
+        ${!prof ? '<p class="muted">Enter your address above to add your congressional, state legislative and county races.</p>' : ''}
+        ${Object.keys(groups).map(g => `<h3 style="margin-top:14px">${esc(g)}</h3><div class="grid grid-2">${groups[g].map(raceCard).join('')}</div>`).join('')}
       </section>
       <section class="section grid grid-3">
         <div class="card"><div class="eyebrow">Ballot questions</div><h3><a href="#/amendments">${(DATA.amendments || []).length || 3} constitutional amendments</a></h3><p class="muted">Official ballot language, what a Yes or No vote does, fiscal impact, and the arguments each side is making, attributed to who is making them.</p></div>
-        <div class="card"><div class="eyebrow">Judicial retention</div><h3><a href="#/judges">Should these judges keep their seats?</a></h3><p class="muted">Background on the Supreme Court justice and appellate judges you will be asked to retain or remove.</p></div>
+        <div class="card"><div class="eyebrow">Judicial retention</div><h3><a href="#/judges">Should these judges keep their seats?</a></h3><p class="muted">Background on the Supreme Court justice and the appellate judges on your county's ballot.</p></div>
         <div class="card"><div class="eyebrow">How this guide works</div><h3><a href="#/about">Methodology &amp; neutrality rules</a></h3><p class="muted">How positions are coded, why some are marked unknown, and how the match score is calculated.</p></div>
       </section>`;
   }
@@ -235,7 +344,7 @@
   function raceCard(r) {
     const cands = r.candidates || [];
     return `<div class="card race-card">
-      <div><span class="tag tag-level">${esc(r.office_group)}</span></div>
+      <div><span class="tag tag-level">${esc(r.office_group)}</span> <span class="tag">${esc(jurLabel(r))}</span>${r.coverage && r.coverage !== 'full' ? `<span class="tag" style="color:var(--warn)">${r.coverage === 'roster' ? 'Candidate list only' : r.coverage === 'partial' ? 'Partly researched' : 'No data yet'}</span>` : ''}${r.on_november_ballot === false ? '<span class="tag">Not on Nov. ballot</span>' : ''}</div>
       <h3><a href="#/race/${esc(r.id)}">${esc(r.title)}</a></h3>
       <div class="cand-row">${cands.map(c => `<a class="cand-chip" href="#/candidate/${esc(c.id)}">${avatar(c, 'sm')}${esc(c.name)} <small>(${esc(partyShort(c.party))})</small></a>`).join('') || '<span class="empty">Candidate data pending</span>'}</div>
       <div><a class="btn btn-sm" href="#/race/${esc(r.id)}">Compare positions →</a></div>
@@ -243,27 +352,35 @@
   }
 
   function viewRaces() {
-    const groups = {};
-    RACES.forEach(r => { (groups[r.office_group] = groups[r.office_group] || []).push(r); });
+    const prof = loadProfile();
+    const mine = ballotRaces(prof);
+    const mineIds = new Set(mine.map(r => r.id));
+    const others = RACES.filter(r => !mineIds.has(r.id));
+    const groupBy = list => { const g = {}; list.forEach(r => { const k = r.jurisdiction && r.jurisdiction.type === 'cd' ? 'U.S. House' : r.jurisdiction && r.jurisdiction.type === 'sd' ? 'Florida Senate' : r.jurisdiction && r.jurisdiction.type === 'hd' ? 'Florida House' : r.jurisdiction && r.jurisdiction.type === 'county' ? 'County & local' : r.office_group; (g[k] = g[k] || []).push(r); }); return g; };
+    const gm = groupBy(mine), go = groupBy(others);
     const other = DATA.other_races || {};
     const sb = DATA.school_board || {};
+    const isSumter = prof && /^sumter$/i.test(prof.county || '');
     return `<h1>Races on the ballot</h1>
-      <p class="lead muted">Every contested race Sumter County voters will see on November 3, 2026. Click a race to compare candidates issue by issue, or a candidate to read a full profile.</p>
-      ${Object.keys(groups).map(g => `<section class="section"><h2>${esc(g)}</h2><div class="grid grid-2">${groups[g].map(raceCard).join('')}</div></section>`).join('')}
+      ${addressPanel(!!prof)}
+      ${prof ? `<h2 class="section">On your ballot</h2>` : `<h2 class="section">Statewide races</h2><p class="muted">Every Florida voter sees these. Enter your address above to add your district and county races.</p>`}
+      ${Object.keys(gm).map(g => `<section class="section" style="margin-top:20px"><h3>${esc(g)}</h3><div class="grid grid-2">${gm[g].map(raceCard).join('')}</div></section>`).join('')}
       <section class="section"><h2>Also on the ballot</h2>
         <div class="grid grid-2">
           <div class="card"><h3><a href="#/amendments">Constitutional amendments</a></h3><p class="muted">Three statewide amendments; each needs 60% to pass.</p></div>
           <div class="card"><h3><a href="#/judges">Judicial merit retention</a></h3><p class="muted">Yes/No votes on whether appellate judges keep their seats.</p></div>
         </div>
       </section>
-      ${(other.decided_or_unopposed && other.decided_or_unopposed.length) || (other.unverified && other.unverified.length) || (sb.results && sb.results.length) ? `
-      <section class="section"><h2>Also on or off the ballot: decided, uncontested, municipal and unverified items</h2>
+      ${others.length ? `<section class="section"><details><summary>Other Florida races in this guide (${others.length}) — not on your ballot${prof ? '' : ' until you enter an address'}</summary>
+        ${Object.keys(go).map(g => `<h3 style="margin-top:14px">${esc(g)}</h3><div class="grid grid-2">${go[g].map(raceCard).join('')}</div>`).join('')}
+      </details></section>` : ''}
+      ${isSumter && ((other.decided_or_unopposed && other.decided_or_unopposed.length) || (sb.contests && sb.contests.length)) ? `
+      <section class="section"><h2>Sumter County: decided, uncontested, municipal and unverified items</h2>
         <p class="muted">Seats filled in the August 18 primary or without opposition, city council seats scheduled for November (candidates not yet verified), and items we could not confirm. Check your sample ballot for city races.</p>
         <div class="card">
-          ${(other.decided_or_unopposed || []).length ? `<h3>Decided in August or unopposed</h3><ul>${other.decided_or_unopposed.map(x => `<li><strong>${esc(x.office || x.title || x.race || '')}</strong>${x.status ? ` <span class="tag">${esc(x.status)}</span>` : ''}${x.result ? ': ' + esc(x.result) : ''}${x.note ? `<br><small class="muted">${esc(x.note)}</small>` : ''}${sourcesHtml(x.sources)}</li>`).join('')}</ul>` : ''}
-          ${(other.unverified || []).length ? `<h3>Could not be verified</h3><ul>${other.unverified.map(x => `<li><strong>${esc(x.office || x.title || '')}</strong>${x.note ? `<br><small class="muted">${esc(x.note)}</small>` : ''}${sourcesHtml(x.sources)}</li>`).join('')}</ul>` : ''}
+          ${(other.decided_or_unopposed || []).length ? `<ul>${other.decided_or_unopposed.map(x => `<li><strong>${esc(x.office || x.title || x.race || '')}</strong>${x.status ? ` <span class="tag">${esc(x.status)}</span>` : ''}${x.result ? ': ' + esc(x.result) : ''}${x.note ? `<br><small class="muted">${esc(x.note)}</small>` : ''}${sourcesHtml(x.sources)}</li>`).join('')}</ul>` : ''}
+          ${(sb.contests || []).length ? `<h3>School Board (nonpartisan, decided August 18)</h3><ul>${sb.contests.map(x => `<li><strong>${esc(x.office || '')}</strong>: ${(x.results || []).map(r => `${esc(r.name)} ${r.pct != null ? r.pct + '%' : ''}${r.winner ? ' (won)' : ''}`).join(' vs. ')}${sourcesHtml(x.sources)}</li>`).join('')}</ul>` : ''}
           ${other.verified_ballot_note ? `<p class="muted"><small>${esc(other.verified_ballot_note)}</small></p>` : ''}
-          ${(sb.results || []).length ? `<h3>Sumter County School Board (nonpartisan, decided August 18)</h3><ul>${sb.results.map(x => `<li><strong>${esc(x.seat || x.district || x.office || '')}</strong>: ${esc(x.result || x.summary || (x.winner ? `${x.winner} won` : ''))}${x.note ? ` <small class="muted">— ${esc(x.note)}</small>` : ''}${sourcesHtml(x.sources)}</li>`).join('')}</ul>${sb.note ? `<p class="muted">${esc(sb.note)}</p>` : ''}${sourcesHtml(sb.sources)}` : ''}
         </div>
       </section>` : ''}`;
   }
@@ -273,10 +390,13 @@
     if (!r) return notFound();
     const cands = r.candidates || [];
     const issues = issuesForLevel(r.level);
+    if (r.kind === 'measure') return `<div class="breadcrumb"><a href="#/races">Races</a> › ${esc(r.title)}</div><span class="tag tag-level">${esc(jurLabel(r))}</span><h1>${esc(r.title)}</h1>${r.ballot_summary ? `<div class="card"><h3>Ballot summary</h3><p>${esc(r.ballot_summary)}</p><div class="grid grid-2"><div><h3>A "Yes" vote means</h3><p>${esc(r.what_yes_means || '')}</p></div><div><h3>A "No" vote means</h3><p>${esc(r.what_no_means || '')}</p></div></div></div>` : ''}${r.verified_ballot_note ? `<p class="muted"><small>${esc(r.verified_ballot_note)}</small></p>` : ''}`;
     return `<div class="breadcrumb"><a href="#/races">Races</a> › ${esc(r.title)}</div>
-      <span class="tag tag-level">${esc(r.office_group)}</span>
+      <span class="tag tag-level">${esc(r.office_group)}</span> <span class="tag">${esc(jurLabel(r))}</span>${(r.counties || []).length ? `<span class="tag">${esc(r.counties.join(', '))}</span>` : ''}
       <h1>${esc(r.title)}</h1>
       <p class="lead muted">${esc(r.what_it_does || '')} ${r.term ? `<strong>Term:</strong> ${esc(r.term)}.` : ''}</p>
+      ${r.on_november_ballot === false ? `<p class="notice"><strong>Not on the November ballot.</strong> ${esc(r.decided_note || 'This seat was decided before the general election.')}</p>` : ''}
+      ${coverageNote(r)}
       ${r.verified_ballot_note ? `<details class="notice" style="border-radius:0 var(--radius-sm) var(--radius-sm) 0"><summary>How we verified who is on the ballot</summary><p style="margin:8px 0 0">${esc(r.verified_ballot_note)}</p>${sourcesHtml(r.verified_ballot_sources)}</details>` : ''}
       <div class="btn-row"><a class="btn btn-primary" href="#/match">See how you match in this race →</a></div>
       <section class="section"><h2>Candidates</h2>${cands.some(c => c.withdrawn) ? '<p class="notice notice-warn">A candidate marked "Withdrew" ended their campaign after qualifying. Their name may still be printed on the ballot; votes for a withdrawn candidate are not counted. They are excluded from match results.</p>' : ''}<div class="stack">${cands.map(c => candidateCard(c)).join('')}</div></section>
@@ -402,13 +522,14 @@
         </div>
         <aside class="leaderboard card" aria-live="polite">
           <div class="eyebrow">Live leaderboard</div>
-          <select class="lb-race" data-lbrace aria-label="Race to show">${RACES.map(r => `<option value="${esc(r.id)}" ${(lbRace || RACES[0].id) === r.id ? 'selected' : ''}>${esc(r.title)}</option>`).join('')}</select>
-          <div data-lbrows>${leaderboardRows(lbRace || RACES[0].id, answers)}</div>
+          <select class="lb-race" data-lbrace aria-label="Race to show">${lbRaces().map(r => `<option value="${esc(r.id)}" ${(lbRace || lbRaces()[0].id) === r.id ? 'selected' : ''}>${esc(r.title)}</option>`).join('')}</select>
+          <div data-lbrows>${leaderboardRows(lbRace || lbRaces()[0].id, answers)}</div>
           <p class="lb-sub" style="margin-top:10px">Scores use only issues that apply to this office and that the candidate has a documented position on. "—" means fewer than three scorable issues so far.</p>
         </aside>
       </div>`;
   }
   let lbPrevOrder = {};
+  function lbRaces() { const list = ballotRaces(loadProfile()).filter(r => (r.candidates || []).some(c => !c.withdrawn)); return list.length ? list : RACES.slice(0, 1); }
   function leaderboardRows(raceId, answers) {
     const r = RACE_BY_ID[raceId];
     const scored = (r.candidates || []).filter(c => !c.withdrawn).map(c => Object.assign({ cand: c }, scoreCandidate(c, r, answers))).sort((a, b) => (b.pct == null || b.used < 3 ? -1 : b.pct) - (a.pct == null || a.used < 3 ? -1 : a.pct));
@@ -426,7 +547,7 @@
     const issue = ISSUES[Math.min(quizIndex, ISSUES.length - 1)];
     const card = root.querySelector('#swipe-card');
     const set = (patch) => { answers[issue.id] = Object.assign({}, answers[issue.id] || {}, patch); saveAnswers(answers); };
-    const refreshLb = () => { const rows = root.querySelector('[data-lbrows]'); if (rows) rows.innerHTML = leaderboardRows(lbRace || RACES[0].id, answers); const prog = root.querySelector('.quiz-progress span'); if (prog) prog.style.width = Math.round(100 * Object.values(answers).filter(a => a && a.value != null).length / ISSUES.length) + '%'; };
+    const refreshLb = () => { const rows = root.querySelector('[data-lbrows]'); if (rows) rows.innerHTML = leaderboardRows(lbRace || lbRaces()[0].id, answers); const prog = root.querySelector('.quiz-progress span'); if (prog) prog.style.width = Math.round(100 * Object.values(answers).filter(a => a && a.value != null).length / ISSUES.length) + '%'; };
     const answer = (v, dir) => {
       set({ value: v });
       refreshLb();
@@ -456,7 +577,9 @@
     const answers = loadAnswers();
     const answered = Object.values(answers).filter(a => a && a.value != null).length;
     if (!answered) return `<h1>Your matches</h1><p class="notice">You have not answered any statements yet.</p><div class="btn-row"><a class="btn btn-primary" href="#/match">Start the questionnaire →</a></div>`;
-    const sections = RACES.map(r => {
+    const prof = loadProfile();
+    const scope = ballotRaces(prof).filter(r => (r.candidates || []).some(c => !c.withdrawn));
+    const sections = scope.map(r => {
       const scored = (r.candidates || []).filter(c => !c.withdrawn).map(c => Object.assign({ cand: c }, scoreCandidate(c, r, answers))).sort((a, b) => (b.pct == null ? -1 : b.pct) - (a.pct == null ? -1 : a.pct));
       const answeredHere = issuesForLevel(r.level).filter(i => answers[i.id] && answers[i.id].value != null).length;
       return `<div class="card">
@@ -475,10 +598,12 @@
     });
     return `<h1>Your matches</h1>
       <p class="lead muted">Higher percentages mean a candidate's documented positions are closer to your answers on the issues that apply to that office. Percentages are only as good as the public record: a candidate who has said little will match on fewer issues, and that is shown under each name. Read the full profiles before deciding.</p>
+      ${addressPanel(!!prof)}
+      ${!prof ? '<p class="notice">Showing statewide races only. Enter your address above to score your congressional, legislative and county races too.</p>' : ''}
       <div class="btn-row"><a class="btn" href="#/match">Change my answers</a><button type="button" class="btn" data-print="1">Print or save as PDF</button></div>
       <section class="section"><h2>You on the map</h2><p class="muted">Your star is placed from your answers using the same formula as the candidates. Use the buttons to show one race at a time.</p>
-        <div class="map-filters" data-mapfilter>${['all'].concat(RACES.map(r => r.id)).map(id => `<button type="button" data-race="${esc(id)}" class="${id === 'all' ? 'selected' : ''}">${esc(id === 'all' ? 'All races' : RACE_BY_ID[id].title)}</button>`).join('')}</div>
-        <div class="card" data-mapcard>${landscapeMap(CANDIDATES.filter(c => !c.withdrawn), { you: userPoint(answers) })}</div>
+        <div class="map-filters" data-mapfilter>${['all'].concat(scope.map(r => r.id)).map(id => `<button type="button" data-race="${esc(id)}" class="${id === 'all' ? 'selected' : ''}">${esc(id === 'all' ? 'All my races' : RACE_BY_ID[id].title)}</button>`).join('')}</div>
+        <div class="card" data-mapcard>${landscapeMap(scope.flatMap(r => r.candidates || []).filter(c => !c.withdrawn), { you: userPoint(answers) })}</div>
       </section>
       <div class="stack section">${sections.join('')}</div>
       <p class="muted section">How the score works: for each statement you answered, the distance between your answer and the candidate's coded stance (both on a 5-point scale) is turned into agreement from 0% to 100%, then averaged with your "matters a lot" statements counting double. Only issues relevant to the office and with a documented candidate position are included. <a href="#/about">Full methodology →</a></p>`;
@@ -510,31 +635,41 @@
 
   function viewJudges() {
     const j = DATA.judicial || {};
-    const judges = j.judges || [];
+    const prof = loadProfile();
+    const dca = dcaFor(prof && prof.county);
+    const byDist = j.dca_judges_on_2026_ballot_by_district || {};
+    const ordinal = ['', 'First', 'Second', 'Third', 'Fourth', 'Fifth', 'Sixth'];
+    const judges = (j.judges || []);
+    const supreme = judges.filter(x => /Supreme/i.test(x.court || ''));
+    const fifth = judges.filter(x => /Fifth/i.test(x.court || ''));
+    const judgeCard = x => `<div class="card cand-card">${avatar(x, 'lg')}<div><h3>${esc(x.name)}</h3><div class="cand-meta"><span class="tag tag-level">${esc(x.court || '')}</span>${x.appointed_by ? `<span class="tag">Appointed by ${esc(x.appointed_by)}${x.appointed_year ? ` (${esc(x.appointed_year)})` : ''}</span>` : ''}</div><p>${esc(x.background || '')}</p>${x.notable ? `<p><strong>Notable:</strong> ${esc(x.notable)}</p>` : ''}${x.bar_poll ? `<p><strong>Florida Bar retention poll:</strong> ${esc(x.bar_poll)}</p>` : ''}${sourcesHtml(x.sources)}</div></div>`;
+    const nameOnly = (names, label) => `<div class="card"><h3>${esc(label)}</h3><p class="muted">Judges standing for retention, as listed by The Florida Bar. Backgrounds for these judges have not been researched yet; The Florida Bar publishes biographies for every judge on the ballot.</p><ul>${names.filter(n => !/^\(/.test(n)).map(n => `<li>${esc(n)}</li>`).join('')}</ul>${sourcesHtml(byDist.source ? [{ title: 'Florida Bar News: judges standing for merit retention in 2026', url: byDist.source }] : [])}</div>`;
+    const dcaBlock = d => { const label = (FL.dca_names && FL.dca_names[d]) || `${ordinal[d]} District Court of Appeal`; if (d === 5) return `<h2 class="section">${esc(label)}</h2>${j.list_complete === false ? `<p class="notice notice-warn">This list may be incomplete: the full 2026 Fifth District roster could not be confirmed from The Florida Bar during the last data review. Check your sample ballot for the exact names.</p>` : ''}<div class="stack">${fifth.map(judgeCard).join('')}</div>`; const names = byDist[`${ordinal[d]} DCA`] || []; return `<h2 class="section">${esc(label)}</h2>${names.length ? nameOnly(names, 'On the ballot in this district') : '<p class="muted">No appellate judges from this district are on the 2026 ballot, according to The Florida Bar.</p>'}`; };
     return `<h1>Judicial merit retention</h1>
-      <p class="lead muted">${esc(j.how_it_works || j.how_merit_retention_works || 'Florida Supreme Court justices and District Court of Appeal judges do not run against opponents. Voters answer "Shall Justice/Judge X be retained in office?" A majority Yes gives a new six-year term; a majority No creates a vacancy the governor fills.')}${j.sources ? '' : ''}</p>
+      <p class="lead muted">${esc(j.how_it_works || j.how_merit_retention_works || 'Florida Supreme Court justices and District Court of Appeal judges do not run against opponents. Voters answer "Shall Justice/Judge X be retained in office?" A majority Yes gives a new six-year term; a majority No creates a vacancy the governor fills.')}</p>
       ${sourcesHtml(j.sources || j.how_it_works_sources)}
+      ${addressPanel(!!prof)}
       ${j.ballot_context ? `<p class="notice">${esc(j.ballot_context)}</p>` : ''}
-      ${j.list_complete === false ? `<p class="notice notice-warn">This list may be incomplete: the full 2026 Fifth District Court of Appeal retention roster could not be confirmed from the Florida Bar during the last data review. Check your sample ballot for the exact names. ${esc(j.research_note || '')}</p>` : ''}
-      ${j.not_on_2026_ballot_note ? `<p class="muted"><small>${esc(j.not_on_2026_ballot_note)}</small>${sourcesHtml(j.not_on_2026_sources)}</p>` : ''}
-      <div class="stack section">${judges.length ? judges.map(x => `<div class="card cand-card">
-        ${avatar(x, 'lg')}
-        <div>
-          <h3>${esc(x.name)}</h3>
-          <div class="cand-meta"><span class="tag tag-level">${esc(x.court || '')}</span>${x.appointed_by ? `<span class="tag">Appointed by ${esc(x.appointed_by)}${x.appointed_year ? ` (${esc(x.appointed_year)})` : ''}</span>` : ''}</div>
-          <p>${esc(x.background || '')}</p>
-          ${x.notable ? `<p><strong>Notable:</strong> ${esc(x.notable)}</p>` : ''}
-          ${x.bar_poll ? `<p><strong>Florida Bar retention poll:</strong> ${esc(x.bar_poll)}</p>` : ''}
-          ${sourcesHtml(x.sources)}
-        </div>
-      </div>`).join('') : '<p class="empty">Judicial data pending.</p>'}</div>`;
+      <h2 class="section">Florida Supreme Court (every Florida ballot)</h2><div class="stack">${supreme.map(judgeCard).join('')}</div>
+      ${dca ? dcaBlock(dca) : `<h2 class="section">District Courts of Appeal</h2><p class="muted">Which appellate judges appear on your ballot depends on your county. Enter your address above to see yours, or expand a district below.</p>${[1,2,3,4,5,6].map(d => `<details style="margin-top:8px"><summary>${esc((FL.dca_names && FL.dca_names[d]) || ordinal[d] + ' DCA')}</summary>${dcaBlock(d)}</details>`).join('')}`}
+      ${j.not_on_2026_ballot_note ? `<p class="muted section"><small>${esc(j.not_on_2026_ballot_note)}</small>${sourcesHtml(j.not_on_2026_sources)}</p>` : ''}`;
   }
 
   function viewVote() {
     const v = DATA.voting_info || {};
     const soe = v.supervisor_of_elections || {};
     const row = (k, val) => val ? `<dt>${esc(k)}</dt><dd>${esc(val)}</dd>` : '';
-    return `<h1>How and where to vote in Sumter County</h1>
+    const prof = loadProfile();
+    const county = prof && prof.county;
+    if (county && !/^sumter$/i.test(county)) {
+      const ci = COUNTY_INFO[county] || {};
+      return `<h1>How and where to vote in ${esc(county)} County</h1>${addressPanel(true)}
+        <div class="card"><dl class="kv">${row('Election Day', 'Tuesday, November 3, 2026, 7 a.m. to 7 p.m. at your assigned precinct')}${row('Register / update party by', 'Monday, October 5, 2026')}${row('Request a mail ballot by', 'Thursday, October 22, 2026, 5 p.m.')}${row('Mail ballot must arrive by', '7 p.m. on Election Day (postmarks do not count); drop boxes at early-voting sites and the Supervisor\'s office')}${row('Early voting', 'At least Saturday, Oct. 24 through Saturday, Oct. 31 (counties may add Oct. 19–23 and Nov. 1); dates, hours and sites are set by your county')}${row('ID required', v.id_requirements)}</dl>
+        <div class="btn-row">${ci.soe_url ? `<a class="btn btn-primary" href="${esc(ci.soe_url)}" target="_blank" rel="noopener">${esc(county)} County Supervisor of Elections ↗</a>` : `<a class="btn btn-primary" href="https://dos.fl.gov/elections/contacts/supervisor-of-elections/" target="_blank" rel="noopener">Find your Supervisor of Elections ↗</a>`}<a class="btn" href="https://registration.elections.myflorida.com/CheckVoterStatus" target="_blank" rel="noopener">Check registration &amp; precinct ↗</a><a class="btn" href="https://registertovoteflorida.gov/" target="_blank" rel="noopener">Register ↗</a></div>
+        ${ci.notes ? `<p class="muted">${esc(ci.notes)}</p>` : ''}</div>
+        <p class="notice notice-warn">Statewide deadlines above come from Florida law. Early-voting days, hours and locations are set by each county: confirm them with your Supervisor of Elections.</p>`;
+    }
+    return `<h1>How and where to vote in Sumter County</h1>${addressPanel(!!prof)}
       <div class="card">
         <dl class="kv">
           ${row('Election Day', v.election_date)}${row('Polls open', v.election_day_hours)}${row('Register / update party by', v.registration_deadline)}
@@ -589,15 +724,17 @@
     else if (parts[0] === 'races') { html = viewRaces(); nav = 'races'; }
     else if (parts[0] === 'race' && parts[1]) { html = viewRace(decodeURIComponent(parts[1])); nav = 'races'; after = r => { bindHeat(r); bindMap(r); }; }
     else if (parts[0] === 'candidate' && parts[1]) { html = viewCandidate(decodeURIComponent(parts[1])); nav = 'races'; }
-    else if (parts[0] === 'match' && parts[1] === 'results') { html = viewResults(); nav = 'match'; after = r => { const p = r.querySelector('[data-print]'); if (p) p.addEventListener('click', () => window.print()); bindMap(r); const f = r.querySelector('[data-mapfilter]'); if (f) f.querySelectorAll('button').forEach(b => b.addEventListener('click', () => { f.querySelectorAll('button').forEach(x => x.classList.toggle('selected', x === b)); const id = b.dataset.race; const cands = (id === 'all' ? CANDIDATES : (RACE_BY_ID[id].candidates || [])).filter(c => !c.withdrawn); r.querySelector('[data-mapcard]').innerHTML = landscapeMap(cands, { you: userPoint(loadAnswers()) }); bindMap(r); })); }; }
+    else if (parts[0] === 'match' && parts[1] === 'results') { html = viewResults(); nav = 'match'; after = r => { const p = r.querySelector('[data-print]'); if (p) p.addEventListener('click', () => window.print()); bindMap(r); const f = r.querySelector('[data-mapfilter]'); if (f) f.querySelectorAll('button').forEach(b => b.addEventListener('click', () => { f.querySelectorAll('button').forEach(x => x.classList.toggle('selected', x === b)); const id = b.dataset.race; const cands = (id === 'all' ? ballotRaces(loadProfile()).flatMap(r => r.candidates || []) : (RACE_BY_ID[id].candidates || [])).filter(c => !c.withdrawn); r.querySelector('[data-mapcard]').innerHTML = landscapeMap(cands, { you: userPoint(loadAnswers()) }); bindMap(r); })); }; }
     else if (parts[0] === 'match') { html = viewMatch(); nav = 'match'; after = bindMatch; }
     else if (parts[0] === 'amendments') { html = viewAmendments(); nav = 'amendments'; }
     else if (parts[0] === 'judges') { html = viewJudges(); nav = 'judges'; }
     else if (parts[0] === 'vote') { html = viewVote(); nav = 'vote'; }
     else if (parts[0] === 'about') { html = viewAbout(); nav = 'about'; }
+    else if (parts[0] === 'where') { html = viewWhere(); nav = 'home'; after = bindAddress; }
     else { html = notFound(); }
     main.innerHTML = html;
     if (after) after(main);
+    if (main.querySelector('[data-addr-form]') || main.querySelector('[data-preset]')) bindAddress(main);
     document.querySelectorAll('[data-nav]').forEach(a => a.classList.toggle('active', a.dataset.nav === nav));
     $('#site-nav').classList.remove('open');
     $('#nav-toggle').setAttribute('aria-expanded', 'false');

@@ -194,12 +194,16 @@ window.GUIDE_DATA = {
  "races": [
   {
    "id": "us_senate_special",
-   "order": 1,
+   "order": 10001,
    "title": "U.S. Senate (special election)",
    "level": "federal",
    "office_group": "Federal",
    "term": "Remainder of term ending January 2029",
    "what_it_does": "One of Florida's two members of the U.S. Senate. Votes on federal laws, the federal budget, treaties, and confirmation of judges and cabinet officials. This special election fills the seat Marco Rubio vacated in 2025; the winner serves until the regular 2028 election.",
+   "jurisdiction": {
+    "type": "statewide"
+   },
+   "coverage": "full",
    "verified_ballot_note": "Ballotpedia's race page and its Aug 28, 2026 news summary, Wikipedia's race article and the Aug 6, 2026 Hy-Lo News voter guide all list the Nov 3 general-election candidates as Ashley Moody (R, incumbent), Angela 'Angie' Nixon (D) and Neil J. Gillespie (NPA); WUWF's June 12, 2026 qualifying report lists the same three plus the primary losers, and Spectrum News 13's Aug 19 results confirm Perry ran (and lost) in the Republican primary. A June 2026 online candidate guide described Gillespie as withdrawn, but every later source (Ballotpedia Aug 28, Hy-Lo News Aug 6, Palm Beach Examiner Aug 2026, Politics1) lists him as an active NPA candidate. No qualified write-in candidate was found in any source; the Florida Division of Elections candidate database (dos.elections.myflorida.com) is blocked from this environment, so the absence of a write-in could not be confirmed from the primary source  ;  ;  ;  ;  ; .",
    "verified_ballot_sources": [
     {
@@ -2409,12 +2413,24 @@ window.GUIDE_DATA = {
   },
   {
    "id": "us_house_11",
-   "order": 2,
+   "order": 20011,
    "title": "U.S. House, District 11",
    "level": "federal",
    "office_group": "Federal",
    "term": "2 years",
    "what_it_does": "Represents Florida's 11th Congressional District, which includes all of Sumter County and The Villages plus parts of Lake, Marion, Orange and Polk counties, in the U.S. House of Representatives. Votes on federal laws and spending. This is an open seat: Rep. Daniel Webster is retiring.",
+   "jurisdiction": {
+    "type": "cd",
+    "id": 11
+   },
+   "coverage": "full",
+   "counties": [
+    "Sumter",
+    "Lake",
+    "Marion",
+    "Orange",
+    "Polk"
+   ],
    "verified_ballot_note": "Post-recount reports from Spectrum News 13 (Aug 24, 2026), Florida Politics, Villages-News and The Apopka Chief list three Nov. 3 general-election candidates: Joe Strada (R), James Pericola (D) and Ralph Groves (L); Ballotpedia and Florida Division of Elections pages could not be fetched from this sandbox, so the absence of NPA or write-in candidates is not independently confirmed  ;  ; . No general-election debate or forum among Strada, Pericola and Groves had been reported by Villages Daily Sun, WESH, Spectrum News 13 or Florida Politics as of Sept 17, 2026 in searches run for this guide.",
    "verified_ballot_sources": [
     {
@@ -4098,12 +4114,16 @@ window.GUIDE_DATA = {
   },
   {
    "id": "governor",
-   "order": 3,
+   "order": 10003,
    "title": "Governor & Lieutenant Governor",
    "level": "state",
    "office_group": "State",
    "term": "4 years",
    "what_it_does": "Florida's chief executive. Signs or vetoes bills, proposes the state budget, appoints agency heads and judges, and manages emergencies such as hurricanes. Gov. Ron DeSantis is term-limited.",
+   "jurisdiction": {
+    "type": "statewide"
+   },
+   "coverage": "full",
    "verified_ballot_note": "Qualifying closed June 12, 2026: WUWF and the Tampa Bay Times/Spokesman-Review reported 27 qualified candidates for governor (10 R, 6 D, 6 NPA, 4 write-in, 1 Libertarian); the six NPA qualifiers are Dean Ocean Abrams, Charles Burkett, Jeffrey 'Dr. Jeff' Datto, Moliere 'Moe' Dimanche, Desmond Meade and Frank J. Russo (CBS12/politics1 lists), which confirms state Sen. Jason Pizzo did NOT qualify; Donalds (R, ~47.8%) and Jolly (D, ~61%) won the Aug. 18 primaries (CBS News, Washington Post); Meade withdrew Aug. 28, 2026 (WLRN/Florida Politics) and whether his name remains printed on the ballot is unverified (a second search pass on Sept. 17, 2026 found no Division of Elections notice or news report resolving this); the names of the four qualified write-in candidates (who do not appear on the ballot) could not be retrieved.",
    "verified_ballot_sources": [
     {
@@ -7352,12 +7372,16 @@ window.GUIDE_DATA = {
   },
   {
    "id": "attorney_general",
-   "order": 4,
+   "order": 10004,
    "title": "Attorney General",
    "level": "state",
    "office_group": "State",
    "term": "4 years",
    "what_it_does": "Florida's chief legal officer and a member of the Cabinet. Represents the state in court, issues legal opinions, enforces consumer-protection and antitrust laws, and runs the Office of Statewide Prosecution.",
+   "jurisdiction": {
+    "type": "statewide"
+   },
+   "coverage": "full",
    "verified_ballot_note": "Multiple news sources (News4Jax voter guide, Florida Tribune, NBC News primary results, Sparker's Soapbox) list only Republican James Uthmeier and Democrat José Javier Rodríguez as Nov. 3 general-election candidates; the Florida Division of Elections candidate list (dos.elections.myflorida.com) and Ballotpedia were blocked in this sandbox, so the absence of NPA/write-in candidates is unverified.",
    "verified_ballot_sources": [
     {
@@ -8415,12 +8439,16 @@ window.GUIDE_DATA = {
   },
   {
    "id": "cfo",
-   "order": 5,
+   "order": 10005,
    "title": "Chief Financial Officer",
    "level": "state",
    "office_group": "State",
    "term": "4 years",
    "what_it_does": "Runs the Department of Financial Services: the state treasury, insurance regulation and consumer services, the state fire marshal, unclaimed property, and audits of state spending. A member of the Cabinet.",
+   "jurisdiction": {
+    "type": "statewide"
+   },
+   "coverage": "full",
    "verified_ballot_note": "Primary results (News4Jax, FOX49, Florida Phoenix, WUWF) show Republican Blaise Ingoglia and Democrat Annette Taddeo as the Nov. 3 general-election nominees; no NPA or write-in candidates appeared in any source, but the Florida Division of Elections candidate list and Ballotpedia were blocked in this sandbox, so that is unverified.",
    "verified_ballot_sources": [
     {
@@ -9300,12 +9328,16 @@ window.GUIDE_DATA = {
   },
   {
    "id": "agriculture_commissioner",
-   "order": 6,
+   "order": 10006,
    "title": "Commissioner of Agriculture",
    "level": "state",
    "office_group": "State",
    "term": "4 years",
    "what_it_does": "Runs the Department of Agriculture and Consumer Services: food safety, farm policy, state forests, consumer complaints, and concealed-weapon licensing. A member of the Cabinet.",
+   "jurisdiction": {
+    "type": "statewide"
+   },
+   "coverage": "full",
    "verified_ballot_note": "Primary results (Florida Politics, WUWF, WFLA, Florida Tribune) show Republican incumbent Wilton Simpson and Democrat Joey Mendoza Atkins as the Nov. 3 general-election nominees; no NPA or write-in candidates appeared in any source, but the Florida Division of Elections candidate list (floridaelectionwatch.gov / dos.elections.myflorida.com) and Ballotpedia were blocked in this sandbox, so that is unverified.",
    "verified_ballot_sources": [
     {
@@ -10055,12 +10087,21 @@ window.GUIDE_DATA = {
   },
   {
    "id": "state_house_52",
-   "order": 7,
+   "order": 50052,
    "title": "Florida House, District 52",
    "level": "state",
    "office_group": "State",
    "term": "2 years",
    "what_it_does": "Represents District 52, which covers all of Sumter County and part of Hernando County, in the Florida House of Representatives. Votes on state laws and the state budget.",
+   "jurisdiction": {
+    "type": "hd",
+    "id": 52
+   },
+   "coverage": "full",
+   "counties": [
+    "Sumter",
+    "Hernando"
+   ],
    "verified_ballot_note": "Ballotpedia's District 52 page lists Samantha Scott (R) and Pamala Bivins (D) as the candidates for the Nov. 3, 2026 general election after the Aug. 18, 2026 primaries . Whether any write-in or NPA candidate also qualified could NOT be verified: the Sumter County Supervisor of Elections notice of general election  and Ballotpedia were blocked in this sandbox. Research limitation (two passes, Sept 2026): every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was capped, so positions are coded only from search-result snippets. Second pass found no statements by Scott on property tax/Amendment 3, insurance, immigration, guns, abortion, education or growth, and no individual roll-call votes. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
    "verified_ballot_sources": [
     {
@@ -10225,14 +10266,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -10643,14 +10684,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -10752,12 +10793,17 @@ window.GUIDE_DATA = {
   },
   {
    "id": "county_commission_4",
-   "order": 8,
+   "order": 60000,
    "title": "Sumter County Commission, District 4",
    "level": "county",
    "office_group": "County",
    "term": "4 years",
    "what_it_does": "One of five county commissioners. Sets the county property-tax rate and budget, funds the Sheriff and fire/EMS, approves land-use and zoning changes, and oversees roads, parks and county services. Elected countywide but must live in the district.",
+   "jurisdiction": {
+    "type": "county",
+    "id": "Sumter"
+   },
+   "coverage": "full",
    "verified_ballot_note": "ClickOrlando's 2026 Voter's Guide states the winner of the District 4 Republican primary faces write-in candidate Ethan Parks in November ; Lake & Sumter Style reports Bogue won that primary with 73.04% ; Florida Money Watch lists Parks as an active write-in . Not verified against the county's official Notice of General Election (blocked). Research limitation (two passes, Sept 2026): every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was capped, so positions are coded only from search-result snippets. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
    "verified_ballot_sources": [
     {
@@ -10973,14 +11019,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -11391,14 +11437,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -12449,6 +12495,759 @@ window.GUIDE_DATA = {
    }
   ]
  },
+ "florida": {
+  "_comment": "County -> judicial circuit -> District Court of Appeal (DCA boundaries as realigned Jan 1, 2023). Used to show the right appellate-judge retention questions for a voter's county.",
+  "counties": {
+   "Escambia": {
+    "circuit": 1,
+    "dca": 1
+   },
+   "Okaloosa": {
+    "circuit": 1,
+    "dca": 1
+   },
+   "Santa Rosa": {
+    "circuit": 1,
+    "dca": 1
+   },
+   "Walton": {
+    "circuit": 1,
+    "dca": 1
+   },
+   "Franklin": {
+    "circuit": 2,
+    "dca": 1
+   },
+   "Gadsden": {
+    "circuit": 2,
+    "dca": 1
+   },
+   "Jefferson": {
+    "circuit": 2,
+    "dca": 1
+   },
+   "Leon": {
+    "circuit": 2,
+    "dca": 1
+   },
+   "Liberty": {
+    "circuit": 2,
+    "dca": 1
+   },
+   "Wakulla": {
+    "circuit": 2,
+    "dca": 1
+   },
+   "Columbia": {
+    "circuit": 3,
+    "dca": 1
+   },
+   "Dixie": {
+    "circuit": 3,
+    "dca": 1
+   },
+   "Hamilton": {
+    "circuit": 3,
+    "dca": 1
+   },
+   "Lafayette": {
+    "circuit": 3,
+    "dca": 1
+   },
+   "Madison": {
+    "circuit": 3,
+    "dca": 1
+   },
+   "Suwannee": {
+    "circuit": 3,
+    "dca": 1
+   },
+   "Taylor": {
+    "circuit": 3,
+    "dca": 1
+   },
+   "Clay": {
+    "circuit": 4,
+    "dca": 5
+   },
+   "Duval": {
+    "circuit": 4,
+    "dca": 5
+   },
+   "Nassau": {
+    "circuit": 4,
+    "dca": 5
+   },
+   "Citrus": {
+    "circuit": 5,
+    "dca": 5
+   },
+   "Hernando": {
+    "circuit": 5,
+    "dca": 5
+   },
+   "Lake": {
+    "circuit": 5,
+    "dca": 5
+   },
+   "Marion": {
+    "circuit": 5,
+    "dca": 5
+   },
+   "Sumter": {
+    "circuit": 5,
+    "dca": 5
+   },
+   "Pasco": {
+    "circuit": 6,
+    "dca": 2
+   },
+   "Pinellas": {
+    "circuit": 6,
+    "dca": 2
+   },
+   "Flagler": {
+    "circuit": 7,
+    "dca": 5
+   },
+   "Putnam": {
+    "circuit": 7,
+    "dca": 5
+   },
+   "St. Johns": {
+    "circuit": 7,
+    "dca": 5
+   },
+   "Volusia": {
+    "circuit": 7,
+    "dca": 5
+   },
+   "Alachua": {
+    "circuit": 8,
+    "dca": 1
+   },
+   "Baker": {
+    "circuit": 8,
+    "dca": 1
+   },
+   "Bradford": {
+    "circuit": 8,
+    "dca": 1
+   },
+   "Gilchrist": {
+    "circuit": 8,
+    "dca": 1
+   },
+   "Levy": {
+    "circuit": 8,
+    "dca": 1
+   },
+   "Union": {
+    "circuit": 8,
+    "dca": 1
+   },
+   "Orange": {
+    "circuit": 9,
+    "dca": 6
+   },
+   "Osceola": {
+    "circuit": 9,
+    "dca": 6
+   },
+   "Hardee": {
+    "circuit": 10,
+    "dca": 6
+   },
+   "Highlands": {
+    "circuit": 10,
+    "dca": 6
+   },
+   "Polk": {
+    "circuit": 10,
+    "dca": 6
+   },
+   "Miami-Dade": {
+    "circuit": 11,
+    "dca": 3
+   },
+   "DeSoto": {
+    "circuit": 12,
+    "dca": 2
+   },
+   "Manatee": {
+    "circuit": 12,
+    "dca": 2
+   },
+   "Sarasota": {
+    "circuit": 12,
+    "dca": 2
+   },
+   "Hillsborough": {
+    "circuit": 13,
+    "dca": 2
+   },
+   "Bay": {
+    "circuit": 14,
+    "dca": 1
+   },
+   "Calhoun": {
+    "circuit": 14,
+    "dca": 1
+   },
+   "Gulf": {
+    "circuit": 14,
+    "dca": 1
+   },
+   "Holmes": {
+    "circuit": 14,
+    "dca": 1
+   },
+   "Jackson": {
+    "circuit": 14,
+    "dca": 1
+   },
+   "Washington": {
+    "circuit": 14,
+    "dca": 1
+   },
+   "Palm Beach": {
+    "circuit": 15,
+    "dca": 4
+   },
+   "Monroe": {
+    "circuit": 16,
+    "dca": 3
+   },
+   "Broward": {
+    "circuit": 17,
+    "dca": 4
+   },
+   "Brevard": {
+    "circuit": 18,
+    "dca": 5
+   },
+   "Seminole": {
+    "circuit": 18,
+    "dca": 5
+   },
+   "Indian River": {
+    "circuit": 19,
+    "dca": 4
+   },
+   "Martin": {
+    "circuit": 19,
+    "dca": 4
+   },
+   "Okeechobee": {
+    "circuit": 19,
+    "dca": 4
+   },
+   "St. Lucie": {
+    "circuit": 19,
+    "dca": 4
+   },
+   "Charlotte": {
+    "circuit": 20,
+    "dca": 6
+   },
+   "Collier": {
+    "circuit": 20,
+    "dca": 6
+   },
+   "Glades": {
+    "circuit": 20,
+    "dca": 6
+   },
+   "Hendry": {
+    "circuit": 20,
+    "dca": 6
+   },
+   "Lee": {
+    "circuit": 20,
+    "dca": 6
+   }
+  },
+  "dca_names": {
+   "1": "First District Court of Appeal (Tallahassee)",
+   "2": "Second District Court of Appeal (St. Petersburg)",
+   "3": "Third District Court of Appeal (Miami)",
+   "4": "Fourth District Court of Appeal (West Palm Beach)",
+   "5": "Fifth District Court of Appeal (Daytona Beach)",
+   "6": "Sixth District Court of Appeal (Lakeland)"
+  }
+ },
+ "counties": {
+  "Alachua": {
+   "soe_name": "Alachua County Supervisor of Elections",
+   "soe_url": "https://www.votealachua.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Gainesville",
+   "notes": "URL seen in search result (votealachua.gov/325/File-to-Run-in-2026). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Baker": {
+   "soe_name": "Baker County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Macclenny",
+   "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Bay": {
+   "soe_name": "Bay County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Panama City",
+   "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Bradford": {
+   "soe_name": "Bradford County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Starke",
+   "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Brevard": {
+   "soe_name": "Brevard County Supervisor of Elections",
+   "soe_url": "https://www.votebrevard.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Titusville",
+   "notes": "URL seen in search result (votebrevard.gov/Candidate-Information/2026-Candidates). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Broward": {
+   "soe_name": "Broward County Supervisor of Elections",
+   "soe_url": "https://browardvotes.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Fort Lauderdale",
+   "notes": "URL seen in search result (browardvotes.gov/candidates). Supervisor: Joe Scott (Axios, Aug 2026). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Calhoun": {
+   "soe_name": "Calhoun County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Blountstown",
+   "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Charlotte": {
+   "soe_name": "Charlotte County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Punta Gorda",
+   "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Citrus": {
+   "soe_name": "Citrus County Supervisor of Elections",
+   "soe_url": "https://www.votecitrus.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Inverness",
+   "notes": "URL seen in search result (votecitrus.gov). 2026 offices page: https://www.votecitrus.gov/188/2026-Offices-Up-for-Election Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Clay": {
+   "soe_name": "Clay County Supervisor of Elections",
+   "soe_url": "https://www.clayelections.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Green Cove Springs",
+   "notes": "Domain ClayElections.gov listed in a search snippet of the state directory; not independently verified. Supervisor: Chris H. Chambless. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Collier": {
+   "soe_name": "Collier County Supervisor of Elections",
+   "soe_url": "https://www.colliervotes.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Naples (East Naples)",
+   "notes": "URL seen in search result (colliervotes.gov/m/newsflash/home/detail/105). Supervisor: Melissa Blazier. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Columbia": {
+   "soe_name": "Columbia County Supervisor of Elections",
+   "soe_url": "https://www.votecolumbiafl.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Lake City",
+   "notes": "Domain VoteColumbiaFL.gov listed in a search snippet of the state directory; not independently verified. Supervisor: Tomi Stinson Brown. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "DeSoto": {
+   "soe_name": "DeSoto County Supervisor of Elections",
+   "soe_url": "https://www.votedesoto.com/",
+   "sample_ballot_url": null,
+   "county_seat": "Arcadia",
+   "notes": "Domain VoteDeSoto.com listed in a search snippet of the state directory; not independently verified. Supervisor: Debbie Wertz. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Dixie": {
+   "soe_name": "Dixie County Supervisor of Elections",
+   "soe_url": "https://www.dixievotes.com/",
+   "sample_ballot_url": null,
+   "county_seat": "Cross City",
+   "notes": "Domain DixieVotes.com listed in a search snippet of the state directory; not independently verified. Supervisor: Darbi Chaires. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Duval": {
+   "soe_name": "Duval County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Jacksonville",
+   "notes": "Snippet listed 'DuvalElections.com'; current domain uncertain (may be duvalelections.gov) so left null. Supervisor: Jerry Holland. Duval is consolidated with the City of Jacksonville (no county commission; City Council instead). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Escambia": {
+   "soe_name": "Escambia County Supervisor of Elections",
+   "soe_url": "https://www.escambiavotes.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Pensacola",
+   "notes": "Domain EscambiaVotes.gov listed in a search snippet of the state directory; not independently verified. Supervisor: Robert Bender. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Flagler": {
+   "soe_name": "Flagler County Supervisor of Elections",
+   "soe_url": "https://www.flaglerelections.com/",
+   "sample_ballot_url": null,
+   "county_seat": "Bunnell",
+   "notes": "Domain FlaglerElections.com listed in a search snippet of the state directory; not independently verified. Supervisor: Kaiti Lenhart. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Franklin": {
+   "soe_name": "Franklin County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Apalachicola",
+   "notes": "An older directory snippet listed votefranklin.com; not confident it is current. Supervisor: Heather Riley. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Gadsden": {
+   "soe_name": "Gadsden County Supervisor of Elections",
+   "soe_url": "https://votegadsdenfl.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Quincy",
+   "notes": "URL seen in search result (votegadsdenfl.gov). Supervisor: Kenya Williams. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Gilchrist": {
+   "soe_name": "Gilchrist County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Trenton",
+   "notes": "An older directory snippet listed votegilchrist.com; not confident it is current. Supervisor: Lisa Darus. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Glades": {
+   "soe_name": "Glades County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Moore Haven",
+   "notes": "An older directory snippet listed voteglades.com; not confident it is current. Supervisor: Aletris Farnam. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Gulf": {
+   "soe_name": "Gulf County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Port St. Joe",
+   "notes": "An older directory snippet listed votegulf.com; not confident it is current. Supervisor: Rhonda Pierce. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Hamilton": {
+   "soe_name": "Hamilton County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Jasper",
+   "notes": "An older directory snippet listed hamiltonvotes.com; not confident it is current. Supervisor: Laura Hutto. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Hardee": {
+   "soe_name": "Hardee County Supervisor of Elections",
+   "soe_url": "https://hardeeflvotes.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Wauchula",
+   "notes": "URL seen in search result (hardeeflvotes.gov). Supervisor: Diane Smith. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Hendry": {
+   "soe_name": "Hendry County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "LaBelle",
+   "notes": "An older directory snippet listed hendryelections.org; not confident it is current. Supervisor: Sherry Taylor. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Hernando": {
+   "soe_name": "Hernando County Supervisor of Elections",
+   "soe_url": "https://www.hernandovotes.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Brooksville",
+   "notes": "URL seen in search result (hernandovotes.gov). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Highlands": {
+   "soe_name": "Highlands County Supervisor of Elections",
+   "soe_url": "https://www.votehighlands.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Sebring",
+   "notes": "URL listed in search snippet. Supervisor: Karen Healy. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Hillsborough": {
+   "soe_name": "Hillsborough County Supervisor of Elections",
+   "soe_url": "https://www.votehillsborough.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Tampa",
+   "notes": "URL seen in search result (votehillsborough.gov). Supervisor: Craig Latimer. 'On the Ballot' page: https://www.votehillsborough.gov/180/On-the-Ballot Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Holmes": {
+   "soe_name": "Holmes County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Bonifay",
+   "notes": "No SOE URL seen in search results. Supervisor: H. Russell 'Rusty' Williams. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Indian River": {
+   "soe_name": "Indian River County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Vero Beach",
+   "notes": "No SOE URL seen in search results. Supervisor: Leslie Rossway Swan. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Jackson": {
+   "soe_name": "Jackson County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Marianna",
+   "notes": "No SOE URL seen in search results. Supervisor: Carol A. Dunaway. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Jefferson": {
+   "soe_name": "Jefferson County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Monticello",
+   "notes": "No SOE URL seen in search results. Supervisor: Michelle Milligan. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Lafayette": {
+   "soe_name": "Lafayette County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Mayo",
+   "notes": "No SOE URL seen in search results. Supervisor: Travis Hart. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Lake": {
+   "soe_name": "Lake County Supervisor of Elections",
+   "soe_url": "https://www.lakevotes.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Tavares",
+   "notes": "URL seen in search result (lakevotes.gov). Supervisor: Alan Hays. Candidates page: https://www.lakevotes.gov/190/Current-County-Candidates-Committees Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Lee": {
+   "soe_name": "Lee County Supervisor of Elections",
+   "soe_url": "https://www.lee.vote/",
+   "sample_ballot_url": null,
+   "county_seat": "Fort Myers",
+   "notes": "URL seen in search result (lee.vote/246/Offices-to-Be-Elected). Supervisor: Jenna Persons-Mulicka. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Leon": {
+   "soe_name": "Leon County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Tallahassee",
+   "notes": "No SOE URL seen in search results. Supervisor: Mark Earley. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Levy": {
+   "soe_name": "Levy County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Bronson",
+   "notes": "No SOE URL seen in search results. Supervisor: Tammy Jones. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Liberty": {
+   "soe_name": "Liberty County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Bristol",
+   "notes": "No SOE URL seen in search results. Supervisor: Grant Conyers. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Madison": {
+   "soe_name": "Madison County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Madison",
+   "notes": "No SOE URL seen in search results. Supervisor: Heath Driggers. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Manatee": {
+   "soe_name": "Manatee County Supervisor of Elections",
+   "soe_url": "https://www.votemanatee.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Bradenton",
+   "notes": "URL seen in search result (votemanatee.gov). Supervisor: Scott Farrington. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Marion": {
+   "soe_name": "Marion County Supervisor of Elections",
+   "soe_url": "https://www.votemarion.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Ocala",
+   "notes": "URL seen in search result (votemarion.gov). Candidates page: https://www.votemarion.gov/210/Candidates Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Martin": {
+   "soe_name": "Martin County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Stuart",
+   "notes": "No SOE URL seen in search results. Supervisor: Vicki Davis. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Miami-Dade": {
+   "soe_name": "Miami-Dade County Supervisor of Elections",
+   "soe_url": "https://www.votemiamidade.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Miami",
+   "notes": "URL seen in search result (votemiamidade.gov/elections/home.page; also miamidade.gov/elections). Supervisor: Alina Garcia. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Monroe": {
+   "soe_name": "Monroe County Supervisor of Elections",
+   "soe_url": "https://www.keyselections.org/",
+   "sample_ballot_url": null,
+   "county_seat": "Key West",
+   "notes": "Domain KeysElections.org listed in search snippet; not independently verified. Supervisor: Sherri Hodies. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Nassau": {
+   "soe_name": "Nassau County Supervisor of Elections",
+   "soe_url": "https://www.votenassaufl.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Fernandina Beach",
+   "notes": "Domain VoteNassauFL.gov listed in search snippet; not independently verified. Supervisor: Janet H. Adkins. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Okaloosa": {
+   "soe_name": "Okaloosa County Supervisor of Elections",
+   "soe_url": "https://www.voteokaloosa.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Crestview",
+   "notes": "URL seen in search result (voteokaloosa.gov). Supervisor: Paul A. Lux. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Okeechobee": {
+   "soe_name": "Okeechobee County Supervisor of Elections",
+   "soe_url": "https://www.voteokeechobee.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Okeechobee",
+   "notes": "Domain VoteOkeechobee.gov listed in search snippet; not independently verified. Supervisor: David May. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Orange": {
+   "soe_name": "Orange County Supervisor of Elections",
+   "soe_url": "https://voteorangefl.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Orlando",
+   "notes": "URL seen in search result (voteorangefl.gov). Supervisor: Karen Castor Dentel. Candidate list: https://voteorangefl.gov/current-candidates/candidate-list/ Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Osceola": {
+   "soe_name": "Osceola County Supervisor of Elections",
+   "soe_url": "https://www.voteosceola.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Kissimmee",
+   "notes": "Domain VoteOsceola.gov listed in search snippet (osceola.org directory page also seen); not independently verified. Supervisor: Mary Jane Arrington. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Palm Beach": {
+   "soe_name": "Palm Beach County Supervisor of Elections",
+   "soe_url": "https://www.votepalmbeach.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "West Palm Beach",
+   "notes": "URL seen in search result (votepalmbeach.gov). Supervisor: Wendy Sartory Link. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Pasco": {
+   "soe_name": "Pasco County Supervisor of Elections",
+   "soe_url": "https://www.pascovotes.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Dade City",
+   "notes": "URL seen in search result (pascovotes.gov/candidates). Supervisor: Brian E. Corley. Notice of General Election PDF: https://www.pascovotes.gov/Documents/News/2026_nge_pas_english.pdf Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Pinellas": {
+   "soe_name": "Pinellas County Supervisor of Elections",
+   "soe_url": "https://www.votepinellas.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Clearwater",
+   "notes": "URL seen in search result (votepinellas.gov). Supervisor: Julie Marcus. Nov 3, 2026 info page: https://www.votepinellas.gov/382/November-3-2026-General-Election-Informa Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Polk": {
+   "soe_name": "Polk County Supervisor of Elections",
+   "soe_url": "https://www.polkelections.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Bartow",
+   "notes": "URL seen in search result (polkelections.gov/31/Candidates). Supervisor: Melony Bell. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Putnam": {
+   "soe_name": "Putnam County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Palatka",
+   "notes": "No SOE URL seen in search results. Supervisor: Charles Overturf. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "St. Johns": {
+   "soe_name": "St. Johns County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "St. Augustine",
+   "notes": "No SOE URL seen in search results. Supervisor: Vicky Oakes. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "St. Lucie": {
+   "soe_name": "St. Lucie County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Fort Pierce",
+   "notes": "No SOE URL seen in search results. Supervisor: Gertrude Walker. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Santa Rosa": {
+   "soe_name": "Santa Rosa County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Milton",
+   "notes": "No SOE URL seen in search results. Supervisor: Tappie A. Villane. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Sarasota": {
+   "soe_name": "Sarasota County Supervisor of Elections",
+   "soe_url": "https://www.sarasotavotes.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Sarasota",
+   "notes": "URL seen in search result (sarasotavotes.gov). Supervisor: Ron Turner. Offices up for election: https://www.sarasotavotes.gov/181/Offices-up-for-Election Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Seminole": {
+   "soe_name": "Seminole County Supervisor of Elections",
+   "soe_url": "https://voteseminole.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Sanford",
+   "notes": "URL seen in search result (voteseminole.gov/elections/upcoming-elections/). Supervisor: Amy Pennock. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Sumter": {
+   "soe_name": "Sumter County Supervisor of Elections",
+   "soe_url": "https://elections.sumtercountyfl.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Bushnell",
+   "notes": "URL seen in search result. Supervisor: William 'Bill' Keen. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Suwannee": {
+   "soe_name": "Suwannee County Supervisor of Elections",
+   "soe_url": null,
+   "sample_ballot_url": null,
+   "county_seat": "Live Oak",
+   "notes": "Snippet listed 'SuwaneeVotes.com' (spelling uncertain), so left null. Supervisor: Jennifer Musgrove Kinsey. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Taylor": {
+   "soe_name": "Taylor County Supervisor of Elections",
+   "soe_url": "https://www.taylorelectionsfl.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Perry",
+   "notes": "URL seen in search result (taylorelectionsfl.gov). Supervisor: Dana Southerland. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Union": {
+   "soe_name": "Union County Supervisor of Elections",
+   "soe_url": "https://www.unionflvotes.com/",
+   "sample_ballot_url": null,
+   "county_seat": "Lake Butler",
+   "notes": "Domain UnionFLVotes.com listed in search snippet; not independently verified. Supervisor: Deborah K. Osborne. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Volusia": {
+   "soe_name": "Volusia County Supervisor of Elections",
+   "soe_url": "https://www.volusiaelections.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "DeLand",
+   "notes": "URL seen in search result (volusiaelections.gov). Supervisor: Lisa Lewis. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Wakulla": {
+   "soe_name": "Wakulla County Supervisor of Elections",
+   "soe_url": "https://wakullavotes.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Crawfordville",
+   "notes": "URL seen in search result (wakullavotes.gov). Supervisor: Joseph 'Joe' Morgan. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Walton": {
+   "soe_name": "Walton County Supervisor of Elections",
+   "soe_url": "https://www.votewalton.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "DeFuniak Springs",
+   "notes": "Domain VoteWalton.gov listed in search snippet; not independently verified. Supervisor: Ryan Messer. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  },
+  "Washington": {
+   "soe_name": "Washington County Supervisor of Elections",
+   "soe_url": "https://wcsoe.gov/",
+   "sample_ballot_url": null,
+   "county_seat": "Chipley",
+   "notes": "URL seen in search result (wcsoe.gov). Supervisor: Deidra Pettis. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+  }
+ },
+ "coverage": {},
  "school_board": {
   "race_id": "school_board_results",
   "verified_ballot_note": "Results from Lake & Sumter Style's 2026 Sumter County Primary Election Results (https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/) and ClickOrlando's Aug. 18, 2026 Sumter results page; official canvass at https://enr.electionsfl.org/SUM/3989/Summary/ (blocked in sandbox). All three winners exceeded 50%, so under Florida law for nonpartisan school-board races none goes to a Nov. 3 runoff; the school board will not appear on the November ballot. Vote totals may be election-night figures rather than the certified canvass.",

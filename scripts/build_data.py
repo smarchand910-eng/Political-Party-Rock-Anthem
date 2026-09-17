@@ -22,6 +22,28 @@ def main():
     issues = load(os.path.join(DATA, 'issues.json'))['issues']
     issue_ids = {i['id'] for i in issues}
     races_meta = load(os.path.join(DATA, 'races.json'))['races']
+    known_ids = {m['id'] for m in races_meta}
+    # Auto-register statewide race files (us_house_<n>, state_senate_<n>, state_house_<n>, county_<x>) that carry their own metadata
+    ORDER_BY_TYPE = {'statewide': 10, 'cd': 20, 'sd': 40, 'hd': 50, 'county': 60}
+    for fn in sorted(os.listdir(RESEARCH)):
+        if not fn.endswith('.json') or fn.startswith('_'): continue
+        rid = fn[:-5]
+        if rid in known_ids or not re.match(r'^(us_house_\d+|state_senate_\d+|state_house_\d+|county_[a-z0-9_]+)$', rid): continue
+        rf = load(os.path.join(RESEARCH, fn), {}) or {}
+        if not rf.get('title') or not rf.get('jurisdiction'): continue
+        num = int(rf['jurisdiction'].get('id')) if str(rf['jurisdiction'].get('id', '')).isdigit() else 0
+        races_meta.append({'id': rid, 'order': ORDER_BY_TYPE.get(rf['jurisdiction']['type'], 90) * 1000 + num, 'title': rf['title'], 'level': rf.get('level', 'state'),
+                           'office_group': rf.get('office_group', 'State'), 'term': rf.get('term', ''), 'what_it_does': rf.get('what_it_does', ''),
+                           'jurisdiction': rf['jurisdiction'], 'counties': rf.get('counties', []), 'coverage': rf.get('coverage', 'roster'),
+                           'on_november_ballot': rf.get('on_november_ballot', True), 'decided_note': rf.get('decided_note'), 'kind': rf.get('kind', 'race'),
+                           'ballot_summary': rf.get('ballot_summary'), 'what_yes_means': rf.get('what_yes_means'), 'what_no_means': rf.get('what_no_means')})
+        known_ids.add(rid)
+    # Sumter-era races keep their hand-written order (1..8) but sit inside the same groups
+    for m in races_meta:
+        if m['id'] in ('us_senate_special','governor','attorney_general','cfo','agriculture_commissioner'): m['order'] = 10000 + m['order']
+        elif m['id'] == 'us_house_11': m['order'] = 20011
+        elif m['id'] == 'state_house_52': m['order'] = 50052
+        elif m['id'] == 'county_commission_4': m['order'] = 60000
     supplements = (load(os.path.join(RESEARCH, 'supplements.json'), {}) or {}).get('candidates', {})
     races = []
     problems = []
@@ -119,6 +141,9 @@ def main():
         'judicial': judicial,
         'voting_info': voting,
         'other_races': load(os.path.join(RESEARCH, 'county_commission_other.json'), {}) or {},
+        'florida': load(os.path.join(DATA, 'florida.json'), {}) or {},
+        'counties': (load(os.path.join(RESEARCH, 'counties.json'), {}) or {}).get('counties', {}),
+        'coverage': {fn[1:-5]: load(os.path.join(RESEARCH, fn), {}) for fn in os.listdir(RESEARCH) if fn.startswith('_coverage') and fn.endswith('.json')},
         'school_board': load(os.path.join(RESEARCH, 'school_board_results.json'), {}) or {},
     }
     js = 'window.GUIDE_DATA = ' + json.dumps(out, ensure_ascii=False, indent=1) + ';\n'
