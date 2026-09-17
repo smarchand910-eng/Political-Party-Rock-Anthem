@@ -17,6 +17,7 @@ const SITE_URL = (CUSTOM_DOMAIN ? `https://${CUSTOM_DOMAIN}` : (process.env.SITE
 const BASE_PATH = new URL(SITE_URL).pathname.replace(/\/$/, ''); // '' for a custom domain, '/repo' for project pages
 
 const data = (() => { const js = fs.readFileSync(path.join(ROOT, 'data', 'guide.js'), 'utf8'); return JSON.parse(js.slice(js.indexOf('{'), js.lastIndexOf('}') + 1)); })();
+const BUILD_ID = Date.now().toString(36); // cache-busting query for data/script/style URLs in the prerendered pages
 const slug = s => String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
 // route -> output folder + metadata
@@ -72,6 +73,7 @@ function copyDir(src, dest) { fs.mkdirSync(dest, { recursive: true }); for (cons
       .replace(/<title>[^<]*<\/title>/, `<title>${esc(r.title)}</title>`)
       .replace(/<meta name="description" content="[^"]*" \/>/, `<meta name="description" content="${esc(r.desc)}" />`)
       .replace('<link rel="stylesheet" href="assets/styles.css" />', `<base href="${BASE_PATH}/" />\n  <link rel="canonical" href="${url}" />\n  <meta property="og:type" content="website" />\n  <meta property="og:title" content="${esc(r.title)}" />\n  <meta property="og:description" content="${esc(r.desc)}" />\n  <meta property="og:url" content="${url}" />\n  ${r.person && r.person.image ? `<meta property="og:image" content="${esc(r.person.image)}" />` : ''}\n  <meta name="twitter:card" content="summary" />\n  <script type="application/ld+json">${JSON.stringify(jsonld)}</script>\n  <link rel="stylesheet" href="assets/styles.css" />`)
+      .replace(/(assets\/styles\.css|data\/guide\.js|data\/statewide\.js|assets\/app\.js)"/g, `$1?v=${BUILD_ID}"`)
       .replace('<main id="main" class="container" tabindex="-1"></main>', `<main id="main" class="container" tabindex="-1" data-route="${esc(r.hash)}">${main}</main>`);
     const dir = path.join(DIST, r.out);
     fs.mkdirSync(dir, { recursive: true });

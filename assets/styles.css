@@ -322,3 +322,8 @@ tr.highlight td { background: var(--accent-soft); }
 
 .hero-picker { margin-top: 22px; }
 .hero-picker .county-picker select { font-size: 1.15rem; padding: 14px 16px; max-width: 520px; }
+
+/* Map legend */
+.map-legend { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 8px; font-size: .9rem; }
+.map-legend span { display: inline-flex; align-items: center; gap: 6px; }
+.map-legend i { display: inline-block; width: 14px; height: 14px; border-radius: 50%; border: 2px solid var(--surface); box-shadow: 0 0 0 1px var(--border); }
