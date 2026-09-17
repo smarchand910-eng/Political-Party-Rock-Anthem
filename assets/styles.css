@@ -300,3 +300,25 @@ tr.highlight td { background: var(--accent-soft); }
 .addr-manual label { display: flex; flex-direction: column; gap: 4px; font-size: .85rem; color: var(--text-muted); font-weight: 600; }
 .addr-manual input, .addr-manual select { padding: 8px 10px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface); color: var(--text); font: inherit; }
 .addr-bar { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding: 12px 16px; }
+
+/* County pages */
+.county-picker { display: flex; flex-direction: column; gap: 6px; }
+.county-picker select { font: inherit; padding: 10px 12px; border: 1px solid var(--border, #cbd5e1); border-radius: var(--radius-sm, 8px); background: var(--card, #fff); color: inherit; max-width: 420px; }
+.county-home { display: flex; flex-direction: column; gap: 8px; }
+.county-card h3 { margin: 0 0 4px; }
+.sw-cands { list-style: none; padding: 0; margin: 8px 0 0; }
+.sw-cands li { padding: 6px 0; border-top: 1px solid var(--border, #e2e8f0); }
+.sw-cands li:first-child { border-top: 0; }
+.sw-seat h4 { margin: 12px 0 2px; }
+.county-head { margin-bottom: 12px; }
+
+/* Large hero call to action for the quiz */
+.hero-cta { margin-top: 22px; }
+.btn-hero { display: inline-flex; flex-direction: column; align-items: flex-start; gap: 4px; padding: 18px 28px; border-radius: 18px; font-size: 1.35rem; line-height: 1.2; box-shadow: 0 10px 28px color-mix(in srgb, var(--accent) 35%, transparent); transition: transform .12s ease, box-shadow .12s ease; }
+.btn-hero:hover, .btn-hero:focus-visible { transform: translateY(-2px); box-shadow: 0 14px 32px color-mix(in srgb, var(--accent) 45%, transparent); }
+.btn-hero-main { font-weight: 800; font-size: 1.5rem; }
+.btn-hero-sub { font-weight: 500; font-size: 0.95rem; opacity: .92; }
+@media (max-width: 640px) { .btn-hero { width: 100%; padding: 18px 20px; } .btn-hero-main { font-size: 1.3rem; } }
+
+.hero-picker { margin-top: 22px; }
+.hero-picker .county-picker select { font-size: 1.15rem; padding: 14px 16px; max-width: 520px; }

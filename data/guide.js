@@ -204,31 +204,15 @@ window.GUIDE_DATA = {
     "type": "statewide"
    },
    "coverage": "full",
-   "verified_ballot_note": "Ballotpedia's race page and its Aug 28, 2026 news summary, Wikipedia's race article and the Aug 6, 2026 Hy-Lo News voter guide all list the Nov 3 general-election candidates as Ashley Moody (R, incumbent), Angela 'Angie' Nixon (D) and Neil J. Gillespie (NPA); WUWF's June 12, 2026 qualifying report lists the same three plus the primary losers, and Spectrum News 13's Aug 19 results confirm Perry ran (and lost) in the Republican primary. A June 2026 online candidate guide described Gillespie as withdrawn, but every later source (Ballotpedia Aug 28, Hy-Lo News Aug 6, Palm Beach Examiner Aug 2026, Politics1) lists him as an active NPA candidate. No qualified write-in candidate was found in any source; the Florida Division of Elections candidate database (dos.elections.myflorida.com) is blocked from this environment, so the absence of a write-in could not be confirmed from the primary source  ;  ;  ;  ;  ; .",
+   "verified_ballot_note": "Third pass (Sept 17, 2026): verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot, which lists Ashley Moody (REP), Angie Nixon (DEM) and Neil J. Gillespie (NPA) for United States Senator with no write-in line.",
    "verified_ballot_sources": [
     {
-     "title": "ballotpedia.org",
-     "url": "https://ballotpedia.org/United_States_Senate_special_election_in_Florida,_2026"
+     "title": "elections.sumtercountyfl.gov",
+     "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot"
     },
     {
-     "title": "news.ballotpedia.org",
-     "url": "https://news.ballotpedia.org/2026/08/28/special-election-to-fill-the-remainder-of-sec-of-state-marco-rubios-u-s-senate-term-happening-in-florida-on-nov-3/"
-    },
-    {
-     "title": "en.wikipedia.org",
-     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida"
-    },
-    {
-     "title": "hylonewsmiami.com",
-     "url": "https://hylonewsmiami.com/2026/08/06/florida-u-s-senate-voter-guide-meet-the-candidates-in-the-2026-special-election/"
-    },
-    {
-     "title": "wuwf.org",
-     "url": "https://www.wuwf.org/text/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election"
-    },
-    {
-     "title": "mynews13.com",
-     "url": "https://mynews13.com/fl/orlando/news/2026/08/19/u-s--senate-republican-primary-results"
+     "title": "files.floridados.gov",
+     "url": "https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf"
     }
    ],
    "candidates": [
@@ -897,6 +881,17 @@ window.GUIDE_DATA = {
          "date": "2025-06"
         }
        ]
+      },
+      {
+       "title": "Tax cut on Social Security income",
+       "summary": "Cites the 2025 One Big Beautiful Bill Act's tax cuts 'on tips, overtime and Social Security income' as an accomplishment; no statement found on Social Security benefit levels or solvency.",
+       "sources": [
+        {
+         "title": "Ashley Moody enters Florida U.S. Senate race as fundraising battle with Alex Vindman takes shape - CBS Miami",
+         "url": "https://www.cbsnews.com/miami/news/florida-us-senate-race-ashley-moody-alex-vindman-2026/",
+         "date": "2026-04-24"
+        }
+       ]
       }
      ],
      "record": [
@@ -1307,7 +1302,7 @@ window.GUIDE_DATA = {
        "stance": -2,
        "confidence": "stated",
        "summary": "Nixon calls mass deportation a 'moral failure,' says she would abolish ICE and rebuild immigration enforcement, supports a moratorium on deportations pending an audit of enforcement practices, a 'swift' path to citizenship for Dreamers and undocumented residents, and renewal and expansion of TPS. She joined advocates urging Miami to end its 287(g) agreement with ICE and has called ICE agents 'modern-day slave catchers.'",
-       "quote": null,
+       "quote": "a swift path to citizenship for Dreamers and undocumented residents",
        "sources": [
         {
          "title": "Angie Nixon for U.S. Senate - Priorities",
@@ -1340,7 +1335,7 @@ window.GUIDE_DATA = {
        "stance": 2,
        "confidence": "record",
        "summary": "Nixon voted against Florida's six-week abortion ban in the Legislature and supports protecting and expanding access to abortion and reproductive care, describing restrictions as a threat to Black maternal health and bodily autonomy. In 2021 she warned that Republican control would bring a 'full-scale assault on a woman's right to choose,' and she opposed a fetal-personhood measure, calling it 'devastating.'",
-       "quote": null,
+       "quote": "the right to abortion, contraception, and IVF, free from political interference",
        "sources": [
         {
          "title": "Angie Nixon: Dems losing in 2022 would lead to 'full-scale assault on a woman's right to choose' - Florida Politics",
@@ -1361,6 +1356,11 @@ window.GUIDE_DATA = {
          "title": "Angie Nixon - Wikipedia",
          "url": "https://en.wikipedia.org/wiki/Angie_Nixon",
          "date": null
+        },
+        {
+         "title": "Angie Nixon for U.S. Senate - Priorities",
+         "url": "https://angienixon.com/priorities/",
+         "date": "2026"
         }
        ]
       },
@@ -1582,7 +1582,7 @@ window.GUIDE_DATA = {
        "stance": 2,
        "confidence": "record",
        "summary": "In March 2025 Nixon joined Florida Democratic legislators in a letter urging the Public Service Commission to reject Florida Power & Light's proposed rate increase (the PSC approved a roughly $7 billion increase in November 2025). Her platform calls for a 'union-built' transition to renewable energy with jobs in wind, solar and grid modernization, ending fossil-fuel subsidies and making polluters pay.",
-       "quote": null,
+       "quote": "a bold, union-built transition to renewable energy",
        "sources": [
         {
          "title": "Florida Democratic Lawmakers Urge Public Service Commission to Reject FPL Rate Hike - Rep. Anna Eskamani",
@@ -1855,6 +1855,17 @@ window.GUIDE_DATA = {
          "date": "2026-08"
         }
        ]
+      },
+      {
+       "title": "End the war in Iran; cut the defense budget",
+       "summary": "Priorities page calls for an 'end to the war in Iran' and opposes the '$1.01 trillion defense budget'; it does not mention Ukraine.",
+       "sources": [
+        {
+         "title": "Angie Nixon for U.S. Senate - Priorities",
+         "url": "https://angienixon.com/priorities/",
+         "date": "2026"
+        }
+       ]
       }
      ],
      "record": [
@@ -2111,10 +2122,10 @@ window.GUIDE_DATA = {
      "incumbent": false,
      "photo_url": null,
      "photo_source": "No public portrait URL found",
-     "website": "https://neilgillespie4senate.blogspot.com/",
+     "website": "https://neil4justice.blogspot.com/",
      "occupation": "Blogger and self-described public-interest advocate; pro se litigant and justice-reform activist",
      "residence": "Ocala, Marion County",
-     "background": "Neil J. Gillespie, 68, is an Ocala (Oak Run) resident, blogger and founder of 'Justice Network,' which he describes as advocacy, education and news-gathering to help people fight injustice. Describing himself as a disabled non-lawyer, he has litigated pro se for years, including a challenge to the constitutionality of the federal Home Equity Conversion (reverse) Mortgage program arising from a foreclosure on his homestead that he took to the Florida Supreme Court and, by certiorari petitions, to the U.S. Supreme Court (Nos. 17-8689 and 18-7225). He has previously run for Ocala mayor and filed federal committees for president. He filed for the U.S. Senate special election in March 2026, paid the $6,060 no-party-affiliation qualifying fee in June 2026 and, as an NPA candidate, advanced directly to the November 3 general election without a primary. He describes himself as a 'working-class capitalist,' says he is fed up with the two-party 'duopoly,' invokes George Washington's warning about political factions, and promises an 'independent voice' in Washington. He has not completed Ballotpedia's candidate survey.",
+     "background": "Neil J. Gillespie, 68, is an Ocala (Oak Run) resident, blogger and founder of 'Justice Network,' which he describes as advocacy, education and news-gathering to help people fight injustice. Describing himself as a disabled non-lawyer, he has litigated pro se for years, including a challenge to the constitutionality of the federal Home Equity Conversion (reverse) Mortgage program arising from a foreclosure on his homestead that he took to the Florida Supreme Court and, by certiorari petitions, to the U.S. Supreme Court (Nos. 17-8689 and 18-7225). He has previously run for Ocala mayor and filed federal committees for president. He filed for the U.S. Senate special election in March 2026, paid the $6,060 no-party-affiliation qualifying fee in June 2026 and, as an NPA candidate, advanced directly to the November 3 general election without a primary. He describes himself as a 'working-class capitalist,' says he is fed up with the two-party 'duopoly,' invokes George Washington's warning about political factions, and promises an 'independent voice' in Washington. He has not completed Ballotpedia's candidate survey. His blog (2026) gives his age as 70, says he funds his advocacy from Social Security retirement income, and describes a 1988 traumatic brain injury and a speech impairment.",
      "primary_result": "No primary (NPA candidate advanced directly to the Nov 3 general election)",
      "positions": {
       "taxes": {
@@ -2318,6 +2329,39 @@ window.GUIDE_DATA = {
          "date": "2026-08"
         }
        ]
+      },
+      {
+       "title": "Abolish PACER fees",
+       "summary": "Says 'it's time for Congress to abolish the fees altogether' for federal court records, arguing the judiciary overcharged the public.",
+       "sources": [
+        {
+         "title": "Neil Gillespie - Justice Network blog (candidate's site)",
+         "url": "https://neil4justice.blogspot.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "A 'People's union' for pro se litigants",
+       "summary": "Writes that 'it is time for a People's union to support nonlawyers who appear pro se in court.'",
+       "sources": [
+        {
+         "title": "Neil Gillespie - Justice Network blog (candidate's site)",
+         "url": "https://neil4justice.blogspot.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Health-care costs and dialysis transportation",
+       "summary": "Criticizes dialysis providers for not arranging patient transportation and asks why 'healthcare in America costs so much.'",
+       "sources": [
+        {
+         "title": "Neil Gillespie - Justice Network blog (candidate's site)",
+         "url": "https://neil4justice.blogspot.com/",
+         "date": "2026"
+        }
+       ]
       }
      ],
      "record": [
@@ -2431,19 +2475,15 @@ window.GUIDE_DATA = {
     "Orange",
     "Polk"
    ],
-   "verified_ballot_note": "Post-recount reports from Spectrum News 13 (Aug 24, 2026), Florida Politics, Villages-News and The Apopka Chief list three Nov. 3 general-election candidates: Joe Strada (R), James Pericola (D) and Ralph Groves (L); Ballotpedia and Florida Division of Elections pages could not be fetched from this sandbox, so the absence of NPA or write-in candidates is not independently confirmed  ;  ; . No general-election debate or forum among Strada, Pericola and Groves had been reported by Villages Daily Sun, WESH, Spectrum News 13 or Florida Politics as of Sept 17, 2026 in searches run for this guide.",
+   "verified_ballot_note": "Third pass (Sept 17, 2026): verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot, which lists Joe Strada (REP), James Pericola (DEM) and Ralph Groves (LPF, Libertarian Party of Florida) for Representative in Congress, District 11, with no write-in line.",
    "verified_ballot_sources": [
     {
-     "title": "mynews13.com",
-     "url": "https://mynews13.com/fl/orlando/news/2026/08/24/recount-confirms-strada-wins-the-republican-nomination-for-congressional-district-11"
+     "title": "elections.sumtercountyfl.gov",
+     "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot"
     },
     {
-     "title": "floridapolitics.com",
-     "url": "https://floridapolitics.com/archives/816388-with-recount-complete-joe-strada-advances-to-general-election-in-cd-11/"
-    },
-    {
-     "title": "ballotpedia.org",
-     "url": "https://ballotpedia.org/Florida's_11th_Congressional_District_election,_2026"
+     "title": "files.floridados.gov",
+     "url": "https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf"
     }
    ],
    "candidates": [
@@ -2480,6 +2520,11 @@ window.GUIDE_DATA = {
          "title": "FACT CHECK: Strada ad attacking Carey Baker in Florida's 11th District holds up (Florida's Voice)",
          "url": "https://flvoicenews.com/fact-check-strada-ad-attacking-carey-baker-in-floridas-11th-district-holds-up/",
          "date": "2026-08"
+        },
+        {
+         "title": "Joe Strada for Congress - Priorities",
+         "url": "https://votestrada.com/priorities",
+         "date": "2026"
         }
        ]
       },
@@ -2524,6 +2569,11 @@ window.GUIDE_DATA = {
          "title": "Recount confirms Strada wins Republican nomination for Congressional District 11 (Spectrum News 13)",
          "url": "https://mynews13.com/fl/orlando/news/2026/08/24/recount-confirms-strada-wins-the-republican-nomination-for-congressional-district-11",
          "date": "2026-08-24"
+        },
+        {
+         "title": "Joe Strada for Congress - Priorities",
+         "url": "https://votestrada.com/priorities",
+         "date": "2026"
         }
        ]
       },
@@ -2549,7 +2599,7 @@ window.GUIDE_DATA = {
        "stance": -2,
        "confidence": "stated",
        "summary": "Strada received an 'AQ' grade from the NRA Political Victory Fund, a pro-gun rating based on his questionnaire answers (he has no voting record). President Trump's endorsement says he will 'Defend our always under siege Second Amendment.' No specific statement on red-flag laws or the purchase age was found.",
-       "quote": null,
+       "quote": "the right to keep and bear arms",
        "sources": [
         {
          "title": "iVoterGuide profile: Joe Strada, FL U.S. Rep. Dist. 11",
@@ -2560,6 +2610,11 @@ window.GUIDE_DATA = {
          "title": "Donald J. Trump Truth Social post endorsing Joe Strada (Trump's Truth archive)",
          "url": "https://trumpstruth.org/statuses/41457",
          "date": "2026-09"
+        },
+        {
+         "title": "Joe Strada for Congress - Priorities",
+         "url": "https://votestrada.com/priorities",
+         "date": "2026"
         }
        ]
       },
@@ -2577,29 +2632,30 @@ window.GUIDE_DATA = {
        ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Strada's campaign site says he will 'stand up for' seniors, but he did not answer the Vox Populi/ClickOrlando questionnaire question on protecting Social Security, and no other statement was found.",
-       "quote": null,
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Priorities page says 'Keep the promises made to seniors and protect earned benefits'; it does not address how to fund them or whether he would accept new revenue.",
+       "quote": "Keep the promises made to seniors and protect earned benefits.",
        "sources": [
         {
-         "title": "Joe Strada for Congress (campaign site)",
-         "url": "https://votestrada.com/",
-         "date": "2026"
-        },
-        {
-         "title": "Where do Republican candidates for Congressional District 11 stand on issues? VoxPopuli went to Wildwood to find out (Vox Populi / Winter Garden)",
-         "url": "https://www.wintergardenvox.com/articles/where-do-republican-candidates-for-congressional-district-11-stand-on-issues-voxpopuli-went-to-wildwood-to-find-out",
+         "title": "Joe Strada for Congress - Priorities",
+         "url": "https://votestrada.com/priorities",
          "date": "2026"
         }
        ]
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Says families should have 'the freedom to choose the school, public, charter, private, or homeschool, that fits their child best,' and that parents, not bureaucrats, should make education decisions.",
+       "quote": "Empower families with the freedom to choose the school, public, charter, private, or homeschool, that fits their child best.",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress - Priorities",
+         "url": "https://votestrada.com/priorities",
+         "date": "2026"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -2623,39 +2679,69 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Supports 'voter ID, clean voter rolls, paper ballot accountability, and election integrity.'",
+       "quote": "voter ID, clean voter rolls, paper ballot accountability, and election integrity",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress - Priorities",
+         "url": "https://votestrada.com/priorities",
+         "date": "2026"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Priorities page: 'Back law enforcement, punish violent offenders, and make communities safe again,' and treat cartel violence, human trafficking and fentanyl 'as national security threats.'",
+       "quote": "Back law enforcement, punish violent offenders, and make communities safe again.",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress - Priorities",
+         "url": "https://votestrada.com/priorities",
+         "date": "2026"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Priorities page: 'Keep men out of women's sports and protect fairness for girls and women' and 'stop taxpayer-funded indoctrination'; no statement found on Florida's gender-affirming-care or classroom-instruction laws specifically.",
+       "quote": "Keep men out of women's sports and protect fairness for girls and women.",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress - Priorities",
+         "url": "https://votestrada.com/priorities",
+         "date": "2026"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Calls for restoring 'energy independence' and lowering costs by not 'punishing American workers and families'; no statement on renewables or utility regulation.",
+       "quote": "Lower costs, restore energy independence, and stop punishing American workers and families.",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress - Priorities",
+         "url": "https://votestrada.com/priorities",
+         "date": "2026"
+        }
+       ]
       },
       "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "On trade he would 'reward companies that invest in American workers, not foreign outsourcing' and protect against China's threats to jobs, supply chains and farmland; he has not stated a position on specific tariff levels.",
+       "quote": "Reward companies that invest in American workers, not foreign outsourcing.",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress - Priorities",
+         "url": "https://votestrada.com/priorities",
+         "date": "2026"
+        }
+       ]
       },
       "ukraine": {
        "stance": null,
@@ -2693,14 +2779,14 @@ window.GUIDE_DATA = {
        ]
       },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No specific position on VA services found as of Sept 2026; the campaign site lists veterans among the groups he says he will 'stand up for.'",
-       "quote": null,
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Pledges to 'ensure veterans receive the care, respect, and benefits they earned through service.'",
+       "quote": "Ensure veterans receive the care, respect, and benefits they earned through service.",
        "sources": [
         {
-         "title": "Joe Strada for Congress (campaign site)",
-         "url": "https://votestrada.com/",
+         "title": "Joe Strada for Congress - Priorities",
+         "url": "https://votestrada.com/priorities",
          "date": "2026"
         }
        ]
@@ -2799,6 +2885,39 @@ window.GUIDE_DATA = {
         {
          "title": "Joe Strada for Congress (campaign site)",
          "url": "https://votestrada.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Line-item veto and balanced-budget amendment",
+       "summary": "Would 'give the President a tool to strike wasteful spending from bloated bills' and supports a balanced-budget amendment.",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress - Priorities",
+         "url": "https://votestrada.com/priorities",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Manufacturing and China",
+       "summary": "Wants to 'bring supply chains, factories, and good-paying jobs back to the United States' and counter China's 'threats to jobs, supply chains, farmland, technology, and national security.'",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress - Priorities",
+         "url": "https://votestrada.com/priorities",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Infrastructure that keeps pace with growth",
+       "summary": "Pledges to 'fight for infrastructure that keeps pace with growth, improves mobility, and respects taxpayers.'",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress - Priorities",
+         "url": "https://votestrada.com/priorities",
          "date": "2026"
         }
        ]
@@ -2944,6 +3063,16 @@ window.GUIDE_DATA = {
          "date": "2026-07"
         }
        ]
+      },
+      {
+       "item": "Did not respond to ClickOrlando's 2026 primary voter-guide questionnaire.",
+       "sources": [
+        {
+         "title": "2026 Voter's Guide - US House District 11, Republican primary - ClickOrlando (Strada did not respond to the questionnaire)",
+         "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-republican-primary/",
+         "date": "2026-07-31"
+        }
+       ]
       }
      ],
      "endorsements": [
@@ -3051,6 +3180,36 @@ window.GUIDE_DATA = {
          "date": "2026"
         }
        ]
+      },
+      {
+       "by": "Sheriffs Peyton Grinnell (Lake), John Mina (Orange), Patrick Breeden (Sumter), Grady Judd (Polk) and Dennis Lemma (Seminole)",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress - Endorsements",
+         "url": "https://votestrada.com/endorsements",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "by": "State Sens. Keith Truenow and Jason Brodeur; state Reps. Samantha Scott, Taylor Yarkosky, Nan Cobb, Richard Gentry, Webster Barnaby and Doug Bankson",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress - Endorsements",
+         "url": "https://votestrada.com/endorsements",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "by": "Sumter County Commissioner Don Wiley; Professional Firefighters of Lake County IAFF Local 3990; Reedy Creek Professional Firefighters IAFF Local 2117",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress - Endorsements",
+         "url": "https://votestrada.com/endorsements",
+         "date": "2026"
+        }
+       ]
       }
      ]
     },
@@ -3129,7 +3288,7 @@ window.GUIDE_DATA = {
        "stance": 2,
        "confidence": "stated",
        "summary": "His platform calls for securing federal funding to combat the housing crisis.",
-       "quote": null,
+       "quote": "The cost of groceries, gas, housing, healthcare, and insurance has stretched working families and seniors too thin.",
        "sources": [
         {
          "title": "James Pericola for Congress (campaign site)",
@@ -3145,6 +3304,11 @@ window.GUIDE_DATA = {
          "title": "James Pericola About | Local Candidates",
          "url": "https://www.localcandidates.org/politicians/james-pericola/about",
          "date": "2026"
+        },
+        {
+         "title": "2026 Voter's Guide - US House District 11, Democratic primary - ClickOrlando (questionnaire)",
+         "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/",
+         "date": "2026-07-31"
         }
        ]
       },
@@ -3173,7 +3337,7 @@ window.GUIDE_DATA = {
        "stance": 2,
        "confidence": "stated",
        "summary": "Pericola lists making health care more affordable among the three most pressing issues for the district. He says he will work to restore Medicaid funding, protect the Affordable Care Act, and lower the cost of prescription drugs and medical care.",
-       "quote": null,
+       "quote": "My mother is navigating our broken healthcare system right now, and I have seen firsthand how confusing, expensive, and exhausting it is.",
        "sources": [
         {
          "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
@@ -3194,6 +3358,16 @@ window.GUIDE_DATA = {
          "title": "James Pericola About | Local Candidates",
          "url": "https://www.localcandidates.org/politicians/james-pericola/about",
          "date": "2026"
+        },
+        {
+         "title": "2026 Voter's Guide - US House District 11, Democratic primary - ClickOrlando (questionnaire)",
+         "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/",
+         "date": "2026-07-31"
+        },
+        {
+         "title": "Q&A: Democratic candidates for U.S. House District 11 discuss affordability, education - The Apopka Chief",
+         "url": "https://theapopkachief.com/qa-democratic-candidates-for-u-s-house-district-11-discuss-affordability-education/",
+         "date": "2026-07-28"
         }
        ]
       },
@@ -3222,6 +3396,11 @@ window.GUIDE_DATA = {
          "title": "Q&A: Democratic candidates for U.S. House District 11 discuss affordability, education (The Apopka Chief)",
          "url": "https://theapopkachief.com/qa-democratic-candidates-for-u-s-house-district-11-discuss-affordability-education/",
          "date": "2026-08"
+        },
+        {
+         "title": "2026 Voter's Guide - US House District 11, Democratic primary - ClickOrlando (questionnaire)",
+         "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/",
+         "date": "2026-07-31"
         }
        ]
       },
@@ -3233,11 +3412,17 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "In ClickOrlando's questionnaire he named 'protecting our water while building resilience against extreme weather and climate' as Florida's main environmental challenge and supports federal investment in water quality and Everglades restoration.",
+       "quote": "protecting our water while building resilience against extreme weather and climate",
+       "sources": [
+        {
+         "title": "2026 Voter's Guide - US House District 11, Democratic primary - ClickOrlando (questionnaire)",
+         "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/",
+         "date": "2026-07-31"
+        }
+       ]
       },
       "growth": {
        "stance": null,
@@ -3257,7 +3442,7 @@ window.GUIDE_DATA = {
        "stance": 2,
        "confidence": "stated",
        "summary": "He says he will fight to end gerrymandering and pass the John Lewis Voting Rights Act, which would restore federal preclearance of voting-law changes.",
-       "quote": null,
+       "quote": "My wife is an immigrant, and our family's story is rooted in the promise of America: freedom, opportunity, equal protection, and the right to have a voice.",
        "sources": [
         {
          "title": "James Pericola for Congress (campaign site)",
@@ -3273,6 +3458,11 @@ window.GUIDE_DATA = {
          "title": "James Pericola About | Local Candidates",
          "url": "https://www.localcandidates.org/politicians/james-pericola/about",
          "date": "2026"
+        },
+        {
+         "title": "2026 Voter's Guide - US House District 11, Democratic primary - ClickOrlando (questionnaire)",
+         "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/",
+         "date": "2026-07-31"
         }
        ]
       },
@@ -3599,6 +3789,16 @@ window.GUIDE_DATA = {
          "date": "2026-08-08"
         }
        ]
+      },
+      {
+       "item": "Told The Apopka Chief he worked for U.S. Sen. Bob Graham and in the Clinton administration and that 'too little substantive legislation was passed' under retiring Rep. Daniel Webster.",
+       "sources": [
+        {
+         "title": "Q&A: Democratic candidates for U.S. House District 11 discuss affordability, education - The Apopka Chief",
+         "url": "https://theapopkachief.com/qa-democratic-candidates-for-u-s-house-district-11-discuss-affordability-education/",
+         "date": "2026-07-28"
+        }
+       ]
       }
      ],
      "endorsements": [
@@ -3724,6 +3924,11 @@ window.GUIDE_DATA = {
          "title": "Groves for Congress 2026 (campaign site)",
          "url": "https://www.grovesforcongress.com/",
          "date": "2026"
+        },
+        {
+         "title": "Ralph Groves for Congress - My Mission",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
         }
        ]
       },
@@ -3731,7 +3936,7 @@ window.GUIDE_DATA = {
        "stance": -1,
        "confidence": "stated",
        "summary": "Groves is a gun owner and a member of Gun Owners of America and says self-defense is a natural right. He argues gun confiscation cannot be accomplished because it would provoke civil disobedience and police would refuse to carry it out. No statement on red-flag laws, the purchase age or background checks was found.",
-       "quote": null,
+       "quote": "Self-defense is a natural right. This right is codified in the 2nd Amendment.",
        "sources": [
         {
          "title": "Position Papers | Groves for Congress 2026",
@@ -3850,7 +4055,7 @@ window.GUIDE_DATA = {
        "stance": -1,
        "confidence": "stated",
        "summary": "He says the U.S. will depend on fossil fuels for the proximate future and that increasing fossil-fuel output will lower transport costs and the prices of petrochemical-based products. No statement on renewable energy or utility-rate oversight was found.",
-       "quote": null,
+       "quote": "For the proximate future, the U.S. will depend on fossil fuels.",
        "sources": [
         {
          "title": "Mission | Groves for Congress 2026",
@@ -3875,7 +4080,7 @@ window.GUIDE_DATA = {
        "stance": -1,
        "confidence": "stated",
        "summary": "Groves calls for an immediate cease-fire with mediated peace talks and opposes deepening U.S. support for Ukraine, preferring that European allies do more to counter Russian aggression. He backs 'Defend the Guard' efforts to keep the Florida National Guard from being deployed overseas, but supports increased funding for U.S. defense industries to restock the military equipment sent to Ukraine.",
-       "quote": null,
+       "quote": "He calls for an immediate cease-fire with mediated peace talks, and opposes deepening of U.S. support for Ukraine.",
        "sources": [
         {
          "title": "Mission | Groves for Congress 2026",
@@ -4106,6 +4311,16 @@ window.GUIDE_DATA = {
          "date": "2026"
         }
        ]
+      },
+      {
+       "item": "Defense Intelligence Agency analyst 1999-2015 at RAF Molesworth, England, and 2015-2018 at the Pentagon; retired from the Army Reserve as a major in 2010; lives in Ocoee with his wife and family (campaign site).",
+       "sources": [
+        {
+         "title": "Ralph Groves for Congress - home page",
+         "url": "https://www.grovesforcongress.com/",
+         "date": "2026"
+        }
+       ]
       }
      ],
      "endorsements": []
@@ -4124,27 +4339,19 @@ window.GUIDE_DATA = {
     "type": "statewide"
    },
    "coverage": "full",
-   "verified_ballot_note": "Qualifying closed June 12, 2026: WUWF and the Tampa Bay Times/Spokesman-Review reported 27 qualified candidates for governor (10 R, 6 D, 6 NPA, 4 write-in, 1 Libertarian); the six NPA qualifiers are Dean Ocean Abrams, Charles Burkett, Jeffrey 'Dr. Jeff' Datto, Moliere 'Moe' Dimanche, Desmond Meade and Frank J. Russo (CBS12/politics1 lists), which confirms state Sen. Jason Pizzo did NOT qualify; Donalds (R, ~47.8%) and Jolly (D, ~61%) won the Aug. 18 primaries (CBS News, Washington Post); Meade withdrew Aug. 28, 2026 (WLRN/Florida Politics) and whether his name remains printed on the ballot is unverified (a second search pass on Sept. 17, 2026 found no Division of Elections notice or news report resolving this); the names of the four qualified write-in candidates (who do not appear on the ballot) could not be retrieved.",
+   "verified_ballot_note": "Third pass (Sept 17, 2026): verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot, which lists eight Governor/Lieutenant Governor tickets in this order: Byron Donalds/Bryan Avila (REP), David Jolly/Gwen Graham (DEM), Scott Eckhard Jewett/Nicole Skelly (LPF), Charles Burkett/Ruben A. Coto (NPA), Frank J. Russo/Rachel Rodriguez (NPA), Moliere 'Moe' Dimanche/Benjiman Rojas (NPA), Dean Ocean Abrams/Joe Van Vactor (NPA) and Jeffrey Peter 'Dr. Jeff' Datto/Juan Santana (NPA), followed by a write-in line (two write-in tickets qualified; their names are not printed). Desmond Meade, who withdrew Aug. 28, 2026, does not appear on the ballot.",
    "verified_ballot_sources": [
     {
-     "title": "wuwf.org",
-     "url": "https://www.wuwf.org/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election"
+     "title": "elections.sumtercountyfl.gov",
+     "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot"
     },
     {
-     "title": "spokesman.com",
-     "url": "https://www.spokesman.com/stories/2026/jun/12/field-set-for-florida-2026-governor-race-as-qualif/"
+     "title": "files.floridados.gov",
+     "url": "https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf"
     },
     {
-     "title": "cbsnews.com",
-     "url": "https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/"
-    },
-    {
-     "title": "wlrn.org",
-     "url": "https://www.wlrn.org/government-politics/2026-08-28/desmond-meade-withdraws-florida-governor-election"
-    },
-    {
-     "title": "ballotpedia.org",
-     "url": "https://ballotpedia.org/Florida_gubernatorial_and_lieutenant_gubernatorial_election,_2026"
+     "title": "politics1.com",
+     "url": "https://politics1.com/fl.htm"
     }
    ],
    "candidates": [
@@ -4467,9 +4674,15 @@ window.GUIDE_DATA = {
       },
       "elections": {
        "stance": -2,
-       "confidence": "record",
-       "summary": "Voted for the SAVE Act (H.R. 22, 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+       "confidence": "stated",
+       "summary": "Supports election-integrity measures including documentary proof of U.S. citizenship for federal voter registration (per Smarter.Vote's summary of his campaign positions); in Congress he voted for the SAVE Act.",
+       "quote": null,
        "sources": [
+        {
+         "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+         "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+         "date": "2026"
+        },
         {
          "title": "H.R.22 SAVE Act, 119th Congress (actions and votes)",
          "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
@@ -5773,17 +5986,28 @@ window.GUIDE_DATA = {
      "photo_url": null,
      "photo_source": "campaign site (photo URL not verified)",
      "website": "https://scottjewett.com/",
-     "occupation": "Not verified (campaign cites 'a decade of government experience')",
-     "residence": "Florida (city/county not verified)",
+     "occupation": "Businessman and inventor (per Politics1); campaign cites a career 'solving grand challenges'",
+     "residence": "Boca Raton, Palm Beach County",
      "background": "Scott Eckhard Jewett is the Libertarian Party of Florida's nominee for governor; the national Libertarian Party announced his filing in 2025 and he announced a 'Libertarian 2.0' bid in November 2025. His campaign says he brings a decade of government experience and brands his platform 'Humanitarian Libertarianism,' combining Republican economic principles with Democratic social values. His running mate is Nicole Skelly of Milton, who runs a construction business with her husband. He was the lone Libertarian to qualify when qualifying closed June 12, 2026. Skelly lives in Milton (Santa Rosa County) with her husband and two children; the campaign says the couple has owned and run a construction business for many years and that she brings a small-business owner's perspective on rising costs and regulation.",
      "primary_result": "No primary; qualified as the Libertarian Party of Florida nominee (WUWF, June 12, 2026)",
      "positions": {
       "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Promises 'a streamlined, efficient government, low taxes, and a free-market economy' while supporting 'essential social programs' for those in need.",
+       "quote": "advocate for a streamlined, efficient government, low taxes, and a free-market economy that stimulates growth and innovation",
+       "sources": [
+        {
+         "title": "Scott Jewett announces 'Libertarian 2.0' bid for Florida Governor - The Floridian",
+         "url": "https://floridianpress.com/2025/11/scott-jewett-announces-libertarian-2-0-bid-for-florida-governor/",
+         "date": "2025-11-17"
+        },
+        {
+         "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+         "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+         "date": "2026"
+        }
+       ]
       },
       "property_tax": {
        "stance": 2,
@@ -5800,24 +6024,29 @@ window.GUIDE_DATA = {
          "title": "Scott Jewett (Ballotpedia)",
          "url": "https://ballotpedia.org/Scott_Jewett",
          "date": null
+        },
+        {
+         "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+         "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+         "date": "2026"
         }
        ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "Calls Florida's homeowners-insurance system 'a disaster,' citing $43 billion in premiums paid versus $7 billion paid out for repairs, and lists insurance reform as a top priority; the direction of reform (state intervention vs. market) was not specified in available coverage.",
-       "quote": null,
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Calls homeowners' insurance his clearest priority and proposes regulatory changes, insurance cooperatives and litigation reform rather than rate caps; he cites $43 billion in premiums paid against $7 billion in repair payouts.",
+       "quote": "$43 billion dollars in premiums were paid last year alone, and only $7 Billion was paid out for homeowner's repairs.",
        "sources": [
         {
-         "title": "Scott Jewett for Florida Governor (campaign site)",
-         "url": "https://scottjewett.com/",
-         "date": null
+         "title": "Scott Jewett announces 'Libertarian 2.0' bid for Florida Governor - The Floridian",
+         "url": "https://floridianpress.com/2025/11/scott-jewett-announces-libertarian-2-0-bid-for-florida-governor/",
+         "date": "2025-11-17"
         },
         {
-         "title": "Scott Jewett (Ballotpedia)",
-         "url": "https://ballotpedia.org/Scott_Jewett",
-         "date": null
+         "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+         "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+         "date": "2026"
         }
        ]
       },
@@ -5829,11 +6058,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Would 'enforce immigration laws stringently and deter companies from hiring undocumented workers' while creating 'a streamlined and expanded work visa program.'",
+       "quote": "enforce immigration laws stringently and deter companies from hiring undocumented workers",
+       "sources": [
+        {
+         "title": "Scott Jewett announces 'Libertarian 2.0' bid for Florida Governor - The Floridian",
+         "url": "https://floridianpress.com/2025/11/scott-jewett-announces-libertarian-2-0-bid-for-florida-governor/",
+         "date": "2025-11-17"
+        },
+        {
+         "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+         "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+         "date": "2026"
+        }
+       ]
       },
       "abortion": {
        "stance": 2,
@@ -5854,11 +6094,17 @@ window.GUIDE_DATA = {
        ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Described as a staunch Second Amendment supporter who regards responsible gun ownership as a fundamental right; no specific position found on the red-flag law or the age-21 rule.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+         "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+         "date": "2026"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -5921,11 +6167,17 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Platform calls for 'elimination of mandatory minimum sentences, reforming cash bail, and ending private prisons' along with law-enforcement reform.",
+       "quote": "elimination of mandatory minimum sentences, reforming cash bail, and ending private prisons",
+       "sources": [
+        {
+         "title": "Scott Jewett announces 'Libertarian 2.0' bid for Florida Governor - The Floridian",
+         "url": "https://floridianpress.com/2025/11/scott-jewett-announces-libertarian-2-0-bid-for-florida-governor/",
+         "date": "2025-11-17"
+        }
+       ]
       },
       "lgbtq": {
        "stance": null,
@@ -5935,11 +6187,17 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 0,
+       "confidence": "stated",
+       "summary": "Wants Florida to become a thorium and advanced-nuclear energy center, calls natural-gas dependence a strategic vulnerability and would use Public Service Commission appointments to pursue it; no position found on renewables or rate oversight.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+         "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+         "date": "2026"
+        }
+       ]
       },
       "tariffs": {
        "stance": null,
@@ -6039,9 +6297,47 @@ window.GUIDE_DATA = {
          "date": null
         }
        ]
+      },
+      {
+       "title": "Non-interventionist foreign policy",
+       "summary": "Says he would focus on 'Florida's interests and avoiding entanglement in unnecessary conflicts.'",
+       "sources": [
+        {
+         "title": "Scott Jewett announces 'Libertarian 2.0' bid for Florida Governor - The Floridian",
+         "url": "https://floridianpress.com/2025/11/scott-jewett-announces-libertarian-2-0-bid-for-florida-governor/",
+         "date": "2025-11-17"
+        }
+       ]
+      },
+      {
+       "title": "Thorium and advanced nuclear power",
+       "summary": "Proposes pursuing NRC Agreement State status, advanced-reactor permitting legislation and a University of Florida nuclear-fuels research facility.",
+       "sources": [
+        {
+         "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+         "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+         "date": "2026"
+        }
+       ]
       }
      ],
-     "record": [],
+     "record": [
+      {
+       "item": "Running mate Nicole Skelly (Milton; businesswoman and Libertarian activist) appears with him on the ballot.",
+       "sources": [
+        {
+         "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+         "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+         "date": "2026-09"
+        },
+        {
+         "title": "Florida 2026 Elections: Candidates for Governor, Senate & House - Politics1",
+         "url": "https://politics1.com/fl.htm",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
      "endorsements": [
       {
        "by": "Libertarian Party of Florida / Libertarian Party (national)",
@@ -6071,7 +6367,7 @@ window.GUIDE_DATA = {
      "name": "Dean Ocean Abrams",
      "party": "No Party Affiliation",
      "incumbent": false,
-     "running_mate": null,
+     "running_mate": "Joe Van Vactor (teacher and Air Force veteran, per Politics1)",
      "photo_url": null,
      "photo_source": "campaign site (photo URL not verified)",
      "website": "https://www.deanabrams.com/",
@@ -6102,11 +6398,17 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "Campaign lists 'fixing housing' and 'lowering costs' as priorities but no specific policy mechanism was found.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Platform calls for 'Wall Street out of single-family homes' and making housing and health care more affordable; no zoning or subsidy specifics found.",
+       "quote": "Wall Street out of single-family homes",
+       "sources": [
+        {
+         "title": "Dean Abrams for Florida Governor - campaign website (fetch blocked; content as quoted in search results)",
+         "url": "https://www.deanabrams.com/",
+         "date": "2026"
+        }
+       ]
       },
       "immigration": {
        "stance": null,
@@ -6172,7 +6474,7 @@ window.GUIDE_DATA = {
        "stance": 1,
        "confidence": "stated",
        "summary": "States opposition to 'unchecked development' and the data-center land grab.",
-       "quote": null,
+       "quote": "Strict public approval for major development",
        "sources": [
         {
          "title": "Dean Abrams for Florida Governor (campaign site)",
@@ -6277,9 +6579,31 @@ window.GUIDE_DATA = {
          "date": null
         }
        ]
+      },
+      {
+       "title": "No AI data centers; no foreign-lobby influence",
+       "summary": "Platform lists 'No AI data centers' and 'No AIPAC foreign lobby influence over Florida policy.'",
+       "sources": [
+        {
+         "title": "Dean Abrams for Florida Governor - campaign website (fetch blocked; content as quoted in search results)",
+         "url": "https://www.deanabrams.com/",
+         "date": "2026"
+        }
+       ]
       }
      ],
-     "record": [],
+     "record": [
+      {
+       "item": "Self-funded campaign that says it takes no party, PAC or corporate money; Abrams says he led work at Microsoft, HP and KPMG over three decades (campaign site).",
+       "sources": [
+        {
+         "title": "Dean Abrams for Florida Governor - campaign website (fetch blocked; content as quoted in search results)",
+         "url": "https://www.deanabrams.com/",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -6293,10 +6617,10 @@ window.GUIDE_DATA = {
      "name": "Charles W. Burkett",
      "party": "No Party Affiliation",
      "incumbent": false,
-     "running_mate": null,
+     "running_mate": "Ruben A. Coto (Surfside town commissioner and businessman)",
      "photo_url": null,
      "photo_source": "WLRN article image (photo URL not verified)",
-     "website": null,
+     "website": "https://burkettforgov.com/",
      "occupation": "Real estate investor; former Mayor of Surfside",
      "residence": "Surfside, Miami-Dade County",
      "background": "Charles Burkett was born and raised in Miami Beach, graduated from the University of Miami with a finance degree and founded a real estate investment firm. He served four terms as Mayor of Surfside (2006-2010, 2020-2022, 2024-2026), including during the COVID-19 pandemic and the 2021 Champlain Towers South collapse. He announced an NPA run for governor in May 2026 and qualified in June 2026.",
@@ -6317,6 +6641,11 @@ window.GUIDE_DATA = {
          "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
          "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
          "date": "2026-05"
+        },
+        {
+         "title": "Charles Burkett for Florida Governor - campaign website",
+         "url": "https://burkettforgov.com/",
+         "date": "2026"
         }
        ]
       },
@@ -6324,7 +6653,7 @@ window.GUIDE_DATA = {
        "stance": 2,
        "confidence": "stated",
        "summary": "Proposes eliminating property taxes on homesteaded homes.",
-       "quote": null,
+       "quote": "Slash and eventually eliminate property taxes for vested Florida homeowners and renters",
        "sources": [
         {
          "title": "Former Surfside mayor Charles Burkett enters Florida Governors' race (WLRN)",
@@ -6335,36 +6664,65 @@ window.GUIDE_DATA = {
          "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
          "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
          "date": "2026-05"
+        },
+        {
+         "title": "Charles Burkett for Florida Governor - campaign website",
+         "url": "https://burkettforgov.com/",
+         "date": "2026"
         }
        ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "Says he would 'overhaul insurance' laws but the direction (more state intervention vs. market reform) was not specified in available coverage.",
-       "quote": null,
-       "sources": []
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Would 'rewrite the broken laws and bring radical competition into the property and auto insurance market,' with more deductible options and property-tax offsets for hurricane hardening, rather than rate caps or expanding Citizens.",
+       "quote": "Rewrite the broken laws and bring radical competition into the property and auto insurance market",
+       "sources": [
+        {
+         "title": "Charles Burkett for Florida Governor - campaign website",
+         "url": "https://burkettforgov.com/",
+         "date": "2026"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Would 'stop building new housing until we can absorb the number of residents we currently have' and repeal the Live Local Act, which preempts local zoning for affordable housing.",
+       "quote": "Stop building new housing until we can absorb the number of residents we currently have",
+       "sources": [
+        {
+         "title": "Charles Burkett for Florida Governor - campaign website",
+         "url": "https://burkettforgov.com/",
+         "date": "2026"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Site says 'Legal immigration is good. Uncontrolled, unvetted, unregulated, illegal immigration is bad'; no specific enforcement or deportation proposals found.",
+       "quote": "Legal immigration is good. Uncontrolled, unvetted, unregulated, illegal immigration is bad",
+       "sources": [
+        {
+         "title": "Charles Burkett for Florida Governor - campaign website",
+         "url": "https://burkettforgov.com/",
+         "date": "2026"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Pledges to 'affirm and codify My Body, My Choice.'",
+       "quote": "Affirm and codify 'My Body, My Choice'",
+       "sources": [
+        {
+         "title": "Charles Burkett for Florida Governor - campaign website",
+         "url": "https://burkettforgov.com/",
+         "date": "2026"
+        }
+       ]
       },
       "guns": {
        "stance": null,
@@ -6374,11 +6732,17 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "healthcare": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "Says he would overhaul healthcare laws; no specifics found.",
-       "quote": null,
-       "sources": []
+       "stance": 0,
+       "confidence": "stated",
+       "summary": "Would 'rewrite the unaffordable, broken healthcare laws' with doctors 'not government and insurance companies, in charge,' standardized plan tiers, a state-backed medical loan fund and a physician-run state pool for extreme cases; does not address Medicaid expansion.",
+       "quote": "Rewrite the unaffordable, broken healthcare laws. Put doctors, not government and insurance companies, in charge",
+       "sources": [
+        {
+         "title": "Charles Burkett for Florida Governor - campaign website",
+         "url": "https://burkettforgov.com/",
+         "date": "2026"
+        }
+       ]
       },
       "social_security": {
        "stance": null,
@@ -6395,18 +6759,35 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Pledges to 'demand clean water and air' and hold polluters accountable; his growth positions favor restricting new construction.",
+       "quote": "Take all steps necessary to make certain our water and air are clean and that Florida holds polluters accountable",
+       "sources": [
+        {
+         "title": "Charles Burkett for Florida Governor - campaign website",
+         "url": "https://burkettforgov.com/",
+         "date": "2026"
+        }
+       ]
       },
       "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Calls for stopping the 'radical new construction boom,' the 'Manhattanization' and 'over-densification' of communities, choosing renovation over new construction, and allowing data centers only after a local referendum.",
+       "quote": "Stop the 'Manhattanization' and continued 'over-densification' of Florida's charming and historic communities",
+       "sources": [
+        {
+         "title": "Charles Burkett for Florida Governor - campaign website",
+         "url": "https://burkettforgov.com/",
+         "date": "2026"
+        },
+        {
+         "title": "Former Surfside mayor Charles Burkett enters Florida governor's race - WLRN",
+         "url": "https://www.wlrn.org/government-politics/2026-05-19/former-surfside-mayor-charles-burkett-florida-governors-race",
+         "date": "2026-05-19"
+        }
+       ]
       },
       "marijuana": {
        "stance": null,
@@ -6423,11 +6804,17 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Would 'give our first responders every tool they need' and pay them 'a fair, competitive wage,' and proposes an 'Oasis Act' for gated, monitored redevelopment of blighted neighborhoods with conduct requirements for residents.",
+       "quote": "Give our first responders every tool they need to be the best in the business",
+       "sources": [
+        {
+         "title": "Charles Burkett for Florida Governor - campaign website",
+         "url": "https://burkettforgov.com/",
+         "date": "2026"
+        }
+       ]
       },
       "lgbtq": {
        "stance": null,
@@ -6510,6 +6897,50 @@ window.GUIDE_DATA = {
          "date": "2026-05"
         }
        ]
+      },
+      {
+       "title": "Homestead exemption that grows with residency",
+       "summary": "Proposes that after a ten-year residency vesting period, homeowners gain a cumulative 10-percentage-point increase in their homestead exemption each year until it reaches 100%, transferable to a spouse and children.",
+       "sources": [
+        {
+         "title": "Charles Burkett for Florida Governor - campaign website",
+         "url": "https://burkettforgov.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Public pensions",
+       "summary": "Would honor existing defined-benefit pensions but move new public employees to defined-contribution plans with an immediate government match.",
+       "sources": [
+        {
+         "title": "Charles Burkett for Florida Governor - campaign website",
+         "url": "https://burkettforgov.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Education spending",
+       "summary": "Says schools should focus 'only on kids' with high standards and proposes cutting school spending by at least 5%, possibly 10%.",
+       "sources": [
+        {
+         "title": "Charles Burkett for Florida Governor - campaign website",
+         "url": "https://burkettforgov.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "No campaign contributions",
+       "summary": "Says he is not accepting campaign contributions.",
+       "sources": [
+        {
+         "title": "Charles Burkett for Florida Governor - campaign website",
+         "url": "https://burkettforgov.com/",
+         "date": "2026"
+        }
+       ]
       }
      ],
      "record": [
@@ -6527,6 +6958,16 @@ window.GUIDE_DATA = {
          "date": "2026-05"
         }
        ]
+      },
+      {
+       "item": "Born in Miami Beach; B.S. in finance, University of Miami; real estate investor since 1983; chaired the Miami Beach Housing Authority; elected Surfside mayor in 2006, 2008, 2020 and 2024 (campaign site).",
+       "sources": [
+        {
+         "title": "Charles Burkett for Florida Governor - campaign website",
+         "url": "https://burkettforgov.com/",
+         "date": "2026"
+        }
+       ]
       }
      ],
      "endorsements": [],
@@ -6542,7 +6983,7 @@ window.GUIDE_DATA = {
      "name": "Jeffrey Peter \"Dr. Jeff\" Datto",
      "party": "No Party Affiliation",
      "incumbent": false,
-     "running_mate": null,
+     "running_mate": "Juan Santana (nonprofit executive and property manager, per Politics1)",
      "photo_url": null,
      "photo_source": "campaign Facebook page (photo URL not verified)",
      "website": null,
@@ -6700,7 +7141,23 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Running mate Juan Santana appears with him on the Sumter County sample ballot; no campaign website or issue statements were found beyond his Facebook page.",
+       "sources": [
+        {
+         "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+         "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+         "date": "2026-09"
+        },
+        {
+         "title": "Florida 2026 Elections: Candidates for Governor, Senate & House - Politics1",
+         "url": "https://politics1.com/fl.htm",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -6714,12 +7171,12 @@ window.GUIDE_DATA = {
      "name": "Moliere \"Moe\" Dimanche",
      "party": "No Party Affiliation",
      "incumbent": false,
-     "running_mate": null,
+     "running_mate": "Benjiman Rojas (phone repair technician, per Politics1)",
      "photo_url": null,
      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
      "website": "https://nomoecorruption.com/",
      "occupation": "Artist, author and prison-reform activist",
-     "residence": "Florida (city/county not verified)",
+     "residence": "Orlando area (grew up in Orlando; Pine Hills incorporation is a campaign plank)",
      "background": "Moliere 'Moe' Dimanche (born 1987) is a Haitian American artist, author and prison-reform activist who served nearly 10 years in Florida prisons. He qualified as an NPA candidate for governor in June 2026. His campaign, branded 'No MOE Corruption,' identifies public corruption as the greatest danger to democracy.",
      "primary_result": "No primary; qualified as NPA candidate for the Nov. 3 general election (WUWF/Spokesman, June 12, 2026)",
      "positions": {
@@ -6731,11 +7188,17 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Says 'property taxes on Floridians' homesteads infringes on ownership rights' and promises to eliminate homestead property taxation.",
+       "quote": "property taxes on Floridians' homesteads infringes on ownership rights",
+       "sources": [
+        {
+         "title": "No MOE Corruption - Moe Dimanche for Governor campaign website",
+         "url": "https://nomoecorruption.com/",
+         "date": "2026"
+        }
+       ]
       },
       "insurance": {
        "stance": null,
@@ -6752,11 +7215,17 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Promises that 'on Day 1, Moe will permanently close Alligator Alcatraz,' the state-run immigration detention site, comparing it to Jim Crow-era practices; no broader enforcement position found.",
+       "quote": "On Day 1, Moe will permanently close Alligator Alcatraz.",
+       "sources": [
+        {
+         "title": "No MOE Corruption - Moe Dimanche for Governor campaign website",
+         "url": "https://nomoecorruption.com/",
+         "date": "2026"
+        }
+       ]
       },
       "abortion": {
        "stance": null,
@@ -6836,6 +7305,11 @@ window.GUIDE_DATA = {
          "title": "Moliere 'Moe' Dimanche, Former Prisoner Turned Activist, Artist, and Author, Running for Governor of Florida (Hard Times Reviewer)",
          "url": "https://hardtimesreviewer.substack.com/p/moliere-moe-dimanche-former-prisoner",
          "date": null
+        },
+        {
+         "title": "No MOE Corruption - Moe Dimanche for Governor campaign website",
+         "url": "https://nomoecorruption.com/",
+         "date": "2026"
         }
        ]
       },
@@ -6920,9 +7394,53 @@ window.GUIDE_DATA = {
          "date": null
         }
        ]
+      },
+      {
+       "title": "Abolish HOAs",
+       "summary": "Says 'HOAs are unconstitutional' and promises to abolish homeowners' associations.",
+       "sources": [
+        {
+         "title": "No MOE Corruption - Moe Dimanche for Governor campaign website",
+         "url": "https://nomoecorruption.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Municipal incorporation of Pine Hills",
+       "summary": "Says 'municipal incorporation of unincorporated county land is imperative' and seeks city status for Pine Hills and western Orange County.",
+       "sources": [
+        {
+         "title": "No MOE Corruption - Moe Dimanche for Governor campaign website",
+         "url": "https://nomoecorruption.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Close Alligator Alcatraz",
+       "summary": "Would permanently close the Everglades detention site on his first day.",
+       "sources": [
+        {
+         "title": "No MOE Corruption - Moe Dimanche for Governor campaign website",
+         "url": "https://nomoecorruption.com/",
+         "date": "2026"
+        }
+       ]
       }
      ],
-     "record": [],
+     "record": [
+      {
+       "item": "Grew up in poverty in Orlando (his family briefly stayed at the Orlando Union Rescue Mission); attended West Orange High School; cites the federal case Dimanche v. Brown as evidence of fighting corruption (campaign site).",
+       "sources": [
+        {
+         "title": "No MOE Corruption - Moe Dimanche for Governor campaign website",
+         "url": "https://nomoecorruption.com/",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -7168,6 +7686,16 @@ window.GUIDE_DATA = {
          "date": "2026-08-28"
         }
        ]
+      },
+      {
+       "item": "Does not appear on the Sumter County 2026 General Election sample ballot following his Aug. 28, 2026 withdrawal.",
+       "sources": [
+        {
+         "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+         "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+         "date": "2026-09"
+        }
+       ]
       }
      ],
      "endorsements": [],
@@ -7178,10 +7706,10 @@ window.GUIDE_DATA = {
      "name": "Frank J. Russo",
      "party": "No Party Affiliation",
      "incumbent": false,
-     "running_mate": null,
+     "running_mate": "Rachel Rodriguez (attorney; earlier a 2026 Republican candidate for governor, per Politics1)",
      "photo_url": null,
      "photo_source": "Ballotpedia profile (photo URL not verified)",
-     "website": null,
+     "website": "https://russo2026.com/",
      "occupation": "Entrepreneur, developer and insurance executive",
      "residence": "Florida (city/county not verified)",
      "background": "Frank J. Russo describes himself as a lifelong Floridian with more than 40 years of business leadership, including development projects such as the Queen's Gambit Castle and relief programs for children, veterans and families. He announced an NPA run on April 14, 2026 under a 'People First - Humanity Over the Dollar' banner and qualified in June 2026. He pledges to donate 100% of the governor's salary each year.",
@@ -7216,11 +7744,17 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 0,
+       "confidence": "stated",
+       "summary": "Immigration plank is 'Secure. Legal. Humane.' with 'stronger public safety partnerships, targeting violent criminals, traffickers and gangs'; does not state a position on large-scale deportation.",
+       "quote": "Secure. Legal. Humane.",
+       "sources": [
+        {
+         "title": "Russo-Rodriguez 2026 campaign website",
+         "url": "https://russo2026.com/",
+         "date": "2026"
+        }
+       ]
       },
       "abortion": {
        "stance": null,
@@ -7357,6 +7891,50 @@ window.GUIDE_DATA = {
          "date": "2026-04-14"
         }
        ]
+      },
+      {
+       "title": "Teacher pay of at least $75,000",
+       "summary": "Would 'raise Florida's average teacher salary to at least $75,000' and strengthen recruitment and retention.",
+       "sources": [
+        {
+         "title": "Russo-Rodriguez 2026 campaign website",
+         "url": "https://russo2026.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "'Humanity Over the Dollar' / 'Caring Capitalism'",
+       "summary": "Campaign philosophy that 'Florida's success should be measured by whether the people who already live here can afford to stay here.'",
+       "sources": [
+        {
+         "title": "Russo-Rodriguez 2026 campaign website",
+         "url": "https://russo2026.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Medical freedom",
+       "summary": "Says 'lawful medical decisions should be made by Floridians in consultation with their healthcare providers.'",
+       "sources": [
+        {
+         "title": "Russo-Rodriguez 2026 campaign website",
+         "url": "https://russo2026.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "AI and innovation",
+       "summary": "Describes an approach that is 'pro-innovation, pro-business and pro-accountability' to prepare workers for an AI-transformed economy.",
+       "sources": [
+        {
+         "title": "Russo-Rodriguez 2026 campaign website",
+         "url": "https://russo2026.com/",
+         "date": "2026"
+        }
+       ]
       }
      ],
      "record": [],
@@ -7382,19 +7960,15 @@ window.GUIDE_DATA = {
     "type": "statewide"
    },
    "coverage": "full",
-   "verified_ballot_note": "Multiple news sources (News4Jax voter guide, Florida Tribune, NBC News primary results, Sparker's Soapbox) list only Republican James Uthmeier and Democrat José Javier Rodríguez as Nov. 3 general-election candidates; the Florida Division of Elections candidate list (dos.elections.myflorida.com) and Ballotpedia were blocked in this sandbox, so the absence of NPA/write-in candidates is unverified.",
+   "verified_ballot_note": "Third pass (Sept 17, 2026): verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot, which lists James Uthmeier (REP) and Jose Javier Rodriguez (DEM) for Attorney General with no other candidates and no write-in line.",
    "verified_ballot_sources": [
     {
-     "title": "news4jax.com",
-     "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-attorney-general/"
+     "title": "elections.sumtercountyfl.gov",
+     "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot"
     },
     {
-     "title": "floridatrib.org",
-     "url": "https://floridatrib.org/2026elections/2026-statewide-races/"
-    },
-    {
-     "title": "nbcnews.com",
-     "url": "https://www.nbcnews.com/politics/2026-primary-elections/florida-attorney-general-results"
+     "title": "files.floridados.gov",
+     "url": "https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf"
     }
    ],
    "candidates": [
@@ -7485,6 +8059,11 @@ window.GUIDE_DATA = {
          "title": "Judge finds Florida AG in contempt for defying court order in major immigration case (AOL/AP)",
          "url": "https://www.aol.com/news/judge-finds-florida-attorney-general-235138211.html",
          "date": "2025-06"
+        },
+        {
+         "title": "James Uthmeier campaign website",
+         "url": "https://jamesforfl.com/",
+         "date": "2026"
         }
        ]
       },
@@ -7974,6 +8553,26 @@ window.GUIDE_DATA = {
          "date": null
         }
        ]
+      },
+      {
+       "item": "WGCU reported (July 2026) that the 'Alligator Alcatraz' detention site Uthmeier proposed had cost the state roughly $1 billion, with $58 million of $608 million in requested federal reimbursement received at that point.",
+       "sources": [
+        {
+         "title": "The staggering cost of Florida Attorney General James Uthmeier - WGCU",
+         "url": "https://www.wgcu.org/government-politics/2026-07-07/the-staggering-cost-of-florida-attorney-general-james-uthmeier",
+         "date": "2026-07-07"
+        }
+       ]
+      },
+      {
+       "item": "Campaign finance (per Sparker's Soapbox compilation of state filings): about $1.8 million raised directly from 1,336 donors plus $131,250 from political committees; the affiliated committee Friends of James Uthmeier had raised $10.1 million.",
+       "sources": [
+        {
+         "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+         "date": "2026-08"
+        }
+       ]
       }
      ],
      "endorsements": [
@@ -8008,6 +8607,21 @@ window.GUIDE_DATA = {
         {
          "title": "Florida Sheriffs Association endorses AG James Uthmeier for full term (Florida's Voice)",
          "url": "https://flvoicenews.com/florida-sheriffs-association-endorses-ag-james-uthmeier-for-full-term/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "by": "Republican Attorneys General Association; Club for Growth; Associated Industries of Florida",
+       "sources": [
+        {
+         "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+         "date": "2026-08"
+        },
+        {
+         "title": "2026 Florida Attorney General election - Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/2026_Florida_Attorney_General_election",
          "date": null
         }
        ]
@@ -8046,7 +8660,7 @@ window.GUIDE_DATA = {
        "stance": 1,
        "confidence": "stated",
        "summary": "Rodríguez says the attorney general should take on 'multimillion-dollar corporations, especially those in the insurance and utility industries,' go after fraud in property insurance and enforce consumer protections he says recent administrations have ignored. He has not been found to propose rate caps or expanding Citizens.",
-       "quote": null,
+       "quote": "Deliver real relief for homeowners and small businesses from skyrocketing insurance costs",
        "sources": [
         {
          "title": "José Javier Rodríguez visits Miami Shores (Miami-Dade Democratic Party)",
@@ -8057,6 +8671,16 @@ window.GUIDE_DATA = {
          "title": "Jose Javier Rodriguez, running for AG, leans on big-business criticism (Yahoo/Tampa Bay Times)",
          "url": "https://www.yahoo.com/news/politics/articles/jose-javier-rodriguez-running-ag-100000823.html",
          "date": "2025"
+        },
+        {
+         "title": "Jose Javier Rodriguez for Attorney General - Priorities",
+         "url": "https://www.jjr.vote/priorities",
+         "date": "2026"
+        },
+        {
+         "title": "Florida Matters: Attorney general candidate Jose Javier Rodriguez talks priorities - WUSF",
+         "url": "https://wusf.org/text/politics-issues/2026-03-31/florida-matters-florida-attorney-general-candidate-jose-javier-rodriguez-talks-priorities",
+         "date": "2026-03-31"
         }
        ]
       },
@@ -8068,31 +8692,38 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": -2,
+       "stance": -1,
        "confidence": "record",
-       "summary": "As a state senator voted against SB 168 (2019), which banned 'sanctuary' policies and required local cooperation with federal immigration detainers.",
+       "summary": "As a state senator Rodríguez voted against SB 168 (2019), which banned 'sanctuary' policies and required local agencies to support federal immigration enforcement. His 2026 campaign has not made immigration a stated priority.",
+       "quote": null,
        "sources": [
         {
-         "title": "SB 168 (2019) - Florida Senate bill page with vote history",
+         "title": "CS/CS/CS/SB 168 (2019) Federal Immigration Enforcement (sanctuary-policy ban) - Senate roll call, May 2, 2019 (22-18)",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/168/Vote/SenateVote_s00168e1008.PDF",
+         "date": "2019-05-02"
+        },
+        {
+         "title": "CS/CS/CS/SB 168 (2019) bill page",
          "url": "https://www.flsenate.gov/Session/Bill/2019/168",
-         "date": "2019-05"
+         "date": "2019"
         }
        ]
       },
       "abortion": {
-       "stance": 2,
-       "confidence": "stated",
-       "summary": "Supports abortion access and has said he would not use the Attorney General's office to defend the six-week ban beyond what the law requires; opposed the 2022 and 2023 bans.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against SB 404 (2020), which requires parental consent before a minor's abortion; he left the Senate before the 2022 and 2023 abortion limits and has not campaigned on the six-week law as a candidate for attorney general.",
+       "quote": null,
        "sources": [
         {
-         "title": "José Javier Rodríguez campaign site",
-         "url": "https://www.jjr.vote",
-         "date": null
+         "title": "CS/CS/SB 404 (2020) Abortion (parental consent for minors) - Senate roll call, Feb. 6, 2020 (23-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2020/404/Vote/SenateVote_s00404e1002.PDF",
+         "date": "2020-02-06"
         },
         {
-         "title": "José Javier Rodríguez - Wikipedia (positions, with citations)",
-         "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Javier_Rodr%C3%ADguez",
-         "date": null
+         "title": "CS/CS/SB 404 (2020) bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2020/404",
+         "date": "2020"
         }
        ]
       },
@@ -8111,6 +8742,11 @@ window.GUIDE_DATA = {
          "title": "Priorities | Jose Javier Rodriguez for Florida Attorney General",
          "url": "https://www.jjr.vote/priorities",
          "date": null
+        },
+        {
+         "title": "CS/SB 7026 (2018) Marjory Stoneman Douglas High School Public Safety Act - Senate roll call, March 5, 2018 (20-18)",
+         "url": "https://www.flsenate.gov/Session/Bill/2018/7026/Vote/SenateVote_s07026e1018.PDF",
+         "date": "2018-03-05"
         }
        ]
       },
@@ -8141,14 +8777,20 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "environment": {
-       "stance": 2,
-       "confidence": "record",
-       "summary": "As a state senator sponsored sea-level-rise and climate-planning legislation and campaigned on climate resilience.",
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Says he would use the office against polluters: 'If you're polluting the state with algae blooms, we're going to go after you.' He is endorsed by VoteWater and the Democratic Environmental Caucus of Florida.",
+       "quote": "If you're polluting the state with algae blooms, we're going to go after you.",
        "sources": [
         {
-         "title": "José Javier Rodríguez - Wikipedia (legislative record, with citations)",
-         "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Javier_Rodr%C3%ADguez",
-         "date": null
+         "title": "Florida Matters: Attorney general candidate Jose Javier Rodriguez talks priorities - WUSF",
+         "url": "https://wusf.org/text/politics-issues/2026-03-31/florida-matters-florida-attorney-general-candidate-jose-javier-rodriguez-talks-priorities",
+         "date": "2026-03-31"
+        },
+        {
+         "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+         "date": "2026-08"
         }
        ]
       },
@@ -8169,12 +8811,18 @@ window.GUIDE_DATA = {
       "elections": {
        "stance": 2,
        "confidence": "record",
-       "summary": "Voted against SB 7066 (2019), which required people with felony convictions to pay all fines and fees before regaining the right to vote under Amendment 4.",
+       "summary": "Voted against SB 7066 (2019), which requires people with felony convictions to pay fines and fees before their voting rights are restored under Amendment 4.",
+       "quote": null,
        "sources": [
         {
-         "title": "SB 7066 (2019) - Florida Senate bill page with vote history",
+         "title": "CS/SB 7066 (2019) Election Administration (Amendment 4 implementation; fines/fees before voting-rights restoration) - Senate roll call, May 2, 2019 (22-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/7066/Vote/SenateVote_s07066e1031.PDF",
+         "date": "2019-05-02"
+        },
+        {
+         "title": "CS/SB 7066 (2019) bill page",
          "url": "https://www.flsenate.gov/Session/Bill/2019/7066",
-         "date": "2019-05"
+         "date": "2019"
         }
        ]
       },
@@ -8182,7 +8830,7 @@ window.GUIDE_DATA = {
        "stance": 1,
        "confidence": "stated",
        "summary": "Rodríguez frames public safety as one of his three priorities ('crime, costs and corruption'), saying he would support law enforcement, take on the fentanyl crisis, crack down on scammers and protect minors and vulnerable Floridians. He has not been found to address the trade-off between tougher penalties and rehabilitation directly.",
-       "quote": null,
+       "quote": "If you're polluting the state with fentanyl, we're going to go after you.",
        "sources": [
         {
          "title": "Florida Attorney General candidate José Javier Rodríguez talks priorities (WUSF)",
@@ -8193,6 +8841,11 @@ window.GUIDE_DATA = {
          "title": "Priorities | Jose Javier Rodriguez for Florida Attorney General",
          "url": "https://www.jjr.vote/priorities",
          "date": null
+        },
+        {
+         "title": "Florida Matters: Attorney general candidate Jose Javier Rodriguez talks priorities - WUSF",
+         "url": "https://wusf.org/text/politics-issues/2026-03-31/florida-matters-florida-attorney-general-candidate-jose-javier-rodriguez-talks-priorities",
+         "date": "2026-03-31"
         }
        ]
       },
@@ -8347,6 +9000,33 @@ window.GUIDE_DATA = {
          "date": "2025-06"
         }
        ]
+      },
+      {
+       "title": "Protect seniors and veterans from exploitation",
+       "summary": "Priorities page pledges to 'protect seniors and veterans from exploitation and abuse' and to 'crack down on scammers targeting Florida families, renters or homeowners.'",
+       "sources": [
+        {
+         "title": "Jose Javier Rodriguez for Attorney General - Priorities",
+         "url": "https://www.jjr.vote/priorities",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Check and balance on the governor",
+       "summary": "Says the attorney general should be 'a check and balance on the governor's administration' and 'a steady, professional enforcer of the law, not a political operation.'",
+       "sources": [
+        {
+         "title": "Florida Matters: Attorney general candidate Jose Javier Rodriguez talks priorities - WUSF",
+         "url": "https://wusf.org/text/politics-issues/2026-03-31/florida-matters-florida-attorney-general-candidate-jose-javier-rodriguez-talks-priorities",
+         "date": "2026-03-31"
+        },
+        {
+         "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+         "date": "2026-08"
+        }
+       ]
       }
      ],
      "record": [
@@ -8372,6 +9052,66 @@ window.GUIDE_DATA = {
          "title": "José Javier Rodríguez hits $2M fundraising milestone (Florida Politics)",
          "url": "https://floridapolitics.com/archives/816847-jose-javier-rodriguez-hits-2m-fundraising-milestone-in-bid-for-attorney-general/",
          "date": null
+        }
+       ]
+      },
+      {
+       "item": "Senate votes: against SB 168 sanctuary-policy ban (2019), SB 7066 Amendment 4 implementation (2019) and SB 404 parental consent for abortion (2020).",
+       "sources": [
+        {
+         "title": "CS/CS/CS/SB 168 (2019) Federal Immigration Enforcement (sanctuary-policy ban) - Senate roll call, May 2, 2019 (22-18)",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/168/Vote/SenateVote_s00168e1008.PDF",
+         "date": "2019-05-02"
+        },
+        {
+         "title": "CS/SB 7066 (2019) Election Administration (Amendment 4 implementation; fines/fees before voting-rights restoration) - Senate roll call, May 2, 2019 (22-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/7066/Vote/SenateVote_s07066e1031.PDF",
+         "date": "2019-05-02"
+        },
+        {
+         "title": "CS/CS/SB 404 (2020) Abortion (parental consent for minors) - Senate roll call, Feb. 6, 2020 (23-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2020/404/Vote/SenateVote_s00404e1002.PDF",
+         "date": "2020-02-06"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 7026 (2018), the post-Parkland gun and school-safety law; the Tampa Bay Times reported that Democrats who opposed the bill objected to its program allowing armed school staff, while the bill also raised the purchase age to 21 and created the red-flag process.",
+       "sources": [
+        {
+         "title": "CS/SB 7026 (2018) Marjory Stoneman Douglas High School Public Safety Act - Senate roll call, March 5, 2018 (20-18)",
+         "url": "https://www.flsenate.gov/Session/Bill/2018/7026/Vote/SenateVote_s07026e1018.PDF",
+         "date": "2018-03-05"
+        },
+        {
+         "title": "How has your Florida senator voted on assault weapons and arming teachers so far? - Tampa Bay Times",
+         "url": "https://www.tampabay.com/florida-politics/buzz/2018/03/05/how-has-your-florida-senator-voted-on-assault-weapons-and-arming-teachers-so-far/",
+         "date": "2018-03-05"
+        }
+       ]
+      },
+      {
+       "item": "Born Aug. 8, 1978, in Miami; Brown University (2000), Peace Corps 2000-2003, Harvard Law School (2006); Florida House 2012-2016, Florida Senate 2016-2020; lost his 2020 re-election by 32 votes in a race later found to involve a funded 'ghost' candidate; U.S. Assistant Secretary of Labor for Employment and Training 2024-January 2025.",
+       "sources": [
+        {
+         "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+         "date": "2026-08"
+        },
+        {
+         "title": "Jose Javier Rodriguez for Attorney General - About",
+         "url": "https://www.jjr.vote/about",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Campaign finance (per Sparker's Soapbox compilation of state filings): about $1.2 million from 1,958 donors, 92% in-state, plus $66,850 from political committees, mostly labor unions.",
+       "sources": [
+        {
+         "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+         "date": "2026-08"
         }
        ]
       }
@@ -8431,6 +9171,36 @@ window.GUIDE_DATA = {
          "date": "2026-05-17"
         }
        ]
+      },
+      {
+       "by": "Former Attorney General Bob Butterworth, former CFO Alex Sink, former state Rep. Sean Shaw and former Palm Beach State Attorney Dave Aronberg",
+       "sources": [
+        {
+         "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "by": "Former U.S. Sen. Bill Nelson, U.S. Rep. Kathy Castor, former U.S. Rep. Gwen Graham and Parkland parent Fred Guttenberg",
+       "sources": [
+        {
+         "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "by": "VoteWater, Latino Victory Fund, End Citizens United, Democratic Environmental Caucus of Florida",
+       "sources": [
+        {
+         "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+         "date": "2026-08"
+        }
+       ]
       }
      ],
      "photo_local": "assets/photos/jose_javier_rodriguez.jpg"
@@ -8449,15 +9219,15 @@ window.GUIDE_DATA = {
     "type": "statewide"
    },
    "coverage": "full",
-   "verified_ballot_note": "Primary results (News4Jax, FOX49, Florida Phoenix, WUWF) show Republican Blaise Ingoglia and Democrat Annette Taddeo as the Nov. 3 general-election nominees; no NPA or write-in candidates appeared in any source, but the Florida Division of Elections candidate list and Ballotpedia were blocked in this sandbox, so that is unverified.",
+   "verified_ballot_note": "Third pass (Sept 17, 2026): verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot, which lists Blaise Ingoglia (REP) and Annette Taddeo (DEM) for Chief Financial Officer with no other candidates and no write-in line.",
    "verified_ballot_sources": [
     {
-     "title": "news4jax.com",
-     "url": "https://www.news4jax.com/vote-2026/2026/08/17/vote-2026-primary-election-results-for-floridas-chief-financial-officer-agriculture-commissioner-on-aug-18-2026/"
+     "title": "elections.sumtercountyfl.gov",
+     "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot"
     },
     {
-     "title": "fox49.tv",
-     "url": "https://fox49.tv/news/local/blaise-ingoglia-annette-taddeo-win-florida-chief-financial-officer-primaries"
+     "title": "files.floridados.gov",
+     "url": "https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf"
     }
    ],
    "candidates": [
@@ -8494,6 +9264,16 @@ window.GUIDE_DATA = {
          "title": "What to know about Florida DOGE audits (WUSF)",
          "url": "https://www.wusf.org/the-florida-roundup/2025-08-25/florida-cfo-blaise-ingoglia-doge-audits-wasteful-spending-undeniable",
          "date": "2025-08-25"
+        },
+        {
+         "title": "Florida CFO Blaise Ingoglia launches 2026 campaign with $2 million insurance crackdown, property tax pledge - WTXL",
+         "url": "https://www.wtxl.com/news/capitol-news/florida-cfo-blaise-ingoglia-launches-2026-campaign-with-2-million-insurance-crackdown-property-tax-pledge",
+         "date": "2025-09"
+        },
+        {
+         "title": "Blaise Ingoglia campaign website (home page)",
+         "url": "https://blaiseforflorida.com/",
+         "date": "2026"
         }
        ]
       },
@@ -8522,6 +9302,26 @@ window.GUIDE_DATA = {
          "title": "Calling himself 'unapologetically conservative,' Blaise Ingoglia kicks off his campaign for CFO (Florida Phoenix)",
          "url": "https://floridaphoenix.com/2025/09/23/calling-himself-unapologetically-conservative-blaise-ingoglia-kicks-off-his-campaign-for-cfo/",
          "date": "2025-09-23"
+        },
+        {
+         "title": "Florida CFO Blaise Ingoglia launches 2026 campaign with $2 million insurance crackdown, property tax pledge - WTXL",
+         "url": "https://www.wtxl.com/news/capitol-news/florida-cfo-blaise-ingoglia-launches-2026-campaign-with-2-million-insurance-crackdown-property-tax-pledge",
+         "date": "2025-09"
+        },
+        {
+         "title": "Florida CFO Blaise Ingoglia launches 2026 campaign with $2M insurance crackdown, property tax pledge - WFLX",
+         "url": "https://www.wflx.com/2025/09/02/florida-cfo-blaise-ingoglia-launches-2026-campaign-with-2m-insurance-crackdown-property-tax-pledge/",
+         "date": "2025-09-02"
+        },
+        {
+         "title": "CFO says Florida voters shouldn't believe 'big government apologists' hype on property tax - Orlando Weekly",
+         "url": "https://www.orlandoweekly.com/news/florida-news/cfo-says-florida-voters-shouldnt-believe-big-government-apologists-hype-on-property-tax/",
+         "date": "2026-06-03"
+        },
+        {
+         "title": "Ingoglia defends property tax plan - Citrus County Chronicle",
+         "url": "https://www.chronicleonline.com/news/local/ingoglia-defends-property-tax-plan/article_f6a60175-ec76-5c6a-b12f-11b61d00cc75.html",
+         "date": "2026-06-04"
         }
        ]
       },
@@ -8545,6 +9345,16 @@ window.GUIDE_DATA = {
          "title": "Florida CFO Blaise Ingoglia pushes for tax reform and lower insurance rates (WTXL)",
          "url": "https://www.wtxl.com/news/local-news/in-your-neighborhood/south-tallahassee/florida-cfo-blaise-ingoglia-calls-for-tax-reform-and-lower-insurance-rates",
          "date": null
+        },
+        {
+         "title": "Florida CFO Blaise Ingoglia launches 2026 campaign with $2 million insurance crackdown, property tax pledge - WTXL",
+         "url": "https://www.wtxl.com/news/capitol-news/florida-cfo-blaise-ingoglia-launches-2026-campaign-with-2-million-insurance-crackdown-property-tax-pledge",
+         "date": "2025-09"
+        },
+        {
+         "title": "Blaise Ingoglia campaign website (home page)",
+         "url": "https://blaiseforflorida.com/",
+         "date": "2026"
         }
        ]
       },
@@ -8563,41 +9373,84 @@ window.GUIDE_DATA = {
       "immigration": {
        "stance": 2,
        "confidence": "record",
-       "summary": "Voted for SB 1718 (2023), which expanded state immigration-enforcement penalties and employer verification requirements.",
+       "summary": "As a state senator Ingoglia voted for SB 2-C (Feb. 2025), the special-session law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention; his campaign site says he 'passed nation's toughest anti-illegal immigration law.'",
+       "quote": "Passed nation's toughest anti-illegal immigration law",
        "sources": [
         {
-         "title": "SB 1718 (2023) - Florida Senate bill page with vote history",
-         "url": "https://www.flsenate.gov/Session/Bill/2023/1718",
-         "date": "2023-05"
+         "title": "SB 2-C (2025 Special Session C) Immigration - Senate roll call, Feb. 13, 2025 (27-10)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025C) Immigration bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025"
+        },
+        {
+         "title": "Blaise Ingoglia campaign website (home page)",
+         "url": "https://blaiseforflorida.com/",
+         "date": "2026"
         }
        ]
       },
       "abortion": {
        "stance": -2,
        "confidence": "record",
-       "summary": "Voted for HB 5 (2022, 15-week ban) in the House and SB 300 (2023, six-week ban) in the Senate.",
+       "summary": "Voted for SB 300 (2023), which limits most abortions to six weeks, and for HB 5 (2022), the earlier 15-week limit, while serving in the Legislature.",
+       "quote": null,
        "sources": [
         {
-         "title": "HB 5 (2022)",
-         "url": "https://www.flsenate.gov/Session/Bill/2022/5",
-         "date": "2022-03"
+         "title": "SB 300 (2023) 'Heartbeat Protection Act' (six-week abortion limit) - Senate roll call, April 3, 2023 (26-13)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+         "date": "2023-04-03"
         },
         {
-         "title": "SB 300 (2023)",
+         "title": "SB 300 (2023) bill page",
          "url": "https://www.flsenate.gov/Session/Bill/2023/300",
-         "date": "2023-04"
+         "date": "2023"
+        },
+        {
+         "title": "CS/HB 5 (2022) - House roll call, Feb. 17, 2022 (78-39)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF",
+         "date": "2022-02-17"
+        },
+        {
+         "title": "CS/HB 5 (2022) 'Reducing Fetal and Infant Mortality' bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5",
+         "date": "2022"
         }
        ]
       },
       "guns": {
        "stance": -2,
        "confidence": "record",
-       "summary": "Voted for HB 543 (2023), which allows carrying a concealed weapon without a permit.",
+       "summary": "Voted for HB 543 (2023), which allows carrying a concealed firearm without a permit, and in 2018 voted against SB 7026, the post-Parkland law that created the red-flag process and the 21-and-over purchase rule. His 2026 campaign ad says 'I own guns.'",
+       "quote": "I own guns.",
        "sources": [
         {
-         "title": "HB 543 (2023) - Florida Senate bill page with vote history",
+         "title": "CS/HB 543 (2023) permitless concealed carry - Senate roll call, March 30, 2023 (27-13)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+         "date": "2023-03-30"
+        },
+        {
+         "title": "CS/HB 543 (2023) Public Safety (carrying a concealed weapon without a license) bill page",
          "url": "https://www.flsenate.gov/Session/Bill/2023/543",
-         "date": "2023-03"
+         "date": "2023"
+        },
+        {
+         "title": "CS/SB 7026 (2018) - House roll call, March 7, 2018 (67-50)",
+         "url": "https://www.flsenate.gov/Session/Bill/2018/7026/Vote/HouseVote_s07026e2859.PDF",
+         "date": "2018-03-07"
+        },
+        {
+         "title": "CS/SB 7026 (2018) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2018/7026",
+         "date": "2018"
+        },
+        {
+         "title": "Blaise Ingoglia releases politically incorrect campaign ad in CFO bid - The Floridian",
+         "url": "https://floridianpress.com/2026/07/blaise-ingoglia-releases-politically-incorrect-campaign-ad-in-cfo-bid/",
+         "date": "2026-07-30"
         }
        ]
       },
@@ -8618,17 +9471,18 @@ window.GUIDE_DATA = {
       "education_choice": {
        "stance": 2,
        "confidence": "record",
-       "summary": "Voted for HB 7045 (2021) and HB 1 (2023), which expanded and then universalized Florida's school-voucher scholarships.",
+       "summary": "Voted for HB 1 (2023), which made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "quote": null,
        "sources": [
         {
-         "title": "HB 7045 (2021)",
-         "url": "https://www.flsenate.gov/Session/Bill/2021/7045",
-         "date": "2021-04"
+         "title": "CS/CS/CS/CS/HB 1 (2023) universal school-choice scholarships - Senate roll call, March 23, 2023 (26-12)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF",
+         "date": "2023-03-23"
         },
         {
-         "title": "HB 1 (2023)",
+         "title": "HB 1 (2023) Education bill page",
          "url": "https://www.flsenate.gov/Session/Bill/2023/1",
-         "date": "2023-03"
+         "date": "2023"
         }
        ]
       },
@@ -8656,41 +9510,69 @@ window.GUIDE_DATA = {
       "elections": {
        "stance": -2,
        "confidence": "record",
-       "summary": "Voted for SB 90 (2021) and SB 7050 (2023), which tightened vote-by-mail and drop-box rules and third-party registration requirements.",
+       "summary": "Voted for SB 90 (2021), which added identification requirements for mail-ballot requests, limited drop-box hours and required mail-ballot requests to be renewed each election cycle; his campaign site says he 'strengthened voter ID and election integrity laws.'",
+       "quote": "Strengthened voter ID and election integrity laws",
        "sources": [
         {
-         "title": "SB 90 (2021)",
-         "url": "https://www.flsenate.gov/Session/Bill/2021/90",
-         "date": "2021-04"
+         "title": "CS/CS/CS/SB 90 (2021) Elections - House roll call, April 29, 2021 (77-40)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF",
+         "date": "2021-04-29"
         },
         {
-         "title": "SB 7050 (2023)",
-         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
-         "date": "2023-04"
+         "title": "CS/CS/CS/SB 90 (2021) Elections bill page (vote-by-mail requests, drop-box rules, ID for mail-ballot requests)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90",
+         "date": "2021"
+        },
+        {
+         "title": "Blaise Ingoglia campaign website (home page)",
+         "url": "https://blaiseforflorida.com/",
+         "date": "2026"
         }
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Ingoglia lists 'standing up for first responders' as a campaign priority and argues local governments should fund police and fire first; he has not proposed specific sentencing changes as CFO.",
+       "quote": "The very first things that they should be funding are fire and police.",
+       "sources": [
+        {
+         "title": "Blaise Ingoglia campaign website (home page)",
+         "url": "https://blaiseforflorida.com/",
+         "date": "2026"
+        },
+        {
+         "title": "Florida CFO Blaise Ingoglia launches 2026 campaign with $2 million insurance crackdown, property tax pledge - WTXL",
+         "url": "https://www.wtxl.com/news/capitol-news/florida-cfo-blaise-ingoglia-launches-2026-campaign-with-2-million-insurance-crackdown-property-tax-pledge",
+         "date": "2025-09"
+        },
+        {
+         "title": "CFO says Florida voters shouldn't believe 'big government apologists' hype on property tax - Orlando Weekly",
+         "url": "https://www.orlandoweekly.com/news/florida-news/cfo-says-florida-voters-shouldnt-believe-big-government-apologists-hype-on-property-tax/",
+         "date": "2026-06-03"
+        }
+       ]
       },
       "lgbtq": {
        "stance": 2,
        "confidence": "record",
-       "summary": "Voted for HB 1557 (2022) and SB 254 (2023).",
+       "summary": "Voted for SB 254 (2023), which bars gender-affirming medical treatment for minors and restricts it for adults, and his campaign says he 'led efforts to protect ... parental rights.'",
+       "quote": null,
        "sources": [
         {
-         "title": "HB 1557 (2022)",
-         "url": "https://www.flsenate.gov/Session/Bill/2022/1557",
-         "date": "2022-03"
+         "title": "CS/SB 254 (2023) Treatments for Sex Reassignment - Senate roll call, May 4, 2023 (26-13)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+         "date": "2023-05-04"
         },
         {
-         "title": "SB 254 (2023)",
+         "title": "CS/SB 254 (2023) bill page",
          "url": "https://www.flsenate.gov/Session/Bill/2023/254",
-         "date": "2023-05"
+         "date": "2023"
+        },
+        {
+         "title": "Blaise Ingoglia campaign website (home page)",
+         "url": "https://blaiseforflorida.com/",
+         "date": "2026"
         }
        ]
       },
@@ -8815,6 +9697,27 @@ window.GUIDE_DATA = {
          "date": null
         }
        ]
+      },
+      {
+       "title": "Local government spending audits (FAFO)",
+       "summary": "Says his Florida Agency for Fiscal Oversight audits found billions in 'excessive and wasteful' local spending and that local general-fund budgets grew 60-120% after the pandemic, so counties and cities can absorb property-tax cuts without cutting police and fire.",
+       "sources": [
+        {
+         "title": "CFO says Florida voters shouldn't believe 'big government apologists' hype on property tax - Orlando Weekly",
+         "url": "https://www.orlandoweekly.com/news/florida-news/cfo-says-florida-voters-shouldnt-believe-big-government-apologists-hype-on-property-tax/",
+         "date": "2026-06-03"
+        },
+        {
+         "title": "Ingoglia defends property tax plan - Citrus County Chronicle",
+         "url": "https://www.chronicleonline.com/news/local/ingoglia-defends-property-tax-plan/article_f6a60175-ec76-5c6a-b12f-11b61d00cc75.html",
+         "date": "2026-06-04"
+        },
+        {
+         "title": "Blaise Ingoglia releases politically incorrect campaign ad in CFO bid - The Floridian",
+         "url": "https://floridianpress.com/2026/07/blaise-ingoglia-releases-politically-incorrect-campaign-ad-in-cfo-bid/",
+         "date": "2026-07-30"
+        }
+       ]
       }
      ],
      "record": [
@@ -8887,6 +9790,76 @@ window.GUIDE_DATA = {
          "date": "2026-01"
         }
        ]
+      },
+      {
+       "item": "Legislative votes: for SB 2-C immigration enforcement (2025), SB 300 six-week abortion limit (2023), HB 543 permitless carry (2023), HB 1 universal school choice (2023), SB 254 gender-affirming care restrictions (2023), HB 5 15-week abortion limit (2022) and SB 90 election changes (2021); against SB 7026, the 2018 Parkland gun and school-safety law.",
+       "sources": [
+        {
+         "title": "SB 2-C (2025 Special Session C) Immigration - Senate roll call, Feb. 13, 2025 (27-10)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 300 (2023) 'Heartbeat Protection Act' (six-week abortion limit) - Senate roll call, April 3, 2023 (26-13)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+         "date": "2023-04-03"
+        },
+        {
+         "title": "CS/HB 543 (2023) permitless concealed carry - Senate roll call, March 30, 2023 (27-13)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+         "date": "2023-03-30"
+        },
+        {
+         "title": "CS/CS/CS/CS/HB 1 (2023) universal school-choice scholarships - Senate roll call, March 23, 2023 (26-12)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF",
+         "date": "2023-03-23"
+        },
+        {
+         "title": "CS/SB 254 (2023) Treatments for Sex Reassignment - Senate roll call, May 4, 2023 (26-13)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "CS/HB 5 (2022) - House roll call, Feb. 17, 2022 (78-39)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF",
+         "date": "2022-02-17"
+        },
+        {
+         "title": "CS/CS/CS/SB 90 (2021) Elections - House roll call, April 29, 2021 (77-40)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF",
+         "date": "2021-04-29"
+        },
+        {
+         "title": "CS/SB 7026 (2018) - House roll call, March 7, 2018 (67-50)",
+         "url": "https://www.flsenate.gov/Session/Bill/2018/7026/Vote/HouseVote_s07026e2859.PDF",
+         "date": "2018-03-07"
+        }
+       ]
+      },
+      {
+       "item": "Announced $2 million in fines against eight insurers for post-hurricane claims handling when launching his campaign (Sept. 2025), calling it 'just the tip of the iceberg.'",
+       "sources": [
+        {
+         "title": "Florida CFO Blaise Ingoglia launches 2026 campaign with $2 million insurance crackdown, property tax pledge - WTXL",
+         "url": "https://www.wtxl.com/news/capitol-news/florida-cfo-blaise-ingoglia-launches-2026-campaign-with-2-million-insurance-crackdown-property-tax-pledge",
+         "date": "2025-09"
+        },
+        {
+         "title": "Florida CFO Blaise Ingoglia launches 2026 campaign with $2M insurance crackdown, property tax pledge - WFLX",
+         "url": "https://www.wflx.com/2025/09/02/florida-cfo-blaise-ingoglia-launches-2026-campaign-with-2m-insurance-crackdown-property-tax-pledge/",
+         "date": "2025-09-02"
+        }
+       ]
+      },
+      {
+       "item": "Campaign finance through July 27, 2026 (per Sparker's Soapbox compilation of state filings): about $1.19 million raised directly plus $664,000 in-kind; affiliated committees Friends of Blaise Ingoglia ($6.0 million since 2021) and Government Gone Wild ($3.0 million since 2017).",
+       "sources": [
+        {
+         "title": "Florida Chief Financial Officer Candidates 2026 - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-chief-financial-officer-candidates-2026/",
+         "date": "2026-08"
+        }
+       ]
       }
      ],
      "endorsements": [
@@ -8937,6 +9910,26 @@ window.GUIDE_DATA = {
          "title": "Blaise Ingoglia for CFO (campaign site)",
          "url": "https://blaiseforflorida.com/",
          "date": null
+        }
+       ]
+      },
+      {
+       "by": "Florida Professional Firefighters, Florida Fraternal Order of Police and Florida Police Benevolent Association (per campaign site, compiled by Sparker's Soapbox)",
+       "sources": [
+        {
+         "title": "Florida Chief Financial Officer Candidates 2026 - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-chief-financial-officer-candidates-2026/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "by": "Former CFO Jeff Atwater; U.S. Sen. Ashley Moody",
+       "sources": [
+        {
+         "title": "Florida Chief Financial Officer Candidates 2026 - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-chief-financial-officer-candidates-2026/",
+         "date": "2026-08"
         }
        ]
       }
@@ -8990,7 +9983,7 @@ window.GUIDE_DATA = {
        "stance": 1,
        "confidence": "stated",
        "summary": "Taddeo says the property-insurance crisis is a main reason she entered the race and argues state leaders have failed to adequately regulate the industry, with homeowners paying through rising premiums and market instability. She calls for stronger CFO oversight and accountability of insurers, especially when policyholders struggle to collect after storms. No specific proposal on rate caps or expanding Citizens was found.",
-       "quote": null,
+       "quote": "Florida's families are being robbed in plain sight.",
        "sources": [
         {
          "title": "Annette Taddeo says she's running for Florida CFO to hold insurance companies accountable (CBS Miami)",
@@ -9006,6 +9999,21 @@ window.GUIDE_DATA = {
          "title": "Former state Sen. Annette Taddeo joins Florida CFO race, questions property tax plan and state spending (WPTV)",
          "url": "https://www.wptv.com/news/state/former-state-sen-annette-taddeo-joins-florida-cfo-race-questions-property-tax-plan-and-state-spending",
          "date": "2026-06"
+        },
+        {
+         "title": "Former state Sen. Annette Taddeo joins Florida CFO race, questions property tax plan and state spending - WFLX",
+         "url": "https://www.wflx.com/2026/06/09/former-state-sen-annette-taddeo-joins-florida-cfo-race-questions-property-tax-plan-state-spending/",
+         "date": "2026-06-09"
+        },
+        {
+         "title": "Get to know the 2026 Florida candidates for Agriculture Commissioner and Chief Financial Officer - WMNF",
+         "url": "https://www.wmnf.org/2026-florida-candidates-agriculture-commissioner-chief-financial-officer/",
+         "date": "2026-08-04"
+        },
+        {
+         "title": "Florida Chief Financial Officer Candidates 2026 - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-chief-financial-officer-candidates-2026/",
+         "date": "2026-08"
         }
        ]
       },
@@ -9028,26 +10036,48 @@ window.GUIDE_DATA = {
        ]
       },
       "immigration": {
-       "stance": -2,
+       "stance": -1,
        "confidence": "record",
-       "summary": "Voted against SB 168 (2019), the 'sanctuary city' ban requiring local cooperation with federal immigration detainers.",
+       "summary": "Voted against SB 168 (2019), which banned 'sanctuary' policies and required local agencies to support federal immigration enforcement. She has not campaigned on immigration in the CFO race.",
+       "quote": null,
        "sources": [
         {
-         "title": "SB 168 (2019) - Florida Senate bill page with vote history",
+         "title": "CS/CS/CS/SB 168 (2019) Federal Immigration Enforcement (sanctuary-policy ban) - Senate roll call, May 2, 2019 (22-18)",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/168/Vote/SenateVote_s00168e1008.PDF",
+         "date": "2019-05-02"
+        },
+        {
+         "title": "CS/CS/CS/SB 168 (2019) bill page",
          "url": "https://www.flsenate.gov/Session/Bill/2019/168",
-         "date": "2019-05"
+         "date": "2019"
         }
        ]
       },
       "abortion": {
        "stance": 2,
        "confidence": "record",
-       "summary": "As a state senator voted against HB 5 (2022), the 15-week abortion ban, and supports restoring abortion access.",
+       "summary": "As a state senator Taddeo voted against HB 5 (2022), the 15-week abortion limit, and against SB 404 (2020), which requires parental consent for a minor's abortion. She left the Senate before the 2023 six-week law.",
+       "quote": null,
        "sources": [
         {
-         "title": "HB 5 (2022) - Florida Senate bill page with vote history",
+         "title": "CS/HB 5 (2022) 15-week abortion limit - Senate roll call, March 3, 2022 (23-15)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF",
+         "date": "2022-03-03"
+        },
+        {
+         "title": "CS/HB 5 (2022) 'Reducing Fetal and Infant Mortality' bill page",
          "url": "https://www.flsenate.gov/Session/Bill/2022/5",
-         "date": "2022-03"
+         "date": "2022"
+        },
+        {
+         "title": "CS/CS/SB 404 (2020) Abortion (parental consent for minors) - Senate roll call, Feb. 6, 2020 (23-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2020/404/Vote/SenateVote_s00404e1002.PDF",
+         "date": "2020-02-06"
+        },
+        {
+         "title": "CS/CS/SB 404 (2020) bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2020/404",
+         "date": "2020"
         }
        ]
       },
@@ -9123,12 +10153,28 @@ window.GUIDE_DATA = {
       "elections": {
        "stance": 2,
        "confidence": "record",
-       "summary": "Voted against SB 90 (2021), which restricted drop boxes and vote-by-mail request periods.",
+       "summary": "Voted against SB 90 (2021), which tightened vote-by-mail and drop-box rules, and against SB 7066 (2019), which required people with felony convictions to pay fines and fees before regaining the vote under Amendment 4.",
+       "quote": null,
        "sources": [
         {
-         "title": "SB 90 (2021) - Florida Senate bill page with vote history",
+         "title": "CS/CS/CS/SB 90 (2021) Elections - Senate roll call, April 29, 2021 (23-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF",
+         "date": "2021-04-29"
+        },
+        {
+         "title": "CS/CS/CS/SB 90 (2021) Elections bill page (vote-by-mail requests, drop-box rules, ID for mail-ballot requests)",
          "url": "https://www.flsenate.gov/Session/Bill/2021/90",
-         "date": "2021-04"
+         "date": "2021"
+        },
+        {
+         "title": "CS/SB 7066 (2019) Election Administration (Amendment 4 implementation; fines/fees before voting-rights restoration) - Senate roll call, May 2, 2019 (22-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/7066/Vote/SenateVote_s07066e1031.PDF",
+         "date": "2019-05-02"
+        },
+        {
+         "title": "CS/SB 7066 (2019) bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/7066",
+         "date": "2019"
         }
        ]
       },
@@ -9142,12 +10188,18 @@ window.GUIDE_DATA = {
       "lgbtq": {
        "stance": -2,
        "confidence": "record",
-       "summary": "Voted against HB 1557 (2022), the Parental Rights in Education law.",
+       "summary": "Voted against HB 1557 (2022), the Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "quote": null,
        "sources": [
         {
-         "title": "HB 1557 (2022) - Florida Senate bill page with vote history",
+         "title": "CS/CS/HB 1557 (2022) Parental Rights in Education - Senate roll call, March 8, 2022 (22-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF",
+         "date": "2022-03-08"
+        },
+        {
+         "title": "CS/CS/HB 1557 (2022) bill page",
          "url": "https://www.flsenate.gov/Session/Bill/2022/1557",
-         "date": "2022-03"
+         "date": "2022"
         }
        ]
       },
@@ -9251,6 +10303,22 @@ window.GUIDE_DATA = {
          "date": "2026-06"
         }
        ]
+      },
+      {
+       "title": "Independent watchdog, not a political appointee",
+       "summary": "Says the CFO should be 'the watchdog for our money' rather than 'the lapdog for whoever is the governor,' and notes she has voted against her own party.",
+       "sources": [
+        {
+         "title": "Democrats Annette Taddeo and Earle Ford compete to face CFO Blaise Ingoglia in November - WLRN / Florida Phoenix",
+         "url": "https://www.wlrn.org/2026-07-24/democrats-annette-taddeo-and-earle-ford-compete-to-face-cfo-blaise-ingoglia-in-november",
+         "date": "2026-07-24"
+        },
+        {
+         "title": "Get to know the 2026 Florida candidates for Agriculture Commissioner and Chief Financial Officer - WMNF",
+         "url": "https://www.wmnf.org/2026-florida-candidates-agriculture-commissioner-chief-financial-officer/",
+         "date": "2026-08-04"
+        }
+       ]
       }
      ],
      "record": [
@@ -9261,6 +10329,81 @@ window.GUIDE_DATA = {
          "title": "Democrats Annette Taddeo and Earle Ford compete to face CFO Blaise Ingoglia in November (Florida Phoenix)",
          "url": "https://floridaphoenix.com/2026/07/24/democrats-annette-taddeo-and-earle-ford-compete-to-face-cfo-blaise-ingoglia-in-november/",
          "date": null
+        }
+       ]
+      },
+      {
+       "item": "Senate votes: against HB 5 15-week abortion limit (2022), HB 1557 Parental Rights in Education (2022), SB 90 elections (2021), SB 404 parental consent (2020), SB 168 sanctuary-policy ban (2019) and SB 7066 Amendment 4 implementation (2019).",
+       "sources": [
+        {
+         "title": "CS/HB 5 (2022) 15-week abortion limit - Senate roll call, March 3, 2022 (23-15)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF",
+         "date": "2022-03-03"
+        },
+        {
+         "title": "CS/CS/HB 1557 (2022) Parental Rights in Education - Senate roll call, March 8, 2022 (22-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF",
+         "date": "2022-03-08"
+        },
+        {
+         "title": "CS/CS/CS/SB 90 (2021) Elections - Senate roll call, April 29, 2021 (23-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF",
+         "date": "2021-04-29"
+        },
+        {
+         "title": "CS/CS/SB 404 (2020) Abortion (parental consent for minors) - Senate roll call, Feb. 6, 2020 (23-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2020/404/Vote/SenateVote_s00404e1002.PDF",
+         "date": "2020-02-06"
+        },
+        {
+         "title": "CS/CS/CS/SB 168 (2019) Federal Immigration Enforcement (sanctuary-policy ban) - Senate roll call, May 2, 2019 (22-18)",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/168/Vote/SenateVote_s00168e1008.PDF",
+         "date": "2019-05-02"
+        },
+        {
+         "title": "CS/SB 7066 (2019) Election Administration (Amendment 4 implementation; fines/fees before voting-rights restoration) - Senate roll call, May 2, 2019 (22-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/7066/Vote/SenateVote_s07066e1031.PDF",
+         "date": "2019-05-02"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 7026 (2018), the post-Parkland gun and school-safety law; the Tampa Bay Times reported that Democrats who opposed the bill objected to its program allowing armed school staff, while the bill also raised the purchase age to 21 and created the red-flag process.",
+       "sources": [
+        {
+         "title": "CS/SB 7026 (2018) Marjory Stoneman Douglas High School Public Safety Act - Senate roll call, March 5, 2018 (20-18)",
+         "url": "https://www.flsenate.gov/Session/Bill/2018/7026/Vote/SenateVote_s07026e1018.PDF",
+         "date": "2018-03-05"
+        },
+        {
+         "title": "How has your Florida senator voted on assault weapons and arming teachers so far? - Tampa Bay Times",
+         "url": "https://www.tampabay.com/florida-politics/buzz/2018/03/05/how-has-your-florida-senator-voted-on-assault-weapons-and-arming-teachers-so-far/",
+         "date": "2018-03-05"
+        }
+       ]
+      },
+      {
+       "item": "Born April 7, 1967, in Barrancabermeja, Colombia; moved to the U.S. at 17; founded the translation company LanguageSpeak in 1995; 2014 Democratic nominee for lieutenant governor with Charlie Crist; won a Florida Senate special election in 2017 and re-election in 2018; lost a 2022 congressional race and a 2024 Miami-Dade clerk race.",
+       "sources": [
+        {
+         "title": "Florida Chief Financial Officer Candidates 2026 - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-chief-financial-officer-candidates-2026/",
+         "date": "2026-08"
+        },
+        {
+         "title": "Get to know the 2026 Florida candidates for Agriculture Commissioner and Chief Financial Officer - WMNF",
+         "url": "https://www.wmnf.org/2026-florida-candidates-agriculture-commissioner-chief-financial-officer/",
+         "date": "2026-08-04"
+        }
+       ]
+      },
+      {
+       "item": "Campaign finance through July 27, 2026 (per Sparker's Soapbox compilation of state filings): about $46,000 raised from 192 donors plus a $6,000 personal loan; Friends of Annette Taddeo committee $30,500.",
+       "sources": [
+        {
+         "title": "Florida Chief Financial Officer Candidates 2026 - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-chief-financial-officer-candidates-2026/",
+         "date": "2026-08"
         }
        ]
       }
@@ -9320,6 +10463,26 @@ window.GUIDE_DATA = {
          "date": null
         }
        ]
+      },
+      {
+       "by": "SEIU Florida; former U.S. Rep. Donna Shalala; United Faculty of Miami Dade College (per Sparker's Soapbox compilation)",
+       "sources": [
+        {
+         "title": "Florida Chief Financial Officer Candidates 2026 - Sparker's Soapbox (candidate compilation with links)",
+         "url": "https://www.sparkers-soapbox.com/florida-chief-financial-officer-candidates-2026/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "by": "Ruth's List Florida (recruited her to run)",
+       "sources": [
+        {
+         "title": "Democrats Annette Taddeo and Earle Ford compete to face CFO Blaise Ingoglia in November - WLRN / Florida Phoenix",
+         "url": "https://www.wlrn.org/2026-07-24/democrats-annette-taddeo-and-earle-ford-compete-to-face-cfo-blaise-ingoglia-in-november",
+         "date": "2026-07-24"
+        }
+       ]
       }
      ],
      "photo_local": "assets/photos/annette_taddeo.jpg"
@@ -9338,15 +10501,15 @@ window.GUIDE_DATA = {
     "type": "statewide"
    },
    "coverage": "full",
-   "verified_ballot_note": "Primary results (Florida Politics, WUWF, WFLA, Florida Tribune) show Republican incumbent Wilton Simpson and Democrat Joey Mendoza Atkins as the Nov. 3 general-election nominees; no NPA or write-in candidates appeared in any source, but the Florida Division of Elections candidate list (floridaelectionwatch.gov / dos.elections.myflorida.com) and Ballotpedia were blocked in this sandbox, so that is unverified.",
+   "verified_ballot_note": "Third pass (Sept 17, 2026): verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot, which lists Wilton Simpson (REP) and Joey Mendoza Atkins (DEM) for Commissioner of Agriculture followed by a blank write-in line, meaning at least one write-in candidate qualified; write-in names are not printed on the ballot.",
    "verified_ballot_sources": [
     {
-     "title": "floridapolitics.com",
-     "url": "https://floridapolitics.com/archives/814743-wilton-simpson-runs-away-with-gop-nomination-for-agriculture-commissioner-democrat-joey-mendoza-atkins-advances-to-general-election/"
+     "title": "elections.sumtercountyfl.gov",
+     "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot"
     },
     {
-     "title": "wfla.com",
-     "url": "https://www.wfla.com/election/4-candidates-battle-for-agriculture-commissioner-nomination/"
+     "title": "files.floridados.gov",
+     "url": "https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf"
     }
    ],
    "candidates": [
@@ -9359,16 +10522,27 @@ window.GUIDE_DATA = {
      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
      "website": "https://wiltonsimpson.com/",
      "occupation": "Florida Commissioner of Agriculture and Consumer Services; farmer/businessman",
-     "residence": "Trilby, Pasco County (unverified)",
+     "residence": "Trilby, Pasco County",
      "background": "Simpson is the incumbent Commissioner of Agriculture, first elected in 2022, and a former president of the Florida Senate. He is seeking a second term and won the Aug. 18, 2026 Republican primary with roughly 69-70% over Plant City welder and social-media personality Matt 'The Welder' Taylor. His campaign and affiliated committees raised more than $4.8 million in 2026, much of it from farmers and ranchers.",
      "primary_result": "Won Aug. 18, 2026 Republican primary with about 69% (reports range 68.9%-70.3%) over Matt The Welder (Matthew Taylor), about 31% (Florida Politics; WUWF; ECIKS).",
      "positions": {
       "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "His campaign says he has 'fought to ensure Floridians and businesses keep more of their hard-earned money,' citing gas-tax and sales-tax holidays and cutting the business rent tax by more than half; the Tallahassee Democrat guide lists keeping Florida 'free and affordable' by limiting taxes and regulation among his top issues.",
+       "quote": "For nearly a decade, Wilton has fought to ensure Floridians and businesses keep more of their hard-earned money.",
+       "sources": [
+        {
+         "title": "Wilton Simpson campaign site - Economic Freedom",
+         "url": "https://wiltonsimpson.com/economic-freedom/",
+         "date": "2026"
+        },
+        {
+         "title": "Voter guide to Florida agriculture commissioner candidates, issues - Tallahassee Democrat (via Yahoo News)",
+         "url": "https://www.yahoo.com/news/politics/articles/voter-guide-florida-agriculture-commissioner-090358114.html",
+         "date": "2026-07-30"
+        }
+       ]
       },
       "property_tax": {
        "stance": null,
@@ -9385,11 +10559,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Says he expanded the tax credit for affordable housing and called for dedicating documentary-stamp revenue to affordable housing, wastewater and sea-level-rise mitigation.",
+       "quote": "It is crucial that we modernize our documentary stamp distributions to dedicate a steady stream of funding in three key areas of infrastructure - affordable housing, wastewater, and mitigation of sea-level rise.",
+       "sources": [
+        {
+         "title": "Wilton Simpson campaign site - Economic Freedom",
+         "url": "https://wiltonsimpson.com/economic-freedom/",
+         "date": "2026"
+        },
+        {
+         "title": "Wilton Simpson campaign site - Environment",
+         "url": "https://wiltonsimpson.com/environment/",
+         "date": "2026"
+        }
+       ]
       },
       "immigration": {
        "stance": 2,
@@ -9416,18 +10601,44 @@ window.GUIDE_DATA = {
          "title": "SB 168 (2019) - Florida Senate bill page with vote history",
          "url": "https://www.flsenate.gov/Session/Bill/2019/168",
          "date": "2019-05"
+        },
+        {
+         "title": "CS/CS/CS/SB 168 (2019) Federal Immigration Enforcement (sanctuary-policy ban) - Senate roll call, May 2, 2019 (22-18)",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/168/Vote/SenateVote_s00168e1008.PDF",
+         "date": "2019-05-02"
+        },
+        {
+         "title": "Wilton Simpson campaign site - Public Safety",
+         "url": "https://wiltonsimpson.com/public-safety/",
+         "date": "2026"
         }
        ]
       },
       "abortion": {
        "stance": -2,
        "confidence": "record",
-       "summary": "As Senate President voted for HB 5 (2022), the 15-week abortion ban.",
+       "summary": "As a state senator Simpson voted for HB 5 (2022), the 15-week abortion limit, and for SB 404 (2020), which requires parental consent for a minor's abortion. He left the Legislature before the 2023 six-week law.",
+       "quote": null,
        "sources": [
         {
-         "title": "HB 5 (2022) - Florida Senate bill page with vote history",
+         "title": "CS/HB 5 (2022) 15-week abortion limit - Senate roll call, March 3, 2022 (23-15)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF",
+         "date": "2022-03-03"
+        },
+        {
+         "title": "CS/HB 5 (2022) 'Reducing Fetal and Infant Mortality' bill page",
          "url": "https://www.flsenate.gov/Session/Bill/2022/5",
-         "date": "2022-03"
+         "date": "2022"
+        },
+        {
+         "title": "CS/CS/SB 404 (2020) Abortion (parental consent for minors) - Senate roll call, Feb. 6, 2020 (23-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2020/404/Vote/SenateVote_s00404e1002.PDF",
+         "date": "2020-02-06"
+        },
+        {
+         "title": "CS/CS/SB 404 (2020) bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2020/404",
+         "date": "2020"
         }
        ]
       },
@@ -9456,6 +10667,21 @@ window.GUIDE_DATA = {
          "title": "Florida's Pro-2A Ag Commissioner Says Carry License Backlog Is Cleared (Bearing Arms)",
          "url": "https://bearingarms.com/camedwards/2026/05/23/floridas-pro-2a-ag-commissioner-says-carry-license-backlog-is-cleared-n1232619",
          "date": "2026-05-23"
+        },
+        {
+         "title": "CS/SB 7026 (2018) Marjory Stoneman Douglas High School Public Safety Act - Senate roll call, March 5, 2018 (20-18)",
+         "url": "https://www.flsenate.gov/Session/Bill/2018/7026/Vote/SenateVote_s07026e1018.PDF",
+         "date": "2018-03-05"
+        },
+        {
+         "title": "CS/SB 7026 (2018) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2018/7026",
+         "date": "2018"
+        },
+        {
+         "title": "Wilton Simpson campaign site - Free Florida",
+         "url": "https://wiltonsimpson.com/free-florida/",
+         "date": "2026"
         }
        ]
       },
@@ -9476,29 +10702,41 @@ window.GUIDE_DATA = {
       "education_choice": {
        "stance": 2,
        "confidence": "record",
-       "summary": "Voted for HB 7045 (2021), which expanded voucher eligibility.",
+       "summary": "As Senate President oversaw passage of HB 7045 (2021), which expanded state scholarship (voucher) eligibility, and his campaign says 'parents sometimes need alternatives to their assigned school.'",
+       "quote": "The pandemic has shown that parents sometimes need alternatives to their assigned school.",
        "sources": [
         {
-         "title": "HB 7045 (2021) - Florida Senate bill page with vote history",
-         "url": "https://www.flsenate.gov/Session/Bill/2021/7045",
-         "date": "2021-04"
+         "title": "Wilton Simpson campaign site - Families",
+         "url": "https://wiltonsimpson.com/families/",
+         "date": "2026"
+        },
+        {
+         "title": "Wilton Simpson - Wikipedia (career and positions, with citations)",
+         "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
+         "date": null
         }
        ]
       },
       "environment": {
-       "stance": 0,
-       "confidence": "record",
-       "summary": "Mixed record: as Senate President he championed the Florida Wildlife Corridor Act (2021) and expanded the Rural and Family Lands Protection Program, but also passed SB 2508 (2022), a water-policy bill criticized by environmental groups and partly vetoed by the governor.",
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Emphasizes conservation of farmland and the Florida Wildlife Corridor (he cites $300 million-plus for corridor easements and a 243% increase in farmland preserved) and opposes development on agricultural land, while framing farmers as 'Florida's first environmentalists.' Wikipedia notes he supported a 2022 measure allowing utilities to charge rooftop-solar customers new fees.",
+       "quote": "Farmers are Florida's first environmentalists.",
        "sources": [
         {
-         "title": "SB 976 (2021) Florida Wildlife Corridor",
-         "url": "https://www.flsenate.gov/Session/Bill/2021/976",
-         "date": "2021-06"
+         "title": "Wilton Simpson campaign site - Environment",
+         "url": "https://wiltonsimpson.com/environment/",
+         "date": "2026"
         },
         {
-         "title": "SB 2508 (2022)",
-         "url": "https://www.flsenate.gov/Session/Bill/2022/2508",
-         "date": "2022-03"
+         "title": "Wilton Simpson campaign site - Agriculture",
+         "url": "https://wiltonsimpson.com/agriculture/",
+         "date": "2026"
+        },
+        {
+         "title": "Wilton Simpson - Wikipedia (career and positions, with citations)",
+         "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
+         "date": null
         }
        ]
       },
@@ -9530,40 +10768,84 @@ window.GUIDE_DATA = {
       "elections": {
        "stance": -2,
        "confidence": "record",
-       "summary": "Voted for SB 90 (2021), which restricted drop boxes and vote-by-mail request periods.",
+       "summary": "As Senate President he voted for SB 90 (2021), which added ID requirements for mail-ballot requests and limited drop boxes, and in 2019 for SB 7066, which requires payment of fines and fees before voting rights are restored under Amendment 4; his campaign site says he 'championed laws to strengthen existing voter ID laws, ban ballot harvesting, prohibit unsolicited mass mailing of ballots.'",
+       "quote": "Wilton championed laws to strengthen existing voter ID laws, ban ballot harvesting, prohibit unsolicited mass mailing of ballots.",
        "sources": [
         {
-         "title": "SB 90 (2021) - Florida Senate bill page with vote history",
+         "title": "CS/CS/CS/SB 90 (2021) Elections - Senate roll call, April 29, 2021 (23-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF",
+         "date": "2021-04-29"
+        },
+        {
+         "title": "CS/CS/CS/SB 90 (2021) Elections bill page (vote-by-mail requests, drop-box rules, ID for mail-ballot requests)",
          "url": "https://www.flsenate.gov/Session/Bill/2021/90",
-         "date": "2021-04"
+         "date": "2021"
+        },
+        {
+         "title": "CS/SB 7066 (2019) Election Administration (Amendment 4 implementation; fines/fees before voting-rights restoration) - Senate roll call, May 2, 2019 (22-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/7066/Vote/SenateVote_s07066e1031.PDF",
+         "date": "2019-05-02"
+        },
+        {
+         "title": "CS/SB 7066 (2019) bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/7066",
+         "date": "2019"
+        },
+        {
+         "title": "Wilton Simpson campaign site - Free Florida",
+         "url": "https://wiltonsimpson.com/free-florida/",
+         "date": "2026"
         }
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Campaign says he strengthened penalties for protests that turn into riots and supports funding for law enforcement: 'safe communities have thriving economies, schools and businesses.'",
+       "quote": "You can't assault a police officer. You can't destroy property.",
+       "sources": [
+        {
+         "title": "Wilton Simpson campaign site - Public Safety",
+         "url": "https://wiltonsimpson.com/public-safety/",
+         "date": "2026"
+        }
+       ]
       },
       "lgbtq": {
        "stance": 2,
        "confidence": "record",
-       "summary": "Voted for HB 1557 (2022), the Parental Rights in Education law, while Senate President.",
+       "summary": "Voted for HB 1557 (2022), the Parental Rights in Education law, as Senate President; his campaign says 'only a parent can make religious upbringing or health decisions for a child.'",
+       "quote": "Only a parent can make religious upbringing or health decisions for a child.",
        "sources": [
         {
-         "title": "HB 1557 (2022) - Florida Senate bill page with vote history",
+         "title": "CS/CS/HB 1557 (2022) Parental Rights in Education - Senate roll call, March 8, 2022 (22-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF",
+         "date": "2022-03-08"
+        },
+        {
+         "title": "CS/CS/HB 1557 (2022) bill page",
          "url": "https://www.flsenate.gov/Session/Bill/2022/1557",
-         "date": "2022-03"
+         "date": "2022"
+        },
+        {
+         "title": "Wilton Simpson campaign site - Free Florida",
+         "url": "https://wiltonsimpson.com/free-florida/",
+         "date": "2026"
         }
        ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Wikipedia (citing 2022 coverage) reports he supported the 2022 bill allowing regulators to impose fees on rooftop-solar customers, which Gov. DeSantis vetoed; no statement found on utility-rate oversight.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Wilton Simpson - Wikipedia (career and positions, with citations)",
+         "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
+         "date": null
+        }
+       ]
       },
       "tariffs": {
        "stance": null,
@@ -9712,6 +10994,33 @@ window.GUIDE_DATA = {
          "date": "2026"
         }
        ]
+      },
+      {
+       "title": "Fluoride, cultivated meat and ESG banking",
+       "summary": "Supports outlawing synthetic 'cultivated meat,' banning local water fluoridation and barring banks from denying service to farmers over ESG policies.",
+       "sources": [
+        {
+         "title": "Get to know the 2026 Florida candidates for Agriculture Commissioner and Chief Financial Officer - WMNF",
+         "url": "https://www.wmnf.org/2026-florida-candidates-agriculture-commissioner-chief-financial-officer/",
+         "date": "2026-08-04"
+        },
+        {
+         "title": "Wilton Simpson - Wikipedia (career and positions, with citations)",
+         "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Citrus greening research and agritourism",
+       "summary": "Cites securing citrus-greening research funding in 2020 and adding agritourism to the legal definition of a farm operation in 2021.",
+       "sources": [
+        {
+         "title": "Wilton Simpson campaign site - Agriculture",
+         "url": "https://wiltonsimpson.com/agriculture/",
+         "date": "2026"
+        }
+       ]
       }
      ],
      "record": [
@@ -9772,6 +11081,71 @@ window.GUIDE_DATA = {
          "title": "Wilton Simpson drops lawsuit against FDLE over concealed carry license background checks (Florida Politics)",
          "url": "https://floridapolitics.com/archives/581096-wilton-simpson-drops-lawsuit-against-fdle-over-concealed-carry-license-background-checks/",
          "date": "2023"
+        }
+       ]
+      },
+      {
+       "item": "Senate votes: for HB 5 15-week abortion limit (2022), HB 1557 Parental Rights in Education (2022), SB 90 elections (2021), SB 404 parental consent (2020), SB 168 sanctuary-policy ban (2019), SB 7066 Amendment 4 implementation (2019) and SB 7026, the 2018 Parkland gun and school-safety law (red-flag process, 21-and-over purchase rule).",
+       "sources": [
+        {
+         "title": "CS/HB 5 (2022) 15-week abortion limit - Senate roll call, March 3, 2022 (23-15)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF",
+         "date": "2022-03-03"
+        },
+        {
+         "title": "CS/CS/HB 1557 (2022) Parental Rights in Education - Senate roll call, March 8, 2022 (22-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF",
+         "date": "2022-03-08"
+        },
+        {
+         "title": "CS/CS/CS/SB 90 (2021) Elections - Senate roll call, April 29, 2021 (23-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF",
+         "date": "2021-04-29"
+        },
+        {
+         "title": "CS/CS/SB 404 (2020) Abortion (parental consent for minors) - Senate roll call, Feb. 6, 2020 (23-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2020/404/Vote/SenateVote_s00404e1002.PDF",
+         "date": "2020-02-06"
+        },
+        {
+         "title": "CS/CS/CS/SB 168 (2019) Federal Immigration Enforcement (sanctuary-policy ban) - Senate roll call, May 2, 2019 (22-18)",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/168/Vote/SenateVote_s00168e1008.PDF",
+         "date": "2019-05-02"
+        },
+        {
+         "title": "CS/SB 7066 (2019) Election Administration (Amendment 4 implementation; fines/fees before voting-rights restoration) - Senate roll call, May 2, 2019 (22-17)",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/7066/Vote/SenateVote_s07066e1031.PDF",
+         "date": "2019-05-02"
+        },
+        {
+         "title": "CS/SB 7026 (2018) Marjory Stoneman Douglas High School Public Safety Act - Senate roll call, March 5, 2018 (20-18)",
+         "url": "https://www.flsenate.gov/Session/Bill/2018/7026/Vote/SenateVote_s07026e1018.PDF",
+         "date": "2018-03-05"
+        }
+       ]
+      },
+      {
+       "item": "Born June 28, 1966, in Lakeland; 40-plus years in the family businesses Simpson Environmental Services and Simpson Farms (egg production); Florida Senate 2012-2022, Senate President 2020-2022; elected Commissioner of Agriculture in 2022 with 59.3%.",
+       "sources": [
+        {
+         "title": "Florida Commissioner of Agriculture Candidates 2026 - Sparker's Soapbox",
+         "url": "https://www.sparkers-soapbox.com/florida-commissioner-of-agriculture-candidates-2026/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "item": "In February 2025 backed a bill to bar local governments from adding fluoride to drinking water; in 2025 publicly disputed Gov. DeSantis over a proposal to give the agriculture commissioner immigration-enforcement powers.",
+       "sources": [
+        {
+         "title": "Wilton Simpson - Wikipedia (career and positions, with citations)",
+         "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
+         "date": null
+        },
+        {
+         "title": "Get to know the 2026 Florida candidates for Agriculture Commissioner and Chief Financial Officer - WMNF",
+         "url": "https://www.wmnf.org/2026-florida-candidates-agriculture-commissioner-chief-financial-officer/",
+         "date": "2026-08-04"
         }
        ]
       }
@@ -9844,7 +11218,7 @@ window.GUIDE_DATA = {
      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
      "website": "https://www.joeyforflorida.com/",
      "occupation": "Attorney and sports agent",
-     "residence": "Miami, Miami-Dade County",
+     "residence": "South Florida / Tampa Bay (reported as Miami by Florida Politics and as Tampa by WMNF)",
      "background": "Atkins is a Miami trial attorney and former sports agent. He earned a bachelor's degree in political science from Florida Atlantic University, a J.D. from the University of Toledo College of Law (2013) and a master's degree in environmental management, and has done policy work with the UN Global Compact. He worked at a legal-aid foundation representing migrant farmworkers and DACA recipients. He won the Aug. 18, 2026 Democratic primary with about 60% over Donald 'Don' Prichard; his campaign reported raising $1,685 and loaning itself $8,480 as of early August 2026.",
      "primary_result": "Won Aug. 18, 2026 Democratic primary with 60.3% over Donald A. 'Don' Prichard, 39.7% (Florida Politics; WUWF).",
      "positions": {
@@ -9922,7 +11296,7 @@ window.GUIDE_DATA = {
        "stance": 2,
        "confidence": "stated",
        "summary": "Atkins says he is running to 'protect and preserve Florida's natural resources' and that government needs systems that look at long-term issues such as water-table and aquifer preservation. He calls for a moratorium on data centers and a rollback of legislation that shields sugar growers from air-pollution lawsuits.",
-       "quote": null,
+       "quote": "I'm running for Florida Commissioner of Agriculture and Consumer Services to fight for Florida families.",
        "sources": [
         {
          "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
@@ -9938,6 +11312,11 @@ window.GUIDE_DATA = {
          "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner (campaign site)",
          "url": "https://www.joeyforflorida.com/",
          "date": null
+        },
+        {
+         "title": "Voter guide to Florida agriculture commissioner candidates, issues - Tallahassee Democrat (via Yahoo News)",
+         "url": "https://www.yahoo.com/news/politics/articles/voter-guide-florida-agriculture-commissioner-090358114.html",
+         "date": "2026-07-30"
         }
        ]
       },
@@ -9956,6 +11335,16 @@ window.GUIDE_DATA = {
          "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
          "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
          "date": "2026-08-10"
+        },
+        {
+         "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner - campaign website",
+         "url": "https://www.joeyforflorida.com/",
+         "date": "2026"
+        },
+        {
+         "title": "Get to know the 2026 Florida candidates for Agriculture Commissioner and Chief Financial Officer - WMNF",
+         "url": "https://www.wmnf.org/2026-florida-candidates-agriculture-commissioner-chief-financial-officer/",
+         "date": "2026-08-04"
         }
        ]
       },
@@ -10077,10 +11466,81 @@ window.GUIDE_DATA = {
          "date": "2026-08"
         }
        ]
+      },
+      {
+       "title": "Suspend the state gas tax and fight price gouging",
+       "summary": "Consumer-protection plank: 'Suspend the state gas tax,' 'Fight price gouging,' 'Increase transparency' and 'Hold bad actors accountable.'",
+       "sources": [
+        {
+         "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner - campaign website",
+         "url": "https://www.joeyforflorida.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Expand 'Fresh From Florida' and protect the food supply",
+       "summary": "Says he would 'Expand and Strengthen' the Fresh From Florida marketing program and 'Protect our food supply.'",
+       "sources": [
+        {
+         "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner - campaign website",
+         "url": "https://www.joeyforflorida.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Polluters pay and the Blue-Green Algae Task Force",
+       "summary": "Would 'Hold Polluters Directly Responsible for Cleanup' and implement the recommendations of the state's Blue-Green Algae Task Force.",
+       "sources": [
+        {
+         "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner - campaign website",
+         "url": "https://www.joeyforflorida.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Emergency preparedness and first responders",
+       "summary": "Lists strengthening emergency preparedness and supporting firefighters and first responders (the department runs the Florida Forest Service).",
+       "sources": [
+        {
+         "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner - campaign website",
+         "url": "https://www.joeyforflorida.com/",
+         "date": "2026"
+        }
+       ]
       }
      ],
-     "record": [],
-     "endorsements": [],
+     "record": [
+      {
+       "item": "Age 41; trial attorney; holds a master's degree in environmental management; did legal-aid work representing migrant farmworkers and DACA recipients; raised under $9,000 through late July 2026.",
+       "sources": [
+        {
+         "title": "Get to know the 2026 Florida candidates for Agriculture Commissioner and Chief Financial Officer - WMNF",
+         "url": "https://www.wmnf.org/2026-florida-candidates-agriculture-commissioner-chief-financial-officer/",
+         "date": "2026-08-04"
+        },
+        {
+         "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner - campaign website",
+         "url": "https://www.joeyforflorida.com/",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
+     "endorsements": [
+      {
+       "by": "Florida Democratic Agricultural Caucus",
+       "sources": [
+        {
+         "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner - campaign website",
+         "url": "https://www.joeyforflorida.com/",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
      "photo_local": "assets/photos/joey_atkins.png"
     }
    ]
@@ -10102,15 +11562,15 @@ window.GUIDE_DATA = {
     "Sumter",
     "Hernando"
    ],
-   "verified_ballot_note": "Ballotpedia's District 52 page lists Samantha Scott (R) and Pamala Bivins (D) as the candidates for the Nov. 3, 2026 general election after the Aug. 18, 2026 primaries . Whether any write-in or NPA candidate also qualified could NOT be verified: the Sumter County Supervisor of Elections notice of general election  and Ballotpedia were blocked in this sandbox. Research limitation (two passes, Sept 2026): every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was capped, so positions are coded only from search-result snippets. Second pass found no statements by Scott on property tax/Amendment 3, insurance, immigration, guns, abortion, education or growth, and no individual roll-call votes. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
+   "verified_ballot_note": "Third pass (Sept 17, 2026): verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot, which lists Samantha Scott (REP) and Pamala Kaye Bivins (DEM) for State Representative, District 52, with no write-in line. Position research: Scott was seated March 25, 2026, after the regular session ended, so her only floor record is the June 2026 special session; her campaign site states values rather than issue positions, and no questionnaire responses were found. Bivins' site lists priorities without detailed positions.",
    "verified_ballot_sources": [
     {
-     "title": "ballotpedia.org",
-     "url": "https://ballotpedia.org/Florida_House_of_Representatives_District_52"
+     "title": "elections.sumtercountyfl.gov",
+     "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot"
     },
     {
-     "title": "elections.sumtercountyfl.gov",
-     "url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27"
+     "title": "files.floridados.gov",
+     "url": "https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf"
     }
    ],
    "candidates": [
@@ -10122,10 +11582,10 @@ window.GUIDE_DATA = {
      "photo_url": null,
      "photo_source": "Florida House of Representatives member page (MemberId=5070); portrait image URL on that page not verified because the site was blocked in this sandbox",
      "website": "https://samanthascott.org/",
-     "occupation": "State Representative; businesswoman (co-owner of a Central Florida plumbing company; real estate)",
+     "occupation": "State Representative; director of marketing for Mike Scott Plumbing (family business); real estate professional; former executive director of the Sumter County Chamber of Commerce",
      "residence": "Bushnell, Sumter County",
-     "background": "Scott is a lifelong Sumter County resident from Bushnell who, with her husband Shawn, built a plumbing company that employs more than 200 people across Central Florida; she also worked in real estate and earlier served as the youngest executive director of the Sumter County Chamber of Commerce. She chaired the Republican Party of Sumter County, was appointed by Gov. Ron DeSantis to the Lake-Sumter State College District Board of Trustees, was named Sumter County Chamber Business Woman of the Year, and was a Florida delegate to the 2024 Republican National Convention. She entered the 2025-26 special election to succeed former Rep. John Temple; after Democrat Pamala Bivins withdrew and no one else qualified, the March 24, 2026 special election was cancelled and Scott was elected without opposition, assuming office March 25, 2026 (she was sworn in during a special session and at a local ceremony in the Sumter County Courthouse on April 10). She filed for the Aug. 18, 2026 Republican primary for a full term; Ballotpedia lists her and Bivins as the general-election candidates.",
-     "primary_result": "Filed for the Aug. 18, 2026 Republican primary; no Republican primary opponent found in search results (Ballotpedia lists her as the Republican candidate advancing to the Nov. 3 general). Not independently verified against the county sample ballot.",
+     "background": "Scott is a lifelong Sumter County resident from Bushnell, born June 18, 1981, in Orlando; she and her husband Shawn have five children and two grandchildren. She works as director of marketing for the family plumbing company and in real estate, and earlier served as executive director of the Sumter County Chamber of Commerce. She chaired the Sumter County Republican Executive Committee, chairs the Republican Party of Florida's Moms Coalition, was a 2024 Republican National Convention delegate, and was appointed by Gov. Ron DeSantis to the Lake-Sumter State College board of trustees in June 2025. After Rep. John Temple resigned Sept. 18, 2025, to become president of Lake-Sumter State College, Scott won the March 24, 2026 special election for District 52 without opposition after her only opponent withdrew, and was sworn in March 25, 2026, after the regular session had ended; she voted in the June 2026 special session on property taxes.",
+     "primary_result": "No primary opponent; the Sumter County sample ballot lists her as the Republican nominee for Nov. 3, 2026.",
      "positions": {
       "taxes": {
        "stance": null,
@@ -10135,11 +11595,27 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "On June 2, 2026, Scott voted yes on CS/HJR 1F, which placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; the measure passed the House 75-26. A vote to refer the amendment is treated here as leaning support; she has not published a statement on Amendment 3.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Floor vote for CS/HJR 1F, June 2, 2026, third reading, 75-26 (Florida House)",
+         "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1F (2026F) bill page - Florida House",
+         "url": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452",
+         "date": "2026-06"
+        },
+        {
+         "title": "Property tax overhaul headed to ballot; see how your legislators voted - Jacksonville Today",
+         "url": "https://jaxtoday.org/2026/06/02/property-tax-cut-ballot-florida/",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
        "stance": null,
@@ -10253,11 +11729,17 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Her campaign site describes her as a 'trusted ally' of President Donald J. Trump; she was a 2024 Republican National Convention delegate and chairs the state party's Moms Coalition.",
+       "quote": "trusted ally",
+       "sources": [
+        {
+         "title": "Samantha Scott for State House - campaign website",
+         "url": "https://samanthascott.org/",
+         "date": "2026"
+        }
+       ]
       },
       "veterans": {
        "stance": null,
@@ -10333,6 +11815,17 @@ window.GUIDE_DATA = {
          "title": "Scott sworn in for District 52 - Sumter Sun Times",
          "url": "https://www.midfloridanewspapers.com/sumter_sun_times/scott-sworn-in-for-district-52/article_66a55275-0036-4f45-97e6-af1d53985823.html",
          "date": "2026-04"
+        }
+       ]
+      },
+      {
+       "title": "'Faith, Family, and Freedom'",
+       "summary": "Campaign site frames her platform as 'Rooted in Faith, Family, and Freedom' and 'Conservative Leadership,' pledging to defend constitutional freedoms and 'fight for local families'; it does not list positions on specific bills.",
+       "sources": [
+        {
+         "title": "Samantha Scott for State House - campaign website",
+         "url": "https://samanthascott.org/",
+         "date": "2026"
         }
        ]
       }
@@ -10422,6 +11915,51 @@ window.GUIDE_DATA = {
          "date": null
         }
        ]
+      },
+      {
+       "item": "Voted yes on CS/HJR 1F (June 2, 2026), the joint resolution that put Amendment 3 (increased homestead exemption) on the November ballot.",
+       "sources": [
+        {
+         "title": "Floor vote for CS/HJR 1F, June 2, 2026, third reading, 75-26 (Florida House)",
+         "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1F (2026F) bill page - Florida House",
+         "url": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452",
+         "date": "2026-06"
+        }
+       ]
+      },
+      {
+       "item": "Sworn in March 25, 2026, after winning the March 24 special election unopposed; because the 2026 regular session ended March 13, District 52 had no representative during that session and she has no regular-session voting record.",
+       "sources": [
+        {
+         "title": "Samantha Scott (politician) - Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Samantha_Scott_(politician)",
+         "date": null
+        },
+        {
+         "title": "Representative Samantha Scott - Florida House of Representatives member page",
+         "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=5070&LegislativeTermId=91",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Chair of the Republican Party of Florida's Moms Coalition; former chair of the Sumter County Republican Executive Committee; 2024 RNC delegate; Lake-Sumter State College trustee (appointed June 2025).",
+       "sources": [
+        {
+         "title": "Samantha Scott for State House - campaign website",
+         "url": "https://samanthascott.org/",
+         "date": "2026"
+        },
+        {
+         "title": "Samantha Scott (politician) - Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Samantha_Scott_(politician)",
+         "date": null
+        }
+       ]
       }
      ],
      "endorsements": [
@@ -10494,7 +12032,7 @@ window.GUIDE_DATA = {
      "occupation": "Former Wildwood city commissioner and mayor pro tem",
      "residence": "Wildwood, Sumter County",
      "background": "Bivins (also known as Pamala Harrison-Bivins) was born and raised in Wildwood and is a lifetime resident. She served more than 25 years on the Wildwood City Commission, including as mayor pro tem, and resigned in November 2025 to run for the Florida House. She opened a campaign account for the HD 52 special election but withdrew before the qualifying deadline, leaving Samantha Scott unopposed; she then filed for the regular 2026 cycle as the Democratic candidate. Ballotpedia lists her as the Democratic candidate in the Aug. 18, 2026 primary advancing to the Nov. 3, 2026 general election.",
-     "primary_result": "Filed for the Aug. 18, 2026 Democratic primary; no Democratic primary opponent found in search results (Ballotpedia lists her as advancing to the Nov. 3 general). Not independently verified against the county sample ballot.",
+     "primary_result": "No primary opponent; the Sumter County sample ballot lists her as the Democratic nominee for Nov. 3, 2026.",
      "positions": {
       "taxes": {
        "stance": null,
@@ -10576,6 +12114,11 @@ window.GUIDE_DATA = {
          "title": "Villagers stand up for voting rights and warn of Trump's threats to midterm elections - Villages-News.com",
          "url": "https://www.villages-news.com/2026/07/19/villagers-stand-up-for-voting-rights-and-warn-of-trumps-threats-to-midterm-elections/",
          "date": "2026-07-19"
+        },
+        {
+         "title": "Leading Democratic candidate for governor rallies voters in The Villages - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/08/08/leading-democratic-candidate-for-governor-rallies-voters-in-the-villages/",
+         "date": "2026-08-08"
         }
        ]
       },
@@ -10737,6 +12280,17 @@ window.GUIDE_DATA = {
          "date": "2026-06-19"
         }
        ]
+      },
+      {
+       "title": "Serve the people, not a party",
+       "summary": "At a June 2026 Democratic club forum she listed health care, Social Security, Medicare, Medicaid, affordable housing and public education as priorities and said, 'You're elected to serve the people, and that's what we intend to do.'",
+       "sources": [
+        {
+         "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
+         "date": "2026-06-19"
+        }
+       ]
       }
      ],
      "record": [
@@ -10779,6 +12333,16 @@ window.GUIDE_DATA = {
          "date": null
         }
        ]
+      },
+      {
+       "item": "Spoke with voters about local infrastructure, health-care access and regional representation at an Aug. 8, 2026 rally in The Villages.",
+       "sources": [
+        {
+         "title": "Leading Democratic candidate for governor rallies voters in The Villages - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/08/08/leading-democratic-candidate-for-governor-rallies-voters-in-the-villages/",
+         "date": "2026-08-08"
+        }
+       ]
       }
      ],
      "endorsements": [],
@@ -10804,19 +12368,21 @@ window.GUIDE_DATA = {
     "id": "Sumter"
    },
    "coverage": "full",
-   "verified_ballot_note": "ClickOrlando's 2026 Voter's Guide states the winner of the District 4 Republican primary faces write-in candidate Ethan Parks in November ; Lake & Sumter Style reports Bogue won that primary with 73.04% ; Florida Money Watch lists Parks as an active write-in . Not verified against the county's official Notice of General Election (blocked). Research limitation (two passes, Sept 2026): every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was capped, so positions are coded only from search-result snippets. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
+   "on_november_ballot": false,
+   "decided_note": "The official Sumter County sample ballot has no County Commission contest: write-in candidate Ethan Parks withdrew and incumbent Jeffrey A. Bogue was elected without opposition after winning the Aug. 18 Republican primary (73.04%). Verified Sept. 17, 2026 against the sample ballot and the county candidate roster.",
+   "verified_ballot_note": "NOT ON THE NOV. 3 BALLOT. Third pass (Sept 17, 2026): the Supervisor of Elections' official 2026 General Election sample ballot contains no County Commission contest, and the county's VoterFocus candidate roster lists write-in candidate Ethan Parks as 'Active-Withdrawn' and Jeffrey Bogue as 'Active-Unopposed.' Bogue therefore won the seat with the Aug. 18 Republican primary (73.04% over Michael Squier) and no general-election vote is held. Earlier passes, relying on July 2026 reporting, listed a Bogue-vs-write-in contest.",
    "verified_ballot_sources": [
     {
-     "title": "clickorlando.com",
-     "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/"
+     "title": "elections.sumtercountyfl.gov",
+     "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot"
+    },
+    {
+     "title": "voterfocus.com",
+     "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sumter"
     },
     {
      "title": "lakeandsumterstyle.com",
      "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/"
-    },
-    {
-     "title": "floridamoneywatch.com",
-     "url": "https://www.floridamoneywatch.com/county.php?code=SUM"
     }
    ],
    "candidates": [
@@ -10826,7 +12392,7 @@ window.GUIDE_DATA = {
      "party": "Republican",
      "incumbent": true,
      "photo_url": null,
-     "photo_source": "Sumter County official website, District 4 commissioner page (image URL not verified; site blocked in this sandbox)",
+     "photo_source": "Sumter County official website, District 4 commissioner portrait (ImageRepository documentId 43071)",
      "website": "https://www.votejeffbogue.com/",
      "occupation": "Sumter County Commissioner, District 4 (2nd Vice Chairman); director of emergency medical services, AdventHealth",
      "residence": "Bushnell, Sumter County",
@@ -11281,13 +12847,53 @@ window.GUIDE_DATA = {
          "date": "2026-08-18"
         }
        ]
+      },
+      {
+       "item": "Elected without opposition to a second term after write-in candidate Ethan Parks withdrew; VoterFocus lists his 2025-26 campaign as raising $57,660 and spending $56,822.",
+       "sources": [
+        {
+         "title": "Sumter County candidate reports (VoterFocus campaign-finance system used by the Supervisor of Elections; shows candidate status)",
+         "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sumter",
+         "date": "2026-09"
+        },
+        {
+         "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+         "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+         "date": "2026-09"
+        }
+       ]
+      },
+      {
+       "item": "On Sept. 30, 2025, moved to adopt the FY 2025-26 final aggregate millage rate of 5.0821 mills (general fund held at 4.8900 mills) and the Villages Public Safety Department MSTU rate of 0.0464 mills; both passed 5-0.",
+       "sources": [
+        {
+         "title": "Final budget hearing minutes, Sumter County Board of County Commissioners, Sept. 30, 2025",
+         "url": "https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/27572?fileID=68161",
+         "date": "2025-09-30"
+        },
+        {
+         "title": "Sumter County adopts the budget for next fiscal year (Oct. 1, 2025 - Sept. 30, 2026)",
+         "url": "https://www.sumtercountyfl.gov/m/newsflash/home/detail/1552",
+         "date": "2025-09-30"
+        }
+       ]
+      },
+      {
+       "item": "County biography: son of a U.S. Army colonel; firefighter/EMT, paramedic and trauma flight paramedic; director of EMS for AdventHealth; B.S. in health-care administration; moved to Sumter County in 2015; homes in Bushnell and farmland in Center Hill; first elected August 2022.",
+       "sources": [
+        {
+         "title": "District 4 - Sumter County official website",
+         "url": "https://www.sumtercountyfl.gov/161/District-4",
+         "date": null
+        }
+       ]
       }
      ],
      "endorsements": [],
      "links": [
       {
        "title": "Official page / photo source",
-       "url": "https://www.sumtercountyfl.gov/161/District-4"
+       "url": "https://www.sumtercountyfl.gov/ImageRepository/Document?documentId=43071"
       }
      ]
     },
@@ -11470,7 +13076,8 @@ window.GUIDE_DATA = {
        ]
       }
      ],
-     "endorsements": []
+     "endorsements": [],
+     "withdrawn": "before the general election (VoterFocus status: Active-Withdrawn)"
     }
    ]
   },
@@ -19357,6 +20964,92 @@ window.GUIDE_DATA = {
     {
      "title": "go.boarddocs.com",
      "url": "https://go.boarddocs.com/fl/polk/Board.nsf/files/DERM2B5919B3/$file/Memorandum%20-%20Additional%20Millage.pdf"
+    }
+   ],
+   "candidates": []
+  },
+  {
+   "id": "county_sumter_fuel_tax_referendum",
+   "order": 60000,
+   "title": "Sumter County Referendum No. 1: Renewal of the 5th and 6th Cent Local Option Fuel Tax",
+   "level": "county",
+   "office_group": "County",
+   "term": "",
+   "what_it_does": "County ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+   "jurisdiction": {
+    "type": "county",
+    "id": "Sumter"
+   },
+   "counties": [
+    "Sumter"
+   ],
+   "coverage": "full",
+   "on_november_ballot": true,
+   "decided_note": null,
+   "kind": "measure",
+   "ballot_summary": "Sumter County currently levies a 5th and 6th cent local option fuel tax generating an estimated $2,648,888 in annual revenue to fund road maintenance, road construction, and other transportation infrastructure. Fuel taxes are proportionately shared, based on population, with cities within the county. Shall Sumter County continue to levy a 5th and 6th cent tax per gallon on motor fuel sold within the county, for a period up to 30 years beginning January 1, 2028?",
+   "what_yes_means": "A YES vote continues the existing two cents per gallon (the '5th and 6th cent') of local option fuel tax on gasoline and diesel sold in Sumter County for up to 30 more years, through 2057, after the current levy expires Dec. 31, 2027. The county says the tax raised slightly over $2 million in 2024 and is dedicated to road resurfacing, construction, bridge work and pavement markings, with about 89% retained by the county and the rest shared with cities by population.",
+   "what_no_means": "A NO vote lets the two-cent levy expire on Dec. 31, 2027, reducing the local fuel tax from eight cents to six cents per gallon and removing roughly $2-2.6 million a year that the county now spends on roads; the county would have to fund those projects from other sources or reduce them.",
+   "verified_ballot_note": "Official wording copied from the Sumter County Supervisor of Elections' 2026 General Election sample ballot (fetched Sept. 17, 2026). Background: Sumter County adopted the levy by ordinance in March 2008 and extended it in 2020 through 2027. Florida law requires voter approval to continue the 5th and 6th cent tax beyond its expiration, and the County Commission voted to place the renewal on the Nov. 3, 2026 ballot. The county launched a 'Your Fuel Taxes At Work' information campaign; County Administrator Bradley Arnold said 'a dependable transportation network is essential to emergency response, commerce, and daily life.' No organized opposition was found in the sources reviewed.",
+   "verified_ballot_sources": [
+    {
+     "title": "elections.sumtercountyfl.gov",
+     "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot"
+    },
+    {
+     "title": "sumtercountyfl.gov",
+     "url": "https://www.sumtercountyfl.gov/1476/Local-Fuel-Taxes"
+    },
+    {
+     "title": "sumtercountyfl.gov",
+     "url": "https://sumtercountyfl.gov/m/faq?cat=66"
+    },
+    {
+     "title": "villages-news.com",
+     "url": "https://www.villages-news.com/2026/01/27/sumter-county-voters-to-decide-future-of-fuel-tax-this-year/"
+    },
+    {
+     "title": "mynews13.com",
+     "url": "https://mynews13.com/fl/orlando/news/2026/02/09/sumter-county-fuel-tax-initiative-"
+    }
+   ],
+   "candidates": []
+  },
+  {
+   "id": "county_sumter_tourist_tax_referendum",
+   "order": 60000,
+   "title": "Sumter County Referendum No. 2: Tourist Development Tax Ordinance",
+   "level": "county",
+   "office_group": "County",
+   "term": "",
+   "what_it_does": "County ballot question (FOR the Tourist Development Tax / AGAINST the Tourist Development Tax). Passes with a simple majority of votes cast on the question.",
+   "jurisdiction": {
+    "type": "county",
+    "id": "Sumter"
+   },
+   "counties": [
+    "Sumter"
+   ],
+   "coverage": "full",
+   "on_november_ballot": true,
+   "decided_note": null,
+   "kind": "measure",
+   "ballot_summary": "The levy and imposition of a 2% tourist development tax as set forth in Sumter County Ordinance 26-08 is subject to approval by the electors of Sumter County in a referendum election which is hereby scheduled for the General Election of 2026 which is to be held on November 3, 2026.",
+   "what_yes_means": "A vote FOR approves a 2% tax on short-term lodging (hotels, motels, campgrounds, vacation rentals and similar stays of six months or less) in Sumter County under Ordinance 26-08. Villages-News reported the tax is expected to raise about $1 million a year, to be spent on tourism-related purposes allowed by state law such as fairgrounds improvements and entertainment at The Villages town squares, with a Tourist Development Council advising the county.",
+   "what_no_means": "A vote AGAINST means no tourist development tax is levied; Sumter County would remain without a 'bed tax' (the commission suspended its earlier levy in October 2020).",
+   "verified_ballot_note": "Official wording copied from the Sumter County Supervisor of Elections' 2026 General Election sample ballot (fetched Sept. 17, 2026). Background: In May 2026 the County Commission approved an ordinance creating a Tourist Development Council as the first step toward reviving the tax and set the referendum for Nov. 3. Commissioner Deb Butterfield supported it, saying tourists rather than residents pay it and 'we're leaving precious money on the table'; Chairman Don Wiley voted for the ordinance but said it 'puts an additional tax burden on our businesses' and questioned whether short-term rentals in The Villages would comply. Renters of homes for six months or less would also pay the tax.",
+   "verified_ballot_sources": [
+    {
+     "title": "elections.sumtercountyfl.gov",
+     "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot"
+    },
+    {
+     "title": "villages-news.com",
+     "url": "https://www.villages-news.com/2026/05/13/sumter-county-takes-step-toward-reviving-tourism-tax/"
+    },
+    {
+     "title": "sumtercountyfl.gov",
+     "url": "https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/28650?fileID=71398"
     }
    ],
    "candidates": []
@@ -60348,40 +62041,41 @@ window.GUIDE_DATA = {
   {
    "number": 1,
    "title": "Budget Stabilization Fund",
-   "title_note": "Ballot title as listed on the Florida Division of Elections constitutional-amendment index (constitutionalinitiatives.dos.fl.gov, seqnum 108) and by Ballotpedia; the booklet prints it in capitals.",
-   "ballot_summary": "Proposing an amendment to the State Constitution to increase the amount of funds that may be retained in the budget stabilization fund from 10 percent to 25 percent of general revenue collections, require the Legislature to transfer the lesser of $750 million or the amount required to reach 25 percent of general revenue collections each year unless certain conditions are met, and allow the Legislature to withdraw funds for critical state needs.",
-   "ballot_summary_note": "VERBATIM as quoted by Sparker's Soapbox and Ballotpedia (search snippets agree); not checked against the official booklet PDF.",
-   "sponsor": "HJR 5019 (2025 Regular Session), Florida House of Representatives. Passed the House 100-1 and the Senate 29-4 (June 2025).",
-   "what_yes_means": "A YES vote raises the constitutional cap on the state's rainy-day reserve (the Budget Stabilization Fund) from 10% to 25% of general revenue collections; requires the Legislature to deposit the lesser of $750 million or the amount needed to reach the cap each year, except in years when the fund is drawn down (for example after a hurricane or other disaster or to cover a projected revenue shortfall) or when the Legislature determines there is a critical state need; and allows the Legislature to withdraw money from the fund for 'critical state needs' in addition to existing withdrawals for emergencies and revenue shortfalls.",
+   "title_note": "VERIFIED against the Division of Elections booklet (Aug. 21, 2026 update), which prints the ballot title as 'BUDGET STABILIZATION FUND.—' (Article III, Section 19). The Sumter County sample ballot prints it as 'Budget Stabilization Fund'.",
+   "ballot_summary": "Proposing an amendment to the State Constitution to increase the amount of funds that may be retained in the budget stabilization fund from 10% to 25% of general revenue collections, require the legislature to transfer the lesser of $750 million or the amount required to reach 25% of the general revenue collections each year unless certain conditions are met, and allow the legislature to withdraw funds for critical state needs.",
+   "ballot_summary_note": "VERIFIED verbatim against the Division of Elections booklet PDF and the Sumter County sample ballot (Sept. 17, 2026). Earlier text in this file spelled out 'percent' and capitalized 'Legislature'; the official text uses '10% to 25%', 'the legislature' and '25% of the general revenue collections'.",
+   "sponsor": "HJR 5019 (2025 Regular Session), sponsored by Rep. McClure. Passed the House 100-1 and the Senate 29-4 on June 16, 2025; signed by officers and filed with the Secretary of State June 17, 2025 (flsenate.gov bill page, fetched Sept. 17, 2026).",
+   "what_yes_means": "A YES vote raises the constitutional cap on the state's rainy-day reserve (the Budget Stabilization Fund) from 10% to 25% of general revenue collections; requires the Legislature to deposit each year the lesser of $750 million or the amount needed to reach the cap, except in a year when the fund is drawn down for an emergency or revenue shortfall, or (no more than once every five years, by a two-thirds vote of each house) when the Legislature finds a critical state need that exceeds the transfer; and allows the Legislature to withdraw money for a nonrecurring 'critical state need' when the fund's principal exceeds 15% of general revenue collections and two-thirds of each house approves, in addition to existing withdrawals for emergencies and revenue shortfalls (LWVFL analysis of the amendment text, July 21, 2026).",
    "what_no_means": "A NO vote keeps the current constitutional structure: the fund is capped at 10% of general revenue collections, and existing rules for deposits and withdrawals (for emergencies and revenue shortfalls) remain unchanged.",
-   "fiscal_impact": "Legislatively referred amendments do not carry a Financial Impact Estimating Conference statement. The measure directs the Legislature to move up to $750 million a year of general revenue into the fund until the 25% cap is reached, which reduces general revenue available for other spending or tax cuts in those years (WUSF/Ballotpedia). Legislative staff-analysis dollar figures were not retrievable in this sandbox (UNVERIFIED).",
+   "fiscal_impact": "Legislatively referred amendments do not carry a Financial Impact Estimating Conference statement. The League of Women Voters of Florida's analysis (July 21, 2026) summarizes the legislative fiscal statement as 'indeterminate, but likely insignificant' for the state. The measure directs up to $750 million a year of general revenue into the fund until the 25% cap is reached, which reduces general revenue available for other spending or tax cuts in those years; the FY 2025-26 state budget already set aside a $750 million deposit contingent on voter approval (Florida TaxWatch budget summary, search snippet). For FY 2024-25 the fund held about 9.3% of general revenue collections (LWVFL analysis).",
    "fiscal_impact_sources": [
-    "https://ballotpedia.org/Florida_Changes_to_Budget_Stabilization_Fund_Amendment_(2026)",
-    "https://www.wusf.org/politics-issues/2026-09-15/desantis-splits-with-gop-amendment-1-reserve-funds",
-    "https://www.flsenate.gov/Committees/billsummaries/2025/html/5019"
+    "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
+    "https://floridataxwatch.org/legislative-policy/budget/",
+    "https://www.flsenate.gov/Session/Bill/2025/5019",
+    "https://www.wusf.org/politics-issues/2026-09-15/desantis-splits-with-gop-amendment-1-reserve-funds"
    ],
    "supporters": [
     {
      "who": "Republican Party of Florida",
-     "argument": "The state party's official account announced in September 2026 that 'the Florida GOP has officially endorsed Amendment 1,' describing a larger reserve as protection for state finances in downturns and emergencies.",
+     "argument": "Endorsed Amendment 1 in September 2026. Party statement (quoted by WUSF, Sept. 15, 2026): 'This amendment will help strengthen Florida's rainy day fund so the state can handle storms, downturns, and other emergencies without raising taxes or raiding the budget.'",
      "sources": [
-      "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/",
-      "https://www.wusf.org/politics-issues/2026-09-15/desantis-splits-with-gop-amendment-1-reserve-funds"
+      "https://www.wusf.org/politics-issues/2026-09-15/desantis-splits-with-gop-amendment-1-reserve-funds",
+      "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/"
      ]
     },
     {
      "who": "Florida Legislature (bipartisan referral vote)",
-     "argument": "HJR 5019 passed the House 100-1 and the Senate 29-4; sponsors described the change as building a stronger cushion for hurricanes, economic downturns and budget shortfalls.",
+     "argument": "HJR 5019 passed the House 100-1 and the Senate 29-4 on June 16, 2025. Former House Speaker Daniel Perez cited the state's lack of reserves during the 2000s recession as the reason to build a larger cushion (WUSF).",
      "sources": [
-      "https://news.ballotpedia.org/2025/06/19/florida-voters-to-decide-on-changes-to-budget-stabilization-fund-in-2026/",
-      "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=82516"
+      "https://www.flsenate.gov/Session/Bill/2025/5019",
+      "https://www.wusf.org/politics-issues/2026-09-15/desantis-splits-with-gop-amendment-1-reserve-funds"
      ]
     }
    ],
    "opponents": [
     {
      "who": "Gov. Ron DeSantis",
-     "argument": "On Sept. 14-15, 2026 the governor called Amendment 1 'a foolish constitutional amendment proposal,' said 'we already have a maxed out rainy day fund and have run the largest surpluses in state history,' argued extra revenue should go to lower taxes (including help for local governments with property-tax exemptions and removing tolls), and recommended a NO vote.",
+     "argument": "On Sept. 14-15, 2026 the governor called Amendment 1 'a foolish constitutional amendment proposal,' said 'we already have a maxed out rainy day fund and have run the largest surpluses in state history,' argued surplus revenue should go to tax cuts and removing tolls, and recommended a NO vote (WUSF, Sept. 15, 2026, fetched).",
      "sources": [
       "https://www.wusf.org/politics-issues/2026-09-15/desantis-splits-with-gop-amendment-1-reserve-funds",
       "https://www.clickorlando.com/news/florida/2026/09/15/foolish-gov-desantis-blasts-florida-republicans-over-new-amendment-proposal/",
@@ -60389,9 +62083,18 @@ window.GUIDE_DATA = {
      ]
     },
     {
-     "who": "No organized opposition group identified",
-     "argument": "As of Sept. 17, 2026, searches found no organization formally campaigning against Amendment 1. Explanatory coverage (Bradenton Times, VOTE411) notes the trade-off that mandatory deposits reduce money available for current-year spending or tax cuts.",
+     "who": "House Democratic Leader Fentrice Driskell (legislative debate)",
+     "argument": "Argued the money would be better spent on immediate needs: 'You don't get to talk about saving money for a rainy day when it's still raining, and it's already raining on the people in Florida' (quoted in WFLA/Hoodline coverage; search snippet, Sept. 2026).",
      "sources": [
+      "https://www.wfla.com/news/politics/desantis-breaks-with-gop-over-budget-stabilization-amendment/",
+      "https://hoodline.com/2026/09/desantis-calls-gop-push-for-bigger-rainy-day-fund-foolish/"
+     ]
+    },
+    {
+     "who": "No organized opposition campaign identified",
+     "argument": "The League of Women Voters of Florida's July 21, 2026 analysis lists 'Opponents - None known at this time' and takes no position on Amendment 1; Florida TaxWatch, Florida Policy Institute, the Florida Chamber and Americans for Prosperity had no published position found as of Sept. 17, 2026. Explanatory coverage (Bradenton Times, VOTE411) notes the trade-off that mandatory deposits reduce money available for current-year spending or tax cuts.",
+     "sources": [
+      "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
       "https://thebradentontimes.com/stories/2026-constitutional-amendment-1-budget-stabilization-fund,212210",
       "https://onyourballot.vote411.org/race-detail.do?id=71659260"
      ]
@@ -60399,43 +62102,60 @@ window.GUIDE_DATA = {
    ],
    "threshold": "60%",
    "sources": [
+    "https://files.floridados.gov/media/711355/eng-2026-booklet-constitutional-amendpub-updated-20260821.pdf",
+    "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+    "https://www.flsenate.gov/Session/Bill/2025/5019",
     "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=108",
     "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=82516",
-    "https://www.flsenate.gov/Session/Bill/2025/5019",
-    "https://ballotpedia.org/Florida_Changes_to_Budget_Stabilization_Fund_Amendment_(2026)",
-    "https://news.ballotpedia.org/2025/06/19/florida-voters-to-decide-on-changes-to-budget-stabilization-fund-in-2026/",
-    "https://www.sparkers-soapbox.com/florida-amendment-1-budget-stabilization-fund-2026/",
+    "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
     "https://www.wusf.org/politics-issues/2026-09-15/desantis-splits-with-gop-amendment-1-reserve-funds",
     "https://www.clickorlando.com/news/florida/2026/09/15/foolish-gov-desantis-blasts-florida-republicans-over-new-amendment-proposal/",
     "https://onyourballot.vote411.org/race-detail.do?id=71659260",
     "https://thebradentontimes.com/stories/2026-constitutional-amendment-1-budget-stabilization-fund,212210",
-    "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/"
+    "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/",
+    "https://ballotpedia.org/Florida_Changes_to_Budget_Stabilization_Fund_Amendment_(2026)"
    ],
    "sponsor_sources": [
-    "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=82516",
     "https://www.flsenate.gov/Session/Bill/2025/5019",
-    "https://news.ballotpedia.org/2025/06/19/florida-voters-to-decide-on-changes-to-budget-stabilization-fund-in-2026/"
+    "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=82516",
+    "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf"
+   ],
+   "constitution_sections": "Article III, Section 19",
+   "neutral_analyses": [
+    {
+     "who": "League of Women Voters of Florida analysis (no position on Amendment 1)",
+     "url": "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf"
+    },
+    {
+     "who": "VOTE411 (League of Women Voters)",
+     "url": "https://onyourballot.vote411.org/race-detail.do?id=71659260"
+    },
+    {
+     "who": "Bradenton Times explainer",
+     "url": "https://thebradentontimes.com/stories/2026-constitutional-amendment-1-budget-stabilization-fund,212210"
+    }
    ]
   },
   {
    "number": 2,
    "title": "Exemption of Tangible Personal Property on Agricultural Land from Taxation",
-   "title_note": "VERBATIM ballot title (printed in capitals on the ballot) per Ballotpedia and the Division of Elections index (seqnum 109).",
-   "ballot_summary": "Proposing an amendment to the State Constitution to exempt tangible personal property habitually located or typically present on land classified as agricultural, used in the production of agricultural products or for agritourism activities, and owned by the landowner or leaseholder of the agricultural land from ad valorem taxation.",
-   "ballot_summary_note": "First sentence VERBATIM per Ballotpedia snippet. The summary may continue with language authorizing the Legislature to define terms and limit the exemption by general law and an effective date of Jan. 1, 2027 (Ballotpedia describes both provisions); that remainder is UNVERIFIED against the official booklet.",
-   "sponsor": "CS/HJR 1215 (2025 Regular Session), filed Feb. 26, 2025 by Rep. Danny Alvarez. Passed the House 110-1 (Rep. Anna Eskamani the lone no vote) and the Senate 37-0.",
+   "title_note": "VERIFIED against the Division of Elections booklet, which prints 'EXEMPTION OF TANGIBLE PERSONAL PROPERTY ON AGRICULTURAL LAND FROM TAXATION. —' (Article VII, Section 3; Article XII); the Sumter County sample ballot prints it in title case.",
+   "ballot_summary": "Proposing an amendment to the State Constitution to exempt tangible personal property habitually located or typically present on land classified as agricultural, used in the production of agricultural products or for agritourism activities, and owned by the landowner or leaseholder of the agricultural land from ad valorem taxation. If approved this amendment would first apply for tax years beginning January 1, 2027.",
+   "ballot_summary_note": "VERIFIED verbatim against the Division of Elections booklet PDF and the Sumter County sample ballot (Sept. 17, 2026). The earlier file was missing the second sentence about the Jan. 1, 2027 effective date; the summary does not mention the Legislature's power to define terms (that appears only in the amendment text).",
+   "sponsor": "CS/HJR 1215 (2025 Regular Session), sponsored by the House State Affairs Committee and Reps. Danny Alvarez, Barnaby, Chamberlin, Fabricio, J. López, Maggard, Owen, Salzman and Yarkosky. Passed the House 110-1 on April 25, 2025 and the Senate 37-0 on May 2, 2025; filed with the Secretary of State June 18, 2025 (flsenate.gov bill page, fetched Sept. 17, 2026).",
    "what_yes_means": "A YES vote exempts qualifying tangible personal property (for example tractors, irrigation equipment and other farm machinery) that is normally kept on agricultural land, used to produce agricultural products or for agritourism, and owned by the land's owner or lessee, from county, city, school and special-district property taxes beginning with the 2027 tax year, and lets the Legislature define and limit the exemption by law.",
    "what_no_means": "A NO vote keeps current law, under which tangible personal property used in agriculture remains subject to local ad valorem taxation (subject to the existing $25,000 tangible personal property exemption).",
-   "fiscal_impact": "Legislatively referred amendments do not carry a Financial Impact Estimating Conference statement. State economists at Florida's Revenue Estimating Conference projected no impact on state revenues and at least $28.7 million a year less for local governments statewide (Spectrum News 13, citing the legislative analysis). Rep. Anna Eskamani cited a roughly $30 million local fiscal impact when voting no.",
+   "fiscal_impact": "Legislatively referred amendments do not carry a Financial Impact Estimating Conference statement. The Legislature's bill analysis reports that the Revenue Estimating Conference projected no state impact and a negative recurring impact on local government revenues of about $31 million beginning in FY 2027-28 (LWVFL analysis citing the analysis; a Senate analysis snippet gives $31 million in 2027-28, $32.3 million in 2028-29 and $33.6 million in 2029-30). Rep. Anna Eskamani cited roughly $30 million when casting the lone no vote.",
    "fiscal_impact_sources": [
-    "https://mynews13.com/fl/orlando/news/2026/04/09/floridians-to-vote-on-amendment-on-tangible-property-tax-for-agricultural-businesses",
+    "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
+    "https://www.flsenate.gov/Session/Bill/2025/318/Analyses/2025s00318.ft.PDF",
     "https://www.flsenate.gov/Session/Bill/2025/1215/Analyses/h1215z.WMC.PDF",
-    "https://ballotpedia.org/Florida_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)"
+    "https://mynews13.com/fl/orlando/news/2026/04/09/floridians-to-vote-on-amendment-on-tangible-property-tax-for-agricultural-businesses"
    ],
    "supporters": [
     {
      "who": "Florida Farm Bureau Federation",
-     "argument": "Published 'Vote YES on Amendment 2,' saying farmers and ranchers currently pay annual taxes on equipment already taxed at purchase, and that lowering the cost of doing business protects local food production, preserves family farms and keeps Florida agriculture strong.",
+     "argument": "'Vote YES on Amendment 2' (Sept. 11, 2026): 'Florida farmers and ranchers pay annual taxes on farm equipment that was already taxed when it was purchased.' The Farm Bureau says the exemption covers equipment, not land or buildings, and that 'reducing the cost of doing business for Florida farmers and ranchers would protect local food production, preserve family farms and keep Florida agriculture strong for future generations.' (page fetched Sept. 17, 2026)",
      "sources": [
       "https://floridafarmbureau.org/news/vote-yes-on-amendment-2/"
      ]
@@ -60448,90 +62168,112 @@ window.GUIDE_DATA = {
      ]
     },
     {
-     "who": "Rep. Danny Alvarez (sponsor) and the Florida Legislature",
-     "argument": "The sponsor argued the exemption removes a financial barrier for struggling farmers and lets them reinvest in operations; the joint resolution passed 110-1 and 37-0.",
+     "who": "Florida Legislature (sponsor Rep. Danny Alvarez; near-unanimous referral)",
+     "argument": "The sponsor argued the exemption removes a financial barrier for farmers and lets them reinvest in operations (Ballotpedia snippet); the joint resolution passed 110-1 and 37-0.",
      "sources": [
-      "https://ballotpedia.org/Florida_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)",
-      "https://floridapolitics.com/archives/736070-legislature-votes-to-put-agriculture-tax-cut-on-statewide-ballot-in-2026/"
+      "https://www.flsenate.gov/Session/Bill/2025/1215",
+      "https://ballotpedia.org/Florida_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)"
      ]
     }
    ],
    "opponents": [
     {
      "who": "Rep. Anna Eskamani (D-Orlando)",
-     "argument": "Cast the only vote against HJR 1215, saying it would cost local governments about $30 million with no guardrails to prevent windfalls.",
+     "argument": "Cast the only vote against HJR 1215, saying it would cost local governments about $30 million with no guardrails to prevent windfalls and would mostly benefit large agribusinesses with multiple tangible-property accounts (Ballotpedia snippet).",
      "sources": [
       "https://ballotpedia.org/Florida_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)"
      ]
     },
     {
      "who": "No organized opposition group identified",
-     "argument": "As of Sept. 17, 2026, searches found no organization formally campaigning against Amendment 2. Explanatory coverage notes the exemption shifts a share of local tax burden away from agricultural operations and reduces local revenue.",
+     "argument": "The League of Women Voters of Florida analysis (July 21, 2026) lists 'Opponents: None known at this time' and takes no position; Florida TaxWatch, Florida Policy Institute, Florida Association of Counties, Florida League of Cities, the Florida Chamber and Americans for Prosperity had no published position on Amendment 2 found as of Sept. 17, 2026. Explanatory coverage notes the exemption reduces local revenue and shifts a share of the local tax burden away from agricultural operations.",
      "sources": [
+      "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
       "https://thebradentontimes.com/stories/2026-constitutional-amendment-2-agricultural-tangible-personal-property-tax-exemption,212219"
      ]
     }
    ],
    "threshold": "60%",
    "sources": [
-    "https://ballotpedia.org/Florida_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)",
+    "https://files.floridados.gov/media/711355/eng-2026-booklet-constitutional-amendpub-updated-20260821.pdf",
+    "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+    "https://www.flsenate.gov/Session/Bill/2025/1215",
     "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=109",
-    "https://www.flsenate.gov/Session/Bill/2025/1215/Analyses/h1215z.WMC.PDF",
-    "https://www.flsenate.gov/Committees/billsummaries/2025/html/1215",
-    "https://mynews13.com/fl/orlando/news/2026/04/09/floridians-to-vote-on-amendment-on-tangible-property-tax-for-agricultural-businesses",
-    "https://floridapolitics.com/archives/736070-legislature-votes-to-put-agriculture-tax-cut-on-statewide-ballot-in-2026/",
+    "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
     "https://floridafarmbureau.org/news/vote-yes-on-amendment-2/",
-    "https://www.aginfo.net/report/62493/Southeast-Regional-Ag-News/Florida-Voters-to-Decide-on-Agricultural-Tax-Break-in-2026",
+    "https://www.flsenate.gov/Session/Bill/2025/1215/Analyses/h1215z.WMC.PDF",
+    "https://www.flsenate.gov/Session/Bill/2025/318/Analyses/2025s00318.ft.PDF",
+    "https://mynews13.com/fl/orlando/news/2026/04/09/floridians-to-vote-on-amendment-on-tangible-property-tax-for-agricultural-businesses",
+    "https://ballotpedia.org/Florida_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)",
     "https://thebradentontimes.com/stories/2026-constitutional-amendment-2-agricultural-tangible-personal-property-tax-exemption,212219"
    ],
    "sponsor_sources": [
+    "https://www.flsenate.gov/Session/Bill/2025/1215",
     "https://www.flsenate.gov/Session/Bill/2025/1215/Analyses/h1215z.WMC.PDF",
-    "https://www.flsenate.gov/Committees/billsummaries/2025/html/1215",
-    "https://floridapolitics.com/archives/736070-legislature-votes-to-put-agriculture-tax-cut-on-statewide-ballot-in-2026/"
+    "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf"
+   ],
+   "constitution_sections": "Article VII, Section 3; Article XII",
+   "neutral_analyses": [
+    {
+     "who": "League of Women Voters of Florida analysis (no position on Amendment 2)",
+     "url": "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf"
+    },
+    {
+     "who": "Bradenton Times explainer",
+     "url": "https://thebradentontimes.com/stories/2026-constitutional-amendment-2-agricultural-tangible-personal-property-tax-exemption,212219"
+    }
    ]
   },
   {
    "number": 3,
    "title": "Increased Homestead Exemption; Lower Cap on Increases in Non-Homestead Property Assessments",
-   "title_note": "VERBATIM current ballot title. The Legislature's original title, 'Save Our Homes From Excessive Property Taxes,' was struck by Leon County Circuit Judge David Frank on Aug. 3-4, 2026 as 'more akin to a political slogan'; Attorney General James Uthmeier issued the rewritten title and summary on Aug. 13-14, 2026, and Gov. DeSantis said the state would not appeal. The Division of Elections booklet was updated Aug. 21, 2026.",
-   "ballot_summary": "This amendment increases the homestead exemption, for all non-school taxes, to $150,000 in 2027 and $250,000 in 2028, and adjusts for inflation thereafter. It requires the Legislature to prescribe a uniform procedure for counties and municipalities, for their respective levies, to increase the homestead exemption up to full assessed value, and allows special districts, subject to referendum approval, to do the same. Persons who are not Florida residents on December 31, 2026, will receive the existing homestead exemption upon qualifying for a homestead exemption, with the increased homestead exemption beginning with the fifth year of exemption, to the extent permitted by the U.S. Constitution. This amendment reduces the annual cap on assessment increases for non-homestead properties from 10% to 5%.",
-   "ballot_summary_note": "VERBATIM rewritten summary as quoted by Jones Walker LLP and CBS12 from the Attorney General's Aug. 13, 2026 filing. Confirm against the Aug. 21, 2026 Division of Elections booklet; whether the court formally approved the rewrite before the booklet update was not confirmed in this sandbox.",
-   "sponsor": "CS/HJR 1F (2026 Special Session F), Florida House of Representatives; the special session on property-tax relief was called by Gov. Ron DeSantis. Ballot language rewritten by the Attorney General under court order in August 2026.",
-   "what_yes_means": "A YES vote raises the homestead exemption that applies to county, city and special-district (non-school) taxes from the current $50,000 to $150,000 in 2027 and $250,000 in 2028, indexed to inflation afterward; requires the Legislature to set a uniform procedure by which counties and cities may raise the exemption for their own levies up to a home's full assessed value, and lets special districts do the same with voter approval; phases the larger exemption in for people who are not Florida residents on Dec. 31, 2026 (they get the existing exemption first and the increased exemption starting in their fifth year); and lowers the annual assessment-increase cap on non-homestead property (rentals, second homes, businesses) from 10% to 5%. The $25,000 school-tax exemption and the existing 3% Save Our Homes assessment cap for homesteads are unchanged.",
+   "title_note": "VERIFIED against the Division of Elections booklet (updated Aug. 21, 2026), which prints 'INCREASED HOMESTEAD EXEMPTION; LOWER CAP ON INCREASES IN NON-HOMESTEAD PROPERTY ASSESSMENTS.—' (Article VII, Sections 4, 6 and 9; Article XII), and against the Sumter County sample ballot. The Legislature's original title, 'Save Our Homes From Excessive Property Taxes,' was struck by Leon County Circuit Judge David Frank on Aug. 3-4, 2026 as 'more akin to a political slogan'; Attorney General James Uthmeier issued the rewritten title and summary Aug. 13-14, 2026, and the state did not appeal.",
+   "ballot_summary": "This amendment increases the homestead exemption, for all non-school taxes, to $150,000 in 2027 and $250,000 in 2028, and adjusts for inflation thereafter. It requires the Legislature to prescribe a uniform procedure for counties and municipalities, for their respective levies, to increase the homestead exemption up to full assessed value, and allows special districts, subject to referendum approval, to do the same.\n\nPersons who are not Florida residents on December 31, 2026, will receive the existing homestead exemption upon qualifying for a homestead exemption, with the increased homestead exemption beginning with the fifth year of exemption, to the extent permitted by the U.S. Constitution.\n\nThis amendment reduces the annual cap on assessment increases for non-homestead properties from 10% to 5%.\n\nThis amendment requires counties and municipalities to use property taxes solely for public safety, education and schools, infrastructure, natural resources, bond debt service, retirement benefits for employees, and operations and administration. Other expenditures may be approved by county officers or county or municipal governing bodies unless prohibited by general law, notwithstanding Article VII, Section 9(a) of the Florida Constitution, which allows counties and municipalities to levy property taxes for their respective purposes.\n\nThis amendment takes effect January 1, 2027.",
+   "ballot_summary_note": "VERIFIED verbatim (five paragraphs) against the Division of Elections booklet PDF and the Sumter County sample ballot (Sept. 17, 2026). The earlier file omitted the fourth paragraph (restricting what counties and municipalities may spend property taxes on) and the effective-date sentence; both are on the official ballot.",
+   "sponsor": "CS/HJR 1F (2026 Special Session F), sponsored by the House State Affairs Committee and Rep. Overdorf; the special session on property taxes was called by Gov. Ron DeSantis. Passed the House 75-26 and the Senate 30-9 on June 2, 2026; filed with the Secretary of State June 16, 2026 (flhouse.gov bill page, fetched Sept. 17, 2026; the LWVFL analysis reports the House vote as 75-27). Ballot title and summary rewritten by the Attorney General under court order in August 2026.",
+   "what_yes_means": "A YES vote raises the homestead exemption that applies to county, city and special-district (non-school) taxes from the current $50,000 to $150,000 in 2027 and $250,000 in 2028, indexed to inflation afterward; requires the Legislature to set a uniform procedure by which counties and cities may raise the exemption for their own levies up to a home's full assessed value, and lets special districts do the same with voter approval; phases the larger exemption in for people who are not Florida residents on Dec. 31, 2026 (they get the existing exemption first and the increased exemption starting in their fifth year of exemption); lowers the annual assessment-increase cap on non-homestead property (rentals, second homes, businesses) from 10% to 5%; and limits county and municipal property-tax spending to public safety, education and schools, infrastructure, natural resources, bond debt service, employee retirement benefits, and operations and administration, with other spending allowed if approved by county officers or governing bodies unless general law prohibits it. Takes effect Jan. 1, 2027. The $25,000 school-tax exemption and the existing 3% Save Our Homes assessment cap for homesteads are unchanged.",
    "what_no_means": "A NO vote leaves the current homestead exemption (up to $50,000, of which $25,000 applies to school taxes), the existing Save Our Homes 3% cap, and the 10% non-homestead assessment cap in place.",
-   "fiscal_impact": "Florida's Revenue Estimating Conference (state economists) projected the amendment's quantifiable provisions would reduce local non-school property tax collections by about $4.93-$4.95 billion in FY 2027-28, rising to about $11.8 billion per year by FY 2031-32 when fully phased in. The Legislature's staff analysis (h0001z.SAC, June 16, 2026) accompanies CS/HJR 1F. County-level figures were published by the REC; the Sumter County figure was not retrievable in this sandbox.",
+   "fiscal_impact": "Florida's Revenue Estimating Conference (state economists) projected the amendment would reduce local non-school property tax collections by about $4.9-5.0 billion in FY 2027-28, $8.8 billion in FY 2028-29, $9.7 billion in FY 2029-30 and $10.7 billion in FY 2030-31, with a recurring impact of about $11.86 billion a year when fully phased in (LWVFL analysis; Florida Chamber; Florida TaxWatch). Sumter County: the Florida Association of Counties' county-by-county table (June 2026, county levies only) estimates -$24.9 million in FY 2027-28 and -$45.1 million in FY 2028-29 for Sumter County ($24.3M/$43.8M from the homestead exemption plus $0.6M/$1.3M from the 5% cap); County Administrator Bradley Arnold told commissioners in July 2026 the county could lose about $16 million the first year and $45 million the second (Villages-News, July 12, 2026). The Legislature's staff analysis (h0001z.SAC, June 16, 2026) accompanies CS/HJR 1F.",
    "fiscal_impact_sources": [
+    "https://www.fl-counties.com/wp-content/uploads/2026/06/FAC-Fiscal-Impact-Readers-Guide-and-Backgrounder-6.3.pdf",
+    "https://www.villages-news.com/2026/07/12/sumter-county-officials-bracing-for-huge-potential-losses-of-revenue/",
+    "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
+    "https://floridataxwatch.org/legislative-policy/property-taxes/",
+    "https://www.flchamber.com/floridas-2026-property-tax-amendment/",
     "https://www.wctv.tv/2026/07/20/impact-amendment-3-floridas-revenue-estimating-conference-releases-new-projections/",
-    "https://www.tampabay28.com/news/state/state-economists-property-tax-amendment-could-cost-florida-local-governments-11-8-billion-annually",
-    "https://suncoastsearchlight.org/fact-brief-florida-revenue-estimating-conference-amendment-3/",
     "https://www.flhouse.gov/Sections/Documents/loaddoc.aspx?BillNumber=1&DocumentType=Analysis&FileName=h0001z.SAC.DOCX&Session=2026F"
    ],
    "supporters": [
     {
-     "who": "Gov. Ron DeSantis",
-     "argument": "The governor called the 2026 special session that produced CS/HJR 1F and has advocated large reductions in homestead property taxes, arguing homeowners should not face rising tax bills on homes they already own.",
+     "who": "Florida Realtors ('Vote Yes on 3' campaign)",
+     "argument": "Launched the Vote Yes on 3 campaign Sept. 9, 2026 (reported with a $10 million commitment). 2026 president Chuck Bonfiglio Jr.: 'Affordability is on the forefront for every Floridian, and they need meaningful relief.' The association says the amendment 'offers voters an opportunity to provide meaningful property tax relief while strengthening Florida's commitment to attainable homeownership.'",
      "sources": [
-      "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452",
-      "https://www.pcpao.gov/amendment3"
-     ]
-    },
-    {
-     "who": "Florida Realtors",
-     "argument": "Launched a campaign on Sept. 16, 2026 urging voters to support Amendment 3 as property-tax relief for homeowners.",
-     "sources": [
-      "https://www.clickorlando.com/election-2026/2026/09/16/florida-realtors-launch-campaign-urging-voters-to-support-amendment-3-property-tax-changes/"
+      "https://www.floridarealtors.org/news-media/news-articles/2026/09/florida-realtors-launches-vote-yes-3-campaign",
+      "https://www.clickorlando.com/election-2026/2026/09/16/florida-realtors-launch-campaign-urging-voters-to-support-amendment-3-property-tax-changes/",
+      "https://www.wlrn.org/government-politics/2026-09-16/florida-gop-endorses-amendment-3-american-planning-association-opposes",
+      "https://voteyeson3.com/"
      ]
     },
     {
      "who": "Republican Party of Florida",
-     "argument": "The state party endorsed Amendment 3 (with Amendment 1) in September 2026 as property-tax relief for Florida homeowners.",
+     "argument": "Endorsed Amendment 3 (with Amendment 1) in September 2026. Chair Evan Power: 'Floridians work hard for what they have. Government should not spend it all.' (WLRN, Sept. 16, 2026)",
      "sources": [
+      "https://www.wlrn.org/government-politics/2026-09-16/florida-gop-endorses-amendment-3-american-planning-association-opposes",
       "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/"
      ]
     },
     {
-     "who": "Florida House of Representatives (sponsor)",
-     "argument": "House leadership sponsored the joint resolution to lock a larger homestead exemption into the constitution and slow assessment growth on non-homestead property.",
+     "who": "Gov. Ron DeSantis",
+     "argument": "Called the June 2026 special session that produced CS/HJR 1F and has said he will promote the measure (WLRN, Sept. 16, 2026); he has also said the final version 'wasn't my proposal' (CBS Miami, search snippet).",
+     "sources": [
+      "https://www.wlrn.org/government-politics/2026-09-16/florida-gop-endorses-amendment-3-american-planning-association-opposes",
+      "https://www.cbsnews.com/miami/news/gov-desantis-property-tax-measure-florida-2026-ballot/",
+      "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452"
+     ]
+    },
+    {
+     "who": "Florida Legislature (sponsor: House State Affairs Committee / Rep. Overdorf)",
+     "argument": "House leadership sponsored the joint resolution to lock a larger homestead exemption into the constitution, slow assessment growth on non-homestead property and limit what local property taxes may fund; it passed 75-26 and 30-9.",
      "sources": [
       "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452"
      ]
@@ -60540,17 +62282,43 @@ window.GUIDE_DATA = {
    "opponents": [
     {
      "who": "League of Women Voters of Florida",
-     "argument": "Adopted a formal position opposing Amendment 3. President Jessica Lowe-Minor said the League opposes putting 'communities and the services we love at risk because of a confusing ballot amendment,' citing effects on parks, libraries, roads and public safety.",
+     "argument": "Formally opposed Amendment 3 on Aug. 24, 2026, citing its positions against restricting revenue through the constitution and in favor of local home rule. President Jessica Lowe-Minor: 'We don't want to put our communities and the services we love at risk because of a confusing ballot amendment.' The League's July 2026 analysis lists local governments, libraries, special districts and renters among those affected.",
      "sources": [
       "https://lwvspa.org/league-of-women-voters-of-florida-formally-opposes-amendment-3/",
-      "https://lwvfl.org/florida-leagues-change-of-position-on-amendment-3-fl/"
+      "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf"
+     ]
+    },
+    {
+     "who": "Florida League of Cities",
+     "argument": "Says 'Amendment 3 is not a tax cut, it's a tax shift': when property-tax revenue drops, costs for public safety, stormwater and roads move to 'renters, businesses, and the neighbors who didn't get the break.' Lobbyist Matt Singer (July 9, 2026): 'One person's tax exemption is another person's tax increase'; the League says 85 of 411 municipalities could not fund public safety under a $250,000 exemption. City-by-city impact packets, including Bushnell and Wildwood, are posted on its property-tax page.",
+     "sources": [
+      "https://www.flcities.com/propertytaxes/",
+      "https://www.tampabaybeacons.com/2026/07/27/cities-group-to-voters-no-on-3/"
+     ]
+    },
+    {
+     "who": "Florida Association of Counties",
+     "argument": "Published county-by-county revenue-loss estimates (Sumter County: about $24.9 million in FY 2027-28 and $45.1 million in FY 2028-29 for county levies) and warned that the 29 fiscally constrained counties could lose a fifth to a third of their revenue; the LWVFL analysis lists FAC among opponents. FAC's readers guide itself presents the figures as a baseline impact assessment without a formal vote recommendation.",
+     "sources": [
+      "https://www.fl-counties.com/wp-content/uploads/2026/06/FAC-Fiscal-Impact-Readers-Guide-and-Backgrounder-6.3.pdf",
+      "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
+      "https://www.wptv.com/news/state/floridas-property-tax-amendment-faces-growing-opposition-with-little-organized-support-to-counter-it"
+     ]
+    },
+    {
+     "who": "Florida Policy Institute",
+     "argument": "Its voter guide (updated Sept. 15, 2026) says the amendment would cut nearly $12 billion a year in recurring local revenue, that local governments would face service cuts, higher taxes and fees, or both, and that renters, consumers and small businesses would bear shifted costs; it notes roughly 3 million renter households get no direct benefit.",
+     "sources": [
+      "https://www.floridapolicy.org/posts/voter-guide-what-floridians-should-know-about-amendment-3",
+      "https://www.floridapolicy.org/posts/florida-property-tax-amendment-ballot-language-summary"
      ]
     },
     {
      "who": "Florida Sheriffs Association",
      "argument": "Said it is 'significantly concerned' that the revenue loss could affect funding for law enforcement and other county services without a replacement revenue source.",
      "sources": [
-      "https://www.clickorlando.com/election-2026/2026/08/03/florida-sheriffs-police-firefighters-groups-sound-alarm-over-property-tax-amendment/"
+      "https://www.clickorlando.com/election-2026/2026/08/03/florida-sheriffs-police-firefighters-groups-sound-alarm-over-property-tax-amendment/",
+      "https://floridaphoenix.com/2026/08/03/florida-sheriffs-association-is-significantly-concerned-about-amendment-3/"
      ]
     },
     {
@@ -60561,26 +62329,18 @@ window.GUIDE_DATA = {
      ]
     },
     {
-     "who": "Florida State Fraternal Order of Police",
-     "argument": "Formally opposed the amendment, citing the risk to police funding.",
-     "sources": [
-      "https://www.wptv.com/news/state/floridas-property-tax-amendment-faces-growing-opposition-with-little-organized-support-to-counter-it"
-     ]
-    },
-    {
-     "who": "Florida Professional Firefighters; Florida Fire Chiefs Association",
-     "argument": "Warned the amendment could undermine fire and EMS funding without providing a replacement revenue source.",
+     "who": "Florida State Fraternal Order of Police; Florida Professional Firefighters; Florida Fire Chiefs Association",
+     "argument": "Formally opposed or warned against the amendment, citing the risk to police, fire and EMS funding without a replacement revenue source.",
      "sources": [
       "https://www.wptv.com/news/state/floridas-property-tax-amendment-faces-growing-opposition-with-little-organized-support-to-counter-it",
       "https://www.clickorlando.com/election-2026/2026/08/03/florida-sheriffs-police-firefighters-groups-sound-alarm-over-property-tax-amendment/"
      ]
     },
     {
-     "who": "Florida League of Cities; Florida Association of Counties",
-     "argument": "Warned that the projected multi-billion-dollar annual revenue loss would force cities and counties to cut services, raise other taxes or fees, or both.",
+     "who": "American Planning Association, Florida Chapter",
+     "argument": "Opposes the amendment; president Allara Mills-Gutcher said the chapter supports tax relief in principle but 'there was a decision made to put it on the ballot without any kind of analysis, without any kind of data' (WLRN, Sept. 16, 2026).",
      "sources": [
-      "https://www.wptv.com/news/state/floridas-property-tax-amendment-faces-growing-opposition-with-little-organized-support-to-counter-it",
-      "https://www.tampafp.com/opposition-surges-against-florida-amendment-3-as-budget-warnings-mount/"
+      "https://www.wlrn.org/government-politics/2026-09-16/florida-gop-endorses-amendment-3-american-planning-association-opposes"
      ]
     },
     {
@@ -60591,21 +62351,29 @@ window.GUIDE_DATA = {
      ]
     },
     {
-     "who": "Florida Policy Institute (analysis)",
-     "argument": "Published a summary of the ballot language and county-by-county local fiscal impacts, emphasizing the size of the local revenue reduction.",
+     "who": "Other opponents listed by the LWVFL analysis (July 21, 2026)",
+     "argument": "The League's analysis lists Florida PTA, Florida Education Association, SEIU Florida, Florida Rising, Florida For All, Southern Poverty Law Center, the Tax Foundation, 'Vote No On 3' and the editorial boards of the Wall Street Journal, Miami Herald, Orlando Sentinel, Palm Beach Post and Sun-Sentinel among opponents; these were not individually verified in this pass.",
      "sources": [
-      "https://www.floridapolicy.org/posts/florida-property-tax-amendment-ballot-language-summary"
+      "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf"
      ]
     }
    ],
    "neutral_analyses": [
     {
-     "who": "Florida TaxWatch",
+     "who": "Florida TaxWatch (states it does not support or oppose ballot measures; its property-tax page calls the 'hurried evaluation and adoption' of the proposal 'unwise and unnecessary' and notes the Legislature lacked the revenue estimate when it voted)",
+     "url": "https://floridataxwatch.org/legislative-policy/property-taxes/"
+    },
+    {
+     "who": "Florida TaxWatch Property Tax Resource Center",
      "url": "https://floridataxwatch.org/research/florida-property-tax-resource-center/"
     },
     {
-     "who": "Florida Policy Institute voter guide",
-     "url": "https://www.floridapolicy.org/posts/voter-guide-what-floridians-should-know-about-amendment-3"
+     "who": "Florida Chamber of Commerce explainer (no formal position; earlier warned lawmakers a shift of the tax burden to non-homestead property 'will likely result in higher prices, fewer new jobs, lessened services and/or diminished investment'; CEO Mark Wilson expects the 2027 Tax and Budget Reform Commission to look at further proposals for 2028)",
+     "url": "https://www.flchamber.com/floridas-2026-property-tax-amendment/"
+    },
+    {
+     "who": "Florida Policy Institute ballot-language summary and county impacts",
+     "url": "https://www.floridapolicy.org/posts/florida-property-tax-amendment-ballot-language-summary"
     },
     {
      "who": "Tax Foundation",
@@ -60620,31 +62388,42 @@ window.GUIDE_DATA = {
      "url": "https://ocfl.net/OpenGovernment/PropertyTaxAmendment3.aspx"
     },
     {
-     "who": "Florida Chamber of Commerce explainer",
-     "url": "https://www.flchamber.com/floridas-2026-property-tax-amendment/"
+     "who": "Americans for Prosperity-Florida: no published position on Amendments 1-3 found in searches as of Sept. 17, 2026",
+     "url": "https://americansforprosperity.org/state/florida/"
     }
    ],
    "threshold": "60%",
    "sources": [
+    "https://files.floridados.gov/media/711355/eng-2026-booklet-constitutional-amendpub-updated-20260821.pdf",
+    "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
     "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452",
     "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=110",
-    "https://www.pcpao.gov/amendment3",
+    "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
+    "https://lwvspa.org/league-of-women-voters-of-florida-formally-opposes-amendment-3/",
+    "https://www.flcities.com/propertytaxes/",
+    "https://www.tampabaybeacons.com/2026/07/27/cities-group-to-voters-no-on-3/",
+    "https://www.fl-counties.com/wp-content/uploads/2026/06/FAC-Fiscal-Impact-Readers-Guide-and-Backgrounder-6.3.pdf",
+    "https://www.villages-news.com/2026/07/12/sumter-county-officials-bracing-for-huge-potential-losses-of-revenue/",
+    "https://www.floridapolicy.org/posts/voter-guide-what-floridians-should-know-about-amendment-3",
     "https://www.floridapolicy.org/posts/florida-property-tax-amendment-ballot-language-summary",
+    "https://floridataxwatch.org/legislative-policy/property-taxes/",
+    "https://floridataxwatch.org/research/florida-property-tax-resource-center/",
+    "https://www.flchamber.com/floridas-2026-property-tax-amendment/",
+    "https://www.floridarealtors.org/news-media/news-articles/2026/09/florida-realtors-launches-vote-yes-3-campaign",
+    "https://www.wlrn.org/government-politics/2026-09-16/florida-gop-endorses-amendment-3-american-planning-association-opposes",
     "https://www.wctv.tv/2026/07/20/impact-amendment-3-floridas-revenue-estimating-conference-releases-new-projections/",
-    "https://www.tampabay28.com/news/state/state-economists-property-tax-amendment-could-cost-florida-local-governments-11-8-billion-annually",
     "https://www.wptv.com/news/state/floridas-property-tax-amendment-faces-growing-opposition-with-little-organized-support-to-counter-it",
     "https://www.clickorlando.com/election-2026/2026/08/03/florida-sheriffs-police-firefighters-groups-sound-alarm-over-property-tax-amendment/",
+    "https://www.clickorlando.com/election-2026/2026/09/16/florida-realtors-launch-campaign-urging-voters-to-support-amendment-3-property-tax-changes/",
     "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/",
-    "https://news.ballotpedia.org/2026/06/03/florida-voters-to-decide-expanded-homestead-tax-exemption-amendment-in-november/",
-    "https://www.joneswalker.com/en/insights/blogs/perspectives/floridas-revised-property-tax-amendment-ballot-language.html?id=102nhw8",
+    "https://www.pcpao.gov/amendment3",
     "https://floridaphoenix.com/2026/08/04/amendment-3-ballot-title-summary-language-dont-pass-muster-judge-rules/",
     "https://www.wflx.com/2026/08/14/florida-releases-court-ordered-rewrite-amendment-3-ballot-language/",
-    "https://lwvspa.org/league-of-women-voters-of-florida-formally-opposes-amendment-3/",
-    "https://www.clickorlando.com/election-2026/2026/09/16/florida-realtors-launch-campaign-urging-voters-to-support-amendment-3-property-tax-changes/"
+    "https://www.joneswalker.com/en/insights/blogs/perspectives/floridas-revised-property-tax-amendment-ballot-language.html?id=102nhw8"
    ],
    "original_title": "Save Our Homes From Excessive Property Taxes",
    "ballot_language_litigation": {
-    "summary": "A Leon County circuit judge (David Frank) ruled Aug. 3-4, 2026 that the original title and summary were misleading and not neutral; the state chose not to appeal, and the Attorney General released rewritten language Aug. 13-14, 2026.",
+    "summary": "A Leon County circuit judge (David Frank) ruled Aug. 3-4, 2026 that the original title ('Save Our Homes From Excessive Property Taxes') and summary were misleading and not neutral; the state chose not to appeal, the Attorney General released rewritten language Aug. 13-14, 2026, and the Division of Elections booklet updated Aug. 21, 2026 and the Sumter County sample ballot both carry the rewritten title and summary (verified Sept. 17, 2026).",
     "sources": [
      "https://floridaphoenix.com/2026/08/04/amendment-3-ballot-title-summary-language-dont-pass-muster-judge-rules/",
      "https://floridapolitics.com/archives/811300-more-akin-to-a-political-slogan-judge-orders-rewrite-of-property-tax-amendments-ballot-language/",
@@ -60653,7 +62432,8 @@ window.GUIDE_DATA = {
      "https://www.joneswalker.com/en/insights/blogs/perspectives/floridas-revised-property-tax-amendment-ballot-language.html?id=102nhw8",
      "https://cbs12.com/news/florida/florida-ag-uthmeier-releases-rewritten-amendment-3-ballot-language-after-judge-orders-changes-property-tax-amendment-save-our-homes-property-tax-exemption-"
     ]
-   }
+   },
+   "constitution_sections": "Article VII, Sections 4, 6 and 9; Article XII"
   }
  ],
  "judicial": {
@@ -60665,9 +62445,9 @@ window.GUIDE_DATA = {
    "https://www.sparkers-soapbox.com/merit-retention-of-florida-judges/",
    "https://supremecourt.flcourts.gov/Justices/Merit-Selection-Retention-Retirement"
   ],
-  "ballot_context": "Per The Florida Bar News, Supreme Court Justice Carlos G. Muñiz and 22 district court of appeal judges qualified for merit retention on the Nov. 3, 2026 ballot; no Sixth DCA judge is on the 2026 ballot. Sumter County is in the Fifth Judicial Circuit, whose appeals go to the Fifth District Court of Appeal (Daytona Beach), so Sumter voters answer retention questions for Justice Muñiz and the Fifth DCA judges standing in 2026. Ballotpedia's 2026 Florida appellate-election page lists Fifth DCA Judges Frederic Rand Wallis, John M. Harris and Scott D. Makar as standing for retention. The Florida Bar article names 18 judges from the First through Fourth DCAs (5, 4, 5 and 4), which implies four Fifth DCA judges; a fourth name could not be confirmed. Note: The Florida Bar discontinued its merit-retention poll in 2023, so there is no 2026 Bar poll.",
-  "research_note": "Second pass (Sept 17, 2026): floridabar.org, ballotpedia.org, 5dca.flcourts.gov, yourfloridajudges.com and votingforjustice.com remained blocked to fetch; findings come from search-result snippets. Confirmed from Ballotpedia's 'Florida intermediate appellate court elections, 2026' snippet: Fifth DCA Judges Wallis, Harris and Makar are on the 2026 retention ballot. Judges Kerry I. Evander and Dan Traver are listed under 'Former Judges' on the Fifth DCA website and are therefore NOT on the ballot. Because the Florida Bar's district counts imply four Fifth DCA judges, one name may still be missing; check the Florida Bar merit-retention biographies page or the Sumter County sample ballot (expected after the late-September overseas mailing) before publication.",
-  "list_complete": false,
+  "ballot_context": "Verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot and The Florida Bar's 2026 merit-retention list: Sumter voters answer four retention questions, for Supreme Court Justice Carlos G. Muñiz and Fifth District Court of Appeal Judges John M. Harris, Scott D. Makar and F. Rand Wallis. No other appellate judge appears on the Sumter ballot. Note: The Florida Bar discontinued its merit-retention poll in 2023, so there is no 2026 Bar poll.",
+  "research_note": "Third pass (Sept 17, 2026): the sample ballot and The Florida Bar's merit-retention page were fetched directly; the earlier question of a possible fourth Fifth DCA judge is resolved (there are three). Biographies were checked against the Governor's 2019 appointment release (Muñiz), Wikipedia (Makar) and Ballotpedia/Space Coast Daily/Law360 search results (Harris, Wallis); the court's own judge pages did not render in this environment.",
+  "list_complete": true,
   "judges": [
    {
     "name": "Carlos G. Muñiz",
@@ -60676,8 +62456,7 @@ window.GUIDE_DATA = {
     "appointed_by": "Gov. Ron DeSantis",
     "appointed_year": 2019,
     "appointed_date": "2019-01-22",
-    "background": "Bachelor's degree from the University of Virginia and J.D. from Yale Law School. Law clerk to Judge José A. Cabranes (U.S. Court of Appeals, 2nd Circuit) and Judge Thomas A. Flannery (U.S. District Court, D.C.). Served as deputy general counsel to Gov. Jeb Bush, as deputy attorney general and chief of staff to Attorney General Pam Bondi, and as general counsel of the U.S. Department of Education (2018-2019). Appointed to the Florida Supreme Court on Jan. 22, 2019 as the court's 89th justice; retained by voters in 2020; served two terms as the 57th Chief Justice of Florida (July 2022 - June 2026).",
-    "background_note": "Education/clerkship/prior-position details are from general knowledge consistent with the Ballotpedia and Wikipedia biographies linked below; they could not be re-fetched in this sandbox. Verify before publication.",
+    "background": "Born June 25, 1969, in Chicago. B.A. with high honors, University of Virginia (1991); J.D., Yale Law School (1997), where he was an editor of the Yale Law Journal. Law clerk to U.S. District Judge Thomas A. Flannery (D.C.) and Judge José A. Cabranes (U.S. Court of Appeals, 2nd Circuit). Deputy general counsel to Gov. Jeb Bush (2001), general counsel of the Department of Financial Services, deputy chief of staff and counsel to House Speaker Marco Rubio, deputy attorney general and chief of staff to Attorney General Pam Bondi (2011-2014), and general counsel of the U.S. Department of Education (2018-2019). Appointed to the Florida Supreme Court Jan. 22, 2019, as its 89th justice and the first Nicaraguan-American justice; retained by voters in 2020; served as the 57th Chief Justice of Florida from July 2022 to June 2026.",
     "notable": [
      {
       "item": "Authored the court's April 1, 2024 majority opinion in Planned Parenthood of Southwest and Central Florida v. State, holding that the Florida Constitution's privacy clause does not protect abortion and upholding the state's 15-week abortion law (which allowed the six-week law to take effect).",
@@ -60700,7 +62479,7 @@ window.GUIDE_DATA = {
       ]
      }
     ],
-    "bar_poll": "Not applicable for 2026: The Florida Bar discontinued its merit-retention poll in 2023. (The 71% figure previously cited here came from the Bar's 2020 poll, reported by Florida Phoenix before his first retention vote.)",
+    "bar_poll": "The Florida Bar discontinued its merit-retention poll in 2023; no 2026 poll exists.",
     "bar_poll_sources": [
      "https://www.sparkers-soapbox.com/florida-supreme-court-merit-retention-2026-general/",
      "https://www.taylorelectionsfl.gov/announcements/voters-guide-to-judicial-retention-races/",
@@ -60710,22 +62489,26 @@ window.GUIDE_DATA = {
     "photo_url": "https://supremecourt.flcourts.gov/content/download/1146/file/Muniz.jpg",
     "photo_note": "UNVERIFIED URL; the official portrait is on the justice's page at https://supremecourt.flcourts.gov/Justices/Justice-Carlos-G.-Muniz",
     "sources": [
+     "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+     "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/",
+     "https://www.flgov.com/eog/news/press/2019/governor-ron-desantis-appoints-carlos-muniz-florida-supreme-court",
      "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
      "https://floridaphoenix.com/briefs/fl-bar-members-give-high-marks-to-carlos-muniz-other-appeals-judges-up-for-merit-retention/",
      "https://ballotpedia.org/Carlos_Mu%C3%B1iz",
      "https://en.wikipedia.org/wiki/Carlos_G._Mu%C3%B1iz",
      "https://thefloridachannel.org/videos/on-the-ballot-florida-supreme-court-justice-carlos-muniz/",
      "https://www.sparkers-soapbox.com/florida-supreme-court-merit-retention-2026-general/"
-    ]
+    ],
+    "confirmation_status": "On the Nov. 3, 2026 Sumter County ballot (verified on the official sample ballot and The Florida Bar's 2026 merit-retention list)"
    },
    {
     "name": "John M. Harris",
     "court": "Fifth District Court of Appeal",
     "ballot_question": "Shall Judge John M. Harris of the Fifth District Court of Appeal be retained in office?",
-    "confirmation_status": "CONFIRMED on the Nov. 3, 2026 retention ballot: listed by Ballotpedia's 2026 Florida intermediate appellate court elections page and named as a Fifth DCA judge in Florida Bar merit-retention material (search snippets).",
+    "confirmation_status": "On the Nov. 3, 2026 Sumter County ballot (verified on the official sample ballot and The Florida Bar's 2026 merit-retention list)",
     "appointed_by": "Gov. Rick Scott",
-    "appointed_year": 2017,
-    "background": "Served as a circuit judge in the Eighteenth Judicial Circuit (Brevard County) before Gov. Rick Scott appointed him to the Fifth District Court of Appeal in December 2017 (took office January 2018). First retained by voters in 2020; served a term as the court's chief judge. Education and earlier career details could not be fetched in this sandbox (UNVERIFIED).",
+    "appointed_year": 2018,
+    "background": "B.A. in psychology and criminal justice, University of Oklahoma (1988); J.D., Florida State University College of Law (1991). Practiced business and commercial litigation in Brevard County for about 11 years. Appointed to the Brevard County Court by Gov. Jeb Bush in 2002 and to the Eighteenth Judicial Circuit (Brevard and Seminole counties) in 2006, where he served as an administrative judge and was twice elected chief judge (2013, 2017). Appointed to the Fifth District Court of Appeal by Gov. Rick Scott in July 2018 to succeed Judge Thomas D. Sawaya; retained by voters in 2020.",
     "notable": [
      {
       "item": "Has served as Chief Judge of the Fifth District Court of Appeal.",
@@ -60735,7 +62518,7 @@ window.GUIDE_DATA = {
       ]
      }
     ],
-    "bar_poll": "No 2026 Florida Bar poll exists: The Florida Bar discontinued its merit-retention poll of members in 2023 after 45 years (per Sparker's Soapbox and county supervisor voter guides that cite the Bar). Earlier per-judge Bar poll figures therefore do not apply to 2026.",
+    "bar_poll": "The Florida Bar discontinued its merit-retention poll in 2023; no 2026 poll exists.",
     "bar_poll_sources": [
      "https://www.sparkers-soapbox.com/florida-supreme-court-merit-retention-2026-general/",
      "https://www.taylorelectionsfl.gov/announcements/voters-guide-to-judicial-retention-races/",
@@ -60744,6 +62527,11 @@ window.GUIDE_DATA = {
     "photo_url": "https://5dca.flcourts.gov/Judges",
     "photo_note": "Judge portrait is on the 5th DCA judges page; direct image URL UNVERIFIED.",
     "sources": [
+     "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+     "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/",
+     "https://spacecoastdaily.com/2018/07/judge-john-m-harris-appointed-to-fifth-district-court-of-appeal-by-florida-gov-rick-scott/",
+     "https://ballotpedia.org/John_M._Harris",
+     "https://5dca.flcourts.gov/Judges/Judge-John-M.-Harris",
      "https://ballotpedia.org/Florida_intermediate_appellate_court_elections,_2026",
      "https://ballotpedia.org/Florida_Fifth_District_Court_of_Appeal",
      "https://en.wikipedia.org/wiki/Florida_Fifth_District_Court_of_Appeal",
@@ -60755,11 +62543,10 @@ window.GUIDE_DATA = {
     "name": "Scott D. Makar",
     "court": "Fifth District Court of Appeal",
     "ballot_question": "Shall Judge Scott Makar of the Fifth District Court of Appeal be retained in office?",
-    "confirmation_status": "CONFIRMED on the Nov. 3, 2026 retention ballot as a Fifth DCA judge: listed with Harris and Wallis on Ballotpedia's 2026 Florida appellate elections page, and the Fifth DCA website carries his current judge page (https://5dca.flcourts.gov/Judges/Judge-Scott-Makar). He was recommissioned to the Fifth DCA effective Jan. 1, 2023.",
-    "appointed_by": "Gov. Rick Scott",
+    "confirmation_status": "On the Nov. 3, 2026 Sumter County ballot (verified on the official sample ballot and The Florida Bar's 2026 merit-retention list)",
+    "appointed_by": "Gov. Rick Scott (First DCA, 2012); recommissioned to the Fifth DCA by Gov. Ron DeSantis (2023)",
     "appointed_year": 2012,
-    "background": "Former Solicitor General of Florida (2007-2012) under Attorneys General Bill McCollum and Pam Bondi; previously chief of the appellate division of the Jacksonville Office of General Counsel and an attorney in private practice. Holds degrees from the University of Florida, including a J.D. and a Ph.D. in economics. Appointed to the First District Court of Appeal in 2012, retained in 2014 and 2020, and moved to the Fifth District Court of Appeal in 2023 when the Legislature redrew appellate districts.",
-    "background_note": "Details from general knowledge consistent with the Wikipedia biography linked below; not re-fetched. Verify before publication.",
+    "background": "Born Oct. 15, 1959, in Mahopac, N.Y. B.S., Mercer University (1980); MBA and M.A. in economics (1982), J.D. with honors (1987) and Ph.D. in economics (1993), all from the University of Florida. Appellate attorney at Holland & Knight (1989-2001), chief of the appellate division of Jacksonville's Office of General Counsel (2001-2008) and Florida Solicitor General (2007-2012), arguing five cases before the U.S. Supreme Court. Appointed to the First District Court of Appeal by Gov. Rick Scott on Feb. 6, 2012, and recommissioned to the Fifth District Court of Appeal by Gov. Ron DeSantis on Jan. 1, 2023, when the appellate districts were redrawn. Has taught at several law schools.",
     "notable": [
      {
       "item": "Argued cases for the state before the U.S. Supreme Court and Florida Supreme Court as Florida's Solicitor General before joining the appellate bench.",
@@ -60768,7 +62555,7 @@ window.GUIDE_DATA = {
       ]
      }
     ],
-    "bar_poll": "No 2026 Florida Bar poll exists: The Florida Bar discontinued its merit-retention poll of members in 2023 after 45 years (per Sparker's Soapbox and county supervisor voter guides that cite the Bar). Earlier per-judge Bar poll figures therefore do not apply to 2026.",
+    "bar_poll": "The Florida Bar discontinued its merit-retention poll in 2023; no 2026 poll exists.",
     "bar_poll_sources": [
      "https://www.sparkers-soapbox.com/florida-supreme-court-merit-retention-2026-general/",
      "https://www.taylorelectionsfl.gov/announcements/voters-guide-to-judicial-retention-races/",
@@ -60777,6 +62564,8 @@ window.GUIDE_DATA = {
     "photo_url": "https://5dca.flcourts.gov/Judges/Judge-Scott-Makar",
     "photo_note": "Judge's official page on the Fifth DCA site; direct image URL UNVERIFIED (site blocked in sandbox).",
     "sources": [
+     "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+     "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/",
      "https://ballotpedia.org/Florida_intermediate_appellate_court_elections,_2026",
      "https://5dca.flcourts.gov/Judges/Judge-Scott-Makar",
      "https://en.wikipedia.org/wiki/Scott_Makar",
@@ -60788,11 +62577,10 @@ window.GUIDE_DATA = {
     "name": "F. Rand Wallis",
     "court": "Fifth District Court of Appeal",
     "ballot_question": "Shall Judge F. Rand Wallis of the Fifth District Court of Appeal be retained in office?",
-    "confirmation_status": "CONFIRMED on the Nov. 3, 2026 retention ballot: Ballotpedia's 2026 Florida intermediate appellate court elections page lists 'Frederic Rand Wallis' with Harris and Makar for the Fifth DCA (search snippet). Exact name form on the ballot (F. Rand Wallis vs. Frederic Rand Wallis) UNVERIFIED.",
+    "confirmation_status": "On the Nov. 3, 2026 Sumter County ballot (verified on the official sample ballot and The Florida Bar's 2026 merit-retention list)",
     "appointed_by": "Gov. Rick Scott",
-    "appointed_year": 2012,
-    "background": "Appointed to the Fifth District Court of Appeal by Gov. Rick Scott in late 2012 (took office in 2013) after a career in private civil-litigation practice in Orlando. Retained by voters in 2014 and 2020; 2026 is his third retention election. Education and earlier career details could not be fetched in this sandbox (UNVERIFIED).",
-    "background_note": "Appointment year, appointing governor and prior retention years are from general knowledge consistent with the Ballotpedia and Fifth DCA pages linked below; the pages could not be fetched. Verify before publication.",
+    "appointed_year": 2013,
+    "background": "B.A. in political science, Furman University (1989); J.D., Stetson University College of Law (1992). Assistant state attorney in the Eighteenth Judicial Circuit for two years, then in private practice in Orlando (Cameron, Marriott, Walsh, Hodges & Coleman; from 1996 Cabaniss, McDonald, Smith & Wiggins). Appointed to the Ninth Judicial Circuit (Orange and Osceola counties) by Gov. Charlie Crist in 2008 and to the Fifth District Court of Appeal by Gov. Rick Scott in 2013 to succeed Judge Bruce Jacobus.",
     "notable": [
      {
       "item": "One of three Fifth DCA judges (with John M. Harris and Scott D. Makar) identified by Ballotpedia as standing for merit retention in November 2026.",
@@ -60801,7 +62589,7 @@ window.GUIDE_DATA = {
       ]
      }
     ],
-    "bar_poll": "No 2026 Florida Bar poll exists: The Florida Bar discontinued its merit-retention poll of members in 2023 after 45 years (per Sparker's Soapbox and county supervisor voter guides that cite the Bar). Earlier per-judge Bar poll figures therefore do not apply to 2026.",
+    "bar_poll": "The Florida Bar discontinued its merit-retention poll in 2023; no 2026 poll exists.",
     "bar_poll_sources": [
      "https://www.sparkers-soapbox.com/florida-supreme-court-merit-retention-2026-general/",
      "https://www.taylorelectionsfl.gov/announcements/voters-guide-to-judicial-retention-races/",
@@ -60810,6 +62598,11 @@ window.GUIDE_DATA = {
     "photo_url": "https://5dca.flcourts.gov/Judges",
     "photo_note": "Judge portrait is on the Fifth DCA judges page; direct image URL UNVERIFIED.",
     "sources": [
+     "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+     "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/",
+     "https://ballotpedia.org/Frederic_Rand_Wallis",
+     "https://www.law360.com/articles/445516/fla-gov-appoints-orange-county-judge-to-appeals-court",
+     "https://5dca.flcourts.gov/Judges/Judge-F.-Rand-Wallis",
      "https://ballotpedia.org/Florida_intermediate_appellate_court_elections,_2026",
      "https://ballotpedia.org/Florida_Fifth_District_Court_of_Appeal",
      "https://5dca.flcourts.gov/Judges",
@@ -60824,11 +62617,6 @@ window.GUIDE_DATA = {
    "https://5dca.flcourts.gov/Judges/former-judges/judge-kerry-i.-evander",
    "https://5dca.flcourts.gov/Judges/Former-Judges/Judge-Dan-Traver",
    "https://ballotpedia.org/Kerry_Evander"
-  ],
-  "verification_todo": [
-   "Confirm whether a fourth Fifth DCA judge is on the 2026 ballot (Florida Bar News article names 18 judges in DCAs 1-4 of 22 total): https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
-   "Verify Wallis's name form and all Fifth DCA names against the Sumter County sample ballot at https://elections.sumtercountyfl.gov/163/2026-Election-Information once posted.",
-   "Confirm F. Rand Wallis biography at https://5dca.flcourts.gov/Judges and https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/."
   ],
   "dca_judges_on_2026_ballot_by_district": {
    "source": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
@@ -60866,7 +62654,15 @@ window.GUIDE_DATA = {
     "(possible fourth judge not confirmed)"
    ],
    "Sixth DCA": []
-  }
+  },
+  "sources": [
+   "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+   "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/",
+   "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/",
+   "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+   "https://www.sparkers-soapbox.com/merit-retention-of-florida-judges/",
+   "https://supremecourt.flcourts.gov/Justices/Merit-Selection-Retention-Retirement"
+  ]
  },
  "voting_info": {
   "county": "Sumter County, Florida",
@@ -60874,7 +62670,7 @@ window.GUIDE_DATA = {
   "registration_deadline": "2026-10-05 (29 days before the election; per Florida Division of Elections and Florida Supervisors of Elections calendars)",
   "vote_by_mail_request_deadline": "2026-10-22 by 5:00 p.m. (12th day before the election); Sumter County Elections news flash confirms Oct. 22, 2026 as the last day to request a mail ballot for the General Election",
   "vote_by_mail_return_deadline": "Ballot must be RECEIVED by the Supervisor of Elections by 7:00 p.m. on Election Day, Nov. 3, 2026 (postmarks do not count). Mail ballots may also be returned to a secure ballot intake station (drop box) at the SOE office or any early-voting site during early-voting hours, or delivered to the office. Overseas (UOCAVA) ballots have a 10-day post-election receipt allowance. (Florida statutes s. 101.67 and 101.69; dos.fl.gov vote-by-mail page.)",
-  "early_voting_dates": "Sumter County's General Election early-voting DATES are still UNVERIFIED (county page blocked). Florida law requires early voting at least Saturday Oct. 24 through Saturday Oct. 31, 2026 (10th through 3rd day before the election, at least 8 hours per day); the county may add optional days Oct. 19-23 and Nov. 1. The county early-voting page lists hours of 9 a.m. to 6 p.m. (search snippet; confirm these apply to the General Election). Check https://elections.sumtercountyfl.gov/200/Early-Voting.",
+  "early_voting_dates": "Saturday, Oct. 24 through Saturday, Oct. 31, 2026 (eight days), per the Sumter County Elections 2026 General Election Information page. Any registered Sumter County voter may vote at any early-voting site.",
   "early_voting_locations": [
    {
     "name": "Bushnell Community Building",
@@ -60905,22 +62701,22 @@ window.GUIDE_DATA = {
     "address": "5497 Marsh Bend Trail, The Villages, FL 32163"
    }
   ],
-  "early_voting_locations_note": "Seven sites and street addresses confirmed from the Sumter County Elections early-voting page (search snippet, Sept. 17, 2026); any registered Sumter voter may use any early-voting site. ZIP codes added from general knowledge. The page does not state whether all seven sites are used for every election; General Election use UNVERIFIED.",
+  "early_voting_locations_note": "Seven sites and addresses confirmed on the Sumter County Elections early-voting page (fetched Sept. 17, 2026); any registered Sumter voter may use any site. The county's General Election page lists early voting Oct. 24-31, 10 a.m. to 6 p.m.",
   "election_day_hours": "7:00 a.m. to 7:00 p.m.; voters must vote at their assigned precinct on Election Day; anyone in line at 7:00 p.m. may vote.",
   "supervisor_of_elections": {
    "name": "Karen S. Krauss",
    "phone": "(352) 569-1540",
    "website": "https://elections.sumtercountyfl.gov/",
-   "address": "Main office: 900 N. Main Street, Bushnell, FL 33513. Villages-area office: Sumter County Government Service Center, 7375 Powell Road, Suite 145, Wildwood, FL 34785.",
-   "note": "Krauss is listed as Supervisor of Elections on the county Office Holders page and LinkedIn; the state Division of Elections directory snippet still showed William 'Bill' Keen, her predecessor, so confirm at https://dos.elections.myflorida.com/supervisors/countyInfo.asp?county=SUM."
+   "address": "Main office: Sumter County Government Service Center, 7375 Powell Road, Suite 125, Wildwood, FL 34785. Annex office: 900 N. Main Street, Bushnell, FL 33513.",
+   "note": "Karen S. Krauss is listed as Supervisor of Elections on the county Office Holders page. The elections website (fetched Sept. 17, 2026) lists the Wildwood Powell Road office as the main office and Bushnell as the annex."
   },
   "id_requirements": "Voters must present a current and valid photo ID with signature at early-voting sites and polling places. Acceptable IDs (Fla. Stat. s. 101.043): Florida driver license; Florida ID card issued by DHSMV; U.S. passport; debit or credit card; military ID; student ID; retirement center ID; neighborhood association ID; public assistance ID; veteran health ID card issued by the U.S. Department of Veterans Affairs; Florida concealed weapon or firearm license; employee ID issued by any branch, department, agency or entity of the federal, state, county or municipal government. If the photo ID lacks a signature, a second ID with signature is required. A voter without acceptable ID may vote a provisional ballot, which counts if the signature matches the registration record.",
   "id_sources": [
    "https://dos.fl.gov/elections/for-voters/voting/election-day-voting/",
    "https://elections.sumtercountyfl.gov/200/Early-Voting"
   ],
-  "sample_ballot_url": "https://elections.sumtercountyfl.gov/163/2026-Election-Information",
-  "sample_ballot_note": "The county posted 2026 Primary sample ballots as a news flash (detail/34); General Election sample ballots are expected on the same news-flash feed and the 2026 Election Information page, typically after the late-September overseas mailing. Exact posting date and PDF link not retrievable (site blocked in sandbox).",
+  "sample_ballot_url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+  "sample_ballot_note": "The official 2026 General Election sample ballot (two-page PDF, English and Spanish) is posted on the Supervisor of Elections' Sample Ballot page. It shows every countywide contest, the three constitutional amendments, four judicial retention questions, two county referendums, and the city and Village CDD contests that appear only in certain precincts.",
   "precinct_lookup_url": "https://registration.elections.myflorida.com/CheckVoterStatus",
   "precinct_lookup_note": "State Voter Information Lookup (shows registration status, precinct and polling place). The county site also offers a precinct/polling-place finder from its home page https://elections.sumtercountyfl.gov/.",
   "vote_by_mail_request_url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/23",
@@ -60943,64 +62739,26 @@ window.GUIDE_DATA = {
    "https://elections.sumtercountyfl.gov/Calendar.aspx?EID=751"
   ],
   "unverified": [
-   "Sumter-specific early-voting days for Nov. 2026 (only the statewide mandatory window is stated); 9 a.m.-6 p.m. hours come from the county early-voting page snippet and may be primary-specific.",
-   "Whether all seven early-voting sites will be used for the General Election.",
-   "General Election sample-ballot posting date and PDF link.",
-   "Office holder/phone cross-check against the state SOE directory."
+   "Whether the county will offer secure ballot intake stations (drop boxes) at every early-voting site for the General Election; the early-voting page fetched Sept. 17 did not address drop boxes. Ask the Supervisor of Elections at (352) 569-1540."
   ],
-  "early_voting_hours": "9 a.m. to 6 p.m. daily during early voting, per the Sumter County Elections early-voting page (search snippet; General Election-specific hours UNVERIFIED).",
+  "early_voting_hours": "10 a.m. to 6 p.m. each day (Sumter County Elections early-voting and 2026 General Election Information pages, fetched Sept. 17, 2026).",
   "sample_ballot_sources": [
-   "https://elections.sumtercountyfl.gov/163/2026-Election-Information",
-   "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/34",
-   "https://elections.sumtercountyfl.gov/m/newsflash?cat=1"
+   "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+   "https://elections.sumtercountyfl.gov/242/SAMPLE-BALLOT",
+   "https://elections.sumtercountyfl.gov/163/2026-Election-Information"
   ],
   "short": {
    "election_date": "Tue, Nov 3, 2026",
    "registration_deadline": "Mon, Oct 5, 2026",
    "vote_by_mail_request_deadline": "Thu, Oct 22, 2026 (5 p.m.)",
-   "early_voting_dates": "At least Sat Oct 24 – Sat Oct 31, 9 a.m.–6 p.m. (county may add Oct 19–23 and Nov 1; confirm at elections.sumtercountyfl.gov)"
-  }
+   "early_voting_dates": "Sat Oct 24 – Sat Oct 31, 10 a.m.–6 p.m., at any of seven sites"
+  },
+  "county_referendums_note": "Sumter ballots also carry two county questions: No. 1, renewal of the 5th and 6th cent local option fuel tax, and No. 2, a 2% tourist development tax. See the Amendments page."
  },
  "other_races": {
   "race_id": "county_commission_other",
-  "verified_ballot_note": "Compiled from search snippets of Lake & Sumter Style and ClickOrlando primary results, the Sumter Sun Times primary preview, ClickOrlando voter guides and Ballotpedia. The county's official 2026 Notice of General Election (https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27) and sample ballots could not be read, so the November ballot contents below are NOT fully verified. Second pass (Sept 2026) resolved the Group 27 judge result (Morris won circuit-wide), District 2 (Bilardello unopposed), and the list of municipal seats scheduled for Nov. 3; contested status of municipal seats and any referendum remain unverified because elections.sumtercountyfl.gov, Ballotpedia and city sites were blocked.",
+  "verified_ballot_note": "Third pass (Sept 17, 2026): everything below was checked against the Supervisor of Elections' official 2026 General Election sample ballot (a two-page PDF that shows every countywide contest plus the precinct-limited city and Village CDD contests), the Secretary of State's Notice of General Election for Sumter County (March 20, 2026, issued before qualifying), and the county's VoterFocus candidate roster, which shows each candidate's status (qualified, unopposed, withdrawn, elected, defeated). The seats listed in the notice that do not appear on the sample ballot were filled without opposition or in the August primary.",
   "races_on_ballot": [
-   {
-    "office": "Sumter County Commission, District 4",
-    "status": "On Nov. 3, 2026 ballot",
-    "note": "Republican primary winner Jeffrey A. Bogue (73.04%) vs. write-in Ethan Parks (name not printed on ballot). See county_commission_4.json.",
-    "candidates": [
-     {
-      "id": "jeffrey_bogue",
-      "name": "Jeffrey A. Bogue",
-      "party": "Republican",
-      "incumbent": true
-     },
-     {
-      "id": "ethan_parks",
-      "name": "Ethan Parks",
-      "party": "Write-in",
-      "incumbent": false
-     }
-    ],
-    "sources": [
-     {
-      "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
-      "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
-      "date": "2026-07-31"
-     },
-     {
-      "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
-      "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
-      "date": "2026-08-18"
-     },
-     {
-      "title": "Sumter 2026 Candidates - Florida Money Watch (campaign finance)",
-      "url": "https://www.floridamoneywatch.com/county.php?code=SUM",
-      "date": null
-     }
-    ]
-   },
    {
     "office": "Florida House District 52",
     "status": "On Nov. 3, 2026 ballot",
@@ -61029,6 +62787,36 @@ window.GUIDE_DATA = {
    }
   ],
   "decided_or_unopposed": [
+   {
+    "office": "Sumter County Commission, District 4",
+    "status": "Not on Nov. 3 ballot: write-in candidate withdrew; incumbent Jeffrey A. Bogue (R) elected without opposition",
+    "note": "Bogue won the Aug. 18 Republican primary with 73.04% over Michael Squier. The only general-election opponent, write-in Ethan Parks, is listed as 'Active-Withdrawn' on the county candidate roster and Bogue as 'Active-Unopposed'; the official sample ballot has no County Commission contest. The candidate profile from earlier research is kept in county_commission_4.json.",
+    "candidates": [
+     {
+      "id": "jeffrey_bogue",
+      "name": "Jeffrey A. Bogue",
+      "party": "Republican",
+      "incumbent": true
+     }
+    ],
+    "sources": [
+     {
+      "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+      "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+      "date": "2026-09"
+     },
+     {
+      "title": "Sumter County candidate reports (VoterFocus campaign-finance system used by the Supervisor of Elections; shows candidate status)",
+      "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sumter",
+      "date": "2026-09"
+     },
+     {
+      "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+      "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+      "date": "2026-08-18"
+     }
+    ]
+   },
    {
     "office": "Sumter County School Board, Districts 1, 3 and 5 (nonpartisan)",
     "status": "Decided Aug. 18, 2026 primary (each winner exceeded 50%; no November runoff)",
@@ -61099,9 +62887,19 @@ window.GUIDE_DATA = {
    },
    {
     "office": "Sumter County Commission, District 2",
-    "status": "Not on Nov. 3 ballot: incumbent elected without opposition (per SOE candidate list snippet; official notice not readable)",
-    "note": "The Sumter County Supervisor of Elections candidate list (updated Aug. 8, 2026) shows the District 2 Board of County Commissioners race as unopposed with a Republican candidate; search snippets and the county's official site identify the District 2 commissioner as Andrew \"Andy\" Bilardello, board Vice Chairman, who has a 2026 campaign-finance account on file. Under Florida law an unopposed candidate is deemed elected at qualifying and does not appear on the ballot. The unopposed status was read only from search snippets of the SOE page; the official Notice of General Election could not be opened.",
+    "status": "Not on Nov. 3 ballot: Andrew 'Andy' Bilardello (R) elected without opposition",
+    "note": "The county's VoterFocus candidate roster lists Bilardello as 'Active-Unopposed' and the official sample ballot has no District 2 contest.",
     "sources": [
+     {
+      "title": "Sumter County candidate reports (VoterFocus campaign-finance system used by the Supervisor of Elections; shows candidate status)",
+      "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sumter",
+      "date": "2026-09"
+     },
+     {
+      "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+      "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+      "date": "2026-09"
+     },
      {
       "title": "Candidates - Sumter County Elections (list updated Aug. 8, 2026)",
       "url": "https://elections.sumtercountyfl.gov/183/Candidates",
@@ -61154,9 +62952,19 @@ window.GUIDE_DATA = {
    },
    {
     "office": "Sumter County constitutional offices (Sheriff, Clerk, Property Appraiser, Tax Collector, Supervisor of Elections)",
-    "status": "Not on the 2026 ballot (UNVERIFIED for Sumter specifically)",
+    "status": "Not on the 2026 ballot (confirmed: none appear in the Notice of General Election or on the sample ballot)",
     "note": "Florida county constitutional officers serve four-year terms elected in presidential-election years (last elected 2024, next 2028). No 2026 Sumter constitutional-office contest appeared in any search result.",
     "sources": [
+     {
+      "title": "Notice of General Election, Sumter County (Florida Secretary of State, March 20, 2026)",
+      "url": "https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf",
+      "date": "2026-03-20"
+     },
+     {
+      "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+      "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+      "date": "2026-09"
+     },
      {
       "title": "Candidates - Sumter County Elections",
       "url": "https://elections.sumtercountyfl.gov/183/Candidates",
@@ -61166,70 +62974,6 @@ window.GUIDE_DATA = {
       "title": "Sumter County, Florida, elections, 2026 - Ballotpedia",
       "url": "https://ballotpedia.org/Sumter_County,_Florida,_elections,_2026",
       "date": null
-     }
-    ]
-   },
-   {
-    "office": "Municipal elections (Wildwood, Bushnell, Coleman, Webster, Center Hill)",
-    "status": "Municipal seats scheduled for the Nov. 3, 2026 ballot (per SOE 'Seats up for Election'); which seats are contested vs. unopposed is UNVERIFIED",
-    "note": "The Sumter County Supervisor of Elections lists these city seats up in 2026 (qualifying June 8-12, 2026): Bushnell - Mayor (Seat 1), Seats 3 and 5; Center Hill - Seats 1, 3 and 5; Coleman - Mayor and Seats 2 and 4; Webster - Commissioner Seats 1, 3 and 5; Wildwood - Mayor-Commissioner Seat 1 and Commissioner Seats 2 and 4. In Wildwood the seats up are held by Mayor-Commissioner Ed Wolf (Seat 1), appointed Commissioner David Fountaine (Seat 2) and Commissioner Marcos Flores (Seat 4), all with terms expiring December 2026; Villages-News reported in March 2026 that Wolf filed paperwork to seek an 11th term. Whether Bushnell, Center Hill, Coleman, Webster or Wildwood seats drew opposition (or were filled without opposition at qualifying) could not be verified because the SOE Candidates page and city sites were blocked.",
-    "sources": [
-     {
-      "title": "Seats up for Election - Sumter County Elections",
-      "url": "https://elections.sumtercountyfl.gov/160/Seats-up-for-Election",
-      "date": null
-     },
-     {
-      "title": "Cities - Sumter County Elections",
-      "url": "https://elections.sumtercountyfl.gov/165/Cities",
-      "date": null
-     },
-     {
-      "title": "Candidates - Sumter County Elections (list updated Aug. 8, 2026)",
-      "url": "https://elections.sumtercountyfl.gov/183/Candidates",
-      "date": "2026-08-08"
-     },
-     {
-      "title": "City Commission - City of Wildwood, FL",
-      "url": "https://www.wildwood-fl.gov/205/City-Commission",
-      "date": null
-     },
-     {
-      "title": "Wildwood Mayor Ed Wolf changes mind and decides to seek another term - Villages-News.com",
-      "url": "https://www.villages-news.com/2026/03/23/wildwood-mayor-ed-wolf-changes-mind-and-decides-to-seek-another-term/",
-      "date": "2026-03-23"
-     },
-     {
-      "title": "Primary election coming up - Sumter Sun Times",
-      "url": "https://www.midfloridanewspapers.com/sumter_sun_times/primary-election-coming-up/article_e03a68ea-ce42-40af-8422-ce3cc530a15e.html",
-      "date": "2026-08"
-     },
-     {
-      "title": "2026 Election Information - Sumter County Elections",
-      "url": "https://elections.sumtercountyfl.gov/163/2026-Election-Information",
-      "date": null
-     }
-    ]
-   },
-   {
-    "office": "County or local referendum questions",
-    "status": "None found (UNVERIFIED)",
-    "note": "No Sumter County or municipal referendum for Nov. 3, 2026 appeared in any search result across two research passes; the Notice of General Election could not be read. Statewide constitutional amendments (including Amendment 3, the homestead property-tax amendment placed by HJR 1-F in June 2026) will appear on Sumter ballots but are state, not county, questions.",
-    "sources": [
-     {
-      "title": "2026 Notice of General Election - Sumter County Elections",
-      "url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27",
-      "date": "2026"
-     },
-     {
-      "title": "Florida 2026 ballot measures - Ballotpedia",
-      "url": "https://ballotpedia.org/Florida_2026_ballot_measures",
-      "date": null
-     },
-     {
-      "title": "'Giving the public a voice': Legislature approves putting homestead property tax amendment on ballot - Florida Politics",
-      "url": "https://floridapolitics.com/archives/799592-homestead-property-tax/",
-      "date": "2026-06-02"
      }
     ]
    },
@@ -61252,6 +62996,21 @@ window.GUIDE_DATA = {
    }
   ],
   "sources": [
+   {
+    "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+    "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+    "date": "2026-09"
+   },
+   {
+    "title": "Notice of General Election, Sumter County (Florida Secretary of State, March 20, 2026)",
+    "url": "https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf",
+    "date": "2026-03-20"
+   },
+   {
+    "title": "Sumter County candidate reports (VoterFocus campaign-finance system used by the Supervisor of Elections; shows candidate status)",
+    "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sumter",
+    "date": "2026-09"
+   },
    {
     "title": "2026 Notice of General Election - Sumter County Elections",
     "url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27",
@@ -61361,6 +63120,183 @@ window.GUIDE_DATA = {
     "title": "Wildwood Mayor Ed Wolf changes mind and decides to seek another term - Villages-News.com",
     "url": "https://www.villages-news.com/2026/03/23/wildwood-mayor-ed-wolf-changes-mind-and-decides-to-seek-another-term/",
     "date": "2026-03-23"
+   }
+  ],
+  "municipal_and_district_races": {
+   "note": "These contests appear only on ballots in the precincts listed; the sample ballot marks each as 'race only for' those precincts. All are nonpartisan. Candidate names are copied from the sample ballot; this guide has not researched their positions.",
+   "races": [
+    {
+     "office": "City of Bushnell - Mayor, Seat 1",
+     "precincts": "118.2, 118.3, 118.6, 118.8, 118.9, 120.2, 132.2, 132.7, 132.8",
+     "candidates": [
+      "Dale Barnes",
+      "Erica Miller"
+     ],
+     "sources": [
+      {
+       "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+       "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "office": "City of Center Hill - Council, Seat 3",
+     "precincts": "119.3, 119.8",
+     "candidates": [
+      "Don M. Buckner Sr.",
+      "Daniel Shimasaki"
+     ],
+     "sources": [
+      {
+       "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+       "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "office": "Village Community Development District 2 - Seat 1",
+     "precincts": "101.3, 102.4, 125.3",
+     "candidates": [
+      "Frank Shallis",
+      "Tom Swiers"
+     ],
+     "sources": [
+      {
+       "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+       "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "office": "Village Community Development District 2 - Seat 2",
+     "precincts": "101.3, 102.4, 125.3",
+     "candidates": [
+      "James \"Jim\" Cipollone",
+      "David Stem"
+     ],
+     "sources": [
+      {
+       "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+       "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "office": "Village Community Development District 2 - Seat 3",
+     "precincts": "101.3, 102.4, 125.3",
+     "candidates": [
+      "James \"Jim\" Conti",
+      "Harold \"Coach Hal\" Whiting"
+     ],
+     "sources": [
+      {
+       "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+       "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "office": "Village Community Development District 13 - Seat 4",
+     "precincts": "116.12, 117.12, 122.8, 122.9, 124.4",
+     "candidates": [
+      "Kenneth Ivins",
+      "Chuck Krouse"
+     ],
+     "sources": [
+      {
+       "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+       "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ],
+   "uncontested_note": "The Notice of General Election also listed seats for Beaumont CDD, North Sumter County Utility Dependent District, Village CDDs 1, 3, 5-10 and 12, the Villages Public Safety Department Dependent District and the Wildwood Utility Dependent District, plus Wildwood, Coleman and Webster city seats; none appear on the sample ballot, so they were filled without opposition (the county roster marks most as 'Unopposed').",
+   "sources": [
+    {
+     "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+     "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+     "date": "2026-09"
+    },
+    {
+     "title": "Notice of General Election, Sumter County (Florida Secretary of State, March 20, 2026)",
+     "url": "https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf",
+     "date": "2026-03-20"
+    },
+    {
+     "title": "Sumter County candidate reports (VoterFocus campaign-finance system used by the Supervisor of Elections; shows candidate status)",
+     "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sumter",
+     "date": "2026-09"
+    }
+   ]
+  },
+  "county_referendums": [
+   {
+    "number": 1,
+    "title": "Renewal of the 5th and 6th Cent Local Option Fuel Tax",
+    "ballot_question": "Sumter County currently levies a 5th and 6th cent local option fuel tax generating an estimated $2,648,888 in annual revenue to fund road maintenance, road construction, and other transportation infrastructure. Fuel taxes are proportionately shared, based on population, with cities within the county. Shall Sumter County continue to levy a 5th and 6th cent tax per gallon on motor fuel sold within the county, for a period up to 30 years beginning January 1, 2028?",
+    "choices": "Yes / No",
+    "what_yes_means": "A YES vote continues the existing two cents per gallon (the '5th and 6th cent') of local option fuel tax on gasoline and diesel sold in Sumter County for up to 30 more years, through 2057, after the current levy expires Dec. 31, 2027. The county says the tax raised slightly over $2 million in 2024 and is dedicated to road resurfacing, construction, bridge work and pavement markings, with about 89% retained by the county and the rest shared with cities by population.",
+    "what_no_means": "A NO vote lets the two-cent levy expire on Dec. 31, 2027, reducing the local fuel tax from eight cents to six cents per gallon and removing roughly $2-2.6 million a year that the county now spends on roads; the county would have to fund those projects from other sources or reduce them.",
+    "background": "Sumter County adopted the levy by ordinance in March 2008 and extended it in 2020 through 2027. Florida law requires voter approval to continue the 5th and 6th cent tax beyond its expiration, and the County Commission voted to place the renewal on the Nov. 3, 2026 ballot. The county launched a 'Your Fuel Taxes At Work' information campaign; County Administrator Bradley Arnold said 'a dependable transportation network is essential to emergency response, commerce, and daily life.' No organized opposition was found in the sources reviewed.",
+    "sources": [
+     {
+      "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+      "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+      "date": "2026-09"
+     },
+     {
+      "title": "Local Fuel Taxes - Sumter County official website",
+      "url": "https://www.sumtercountyfl.gov/1476/Local-Fuel-Taxes",
+      "date": "2026"
+     },
+     {
+      "title": "Fuel Tax FAQs - Sumter County official website",
+      "url": "https://sumtercountyfl.gov/m/faq?cat=66",
+      "date": "2026"
+     },
+     {
+      "title": "Sumter County voters to decide future of fuel tax later this year - Villages-News.com",
+      "url": "https://www.villages-news.com/2026/01/27/sumter-county-voters-to-decide-future-of-fuel-tax-this-year/",
+      "date": "2026-01-27"
+     },
+     {
+      "title": "Sumter County advocates for fuel tax to fund road projects - Spectrum News 13",
+      "url": "https://mynews13.com/fl/orlando/news/2026/02/09/sumter-county-fuel-tax-initiative-",
+      "date": "2026-02-09"
+     }
+    ]
+   },
+   {
+    "number": 2,
+    "title": "Tourist Development Tax Ordinance",
+    "ballot_question": "The levy and imposition of a 2% tourist development tax as set forth in Sumter County Ordinance 26-08 is subject to approval by the electors of Sumter County in a referendum election which is hereby scheduled for the General Election of 2026 which is to be held on November 3, 2026.",
+    "choices": "FOR the Tourist Development Tax / AGAINST the Tourist Development Tax",
+    "what_yes_means": "A vote FOR approves a 2% tax on short-term lodging (hotels, motels, campgrounds, vacation rentals and similar stays of six months or less) in Sumter County under Ordinance 26-08. Villages-News reported the tax is expected to raise about $1 million a year, to be spent on tourism-related purposes allowed by state law such as fairgrounds improvements and entertainment at The Villages town squares, with a Tourist Development Council advising the county.",
+    "what_no_means": "A vote AGAINST means no tourist development tax is levied; Sumter County would remain without a 'bed tax' (the commission suspended its earlier levy in October 2020).",
+    "background": "In May 2026 the County Commission approved an ordinance creating a Tourist Development Council as the first step toward reviving the tax and set the referendum for Nov. 3. Commissioner Deb Butterfield supported it, saying tourists rather than residents pay it and 'we're leaving precious money on the table'; Chairman Don Wiley voted for the ordinance but said it 'puts an additional tax burden on our businesses' and questioned whether short-term rentals in The Villages would comply. Renters of homes for six months or less would also pay the tax.",
+    "sources": [
+     {
+      "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+      "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+      "date": "2026-09"
+     },
+     {
+      "title": "Sumter County takes step toward reviving tourism tax - Villages-News.com",
+      "url": "https://www.villages-news.com/2026/05/13/sumter-county-takes-step-toward-reviving-tourism-tax/",
+      "date": "2026-05-13"
+     },
+     {
+      "title": "May 12, 2026 regular meeting minutes, Sumter County Board of County Commissioners",
+      "url": "https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/28650?fileID=71398",
+      "date": "2026-05-12"
+     }
+    ]
    }
   ]
  },

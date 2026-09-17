@@ -1,6 +1,6 @@
 {
   "race_id": "cfo",
-  "verified_ballot_note": "Primary results (News4Jax, FOX49, Florida Phoenix, WUWF) show Republican Blaise Ingoglia and Democrat Annette Taddeo as the Nov. 3 general-election nominees; no NPA or write-in candidates appeared in any source, but the Florida Division of Elections candidate list and Ballotpedia were blocked in this sandbox, so that is unverified. Sources: https://www.news4jax.com/vote-2026/2026/08/17/vote-2026-primary-election-results-for-floridas-chief-financial-officer-agriculture-commissioner-on-aug-18-2026/ ; https://fox49.tv/news/local/blaise-ingoglia-annette-taddeo-win-florida-chief-financial-officer-primaries",
+  "verified_ballot_note": "Third pass (Sept 17, 2026): verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot, which lists Blaise Ingoglia (REP) and Annette Taddeo (DEM) for Chief Financial Officer with no other candidates and no write-in line. Sources: https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot ; https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf",
   "candidates": [
     {
       "id": "blaise_ingoglia",
@@ -35,6 +35,16 @@
               "title": "What to know about Florida DOGE audits (WUSF)",
               "url": "https://www.wusf.org/the-florida-roundup/2025-08-25/florida-cfo-blaise-ingoglia-doge-audits-wasteful-spending-undeniable",
               "date": "2025-08-25"
+            },
+            {
+              "title": "Florida CFO Blaise Ingoglia launches 2026 campaign with $2 million insurance crackdown, property tax pledge - WTXL",
+              "url": "https://www.wtxl.com/news/capitol-news/florida-cfo-blaise-ingoglia-launches-2026-campaign-with-2-million-insurance-crackdown-property-tax-pledge",
+              "date": "2025-09"
+            },
+            {
+              "title": "Blaise Ingoglia campaign website (home page)",
+              "url": "https://blaiseforflorida.com/",
+              "date": "2026"
             }
           ]
         },
@@ -63,6 +73,26 @@
               "title": "Calling himself 'unapologetically conservative,' Blaise Ingoglia kicks off his campaign for CFO (Florida Phoenix)",
               "url": "https://floridaphoenix.com/2025/09/23/calling-himself-unapologetically-conservative-blaise-ingoglia-kicks-off-his-campaign-for-cfo/",
               "date": "2025-09-23"
+            },
+            {
+              "title": "Florida CFO Blaise Ingoglia launches 2026 campaign with $2 million insurance crackdown, property tax pledge - WTXL",
+              "url": "https://www.wtxl.com/news/capitol-news/florida-cfo-blaise-ingoglia-launches-2026-campaign-with-2-million-insurance-crackdown-property-tax-pledge",
+              "date": "2025-09"
+            },
+            {
+              "title": "Florida CFO Blaise Ingoglia launches 2026 campaign with $2M insurance crackdown, property tax pledge - WFLX",
+              "url": "https://www.wflx.com/2025/09/02/florida-cfo-blaise-ingoglia-launches-2026-campaign-with-2m-insurance-crackdown-property-tax-pledge/",
+              "date": "2025-09-02"
+            },
+            {
+              "title": "CFO says Florida voters shouldn't believe 'big government apologists' hype on property tax - Orlando Weekly",
+              "url": "https://www.orlandoweekly.com/news/florida-news/cfo-says-florida-voters-shouldnt-believe-big-government-apologists-hype-on-property-tax/",
+              "date": "2026-06-03"
+            },
+            {
+              "title": "Ingoglia defends property tax plan - Citrus County Chronicle",
+              "url": "https://www.chronicleonline.com/news/local/ingoglia-defends-property-tax-plan/article_f6a60175-ec76-5c6a-b12f-11b61d00cc75.html",
+              "date": "2026-06-04"
             }
           ]
         },
@@ -86,6 +116,16 @@
               "title": "Florida CFO Blaise Ingoglia pushes for tax reform and lower insurance rates (WTXL)",
               "url": "https://www.wtxl.com/news/local-news/in-your-neighborhood/south-tallahassee/florida-cfo-blaise-ingoglia-calls-for-tax-reform-and-lower-insurance-rates",
               "date": null
+            },
+            {
+              "title": "Florida CFO Blaise Ingoglia launches 2026 campaign with $2 million insurance crackdown, property tax pledge - WTXL",
+              "url": "https://www.wtxl.com/news/capitol-news/florida-cfo-blaise-ingoglia-launches-2026-campaign-with-2-million-insurance-crackdown-property-tax-pledge",
+              "date": "2025-09"
+            },
+            {
+              "title": "Blaise Ingoglia campaign website (home page)",
+              "url": "https://blaiseforflorida.com/",
+              "date": "2026"
             }
           ]
         },
@@ -97,25 +137,88 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "As a state senator Ingoglia voted for SB 2-C (Feb. 2025), the special-session law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention; his campaign site says he 'passed nation's toughest anti-illegal immigration law.'",
+          "quote": "Passed nation's toughest anti-illegal immigration law",
+          "sources": [
+            {
+              "title": "SB 2-C (2025 Special Session C) Immigration - Senate roll call, Feb. 13, 2025 (27-10)",
+              "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "SB 2-C (2025C) Immigration bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+              "date": "2025"
+            },
+            {
+              "title": "Blaise Ingoglia campaign website (home page)",
+              "url": "https://blaiseforflorida.com/",
+              "date": "2026"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for SB 300 (2023), which limits most abortions to six weeks, and for HB 5 (2022), the earlier 15-week limit, while serving in the Legislature.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "SB 300 (2023) 'Heartbeat Protection Act' (six-week abortion limit) - Senate roll call, April 3, 2023 (26-13)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+              "date": "2023-04-03"
+            },
+            {
+              "title": "SB 300 (2023) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+              "date": "2023"
+            },
+            {
+              "title": "CS/HB 5 (2022) - House roll call, Feb. 17, 2022 (78-39)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF",
+              "date": "2022-02-17"
+            },
+            {
+              "title": "CS/HB 5 (2022) 'Reducing Fetal and Infant Mortality' bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5",
+              "date": "2022"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for HB 543 (2023), which allows carrying a concealed firearm without a permit, and in 2018 voted against SB 7026, the post-Parkland law that created the red-flag process and the 21-and-over purchase rule. His 2026 campaign ad says 'I own guns.'",
+          "quote": "I own guns.",
+          "sources": [
+            {
+              "title": "CS/HB 543 (2023) permitless concealed carry - Senate roll call, March 30, 2023 (27-13)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+              "date": "2023-03-30"
+            },
+            {
+              "title": "CS/HB 543 (2023) Public Safety (carrying a concealed weapon without a license) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+              "date": "2023"
+            },
+            {
+              "title": "CS/SB 7026 (2018) - House roll call, March 7, 2018 (67-50)",
+              "url": "https://www.flsenate.gov/Session/Bill/2018/7026/Vote/HouseVote_s07026e2859.PDF",
+              "date": "2018-03-07"
+            },
+            {
+              "title": "CS/SB 7026 (2018) bill page - The Florida Senate",
+              "url": "https://www.flsenate.gov/Session/Bill/2018/7026",
+              "date": "2018"
+            },
+            {
+              "title": "Blaise Ingoglia releases politically incorrect campaign ad in CFO bid - The Floridian",
+              "url": "https://floridianpress.com/2026/07/blaise-ingoglia-releases-politically-incorrect-campaign-ad-in-cfo-bid/",
+              "date": "2026-07-30"
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -132,11 +235,22 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for HB 1 (2023), which made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CS/CS/CS/CS/HB 1 (2023) universal school-choice scholarships - Senate roll call, March 23, 2023 (26-12)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF",
+              "date": "2023-03-23"
+            },
+            {
+              "title": "HB 1 (2023) Education bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+              "date": "2023"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -160,25 +274,73 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for SB 90 (2021), which added identification requirements for mail-ballot requests, limited drop-box hours and required mail-ballot requests to be renewed each election cycle; his campaign site says he 'strengthened voter ID and election integrity laws.'",
+          "quote": "Strengthened voter ID and election integrity laws",
+          "sources": [
+            {
+              "title": "CS/CS/CS/SB 90 (2021) Elections - House roll call, April 29, 2021 (77-40)",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF",
+              "date": "2021-04-29"
+            },
+            {
+              "title": "CS/CS/CS/SB 90 (2021) Elections bill page (vote-by-mail requests, drop-box rules, ID for mail-ballot requests)",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90",
+              "date": "2021"
+            },
+            {
+              "title": "Blaise Ingoglia campaign website (home page)",
+              "url": "https://blaiseforflorida.com/",
+              "date": "2026"
+            }
+          ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Ingoglia lists 'standing up for first responders' as a campaign priority and argues local governments should fund police and fire first; he has not proposed specific sentencing changes as CFO.",
+          "quote": "The very first things that they should be funding are fire and police.",
+          "sources": [
+            {
+              "title": "Blaise Ingoglia campaign website (home page)",
+              "url": "https://blaiseforflorida.com/",
+              "date": "2026"
+            },
+            {
+              "title": "Florida CFO Blaise Ingoglia launches 2026 campaign with $2 million insurance crackdown, property tax pledge - WTXL",
+              "url": "https://www.wtxl.com/news/capitol-news/florida-cfo-blaise-ingoglia-launches-2026-campaign-with-2-million-insurance-crackdown-property-tax-pledge",
+              "date": "2025-09"
+            },
+            {
+              "title": "CFO says Florida voters shouldn't believe 'big government apologists' hype on property tax - Orlando Weekly",
+              "url": "https://www.orlandoweekly.com/news/florida-news/cfo-says-florida-voters-shouldnt-believe-big-government-apologists-hype-on-property-tax/",
+              "date": "2026-06-03"
+            }
+          ]
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for SB 254 (2023), which bars gender-affirming medical treatment for minors and restricts it for adults, and his campaign says he 'led efforts to protect ... parental rights.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CS/SB 254 (2023) Treatments for Sex Reassignment - Senate roll call, May 4, 2023 (26-13)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+              "date": "2023-05-04"
+            },
+            {
+              "title": "CS/SB 254 (2023) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+              "date": "2023"
+            },
+            {
+              "title": "Blaise Ingoglia campaign website (home page)",
+              "url": "https://blaiseforflorida.com/",
+              "date": "2026"
+            }
+          ]
         },
         "energy": {
           "stance": null,
@@ -296,6 +458,27 @@
               "date": null
             }
           ]
+        },
+        {
+          "title": "Local government spending audits (FAFO)",
+          "summary": "Says his Florida Agency for Fiscal Oversight audits found billions in 'excessive and wasteful' local spending and that local general-fund budgets grew 60-120% after the pandemic, so counties and cities can absorb property-tax cuts without cutting police and fire.",
+          "sources": [
+            {
+              "title": "CFO says Florida voters shouldn't believe 'big government apologists' hype on property tax - Orlando Weekly",
+              "url": "https://www.orlandoweekly.com/news/florida-news/cfo-says-florida-voters-shouldnt-believe-big-government-apologists-hype-on-property-tax/",
+              "date": "2026-06-03"
+            },
+            {
+              "title": "Ingoglia defends property tax plan - Citrus County Chronicle",
+              "url": "https://www.chronicleonline.com/news/local/ingoglia-defends-property-tax-plan/article_f6a60175-ec76-5c6a-b12f-11b61d00cc75.html",
+              "date": "2026-06-04"
+            },
+            {
+              "title": "Blaise Ingoglia releases politically incorrect campaign ad in CFO bid - The Floridian",
+              "url": "https://floridianpress.com/2026/07/blaise-ingoglia-releases-politically-incorrect-campaign-ad-in-cfo-bid/",
+              "date": "2026-07-30"
+            }
+          ]
         }
       ],
       "record": [
@@ -368,6 +551,76 @@
               "date": "2026-01"
             }
           ]
+        },
+        {
+          "item": "Legislative votes: for SB 2-C immigration enforcement (2025), SB 300 six-week abortion limit (2023), HB 543 permitless carry (2023), HB 1 universal school choice (2023), SB 254 gender-affirming care restrictions (2023), HB 5 15-week abortion limit (2022) and SB 90 election changes (2021); against SB 7026, the 2018 Parkland gun and school-safety law.",
+          "sources": [
+            {
+              "title": "SB 2-C (2025 Special Session C) Immigration - Senate roll call, Feb. 13, 2025 (27-10)",
+              "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "SB 300 (2023) 'Heartbeat Protection Act' (six-week abortion limit) - Senate roll call, April 3, 2023 (26-13)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+              "date": "2023-04-03"
+            },
+            {
+              "title": "CS/HB 543 (2023) permitless concealed carry - Senate roll call, March 30, 2023 (27-13)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+              "date": "2023-03-30"
+            },
+            {
+              "title": "CS/CS/CS/CS/HB 1 (2023) universal school-choice scholarships - Senate roll call, March 23, 2023 (26-12)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF",
+              "date": "2023-03-23"
+            },
+            {
+              "title": "CS/SB 254 (2023) Treatments for Sex Reassignment - Senate roll call, May 4, 2023 (26-13)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+              "date": "2023-05-04"
+            },
+            {
+              "title": "CS/HB 5 (2022) - House roll call, Feb. 17, 2022 (78-39)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF",
+              "date": "2022-02-17"
+            },
+            {
+              "title": "CS/CS/CS/SB 90 (2021) Elections - House roll call, April 29, 2021 (77-40)",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF",
+              "date": "2021-04-29"
+            },
+            {
+              "title": "CS/SB 7026 (2018) - House roll call, March 7, 2018 (67-50)",
+              "url": "https://www.flsenate.gov/Session/Bill/2018/7026/Vote/HouseVote_s07026e2859.PDF",
+              "date": "2018-03-07"
+            }
+          ]
+        },
+        {
+          "item": "Announced $2 million in fines against eight insurers for post-hurricane claims handling when launching his campaign (Sept. 2025), calling it 'just the tip of the iceberg.'",
+          "sources": [
+            {
+              "title": "Florida CFO Blaise Ingoglia launches 2026 campaign with $2 million insurance crackdown, property tax pledge - WTXL",
+              "url": "https://www.wtxl.com/news/capitol-news/florida-cfo-blaise-ingoglia-launches-2026-campaign-with-2-million-insurance-crackdown-property-tax-pledge",
+              "date": "2025-09"
+            },
+            {
+              "title": "Florida CFO Blaise Ingoglia launches 2026 campaign with $2M insurance crackdown, property tax pledge - WFLX",
+              "url": "https://www.wflx.com/2025/09/02/florida-cfo-blaise-ingoglia-launches-2026-campaign-with-2m-insurance-crackdown-property-tax-pledge/",
+              "date": "2025-09-02"
+            }
+          ]
+        },
+        {
+          "item": "Campaign finance through July 27, 2026 (per Sparker's Soapbox compilation of state filings): about $1.19 million raised directly plus $664,000 in-kind; affiliated committees Friends of Blaise Ingoglia ($6.0 million since 2021) and Government Gone Wild ($3.0 million since 2017).",
+          "sources": [
+            {
+              "title": "Florida Chief Financial Officer Candidates 2026 - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-chief-financial-officer-candidates-2026/",
+              "date": "2026-08"
+            }
+          ]
         }
       ],
       "endorsements": [
@@ -420,6 +673,26 @@
               "date": null
             }
           ]
+        },
+        {
+          "by": "Florida Professional Firefighters, Florida Fraternal Order of Police and Florida Police Benevolent Association (per campaign site, compiled by Sparker's Soapbox)",
+          "sources": [
+            {
+              "title": "Florida Chief Financial Officer Candidates 2026 - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-chief-financial-officer-candidates-2026/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "by": "Former CFO Jeff Atwater; U.S. Sen. Ashley Moody",
+          "sources": [
+            {
+              "title": "Florida Chief Financial Officer Candidates 2026 - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-chief-financial-officer-candidates-2026/",
+              "date": "2026-08"
+            }
+          ]
         }
       ]
     },
@@ -470,7 +743,7 @@
           "stance": 1,
           "confidence": "stated",
           "summary": "Taddeo says the property-insurance crisis is a main reason she entered the race and argues state leaders have failed to adequately regulate the industry, with homeowners paying through rising premiums and market instability. She calls for stronger CFO oversight and accountability of insurers, especially when policyholders struggle to collect after storms. No specific proposal on rate caps or expanding Citizens was found.",
-          "quote": null,
+          "quote": "Florida's families are being robbed in plain sight.",
           "sources": [
             {
               "title": "Annette Taddeo says she's running for Florida CFO to hold insurance companies accountable (CBS Miami)",
@@ -486,6 +759,21 @@
               "title": "Former state Sen. Annette Taddeo joins Florida CFO race, questions property tax plan and state spending (WPTV)",
               "url": "https://www.wptv.com/news/state/former-state-sen-annette-taddeo-joins-florida-cfo-race-questions-property-tax-plan-and-state-spending",
               "date": "2026-06"
+            },
+            {
+              "title": "Former state Sen. Annette Taddeo joins Florida CFO race, questions property tax plan and state spending - WFLX",
+              "url": "https://www.wflx.com/2026/06/09/former-state-sen-annette-taddeo-joins-florida-cfo-race-questions-property-tax-plan-state-spending/",
+              "date": "2026-06-09"
+            },
+            {
+              "title": "Get to know the 2026 Florida candidates for Agriculture Commissioner and Chief Financial Officer - WMNF",
+              "url": "https://www.wmnf.org/2026-florida-candidates-agriculture-commissioner-chief-financial-officer/",
+              "date": "2026-08-04"
+            },
+            {
+              "title": "Florida Chief Financial Officer Candidates 2026 - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-chief-financial-officer-candidates-2026/",
+              "date": "2026-08"
             }
           ]
         },
@@ -508,18 +796,50 @@
           ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted against SB 168 (2019), which banned 'sanctuary' policies and required local agencies to support federal immigration enforcement. She has not campaigned on immigration in the CFO race.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CS/CS/CS/SB 168 (2019) Federal Immigration Enforcement (sanctuary-policy ban) - Senate roll call, May 2, 2019 (22-18)",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/168/Vote/SenateVote_s00168e1008.PDF",
+              "date": "2019-05-02"
+            },
+            {
+              "title": "CS/CS/CS/SB 168 (2019) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/168",
+              "date": "2019"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "As a state senator Taddeo voted against HB 5 (2022), the 15-week abortion limit, and against SB 404 (2020), which requires parental consent for a minor's abortion. She left the Senate before the 2023 six-week law.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CS/HB 5 (2022) 15-week abortion limit - Senate roll call, March 3, 2022 (23-15)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF",
+              "date": "2022-03-03"
+            },
+            {
+              "title": "CS/HB 5 (2022) 'Reducing Fetal and Infant Mortality' bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5",
+              "date": "2022"
+            },
+            {
+              "title": "CS/CS/SB 404 (2020) Abortion (parental consent for minors) - Senate roll call, Feb. 6, 2020 (23-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2020/404/Vote/SenateVote_s00404e1002.PDF",
+              "date": "2020-02-06"
+            },
+            {
+              "title": "CS/CS/SB 404 (2020) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2020/404",
+              "date": "2020"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -571,11 +891,32 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted against SB 90 (2021), which tightened vote-by-mail and drop-box rules, and against SB 7066 (2019), which required people with felony convictions to pay fines and fees before regaining the vote under Amendment 4.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CS/CS/CS/SB 90 (2021) Elections - Senate roll call, April 29, 2021 (23-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF",
+              "date": "2021-04-29"
+            },
+            {
+              "title": "CS/CS/CS/SB 90 (2021) Elections bill page (vote-by-mail requests, drop-box rules, ID for mail-ballot requests)",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90",
+              "date": "2021"
+            },
+            {
+              "title": "CS/SB 7066 (2019) Election Administration (Amendment 4 implementation; fines/fees before voting-rights restoration) - Senate roll call, May 2, 2019 (22-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/7066/Vote/SenateVote_s07066e1031.PDF",
+              "date": "2019-05-02"
+            },
+            {
+              "title": "CS/SB 7066 (2019) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/7066",
+              "date": "2019"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -585,11 +926,22 @@
           "sources": []
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted against HB 1557 (2022), the Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CS/CS/HB 1557 (2022) Parental Rights in Education - Senate roll call, March 8, 2022 (22-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF",
+              "date": "2022-03-08"
+            },
+            {
+              "title": "CS/CS/HB 1557 (2022) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/1557",
+              "date": "2022"
+            }
+          ]
         },
         "energy": {
           "stance": null,
@@ -686,6 +1038,22 @@
               "date": "2026-06"
             }
           ]
+        },
+        {
+          "title": "Independent watchdog, not a political appointee",
+          "summary": "Says the CFO should be 'the watchdog for our money' rather than 'the lapdog for whoever is the governor,' and notes she has voted against her own party.",
+          "sources": [
+            {
+              "title": "Democrats Annette Taddeo and Earle Ford compete to face CFO Blaise Ingoglia in November - WLRN / Florida Phoenix",
+              "url": "https://www.wlrn.org/2026-07-24/democrats-annette-taddeo-and-earle-ford-compete-to-face-cfo-blaise-ingoglia-in-november",
+              "date": "2026-07-24"
+            },
+            {
+              "title": "Get to know the 2026 Florida candidates for Agriculture Commissioner and Chief Financial Officer - WMNF",
+              "url": "https://www.wmnf.org/2026-florida-candidates-agriculture-commissioner-chief-financial-officer/",
+              "date": "2026-08-04"
+            }
+          ]
         }
       ],
       "record": [
@@ -696,6 +1064,81 @@
               "title": "Democrats Annette Taddeo and Earle Ford compete to face CFO Blaise Ingoglia in November (Florida Phoenix)",
               "url": "https://floridaphoenix.com/2026/07/24/democrats-annette-taddeo-and-earle-ford-compete-to-face-cfo-blaise-ingoglia-in-november/",
               "date": null
+            }
+          ]
+        },
+        {
+          "item": "Senate votes: against HB 5 15-week abortion limit (2022), HB 1557 Parental Rights in Education (2022), SB 90 elections (2021), SB 404 parental consent (2020), SB 168 sanctuary-policy ban (2019) and SB 7066 Amendment 4 implementation (2019).",
+          "sources": [
+            {
+              "title": "CS/HB 5 (2022) 15-week abortion limit - Senate roll call, March 3, 2022 (23-15)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF",
+              "date": "2022-03-03"
+            },
+            {
+              "title": "CS/CS/HB 1557 (2022) Parental Rights in Education - Senate roll call, March 8, 2022 (22-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF",
+              "date": "2022-03-08"
+            },
+            {
+              "title": "CS/CS/CS/SB 90 (2021) Elections - Senate roll call, April 29, 2021 (23-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF",
+              "date": "2021-04-29"
+            },
+            {
+              "title": "CS/CS/SB 404 (2020) Abortion (parental consent for minors) - Senate roll call, Feb. 6, 2020 (23-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2020/404/Vote/SenateVote_s00404e1002.PDF",
+              "date": "2020-02-06"
+            },
+            {
+              "title": "CS/CS/CS/SB 168 (2019) Federal Immigration Enforcement (sanctuary-policy ban) - Senate roll call, May 2, 2019 (22-18)",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/168/Vote/SenateVote_s00168e1008.PDF",
+              "date": "2019-05-02"
+            },
+            {
+              "title": "CS/SB 7066 (2019) Election Administration (Amendment 4 implementation; fines/fees before voting-rights restoration) - Senate roll call, May 2, 2019 (22-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/7066/Vote/SenateVote_s07066e1031.PDF",
+              "date": "2019-05-02"
+            }
+          ]
+        },
+        {
+          "item": "Voted against SB 7026 (2018), the post-Parkland gun and school-safety law; the Tampa Bay Times reported that Democrats who opposed the bill objected to its program allowing armed school staff, while the bill also raised the purchase age to 21 and created the red-flag process.",
+          "sources": [
+            {
+              "title": "CS/SB 7026 (2018) Marjory Stoneman Douglas High School Public Safety Act - Senate roll call, March 5, 2018 (20-18)",
+              "url": "https://www.flsenate.gov/Session/Bill/2018/7026/Vote/SenateVote_s07026e1018.PDF",
+              "date": "2018-03-05"
+            },
+            {
+              "title": "How has your Florida senator voted on assault weapons and arming teachers so far? - Tampa Bay Times",
+              "url": "https://www.tampabay.com/florida-politics/buzz/2018/03/05/how-has-your-florida-senator-voted-on-assault-weapons-and-arming-teachers-so-far/",
+              "date": "2018-03-05"
+            }
+          ]
+        },
+        {
+          "item": "Born April 7, 1967, in Barrancabermeja, Colombia; moved to the U.S. at 17; founded the translation company LanguageSpeak in 1995; 2014 Democratic nominee for lieutenant governor with Charlie Crist; won a Florida Senate special election in 2017 and re-election in 2018; lost a 2022 congressional race and a 2024 Miami-Dade clerk race.",
+          "sources": [
+            {
+              "title": "Florida Chief Financial Officer Candidates 2026 - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-chief-financial-officer-candidates-2026/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Get to know the 2026 Florida candidates for Agriculture Commissioner and Chief Financial Officer - WMNF",
+              "url": "https://www.wmnf.org/2026-florida-candidates-agriculture-commissioner-chief-financial-officer/",
+              "date": "2026-08-04"
+            }
+          ]
+        },
+        {
+          "item": "Campaign finance through July 27, 2026 (per Sparker's Soapbox compilation of state filings): about $46,000 raised from 192 donors plus a $6,000 personal loan; Friends of Annette Taddeo committee $30,500.",
+          "sources": [
+            {
+              "title": "Florida Chief Financial Officer Candidates 2026 - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-chief-financial-officer-candidates-2026/",
+              "date": "2026-08"
             }
           ]
         }
@@ -753,6 +1196,26 @@
               "title": "Endorsements - Annette Taddeo for Chief Financial Officer (campaign site)",
               "url": "https://annettetaddeo.com/endorsements",
               "date": null
+            }
+          ]
+        },
+        {
+          "by": "SEIU Florida; former U.S. Rep. Donna Shalala; United Faculty of Miami Dade College (per Sparker's Soapbox compilation)",
+          "sources": [
+            {
+              "title": "Florida Chief Financial Officer Candidates 2026 - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-chief-financial-officer-candidates-2026/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "by": "Ruth's List Florida (recruited her to run)",
+          "sources": [
+            {
+              "title": "Democrats Annette Taddeo and Earle Ford compete to face CFO Blaise Ingoglia in November - WLRN / Florida Phoenix",
+              "url": "https://www.wlrn.org/2026-07-24/democrats-annette-taddeo-and-earle-ford-compete-to-face-cfo-blaise-ingoglia-in-november",
+              "date": "2026-07-24"
             }
           ]
         }

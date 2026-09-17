@@ -117,7 +117,9 @@
         "type": "county",
         "id": "Sumter"
       },
-      "coverage": "full"
+      "coverage": "full",
+      "on_november_ballot": false,
+      "decided_note": "The official Sumter County sample ballot has no County Commission contest: write-in candidate Ethan Parks withdrew and incumbent Jeffrey A. Bogue was elected without opposition after winning the Aug. 18 Republican primary (73.04%). Verified Sept. 17, 2026 against the sample ballot and the county candidate roster."
     }
   ]
 }

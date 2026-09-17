@@ -1,6 +1,6 @@
 {
   "race_id": "agriculture_commissioner",
-  "verified_ballot_note": "Primary results (Florida Politics, WUWF, WFLA, Florida Tribune) show Republican incumbent Wilton Simpson and Democrat Joey Mendoza Atkins as the Nov. 3 general-election nominees; no NPA or write-in candidates appeared in any source, but the Florida Division of Elections candidate list (floridaelectionwatch.gov / dos.elections.myflorida.com) and Ballotpedia were blocked in this sandbox, so that is unverified. Sources: https://floridapolitics.com/archives/814743-wilton-simpson-runs-away-with-gop-nomination-for-agriculture-commissioner-democrat-joey-mendoza-atkins-advances-to-general-election/ ; https://www.wfla.com/election/4-candidates-battle-for-agriculture-commissioner-nomination/",
+  "verified_ballot_note": "Third pass (Sept 17, 2026): verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot, which lists Wilton Simpson (REP) and Joey Mendoza Atkins (DEM) for Commissioner of Agriculture followed by a blank write-in line, meaning at least one write-in candidate qualified; write-in names are not printed on the ballot. Sources: https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot ; https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf",
   "candidates": [
     {
       "id": "wilton_simpson",
@@ -11,16 +11,27 @@
       "photo_source": "Wikimedia Commons (file name unverified; official portrait on fdacs.gov)",
       "website": "https://wiltonsimpson.com/",
       "occupation": "Florida Commissioner of Agriculture and Consumer Services; farmer/businessman",
-      "residence": "Trilby, Pasco County (unverified)",
+      "residence": "Trilby, Pasco County",
       "background": "Simpson is the incumbent Commissioner of Agriculture, first elected in 2022, and a former president of the Florida Senate. He is seeking a second term and won the Aug. 18, 2026 Republican primary with roughly 69-70% over Plant City welder and social-media personality Matt 'The Welder' Taylor. His campaign and affiliated committees raised more than $4.8 million in 2026, much of it from farmers and ranchers.",
       "primary_result": "Won Aug. 18, 2026 Republican primary with about 69% (reports range 68.9%-70.3%) over Matt The Welder (Matthew Taylor), about 31% (Florida Politics; WUWF; ECIKS).",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His campaign says he has 'fought to ensure Floridians and businesses keep more of their hard-earned money,' citing gas-tax and sales-tax holidays and cutting the business rent tax by more than half; the Tallahassee Democrat guide lists keeping Florida 'free and affordable' by limiting taxes and regulation among his top issues.",
+          "quote": "For nearly a decade, Wilton has fought to ensure Floridians and businesses keep more of their hard-earned money.",
+          "sources": [
+            {
+              "title": "Wilton Simpson campaign site - Economic Freedom",
+              "url": "https://wiltonsimpson.com/economic-freedom/",
+              "date": "2026"
+            },
+            {
+              "title": "Voter guide to Florida agriculture commissioner candidates, issues - Tallahassee Democrat (via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/voter-guide-florida-agriculture-commissioner-090358114.html",
+              "date": "2026-07-30"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -37,11 +48,22 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says he expanded the tax credit for affordable housing and called for dedicating documentary-stamp revenue to affordable housing, wastewater and sea-level-rise mitigation.",
+          "quote": "It is crucial that we modernize our documentary stamp distributions to dedicate a steady stream of funding in three key areas of infrastructure - affordable housing, wastewater, and mitigation of sea-level rise.",
+          "sources": [
+            {
+              "title": "Wilton Simpson campaign site - Economic Freedom",
+              "url": "https://wiltonsimpson.com/economic-freedom/",
+              "date": "2026"
+            },
+            {
+              "title": "Wilton Simpson campaign site - Environment",
+              "url": "https://wiltonsimpson.com/environment/",
+              "date": "2026"
+            }
+          ]
         },
         "immigration": {
           "stance": 2,
@@ -68,15 +90,46 @@
               "title": "SB 168 (2019) - Florida Senate bill page with vote history",
               "url": "https://www.flsenate.gov/Session/Bill/2019/168",
               "date": "2019-05"
+            },
+            {
+              "title": "CS/CS/CS/SB 168 (2019) Federal Immigration Enforcement (sanctuary-policy ban) - Senate roll call, May 2, 2019 (22-18)",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/168/Vote/SenateVote_s00168e1008.PDF",
+              "date": "2019-05-02"
+            },
+            {
+              "title": "Wilton Simpson campaign site - Public Safety",
+              "url": "https://wiltonsimpson.com/public-safety/",
+              "date": "2026"
             }
           ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "record",
+          "summary": "As a state senator Simpson voted for HB 5 (2022), the 15-week abortion limit, and for SB 404 (2020), which requires parental consent for a minor's abortion. He left the Legislature before the 2023 six-week law.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CS/HB 5 (2022) 15-week abortion limit - Senate roll call, March 3, 2022 (23-15)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF",
+              "date": "2022-03-03"
+            },
+            {
+              "title": "CS/HB 5 (2022) 'Reducing Fetal and Infant Mortality' bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5",
+              "date": "2022"
+            },
+            {
+              "title": "CS/CS/SB 404 (2020) Abortion (parental consent for minors) - Senate roll call, Feb. 6, 2020 (23-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2020/404/Vote/SenateVote_s00404e1002.PDF",
+              "date": "2020-02-06"
+            },
+            {
+              "title": "CS/CS/SB 404 (2020) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2020/404",
+              "date": "2020"
+            }
+          ]
         },
         "guns": {
           "stance": -1,
@@ -103,6 +156,21 @@
               "title": "Florida's Pro-2A Ag Commissioner Says Carry License Backlog Is Cleared (Bearing Arms)",
               "url": "https://bearingarms.com/camedwards/2026/05/23/floridas-pro-2a-ag-commissioner-says-carry-license-backlog-is-cleared-n1232619",
               "date": "2026-05-23"
+            },
+            {
+              "title": "CS/SB 7026 (2018) Marjory Stoneman Douglas High School Public Safety Act - Senate roll call, March 5, 2018 (20-18)",
+              "url": "https://www.flsenate.gov/Session/Bill/2018/7026/Vote/SenateVote_s07026e1018.PDF",
+              "date": "2018-03-05"
+            },
+            {
+              "title": "CS/SB 7026 (2018) bill page - The Florida Senate",
+              "url": "https://www.flsenate.gov/Session/Bill/2018/7026",
+              "date": "2018"
+            },
+            {
+              "title": "Wilton Simpson campaign site - Free Florida",
+              "url": "https://wiltonsimpson.com/free-florida/",
+              "date": "2026"
             }
           ]
         },
@@ -121,18 +189,45 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "As Senate President oversaw passage of HB 7045 (2021), which expanded state scholarship (voucher) eligibility, and his campaign says 'parents sometimes need alternatives to their assigned school.'",
+          "quote": "The pandemic has shown that parents sometimes need alternatives to their assigned school.",
+          "sources": [
+            {
+              "title": "Wilton Simpson campaign site - Families",
+              "url": "https://wiltonsimpson.com/families/",
+              "date": "2026"
+            },
+            {
+              "title": "Wilton Simpson - Wikipedia (career and positions, with citations)",
+              "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
+              "date": null
+            }
+          ]
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Emphasizes conservation of farmland and the Florida Wildlife Corridor (he cites $300 million-plus for corridor easements and a 243% increase in farmland preserved) and opposes development on agricultural land, while framing farmers as 'Florida's first environmentalists.' Wikipedia notes he supported a 2022 measure allowing utilities to charge rooftop-solar customers new fees.",
+          "quote": "Farmers are Florida's first environmentalists.",
+          "sources": [
+            {
+              "title": "Wilton Simpson campaign site - Environment",
+              "url": "https://wiltonsimpson.com/environment/",
+              "date": "2026"
+            },
+            {
+              "title": "Wilton Simpson campaign site - Agriculture",
+              "url": "https://wiltonsimpson.com/agriculture/",
+              "date": "2026"
+            },
+            {
+              "title": "Wilton Simpson - Wikipedia (career and positions, with citations)",
+              "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
+              "date": null
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -160,32 +255,86 @@
           ]
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "record",
+          "summary": "As Senate President he voted for SB 90 (2021), which added ID requirements for mail-ballot requests and limited drop boxes, and in 2019 for SB 7066, which requires payment of fines and fees before voting rights are restored under Amendment 4; his campaign site says he 'championed laws to strengthen existing voter ID laws, ban ballot harvesting, prohibit unsolicited mass mailing of ballots.'",
+          "quote": "Wilton championed laws to strengthen existing voter ID laws, ban ballot harvesting, prohibit unsolicited mass mailing of ballots.",
+          "sources": [
+            {
+              "title": "CS/CS/CS/SB 90 (2021) Elections - Senate roll call, April 29, 2021 (23-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF",
+              "date": "2021-04-29"
+            },
+            {
+              "title": "CS/CS/CS/SB 90 (2021) Elections bill page (vote-by-mail requests, drop-box rules, ID for mail-ballot requests)",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90",
+              "date": "2021"
+            },
+            {
+              "title": "CS/SB 7066 (2019) Election Administration (Amendment 4 implementation; fines/fees before voting-rights restoration) - Senate roll call, May 2, 2019 (22-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/7066/Vote/SenateVote_s07066e1031.PDF",
+              "date": "2019-05-02"
+            },
+            {
+              "title": "CS/SB 7066 (2019) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/7066",
+              "date": "2019"
+            },
+            {
+              "title": "Wilton Simpson campaign site - Free Florida",
+              "url": "https://wiltonsimpson.com/free-florida/",
+              "date": "2026"
+            }
+          ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Campaign says he strengthened penalties for protests that turn into riots and supports funding for law enforcement: 'safe communities have thriving economies, schools and businesses.'",
+          "quote": "You can't assault a police officer. You can't destroy property.",
+          "sources": [
+            {
+              "title": "Wilton Simpson campaign site - Public Safety",
+              "url": "https://wiltonsimpson.com/public-safety/",
+              "date": "2026"
+            }
+          ]
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for HB 1557 (2022), the Parental Rights in Education law, as Senate President; his campaign says 'only a parent can make religious upbringing or health decisions for a child.'",
+          "quote": "Only a parent can make religious upbringing or health decisions for a child.",
+          "sources": [
+            {
+              "title": "CS/CS/HB 1557 (2022) Parental Rights in Education - Senate roll call, March 8, 2022 (22-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF",
+              "date": "2022-03-08"
+            },
+            {
+              "title": "CS/CS/HB 1557 (2022) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/1557",
+              "date": "2022"
+            },
+            {
+              "title": "Wilton Simpson campaign site - Free Florida",
+              "url": "https://wiltonsimpson.com/free-florida/",
+              "date": "2026"
+            }
+          ]
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Wikipedia (citing 2022 coverage) reports he supported the 2022 bill allowing regulators to impose fees on rooftop-solar customers, which Gov. DeSantis vetoed; no statement found on utility-rate oversight.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Wilton Simpson - Wikipedia (career and positions, with citations)",
+              "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
+              "date": null
+            }
+          ]
         },
         "tariffs": {
           "stance": null,
@@ -329,6 +478,33 @@
               "date": "2026"
             }
           ]
+        },
+        {
+          "title": "Fluoride, cultivated meat and ESG banking",
+          "summary": "Supports outlawing synthetic 'cultivated meat,' banning local water fluoridation and barring banks from denying service to farmers over ESG policies.",
+          "sources": [
+            {
+              "title": "Get to know the 2026 Florida candidates for Agriculture Commissioner and Chief Financial Officer - WMNF",
+              "url": "https://www.wmnf.org/2026-florida-candidates-agriculture-commissioner-chief-financial-officer/",
+              "date": "2026-08-04"
+            },
+            {
+              "title": "Wilton Simpson - Wikipedia (career and positions, with citations)",
+              "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Citrus greening research and agritourism",
+          "summary": "Cites securing citrus-greening research funding in 2020 and adding agritourism to the legal definition of a farm operation in 2021.",
+          "sources": [
+            {
+              "title": "Wilton Simpson campaign site - Agriculture",
+              "url": "https://wiltonsimpson.com/agriculture/",
+              "date": "2026"
+            }
+          ]
         }
       ],
       "record": [
@@ -389,6 +565,71 @@
               "title": "Wilton Simpson drops lawsuit against FDLE over concealed carry license background checks (Florida Politics)",
               "url": "https://floridapolitics.com/archives/581096-wilton-simpson-drops-lawsuit-against-fdle-over-concealed-carry-license-background-checks/",
               "date": "2023"
+            }
+          ]
+        },
+        {
+          "item": "Senate votes: for HB 5 15-week abortion limit (2022), HB 1557 Parental Rights in Education (2022), SB 90 elections (2021), SB 404 parental consent (2020), SB 168 sanctuary-policy ban (2019), SB 7066 Amendment 4 implementation (2019) and SB 7026, the 2018 Parkland gun and school-safety law (red-flag process, 21-and-over purchase rule).",
+          "sources": [
+            {
+              "title": "CS/HB 5 (2022) 15-week abortion limit - Senate roll call, March 3, 2022 (23-15)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF",
+              "date": "2022-03-03"
+            },
+            {
+              "title": "CS/CS/HB 1557 (2022) Parental Rights in Education - Senate roll call, March 8, 2022 (22-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF",
+              "date": "2022-03-08"
+            },
+            {
+              "title": "CS/CS/CS/SB 90 (2021) Elections - Senate roll call, April 29, 2021 (23-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF",
+              "date": "2021-04-29"
+            },
+            {
+              "title": "CS/CS/SB 404 (2020) Abortion (parental consent for minors) - Senate roll call, Feb. 6, 2020 (23-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2020/404/Vote/SenateVote_s00404e1002.PDF",
+              "date": "2020-02-06"
+            },
+            {
+              "title": "CS/CS/CS/SB 168 (2019) Federal Immigration Enforcement (sanctuary-policy ban) - Senate roll call, May 2, 2019 (22-18)",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/168/Vote/SenateVote_s00168e1008.PDF",
+              "date": "2019-05-02"
+            },
+            {
+              "title": "CS/SB 7066 (2019) Election Administration (Amendment 4 implementation; fines/fees before voting-rights restoration) - Senate roll call, May 2, 2019 (22-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/7066/Vote/SenateVote_s07066e1031.PDF",
+              "date": "2019-05-02"
+            },
+            {
+              "title": "CS/SB 7026 (2018) Marjory Stoneman Douglas High School Public Safety Act - Senate roll call, March 5, 2018 (20-18)",
+              "url": "https://www.flsenate.gov/Session/Bill/2018/7026/Vote/SenateVote_s07026e1018.PDF",
+              "date": "2018-03-05"
+            }
+          ]
+        },
+        {
+          "item": "Born June 28, 1966, in Lakeland; 40-plus years in the family businesses Simpson Environmental Services and Simpson Farms (egg production); Florida Senate 2012-2022, Senate President 2020-2022; elected Commissioner of Agriculture in 2022 with 59.3%.",
+          "sources": [
+            {
+              "title": "Florida Commissioner of Agriculture Candidates 2026 - Sparker's Soapbox",
+              "url": "https://www.sparkers-soapbox.com/florida-commissioner-of-agriculture-candidates-2026/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "item": "In February 2025 backed a bill to bar local governments from adding fluoride to drinking water; in 2025 publicly disputed Gov. DeSantis over a proposal to give the agriculture commissioner immigration-enforcement powers.",
+          "sources": [
+            {
+              "title": "Wilton Simpson - Wikipedia (career and positions, with citations)",
+              "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
+              "date": null
+            },
+            {
+              "title": "Get to know the 2026 Florida candidates for Agriculture Commissioner and Chief Financial Officer - WMNF",
+              "url": "https://www.wmnf.org/2026-florida-candidates-agriculture-commissioner-chief-financial-officer/",
+              "date": "2026-08-04"
             }
           ]
         }
@@ -460,7 +701,7 @@
       "photo_source": "No public portrait URL located; campaign Instagram is @joeyforflorida (https://www.instagram.com/joeyforflorida/)",
       "website": "https://www.joeyforflorida.com/",
       "occupation": "Attorney and sports agent",
-      "residence": "Miami, Miami-Dade County",
+      "residence": "South Florida / Tampa Bay (reported as Miami by Florida Politics and as Tampa by WMNF)",
       "background": "Atkins is a Miami trial attorney and former sports agent. He earned a bachelor's degree in political science from Florida Atlantic University, a J.D. from the University of Toledo College of Law (2013) and a master's degree in environmental management, and has done policy work with the UN Global Compact. He worked at a legal-aid foundation representing migrant farmworkers and DACA recipients. He won the Aug. 18, 2026 Democratic primary with about 60% over Donald 'Don' Prichard; his campaign reported raising $1,685 and loaning itself $8,480 as of early August 2026.",
       "primary_result": "Won Aug. 18, 2026 Democratic primary with 60.3% over Donald A. 'Don' Prichard, 39.7% (Florida Politics; WUWF).",
       "positions": {
@@ -538,7 +779,7 @@
           "stance": 2,
           "confidence": "stated",
           "summary": "Atkins says he is running to 'protect and preserve Florida's natural resources' and that government needs systems that look at long-term issues such as water-table and aquifer preservation. He calls for a moratorium on data centers and a rollback of legislation that shields sugar growers from air-pollution lawsuits.",
-          "quote": null,
+          "quote": "I'm running for Florida Commissioner of Agriculture and Consumer Services to fight for Florida families.",
           "sources": [
             {
               "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
@@ -554,6 +795,11 @@
               "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner (campaign site)",
               "url": "https://www.joeyforflorida.com/",
               "date": null
+            },
+            {
+              "title": "Voter guide to Florida agriculture commissioner candidates, issues - Tallahassee Democrat (via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/voter-guide-florida-agriculture-commissioner-090358114.html",
+              "date": "2026-07-30"
             }
           ]
         },
@@ -572,6 +818,16 @@
               "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
               "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
               "date": "2026-08-10"
+            },
+            {
+              "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner - campaign website",
+              "url": "https://www.joeyforflorida.com/",
+              "date": "2026"
+            },
+            {
+              "title": "Get to know the 2026 Florida candidates for Agriculture Commissioner and Chief Financial Officer - WMNF",
+              "url": "https://www.wmnf.org/2026-florida-candidates-agriculture-commissioner-chief-financial-officer/",
+              "date": "2026-08-04"
             }
           ]
         },
@@ -693,10 +949,81 @@
               "date": "2026-08"
             }
           ]
+        },
+        {
+          "title": "Suspend the state gas tax and fight price gouging",
+          "summary": "Consumer-protection plank: 'Suspend the state gas tax,' 'Fight price gouging,' 'Increase transparency' and 'Hold bad actors accountable.'",
+          "sources": [
+            {
+              "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner - campaign website",
+              "url": "https://www.joeyforflorida.com/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Expand 'Fresh From Florida' and protect the food supply",
+          "summary": "Says he would 'Expand and Strengthen' the Fresh From Florida marketing program and 'Protect our food supply.'",
+          "sources": [
+            {
+              "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner - campaign website",
+              "url": "https://www.joeyforflorida.com/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Polluters pay and the Blue-Green Algae Task Force",
+          "summary": "Would 'Hold Polluters Directly Responsible for Cleanup' and implement the recommendations of the state's Blue-Green Algae Task Force.",
+          "sources": [
+            {
+              "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner - campaign website",
+              "url": "https://www.joeyforflorida.com/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Emergency preparedness and first responders",
+          "summary": "Lists strengthening emergency preparedness and supporting firefighters and first responders (the department runs the Florida Forest Service).",
+          "sources": [
+            {
+              "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner - campaign website",
+              "url": "https://www.joeyforflorida.com/",
+              "date": "2026"
+            }
+          ]
         }
       ],
-      "record": [],
-      "endorsements": []
+      "record": [
+        {
+          "item": "Age 41; trial attorney; holds a master's degree in environmental management; did legal-aid work representing migrant farmworkers and DACA recipients; raised under $9,000 through late July 2026.",
+          "sources": [
+            {
+              "title": "Get to know the 2026 Florida candidates for Agriculture Commissioner and Chief Financial Officer - WMNF",
+              "url": "https://www.wmnf.org/2026-florida-candidates-agriculture-commissioner-chief-financial-officer/",
+              "date": "2026-08-04"
+            },
+            {
+              "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner - campaign website",
+              "url": "https://www.joeyforflorida.com/",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Florida Democratic Agricultural Caucus",
+          "sources": [
+            {
+              "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner - campaign website",
+              "url": "https://www.joeyforflorida.com/",
+              "date": "2026"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

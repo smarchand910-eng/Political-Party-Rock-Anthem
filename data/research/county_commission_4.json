@@ -1,14 +1,14 @@
 {
   "race_id": "county_commission_4",
-  "verified_ballot_note": "ClickOrlando's 2026 Voter's Guide states the winner of the District 4 Republican primary faces write-in candidate Ethan Parks in November (https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/); Lake & Sumter Style reports Bogue won that primary with 73.04% (https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/); Florida Money Watch lists Parks as an active write-in (https://www.floridamoneywatch.com/county.php?code=SUM). Not verified against the county's official Notice of General Election (blocked). Research limitation (two passes, Sept 2026): every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was capped, so positions are coded only from search-result snippets. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
+  "verified_ballot_note": "NOT ON THE NOV. 3 BALLOT. Third pass (Sept 17, 2026): the Supervisor of Elections' official 2026 General Election sample ballot contains no County Commission contest, and the county's VoterFocus candidate roster lists write-in candidate Ethan Parks as 'Active-Withdrawn' and Jeffrey Bogue as 'Active-Unopposed.' Bogue therefore won the seat with the Aug. 18 Republican primary (73.04% over Michael Squier) and no general-election vote is held. Earlier passes, relying on July 2026 reporting, listed a Bogue-vs-write-in contest. Sources: https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot ; https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sumter ; https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
   "candidates": [
     {
       "id": "jeffrey_bogue",
       "name": "Jeffrey A. Bogue",
       "party": "Republican",
       "incumbent": true,
-      "photo_url": "https://www.sumtercountyfl.gov/161/District-4",
-      "photo_source": "Sumter County official website, District 4 commissioner page (image URL not verified; site blocked in this sandbox)",
+      "photo_url": "https://www.sumtercountyfl.gov/ImageRepository/Document?documentId=43071",
+      "photo_source": "Sumter County official website, District 4 commissioner portrait (ImageRepository documentId 43071)",
       "website": "https://www.votejeffbogue.com/",
       "occupation": "Sumter County Commissioner, District 4 (2nd Vice Chairman); director of emergency medical services, AdventHealth",
       "residence": "Bushnell, Sumter County",
@@ -449,6 +449,46 @@
               "date": "2026-08-18"
             }
           ]
+        },
+        {
+          "item": "Elected without opposition to a second term after write-in candidate Ethan Parks withdrew; VoterFocus lists his 2025-26 campaign as raising $57,660 and spending $56,822.",
+          "sources": [
+            {
+              "title": "Sumter County candidate reports (VoterFocus campaign-finance system used by the Supervisor of Elections; shows candidate status)",
+              "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sumter",
+              "date": "2026-09"
+            },
+            {
+              "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+              "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "item": "On Sept. 30, 2025, moved to adopt the FY 2025-26 final aggregate millage rate of 5.0821 mills (general fund held at 4.8900 mills) and the Villages Public Safety Department MSTU rate of 0.0464 mills; both passed 5-0.",
+          "sources": [
+            {
+              "title": "Final budget hearing minutes, Sumter County Board of County Commissioners, Sept. 30, 2025",
+              "url": "https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/27572?fileID=68161",
+              "date": "2025-09-30"
+            },
+            {
+              "title": "Sumter County adopts the budget for next fiscal year (Oct. 1, 2025 - Sept. 30, 2026)",
+              "url": "https://www.sumtercountyfl.gov/m/newsflash/home/detail/1552",
+              "date": "2025-09-30"
+            }
+          ]
+        },
+        {
+          "item": "County biography: son of a U.S. Army colonel; firefighter/EMT, paramedic and trauma flight paramedic; director of EMS for AdventHealth; B.S. in health-care administration; moved to Sumter County in 2015; homes in Bushnell and farmland in Center Hill; first elected August 2022.",
+          "sources": [
+            {
+              "title": "District 4 - Sumter County official website",
+              "url": "https://www.sumtercountyfl.gov/161/District-4",
+              "date": null
+            }
+          ]
         }
       ],
       "endorsements": []
@@ -618,7 +658,9 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "withdrawn": "before the general election (VoterFocus status: Active-Withdrawn)"
     }
-  ]
+  ],
+  "not_on_general_ballot": true
 }

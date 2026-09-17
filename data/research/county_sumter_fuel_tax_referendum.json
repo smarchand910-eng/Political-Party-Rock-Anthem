@@ -1,0 +1,22 @@
+{
+  "race_id": "county_sumter_fuel_tax_referendum",
+  "kind": "measure",
+  "title": "Sumter County Referendum No. 1: Renewal of the 5th and 6th Cent Local Option Fuel Tax",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "full",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Sumter"
+  },
+  "counties": [
+    "Sumter"
+  ],
+  "what_it_does": "County ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Sumter County currently levies a 5th and 6th cent local option fuel tax generating an estimated $2,648,888 in annual revenue to fund road maintenance, road construction, and other transportation infrastructure. Fuel taxes are proportionately shared, based on population, with cities within the county. Shall Sumter County continue to levy a 5th and 6th cent tax per gallon on motor fuel sold within the county, for a period up to 30 years beginning January 1, 2028?",
+  "what_yes_means": "A YES vote continues the existing two cents per gallon (the '5th and 6th cent') of local option fuel tax on gasoline and diesel sold in Sumter County for up to 30 more years, through 2057, after the current levy expires Dec. 31, 2027. The county says the tax raised slightly over $2 million in 2024 and is dedicated to road resurfacing, construction, bridge work and pavement markings, with about 89% retained by the county and the rest shared with cities by population.",
+  "what_no_means": "A NO vote lets the two-cent levy expire on Dec. 31, 2027, reducing the local fuel tax from eight cents to six cents per gallon and removing roughly $2-2.6 million a year that the county now spends on roads; the county would have to fund those projects from other sources or reduce them.",
+  "verified_ballot_note": "Official wording copied from the Sumter County Supervisor of Elections' 2026 General Election sample ballot (fetched Sept. 17, 2026). Background: Sumter County adopted the levy by ordinance in March 2008 and extended it in 2020 through 2027. Florida law requires voter approval to continue the 5th and 6th cent tax beyond its expiration, and the County Commission voted to place the renewal on the Nov. 3, 2026 ballot. The county launched a 'Your Fuel Taxes At Work' information campaign; County Administrator Bradley Arnold said 'a dependable transportation network is essential to emergency response, commerce, and daily life.' No organized opposition was found in the sources reviewed. Sources: https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot ; https://www.sumtercountyfl.gov/1476/Local-Fuel-Taxes ; https://sumtercountyfl.gov/m/faq?cat=66 ; https://www.villages-news.com/2026/01/27/sumter-county-voters-to-decide-future-of-fuel-tax-this-year/ ; https://mynews13.com/fl/orlando/news/2026/02/09/sumter-county-fuel-tax-initiative-",
+  "candidates": []
+}

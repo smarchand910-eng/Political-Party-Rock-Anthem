@@ -1,6 +1,6 @@
 {
  "race_id": "governor",
- "verified_ballot_note": "Qualifying closed June 12, 2026: WUWF and the Tampa Bay Times/Spokesman-Review reported 27 qualified candidates for governor (10 R, 6 D, 6 NPA, 4 write-in, 1 Libertarian); the six NPA qualifiers are Dean Ocean Abrams, Charles Burkett, Jeffrey 'Dr. Jeff' Datto, Moliere 'Moe' Dimanche, Desmond Meade and Frank J. Russo (CBS12/politics1 lists), which confirms state Sen. Jason Pizzo did NOT qualify; Donalds (R, ~47.8%) and Jolly (D, ~61%) won the Aug. 18 primaries (CBS News, Washington Post); Meade withdrew Aug. 28, 2026 (WLRN/Florida Politics) and whether his name remains printed on the ballot is unverified (a second search pass on Sept. 17, 2026 found no Division of Elections notice or news report resolving this); the names of the four qualified write-in candidates (who do not appear on the ballot) could not be retrieved. Sources: https://www.wuwf.org/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election ; https://www.spokesman.com/stories/2026/jun/12/field-set-for-florida-2026-governor-race-as-qualif/ ; https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/ ; https://www.wlrn.org/government-politics/2026-08-28/desmond-meade-withdraws-florida-governor-election ; https://ballotpedia.org/Florida_gubernatorial_and_lieutenant_gubernatorial_election,_2026",
+ "verified_ballot_note": "Third pass (Sept 17, 2026): verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot, which lists eight Governor/Lieutenant Governor tickets in this order: Byron Donalds/Bryan Avila (REP), David Jolly/Gwen Graham (DEM), Scott Eckhard Jewett/Nicole Skelly (LPF), Charles Burkett/Ruben A. Coto (NPA), Frank J. Russo/Rachel Rodriguez (NPA), Moliere 'Moe' Dimanche/Benjiman Rojas (NPA), Dean Ocean Abrams/Joe Van Vactor (NPA) and Jeffrey Peter 'Dr. Jeff' Datto/Juan Santana (NPA), followed by a write-in line (two write-in tickets qualified; their names are not printed). Desmond Meade, who withdrew Aug. 28, 2026, does not appear on the ballot. Sources: https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot ; https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf ; https://politics1.com/fl.htm",
  "candidates": [
   {
    "id": "byron_donalds",
@@ -320,20 +320,20 @@
      ]
     },
     "elections": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No statement on mail voting, drop boxes or rights restoration found. In Congress he voted on Jan. 6, 2021 to object to certifying the Arizona and Pennsylvania electoral votes (see record).",
+     "stance": -2,
+     "confidence": "stated",
+     "summary": "Supports election-integrity measures including documentary proof of U.S. citizenship for federal voter registration (per Smarter.Vote's summary of his campaign positions); in Congress he voted for the SAVE Act.",
      "quote": null,
      "sources": [
       {
-       "title": "Byron Donalds to object certification of electoral votes (Fox 4 Now)",
-       "url": "https://www.fox4now.com/news/local-news/byron-donalds-to-object-certification-of-electoral-votes",
-       "date": "2021-01"
+       "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+       "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+       "date": "2026"
       },
       {
-       "title": "A dozen Florida Representatives voted against certifying Joe Biden win (Florida Politics)",
-       "url": "https://floridapolitics.com/archives/393069-a-dozen-florida-representatives-vote-against-joe-biden-win/",
-       "date": "2021-01-07"
+       "title": "H.R.22 SAVE Act, 119th Congress (actions and votes)",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+       "date": "2025-04"
       }
      ]
     },
@@ -1622,17 +1622,28 @@
    "photo_url": "https://scottjewett.com/",
    "photo_source": "campaign site (photo URL not verified)",
    "website": "https://scottjewett.com/",
-   "occupation": "Not verified (campaign cites 'a decade of government experience')",
-   "residence": "Florida (city/county not verified)",
+   "occupation": "Businessman and inventor (per Politics1); campaign cites a career 'solving grand challenges'",
+   "residence": "Boca Raton, Palm Beach County",
    "background": "Scott Eckhard Jewett is the Libertarian Party of Florida's nominee for governor; the national Libertarian Party announced his filing in 2025 and he announced a 'Libertarian 2.0' bid in November 2025. His campaign says he brings a decade of government experience and brands his platform 'Humanitarian Libertarianism,' combining Republican economic principles with Democratic social values. His running mate is Nicole Skelly of Milton, who runs a construction business with her husband. He was the lone Libertarian to qualify when qualifying closed June 12, 2026. Skelly lives in Milton (Santa Rosa County) with her husband and two children; the campaign says the couple has owned and run a construction business for many years and that she brings a small-business owner's perspective on rising costs and regulation.",
    "primary_result": "No primary; qualified as the Libertarian Party of Florida nominee (WUWF, June 12, 2026)",
    "positions": {
     "taxes": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Promises 'a streamlined, efficient government, low taxes, and a free-market economy' while supporting 'essential social programs' for those in need.",
+     "quote": "advocate for a streamlined, efficient government, low taxes, and a free-market economy that stimulates growth and innovation",
+     "sources": [
+      {
+       "title": "Scott Jewett announces 'Libertarian 2.0' bid for Florida Governor - The Floridian",
+       "url": "https://floridianpress.com/2025/11/scott-jewett-announces-libertarian-2-0-bid-for-florida-governor/",
+       "date": "2025-11-17"
+      },
+      {
+       "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+       "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+       "date": "2026"
+      }
+     ]
     },
     "property_tax": {
      "stance": 2,
@@ -1649,24 +1660,29 @@
        "title": "Scott Jewett (Ballotpedia)",
        "url": "https://ballotpedia.org/Scott_Jewett",
        "date": null
+      },
+      {
+       "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+       "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+       "date": "2026"
       }
      ]
     },
     "insurance": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "Calls Florida's homeowners-insurance system 'a disaster,' citing $43 billion in premiums paid versus $7 billion paid out for repairs, and lists insurance reform as a top priority; the direction of reform (state intervention vs. market) was not specified in available coverage.",
-     "quote": null,
+     "stance": -1,
+     "confidence": "stated",
+     "summary": "Calls homeowners' insurance his clearest priority and proposes regulatory changes, insurance cooperatives and litigation reform rather than rate caps; he cites $43 billion in premiums paid against $7 billion in repair payouts.",
+     "quote": "$43 billion dollars in premiums were paid last year alone, and only $7 Billion was paid out for homeowner's repairs.",
      "sources": [
       {
-       "title": "Scott Jewett for Florida Governor (campaign site)",
-       "url": "https://scottjewett.com/",
-       "date": null
+       "title": "Scott Jewett announces 'Libertarian 2.0' bid for Florida Governor - The Floridian",
+       "url": "https://floridianpress.com/2025/11/scott-jewett-announces-libertarian-2-0-bid-for-florida-governor/",
+       "date": "2025-11-17"
       },
       {
-       "title": "Scott Jewett (Ballotpedia)",
-       "url": "https://ballotpedia.org/Scott_Jewett",
-       "date": null
+       "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+       "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+       "date": "2026"
       }
      ]
     },
@@ -1678,11 +1694,22 @@
      "sources": []
     },
     "immigration": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "Would 'enforce immigration laws stringently and deter companies from hiring undocumented workers' while creating 'a streamlined and expanded work visa program.'",
+     "quote": "enforce immigration laws stringently and deter companies from hiring undocumented workers",
+     "sources": [
+      {
+       "title": "Scott Jewett announces 'Libertarian 2.0' bid for Florida Governor - The Floridian",
+       "url": "https://floridianpress.com/2025/11/scott-jewett-announces-libertarian-2-0-bid-for-florida-governor/",
+       "date": "2025-11-17"
+      },
+      {
+       "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+       "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+       "date": "2026"
+      }
+     ]
     },
     "abortion": {
      "stance": 2,
@@ -1703,11 +1730,17 @@
      ]
     },
     "guns": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": -1,
+     "confidence": "stated",
+     "summary": "Described as a staunch Second Amendment supporter who regards responsible gun ownership as a fundamental right; no specific position found on the red-flag law or the age-21 rule.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+       "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+       "date": "2026"
+      }
+     ]
     },
     "healthcare": {
      "stance": null,
@@ -1770,11 +1803,17 @@
      "sources": []
     },
     "crime": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": -2,
+     "confidence": "stated",
+     "summary": "Platform calls for 'elimination of mandatory minimum sentences, reforming cash bail, and ending private prisons' along with law-enforcement reform.",
+     "quote": "elimination of mandatory minimum sentences, reforming cash bail, and ending private prisons",
+     "sources": [
+      {
+       "title": "Scott Jewett announces 'Libertarian 2.0' bid for Florida Governor - The Floridian",
+       "url": "https://floridianpress.com/2025/11/scott-jewett-announces-libertarian-2-0-bid-for-florida-governor/",
+       "date": "2025-11-17"
+      }
+     ]
     },
     "lgbtq": {
      "stance": null,
@@ -1784,11 +1823,17 @@
      "sources": []
     },
     "energy": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 0,
+     "confidence": "stated",
+     "summary": "Wants Florida to become a thorium and advanced-nuclear energy center, calls natural-gas dependence a strategic vulnerability and would use Public Service Commission appointments to pursue it; no position found on renewables or rate oversight.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+       "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+       "date": "2026"
+      }
+     ]
     },
     "tariffs": {
      "stance": null,
@@ -1888,9 +1933,47 @@
        "date": null
       }
      ]
+    },
+    {
+     "title": "Non-interventionist foreign policy",
+     "summary": "Says he would focus on 'Florida's interests and avoiding entanglement in unnecessary conflicts.'",
+     "sources": [
+      {
+       "title": "Scott Jewett announces 'Libertarian 2.0' bid for Florida Governor - The Floridian",
+       "url": "https://floridianpress.com/2025/11/scott-jewett-announces-libertarian-2-0-bid-for-florida-governor/",
+       "date": "2025-11-17"
+      }
+     ]
+    },
+    {
+     "title": "Thorium and advanced nuclear power",
+     "summary": "Proposes pursuing NRC Agreement State status, advanced-reactor permitting legislation and a University of Florida nuclear-fuels research facility.",
+     "sources": [
+      {
+       "title": "Compare Candidates - 2026 Florida Governor Election - Smarter.Vote (issue summaries citing campaign materials)",
+       "url": "https://smarter.vote/races/fl-governor-2026/compare/",
+       "date": "2026"
+      }
+     ]
     }
    ],
-   "record": [],
+   "record": [
+    {
+     "item": "Running mate Nicole Skelly (Milton; businesswoman and Libertarian activist) appears with him on the ballot.",
+     "sources": [
+      {
+       "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+       "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+       "date": "2026-09"
+      },
+      {
+       "title": "Florida 2026 Elections: Candidates for Governor, Senate & House - Politics1",
+       "url": "https://politics1.com/fl.htm",
+       "date": "2026"
+      }
+     ]
+    }
+   ],
    "endorsements": [
     {
      "by": "Libertarian Party of Florida / Libertarian Party (national)",
@@ -1914,7 +1997,7 @@
    "name": "Dean Ocean Abrams",
    "party": "No Party Affiliation",
    "incumbent": false,
-   "running_mate": null,
+   "running_mate": "Joe Van Vactor (teacher and Air Force veteran, per Politics1)",
    "photo_url": "https://www.deanabrams.com/",
    "photo_source": "campaign site (photo URL not verified)",
    "website": "https://www.deanabrams.com/",
@@ -1945,11 +2028,17 @@
      "sources": []
     },
     "housing": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "Campaign lists 'fixing housing' and 'lowering costs' as priorities but no specific policy mechanism was found.",
-     "quote": null,
-     "sources": []
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "Platform calls for 'Wall Street out of single-family homes' and making housing and health care more affordable; no zoning or subsidy specifics found.",
+     "quote": "Wall Street out of single-family homes",
+     "sources": [
+      {
+       "title": "Dean Abrams for Florida Governor - campaign website (fetch blocked; content as quoted in search results)",
+       "url": "https://www.deanabrams.com/",
+       "date": "2026"
+      }
+     ]
     },
     "immigration": {
      "stance": null,
@@ -2015,7 +2104,7 @@
      "stance": 1,
      "confidence": "stated",
      "summary": "States opposition to 'unchecked development' and the data-center land grab.",
-     "quote": null,
+     "quote": "Strict public approval for major development",
      "sources": [
       {
        "title": "Dean Abrams for Florida Governor (campaign site)",
@@ -2120,9 +2209,31 @@
        "date": null
       }
      ]
+    },
+    {
+     "title": "No AI data centers; no foreign-lobby influence",
+     "summary": "Platform lists 'No AI data centers' and 'No AIPAC foreign lobby influence over Florida policy.'",
+     "sources": [
+      {
+       "title": "Dean Abrams for Florida Governor - campaign website (fetch blocked; content as quoted in search results)",
+       "url": "https://www.deanabrams.com/",
+       "date": "2026"
+      }
+     ]
     }
    ],
-   "record": [],
+   "record": [
+    {
+     "item": "Self-funded campaign that says it takes no party, PAC or corporate money; Abrams says he led work at Microsoft, HP and KPMG over three decades (campaign site).",
+     "sources": [
+      {
+       "title": "Dean Abrams for Florida Governor - campaign website (fetch blocked; content as quoted in search results)",
+       "url": "https://www.deanabrams.com/",
+       "date": "2026"
+      }
+     ]
+    }
+   ],
    "endorsements": []
   },
   {
@@ -2130,10 +2241,10 @@
    "name": "Charles W. Burkett",
    "party": "No Party Affiliation",
    "incumbent": false,
-   "running_mate": null,
+   "running_mate": "Ruben A. Coto (Surfside town commissioner and businessman)",
    "photo_url": "https://www.wlrn.org/government-politics/2026-05-19/former-surfside-mayor-charles-burkett-florida-governors-race",
    "photo_source": "WLRN article image (photo URL not verified)",
-   "website": null,
+   "website": "https://burkettforgov.com/",
    "occupation": "Real estate investor; former Mayor of Surfside",
    "residence": "Surfside, Miami-Dade County",
    "background": "Charles Burkett was born and raised in Miami Beach, graduated from the University of Miami with a finance degree and founded a real estate investment firm. He served four terms as Mayor of Surfside (2006-2010, 2020-2022, 2024-2026), including during the COVID-19 pandemic and the 2021 Champlain Towers South collapse. He announced an NPA run for governor in May 2026 and qualified in June 2026.",
@@ -2154,6 +2265,11 @@
        "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
        "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
        "date": "2026-05"
+      },
+      {
+       "title": "Charles Burkett for Florida Governor - campaign website",
+       "url": "https://burkettforgov.com/",
+       "date": "2026"
       }
      ]
     },
@@ -2161,7 +2277,7 @@
      "stance": 2,
      "confidence": "stated",
      "summary": "Proposes eliminating property taxes on homesteaded homes.",
-     "quote": null,
+     "quote": "Slash and eventually eliminate property taxes for vested Florida homeowners and renters",
      "sources": [
       {
        "title": "Former Surfside mayor Charles Burkett enters Florida Governors' race (WLRN)",
@@ -2172,36 +2288,65 @@
        "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
        "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
        "date": "2026-05"
+      },
+      {
+       "title": "Charles Burkett for Florida Governor - campaign website",
+       "url": "https://burkettforgov.com/",
+       "date": "2026"
       }
      ]
     },
     "insurance": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "Says he would 'overhaul insurance' laws but the direction (more state intervention vs. market reform) was not specified in available coverage.",
-     "quote": null,
-     "sources": []
+     "stance": -1,
+     "confidence": "stated",
+     "summary": "Would 'rewrite the broken laws and bring radical competition into the property and auto insurance market,' with more deductible options and property-tax offsets for hurricane hardening, rather than rate caps or expanding Citizens.",
+     "quote": "Rewrite the broken laws and bring radical competition into the property and auto insurance market",
+     "sources": [
+      {
+       "title": "Charles Burkett for Florida Governor - campaign website",
+       "url": "https://burkettforgov.com/",
+       "date": "2026"
+      }
+     ]
     },
     "housing": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": -1,
+     "confidence": "stated",
+     "summary": "Would 'stop building new housing until we can absorb the number of residents we currently have' and repeal the Live Local Act, which preempts local zoning for affordable housing.",
+     "quote": "Stop building new housing until we can absorb the number of residents we currently have",
+     "sources": [
+      {
+       "title": "Charles Burkett for Florida Governor - campaign website",
+       "url": "https://burkettforgov.com/",
+       "date": "2026"
+      }
+     ]
     },
     "immigration": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "Site says 'Legal immigration is good. Uncontrolled, unvetted, unregulated, illegal immigration is bad'; no specific enforcement or deportation proposals found.",
+     "quote": "Legal immigration is good. Uncontrolled, unvetted, unregulated, illegal immigration is bad",
+     "sources": [
+      {
+       "title": "Charles Burkett for Florida Governor - campaign website",
+       "url": "https://burkettforgov.com/",
+       "date": "2026"
+      }
+     ]
     },
     "abortion": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Pledges to 'affirm and codify My Body, My Choice.'",
+     "quote": "Affirm and codify 'My Body, My Choice'",
+     "sources": [
+      {
+       "title": "Charles Burkett for Florida Governor - campaign website",
+       "url": "https://burkettforgov.com/",
+       "date": "2026"
+      }
+     ]
     },
     "guns": {
      "stance": null,
@@ -2211,11 +2356,17 @@
      "sources": []
     },
     "healthcare": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "Says he would overhaul healthcare laws; no specifics found.",
-     "quote": null,
-     "sources": []
+     "stance": 0,
+     "confidence": "stated",
+     "summary": "Would 'rewrite the unaffordable, broken healthcare laws' with doctors 'not government and insurance companies, in charge,' standardized plan tiers, a state-backed medical loan fund and a physician-run state pool for extreme cases; does not address Medicaid expansion.",
+     "quote": "Rewrite the unaffordable, broken healthcare laws. Put doctors, not government and insurance companies, in charge",
+     "sources": [
+      {
+       "title": "Charles Burkett for Florida Governor - campaign website",
+       "url": "https://burkettforgov.com/",
+       "date": "2026"
+      }
+     ]
     },
     "social_security": {
      "stance": null,
@@ -2232,18 +2383,35 @@
      "sources": []
     },
     "environment": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "Pledges to 'demand clean water and air' and hold polluters accountable; his growth positions favor restricting new construction.",
+     "quote": "Take all steps necessary to make certain our water and air are clean and that Florida holds polluters accountable",
+     "sources": [
+      {
+       "title": "Charles Burkett for Florida Governor - campaign website",
+       "url": "https://burkettforgov.com/",
+       "date": "2026"
+      }
+     ]
     },
     "growth": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Calls for stopping the 'radical new construction boom,' the 'Manhattanization' and 'over-densification' of communities, choosing renovation over new construction, and allowing data centers only after a local referendum.",
+     "quote": "Stop the 'Manhattanization' and continued 'over-densification' of Florida's charming and historic communities",
+     "sources": [
+      {
+       "title": "Charles Burkett for Florida Governor - campaign website",
+       "url": "https://burkettforgov.com/",
+       "date": "2026"
+      },
+      {
+       "title": "Former Surfside mayor Charles Burkett enters Florida governor's race - WLRN",
+       "url": "https://www.wlrn.org/government-politics/2026-05-19/former-surfside-mayor-charles-burkett-florida-governors-race",
+       "date": "2026-05-19"
+      }
+     ]
     },
     "marijuana": {
      "stance": null,
@@ -2260,11 +2428,17 @@
      "sources": []
     },
     "crime": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "Would 'give our first responders every tool they need' and pay them 'a fair, competitive wage,' and proposes an 'Oasis Act' for gated, monitored redevelopment of blighted neighborhoods with conduct requirements for residents.",
+     "quote": "Give our first responders every tool they need to be the best in the business",
+     "sources": [
+      {
+       "title": "Charles Burkett for Florida Governor - campaign website",
+       "url": "https://burkettforgov.com/",
+       "date": "2026"
+      }
+     ]
     },
     "lgbtq": {
      "stance": null,
@@ -2347,6 +2521,50 @@
        "date": "2026-05"
       }
      ]
+    },
+    {
+     "title": "Homestead exemption that grows with residency",
+     "summary": "Proposes that after a ten-year residency vesting period, homeowners gain a cumulative 10-percentage-point increase in their homestead exemption each year until it reaches 100%, transferable to a spouse and children.",
+     "sources": [
+      {
+       "title": "Charles Burkett for Florida Governor - campaign website",
+       "url": "https://burkettforgov.com/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "title": "Public pensions",
+     "summary": "Would honor existing defined-benefit pensions but move new public employees to defined-contribution plans with an immediate government match.",
+     "sources": [
+      {
+       "title": "Charles Burkett for Florida Governor - campaign website",
+       "url": "https://burkettforgov.com/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "title": "Education spending",
+     "summary": "Says schools should focus 'only on kids' with high standards and proposes cutting school spending by at least 5%, possibly 10%.",
+     "sources": [
+      {
+       "title": "Charles Burkett for Florida Governor - campaign website",
+       "url": "https://burkettforgov.com/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "title": "No campaign contributions",
+     "summary": "Says he is not accepting campaign contributions.",
+     "sources": [
+      {
+       "title": "Charles Burkett for Florida Governor - campaign website",
+       "url": "https://burkettforgov.com/",
+       "date": "2026"
+      }
+     ]
     }
    ],
    "record": [
@@ -2364,6 +2582,16 @@
        "date": "2026-05"
       }
      ]
+    },
+    {
+     "item": "Born in Miami Beach; B.S. in finance, University of Miami; real estate investor since 1983; chaired the Miami Beach Housing Authority; elected Surfside mayor in 2006, 2008, 2020 and 2024 (campaign site).",
+     "sources": [
+      {
+       "title": "Charles Burkett for Florida Governor - campaign website",
+       "url": "https://burkettforgov.com/",
+       "date": "2026"
+      }
+     ]
     }
    ],
    "endorsements": []
@@ -2373,7 +2601,7 @@
    "name": "Jeffrey Peter \"Dr. Jeff\" Datto",
    "party": "No Party Affiliation",
    "incumbent": false,
-   "running_mate": null,
+   "running_mate": "Juan Santana (nonprofit executive and property manager, per Politics1)",
    "photo_url": "https://www.facebook.com/DrJeffDatto",
    "photo_source": "campaign Facebook page (photo URL not verified)",
    "website": null,
@@ -2531,7 +2759,23 @@
     }
    },
    "other_issues": [],
-   "record": [],
+   "record": [
+    {
+     "item": "Running mate Juan Santana appears with him on the Sumter County sample ballot; no campaign website or issue statements were found beyond his Facebook page.",
+     "sources": [
+      {
+       "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+       "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+       "date": "2026-09"
+      },
+      {
+       "title": "Florida 2026 Elections: Candidates for Governor, Senate & House - Politics1",
+       "url": "https://politics1.com/fl.htm",
+       "date": "2026"
+      }
+     ]
+    }
+   ],
    "endorsements": []
   },
   {
@@ -2539,12 +2783,12 @@
    "name": "Moliere \"Moe\" Dimanche",
    "party": "No Party Affiliation",
    "incumbent": false,
-   "running_mate": null,
+   "running_mate": "Benjiman Rojas (phone repair technician, per Politics1)",
    "photo_url": "https://nomoecorruption.com/",
    "photo_source": "campaign site (photo URL not verified)",
    "website": "https://nomoecorruption.com/",
    "occupation": "Artist, author and prison-reform activist",
-   "residence": "Florida (city/county not verified)",
+   "residence": "Orlando area (grew up in Orlando; Pine Hills incorporation is a campaign plank)",
    "background": "Moliere 'Moe' Dimanche (born 1987) is a Haitian American artist, author and prison-reform activist who served nearly 10 years in Florida prisons. He qualified as an NPA candidate for governor in June 2026. His campaign, branded 'No MOE Corruption,' identifies public corruption as the greatest danger to democracy.",
    "primary_result": "No primary; qualified as NPA candidate for the Nov. 3 general election (WUWF/Spokesman, June 12, 2026)",
    "positions": {
@@ -2556,11 +2800,17 @@
      "sources": []
     },
     "property_tax": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Says 'property taxes on Floridians' homesteads infringes on ownership rights' and promises to eliminate homestead property taxation.",
+     "quote": "property taxes on Floridians' homesteads infringes on ownership rights",
+     "sources": [
+      {
+       "title": "No MOE Corruption - Moe Dimanche for Governor campaign website",
+       "url": "https://nomoecorruption.com/",
+       "date": "2026"
+      }
+     ]
     },
     "insurance": {
      "stance": null,
@@ -2577,11 +2827,17 @@
      "sources": []
     },
     "immigration": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": -1,
+     "confidence": "stated",
+     "summary": "Promises that 'on Day 1, Moe will permanently close Alligator Alcatraz,' the state-run immigration detention site, comparing it to Jim Crow-era practices; no broader enforcement position found.",
+     "quote": "On Day 1, Moe will permanently close Alligator Alcatraz.",
+     "sources": [
+      {
+       "title": "No MOE Corruption - Moe Dimanche for Governor campaign website",
+       "url": "https://nomoecorruption.com/",
+       "date": "2026"
+      }
+     ]
     },
     "abortion": {
      "stance": null,
@@ -2661,6 +2917,11 @@
        "title": "Moliere 'Moe' Dimanche, Former Prisoner Turned Activist, Artist, and Author, Running for Governor of Florida (Hard Times Reviewer)",
        "url": "https://hardtimesreviewer.substack.com/p/moliere-moe-dimanche-former-prisoner",
        "date": null
+      },
+      {
+       "title": "No MOE Corruption - Moe Dimanche for Governor campaign website",
+       "url": "https://nomoecorruption.com/",
+       "date": "2026"
       }
      ]
     },
@@ -2745,9 +3006,53 @@
        "date": null
       }
      ]
+    },
+    {
+     "title": "Abolish HOAs",
+     "summary": "Says 'HOAs are unconstitutional' and promises to abolish homeowners' associations.",
+     "sources": [
+      {
+       "title": "No MOE Corruption - Moe Dimanche for Governor campaign website",
+       "url": "https://nomoecorruption.com/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "title": "Municipal incorporation of Pine Hills",
+     "summary": "Says 'municipal incorporation of unincorporated county land is imperative' and seeks city status for Pine Hills and western Orange County.",
+     "sources": [
+      {
+       "title": "No MOE Corruption - Moe Dimanche for Governor campaign website",
+       "url": "https://nomoecorruption.com/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "title": "Close Alligator Alcatraz",
+     "summary": "Would permanently close the Everglades detention site on his first day.",
+     "sources": [
+      {
+       "title": "No MOE Corruption - Moe Dimanche for Governor campaign website",
+       "url": "https://nomoecorruption.com/",
+       "date": "2026"
+      }
+     ]
     }
    ],
-   "record": [],
+   "record": [
+    {
+     "item": "Grew up in poverty in Orlando (his family briefly stayed at the Orlando Union Rescue Mission); attended West Orange High School; cites the federal case Dimanche v. Brown as evidence of fighting corruption (campaign site).",
+     "sources": [
+      {
+       "title": "No MOE Corruption - Moe Dimanche for Governor campaign website",
+       "url": "https://nomoecorruption.com/",
+       "date": "2026"
+      }
+     ]
+    }
+   ],
    "endorsements": []
   },
   {
@@ -2986,6 +3291,16 @@
        "date": "2026-08-28"
       }
      ]
+    },
+    {
+     "item": "Does not appear on the Sumter County 2026 General Election sample ballot following his Aug. 28, 2026 withdrawal.",
+     "sources": [
+      {
+       "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+       "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+       "date": "2026-09"
+      }
+     ]
     }
    ],
    "endorsements": [],
@@ -2996,10 +3311,10 @@
    "name": "Frank J. Russo",
    "party": "No Party Affiliation",
    "incumbent": false,
-   "running_mate": null,
+   "running_mate": "Rachel Rodriguez (attorney; earlier a 2026 Republican candidate for governor, per Politics1)",
    "photo_url": "https://ballotpedia.org/Frank_J._Russo",
    "photo_source": "Ballotpedia profile (photo URL not verified)",
-   "website": null,
+   "website": "https://russo2026.com/",
    "occupation": "Entrepreneur, developer and insurance executive",
    "residence": "Florida (city/county not verified)",
    "background": "Frank J. Russo describes himself as a lifelong Floridian with more than 40 years of business leadership, including development projects such as the Queen's Gambit Castle and relief programs for children, veterans and families. He announced an NPA run on April 14, 2026 under a 'People First - Humanity Over the Dollar' banner and qualified in June 2026. He pledges to donate 100% of the governor's salary each year.",
@@ -3034,11 +3349,17 @@
      "sources": []
     },
     "immigration": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": 0,
+     "confidence": "stated",
+     "summary": "Immigration plank is 'Secure. Legal. Humane.' with 'stronger public safety partnerships, targeting violent criminals, traffickers and gangs'; does not state a position on large-scale deportation.",
+     "quote": "Secure. Legal. Humane.",
+     "sources": [
+      {
+       "title": "Russo-Rodriguez 2026 campaign website",
+       "url": "https://russo2026.com/",
+       "date": "2026"
+      }
+     ]
     },
     "abortion": {
      "stance": null,
@@ -3173,6 +3494,50 @@
        "title": "Frank Russo Announces Run for Governor of Florida (PR Newswire)",
        "url": "https://www.prnewswire.com/news-releases/frank-russo-announces-run-for-governor-of-florida-302741761.html",
        "date": "2026-04-14"
+      }
+     ]
+    },
+    {
+     "title": "Teacher pay of at least $75,000",
+     "summary": "Would 'raise Florida's average teacher salary to at least $75,000' and strengthen recruitment and retention.",
+     "sources": [
+      {
+       "title": "Russo-Rodriguez 2026 campaign website",
+       "url": "https://russo2026.com/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "title": "'Humanity Over the Dollar' / 'Caring Capitalism'",
+     "summary": "Campaign philosophy that 'Florida's success should be measured by whether the people who already live here can afford to stay here.'",
+     "sources": [
+      {
+       "title": "Russo-Rodriguez 2026 campaign website",
+       "url": "https://russo2026.com/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "title": "Medical freedom",
+     "summary": "Says 'lawful medical decisions should be made by Floridians in consultation with their healthcare providers.'",
+     "sources": [
+      {
+       "title": "Russo-Rodriguez 2026 campaign website",
+       "url": "https://russo2026.com/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "title": "AI and innovation",
+     "summary": "Describes an approach that is 'pro-innovation, pro-business and pro-accountability' to prepare workers for an AI-transformed economy.",
+     "sources": [
+      {
+       "title": "Russo-Rodriguez 2026 campaign website",
+       "url": "https://russo2026.com/",
+       "date": "2026"
       }
      ]
     }

@@ -10,7 +10,10 @@ const { chromium } = require('playwright');
 
 const ROOT = path.resolve(__dirname, '..');
 const DIST = path.join(ROOT, 'dist');
-const SITE_URL = (process.env.SITE_URL || 'https://example.github.io/Political-Party-Rock-Anthem').replace(/\/$/, '');
+const CNAME_FILE = path.join(ROOT, 'CNAME');
+const CUSTOM_DOMAIN = fs.existsSync(CNAME_FILE) ? fs.readFileSync(CNAME_FILE, 'utf8').trim() : '';
+// A CNAME file (custom domain) wins over the Pages-provided URL so links, sitemap and structured data use the real address.
+const SITE_URL = (CUSTOM_DOMAIN ? `https://${CUSTOM_DOMAIN}` : (process.env.SITE_URL || 'https://example.github.io/Political-Party-Rock-Anthem')).replace(/\/$/, '');
 const BASE_PATH = new URL(SITE_URL).pathname.replace(/\/$/, ''); // '' for a custom domain, '/repo' for project pages
 
 const data = (() => { const js = fs.readFileSync(path.join(ROOT, 'data', 'guide.js'), 'utf8'); return JSON.parse(js.slice(js.indexOf('{'), js.lastIndexOf('}') + 1)); })();
@@ -18,15 +21,20 @@ const slug = s => String(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toL
 
 // route -> output folder + metadata
 const routes = [
-  { hash: '#/', out: '', title: 'Florida Voter Guide 2026', desc: 'Nonpartisan, source-cited guide to the races and ballot questions on your Florida ballot in the November 3, 2026 election, filtered by your address, with a tool that matches your views to the candidates.' },
-  { hash: '#/where', out: 'where-do-you-vote', title: 'Where do you vote? — Florida Voter Guide 2026', desc: 'Enter your Florida address to see the exact races and ballot questions you will vote on November 3, 2026.' },
+  { hash: '#/', out: '', title: 'Florida Voters Guide 2026', desc: 'Nonpartisan, source-cited guide to the races and ballot questions on your Florida ballot in the November 3, 2026 election, filtered by your address, with a tool that matches your views to the candidates.' },
+  { hash: '#/where', out: 'where-do-you-vote', title: 'Where do you vote? — Florida Voters Guide 2026', desc: 'Enter your Florida address to see the exact races and ballot questions you will vote on November 3, 2026.' },
   { hash: '#/races', out: 'races', title: 'Florida races on the November 3, 2026 ballot', desc: 'Statewide, congressional, legislative and county races on Florida ballots in November 2026, with candidates compared issue by issue.' },
-  { hash: '#/match', out: 'match', title: 'Match me to the candidates — Florida Voter Guide 2026', desc: 'Answer 21 statements and see which candidates on your Florida ballot come closest to your views, based only on their documented positions.' },
+  { hash: '#/match', out: 'match', title: 'Match me to the candidates — Florida Voters Guide 2026', desc: 'Answer 21 statements and see which candidates on your Florida ballot come closest to your views, based only on their documented positions.' },
   { hash: '#/amendments', out: 'amendments', title: 'Florida 2026 constitutional amendments explained', desc: 'Official ballot language, what Yes and No mean, fiscal impact, and who supports and opposes Amendments 1, 2 and 3 on Florida\'s November 2026 ballot.' },
   { hash: '#/judges', out: 'judges', title: 'Florida judicial merit retention 2026', desc: 'Who is on your judicial retention ballot: the Florida Supreme Court justice and the District Court of Appeal judges for your county.' },
   { hash: '#/vote', out: 'how-to-vote', title: 'How and where to vote in Florida — deadlines, early voting, ID', desc: 'Registration deadline, mail ballot deadlines, early voting, ID rules and Election Day details for Florida voters, with Sumter County specifics.' },
-  { hash: '#/about', out: 'methodology', title: 'Methodology and neutrality rules — Florida Voter Guide 2026', desc: 'How candidate positions are sourced and coded, why some are marked unknown, and how the match score works.' },
+  { hash: '#/about', out: 'methodology', title: 'Methodology and neutrality rules — Florida Voters Guide 2026', desc: 'How candidate positions are sourced and coded, why some are marked unknown, and how the match score works.' },
 ];
+routes.push({ hash: '#/counties', out: 'counties', title: 'Florida 2026 ballot by county — all 67 counties', desc: 'Pick your Florida county to see the official candidate line-up for every federal, state, judicial and county contest on the November 3, 2026 ballot, plus your Supervisor of Elections.' });
+const SW = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'statewide.js'), 'utf8').replace(/^window\.STATEWIDE_DATA = /, '').replace(/;\s*$/, ''));
+for (const c of Object.values(SW.counties)) {
+  routes.push({ hash: `#/county/${c.code}`, out: `counties/${slug(c.name + ' county')}`, title: `${c.name} County, Florida ballot — November 3, 2026`, desc: `Who is on the ${c.name} County ballot: U.S. House ${c.congressional.map(d => d.district).join(', ')}, Florida Senate ${c.senate.map(d => d.district).join(', ')}, Florida House ${c.house.map(d => d.district).join(', ')}, judges, county offices and the Supervisor of Elections, from the official candidate list.` });
+}
 for (const r of data.races) {
   routes.push({ hash: `#/race/${r.id}`, out: `races/${slug(r.title)}`, title: `${r.title} — Florida 2026 candidates compared`, desc: `Candidates for ${r.title} on the November 3, 2026 Florida ballot: ${r.candidates.map(c => `${c.name} (${c.party})`).join(', ')}. Positions on the major issues, side by side, with sources.` });
   for (const c of r.candidates) {
@@ -42,6 +50,7 @@ function copyDir(src, dest) { fs.mkdirSync(dest, { recursive: true }); for (cons
   copyDir(path.join(ROOT, 'assets'), path.join(DIST, 'assets'));
   fs.mkdirSync(path.join(DIST, 'data'), { recursive: true });
   fs.copyFileSync(path.join(ROOT, 'data', 'guide.js'), path.join(DIST, 'data', 'guide.js'));
+  fs.copyFileSync(path.join(ROOT, 'data', 'statewide.js'), path.join(DIST, 'data', 'statewide.js'));
   if (fs.existsSync(path.join(ROOT, 'CNAME'))) fs.copyFileSync(path.join(ROOT, 'CNAME'), path.join(DIST, 'CNAME'));
   fs.writeFileSync(path.join(DIST, '.nojekyll'), '');
 
@@ -58,7 +67,7 @@ function copyDir(src, dest) { fs.mkdirSync(dest, { recursive: true }); for (cons
     urls.push(url);
     const jsonld = r.person
       ? { '@context': 'https://schema.org', '@type': 'Person', name: r.person.name, description: r.desc, image: r.person.image || undefined, url: r.person.url || undefined, affiliation: r.person.party, knowsAbout: r.person.race }
-      : { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Florida Voter Guide 2026', url: SITE_URL + '/', description: routes[0].desc };
+      : { '@context': 'https://schema.org', '@type': 'WebSite', name: 'Florida Voters Guide 2026', url: SITE_URL + '/', description: routes[0].desc };
     let html = template
       .replace(/<title>[^<]*<\/title>/, `<title>${esc(r.title)}</title>`)
       .replace(/<meta name="description" content="[^"]*" \/>/, `<meta name="description" content="${esc(r.desc)}" />`)

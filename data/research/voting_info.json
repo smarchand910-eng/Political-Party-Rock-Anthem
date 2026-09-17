@@ -4,7 +4,7 @@
   "registration_deadline": "2026-10-05 (29 days before the election; per Florida Division of Elections and Florida Supervisors of Elections calendars)",
   "vote_by_mail_request_deadline": "2026-10-22 by 5:00 p.m. (12th day before the election); Sumter County Elections news flash confirms Oct. 22, 2026 as the last day to request a mail ballot for the General Election",
   "vote_by_mail_return_deadline": "Ballot must be RECEIVED by the Supervisor of Elections by 7:00 p.m. on Election Day, Nov. 3, 2026 (postmarks do not count). Mail ballots may also be returned to a secure ballot intake station (drop box) at the SOE office or any early-voting site during early-voting hours, or delivered to the office. Overseas (UOCAVA) ballots have a 10-day post-election receipt allowance. (Florida statutes s. 101.67 and 101.69; dos.fl.gov vote-by-mail page.)",
-  "early_voting_dates": "Sumter County's General Election early-voting DATES are still UNVERIFIED (county page blocked). Florida law requires early voting at least Saturday Oct. 24 through Saturday Oct. 31, 2026 (10th through 3rd day before the election, at least 8 hours per day); the county may add optional days Oct. 19-23 and Nov. 1. The county early-voting page lists hours of 9 a.m. to 6 p.m. (search snippet; confirm these apply to the General Election). Check https://elections.sumtercountyfl.gov/200/Early-Voting.",
+  "early_voting_dates": "Saturday, Oct. 24 through Saturday, Oct. 31, 2026 (eight days), per the Sumter County Elections 2026 General Election Information page. Any registered Sumter County voter may vote at any early-voting site.",
   "early_voting_locations": [
     {
       "name": "Bushnell Community Building",
@@ -35,22 +35,22 @@
       "address": "5497 Marsh Bend Trail, The Villages, FL 32163"
     }
   ],
-  "early_voting_locations_note": "Seven sites and street addresses confirmed from the Sumter County Elections early-voting page (search snippet, Sept. 17, 2026); any registered Sumter voter may use any early-voting site. ZIP codes added from general knowledge. The page does not state whether all seven sites are used for every election; General Election use UNVERIFIED.",
+  "early_voting_locations_note": "Seven sites and addresses confirmed on the Sumter County Elections early-voting page (fetched Sept. 17, 2026); any registered Sumter voter may use any site. The county's General Election page lists early voting Oct. 24-31, 10 a.m. to 6 p.m.",
   "election_day_hours": "7:00 a.m. to 7:00 p.m.; voters must vote at their assigned precinct on Election Day; anyone in line at 7:00 p.m. may vote.",
   "supervisor_of_elections": {
     "name": "Karen S. Krauss",
     "phone": "(352) 569-1540",
     "website": "https://elections.sumtercountyfl.gov/",
-    "address": "Main office: 900 N. Main Street, Bushnell, FL 33513. Villages-area office: Sumter County Government Service Center, 7375 Powell Road, Suite 145, Wildwood, FL 34785.",
-    "note": "Krauss is listed as Supervisor of Elections on the county Office Holders page and LinkedIn; the state Division of Elections directory snippet still showed William 'Bill' Keen, her predecessor, so confirm at https://dos.elections.myflorida.com/supervisors/countyInfo.asp?county=SUM."
+    "address": "Main office: Sumter County Government Service Center, 7375 Powell Road, Suite 125, Wildwood, FL 34785. Annex office: 900 N. Main Street, Bushnell, FL 33513.",
+    "note": "Karen S. Krauss is listed as Supervisor of Elections on the county Office Holders page. The elections website (fetched Sept. 17, 2026) lists the Wildwood Powell Road office as the main office and Bushnell as the annex."
   },
   "id_requirements": "Voters must present a current and valid photo ID with signature at early-voting sites and polling places. Acceptable IDs (Fla. Stat. s. 101.043): Florida driver license; Florida ID card issued by DHSMV; U.S. passport; debit or credit card; military ID; student ID; retirement center ID; neighborhood association ID; public assistance ID; veteran health ID card issued by the U.S. Department of Veterans Affairs; Florida concealed weapon or firearm license; employee ID issued by any branch, department, agency or entity of the federal, state, county or municipal government. If the photo ID lacks a signature, a second ID with signature is required. A voter without acceptable ID may vote a provisional ballot, which counts if the signature matches the registration record.",
   "id_sources": [
     "https://dos.fl.gov/elections/for-voters/voting/election-day-voting/",
     "https://elections.sumtercountyfl.gov/200/Early-Voting"
   ],
-  "sample_ballot_url": "https://elections.sumtercountyfl.gov/163/2026-Election-Information",
-  "sample_ballot_note": "The county posted 2026 Primary sample ballots as a news flash (detail/34); General Election sample ballots are expected on the same news-flash feed and the 2026 Election Information page, typically after the late-September overseas mailing. Exact posting date and PDF link not retrievable (site blocked in sandbox).",
+  "sample_ballot_url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+  "sample_ballot_note": "The official 2026 General Election sample ballot (two-page PDF, English and Spanish) is posted on the Supervisor of Elections' Sample Ballot page. It shows every countywide contest, the three constitutional amendments, four judicial retention questions, two county referendums, and the city and Village CDD contests that appear only in certain precincts.",
   "precinct_lookup_url": "https://registration.elections.myflorida.com/CheckVoterStatus",
   "precinct_lookup_note": "State Voter Information Lookup (shows registration status, precinct and polling place). The county site also offers a precinct/polling-place finder from its home page https://elections.sumtercountyfl.gov/.",
   "vote_by_mail_request_url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/23",
@@ -73,21 +73,19 @@
     "https://elections.sumtercountyfl.gov/Calendar.aspx?EID=751"
   ],
   "unverified": [
-    "Sumter-specific early-voting days for Nov. 2026 (only the statewide mandatory window is stated); 9 a.m.-6 p.m. hours come from the county early-voting page snippet and may be primary-specific.",
-    "Whether all seven early-voting sites will be used for the General Election.",
-    "General Election sample-ballot posting date and PDF link.",
-    "Office holder/phone cross-check against the state SOE directory."
+    "Whether the county will offer secure ballot intake stations (drop boxes) at every early-voting site for the General Election; the early-voting page fetched Sept. 17 did not address drop boxes. Ask the Supervisor of Elections at (352) 569-1540."
   ],
-  "early_voting_hours": "9 a.m. to 6 p.m. daily during early voting, per the Sumter County Elections early-voting page (search snippet; General Election-specific hours UNVERIFIED).",
+  "early_voting_hours": "10 a.m. to 6 p.m. each day (Sumter County Elections early-voting and 2026 General Election Information pages, fetched Sept. 17, 2026).",
   "sample_ballot_sources": [
-    "https://elections.sumtercountyfl.gov/163/2026-Election-Information",
-    "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/34",
-    "https://elections.sumtercountyfl.gov/m/newsflash?cat=1"
+    "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+    "https://elections.sumtercountyfl.gov/242/SAMPLE-BALLOT",
+    "https://elections.sumtercountyfl.gov/163/2026-Election-Information"
   ],
   "short": {
     "election_date": "Tue, Nov 3, 2026",
     "registration_deadline": "Mon, Oct 5, 2026",
     "vote_by_mail_request_deadline": "Thu, Oct 22, 2026 (5 p.m.)",
-    "early_voting_dates": "At least Sat Oct 24 – Sat Oct 31, 9 a.m.–6 p.m. (county may add Oct 19–23 and Nov 1; confirm at elections.sumtercountyfl.gov)"
-  }
+    "early_voting_dates": "Sat Oct 24 – Sat Oct 31, 10 a.m.–6 p.m., at any of seven sites"
+  },
+  "county_referendums_note": "Sumter ballots also carry two county questions: No. 1, renewal of the 5th and 6th cent local option fuel tax, and No. 2, a 2% tourist development tax. See the Amendments page."
 }
