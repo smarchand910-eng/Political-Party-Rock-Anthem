@@ -48,8 +48,8 @@ docs/RESEARCH_BRIEF.md The research brief and JSON schema used to collect the da
 ## Publishing it (free) and getting it into Google
 
 1. **Merge this branch into `main`.** The workflow in `.github/workflows/pages.yml` runs on every push to `main`: it rebuilds the data, prerenders every race and candidate into a real HTML page (`/candidates/david-jolly/`, `/races/governor-lieutenant-governor/`, …), writes `sitemap.xml` and `robots.txt`, and deploys to GitHub Pages.
-2. **Enable Pages once:** GitHub repo → Settings → Pages → *Build and deployment* → Source: **GitHub Actions**. The site appears at `https://<your-username>.github.io/Political-Party-Rock-Anthem/` within a couple of minutes.
-3. **Optional custom domain** (recommended for search ranking and trust): buy a domain, add it under Settings → Pages → Custom domain, and commit a `CNAME` file containing the domain. The prerender picks up the new base URL automatically.
+2. **Enable Pages once:** GitHub repo → Settings → Pages → *Build and deployment* → Source: **GitHub Actions**. The site appears at `https://flvotersguide.org/` (or the github.io address until the domain is configured) within a couple of minutes.
+3. **Custom domain:** the site's domain is **flvotersguide.org** (the `CNAME` file). At the registrar, point `@` A records to GitHub Pages (185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153) and `www` CNAME to `smarchand910-eng.github.io`; in GitHub go to Settings → Pages → Custom domain, enter `flvotersguide.org`, and tick *Enforce HTTPS* once the DNS check passes. The prerender reads `CNAME` and writes all links, the sitemap and structured data with that address.
 4. **Tell Google:** go to [Google Search Console](https://search.google.com/search-console), add the site URL, verify ownership (the HTML-tag method works: paste the tag into `index.html`), then submit `https://<site>/sitemap.xml`. Use *URL inspection → Request indexing* on the home page to speed things up. Bing Webmaster Tools accepts the same sitemap.
 
 Prerendering is what makes individual candidates and races show up as separate search results; without it Google would only see the home page.

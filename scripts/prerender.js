@@ -10,7 +10,10 @@ const { chromium } = require('playwright');
 
 const ROOT = path.resolve(__dirname, '..');
 const DIST = path.join(ROOT, 'dist');
-const SITE_URL = (process.env.SITE_URL || 'https://example.github.io/Political-Party-Rock-Anthem').replace(/\/$/, '');
+const CNAME_FILE = path.join(ROOT, 'CNAME');
+const CUSTOM_DOMAIN = fs.existsSync(CNAME_FILE) ? fs.readFileSync(CNAME_FILE, 'utf8').trim() : '';
+// A CNAME file (custom domain) wins over the Pages-provided URL so links, sitemap and structured data use the real address.
+const SITE_URL = (CUSTOM_DOMAIN ? `https://${CUSTOM_DOMAIN}` : (process.env.SITE_URL || 'https://example.github.io/Political-Party-Rock-Anthem')).replace(/\/$/, '');
 const BASE_PATH = new URL(SITE_URL).pathname.replace(/\/$/, ''); // '' for a custom domain, '/repo' for project pages
 
 const data = (() => { const js = fs.readFileSync(path.join(ROOT, 'data', 'guide.js'), 'utf8'); return JSON.parse(js.slice(js.indexOf('{'), js.lastIndexOf('}') + 1)); })();
