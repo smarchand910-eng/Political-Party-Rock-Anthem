@@ -310,3 +310,6 @@ tr.highlight td { background: var(--accent-soft); }
 .btn-hero-main { font-weight: 800; font-size: 1.5rem; }
 .btn-hero-sub { font-weight: 500; font-size: 0.95rem; opacity: .92; }
 @media (max-width: 640px) { .btn-hero { width: 100%; padding: 18px 20px; } .btn-hero-main { font-size: 1.3rem; } }
+
+.hero-picker { margin-top: 22px; }
+.hero-picker .county-picker select { font-size: 1.15rem; padding: 14px 16px; max-width: 520px; }

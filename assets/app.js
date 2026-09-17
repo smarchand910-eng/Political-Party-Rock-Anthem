@@ -207,36 +207,38 @@
 
   /* ---------- views ---------- */
   function viewHome() {
-    const vi = (DATA.voting_info || {}).short || {};
-    const dates = [
-      ['Register by', vi.registration_deadline], ['Mail ballot request by', vi.vote_by_mail_request_deadline],
-      ['Early voting', vi.early_voting_dates], ['Election Day', vi.election_date || 'Tue, Nov 3, 2026']
-    ].filter(d => d[1]);
+    const statewideIds = ['us_senate_special', 'governor', 'attorney_general', 'cfo', 'agriculture_commissioner'];
+    const statewide = statewideIds.map(id => RACE_BY_ID[id]).filter(Boolean);
+    const local = RACES.filter(r => !statewideIds.includes(r.id));
     return `
       <section class="hero">
         <div class="eyebrow">Florida · General Election · November 3, 2026</div>
         <h1>Know every race on your ballot. Decide on the facts.</h1>
-        <p class="lead">A nonpartisan, source-cited guide to the candidates and questions Sumter County voters will see this November, plus a tool that matches your own views to each candidate's stated positions.</p>
-        <div class="hero-cta">
-          <a class="btn btn-primary btn-hero" href="#/match"><span class="btn-hero-main">Take the 2-minute quiz</span><span class="btn-hero-sub">Answer 21 statements and see which candidates match your views →</span></a>
-        </div>
-        <div class="btn-row">
-          <a class="btn" href="#/races">Browse all races</a>
-          <a class="btn" href="#/vote">How &amp; where to vote</a>
-        </div>
+        <p class="lead">A nonpartisan, source-cited guide to Florida's November 3, 2026 election: the official candidate line-up for every county, researched positions for the statewide races, and plain-language explanations of the constitutional amendments.</p>
+        <div class="card county-home hero-picker">${countyPicker(loadCounty())}<p class="muted"><small>See the districts that cover your county, who is on your ballot for Congress, the Legislature, judges and county offices, and your Supervisor of Elections. <a href="#/counties">Browse all 67 counties →</a></small></p></div>
       </section>
-      <section class="section"><div class="card county-home">${countyPicker(loadCounty())}<p class="muted"><small>Every Florida county: official candidate line-ups for Congress, the Legislature, judges and county offices, plus your Supervisor of Elections. <a href="#/counties">Browse all 67 counties →</a></small></p></div></section>
       <section class="section">${countdown()}</section>
       <section class="section">
-        <div class="section-head"><h2>Races on the Sumter County ballot</h2><a href="#/races">See all →</a></div>
-        <div class="grid grid-2">${RACES.map(raceCard).join('')}</div>
+        <div class="section-head"><h2>Statewide races (on every Florida ballot)</h2><a href="#/races">See all →</a></div>
+        <div class="grid grid-2">${statewide.map(raceCard).join('')}</div>
       </section>
       <section class="section grid grid-3">
         <div class="card"><div class="eyebrow">Ballot questions</div><h3><a href="#/amendments">${(DATA.amendments || []).length || 3} constitutional amendments</a></h3><p class="muted">Official ballot language, what a Yes or No vote does, fiscal impact, and the arguments each side is making, attributed to who is making them.</p></div>
-        <div class="card"><div class="eyebrow">Judicial retention</div><h3><a href="#/judges">Should these judges keep their seats?</a></h3><p class="muted">Background on the Supreme Court justice and appellate judges you will be asked to retain or remove.</p></div>
-        <div class="card"><div class="eyebrow">How this guide works</div><h3><a href="#/about">Methodology &amp; neutrality rules</a></h3><p class="muted">How positions are coded, why some are marked unknown, and how the match score is calculated.</p></div>
-      </section>`;
+        <div class="card"><div class="eyebrow">Judicial retention</div><h3><a href="#/judges">Should these judges keep their seats?</a></h3><p class="muted">Background on Supreme Court Justice Carlos Muñiz, on every ballot statewide, and on the Fifth District Court of Appeal judges for the counties that vote on them.</p></div>
+        <div class="card"><div class="eyebrow">How this guide works</div><h3><a href="#/about">Methodology &amp; neutrality rules</a></h3><p class="muted">How positions are coded, why some are marked unknown, and how the match score works.</p></div>
+      </section>
+      ${local.length ? `<section class="section">
+        <div class="section-head"><h2>In depth: Sumter County</h2><a href="#/county/SUM">Sumter ballot →</a></div>
+        <p class="muted">The guide's home county has the fullest coverage: candidate profiles for its congressional and state House races, its two county referendums, local voting logistics, and a questionnaire that matches your views to the candidates.</p>
+        <div class="grid grid-2">${local.map(raceCard).join('')}</div>
+        <div class="grid grid-3" style="margin-top:12px">
+          <div class="card"><div class="eyebrow">Match tool</div><h3><a href="#/match">Match me to the candidates</a></h3><p class="muted">21 statements scored against documented positions for the statewide races and the Sumter County races.</p></div>
+          <div class="card"><div class="eyebrow">County questions</div><h3><a href="#/amendments">Two Sumter County referendums</a></h3><p class="muted">Fuel-tax renewal and a 2% tourist development tax, explained.</p></div>
+          <div class="card"><div class="eyebrow">Voting logistics</div><h3><a href="#/vote">How &amp; where to vote in Sumter</a></h3><p class="muted">Early-voting sites and hours, mail-ballot deadlines and ID rules.</p></div>
+        </div>
+      </section>` : ''}`;
   }
+
 
   function raceCard(r) {
     const cands = r.candidates || [];
@@ -613,7 +615,7 @@
   function countyList() { return SW ? Object.values(SW.counties).sort((a, b) => a.name.localeCompare(b.name)) : []; }
   function countyPicker(selected) {
     if (!SW) return '';
-    return `<label class="county-picker"><span class="eyebrow">Not in Sumter County? Choose your county</span>
+    return `<label class="county-picker"><span class="eyebrow">Choose your county to see your ballot</span>
       <select data-county-picker aria-label="Choose your Florida county">
         <option value="">Select a county…</option>
         ${countyList().map(c => `<option value="${esc(c.code)}"${c.code === selected ? ' selected' : ''}>${esc(c.name)}</option>`).join('')}
