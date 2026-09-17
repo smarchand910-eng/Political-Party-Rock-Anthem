@@ -1,0 +1,353 @@
+{
+  "race_id": "state_house_35",
+  "title": "Florida House, District 35",
+  "level": "state",
+  "office_group": "State",
+  "term": "2 years",
+  "jurisdiction": {
+    "type": "hd",
+    "id": 35
+  },
+  "counties": [
+    "Orange",
+    "Osceola"
+  ],
+  "what_it_does": "Represents District 35 in the Florida House of Representatives; votes on state laws and the state budget.",
+  "on_november_ballot": true,
+  "decided_note": "Incumbent Republican Erika Booth faces Democrat Eric Gray on Nov. 3, 2026.",
+  "coverage": "roster",
+  "verified_ballot_note": "Ballotpedia's candidate page states 'Incumbent Erika Booth and Eric Gray are running in the general election for Florida House of Representatives District 35 on November 3, 2026' (https://ballotpedia.org/Eric_Gray_(Florida)); Florida Politics covered Gray's entry and Booth's fundraising. Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
+  "candidates": [
+    {
+      "id": "erika_booth",
+      "name": "Erika Booth",
+      "party": "Republican",
+      "incumbent": true,
+      "photo_url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4914",
+      "photo_source": "Florida House member page (MemberId=4914); image URL not verified",
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Incumbent Republican state representative for HD 35 (parts of Orange and Osceola counties), first elected in a January 2024 special election and re-elected in November 2024.",
+      "primary_result": null,
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [],
+      "sources": [
+        {
+          "title": "Eric Gray (Florida) (Ballotpedia)",
+          "url": "https://ballotpedia.org/Eric_Gray_(Florida)",
+          "date": null
+        },
+        {
+          "title": "Erika Booth starts 2026 with commanding cash lead in HD 35 (Florida Politics)",
+          "url": "https://floridapolitics.com/archives/772997-erika-booth-starts-2026-with-commanding-cash-lead-in-hd-35/",
+          "date": "2026-01"
+        },
+        {
+          "title": "2026 Florida House of Representatives election (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/2026_Florida_House_of_Representatives_election",
+          "date": null
+        }
+      ]
+    },
+    {
+      "id": "eric_gray",
+      "name": "Eric Gray",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Democratic nominee for HD 35; Florida Politics reported in 2025 that he planned to challenge Booth.",
+      "primary_result": null,
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [],
+      "sources": [
+        {
+          "title": "Eric Gray (Florida) (Ballotpedia)",
+          "url": "https://ballotpedia.org/Eric_Gray_(Florida)",
+          "date": null
+        },
+        {
+          "title": "Eric Gray plans to challenge Erika Booth in HD 35 (Florida Politics)",
+          "url": "https://floridapolitics.com/archives/759013-eric-gray-plans-to-challenge-erika-booth-in-hd-35/",
+          "date": "2025"
+        }
+      ]
+    }
+  ]
+}

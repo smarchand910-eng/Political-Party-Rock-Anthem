@@ -1,0 +1,338 @@
+{
+  "race_id": "state_house_47",
+  "title": "Florida House, District 47",
+  "level": "state",
+  "office_group": "State",
+  "term": "2 years",
+  "jurisdiction": {
+    "type": "hd",
+    "id": 47
+  },
+  "counties": [
+    "Orange",
+    "Osceola"
+  ],
+  "what_it_does": "Represents District 47 in the Florida House of Representatives; votes on state laws and the state budget.",
+  "on_november_ballot": false,
+  "decided_note": "Decided in the Aug. 18, 2026 universal primary: only Democrats Jorge H. Figueroa-Ortiz and Anthony Nieves qualified, so the primary was open to all voters and its winner takes the seat. The winner could not be verified from search snippets.",
+  "coverage": "partial",
+  "verified_ballot_note": "ClickOrlando's voter guide: 'The Florida House District 47 election is a universal primary... Since only Democrats qualified to appear on the ballot, the election is now open to all registered voters. Jorge H. Figueroa-Ortiz (D) and Anthony Nieves (D)' (https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-47-universal-primary/). Result not verified. Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
+  "candidates": [
+    {
+      "id": "jorge_h_figueroa_ortiz",
+      "name": "Jorge H. Figueroa-Ortiz",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Democratic candidate in the HD 47 universal primary on Aug. 18, 2026 (result unverified).",
+      "primary_result": null,
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [],
+      "sources": [
+        {
+          "title": "2026 Voter's Guide - Florida House District 47, Universal primary (ClickOrlando)",
+          "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-47-universal-primary/",
+          "date": "2026-07-31"
+        }
+      ]
+    },
+    {
+      "id": "anthony_nieves",
+      "name": "Anthony Nieves",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Democratic candidate in the HD 47 universal primary on Aug. 18, 2026 (result unverified).",
+      "primary_result": null,
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [],
+      "sources": [
+        {
+          "title": "2026 Voter's Guide - Florida House District 47, Universal primary (ClickOrlando)",
+          "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-47-universal-primary/",
+          "date": "2026-07-31"
+        }
+      ]
+    }
+  ]
+}

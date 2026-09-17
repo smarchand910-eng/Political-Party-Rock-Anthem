@@ -1,0 +1,674 @@
+{
+  "race_id": "state_house_71",
+  "title": "Florida House, District 71",
+  "level": "state",
+  "office_group": "State",
+  "term": "2 years",
+  "jurisdiction": {
+    "type": "hd",
+    "id": 71
+  },
+  "counties": [
+    "Manatee",
+    "Sarasota"
+  ],
+  "what_it_does": "Represents District 71 in the Florida House of Representatives; votes on state laws and the state budget.",
+  "on_november_ballot": true,
+  "decided_note": "Democrat Marie Masferrer was the lone Democratic candidate; Republicans Melton Little, Kristen Truong and Jordan Varnadore met in the Aug. 18, 2026 Republican primary. The Republican primary winner could not be verified, so all three are listed pending verification.",
+  "coverage": "partial",
+  "verified_ballot_note": "Ballotpedia's HD 71 page lists Marie Masferrer (D) and Republicans Melton Little, Kristen Truong and Jordan Varnadore for the Aug. 18, 2026 primaries (https://ballotpedia.org/Florida_House_of_Representatives_District_71); Pulse of Manatee reported the fields set at qualifying (https://www.pulseofmanatee.com/p/florida-house-races-set-in-districts). Primary result not verified. Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
+  "candidates": [
+    {
+      "id": "marie_masferrer",
+      "name": "Marie Masferrer",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Democratic candidate for HD 71 (Manatee/Sarasota); advanced as the only Democrat.",
+      "primary_result": null,
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [],
+      "sources": [
+        {
+          "title": "Florida House of Representatives District 71 (Ballotpedia)",
+          "url": "https://ballotpedia.org/Florida_House_of_Representatives_District_71",
+          "date": null
+        },
+        {
+          "title": "Florida House races set in Districts 70, 71 and 72 as candidates qualified for 2026 election (Pulse of Manatee)",
+          "url": "https://www.pulseofmanatee.com/p/florida-house-races-set-in-districts",
+          "date": "2026-06"
+        }
+      ]
+    },
+    {
+      "id": "melton_little",
+      "name": "Melton Little",
+      "party": "Republican",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Republican candidate in the Aug. 18, 2026 HD 71 Republican primary (result unverified).",
+      "primary_result": null,
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [],
+      "sources": [
+        {
+          "title": "Florida House of Representatives District 71 (Ballotpedia)",
+          "url": "https://ballotpedia.org/Florida_House_of_Representatives_District_71",
+          "date": null
+        },
+        {
+          "title": "Florida House races set in Districts 70, 71 and 72 as candidates qualified for 2026 election (Pulse of Manatee)",
+          "url": "https://www.pulseofmanatee.com/p/florida-house-races-set-in-districts",
+          "date": "2026-06"
+        }
+      ]
+    },
+    {
+      "id": "kristen_truong",
+      "name": "Kristen Truong",
+      "party": "Republican",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Republican candidate in the Aug. 18, 2026 HD 71 Republican primary (result unverified).",
+      "primary_result": null,
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [],
+      "sources": [
+        {
+          "title": "Florida House of Representatives District 71 (Ballotpedia)",
+          "url": "https://ballotpedia.org/Florida_House_of_Representatives_District_71",
+          "date": null
+        },
+        {
+          "title": "Florida House races set in Districts 70, 71 and 72 as candidates qualified for 2026 election (Pulse of Manatee)",
+          "url": "https://www.pulseofmanatee.com/p/florida-house-races-set-in-districts",
+          "date": "2026-06"
+        }
+      ]
+    },
+    {
+      "id": "jordan_varnadore",
+      "name": "Jordan Varnadore",
+      "party": "Republican",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Republican candidate in the Aug. 18, 2026 HD 71 Republican primary (result unverified).",
+      "primary_result": null,
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [],
+      "sources": [
+        {
+          "title": "Florida House of Representatives District 71 (Ballotpedia)",
+          "url": "https://ballotpedia.org/Florida_House_of_Representatives_District_71",
+          "date": null
+        },
+        {
+          "title": "Florida House races set in Districts 70, 71 and 72 as candidates qualified for 2026 election (Pulse of Manatee)",
+          "url": "https://www.pulseofmanatee.com/p/florida-house-races-set-in-districts",
+          "date": "2026-06"
+        }
+      ]
+    }
+  ]
+}

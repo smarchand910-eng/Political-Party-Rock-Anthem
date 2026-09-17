@@ -1,0 +1,337 @@
+{
+  "race_id": "state_house_50",
+  "title": "Florida House, District 50",
+  "level": "state",
+  "office_group": "State",
+  "term": "2 years",
+  "jurisdiction": {
+    "type": "hd",
+    "id": 50
+  },
+  "counties": [
+    "Polk"
+  ],
+  "what_it_does": "Represents District 50 in the Florida House of Representatives; votes on state laws and the state budget.",
+  "on_november_ballot": true,
+  "decided_note": "Incumbent Republican Jennifer Canady faces Carlos Gamez on Nov. 3, 2026. Gamez's party affiliation was not stated in the search snippet.",
+  "coverage": "partial",
+  "verified_ballot_note": "Ballotpedia's Canady page: 'Incumbent Jennifer Canady and Carlos Gamez are running in the general election for Florida House of Representatives District 50 on November 3, 2026' (https://ballotpedia.org/Jennifer_Canady). Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
+  "candidates": [
+    {
+      "id": "jennifer_canady",
+      "name": "Jennifer Canady",
+      "party": "Republican",
+      "incumbent": true,
+      "photo_url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4879",
+      "photo_source": "Florida House member page (MemberId=4879); image URL not verified",
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Incumbent Republican state representative for HD 50 (Lakeland/Polk County), in office since November 2022; she has been designated a future House Speaker.",
+      "primary_result": null,
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [],
+      "sources": [
+        {
+          "title": "Jennifer Canady (Ballotpedia)",
+          "url": "https://ballotpedia.org/Jennifer_Canady",
+          "date": null
+        }
+      ]
+    },
+    {
+      "id": "carlos_gamez",
+      "name": "Carlos Gamez",
+      "party": null,
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "General-election opponent of Rep. Canady in HD 50; party affiliation not verified.",
+      "primary_result": null,
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [],
+      "sources": [
+        {
+          "title": "Jennifer Canady (Ballotpedia)",
+          "url": "https://ballotpedia.org/Jennifer_Canady",
+          "date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "office": "Florida House of Representatives",
+  "election": "2026-11-03",
+  "as_of": "2026-09-17",
+  "method": "Bulk sources only (search-result snippets). All WebFetch targets (Ballotpedia, Wikipedia, FL Division of Elections, county SOEs, Florida Politics, regional news) were blocked by the sandbox egress proxy, and the session's WebSearch cap was reached after 39 searches. Districts marked not_researched had no usable 2026 general-election snippet; several (e.g., HD 32/34, 44-46, 49, 51, 55, 72, 118) surfaced only incumbent names or conflicting district numbers and were deliberately not written to avoid guessing.",
+  "fragments_not_written": {
+    "10": "WCJB (Aug. 19, 2026) headline: 'Rawson defeats Brannan in House District 10 primary' -- Nov status and full names unverified",
+    "32_34": "Central Florida Public Media said 'HD 32: incumbent Republican Robert Brackett sailed through his primary' but Brackett represents HD 34 (HD 32 is Brian Hodgers); district conflict, not written",
+    "46": "Jose Alvarez (D, inc) survived Aug. 18 primary per CBS Miami/NSF; Nov opponent unverified",
+    "49": "Jennifer Kincart Jonsson (R, inc) in Aug. 18 GOP primary; nothing further",
+    "51": "Hilary Holley (R) won Mar. 24, 2026 special election over Edwin Perez; 2026 regular-election status unverified",
+    "55": "Kevin Steele (R) resigned Aug. 2026 to run for CD 14; candidates named: Walter Price, Brenton Basinger, Matthew 'Skeeter' Abbott (parties/results unverified)",
+    "72": "Bill Conerly (R, inc) vs John Phillips in Aug. 18 GOP primary; Nov status unverified",
+    "67": "Fentrice Driskell (D) term-limited, open seat; no candidates found",
+    "118": "Mike Redondo (R, inc, Miami) survived Aug. 18 primary per CBS Miami/NSF; district number inferred, Nov opponent unverified",
+    "miami_dade_competitive_primaries": "Local10 reported competitive Aug. 18 primaries in HDs 106, 108, 109, 113 and 118; no names captured"
+  },
+  "districts": {
+    "1": {
+      "status": "not_researched"
+    },
+    "2": {
+      "status": "not_researched"
+    },
+    "3": {
+      "status": "not_researched"
+    },
+    "4": {
+      "status": "not_researched"
+    },
+    "5": {
+      "status": "not_researched"
+    },
+    "6": {
+      "status": "not_researched"
+    },
+    "7": {
+      "status": "not_researched"
+    },
+    "8": {
+      "status": "not_researched"
+    },
+    "9": {
+      "status": "not_researched"
+    },
+    "10": {
+      "status": "not_researched"
+    },
+    "11": {
+      "status": "not_researched"
+    },
+    "12": {
+      "status": "documented",
+      "coverage": "roster"
+    },
+    "13": {
+      "status": "documented",
+      "coverage": "partial",
+      "note": "only Nov opponent is a write-in (name not found)"
+    },
+    "14": {
+      "status": "not_on_ballot",
+      "coverage": "roster"
+    },
+    "15": {
+      "status": "not_researched"
+    },
+    "16": {
+      "status": "not_researched"
+    },
+    "17": {
+      "status": "not_researched"
+    },
+    "18": {
+      "status": "not_researched"
+    },
+    "19": {
+      "status": "not_researched"
+    },
+    "20": {
+      "status": "not_researched"
+    },
+    "21": {
+      "status": "not_on_ballot",
+      "coverage": "roster"
+    },
+    "22": {
+      "status": "not_researched"
+    },
+    "23": {
+      "status": "documented",
+      "coverage": "partial",
+      "note": "Grow won closed GOP primary; Nov opponent name not found"
+    },
+    "24": {
+      "status": "not_on_ballot",
+      "coverage": "roster"
+    },
+    "25": {
+      "status": "documented",
+      "coverage": "roster"
+    },
+    "26": {
+      "status": "not_researched"
+    },
+    "27": {
+      "status": "not_on_ballot",
+      "coverage": "partial",
+      "note": "unopposed as of June 8 pre-qualifying; final status unverified"
+    },
+    "28": {
+      "status": "not_researched"
+    },
+    "29": {
+      "status": "not_researched"
+    },
+    "30": {
+      "status": "not_researched"
+    },
+    "31": {
+      "status": "documented",
+      "coverage": "roster"
+    },
+    "32": {
+      "status": "not_researched"
+    },
+    "33": {
+      "status": "not_researched"
+    },
+    "34": {
+      "status": "not_researched"
+    },
+    "35": {
+      "status": "documented",
+      "coverage": "roster"
+    },
+    "36": {
+      "status": "not_researched"
+    },
+    "37": {
+      "status": "documented",
+      "coverage": "roster"
+    },
+    "38": {
+      "status": "documented",
+      "coverage": "partial",
+      "note": "GOP primary winner unverified"
+    },
+    "39": {
+      "status": "documented",
+      "coverage": "roster"
+    },
+    "40": {
+      "status": "not_on_ballot",
+      "coverage": "partial",
+      "note": "unopposed as of June 8 pre-qualifying; final status unverified"
+    },
+    "41": {
+      "status": "documented",
+      "coverage": "partial",
+      "note": "field/primary result unverified"
+    },
+    "42": {
+      "status": "documented",
+      "coverage": "roster"
+    },
+    "43": {
+      "status": "documented",
+      "coverage": "partial",
+      "note": "open seat; Dem primary held; Nov field unverified"
+    },
+    "44": {
+      "status": "not_researched"
+    },
+    "45": {
+      "status": "not_researched"
+    },
+    "46": {
+      "status": "not_researched"
+    },
+    "47": {
+      "status": "not_on_ballot",
+      "coverage": "partial",
+      "note": "universal Dem primary; winner unverified"
+    },
+    "48": {
+      "status": "documented",
+      "coverage": "partial",
+      "note": "closed GOP primary; Nov opponent not found"
+    },
+    "49": {
+      "status": "not_researched"
+    },
+    "50": {
+      "status": "documented",
+      "coverage": "partial"
+    },
+    "51": {
+      "status": "not_researched"
+    },
+    "52": {
+      "status": "documented",
+      "note": "pre-existing file (not touched); note Wikipedia's Samantha Scott article says she was elected without opposition in 2026, which conflicts with the existing file's Scott-vs-Bivins roster"
+    },
+    "53": {
+      "status": "documented",
+      "coverage": "roster"
+    },
+    "54": {
+      "status": "documented",
+      "coverage": "partial",
+      "note": "closed GOP primary; Nov opponent not found"
+    },
+    "55": {
+      "status": "not_researched"
+    },
+    "56": {
+      "status": "documented",
+      "coverage": "partial",
+      "note": "Dem opponent name not found"
+    },
+    "57": {
+      "status": "not_researched"
+    },
+    "58": {
+      "status": "not_researched"
+    },
+    "59": {
+      "status": "not_researched"
+    },
+    "60": {
+      "status": "not_researched"
+    },
+    "61": {
+      "status": "not_researched"
+    },
+    "62": {
+      "status": "documented",
+      "coverage": "partial",
+      "note": "Nov opponent not found"
+    },
+    "63": {
+      "status": "documented",
+      "coverage": "partial",
+      "note": "Nov opponent not found"
+    },
+    "64": {
+      "status": "not_researched"
+    },
+    "65": {
+      "status": "not_researched"
+    },
+    "66": {
+      "status": "not_researched"
+    },
+    "67": {
+      "status": "not_researched"
+    },
+    "68": {
+      "status": "not_researched"
+    },
+    "69": {
+      "status": "not_researched"
+    },
+    "70": {
+      "status": "not_researched"
+    },
+    "71": {
+      "status": "documented",
+      "coverage": "partial",
+      "note": "GOP primary winner unverified"
+    },
+    "72": {
+      "status": "not_researched"
+    },
+    "73": {
+      "status": "not_researched"
+    },
+    "74": {
+      "status": "not_researched"
+    },
+    "75": {
+      "status": "not_researched"
+    },
+    "76": {
+      "status": "not_researched"
+    },
+    "77": {
+      "status": "not_researched"
+    },
+    "78": {
+      "status": "not_researched"
+    },
+    "79": {
+      "status": "not_researched"
+    },
+    "80": {
+      "status": "not_researched"
+    },
+    "81": {
+      "status": "not_researched"
+    },
+    "82": {
+      "status": "not_researched"
+    },
+    "83": {
+      "status": "not_researched"
+    },
+    "84": {
+      "status": "not_researched"
+    },
+    "85": {
+      "status": "not_researched"
+    },
+    "86": {
+      "status": "not_researched"
+    },
+    "87": {
+      "status": "not_researched"
+    },
+    "88": {
+      "status": "not_researched"
+    },
+    "89": {
+      "status": "not_researched"
+    },
+    "90": {
+      "status": "not_researched"
+    },
+    "91": {
+      "status": "not_researched"
+    },
+    "92": {
+      "status": "not_researched"
+    },
+    "93": {
+      "status": "not_researched"
+    },
+    "94": {
+      "status": "not_researched"
+    },
+    "95": {
+      "status": "not_researched"
+    },
+    "96": {
+      "status": "not_researched"
+    },
+    "97": {
+      "status": "not_on_ballot",
+      "coverage": "partial"
+    },
+    "98": {
+      "status": "not_researched"
+    },
+    "99": {
+      "status": "not_on_ballot",
+      "coverage": "partial"
+    },
+    "100": {
+      "status": "not_researched"
+    },
+    "101": {
+      "status": "not_researched"
+    },
+    "102": {
+      "status": "not_researched"
+    },
+    "103": {
+      "status": "not_researched"
+    },
+    "104": {
+      "status": "not_on_ballot",
+      "coverage": "partial"
+    },
+    "105": {
+      "status": "not_on_ballot",
+      "coverage": "partial"
+    },
+    "106": {
+      "status": "not_researched"
+    },
+    "107": {
+      "status": "not_researched"
+    },
+    "108": {
+      "status": "not_researched"
+    },
+    "109": {
+      "status": "not_researched"
+    },
+    "110": {
+      "status": "not_on_ballot",
+      "coverage": "partial"
+    },
+    "111": {
+      "status": "not_on_ballot",
+      "coverage": "partial"
+    },
+    "112": {
+      "status": "not_on_ballot",
+      "coverage": "partial"
+    },
+    "113": {
+      "status": "not_researched"
+    },
+    "114": {
+      "status": "not_researched"
+    },
+    "115": {
+      "status": "not_researched"
+    },
+    "116": {
+      "status": "not_researched"
+    },
+    "117": {
+      "status": "not_researched"
+    },
+    "118": {
+      "status": "not_researched"
+    },
+    "119": {
+      "status": "not_researched"
+    },
+    "120": {
+      "status": "not_researched"
+    }
+  }
+}

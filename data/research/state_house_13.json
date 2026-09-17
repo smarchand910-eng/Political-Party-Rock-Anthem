@@ -1,0 +1,184 @@
+{
+  "race_id": "state_house_13",
+  "title": "Florida House, District 13",
+  "level": "state",
+  "office_group": "State",
+  "term": "2 years",
+  "jurisdiction": {
+    "type": "hd",
+    "id": 13
+  },
+  "counties": [
+    "Duval"
+  ],
+  "what_it_does": "Represents District 13 in the Florida House of Representatives; votes on state laws and the state budget.",
+  "on_november_ballot": true,
+  "decided_note": "Open seat: Democratic Rep. Angie Nixon is running for U.S. Senate. Audrey Gibson won the Aug. 18 Democratic primary over Leslie Jean-Bart; her only November opponent is a write-in candidate, so the write-in's name will not appear on the ballot.",
+  "coverage": "partial",
+  "verified_ballot_note": "CBS Miami / News Service of Florida (Aug. 19, 2026) reported Audrey Gibson defeated Leslie Jean-Bart in the HD 13 Democratic primary and that 'her only general election opponent is a write-in candidate' (https://www.cbsnews.com/miami/news/florida-house-senate-primary-election-results-2026/). The write-in's name was not found. Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
+  "candidates": [
+    {
+      "id": "audrey_gibson",
+      "name": "Audrey Gibson",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Former state senator (2011-2022) and former state representative (2002-2010) from Jacksonville. Won the Aug. 18, 2026 Democratic primary for the open HD 13 seat over Leslie Jean-Bart.",
+      "primary_result": "Won Aug. 18, 2026 Democratic primary over Leslie Jean-Bart (CBS Miami)",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [],
+      "sources": [
+        {
+          "title": "Florida House incumbents survive primary challenges as state legislative races turn to November (CBS Miami / News Service of Florida)",
+          "url": "https://www.cbsnews.com/miami/news/florida-house-senate-primary-election-results-2026/",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "2026 Florida House of Representatives election (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/2026_Florida_House_of_Representatives_election",
+          "date": null
+        }
+      ]
+    }
+  ]
+}

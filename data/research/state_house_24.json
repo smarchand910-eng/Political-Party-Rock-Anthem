@@ -1,0 +1,189 @@
+{
+  "race_id": "state_house_24",
+  "title": "Florida House, District 24",
+  "level": "state",
+  "office_group": "State",
+  "term": "2 years",
+  "jurisdiction": {
+    "type": "hd",
+    "id": 24
+  },
+  "counties": [
+    "Marion"
+  ],
+  "what_it_does": "Represents District 24 in the Florida House of Representatives; votes on state laws and the state budget.",
+  "on_november_ballot": false,
+  "decided_note": "Decided Aug. 18, 2026: incumbent Republican Ryan Chamberlin won the universal primary (open to all voters because only Republicans qualified) with about 62% over Scott Wilkins.",
+  "coverage": "roster",
+  "verified_ballot_note": "ClickOrlando's voter guide identifies HD 24 as a universal primary between Ryan Chamberlin and Scott Wilkins (https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-24-universal-primary/); Central Florida Public Media and 352today reported Chamberlin won outright with about 62% (https://www.cfpublic.org/live-updates/live-updates-primary-election-day-in-central-florida). Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
+  "candidates": [
+    {
+      "id": "ryan_chamberlin",
+      "name": "Ryan Chamberlin",
+      "party": "Republican",
+      "incumbent": true,
+      "photo_url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4901",
+      "photo_source": "Florida House member page (MemberId=4901); image URL not verified",
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Incumbent Republican state representative for HD 24 (rural Marion County around Ocala), first elected in a 2023 special election. Won the Aug. 18, 2026 universal primary with about 62% over Scott Wilkins, which decided the seat.",
+      "primary_result": "Won Aug. 18, 2026 universal primary with ~62% over Scott Wilkins",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [],
+      "sources": [
+        {
+          "title": "2026 Voter's Guide - Florida House District 24, Universal primary (ClickOrlando)",
+          "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-24-universal-primary/",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "Live updates: Key Primary Election results in Central Florida (Central Florida Public Media)",
+          "url": "https://www.cfpublic.org/live-updates/live-updates-primary-election-day-in-central-florida",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "The 2026 Primary Election in Marion County: The Unofficial Results (352today)",
+          "url": "https://352today.com/news/257752-the-2026-primary-election-in-marion-county-the-unofficial-results/",
+          "date": "2026-08-18"
+        }
+      ]
+    }
+  ]
+}

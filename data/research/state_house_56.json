@@ -1,0 +1,189 @@
+{
+  "race_id": "state_house_56",
+  "title": "Florida House, District 56",
+  "level": "state",
+  "office_group": "State",
+  "term": "2 years",
+  "jurisdiction": {
+    "type": "hd",
+    "id": 56
+  },
+  "counties": [
+    "Pasco"
+  ],
+  "what_it_does": "Represents District 56 in the Florida House of Representatives; votes on state laws and the state budget.",
+  "on_november_ballot": true,
+  "decided_note": "Incumbent Republican Brad Yeager faced Jessica Naioti in the Aug. 18, 2026 Republican primary; coverage stated a Democrat awaits in the general election. The News Service of Florida reported all 13 Republican incumbents with primary challengers won, which indicates Yeager advanced. The Democratic nominee's name was not found. (An earlier June 8 Florida Politics item listing Yeager as unopposed was superseded by qualifying.)",
+  "coverage": "partial",
+  "verified_ballot_note": "Ballotpedia: 'Incumbent Brad Yeager and Jessica Naioti are running in the Republican primary for Florida House of Representatives District 56 on August 18, 2026' and a Democrat awaits in the general election (https://ballotpedia.org/Brad_Yeager); CBS Miami/NSF: all 16 House incumbents facing primary challengers won (https://www.cbsnews.com/miami/news/florida-house-senate-primary-election-results-2026/). Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
+  "candidates": [
+    {
+      "id": "brad_yeager",
+      "name": "Brad Yeager",
+      "party": "Republican",
+      "incumbent": true,
+      "photo_url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4882",
+      "photo_source": "Florida House member page (MemberId=4882); image URL not verified",
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Incumbent Republican state representative for HD 56 (coastal Pasco County including New Port Richey), first elected 2022. Faced Jessica Naioti in the Aug. 18, 2026 Republican primary.",
+      "primary_result": "Aug. 18, 2026 Republican primary vs. Jessica Naioti; all incumbents with challengers won per NSF",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [],
+      "sources": [
+        {
+          "title": "Brad Yeager (Ballotpedia)",
+          "url": "https://ballotpedia.org/Brad_Yeager",
+          "date": null
+        },
+        {
+          "title": "Ron DeSantis endorses 'conservative fighter' Brad Yeager for re-election to Pasco-based HD 56 (Florida Politics)",
+          "url": "https://floridapolitics.com/archives/678795-ron-desantis-endorses-conservative-fighter-brad-yeager-for-re-election-to-pasco-based-hd-56/",
+          "date": null
+        },
+        {
+          "title": "Florida House incumbents survive primary challenges as state legislative races turn to November (CBS Miami / News Service of Florida)",
+          "url": "https://www.cbsnews.com/miami/news/florida-house-senate-primary-election-results-2026/",
+          "date": "2026-08-19"
+        }
+      ]
+    }
+  ]
+}

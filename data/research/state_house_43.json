@@ -1,0 +1,184 @@
+{
+  "race_id": "state_house_43",
+  "title": "Florida House, District 43",
+  "level": "state",
+  "office_group": "State",
+  "term": "2 years",
+  "jurisdiction": {
+    "type": "hd",
+    "id": 43
+  },
+  "counties": [
+    "Orange"
+  ],
+  "what_it_does": "Represents District 43 in the Florida House of Representatives; votes on state laws and the state budget.",
+  "on_november_ballot": true,
+  "decided_note": "Open seat: Democratic Rep. Johanna López is running for Orange County Commission and endorsed Orange County Democratic Chair Samuel Vilchez Santiago, her former student, to succeed her. ClickOrlando published a voter guide for a Democratic (not universal) primary on Aug. 18, which implies at least one non-Democratic candidate qualified for Nov. 3. The primary winner and the November field could not be verified.",
+  "coverage": "partial",
+  "verified_ballot_note": "ClickOrlando 2026 Voter's Guide for the HD 43 Democratic primary (https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-43-democratic-primary/); Florida Politics on López's decision and endorsement (https://floridapolitics.com/archives/771819-johanna-lopez-decides-against-re-election-in-tallahassee-filing-for-orange-county-commission/). Candidate names for November not verified, so none are listed. Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
+  "candidates": [
+    {
+      "id": "samuel_vilchez_santiago",
+      "name": "Samuel Vilchez Santiago",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Orange County Democratic Party chair; endorsed by outgoing Rep. Johanna López for HD 43. Ran in the Aug. 18, 2026 Democratic primary; result unverified.",
+      "primary_result": null,
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": [],
+      "sources": [
+        {
+          "title": "Johanna López decides against re-election in Tallahassee, filing for Orange County Commission (Florida Politics)",
+          "url": "https://floridapolitics.com/archives/771819-johanna-lopez-decides-against-re-election-in-tallahassee-filing-for-orange-county-commission/",
+          "date": "2026"
+        },
+        {
+          "title": "2026 Voter's Guide - Florida House District 43, Democratic primary (ClickOrlando)",
+          "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-43-democratic-primary/",
+          "date": "2026-07-31"
+        }
+      ]
+    }
+  ]
+}
