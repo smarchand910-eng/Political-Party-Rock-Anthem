@@ -217,8 +217,10 @@
         <div class="eyebrow">Florida · General Election · November 3, 2026</div>
         <h1>Know every race on your ballot. Decide on the facts.</h1>
         <p class="lead">A nonpartisan, source-cited guide to the candidates and questions Sumter County voters will see this November, plus a tool that matches your own views to each candidate's stated positions.</p>
+        <div class="hero-cta">
+          <a class="btn btn-primary btn-hero" href="#/match"><span class="btn-hero-main">Take the 2-minute quiz</span><span class="btn-hero-sub">Answer 21 statements and see which candidates match your views →</span></a>
+        </div>
         <div class="btn-row">
-          <a class="btn btn-primary" href="#/match">Find my closest match →</a>
           <a class="btn" href="#/races">Browse all races</a>
           <a class="btn" href="#/vote">How &amp; where to vote</a>
         </div>
