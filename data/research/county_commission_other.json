@@ -1,0 +1,300 @@
+{
+  "race_id": "county_commission_other",
+  "verified_ballot_note": "Compiled from search snippets of Lake & Sumter Style and ClickOrlando primary results, the Sumter Sun Times primary preview, ClickOrlando voter guides and Ballotpedia. The county's official 2026 Notice of General Election (https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27) and sample ballots could not be read, so the November ballot contents below are NOT fully verified. Research limitation: in this sandbox every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was exhausted, so positions are coded only from search-result snippets. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
+  "races_on_ballot": [
+    {
+      "office": "Sumter County Commission, District 4",
+      "status": "On Nov. 3, 2026 ballot",
+      "note": "Republican primary winner Jeffrey A. Bogue (73.04%) vs. write-in Ethan Parks (name not printed on ballot). See county_commission_4.json.",
+      "candidates": [
+        {
+          "id": "jeffrey_bogue",
+          "name": "Jeffrey A. Bogue",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "id": "ethan_parks",
+          "name": "Ethan Parks",
+          "party": "Write-in",
+          "incumbent": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
+          "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+          "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "Sumter 2026 Candidates - Florida Money Watch (campaign finance)",
+          "url": "https://www.floridamoneywatch.com/county.php?code=SUM",
+          "date": null
+        }
+      ]
+    },
+    {
+      "office": "Florida House District 52",
+      "status": "On Nov. 3, 2026 ballot",
+      "note": "Samantha Scott (R, incumbent) vs. Pamala Kaye Bivins (D). See state_house_52.json.",
+      "candidates": [
+        {
+          "id": "samantha_scott",
+          "name": "Samantha Scott",
+          "party": "Republican",
+          "incumbent": true
+        },
+        {
+          "id": "pamala_bivins",
+          "name": "Pamala Kaye Bivins",
+          "party": "Democratic",
+          "incumbent": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "Florida House of Representatives District 52 - Ballotpedia",
+          "url": "https://ballotpedia.org/Florida_House_of_Representatives_District_52",
+          "date": null
+        }
+      ]
+    }
+  ],
+  "decided_or_unopposed": [
+    {
+      "office": "Sumter County School Board, Districts 1, 3 and 5 (nonpartisan)",
+      "status": "Decided Aug. 18, 2026 primary (each winner exceeded 50%; no November runoff)",
+      "note": "D1 Sally Moss 68.31%; D3 David A. Williams 54.52%; D5 Michael Johnson 71.29%. See school_board_results.json.",
+      "sources": [
+        {
+          "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+          "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "Election results for Sumter County races in the Florida Primary on Aug. 18, 2026 - ClickOrlando",
+          "url": "https://www.clickorlando.com/election-2026/2026/08/18/election-results-for-sumter-county-races-in-the-florida-primary-on-aug-18-2026/",
+          "date": "2026-08-18"
+        }
+      ]
+    },
+    {
+      "office": "Fifth Judicial Circuit Judge, Group 27 (nonpartisan, circuit-wide: Citrus, Hernando, Lake, Marion, Sumter)",
+      "status": "Two-candidate race decided in the Aug. 18, 2026 primary by circuit-wide vote; circuit-wide winner NOT verified",
+      "note": "Nicole M. Morris (chief assistant public defender, Citrus County) vs. Lisa Yeager (assistant state attorney, Fifth Circuit). In Sumter County alone Morris led 19,703 (50.32%) to 19,450 (49.68%). The five-county total, which decides the race, could not be retrieved.",
+      "candidates": [
+        {
+          "id": "nicole_morris",
+          "name": "Nicole M. Morris",
+          "party": "Nonpartisan",
+          "incumbent": false
+        },
+        {
+          "id": "lisa_yeager",
+          "name": "Lisa Yeager",
+          "party": "Nonpartisan",
+          "incumbent": false
+        }
+      ],
+      "sources": [
+        {
+          "title": "2026 Voter's Guide - Fifth Circuit Judge, Group 27 - ClickOrlando",
+          "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-fifth-circuit-judge-group-27/",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+          "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+          "date": "2026-08-18"
+        },
+        {
+          "title": "Primary election coming up - Sumter Sun Times",
+          "url": "https://www.midfloridanewspapers.com/sumter_sun_times/primary-election-coming-up/article_e03a68ea-ce42-40af-8422-ce3cc530a15e.html",
+          "date": "2026-08"
+        }
+      ]
+    },
+    {
+      "office": "Sumter County Commission, District 2",
+      "status": "UNVERIFIED",
+      "note": "Districts 2 and 4 are the seats on the 2026 cycle. Search snippets of the primary results and ClickOrlando guides mention only the District 4 contest, which suggests District 2 had no contested primary (possibly elected without opposition or a general-election contest), but this could not be confirmed. Check the county Candidates page and Notice of General Election.",
+      "sources": [
+        {
+          "title": "Candidates - Sumter County Elections",
+          "url": "https://elections.sumtercountyfl.gov/183/Candidates",
+          "date": null
+        },
+        {
+          "title": "2026 Notice of General Election - Sumter County Elections",
+          "url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27",
+          "date": "2026"
+        },
+        {
+          "title": "Elections: Commission and School Board candidates - Sumter Sun Times",
+          "url": "https://www.midfloridanewspapers.com/sumter_sun_times/elections-commission-and-school-board-candidates/article_e432b843-0286-4fdd-9d77-0f0f8c8fc24c.html",
+          "date": "2026"
+        },
+        {
+          "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+          "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+          "date": "2026-08-18"
+        }
+      ]
+    },
+    {
+      "office": "Sumter County constitutional offices (Sheriff, Clerk, Property Appraiser, Tax Collector, Supervisor of Elections)",
+      "status": "Not on the 2026 ballot (UNVERIFIED for Sumter specifically)",
+      "note": "Florida county constitutional officers serve four-year terms elected in presidential-election years (last elected 2024, next 2028). No 2026 Sumter constitutional-office contest appeared in any search result.",
+      "sources": [
+        {
+          "title": "Candidates - Sumter County Elections",
+          "url": "https://elections.sumtercountyfl.gov/183/Candidates",
+          "date": null
+        },
+        {
+          "title": "Sumter County, Florida, elections, 2026 - Ballotpedia",
+          "url": "https://ballotpedia.org/Sumter_County,_Florida,_elections,_2026",
+          "date": null
+        }
+      ]
+    },
+    {
+      "office": "Municipal elections (Wildwood, Bushnell, Coleman, Webster, Center Hill)",
+      "status": "UNVERIFIED",
+      "note": "The county's candidate qualifying notice covered 'Cities' in the June 8-12, 2026 qualifying window, but no search result identified specific municipal contests or unopposed municipal candidates for Nov. 3, 2026. Wildwood's commission seat vacated by Bivins (resigned Nov. 2025) may also be affected; not confirmed.",
+      "sources": [
+        {
+          "title": "Primary election coming up - Sumter Sun Times",
+          "url": "https://www.midfloridanewspapers.com/sumter_sun_times/primary-election-coming-up/article_e03a68ea-ce42-40af-8422-ce3cc530a15e.html",
+          "date": "2026-08"
+        },
+        {
+          "title": "2026 Election Information - Sumter County Elections",
+          "url": "https://elections.sumtercountyfl.gov/163/2026-Election-Information",
+          "date": null
+        }
+      ]
+    },
+    {
+      "office": "County or local referendum questions",
+      "status": "UNVERIFIED",
+      "note": "No Sumter County or municipal referendum for Nov. 3, 2026 appeared in search results; the Notice of General Election could not be read.",
+      "sources": [
+        {
+          "title": "2026 Notice of General Election - Sumter County Elections",
+          "url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27",
+          "date": "2026"
+        }
+      ]
+    },
+    {
+      "office": "Sumter County Court Judge",
+      "status": "No 2026 contest found",
+      "note": "No county-court judge contest for Sumter County appeared in 2026 primary results or voter guides.",
+      "sources": [
+        {
+          "title": "Sumter County, Florida (Judicial) - Ballotpedia",
+          "url": "https://ballotpedia.org/Sumter_County,_Florida_(Judicial)",
+          "date": null
+        },
+        {
+          "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+          "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+          "date": "2026-08-18"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "2026 Notice of General Election - Sumter County Elections",
+      "url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27",
+      "date": "2026"
+    },
+    {
+      "title": "Candidates - Sumter County Elections",
+      "url": "https://elections.sumtercountyfl.gov/183/Candidates",
+      "date": null
+    },
+    {
+      "title": "2026 Election Information - Sumter County Elections",
+      "url": "https://elections.sumtercountyfl.gov/163/2026-Election-Information",
+      "date": null
+    },
+    {
+      "title": "Official Primary Election Ballot August 18, 2026 - Republican sample ballot",
+      "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/302/2026-Primary-Republican-Sample-Ballot?bidId=",
+      "date": "2026-08"
+    },
+    {
+      "title": "Official Primary Election Ballot August 18, 2026 - Democratic sample ballot",
+      "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/300/2026-Primary-Democratic-Sample-Ballot?bidId=",
+      "date": "2026-08"
+    },
+    {
+      "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+      "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Election results for Sumter County races in the Florida Primary on Aug. 18, 2026 - ClickOrlando",
+      "url": "https://www.clickorlando.com/election-2026/2026/08/18/election-results-for-sumter-county-races-in-the-florida-primary-on-aug-18-2026/",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "2026 Primary Election - Sumter County official results (enr.electionsfl.org)",
+      "url": "https://enr.electionsfl.org/SUM/3989/Summary/",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Florida Election Watch - Sumter County results",
+      "url": "https://floridaelectionwatch.gov/TrackCounty/SUM",
+      "date": null
+    },
+    {
+      "title": "Primary election coming up - Sumter Sun Times",
+      "url": "https://www.midfloridanewspapers.com/sumter_sun_times/primary-election-coming-up/article_e03a68ea-ce42-40af-8422-ce3cc530a15e.html",
+      "date": "2026-08"
+    },
+    {
+      "title": "Elections: Commission and School Board candidates - Sumter Sun Times",
+      "url": "https://www.midfloridanewspapers.com/sumter_sun_times/elections-commission-and-school-board-candidates/article_e432b843-0286-4fdd-9d77-0f0f8c8fc24c.html",
+      "date": "2026"
+    },
+    {
+      "title": "Sumter County, Florida, elections, 2026 - Ballotpedia",
+      "url": "https://ballotpedia.org/Sumter_County,_Florida,_elections,_2026",
+      "date": null
+    },
+    {
+      "title": "2026 Voter's Guide - Fifth Circuit Judge, Group 27 - ClickOrlando",
+      "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-fifth-circuit-judge-group-27/",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
+      "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Sumter 2026 Candidates - Florida Money Watch (campaign finance)",
+      "url": "https://www.floridamoneywatch.com/county.php?code=SUM",
+      "date": null
+    },
+    {
+      "title": "Sumter County Candidates 2026 - Who's Running",
+      "url": "https://www.whosrunning.app/counties/Sumter",
+      "date": null
+    },
+    {
+      "title": "Candidates in the August Primary in Sumter County - Sumter County Democrats",
+      "url": "https://www.sumterfldemocrats.com/post/candidates-in-the-august-primary-in-sumter-county",
+      "date": "2026"
+    }
+  ]
+}

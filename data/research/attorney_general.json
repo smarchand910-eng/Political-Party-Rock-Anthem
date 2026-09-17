@@ -1,0 +1,858 @@
+{
+  "race_id": "attorney_general",
+  "verified_ballot_note": "Multiple news sources (News4Jax voter guide, Florida Tribune, NBC News primary results, Sparker's Soapbox) list only Republican James Uthmeier and Democrat José Javier Rodríguez as Nov. 3 general-election candidates; the Florida Division of Elections candidate list (dos.elections.myflorida.com) and Ballotpedia were blocked in this sandbox, so the absence of NPA/write-in candidates is unverified. Sources: https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-attorney-general/ ; https://floridatrib.org/2026elections/2026-statewide-races/ ; https://www.nbcnews.com/politics/2026-primary-elections/florida-attorney-general-results",
+  "candidates": [
+    {
+      "id": "james_uthmeier",
+      "name": "James Uthmeier",
+      "party": "Republican",
+      "incumbent": true,
+      "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20Uthmeier.jpg",
+      "photo_source": "Wikimedia Commons (file name unverified; official portrait also on myfloridalegal.com)",
+      "website": null,
+      "occupation": "Florida Attorney General (appointed); attorney",
+      "residence": "Tallahassee, Leon County (native of Destin, Okaloosa County)",
+      "background": "James William Uthmeier was born Nov. 25, 1987, and grew up in Destin, attending Fort Walton Beach High School. He graduated from the University of Florida, where he competed in track and field, and from Georgetown University Law Center in 2014. He practiced at Jones Day, served as senior counsel and senior advisor at the U.S. Department of Commerce in the first Trump administration (2017-2019), then joined Gov. Ron DeSantis' office as deputy general counsel (2019), general counsel (2020) and chief of staff (2021-2025); he also managed DeSantis' 2024 presidential campaign. DeSantis appointed him attorney general in February 2025 after Ashley Moody was appointed to the U.S. Senate. He is seeking his first full term and was unopposed for the Republican nomination.",
+      "primary_result": "No Republican primary was held; news reports say Uthmeier was the only qualified Republican and advanced directly to the Nov. 3 general election (Florida Tribune/floridatrib.org; WUSF). Note: an earlier Ballotpedia listing had named Steven S. Leskovich as a possible primary opponent; this could not be reconciled because Ballotpedia is blocked in this sandbox.",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No clear position for or against eliminating homestead property taxes was found. After a Leon County judge ordered the DeSantis-backed Amendment 3 ballot summary rewritten as misleading, Uthmeier's office rewrote it (removing the phrase 'full elimination') and he said the proposal 'could certainly have been rolled out with greater transparency' and with input from law enforcement.",
+          "quote": "could certainly have been rolled out with greater transparency",
+          "sources": [
+            {
+              "title": "Does Florida AG Uthmeier dislike the property tax amendment DeSantis pushed? (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/08/14/florida-attorney-general-uthmeier-desantis-property-tax-amendment/",
+              "date": "2026-08-14"
+            },
+            {
+              "title": "Uthmeier rewrites property tax cut ballot summary (WGCU)",
+              "url": "https://www.wgcu.org/government-politics/2026-08-14/uthmeier-rewrites-property-tax-cut-ballot-summary",
+              "date": "2026-08-14"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "As attorney general Uthmeier has made immigration enforcement a signature issue: Florida became the first state with all officers certified under ICE's 287(g) program, he threatened Orange County and Key West officials with removal from office for not honoring 287(g) agreements, he proposed the 'Alligator Alcatraz' Everglades detention facility, and he launched a program to support federal immigration officers. In June 2025 a federal judge held him in civil contempt for continuing to direct enforcement of a state immigration law she had blocked.",
+          "quote": "We will not allow this unlawful sanctuary policy in Florida.",
+          "sources": [
+            {
+              "title": "Attorney General James Uthmeier Stands with Federal Immigration Enforcement Officers",
+              "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-stands-federal-immigration-enforcement-officers",
+              "date": null
+            },
+            {
+              "title": "Florida attorney general threatens Orange County leaders over ICE agreement (WUSF)",
+              "url": "https://www.wusf.org/courts-law/2025-07-29/florida-attorney-general-threatens-orange-county-leaders-over-ice-agreement",
+              "date": "2025-07-29"
+            },
+            {
+              "title": "James Uthmeier threatens Key West leaders with removal from office for voiding ICE agreement (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/745947-james-uthmeier-threatens-key-west-leaders-with-removal-from-office-for-voiding-ice-agreement/",
+              "date": "2025-07"
+            },
+            {
+              "title": "Judge finds Florida AG in contempt for defying court order in major immigration case (AOL/AP)",
+              "url": "https://www.aol.com/news/judge-finds-florida-attorney-general-235138211.html",
+              "date": "2025-06"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "As DeSantis' chief of staff Uthmeier helped lead the effort that defeated 2024's Amendment 4, which would have repealed the six-week ban. As attorney general he filed a $354 million lawsuit against Planned Parenthood over advertising of abortion medication and intervened in a challenge to the FDA's approval of mifepristone.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Uthmeier files $354 million lawsuit against Planned Parenthood for alleged racketeering, deception (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2025/11/07/uthmeier-files-354-million-lawsuit-against-planned-parenthood-for-alleged-racketeering-deception/",
+              "date": "2025-11-07"
+            },
+            {
+              "title": "Uthmeier explains state's intervention in challenge to FDA's mifepristone approval (WLRN)",
+              "url": "https://www.wlrn.org/health/2025-09-17/uthmeier-explains-states-intervention-in-challenge-to-fdas-mifepristone-approval",
+              "date": "2025-09-17"
+            },
+            {
+              "title": "Uthmeier lawsuit accuses Planned Parenthood of false advertising about abortion drugs (WUSF)",
+              "url": "https://www.wusf.org/health-news-florida/2025-11-06/uthmeier-lawsuit-accuses-planned-parenthood-false-advertising-over-abortion-drug",
+              "date": "2025-11-06"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Uthmeier has said the Parkland-era law barring 18-to-20-year-olds from buying firearms is unconstitutional and directed his office not to defend it if it reached the U.S. Supreme Court. After a September 2025 appellate ruling, he declared open carry 'the law of the state' and told police and prosecutors not to arrest people visibly carrying firearms. No statement on the red-flag law was found.",
+          "quote": "I believe restricting the ability of Floridians ages 18-20 to purchase firearms runs afoul of our Constitution's Second Amendment.",
+          "sources": [
+            {
+              "title": "James Uthmeier on X (18-20 firearm purchase)",
+              "url": "https://x.com/JamesUthmeierFL/status/1900955966851747980",
+              "date": "2025-03"
+            },
+            {
+              "title": "Florida AG says he won't defend state ban on long gun purchases, so gun safety group steps up (Yahoo)",
+              "url": "https://www.yahoo.com/news/articles/florida-ag-says-won-t-165546414.html",
+              "date": "2025"
+            },
+            {
+              "title": "Open carry begins in Florida, marking major change in state law (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/florida-open-carry-law-what-to-know-gun-rights-control/",
+              "date": "2025-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Uthmeier proposed and defended the 'Alligator Alcatraz' detention site in the Everglades over lawsuits from conservation groups alleging harm to endangered species, and he subpoenaed the Environmental Law Institute's Climate Judiciary Project as an alleged 'climate cartel' under the state's deceptive-trade-practices law. No statement prioritizing conservation over development was found.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "'Climate cartel': Uthmeier subpoenas environmental nonprofit for alleged trade law violations (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/04/16/climate-cartel-uthmeier-subpoenas-environmental-nonprofit-for-alleged-trade-law-violations/",
+              "date": "2026-04-16"
+            },
+            {
+              "title": "What comes after Alligator Alcatraz? (The Invading Sea)",
+              "url": "https://www.theinvadingsea.com/2026/06/22/alligator-alcatraz-florida-everglades-airport-uthmeier-emergency-response-fund-lawsuit/",
+              "date": "2026-06-22"
+            },
+            {
+              "title": "Florida environmental groups sue over 'Alligator Alcatraz' project (Axios)",
+              "url": "https://www.axios.com/local/miami/2025/06/27/alligator-alcatraz-florida-environmental-groups-sue",
+              "date": "2025-06-27"
+            }
+          ]
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Uthmeier led the political committee that campaigned against the 2024 recreational-marijuana amendment. As attorney general he urged the Florida Supreme Court to reject the 2026 Smart & Safe amendment as misleading and in conflict with federal law, and opened dozens of criminal investigations into the campaign's petition gathering.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Up in smoke? James Uthmeier amps up criminal probe of pot petitions (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/774963-up-in-smoke-james-uthmeier-amps-up-criminal-probe-of-pot-petitions/",
+              "date": "2025-12"
+            },
+            {
+              "title": "Smart & Safe urges Florida Supreme Court to OK proposed pot amendment (WUSF)",
+              "url": "https://www.wusf.org/courts-law/2026-01-19/supporters-urge-florida-supreme-court-give-go-ahead-proposed-recreational-marijuana-amendment",
+              "date": "2026-01-19"
+            },
+            {
+              "title": "Judge urged to give go-ahead to recreational marijuana amendment (NBC 6)",
+              "url": "https://www.nbcmiami.com/news/local/judge-urged-to-give-go-ahead-to-recreational-marijuana-amendment/3751272/",
+              "date": "2025"
+            }
+          ]
+        },
+        "elections": {
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Uthmeier's election-related actions have focused on citizenship verification and enforcement: Florida joined Iowa, Indiana and Ohio in suing to restore access to the federal SAVE database for checking voter citizenship after a federal judge disabled it, and he announced felony charges against a Canadian permanent resident who registered and voted in Florida. No statement supporting expanded mail voting, drop boxes or rights restoration was found.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Uthmeier announces felony charges against a Canadian citizen who voted in Florida elections (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-07-31/uthmeier-announces-felony-charges-against-a-canadian-citizen-who-voted-in-florida-elections",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "'Theatrical' litigation: Republican AGs fight for Trump voting rules (CNN)",
+              "url": "https://www.cnn.com/2026/09/12/politics/republican-attorneys-general-trump-mail-voting",
+              "date": "2026-09-12"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Uthmeier says prosecuting child predators is his No. 1 priority and has cited roughly 2,000 predator arrests during his tenure. He has pushed for the death penalty in several high-profile cases, says his office seeks 'the maximum penalty under the law,' and has proposed new criminal penalties for AI chatbot companies. The Governor and Cabinet approved $90 million in grants to local law enforcement for immigration enforcement.",
+          "quote": "If you harm a child, we will find you, we will prosecute you, and we will seek the maximum penalty under the law.",
+          "sources": [
+            {
+              "title": "Florida Attorney General Uthmeier talks his priorities if elected to stay in his position (WUSF)",
+              "url": "https://www.wusf.org/politics-issues/2026-02-28/florida-attorney-general-james-uthmeier-talks-priorities-re-elected",
+              "date": "2026-02-28"
+            },
+            {
+              "title": "James Uthmeier Highlights 2,000 Child Predator Arrests in Office (The Floridian)",
+              "url": "https://floridianpress.com/2026/08/james-uthmeier-highlights-2000-child-predator-arrests-in-office/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Death penalty? AG James Uthmeier wants man accused of killing 3 tourists prosecuted to the fullest (FOX 35)",
+              "url": "https://www.fox35orlando.com/news/death-penalty-attorney-general-james-uthmeier-wants-man-accused-killing-three-kissimmee-tourists-prosecuted-fullest-he-says",
+              "date": "2026"
+            },
+            {
+              "title": "AG Uthmeier seeks new penalties for chatbot companies abetting crimes (WUSF)",
+              "url": "https://www.wusf.org/courts-law/2026-09-09/ag-uthmeier-seeks-new-penalties-for-chatbot-companies-abetting-crimes",
+              "date": "2026-09-09"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Uthmeier sued the World Professional Association for Transgender Health, the Endocrine Society and the American Academy of Pediatrics over gender-affirming care for minors, created an Office of Parental Rights to enforce laws on gender transition, library materials and school surveys, and led a 21-state brief supporting a Tallahassee mother's parental-rights case at the U.S. Supreme Court. A federal judge in Chicago granted the AAP a preliminary injunction against him in June 2026.",
+          "quote": "In 2023, @GovRonDeSantis signed legislation to ban so-called \"gender-affirming care\" for kids. Now it's time for accountability!",
+          "sources": [
+            {
+              "title": "Attorney General James Uthmeier on X (WPATH/AAP lawsuit)",
+              "url": "https://x.com/AGJamesUthmeier/status/1998433573993398563",
+              "date": "2025-12"
+            },
+            {
+              "title": "James Uthmeier files suit against 3 organizations to block 'gender-affirming care' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/769069-james-uthmeier-files-suit-against-3-organizations-to-block-gender-affirming-care/",
+              "date": "2025-12"
+            },
+            {
+              "title": "Uthmeier leads 21 states in backing January Littlejohn's SCOTUS case over parental rights (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2025/10/06/uthmeier-leads-21-states-in-backing-january-littlejohns-scotus-case-over-parental-rights/",
+              "date": "2025-10-06"
+            },
+            {
+              "title": "Chicago judge sides against Florida attorney general on kids transgender medicine (Center Square)",
+              "url": "https://www.thecentersquare.com/florida/article_b8f1518f-46bc-5dd1-811f-7c9268f044ef.html",
+              "date": "2026-06"
+            }
+          ]
+        },
+        "energy": {
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Unlike some prior Florida attorneys general, Uthmeier did not intervene before the Public Service Commission against Florida Power & Light's multibillion-dollar rate increase, and he led a multi-state coalition warning corporations about involvement with what he called anticompetitive environmental groups. No statement supporting renewable-energy promotion was found.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Florida AG candidate says Uthmeier should intervene in FPL rate hike increase (Miami Times)",
+              "url": "https://www.miamitimesonline.com/business/florida-ag-candidate-says-uthmeier-should-intervene-in-fpl-rate-hike-increase/article_df0fc4ca-b7d0-4588-814d-c8fcdf7fdf69.html",
+              "date": "2025"
+            },
+            {
+              "title": "Attorney General James Uthmeier Leads Multi-State Coalition Putting Corporations on Notice Over Involvement with Anticompetitive Environmental Groups",
+              "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-leads-multi-state-coalition-putting-corporations-notice",
+              "date": null
+            }
+          ]
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Uthmeier says he will champion an 'America-first agenda,' filed a 23-state amicus brief supporting President Trump's removal power in Trump v. Slaughter, and celebrated an appellate ruling as 'a win for Florida and President Trump's agenda.' Trump endorsed him in October 2025.",
+          "quote": "A win for Florida and President Trump's agenda!",
+          "sources": [
+            {
+              "title": "Attorney General James Uthmeier on X (11th Circuit ruling)",
+              "url": "https://x.com/AGJamesUthmeier/status/1963680670628384888",
+              "date": "2025-09"
+            },
+            {
+              "title": "Trump endorses Uthmeier for Florida attorney general (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2025/10/08/uthmeier-attorney-general-race-trump-desantis-endorsement/",
+              "date": "2025-10-08"
+            },
+            {
+              "title": "Trump v. Slaughter amicus brief of Florida and 22 other states (Supreme Court docket)",
+              "url": "https://www.supremecourt.gov/DocketPDF/25/25-332/374310/20250910164544592_Slaughter%20Amicus%20Stay%20Draft%20v.Final.pdf",
+              "date": "2025-09-10"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Prosecuting child predators",
+          "summary": "Says continuing to go after child predators will remain his No. 1 priority if elected; cites roughly 2,000 arrests and a crackdown on social-media platforms used to exploit minors.",
+          "sources": [
+            {
+              "title": "Florida Attorney General Uthmeier talks his priorities if elected (WUSF)",
+              "url": "https://www.wusf.org/politics-issues/2026-02-28/florida-attorney-general-james-uthmeier-talks-priorities-re-elected",
+              "date": null
+            },
+            {
+              "title": "Florida AG cites 1,400 predator takedowns in year amid crackdown on social media abuse (CW34)",
+              "url": "https://cw34.com/news/local/tiktok-instagram-discord-roblox-facebook-instagram-x-twitter-florida-attorney-general-james-uthmeier-crime-cites-1400-predator-takedowns-in-year-amid-crackdown-on-social-media-abuse",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "China office and data protection",
+          "summary": "Opened an office focused on Chinese data threats; says more than a dozen companies are under investigation for devices (medical monitors, security cameras) that send personal data to China.",
+          "sources": [
+            {
+              "title": "Florida Attorney General Uthmeier talks his priorities if elected (WUSF)",
+              "url": "https://www.wusf.org/politics-issues/2026-02-28/florida-attorney-general-james-uthmeier-talks-priorities-re-elected",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Cartels, gangs and traffickers",
+          "summary": "Pledged at his swearing-in to 'fight back against the cartels, the gangs, and the traffickers' as part of an America-first agenda.",
+          "sources": [
+            {
+              "title": "James Uthmeier, DeSantis' 'bulldog,' is sworn in as Florida's attorney general (WUSF)",
+              "url": "https://www.wusf.org/politics-issues/2025-02-17/james-uthmeier-is-the-new-florida-attorney-general-he-says-he-will-lead-with-an-america-first-agenda",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Big Tech, AI chatbots and consumer protection",
+          "summary": "Launched a probe into OpenAI, proposed criminal penalties for chatbot companies that abet crimes, sued proxy advisory firms, and sued pharmacy benefit managers Prime Therapeutics and Express Scripts for alleged price fixing.",
+          "sources": [
+            {
+              "title": "Florida AG James Uthmeier launches probe into OpenAI (WUSF)",
+              "url": "https://www.wusf.org/courts-law/2026-04-09/florida-ag-james-uthmeier-launches-probe-into-openai",
+              "date": null
+            },
+            {
+              "title": "AG takes legal action against Prime Therapeutics and Express Scripts (myfloridalegal.com)",
+              "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-takes-legal-action-against-prime-therapeutics-and",
+              "date": null
+            },
+            {
+              "title": "Florida to sue 2 pharmacy benefit managers for price fixing, deception (ClickOrlando)",
+              "url": "https://www.clickorlando.com/news/politics/2026/08/27/florida-attorney-general-james-uthmeier-speaking-in-the-villages/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Office of Parental Rights",
+          "summary": "Created a litigation team to take cases parents bring on gender transition, library materials and school surveys; warned Catholic schools that refusing religious vaccine exemptions could cost voucher eligibility and claimed vouchers to Islamic schools violate state law.",
+          "sources": [
+            {
+              "title": "Attorney General's office opens parental-rights arm (Yahoo)",
+              "url": "https://www.yahoo.com/news/attorney-general-office-opens-parental-174718472.html",
+              "date": null
+            },
+            {
+              "title": "Florida AG warns Catholic schools: Honor vaccine exemptions or risk scholarships (WTXL)",
+              "url": "https://www.wtxl.com/news/capitol-news/florida-ag-threatens-catholic-school-funding-over-vaccine-exemptions",
+              "date": null
+            },
+            {
+              "title": "Local Islamic leaders hit back at Uthmeier's 'Sharia law' claim (WLRN)",
+              "url": "https://www.wlrn.org/education/2025-11-05/islamic-school-vouchers-florida-uthmeier-sharia",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Scam and fraud enforcement",
+          "summary": "Office secured court orders for more than $4 million against moving-broker scams and a judgment against MV Realty for deceptive homeowner contracts, and recovered funds from Universal Property & Casualty for the Hurricane Catastrophe Fund.",
+          "sources": [
+            {
+              "title": "Moving brokers ordered to pay more than $4M (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/727655-florida-attorney-general-james-uthmeier-moving-brokers-ordered-to-pay-more-than-4m-to-florida-customers-ripped-off-in-scams/",
+              "date": null
+            },
+            {
+              "title": "AG secures judgment against MV Realty (myfloridalegal.com)",
+              "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-secures-judgment-against-mv-realty-scamming-florida",
+              "date": null
+            },
+            {
+              "title": "AG secures return of millions from Universal Property & Casualty to the FHCF (myfloridalegal.com)",
+              "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-secures-return-millions-universal-property-casualty",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Held in civil contempt by U.S. District Judge Kathleen Williams in June 2025 for continuing to direct enforcement of a blocked state immigration law; the judge wrote he offered 'a series of implausible interpretations' of his own words.",
+          "sources": [
+            {
+              "title": "Judge finds Florida AG in contempt (AOL/AP)",
+              "url": "https://www.aol.com/news/judge-finds-florida-attorney-general-235138211.html",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "The 11th Circuit stayed Judge Williams' injunction against expansion of the Alligator Alcatraz detention site pending appeal (Sept. 2025).",
+          "sources": [
+            {
+              "title": "Gov. DeSantis, James Uthmeier hail appellate decision on Alligator Alcatraz (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/754632-alligator-alcatraz-appellate-decision/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "A Leon County grand jury found $10 million from a Medicaid settlement was 'misappropriated' via the Hope Florida Foundation to political committees; testimony identified Uthmeier's committee Keep Florida Clean as recipient of $8.5 million. The grand jury found insufficient evidence for criminal charges. Uthmeier called the probe a 'politically motivated witch hunt.'",
+          "sources": [
+            {
+              "title": "Grand jury finds DeSantis administration 'misappropriated' $10 million in taxpayer money to Hope Florida (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/grand-jury-report-hope-florida/",
+              "date": null
+            },
+            {
+              "title": "Grand jury finds DeSantis administration diverted $10M Medicaid settlement (The Hill)",
+              "url": "https://thehill.com/homenews/state-watch/6056407-grand-jury-desantis-hope-florida-scandal/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Florida House Democrats called for his impeachment in September 2026.",
+          "sources": [
+            {
+              "title": "Florida House Democrats want AG Uthmeier impeached. How does impeachment work? (WUSF)",
+              "url": "https://www.wusf.org/politics-issues/2026-09-03/florida-house-democrats-want-ag-uthmeier-impeached-how-does-impeachment-work",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "A federal judge in Chicago granted the American Academy of Pediatrics a preliminary injunction against Uthmeier and denied his motion to dismiss (June 2, 2026).",
+          "sources": [
+            {
+              "title": "Chicago judge sides against Florida attorney general on kids transgender medicine (Center Square)",
+              "url": "https://www.thecentersquare.com/florida/article_b8f1518f-46bc-5dd1-811f-7c9268f044ef.html",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Filed a Florida-led 23-state amicus brief supporting the president's removal power in Trump v. Slaughter; the Supreme Court sided with Trump 6-3 on June 29, 2026.",
+          "sources": [
+            {
+              "title": "Trump v. Slaughter amicus brief (Supreme Court docket)",
+              "url": "https://www.supremecourt.gov/DocketPDF/25/25-332/374310/20250910164544592_Slaughter%20Amicus%20Stay%20Draft%20v.Final.pdf",
+              "date": null
+            },
+            {
+              "title": "Trump v. Slaughter (SCOTUSblog)",
+              "url": "https://www.scotusblog.com/cases/trump-v-slaughter-2/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Rewrote the ballot summary of the property-tax Amendment 3 after a judge found the original misleading; removed 'full elimination' language.",
+          "sources": [
+            {
+              "title": "Uthmeier rewrites ballot summary of property tax cut amendment (WGCU)",
+              "url": "https://www.wgcu.org/government-politics/2026-08-14/uthmeier-rewrites-property-tax-cut-ballot-summary-amendment-3",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Declared open carry 'the law of the state' after the 1st DCA's Sept. 10, 2025 ruling and directed law enforcement not to arrest people openly carrying; gun-safety groups criticized him for not defending the ban.",
+          "sources": [
+            {
+              "title": "What You Need to Know About Florida Attorney General Uthmeier's Failure to Uphold the State's Open Carry Ban (Everytown)",
+              "url": "https://www.everytown.org/press/what-you-need-to-know-about-florida-attorney-general-uthmeiers-failure-to-uphold-the-states-lifesaving-open-carry-ban/",
+              "date": null
+            },
+            {
+              "title": "Florida Attorney General James Uthmeier is defending gun rights (Second Amendment Foundation)",
+              "url": "https://saf.org/?p=47204",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Campaign finance: his political committee Friends of James Uthmeier had raised $9.9 million as of April 2026; his campaign account raised $1.8 million from 1,320 donors including law-enforcement, insurance, real estate and business PACs.",
+          "sources": [
+            {
+              "title": "Uthmeier grows his fundraising lead in Florida attorney general race (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/04/14/attorney-general-uthmeier-javier-rodriguez-campaign-finance/",
+              "date": null
+            },
+            {
+              "title": "Florida Attorney General Candidates 2026 General (Sparker's Soapbox)",
+              "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "President Donald Trump",
+          "sources": [
+            {
+              "title": "Trump is backing James Uthmeier for Florida attorney general in 2026 (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2025/10/08/trump-is-backing-james-uthmeier-for-florida-attorney-general-in-2026/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "Republican Party of Florida (unanimous)",
+          "sources": [
+            {
+              "title": "Trump endorses Uthmeier for Florida attorney general (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2025/10/08/uthmeier-attorney-general-race-trump-desantis-endorsement/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "Florida Sheriffs Association (more than 90% of the 67 sheriffs)",
+          "sources": [
+            {
+              "title": "Florida Sheriffs Association backs James Uthmeier for Attorney General (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/810185-he-has-stepped-up-to-the-plate-florida-sheriffs-association-backs-james-uthmeier-for-attorney-general/",
+              "date": null
+            },
+            {
+              "title": "Florida Sheriffs Association endorses AG James Uthmeier for full term (Florida's Voice)",
+              "url": "https://flvoicenews.com/florida-sheriffs-association-endorses-ag-james-uthmeier-for-full-term/",
+              "date": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jose_javier_rodriguez",
+      "name": "José Javier Rodríguez",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Javier%20Rodr%C3%ADguez.jpg",
+      "photo_source": "Wikimedia Commons (file name unverified; official portrait also on flsenate.gov archives)",
+      "website": "https://www.jjr.vote",
+      "occupation": "Attorney; former U.S. Assistant Secretary of Labor",
+      "residence": "Miami, Miami-Dade County",
+      "background": "Rodríguez is an attorney from Miami who served in the Florida House and then the Florida Senate before losing his Senate seat in 2020. He served in the Biden administration as U.S. Assistant Secretary of Labor. He launched his campaign for attorney general on June 2, 2025, saying he wants to be 'the people's lawyer,' and is the Democratic nominee facing incumbent James Uthmeier.",
+      "primary_result": "No Democratic primary was held; news reports say Rodríguez was the only qualified Democrat and advanced directly to the general election (Florida Tribune/floridatrib.org; NBC News results page). Note: an earlier Ballotpedia listing named Jim Lewis as a possible primary candidate; this could not be reconciled because Ballotpedia is blocked in this sandbox.",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Rodríguez frames public safety as one of his three priorities ('crime, costs and corruption'), saying he would support law enforcement, take on the fentanyl crisis, crack down on scammers and protect minors and vulnerable Floridians. He has not been found to address the trade-off between tougher penalties and rehabilitation directly.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Florida Attorney General candidate José Javier Rodríguez talks priorities (WUSF)",
+              "url": "https://www.wusf.org/politics-issues/2026-03-31/florida-matters-florida-attorney-general-candidate-jose-javier-rodriguez-talks-priorities",
+              "date": "2026-03-31"
+            },
+            {
+              "title": "Priorities | Jose Javier Rodriguez for Florida Attorney General",
+              "url": "https://www.jjr.vote/priorities",
+              "date": null
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "'The people's lawyer' - crime, costs and corruption",
+          "summary": "Says he would refocus the attorney general's office on public safety, lowering costs for Floridians and fighting corruption, and 'root out' what he calls corrupt deal makers in Tallahassee.",
+          "sources": [
+            {
+              "title": "José Javier Rodríguez says he's running for attorney general to become 'the people's lawyer' (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2025/06/02/jose-javier-rodriguez-says-hes-running-for-attorney-general-to-become-the-peoples-lawyer/",
+              "date": null
+            },
+            {
+              "title": "José Javier Rodríguez launches bid for Attorney General, vows to 'root out corruption' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/740877-jose-javier-rodriguez-launches-bid-for-attorney-general-vows-to-root-out-corruption/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Standing up to big business for consumers",
+          "summary": "Says he will use the office to stand up for consumers against big business and 'fight for the little guy.'",
+          "sources": [
+            {
+              "title": "Jose Javier Rodriguez, running for AG, leans on big-business criticism (Yahoo/Tampa Bay Times)",
+              "url": "https://www.yahoo.com/news/politics/articles/jose-javier-rodriguez-running-ag-100000823.html",
+              "date": null
+            },
+            {
+              "title": "José Javier Rodríguez on 'fighting for the little guy' and more (WUWF)",
+              "url": "https://www.wuwf.org/florida-news/2026-03-31/florida-attorney-general-candidate-jose-javier-rodriguez-on-fighting-for-the-little-guy-and-more",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Fentanyl, scams and protecting minors",
+          "summary": "Lists taking on the fentanyl crisis, cracking down on scammers and protecting minors and 'Florida's most vulnerable' among his priorities.",
+          "sources": [
+            {
+              "title": "Priorities | Jose Javier Rodriguez for Florida Attorney General",
+              "url": "https://www.jjr.vote/priorities",
+              "date": null
+            },
+            {
+              "title": "José Javier Rodríguez visits Miami Shores (Miami-Dade Democratic Party)",
+              "url": "https://www.miamidadedems.org/jose-javier-rodriguez-candidate-attorney-general",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Served in the Florida House and Florida Senate (Miami) and as U.S. Assistant Secretary of Labor in the Biden administration.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Florida Attorney General (News4Jax)",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-attorney-general/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Campaign finance: raised $1.1 million from 1,823 donors as of April 2026 and passed a $2 million milestone by late summer 2026, trailing Uthmeier substantially.",
+          "sources": [
+            {
+              "title": "Uthmeier grows his fundraising lead in Florida attorney general race (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/04/14/attorney-general-uthmeier-javier-rodriguez-campaign-finance/",
+              "date": null
+            },
+            {
+              "title": "José Javier Rodríguez hits $2M fundraising milestone (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/816847-jose-javier-rodriguez-hits-2m-fundraising-milestone-in-bid-for-attorney-general/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "A major labor union (name not captured in available search snippet; see source)",
+          "sources": [
+            {
+              "title": "José Javier Rodríguez adds major union endorsement to Attorney General campaign (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/797285-jose-javier-rodriguez-adds-major-union-endorsement-to-attorney-general-campaign/",
+              "date": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

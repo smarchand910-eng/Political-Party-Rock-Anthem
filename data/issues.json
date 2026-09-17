@@ -1,0 +1,26 @@
+{
+  "_comment": "Statements are worded so a voter can agree or disagree. Candidates are coded on the same scale: +2 strongly agrees, +1 leans agree, 0 mixed/neutral, -1 leans disagree, -2 strongly disagrees, null = no public position found. 'levels' controls which races an issue is used for in matching and comparison.",
+  "issues": [
+    {"id": "taxes", "label": "Taxes & spending", "statement": "Cutting taxes should be a top priority, even if it means less government spending on services.", "levels": ["federal", "state", "county"]},
+    {"id": "property_tax", "label": "Property taxes", "statement": "Florida should eliminate or sharply reduce homestead property taxes, even if local governments must cut services or find other revenue.", "levels": ["state", "county"]},
+    {"id": "insurance", "label": "Property insurance", "statement": "The state should intervene more directly in the property-insurance market (rate caps, expanding Citizens, stricter insurer regulation) rather than relying mainly on market-based reforms.", "levels": ["state"]},
+    {"id": "housing", "label": "Housing affordability", "statement": "Government should do more to make housing affordable (subsidies, zoning changes, rent measures).", "levels": ["federal", "state", "county"]},
+    {"id": "immigration", "label": "Immigration", "statement": "Immigration enforcement should be stricter, including large-scale deportation of people in the country illegally.", "levels": ["federal", "state"]},
+    {"id": "abortion", "label": "Abortion", "statement": "Abortion should be legal in most cases (Florida's six-week ban should be repealed or loosened).", "levels": ["federal", "state"]},
+    {"id": "guns", "label": "Guns", "statement": "Gun laws should be stricter (keep the red-flag law and the age-21 purchase rule; expand background checks) rather than looser (permitless or open carry, lower purchase age).", "levels": ["federal", "state"]},
+    {"id": "healthcare", "label": "Health care", "statement": "Government should expand its role in health coverage (expand Medicaid in Florida, extend Affordable Care Act subsidies).", "levels": ["federal", "state"]},
+    {"id": "social_security", "label": "Social Security & Medicare", "statement": "Social Security and Medicare benefits must be protected from any cuts, even if that requires more revenue.", "levels": ["federal"]},
+    {"id": "education_choice", "label": "Education & school choice", "statement": "Public money should follow students to private, charter or home schools (universal school vouchers).", "levels": ["federal", "state"]},
+    {"id": "environment", "label": "Environment & water", "statement": "Protecting water quality, conservation land and climate resilience should take priority even if it slows development or raises costs.", "levels": ["federal", "state", "county"]},
+    {"id": "growth", "label": "Growth & development", "statement": "Growth and development should be slowed or more tightly regulated (higher impact fees, density limits, stronger local control).", "levels": ["state", "county"]},
+    {"id": "marijuana", "label": "Marijuana", "statement": "Recreational marijuana should be legal for adults.", "levels": ["state"]},
+    {"id": "elections", "label": "Elections & voting", "statement": "Voting should be made easier (mail voting, drop boxes, restoring voting rights) rather than adding new restrictions.", "levels": ["federal", "state"]},
+    {"id": "crime", "label": "Crime & policing", "statement": "Criminal penalties should be tougher and police funding increased, rather than emphasizing reform and rehabilitation.", "levels": ["federal", "state", "county"]},
+    {"id": "lgbtq", "label": "Gender identity laws", "statement": "Florida's laws restricting gender-affirming care for minors and classroom instruction on sexual orientation and gender identity should remain in place.", "levels": ["federal", "state"]},
+    {"id": "energy", "label": "Energy & utilities", "statement": "Government should promote renewable energy and tighten oversight of utility rate increases, even at the expense of fossil-fuel production.", "levels": ["federal", "state"]},
+    {"id": "tariffs", "label": "Tariffs & trade", "statement": "Tariffs on imported goods are good for the American economy.", "levels": ["federal"]},
+    {"id": "ukraine", "label": "Ukraine", "statement": "The U.S. should continue military aid to Ukraine.", "levels": ["federal"]},
+    {"id": "trump", "label": "Trump administration", "statement": "I approve of the direction of the Trump administration.", "levels": ["federal", "state"]},
+    {"id": "veterans", "label": "Veterans", "statement": "Expanding VA services and veterans' benefits should be a top priority.", "levels": ["federal", "state", "county"]}
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "election": "Florida General Election, November 3, 2026",
+  "how_merit_retention_works": "Florida Supreme Court justices and district court of appeal judges are appointed by the governor from nominees submitted by a judicial nominating commission and then face voters in a yes-or-no 'merit retention' question ('Shall Justice/Judge ___ be retained in office?') at the first general election held more than one year after appointment and every six years thereafter. A simple majority of votes cast on the question retains the judge for a new six-year term; a majority 'no' vote creates a vacancy that the governor fills by appointment (Fla. Const. art. V, s. 10).",
+  "how_it_works_sources": [
+    "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/",
+    "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+    "https://www.sparkers-soapbox.com/merit-retention-of-florida-judges/"
+  ],
+  "ballot_context": "Per The Florida Bar News, Supreme Court Justice Carlos G. Muñiz and 22 district court of appeal judges qualified for merit retention on the Nov. 3, 2026 ballot. Sumter County is in the Fifth Judicial Circuit, whose appeals go to the Fifth District Court of Appeal (Daytona Beach), so Sumter voters see Muñiz plus the Fifth DCA judges standing in 2026. The Florida Bar's 2026 merit retention poll of its members found 71% favored retaining Justice Muñiz and DCA judges drew support in the 71%-90% range (Florida Phoenix).",
+  "research_note": "floridabar.org, floridaphoenix.com, flcourts.gov, ballotpedia.org and Wikipedia were all blocked to fetch in this sandbox and the search budget was exhausted, so the complete Fifth DCA 2026 list and per-judge Bar poll percentages could NOT be confirmed. John M. Harris is included as confirmed by the requester. Scott Makar is listed as LIKELY (he was last retained in 2020 while on the First DCA and was reassigned to the Fifth DCA in 2023, which would put him on the 2026 cycle) but UNVERIFIED. Other Fifth DCA judges possibly on the 2026 ballot (e.g., any judge appointed to the Fifth DCA in 2024-2025, or Judge Kerry Evander if still serving) must be checked against the Florida Bar News article or the Sumter County sample ballot before use.",
+  "list_complete": false,
+  "judges": [
+    {
+      "name": "Carlos G. Muñiz",
+      "court": "Florida Supreme Court",
+      "ballot_question": "Shall Justice Carlos G. Muñiz of the Supreme Court be retained in office?",
+      "appointed_by": "Gov. Ron DeSantis",
+      "appointed_year": 2019,
+      "appointed_date": "2019-01-22",
+      "background": "Bachelor's degree from the University of Virginia and J.D. from Yale Law School. Law clerk to Judge José A. Cabranes (U.S. Court of Appeals, 2nd Circuit) and Judge Thomas A. Flannery (U.S. District Court, D.C.). Served as deputy general counsel to Gov. Jeb Bush, as deputy attorney general and chief of staff to Attorney General Pam Bondi, and as general counsel of the U.S. Department of Education (2018-2019). Appointed to the Florida Supreme Court on Jan. 22, 2019 as the court's 89th justice; retained by voters in 2020; served two terms as the 57th Chief Justice of Florida (July 2022 - June 2026).",
+      "background_note": "Education/clerkship/prior-position details are from general knowledge consistent with the Ballotpedia and Wikipedia biographies linked below; they could not be re-fetched in this sandbox. Verify before publication.",
+      "notable": [
+        {
+          "item": "Authored the court's April 1, 2024 majority opinion in Planned Parenthood of Southwest and Central Florida v. State, holding that the Florida Constitution's privacy clause does not protect abortion and upholding the state's 15-week abortion law (which allowed the six-week law to take effect).",
+          "sources": ["https://en.wikipedia.org/wiki/Carlos_G._Mu%C3%B1iz", "https://ballotpedia.org/Carlos_Mu%C3%B1iz"]
+        },
+        {
+          "item": "Only Florida Supreme Court justice on the Nov. 3, 2026 ballot; this is his second retention election (first retained in 2020).",
+          "sources": ["https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/", "https://www.sparkers-soapbox.com/florida-supreme-court-merit-retention-2026-general/"]
+        },
+        {
+          "item": "Florida Channel produced an 'On the Ballot' profile segment on Justice Muñiz for the 2026 retention election.",
+          "sources": ["https://thefloridachannel.org/videos/on-the-ballot-florida-supreme-court-justice-carlos-muniz/"]
+        }
+      ],
+      "bar_poll": "71% of responding Florida Bar members favored retention (2026 Florida Bar merit retention poll, reported by Florida Phoenix).",
+      "bar_poll_sources": ["https://floridaphoenix.com/briefs/fl-bar-members-give-high-marks-to-carlos-muniz-other-appeals-judges-up-for-merit-retention/"],
+      "photo_url": "https://supremecourt.flcourts.gov/content/download/1146/file/Muniz.jpg",
+      "photo_note": "UNVERIFIED URL; the official portrait is on the justice's page at https://supremecourt.flcourts.gov/Justices/Justice-Carlos-G.-Muniz",
+      "sources": [
+        "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+        "https://floridaphoenix.com/briefs/fl-bar-members-give-high-marks-to-carlos-muniz-other-appeals-judges-up-for-merit-retention/",
+        "https://ballotpedia.org/Carlos_Mu%C3%B1iz",
+        "https://en.wikipedia.org/wiki/Carlos_G._Mu%C3%B1iz",
+        "https://thefloridachannel.org/videos/on-the-ballot-florida-supreme-court-justice-carlos-muniz/",
+        "https://www.sparkers-soapbox.com/florida-supreme-court-merit-retention-2026-general/"
+      ]
+    },
+    {
+      "name": "John M. Harris",
+      "court": "Fifth District Court of Appeal",
+      "ballot_question": "Shall Judge John M. Harris of the Fifth District Court of Appeal be retained in office?",
+      "confirmation_status": "Confirmed on 2026 ballot (per requester); not independently re-verified in this sandbox.",
+      "appointed_by": "Gov. Rick Scott",
+      "appointed_year": 2017,
+      "background": "Served as a circuit judge in the Eighteenth Judicial Circuit (Brevard County) before Gov. Rick Scott appointed him to the Fifth District Court of Appeal in December 2017 (took office January 2018). First retained by voters in 2020; served a term as the court's chief judge. Education and earlier career details could not be fetched in this sandbox (UNVERIFIED).",
+      "notable": [
+        {
+          "item": "Has served as Chief Judge of the Fifth District Court of Appeal.",
+          "sources": ["https://en.wikipedia.org/wiki/Florida_Fifth_District_Court_of_Appeal", "https://ballotpedia.org/Florida_Fifth_District_Court_of_Appeal"]
+        }
+      ],
+      "bar_poll": "Individual percentage not retrievable; Florida Phoenix reported all DCA judges on the 2026 ballot drew 71%-90% support in the Florida Bar poll.",
+      "bar_poll_sources": ["https://floridaphoenix.com/briefs/fl-bar-members-give-high-marks-to-carlos-muniz-other-appeals-judges-up-for-merit-retention/"],
+      "photo_url": "https://5dca.flcourts.gov/Judges",
+      "photo_note": "Judge portrait is on the 5th DCA judges page; direct image URL UNVERIFIED.",
+      "sources": [
+        "https://ballotpedia.org/Florida_Fifth_District_Court_of_Appeal",
+        "https://en.wikipedia.org/wiki/Florida_Fifth_District_Court_of_Appeal",
+        "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+        "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/"
+      ]
+    },
+    {
+      "name": "Scott D. Makar",
+      "court": "Fifth District Court of Appeal",
+      "ballot_question": "Shall Judge Scott Makar of the Fifth District Court of Appeal be retained in office?",
+      "confirmation_status": "LIKELY but UNVERIFIED. Makar was retained in 2020 on the First DCA and was reassigned to the Fifth DCA effective Jan. 1, 2023 under the 2022 court reorganization, placing him on the 2026 retention cycle; confirm against the Florida Bar News list.",
+      "appointed_by": "Gov. Rick Scott",
+      "appointed_year": 2012,
+      "background": "Former Solicitor General of Florida (2007-2012) under Attorneys General Bill McCollum and Pam Bondi; previously chief of the appellate division of the Jacksonville Office of General Counsel and an attorney in private practice. Holds degrees from the University of Florida, including a J.D. and a Ph.D. in economics. Appointed to the First District Court of Appeal in 2012, retained in 2014 and 2020, and moved to the Fifth District Court of Appeal in 2023 when the Legislature redrew appellate districts.",
+      "background_note": "Details from general knowledge consistent with the Wikipedia biography linked below; not re-fetched. Verify before publication.",
+      "notable": [
+        {
+          "item": "Argued cases for the state before the U.S. Supreme Court and Florida Supreme Court as Florida's Solicitor General before joining the appellate bench.",
+          "sources": ["https://en.wikipedia.org/wiki/Scott_Makar"]
+        }
+      ],
+      "bar_poll": "Individual percentage not retrievable; Florida Phoenix reported all DCA judges on the 2026 ballot drew 71%-90% support in the Florida Bar poll.",
+      "bar_poll_sources": ["https://floridaphoenix.com/briefs/fl-bar-members-give-high-marks-to-carlos-muniz-other-appeals-judges-up-for-merit-retention/"],
+      "photo_url": "https://5dca.flcourts.gov/Judges",
+      "photo_note": "Direct image URL UNVERIFIED.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scott_Makar",
+        "https://ballotpedia.org/Florida_Fifth_District_Court_of_Appeal",
+        "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/"
+      ]
+    }
+  ],
+  "not_on_2026_ballot_note": "Fifth DCA Judges Joe Boatwright, Eric Eisnaugle, Harvey Jay, Paige Kilbane, John MacIver, Jordan Pratt and Adrian Soud stood for retention in November 2024 (Jacksonville Daily Record, Oct. 11, 2024) and therefore are not expected on the 2026 ballot.",
+  "not_on_2026_sources": ["https://www.jaxdailyrecord.com/news/2024/oct/11/on-the-ballot-one-judgeship-and-appellate-court-retention/", "https://jaxtoday.org/2024/10/24/judges-voter-guide-appeals-court-judge-retention/"],
+  "verification_todo": [
+    "Fetch https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/ for the full Fifth DCA list.",
+    "Fetch https://floridaphoenix.com/briefs/fl-bar-members-give-high-marks-to-carlos-muniz-other-appeals-judges-up-for-merit-retention/ for per-judge poll percentages.",
+    "Check the Sumter County sample ballot at elections.sumtercountyfl.gov once posted (typically after the Sept. 26 overseas-ballot mailing)."
+  ]
+}

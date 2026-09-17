@@ -1,0 +1,1130 @@
+{
+  "race_id": "us_house_11",
+  "verified_ballot_note": "Post-recount reports from Spectrum News 13 (Aug 24, 2026), Florida Politics, Villages-News and The Apopka Chief list three Nov. 3 general-election candidates: Joe Strada (R), James Pericola (D) and Ralph Groves (L); Ballotpedia and Florida Division of Elections pages could not be fetched from this sandbox, so the absence of NPA or write-in candidates is not independently confirmed (https://mynews13.com/fl/orlando/news/2026/08/24/recount-confirms-strada-wins-the-republican-nomination-for-congressional-district-11 ; https://floridapolitics.com/archives/816388-with-recount-complete-joe-strada-advances-to-general-election-in-cd-11/ ; https://ballotpedia.org/Florida's_11th_Congressional_District_election,_2026).",
+  "candidates": [
+    {
+      "id": "joe_strada",
+      "name": "Joe Strada",
+      "party": "Republican",
+      "incumbent": false,
+      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Joe_Strada.jpg",
+      "photo_source": "Ballotpedia candidate photo (URL pattern unverified; campaign site votestrada.com also has portraits)",
+      "website": "https://votestrada.com/",
+      "occupation": "Founder, owner and executive chairman of Strada Services (air conditioning, electrical, plumbing and security contractor)",
+      "residence": "Sanford, Seminole County (per LinkedIn and Seminole County property records cited by an opposing campaign; outside CD 11 — not independently verified)",
+      "background": "Joseph Horatio Strada Jr. was born in Chicago and graduated from Lyman High School; he has said he never attended college. He began working in the trades at 14, took his first air-conditioning job at 19, earned state contractor licenses in five trades, and in 2003 founded the Sanford-based company now called Strada Services, which the campaign says has more than 4,000 employees in 13 states and over $1.1 billion in annual revenue. He had not previously held elected office. He entered the race in June 2026 with a $5 million personal contribution and won the five-way Aug. 18, 2026 Republican primary with about 33.5% (27,388 votes), 393 votes ahead of former state Sen. Carey Baker, a result confirmed by a three-county machine recount completed Aug. 24. He was endorsed by President Trump for the general election in September 2026.",
+      "primary_result": "Won Aug 18, 2026 Republican primary with 27,388 votes (~33.5%) over Carey Baker (26,995, ~33%), Nizam Razack, Tim Wilkins and Ivette Palomo; 393-vote margin confirmed by machine recount in Orange, Lake and Sumter counties completed Aug 24 (Spectrum News 13; Central Florida Public Media; Florida Politics)",
+      "positions": {
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Strada campaigns on a balanced-budget requirement and says Congress should focus on fiscal responsibility and reducing regulations on businesses; his primary ad criticized opponent Carey Baker for voting for tax increases as a state legislator. He has not laid out a specific federal tax-cut plan in sources found.",
+          "quote": "I know what it's like to balance a budget.",
+          "sources": [
+            {
+              "title": "Business owner Joe Strada says he'll take on career politicians in Florida's 11th Congressional District race (Florida's Voice)",
+              "url": "https://flvoicenews.com/business-owner-joe-strada-says-hell-take-on-career-politicians-in-floridas-11th-congressional-district-race/",
+              "date": "2026"
+            },
+            {
+              "title": "Joe Strada for Congress (campaign site)",
+              "url": "https://votestrada.com/",
+              "date": "2026"
+            },
+            {
+              "title": "FACT CHECK: Strada ad attacking Carey Baker in Florida's 11th District holds up (Florida's Voice)",
+              "url": "https://flvoicenews.com/fact-check-strada-ad-attacking-carey-baker-in-floridas-11th-district-holds-up/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Strada says immigration enforcement is one of his general-election priorities and pledges to help President Trump 'get criminal illegals out of here.' His explicit statements focus on deporting people in the country illegally who have committed crimes; no statement was found on broader mass deportation.",
+          "quote": "help President Trump deliver term limits, ban insider trading and get criminal illegals out of here",
+          "sources": [
+            {
+              "title": "Joe Strada calls out 'full of crap' Washington in $1M ad buy (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/802348-joe-strada-calls-out-full-of-crap-washington-in-1m-ad-buy/",
+              "date": "2026-06"
+            },
+            {
+              "title": "Recount confirms Strada as GOP nominee for District 11 (The Apopka Chief)",
+              "url": "https://theapopkachief.com/recount-confirms-strada-as-gop-nominee-for-district-11/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Recount confirms Strada wins Republican nomination for Congressional District 11 (Spectrum News 13)",
+              "url": "https://mynews13.com/fl/orlando/news/2026/08/24/recount-confirms-strada-wins-the-republican-nomination-for-congressional-district-11",
+              "date": "2026-08-24"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In his iVoterGuide survey Strada said human life deserves legal protection from conception until natural death, that embryos created through artificial methods should be protected from purposeful destruction, that abortion providers such as Planned Parenthood should not receive taxpayer funds (including Title X), and that the Comstock Act's ban on interstate shipment of abortion-inducing drugs should be enforced.",
+          "quote": "human life deserves legal protection from conception until natural death",
+          "sources": [
+            {
+              "title": "iVoterGuide profile: Joe Strada, FL U.S. Rep. Dist. 11",
+              "url": "https://ivoterguide.com/candidate/71345",
+              "date": "2026"
+            },
+            {
+              "title": "iVoterGuide profile (race page): Joe Strada",
+              "url": "https://ivoterguide.com/candidate/71345/race/28520/election/1431",
+              "date": "2026"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Strada received an 'AQ' grade from the NRA Political Victory Fund, a pro-gun rating based on his questionnaire answers (he has no voting record). President Trump's endorsement says he will 'Defend our always under siege Second Amendment.' No specific statement on red-flag laws or the purchase age was found.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "iVoterGuide profile: Joe Strada, FL U.S. Rep. Dist. 11",
+              "url": "https://ivoterguide.com/candidate/71345",
+              "date": "2026"
+            },
+            {
+              "title": "Donald J. Trump Truth Social post endorsing Joe Strada (Trump's Truth archive)",
+              "url": "https://trumpstruth.org/statuses/41457",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In his iVoterGuide survey Strada indicated Medicaid and Medicare should remain available but that no other taxpayer-funded health programs are necessary. No statement on ACA subsidies specifically was found.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "iVoterGuide profile: Joe Strada, FL U.S. Rep. Dist. 11",
+              "url": "https://ivoterguide.com/candidate/71345",
+              "date": "2026"
+            }
+          ]
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Strada describes himself as a Trump ally, said he would 'stand with' President Trump in Congress, and received Trump's 'Complete and Total Endorsement' in September 2026.",
+          "quote": "President Trump spends each and every day putting the American people first, and I'll stand with him in Congress to fight for our families and our economy.",
+          "sources": [
+            {
+              "title": "Businessman and Trump Ally Joe Strada Announces CD 11 Run (The Floridian)",
+              "url": "https://floridianpress.com/2026/06/businessman-and-trump-ally-joe-strada-announces-cd-11-run/",
+              "date": "2026-06"
+            },
+            {
+              "title": "Joe Strada announces congressional campaign for Florida District 11, pledges $5 million (Florida's Voice)",
+              "url": "https://flvoicenews.com/joe-strada-announces-congressional-campaign-florida-district-11-pledges-5-million/",
+              "date": "2026-06"
+            },
+            {
+              "title": "Donald J. Trump Truth Social post endorsing Joe Strada (Trump's Truth archive)",
+              "url": "https://trumpstruth.org/statuses/41457",
+              "date": "2026-09"
+            },
+            {
+              "title": "Donald Trump backs eight GOP candidates for Congress in Florida open and battleground districts (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/818089-donald-trump-backs-eight-gop-candidates-for-congress-in-florida-open-and-battleground-districts/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Investigate congressional insider trading",
+          "summary": "Strada says his first priority in Congress is to investigate and ban stock trading by members of Congress, to make Congress 'less profitable.'",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress (campaign site)",
+              "url": "https://votestrada.com/",
+              "date": "2026"
+            },
+            {
+              "title": "Joe Strada calls out 'full of crap' Washington in $1M ad buy (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/802348-joe-strada-calls-out-full-of-crap-washington-in-1m-ad-buy/",
+              "date": "2026-06"
+            }
+          ]
+        },
+        {
+          "title": "Term limits for Congress",
+          "summary": "He pledges to push for term limits so Congress is 'less permanent.'",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress (campaign site)",
+              "url": "https://votestrada.com/",
+              "date": "2026"
+            },
+            {
+              "title": "Business owner Joe Strada says he'll take on career politicians in Florida's 11th Congressional District race (Florida's Voice)",
+              "url": "https://flvoicenews.com/business-owner-joe-strada-says-hell-take-on-career-politicians-in-floridas-11th-congressional-district-race/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Balanced federal budget",
+          "summary": "He wants to require a balanced budget and says Congress should be accountable for the money it spends.",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress (campaign site)",
+              "url": "https://votestrada.com/",
+              "date": "2026"
+            },
+            {
+              "title": "Business owner Joe Strada says he'll take on career politicians in Florida's 11th Congressional District race (Florida's Voice)",
+              "url": "https://flvoicenews.com/business-owner-joe-strada-says-hell-take-on-career-politicians-in-floridas-11th-congressional-district-race/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Skilled-trades workforce shortage",
+          "summary": "Strada cites the shortage of skilled workers as a general-election priority and points to the training program his company built that graduates students directly into the workforce.",
+          "sources": [
+            {
+              "title": "Recount confirms Strada as GOP nominee for District 11 (The Apopka Chief)",
+              "url": "https://theapopkachief.com/recount-confirms-strada-as-gop-nominee-for-district-11/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Strada Services partners with FCC to boost HVAC training",
+              "url": "https://stradaservices.com/about-us/blog/fcc-orlando-partners-with-strada-services-to-enhance-hvac-training-program/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Government accountability / reducing regulation",
+          "summary": "He describes himself as a 'conservative outsider' who will take on 'career politicians' and reduce regulations on businesses.",
+          "sources": [
+            {
+              "title": "Recount confirms Strada as GOP nominee for District 11 (The Apopka Chief)",
+              "url": "https://theapopkachief.com/recount-confirms-strada-as-gop-nominee-for-district-11/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Business owner Joe Strada says he'll take on career politicians in Florida's 11th Congressional District race (Florida's Voice)",
+              "url": "https://flvoicenews.com/business-owner-joe-strada-says-hell-take-on-career-politicians-in-floridas-11th-congressional-district-race/",
+              "date": "2026"
+            },
+            {
+              "title": "Businessman and Trump Ally Joe Strada Announces CD 11 Run (The Floridian)",
+              "url": "https://floridianpress.com/2026/06/businessman-and-trump-ally-joe-strada-announces-cd-11-run/",
+              "date": "2026-06"
+            }
+          ]
+        },
+        {
+          "title": "Support for seniors, veterans, workers and small businesses",
+          "summary": "The campaign site says he will 'stand up for Central Florida families, seniors, veterans, workers, and small businesses,' without detailed proposals in sources found.",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress (campaign site)",
+              "url": "https://votestrada.com/",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Self-funded his campaign with a $5 million personal contribution at launch (June 2026) and followed with a $1 million television ad buy; outspent the rest of the Republican field.",
+          "sources": [
+            {
+              "title": "Joe Strada announces congressional campaign for Florida District 11, pledges $5 million (Florida's Voice)",
+              "url": "https://flvoicenews.com/joe-strada-announces-congressional-campaign-florida-district-11-pledges-5-million/",
+              "date": "2026-06"
+            },
+            {
+              "title": "Joe Strada calls out 'full of crap' Washington in $1M ad buy (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/802348-joe-strada-calls-out-full-of-crap-washington-in-1m-ad-buy/",
+              "date": "2026-06"
+            },
+            {
+              "title": "Joe Strada outspends field including Carey Baker, Nizam Razack and Tim Wilkins in CD 11 race (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/814286-joe-strada-outspends-field-including-carey-baker-nizam-razack-and-tim-wilkins-in-cd-11-race/",
+              "date": "2026-08"
+            },
+            {
+              "title": "FEC candidate overview: STRADA, JOE (H6FL11332)",
+              "url": "https://www.fec.gov/data/candidate/H6FL11332/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Declined an invitation to participate in Spectrum News 13's July 27, 2026 community conversation with District 11 candidates, and did not respond to the Vox Populi questionnaire used in the ClickOrlando/News 6 voter's guide.",
+          "sources": [
+            {
+              "title": "Community conversation with congressional candidates from District 11 (Spectrum News 13)",
+              "url": "https://mynews13.com/fl/orlando/politics/2026/07/27/community-conversation-congressional-district-11-candidates",
+              "date": "2026-07-27"
+            },
+            {
+              "title": "2026 Voter's Guide - US House District 11, Republican primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "item": "A class-action complaint (Osceola County case 2026 CA 002324 ON, filed July 22, 2026) by seven Florida homeowners names Strada Services LLC and Joseph Horatio Strada Jr. and alleges the company used subpar materials wiring new homes between Aug. 2020 and May 2022; damages sought exceed $5 million. The case is pending; no response from Strada was found in sources.",
+          "sources": [
+            {
+              "title": "The $5 Million Class Action: Joe Strada's Fraud Docket And His Bid For Congress (Steve Edward Farley, Substack)",
+              "url": "https://steveedwardfarley.substack.com/p/the-5-million-class-action-joe-stradas",
+              "date": "2026-07"
+            },
+            {
+              "title": "The REAL Joe Strada (site paid for by Carey Baker for Congress)",
+              "url": "https://realjoestrada.com/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "item": "An opposition website paid for by Carey Baker for Congress cites earlier employment lawsuits against Strada Services (including Vargas v. Strada Services, M.D. Fla., filed 9/25/2019) alleging FLSA overtime and wage violations, and says Seminole County property records place Strada's home in Florida's 7th District rather than the 11th.",
+          "sources": [
+            {
+              "title": "The REAL Joe Strada (site paid for by Carey Baker for Congress)",
+              "url": "https://realjoestrada.com/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "item": "A Florida's Voice fact-check found the core claims of Strada's ad attacking Carey Baker (decades in office, residence outside CD 11, votes for tax increases during the Great Recession) 'largely hold up.'",
+          "sources": [
+            {
+              "title": "FACT CHECK: Strada ad attacking Carey Baker in Florida's 11th District holds up (Florida's Voice)",
+              "url": "https://flvoicenews.com/fact-check-strada-ad-attacking-carey-baker-in-floridas-11th-district-holds-up/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "item": "Defeated retiring Rep. Daniel Webster's preferred successor, Carey Baker, in the primary; the Cook Political Report rates the district 'solid' Republican.",
+          "sources": [
+            {
+              "title": "Daniel Webster's pick loses GOP primary for his open Florida House seat to Joe Strada (The Hill)",
+              "url": "https://thehill.com/homenews/campaign/6021256-strada-wins-florida-house-primary/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "item": "Received an 'AQ' rating from the NRA Political Victory Fund (questionnaire-based).",
+          "sources": [
+            {
+              "title": "iVoterGuide profile: Joe Strada, FL U.S. Rep. Dist. 11",
+              "url": "https://ivoterguide.com/candidate/71345",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "President Donald Trump",
+          "sources": [
+            {
+              "title": "Donald J. Trump Truth Social post endorsing Joe Strada (Trump's Truth archive)",
+              "url": "https://trumpstruth.org/statuses/41457",
+              "date": "2026-09"
+            },
+            {
+              "title": "Donald Trump backs eight GOP candidates for Congress in Florida open and battleground districts (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/818089-donald-trump-backs-eight-gop-candidates-for-congress-in-florida-open-and-battleground-districts/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Trump Announces Florida Republican General Election Endorsements (The Floridian)",
+              "url": "https://floridianpress.com/2026/09/trump-announces-florida-republican-general-election-endorsements/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "House Majority Leader Steve Scalise",
+          "sources": [
+            {
+              "title": "Steve Scalise endorses Joe Strada, who put down $5M to dominate CD 11 field (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/808322-steve-scalise-endorses-joe-strada-who-put-down-5m-to-dominate-cd-11-field/",
+              "date": "2026-07"
+            }
+          ]
+        },
+        {
+          "by": "Rep. Jim Jordan, House Judiciary Committee chair",
+          "sources": [
+            {
+              "title": "Jim Jordan becomes latest prominent conservative to back 'problem solver' Joe Strada in CD 11 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/808531-jordan-strada-cd11/",
+              "date": "2026-07"
+            }
+          ]
+        },
+        {
+          "by": "Florida Attorney General James Uthmeier",
+          "sources": [
+            {
+              "title": "'American success story': Joe Strada secures support from James Uthmeier, Wayne Ivey, Bill Gladson in CD 11 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/808727-american-success-story-joe-strada-secures-support-from-james-uthmeier-wayne-ivey-bill-gladson-in-cd-11/",
+              "date": "2026-07"
+            }
+          ]
+        },
+        {
+          "by": "Brevard County Sheriff Wayne Ivey",
+          "sources": [
+            {
+              "title": "'American success story': Joe Strada secures support from James Uthmeier, Wayne Ivey, Bill Gladson in CD 11 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/808727-american-success-story-joe-strada-secures-support-from-james-uthmeier-wayne-ivey-bill-gladson-in-cd-11/",
+              "date": "2026-07"
+            }
+          ]
+        },
+        {
+          "by": "State Attorney Bill Gladson (5th Judicial Circuit)",
+          "sources": [
+            {
+              "title": "'American success story': Joe Strada secures support from James Uthmeier, Wayne Ivey, Bill Gladson in CD 11 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/808727-american-success-story-joe-strada-secures-support-from-james-uthmeier-wayne-ivey-bill-gladson-in-cd-11/",
+              "date": "2026-07"
+            }
+          ]
+        },
+        {
+          "by": "Seminole County Sheriff Dennis Lemma",
+          "sources": [
+            {
+              "title": "'I know the kind of man he is': Dennis Lemma backs Joe Strada in CD 11 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/809415-i-know-the-kind-of-man-he-is-dennis-lemma-backs-joe-strada-in-cd-11/",
+              "date": "2026-07"
+            }
+          ]
+        },
+        {
+          "by": "Polk County Sheriff Grady Judd",
+          "sources": [
+            {
+              "title": "'A conservative we can trust': Grady Judd endorses Joe Strada in CD 11 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/811314-a-conservative-we-can-trust-grady-judd-endorses-joe-strada-in-cd-11/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "by": "Group of Central Florida elected officials (June 2026)",
+          "sources": [
+            {
+              "title": "Central Florida elected officials rally around Joe Strada's CD 11 candidacy (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/803812-central-florida-elected-officials-rally-around-joe-stradas-cd-11-candidacy/",
+              "date": "2026-06"
+            },
+            {
+              "title": "Conservative Central Florida Leaders Endorse Joe Strada in Congressional District 11 (campaign site)",
+              "url": "https://votestrada.com/conservative-central-florida-leaders-endorse-joe-strada-in-congressional-district-11/",
+              "date": "2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "james_pericola",
+      "name": "James Pericola",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/James_Pericola.jpg",
+      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "website": null,
+      "occupation": "Attorney / legislative advocate; former federal official",
+      "residence": "Not verified (campaign launch event held in Sumter County)",
+      "background": "Pericola says he has more than 30 years of experience in public service, law, government and legislative advocacy. He served in the Clinton administration, including as Special Assistant to the Chair of the National Transportation Safety Board, where he worked with Congress and federal agencies on transportation safety and coordinated responses to major aviation incidents. He launched his campaign in June 2026 with events in Sumter County, and won the Aug. 18, 2026 Democratic primary with about 46.4% of the vote. A pre-primary poll commissioned for the race showed him leading the Democratic field and in a potential dead heat with Joe Strada.",
+      "primary_result": "Won Aug 18, 2026 Democratic primary with 46.4% (99% of precincts reporting) in a multi-candidate field (Spectrum News 13)",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Pericola lists making health care more affordable among the three most pressing issues for the district. He says he will work to restore Medicaid funding, protect the Affordable Care Act, and lower the cost of prescription drugs and medical care.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+              "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+              "date": "2026-08-05"
+            },
+            {
+              "title": "James Pericola: Dems need to 'give people something to vote for, not just someone to vote against' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/813913-james-pericola-dems-need-to-give-people-something-to-vote-for-not-just-someone-to-vote-against/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        "social_security": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He names protecting Social Security and Medicare as the district's top issue. He has not specified in sources found how he would finance the programs.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+              "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+              "date": "2026-08-05"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No explicit public position on the Trump administration found as of Sept 2026. Pericola is running to 'flip' the seat and calls for restoring Medicaid funding, but sources found do not contain a direct statement about the administration.",
+          "quote": "give people something to vote for, not just someone to vote against",
+          "sources": [
+            {
+              "title": "James Pericola: Dems need to 'give people something to vote for, not just someone to vote against' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/813913-james-pericola-dems-need-to-give-people-something-to-vote-for-not-just-someone-to-vote-against/",
+              "date": "2026-08"
+            },
+            {
+              "title": "James Pericola launches bid to flip CD 11 from red to blue (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/801699-james-pericola-launches-bid-to-flip-cd-11-from-red-to-blue/",
+              "date": "2026-06"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Affordability for working and middle-class families",
+          "summary": "He lists reducing the financial pressure on working and middle-class families as one of the district's three most pressing issues.",
+          "sources": [
+            {
+              "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+              "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+              "date": "2026-08-05"
+            }
+          ]
+        },
+        {
+          "title": "Lower prescription drug costs",
+          "summary": "He says he will work to lower the cost of prescription drugs and medical care.",
+          "sources": [
+            {
+              "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+              "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+              "date": "2026-08-05"
+            }
+          ]
+        },
+        {
+          "title": "Restore Medicaid funding",
+          "summary": "He calls for restoring Medicaid funding reduced by recent federal legislation.",
+          "sources": [
+            {
+              "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+              "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+              "date": "2026-08-05"
+            },
+            {
+              "title": "James Pericola: Dems need to 'give people something to vote for, not just someone to vote against' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/813913-james-pericola-dems-need-to-give-people-something-to-vote-for-not-just-someone-to-vote-against/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "title": "Transportation safety background",
+          "summary": "He cites his NTSB and White House experience coordinating responses to aviation incidents as preparation for federal office.",
+          "sources": [
+            {
+              "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+              "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+              "date": "2026-08-05"
+            },
+            {
+              "title": "James Pericola launches bid to flip CD 11 from red to blue (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/801699-james-pericola-launches-bid-to-flip-cd-11-from-red-to-blue/",
+              "date": "2026-06"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Won the Democratic primary with 46.4% of the vote on Aug. 18, 2026.",
+          "sources": [
+            {
+              "title": "CD-11 Democratic primary results (Spectrum News 13)",
+              "url": "https://mynews13.com/fl/orlando/news/2026/08/18/cd-11-democratic-primary-results",
+              "date": "2026-08-18"
+            }
+          ]
+        },
+        {
+          "item": "A poll released in August 2026 showed him leading the Democratic primary field and in a potential dead heat with Joe Strada in a general-election matchup.",
+          "sources": [
+            {
+              "title": "Poll shows James Pericola leading CD 11 Dem field, in potential dead heat with Joe Strada (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/811237-poll-shows-james-pericola-leading-cd-11-dem-field-in-potential-dead-heat-with-joe-strada/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "item": "Served as Special Assistant to the Chair of the National Transportation Safety Board during the Clinton administration (campaign biography).",
+          "sources": [
+            {
+              "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+              "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+              "date": "2026-08-05"
+            },
+            {
+              "title": "James Pericola launches bid to flip CD 11 from red to blue (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/801699-james-pericola-launches-bid-to-flip-cd-11-from-red-to-blue/",
+              "date": "2026-06"
+            }
+          ]
+        }
+      ],
+      "endorsements": []
+    },
+    {
+      "id": "ralph_groves",
+      "name": "Ralph Groves",
+      "party": "Libertarian",
+      "incumbent": false,
+      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Ralph_Groves.jpg",
+      "photo_source": "Ballotpedia candidate photo (URL pattern unverified; campaign site grovesforcongress.com also has a portrait)",
+      "website": "https://www.grovesforcongress.com/",
+      "occupation": "Retired U.S. Army major; former Department of Defense analyst",
+      "residence": "Orange County (former chair of the Libertarian Party of Orange County; city not verified)",
+      "background": "Groves is a U.S. Army veteran who served in Germany and in the Iraq War and retired at the rank of major. He later worked as a Department of Defense analyst in the United Kingdom and at the Pentagon. He previously chaired the Libertarian Party of Orange County. As the only Libertarian to file, he advanced directly to the Nov. 3, 2026 general election without a primary. He says he is running to give voters a third option because many people who want more personal freedom and less government vote for the two major parties only because they do not believe a third party can win.",
+      "primary_result": "No primary; sole Libertarian candidate, advanced directly to Nov 3 general election (Ballotpedia)",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Groves identifies himself as 'pro-life.' No statement on Florida's six-week law or federal legislation was found.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+              "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+              "date": "2026"
+            },
+            {
+              "title": "Groves for Congress 2026 (campaign site)",
+              "url": "https://www.grovesforcongress.com/",
+              "date": "2026"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Groves identifies himself as 'pro-gun ownership.' No statement on red-flag laws, the purchase age or background checks was found.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+              "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+              "date": "2026"
+            },
+            {
+              "title": "Groves for Congress 2026 (campaign site)",
+              "url": "https://www.grovesforcongress.com/",
+              "date": "2026"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Groves says he would advocate for more Environmental Protection Agency safe-drinking-water grants. No statement on conservation land or development trade-offs was found.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+              "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+              "date": "2026"
+            },
+            {
+              "title": "Mission | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
+            }
+          ]
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No specific position on VA services found as of Sept 2026; Groves is a retired Army major and Iraq War veteran.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+              "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+              "date": "2026"
+            },
+            {
+              "title": "Meet Ralph Groves | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/meet-ralph-groves",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Prevent future vaccine mandates",
+          "summary": "He says he would work to prevent any future vaccine mandates.",
+          "sources": [
+            {
+              "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+              "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+              "date": "2026"
+            },
+            {
+              "title": "Mission | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Increase Coast Guard funding",
+          "summary": "He supports increased funding for the U.S. Coast Guard.",
+          "sources": [
+            {
+              "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+              "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "EPA safe-drinking-water grants",
+          "summary": "He would advocate for more EPA safe-drinking-water grants for communities.",
+          "sources": [
+            {
+              "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+              "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "More personal freedom, less government",
+          "summary": "His campaign message is that voters want more personal freedom and a smaller government and deserve a viable third option.",
+          "sources": [
+            {
+              "title": "Groves for Congress 2026 (campaign site)",
+              "url": "https://www.grovesforcongress.com/",
+              "date": "2026"
+            },
+            {
+              "title": "Mission | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Former chairman of the Libertarian Party of Orange County.",
+          "sources": [
+            {
+              "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+              "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+              "date": "2026"
+            },
+            {
+              "title": "Ralph Groves About | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/ralph-groves/about",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "item": "Retired from the U.S. Army as a major after service in Germany and the Iraq War; later a DoD analyst in the U.K. and at the Pentagon (campaign biography).",
+          "sources": [
+            {
+              "title": "Meet Ralph Groves | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/meet-ralph-groves",
+              "date": "2026"
+            },
+            {
+              "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+              "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
+      "endorsements": []
+    }
+  ]
+}

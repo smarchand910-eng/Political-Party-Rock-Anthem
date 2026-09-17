@@ -1,0 +1,412 @@
+{
+  "race_id": "cfo",
+  "verified_ballot_note": "Primary results (News4Jax, FOX49, Florida Phoenix, WUWF) show Republican Blaise Ingoglia and Democrat Annette Taddeo as the Nov. 3 general-election nominees; no NPA or write-in candidates appeared in any source, but the Florida Division of Elections candidate list and Ballotpedia were blocked in this sandbox, so that is unverified. Sources: https://www.news4jax.com/vote-2026/2026/08/17/vote-2026-primary-election-results-for-floridas-chief-financial-officer-agriculture-commissioner-on-aug-18-2026/ ; https://fox49.tv/news/local/blaise-ingoglia-annette-taddeo-win-florida-chief-financial-officer-primaries",
+  "candidates": [
+    {
+      "id": "blaise_ingoglia",
+      "name": "Blaise Ingoglia",
+      "party": "Republican",
+      "incumbent": true,
+      "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blaise%20Ingoglia.jpg",
+      "photo_source": "Wikimedia Commons (file name unverified; official portrait also on myfloridacfo.com and flsenate.gov)",
+      "website": null,
+      "occupation": "Florida Chief Financial Officer (appointed); homebuilder",
+      "residence": "Spring Hill, Hernando County",
+      "background": "Ingoglia is a Hernando County homebuilder who served in the Florida House and then the Florida Senate and previously chaired the Republican Party of Florida. Gov. Ron DeSantis appointed him Chief Financial Officer on July 16, 2025, after Jimmy Patronis resigned March 31, 2025, to run for Congress; he took office July 21, 2025. Since taking office his most visible initiative has been leading Florida DOGE audit teams reviewing city and county spending. He won the Aug. 18, 2026 Republican primary with about 61% over Frank Collige.",
+      "primary_result": "Won Aug. 18, 2026 Republican primary with 61% (968,222 votes) over Frank William Collige, 39% (610,860) (News4Jax results; FOX49).",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No direct statement found in gathered sources as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Florida DOGE audits of local governments",
+          "summary": "Leads teams of state auditors examining spending by city and county governments across Florida; this has been his signature initiative since his appointment.",
+          "sources": [
+            {
+              "title": "2026 Florida Chief Financial Officer election (Wikipedia)",
+              "url": "https://en.wikipedia.org/wiki/2026_Florida_Chief_Financial_Officer_election",
+              "date": null
+            },
+            {
+              "title": "Annette Taddeo wins Florida Democratic primary for CFO, will face Ingoglia (ECIKS)",
+              "url": "https://eciks.org/21746-taddeo-wins-florida-cfo-primary",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Appointed CFO by Gov. DeSantis on July 16, 2025 (sworn in July 21, 2025) to fill the vacancy left by Jimmy Patronis.",
+          "sources": [
+            {
+              "title": "Florida Chief Financial Officer election, 2026 (Ballotpedia)",
+              "url": "https://ballotpedia.org/Florida_Chief_Financial_Officer_election,_2026",
+              "date": null
+            },
+            {
+              "title": "2026 Florida Chief Financial Officer election (Wikipedia)",
+              "url": "https://en.wikipedia.org/wiki/2026_Florida_Chief_Financial_Officer_election",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Previously served as a state senator and state representative and as chairman of the Republican Party of Florida.",
+          "sources": [
+            {
+              "title": "Blaise Ingoglia (Wikipedia)",
+              "url": "https://en.wikipedia.org/wiki/Blaise_Ingoglia",
+              "date": null
+            },
+            {
+              "title": "Blaise Ingoglia announces his candidacy for Chief Financial Officer in 2026 (Yahoo)",
+              "url": "https://www.yahoo.com/news/articles/blaise-ingoglia-announces-candidacy-chief-125129695.html",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": []
+    },
+    {
+      "id": "annette_taddeo",
+      "name": "Annette Taddeo",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Annette%20Taddeo.jpg",
+      "photo_source": "Wikimedia Commons (file name unverified)",
+      "website": null,
+      "occupation": "Businesswoman; former state senator",
+      "residence": "Miami, Miami-Dade County",
+      "background": "Taddeo, 59, of Miami, is a former Florida state senator. She announced her campaign for Chief Financial Officer in June 2026 and has made government accountability the central theme, criticizing Ingoglia's audits of local governments and saying the CFO should be a 'watchdog,' not a 'lapdog.' She won the Aug. 18, 2026 Democratic primary with about 66% over Earle Ford.",
+      "primary_result": "Won Aug. 18, 2026 Democratic primary with 66% (796,723 votes) over Earle Ford, 34% (416,990) (News4Jax results; FOX49).",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Government accountability / 'watchdog, not a lapdog'",
+          "summary": "Says the CFO should act as an independent watchdog over state finances and has criticized Ingoglia's high-profile audits of local governments.",
+          "sources": [
+            {
+              "title": "A 'watchdog,' not a 'lapdog': Annette Taddeo is running to unseat Blaise Ingoglia as CFO (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/800648-a-watchdog-not-a-lapdog-annette-taddeo-is-running-to-unseat-blaise-ingoglia-as-cfo/",
+              "date": null
+            },
+            {
+              "title": "Annette Taddeo (Wikipedia)",
+              "url": "https://en.wikipedia.org/wiki/Annette_Taddeo",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Served in the Florida Senate representing a Miami-Dade district before running statewide.",
+          "sources": [
+            {
+              "title": "Democrats Annette Taddeo and Earle Ford compete to face CFO Blaise Ingoglia in November (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/07/24/democrats-annette-taddeo-and-earle-ford-compete-to-face-cfo-blaise-ingoglia-in-november/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": []
+    }
+  ]
+}

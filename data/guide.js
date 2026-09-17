@@ -1,0 +1,10290 @@
+window.GUIDE_DATA = {
+ "generated_at": "September 17, 2026",
+ "issues": [
+  {
+   "id": "taxes",
+   "label": "Taxes & spending",
+   "statement": "Cutting taxes should be a top priority, even if it means less government spending on services.",
+   "levels": [
+    "federal",
+    "state",
+    "county"
+   ]
+  },
+  {
+   "id": "property_tax",
+   "label": "Property taxes",
+   "statement": "Florida should eliminate or sharply reduce homestead property taxes, even if local governments must cut services or find other revenue.",
+   "levels": [
+    "state",
+    "county"
+   ]
+  },
+  {
+   "id": "insurance",
+   "label": "Property insurance",
+   "statement": "The state should intervene more directly in the property-insurance market (rate caps, expanding Citizens, stricter insurer regulation) rather than relying mainly on market-based reforms.",
+   "levels": [
+    "state"
+   ]
+  },
+  {
+   "id": "housing",
+   "label": "Housing affordability",
+   "statement": "Government should do more to make housing affordable (subsidies, zoning changes, rent measures).",
+   "levels": [
+    "federal",
+    "state",
+    "county"
+   ]
+  },
+  {
+   "id": "immigration",
+   "label": "Immigration",
+   "statement": "Immigration enforcement should be stricter, including large-scale deportation of people in the country illegally.",
+   "levels": [
+    "federal",
+    "state"
+   ]
+  },
+  {
+   "id": "abortion",
+   "label": "Abortion",
+   "statement": "Abortion should be legal in most cases (Florida's six-week ban should be repealed or loosened).",
+   "levels": [
+    "federal",
+    "state"
+   ]
+  },
+  {
+   "id": "guns",
+   "label": "Guns",
+   "statement": "Gun laws should be stricter (keep the red-flag law and the age-21 purchase rule; expand background checks) rather than looser (permitless or open carry, lower purchase age).",
+   "levels": [
+    "federal",
+    "state"
+   ]
+  },
+  {
+   "id": "healthcare",
+   "label": "Health care",
+   "statement": "Government should expand its role in health coverage (expand Medicaid in Florida, extend Affordable Care Act subsidies).",
+   "levels": [
+    "federal",
+    "state"
+   ]
+  },
+  {
+   "id": "social_security",
+   "label": "Social Security & Medicare",
+   "statement": "Social Security and Medicare benefits must be protected from any cuts, even if that requires more revenue.",
+   "levels": [
+    "federal"
+   ]
+  },
+  {
+   "id": "education_choice",
+   "label": "Education & school choice",
+   "statement": "Public money should follow students to private, charter or home schools (universal school vouchers).",
+   "levels": [
+    "federal",
+    "state"
+   ]
+  },
+  {
+   "id": "environment",
+   "label": "Environment & water",
+   "statement": "Protecting water quality, conservation land and climate resilience should take priority even if it slows development or raises costs.",
+   "levels": [
+    "federal",
+    "state",
+    "county"
+   ]
+  },
+  {
+   "id": "growth",
+   "label": "Growth & development",
+   "statement": "Growth and development should be slowed or more tightly regulated (higher impact fees, density limits, stronger local control).",
+   "levels": [
+    "state",
+    "county"
+   ]
+  },
+  {
+   "id": "marijuana",
+   "label": "Marijuana",
+   "statement": "Recreational marijuana should be legal for adults.",
+   "levels": [
+    "state"
+   ]
+  },
+  {
+   "id": "elections",
+   "label": "Elections & voting",
+   "statement": "Voting should be made easier (mail voting, drop boxes, restoring voting rights) rather than adding new restrictions.",
+   "levels": [
+    "federal",
+    "state"
+   ]
+  },
+  {
+   "id": "crime",
+   "label": "Crime & policing",
+   "statement": "Criminal penalties should be tougher and police funding increased, rather than emphasizing reform and rehabilitation.",
+   "levels": [
+    "federal",
+    "state",
+    "county"
+   ]
+  },
+  {
+   "id": "lgbtq",
+   "label": "Gender identity laws",
+   "statement": "Florida's laws restricting gender-affirming care for minors and classroom instruction on sexual orientation and gender identity should remain in place.",
+   "levels": [
+    "federal",
+    "state"
+   ]
+  },
+  {
+   "id": "energy",
+   "label": "Energy & utilities",
+   "statement": "Government should promote renewable energy and tighten oversight of utility rate increases, even at the expense of fossil-fuel production.",
+   "levels": [
+    "federal",
+    "state"
+   ]
+  },
+  {
+   "id": "tariffs",
+   "label": "Tariffs & trade",
+   "statement": "Tariffs on imported goods are good for the American economy.",
+   "levels": [
+    "federal"
+   ]
+  },
+  {
+   "id": "ukraine",
+   "label": "Ukraine",
+   "statement": "The U.S. should continue military aid to Ukraine.",
+   "levels": [
+    "federal"
+   ]
+  },
+  {
+   "id": "trump",
+   "label": "Trump administration",
+   "statement": "I approve of the direction of the Trump administration.",
+   "levels": [
+    "federal",
+    "state"
+   ]
+  },
+  {
+   "id": "veterans",
+   "label": "Veterans",
+   "statement": "Expanding VA services and veterans' benefits should be a top priority.",
+   "levels": [
+    "federal",
+    "state",
+    "county"
+   ]
+  }
+ ],
+ "races": [
+  {
+   "id": "us_senate_special",
+   "order": 1,
+   "title": "U.S. Senate (special election)",
+   "level": "federal",
+   "office_group": "Federal",
+   "term": "Remainder of term ending January 2029",
+   "what_it_does": "One of Florida's two members of the U.S. Senate. Votes on federal laws, the federal budget, treaties, and confirmation of judges and cabinet officials. This special election fills the seat Marco Rubio vacated in 2025; the winner serves until the regular 2028 election.",
+   "verified_ballot_note": "Ballotpedia's race page and its Aug 28, 2026 news summary list the Nov 3 general-election candidates as Ashley Moody (R, incumbent), Angela 'Angie' Nixon (D) and Neil Gillespie (NPA); WUWF's June 12, 2026 qualifying report lists six qualified candidates (Moody, Gleason, Perry and Rivera as Republicans; Nixon and Vindman as Democrats; Gillespie as NPA), and Spectrum News 13's Aug 19 results confirm Perry ran in the Republican primary that Moody won with 75.3%, so Perry is not on the general ballot despite an older Ballotpedia profile labeling her NPA; no qualified write-in candidate was found, but the Florida Division of Elections candidate list could not be accessed from this environment to confirm  ;  ;  ; .",
+   "verified_ballot_sources": [
+    {
+     "title": "ballotpedia.org",
+     "url": "https://ballotpedia.org/United_States_Senate_special_election_in_Florida,_2026"
+    },
+    {
+     "title": "news.ballotpedia.org",
+     "url": "https://news.ballotpedia.org/2026/08/28/special-election-to-fill-the-remainder-of-sec-of-state-marco-rubios-u-s-senate-term-happening-in-florida-on-nov-3/"
+    },
+    {
+     "title": "wuwf.org",
+     "url": "https://www.wuwf.org/text/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election"
+    },
+    {
+     "title": "mynews13.com",
+     "url": "https://mynews13.com/fl/orlando/news/2026/08/19/u-s--senate-republican-primary-results"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "ashley_moody",
+     "name": "Ashley Moody",
+     "party": "Republican",
+     "incumbent": true,
+     "photo_url": "https://www.congress.gov/img/member/m001244_200.jpg",
+     "photo_source": "Congress.gov official member photo (bioguide M001244)",
+     "website": "https://ashleymoody.com/",
+     "occupation": "U.S. Senator (appointed January 2025); former Florida Attorney General, circuit judge and federal prosecutor",
+     "residence": "Plant City, Hillsborough County",
+     "background": "Ashley Moody, born 1975 in Plant City, earned undergraduate and law degrees from the University of Florida and later served as a federal prosecutor in the Middle District of Florida. She was elected a Hillsborough County circuit judge in 2006, then elected Florida Attorney General in 2018 and re-elected in 2022. Gov. Ron DeSantis appointed her to the U.S. Senate on January 16, 2025, to fill the seat vacated when Marco Rubio became Secretary of State; she was sworn in January 21, 2025. She serves on the Judiciary, Commerce, Armed Services and Special Aging committees. She won the August 18, 2026 Republican primary with 75.3% over Chris Gleason (about 15%), Neelam Perry and Ernie Rivera.",
+     "primary_result": "Won Aug 18, 2026 Republican primary with 75.3%; Chris Gleason second with about 15% (Spectrum News 13; CBS News)",
+     "positions": {
+      "taxes": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Moody voted for the 2025 One Big Beautiful Bill Act and described it as 'the largest tax cut for the working and middle class in history,' highlighting no tax on most tips and overtime and relief for seniors on Social Security income. Her campaign lists the economy and tax relief among its core themes.",
+       "quote": "We finally have a leader back in the White House to secure the border, fight the opioid epidemic, implement the largest tax cut for the working class in history.",
+       "sources": [
+        {
+         "title": "Sen. Ashley Moody Brings Home Wins for Floridians in One Big Beautiful Bill - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/sen-ashley-moody-brings-home-wins-for-floridians-in-one-big-beautiful-bill/",
+         "date": "2025-07"
+        },
+        {
+         "title": "President Donald J. Trump Endorses Ashley Moody to Return to the U.S. Senate - ashleymoody.com",
+         "url": "https://ashleymoody.com/president-donald-j-trump-endorses-ashley-moody/",
+         "date": "2025-07"
+        },
+        {
+         "title": "Immigration, crime and economy shape Ashley Moody's Senate campaign - WGCU",
+         "url": "https://www.wgcu.org/government-politics/2026-09-07/immigration-crime-and-economy-shape-ashley-moodys-senate-campaign",
+         "date": "2026-09-07"
+        }
+       ]
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Homestead property tax is a state issue; no statement by Moody on Florida's homestead-tax proposals was found.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. No statement by Moody on state intervention in Florida's property-insurance market was found.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Moody's first Senate bill, the HELPER Act, would create an FHA home-loan program for law-enforcement officers, firefighters, other first responders and K-12 teachers with no down payment and no monthly mortgage-insurance premium. She has not proposed broader housing subsidies, zoning changes or rent measures.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Sen. Ashley Moody introduces HELPER Act. Here's how it would help first responders & teachers - FOX 13",
+         "url": "https://www.fox13news.com/news/sen-ashley-moody-introduces-helper-act-heres-how-would-help-first-responders-teachers",
+         "date": "2025"
+        },
+        {
+         "title": "Senator Moody Fights for Affordable Homeownership for Florida Law Enforcement Officers - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/senator-moody-fights-for-affordable-homeownership-for-florida-law-enforcement-officers/",
+         "date": "2025"
+        }
+       ]
+      },
+      "immigration": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Moody has made border security and immigration enforcement a centerpiece of her Senate work and campaign. She introduced the Expedited Removal of Criminal Aliens Act, co-introduced the White House-backed REMOVE Act to conclude removal proceedings within 15 days, and filed the RIPPLE Act to expand the 287(g) state-local enforcement program. Haitian TPS advocates in Miami have pressed her to protect TPS holders from deportation.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Immigration, crime and economy shape Ashley Moody's Senate campaign - WGCU",
+         "url": "https://www.wgcu.org/government-politics/2026-09-07/immigration-crime-and-economy-shape-ashley-moodys-senate-campaign",
+         "date": "2026-09-07"
+        },
+        {
+         "title": "Senator Ashley Moody Leads Efforts to Codify President Trump's Immigration Priorities, Introduces Expedited Removal of Criminal Aliens Act - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/senator-ashley-moody-leads-efforts-to-codify-president-trumps-immigration-priorities-introduces-expedited-removal-of-criminal-aliens-act/",
+         "date": "2025"
+        },
+        {
+         "title": "Senators Ashley Moody, Marsha Blackburn and Colleagues Introduce Bill Backed by White House to Expedite Removal of Illegal Aliens - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/senators-ashley-moody-marsha-blackburn-and-colleagues-introduce-bill-backed-by-white-house-to-expedite-removal-of-illegal-aliens-from-united-states/",
+         "date": "2025-06"
+        },
+        {
+         "title": "Senator Ashley Moody Introduces Legislation to Empower States to Enforce Illegal Immigration Laws & Prevent Human Trafficking of Children at the Border - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/senator-ashley-moody-introduces-legislation-to-empower-states-to-enforce-illegal-immigration-laws-prevent-human-trafficking-of-children-at-the-border/",
+         "date": "2025-05"
+        },
+        {
+         "title": "Miami Activists Press Moody, Scott on Haitian TPS - Hoodline",
+         "url": "https://hoodline.com/2026/09/miami-activists-demand-moody-scott-save-haitian-tps-holders-from-deportation/",
+         "date": "2026-09"
+        }
+       ]
+      },
+      "abortion": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Moody has pledged to be a pro-life lawmaker. In the Senate she introduced the Child Interstate Abortion Notification Act, sponsored the Pregnant Students' Rights Act and cosponsored the Born-Alive Abortion Survivors Protection Act. SBA Pro-Life America tracks her as pro-life; Reproductive Freedom for All scores her record as opposed to abortion rights.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Sen. Ashley Moody - SBA Pro-Life America Scorecard",
+         "url": "https://sbaprolife.org/senator/ashley-moody",
+         "date": null
+        },
+        {
+         "title": "Senator Moody Introduces Child Interstate Abortion Notification Act - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/news-release-senator-moody-introduces-child-interstate-abortion-notification-act-to-empower-parents-and-strengthen-accountability/",
+         "date": "2025"
+        },
+        {
+         "title": "Senator Moody Supports Life, Sponsors Pregnant Students' Rights Act - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/news-release-senator-moody-supports-life-sponsors-pregnant-students-rights-act/",
+         "date": "2025"
+        },
+        {
+         "title": "Ashley Moody cosponsors bill calling for more penalties for medical professionals who mishandle abortions - Florida Politics",
+         "url": "https://floridapolitics.com/archives/759890-ashley-moody-cosponsors-bill-calling-more-penalties-for-medical-professionals-who-mishandle-abortions/",
+         "date": "2025"
+        },
+        {
+         "title": "Ashley Moody's Congressional Scorecard - Reproductive Freedom for All",
+         "url": "https://reproductivefreedomforall.org/lawmaker/ashley-moody/",
+         "date": null
+        }
+       ]
+      },
+      "guns": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Moody cosponsored the Constitutional Concealed Carry Reciprocity Act in the Senate. As Florida Attorney General she joined a 26-state lawsuit to block a Biden-administration rule expanding background checks at gun shows, calling it federal overreach, and she petitioned the Florida Supreme Court against a proposed assault-weapons-ban ballot initiative. No specific statement on Florida's red-flag law or 21 purchase age was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Senator Moody Fights for Americans' Second Amendment Rights, Cosponsors Concealed-Carry Reciprocity Bill - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/news-release-senator-moody-fights-for-americans-second-amendment-rights-cosponsors-concealed-carry-reciprocity-bill/",
+         "date": "2025"
+        },
+        {
+         "title": "Ashley Moody among 26 Republican AGs suing to block Joe Biden rule requiring background checks at gun shows - Florida Politics",
+         "url": "https://floridapolitics.com/archives/672428-ashley-moody-among-26-republican-ags-suing-to-block-joe-biden-rule-requiring-background-checks-at-gun-shows/",
+         "date": "2024-05"
+        },
+        {
+         "title": "Ashley Moody sticks to her guns on assault weapon ban opposition - Florida Politics",
+         "url": "https://floridapolitics.com/archives/302560-ashley-moody-sticks-to-her-guns-on-assault-weapon-ban-opposition/",
+         "date": "2019"
+        }
+       ]
+      },
+      "healthcare": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "In December 2025 Moody voted against a three-year extension of enhanced Affordable Care Act premium subsidies; Florida has about 4.7 million ACA marketplace enrollees. She voted for the One Big Beautiful Bill Act, which the Congressional Budget Office estimated reduces federal Medicaid spending by roughly $1 trillion over a decade. She said the shutdown fight over subsidies was 'avoidable' and blamed Democrats for 'grandstanding.'",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Ashley Moody, Rick Scott vote to kill extension of health care subsidies - Florida Politics",
+         "url": "https://floridapolitics.com/archives/769482-ashley-moody-rick-scott-vote-to-kill-extension-of-health-care-subsidies/",
+         "date": "2025-12"
+        },
+        {
+         "title": "Angie Nixon says there are '$10 million reasons' to oppose Ashley Moody - Florida Phoenix",
+         "url": "https://floridaphoenix.com/2026/09/09/angie-nixon-says-there-are-10-million-reasons-to-oppose-ashley-moody/",
+         "date": "2026-09-09"
+        },
+        {
+         "title": "Sen. Ashley Moody Brings Home Wins for Floridians in One Big Beautiful Bill - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/sen-ashley-moody-brings-home-wins-for-floridians-in-one-big-beautiful-bill/",
+         "date": "2025-07"
+        },
+        {
+         "title": "Sen. Ashley Moody criticizes Democrats for 'grandstanding': 'All of this was avoidable' - AOL/News",
+         "url": "https://www.aol.com/news/sen-ashley-moody-criticizes-democrats-121633729.html",
+         "date": "2025"
+        }
+       ]
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No explicit statement found on protecting benefits 'even if that requires more revenue'; she has said she opposes cutting benefits for current retirees.",
+       "sources": []
+      },
+      "education_choice": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Moody is co-chair of National School Choice Week, cosponsored the Educational Choice for Children Act (a federal tax-credit scholarship program), and held a Tampa news conference with Education Secretary Linda McMahon touting the school-choice provisions in the One Big Beautiful Bill Act. She cites Florida's universal school-choice program as a national model.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "As Co-Chair of National School Choice Week, Senator Moody Promotes Educational Freedom in America - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/video-release-as-co-chair-of-national-school-choice-week-senator-moody-promotes-educational-freedom-in-america-touts-success-in-floridas-model/",
+         "date": "2026-01"
+        },
+        {
+         "title": "Senator Ashley Moody Shares Support for Legislation to Provide Parents with Additional Scholarship Funds for K-12 Education Options - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/senator-ashley-moody-shares-support-for-legislation-to-provide-parents-with-additional-scholarship-funds-for-k-12-education-options/",
+         "date": "2025"
+        },
+        {
+         "title": "Sen. Ashley Moody, Linda McMahon highlight 'school choice expansion wins' at Tampa news conference - FOX 13",
+         "url": "https://www.fox13news.com/news/sen-moody-linda-mcmahon-hold-news-conference-tampa-school-choice-expansion-wins",
+         "date": "2025"
+        }
+       ]
+      },
+      "environment": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Moody introduced the American Shores Protection Act to extend the ban on oil and gas drilling off Florida's coasts through 2032 and led a bipartisan Florida delegation letter to President Trump opposing drilling off Florida, citing tourism, the environment and the Gulf Test Range. No statement was found on broader conservation-land, water-quality or climate-resilience trade-offs with development.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Sen. Ashley Moody Fights to Protect Florida's Coast from Off-Shore Oil Drilling, Introduces the American Shores Protection Act - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/news-release-sen-ashley-moody-fights-to-protect-floridas-coast-from-off-shore-oil-drilling-introduces-the-american-shores-protection-act/",
+         "date": "2025-12"
+        },
+        {
+         "title": "Senators Ashley Moody & Rick Scott Lead Bipartisan Florida Delegation Letter to President Trump: Keep Oil Drilling Off Florida's Coasts - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/news-release-senators-ashley-moody-rick-scott-lead-bipartisan-florida-delegation-letter-to-president-trump-keep-oil-drilling-off-floridas-coasts/",
+         "date": "2025-12"
+        },
+        {
+         "title": "Sen. Ashley Moody on her legislative goals for this year and more - WUSF",
+         "url": "https://www.wusf.org/politics-issues/2026-01-24/u-s-senator-ashley-moody-legislative-goals",
+         "date": "2026-01-24"
+        }
+       ]
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Growth management is a state/local issue; no Moody statement was found.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "As Attorney General, Moody asked the Florida Supreme Court to keep recreational-marijuana legalization initiatives off the ballot in 2019 (2020 cycle) and 2023 (2024 cycle, Amendment 3), arguing the ballot language was misleading; the court allowed Amendment 3 on the ballot 5-2. No statement on federal legalization was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Florida attorney general to challenge marijuana legalization referendum - Sun Sentinel (via PressReader)",
+         "url": "https://www.pressreader.com/usa/sun-sentinel-broward-edition/20190912/281792810725179",
+         "date": "2019-09-12"
+        },
+        {
+         "title": "Ashley Moody - Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Ashley_Moody",
+         "date": null
+        }
+       ]
+      },
+      "elections": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Moody cosponsored the SAVE Act / SAVE America Act, which would require documentary proof of citizenship and photo ID for federal elections, and as Attorney General led a 22-state coalition urging the Senate to pass it. In 2026 she pushed a combined voter-ID and congressional stock-trading-ban bill. As AG in 2020 she joined the Texas lawsuit asking the Supreme Court to overturn results in four states.",
+       "quote": "The SAVE Act is important legislation that ensures only Americans vote in American elections.",
+       "sources": [
+        {
+         "title": "Ashley Moody urges Senate to pass SAVE Act for election security - The Capitolist",
+         "url": "https://thecapitolist.com/ashley-moody-urges-senate-to-pass-save-act-for-election-security/amp/",
+         "date": "2024-07"
+        },
+        {
+         "title": "Ashley Moody pushes Senate to pass combined voter ID, stock trading ban bill - Florida Politics",
+         "url": "https://floridapolitics.com/archives/810019-ashley-moody-pushes-senate-to-pass-combined-voter-id-stock-trading-ban-bill/",
+         "date": "2026"
+        },
+        {
+         "title": "Attorney General Moody and Coalition Call on US Senate to Pass SAVE Act - My Florida Legal",
+         "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-moody-and-coalition-call-us-senate-pass-save-act-ensure-only-americans",
+         "date": "2024-07"
+        },
+        {
+         "title": "Ashley Moody - Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Ashley_Moody",
+         "date": null
+        },
+        {
+         "title": "Sen. Ashley Moody, anti-voting hardliner, wins Florida GOP primary for U.S. Senate - Democracy Docket",
+         "url": "https://www.democracydocket.com/news-alerts/ashley-moody-anti-voting-hardliner-wins-florida-gop-primary-senate/",
+         "date": "2026-08-18"
+        }
+       ]
+      },
+      "crime": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "A former prosecutor and judge, Moody sits on the Judiciary Committee, where during her first Police Week the committee advanced an eight-bill law-enforcement package she promoted that boosts local police investment and officer benefits. She is a cosponsor of the Back the Blue Act creating new federal crimes and mandatory minimums for assaulting officers. The Florida Police Chiefs Association and other law-enforcement groups have endorsed her.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "During Ashley Moody's First Police Week as a U.S. Senator, Judiciary Committee Passes Largest Pro-Law Enforcement Package in 15 Years - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/during-ashley-moodys-first-police-week-as-a-u-s-senator-judiciary-committee-passes-largest-pro-law-enforcement-package-in-15-years/",
+         "date": "2025-05"
+        },
+        {
+         "title": "Back the Blue Act of 2025 (S.3366) - govinfo",
+         "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3366.xml",
+         "date": "2025"
+        },
+        {
+         "title": "Home - Ashley Moody for U.S. Senate (Florida Police Chiefs Association endorsement)",
+         "url": "https://ashleymoody.com/",
+         "date": "2026"
+        },
+        {
+         "title": "Immigration, crime and economy shape Ashley Moody's Senate campaign - WGCU",
+         "url": "https://www.wgcu.org/government-politics/2026-09-07/immigration-crime-and-economy-shape-ashley-moodys-senate-campaign",
+         "date": "2026-09-07"
+        }
+       ]
+      },
+      "lgbtq": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "As Attorney General, Moody sued the Biden administration over a federal rule barring discrimination based on gender identity in health care, arguing it would force doctors to provide gender-affirming treatments to minors. Gov. DeSantis cited that record when appointing her, and in a 2025 Senate hearing she sharply questioned an LGBTQ legal advocate over gender-affirming care for minors.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Florida sues Biden administration over gender-affirming care rule - CBS Miami",
+         "url": "https://cbsnews.com/miami/news/florida-sues-biden-administration-over-gender-affirming-care-rule/",
+         "date": "2024"
+        },
+        {
+         "title": "Florida Gov. Ron DeSantis appoints Ashley Moody as Marco Rubio's replacement in the Senate - The Advocate",
+         "url": "https://www.advocate.com/politics/ashley-moody-florida-senate",
+         "date": "2025-01"
+        },
+        {
+         "title": "Sen. Moody's heated clash with LGBTQ advocate over gender care for minors (Senate hearing video) - YouTube",
+         "url": "https://www.youtube.com/watch?v=cn-6MY5Votc",
+         "date": "2025"
+        }
+       ]
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026 on promoting renewables or utility-rate oversight. Related record: she opposes offshore oil and gas drilling near Florida (American Shores Protection Act) while broadly supporting the Trump administration's agenda.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Sen. Ashley Moody Fights to Protect Florida's Coast from Off-Shore Oil Drilling, Introduces the American Shores Protection Act - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/news-release-sen-ashley-moody-fights-to-protect-floridas-coast-from-off-shore-oil-drilling-introduces-the-american-shores-protection-act/",
+         "date": "2025-12"
+        },
+        {
+         "title": "Sen. Ashley Moody on her legislative goals for this year and more - WUSF",
+         "url": "https://www.wusf.org/politics-issues/2026-01-24/u-s-senator-ashley-moody-legislative-goals",
+         "date": "2026-01-24"
+        }
+       ]
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026 on whether tariffs benefit the U.S. economy. Related: she and Sen. Rick Scott urged the administration to use 'trade leverage' to block a proposed International Maritime Organization shipping levy.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Ashley Moody, Rick Scott urge Donald Trump administration to block proposed international shipping tax - Florida Politics",
+         "url": "https://floridapolitics.com/archives/756860-ashley-moody-rick-scott-urge-donald-trump-administration-to-block-proposed-international-shipping-tax/",
+         "date": "2025-10"
+        }
+       ]
+      },
+      "ukraine": {
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "In February 2022 Moody condemned Russia's invasion and said 'America must always stand for freedom.' In February 2025, after the Trump-Zelensky Oval Office meeting, she wrote that under Biden the U.S. 'poured billions of taxpayer dollars into Ukraine with no clear end to the war in sight' and that 'America is not your piggy bank,' thanking President Trump for pursuing peace.",
+       "quote": "America is not your piggy bank.",
+       "sources": [
+        {
+         "title": "Senator Ashley Moody on X: 'Under Biden, the U.S. poured billions of taxpayer dollars into Ukraine ... America is not your piggy bank.'",
+         "url": "https://x.com/SenAshleyMoody/status/1895598634797863137",
+         "date": "2025-02-28"
+        },
+        {
+         "title": "Ashley Moody on X (Feb 2022) on Russia's invasion of Ukraine",
+         "url": "https://x.com/SenAshleyMoody/status/1496852587555041284",
+         "date": "2022-02-24"
+        },
+        {
+         "title": "Ashley Moody's policy on Ukrainian Defense Funding - iSideWith",
+         "url": "https://www.isidewith.com/candidates/ashley-moody/policies/foreign-policy/ukrainian-defense-funding",
+         "date": null
+        }
+       ]
+      },
+      "trump": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Moody has closely aligned herself with President Trump, who gave her his 'Complete and Total Endorsement.' She said she is 'honored' to 'work together to bring America into the Golden Age and deliver the America First agenda,' and has appeared with Trump at events including in The Villages.",
+       "quote": "I am honored by the endorsement of President Donald Trump as we work together to bring America into the Golden Age and deliver the America First agenda.",
+       "sources": [
+        {
+         "title": "President Donald J. Trump Endorses Ashley Moody to Return to the U.S. Senate - ashleymoody.com",
+         "url": "https://ashleymoody.com/president-donald-j-trump-endorses-ashley-moody/",
+         "date": "2025-07"
+        },
+        {
+         "title": "Trump endorses Ashley Moody for Senate in 2026 - Tampa Bay Times",
+         "url": "https://www.tampabay.com/news/florida-politics/2025/07/24/trump-desantis-moody-immigration-rubio-biden-supreme-court/",
+         "date": "2025-07-24"
+        },
+        {
+         "title": "Senator Moody and President Trump Tout Recent Policy Wins in The Villages - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/video-release-senator-moody-and-president-trump-tout-recent-policy-wins-in-the-villages/",
+         "date": "2025"
+        },
+        {
+         "title": "Immigration, crime and economy shape Ashley Moody's Senate campaign - WGCU",
+         "url": "https://www.wgcu.org/government-politics/2026-09-07/immigration-crime-and-economy-shape-ashley-moodys-senate-campaign",
+         "date": "2026-09-07"
+        }
+       ]
+      },
+      "veterans": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Moody introduced the Veterans Bill of Rights Act and the Veterans Outdoor Rehabilitation Act ($10 million a year in VA grants for outdoor programs aimed at reducing veteran suicide), cosponsored the bipartisan Major Richard Star Act to give combat-injured retirees full DOD retirement and VA disability pay, and supported the VETS Opportunity Act and Restore VA Accountability Act.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Senator Moody Brings Veterans Bill of Rights Act to Thousands of Florida Veterans - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/video-senator-moody-brings-veterans-bill-of-rights-act-to-thousands-of-florida-veterans/",
+         "date": "2025"
+        },
+        {
+         "title": "Senator Moody's bill funds outdoor mental health for veterans - WFTV",
+         "url": "https://www.wftv.com/news/local/orange-county/bill-targets-veteran-suicide-rates-by-funding-outdoor-recreation/6IUJL3D5PFHZTB7BXBYK5IHWOY/",
+         "date": "2025"
+        },
+        {
+         "title": "Sen. Ashley Moody Joins Colleagues to Deliver Combat-Injured Veterans Full Military Benefits - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/sen-ashley-moody-joins-colleagues-to-deliver-combat-injured-veterans-full-military-benefits/",
+         "date": "2025"
+        },
+        {
+         "title": "Senator Ashley Moody Lays Out Record On Florida Veteran And Military Support - Tampa Free Press",
+         "url": "https://www.tampafp.com/senator-ashley-moody-lays-out-record-on-florida-veteran-and-military-support/",
+         "date": "2026"
+        }
+       ]
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Offshore drilling moratorium (American Shores Protection Act)",
+       "summary": "Codify and extend through 2032 the ban on oil and gas drilling off Florida's Gulf and Atlantic coasts; she calls it a top 2026 legislative goal.",
+       "sources": [
+        {
+         "title": "Sen. Ashley Moody Fights to Protect Florida's Coast from Off-Shore Oil Drilling, Introduces the American Shores Protection Act - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/news-release-sen-ashley-moody-fights-to-protect-floridas-coast-from-off-shore-oil-drilling-introduces-the-american-shores-protection-act/",
+         "date": "2025-12"
+        },
+        {
+         "title": "Sen. Ashley Moody on her legislative goals for this year and more - WUSF",
+         "url": "https://www.wusf.org/politics-issues/2026-01-24/u-s-senator-ashley-moody-legislative-goals",
+         "date": "2026-01-24"
+        }
+       ]
+      },
+      {
+       "title": "Voter ID paired with congressional stock-trading ban",
+       "summary": "Pushed the Senate in 2026 to pass a combined bill requiring voter ID/proof of citizenship and banning stock trading by members of Congress.",
+       "sources": [
+        {
+         "title": "Ashley Moody pushes Senate to pass combined voter ID, stock trading ban bill - Florida Politics",
+         "url": "https://floridapolitics.com/archives/810019-ashley-moody-pushes-senate-to-pass-combined-voter-id-stock-trading-ban-bill/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "HELPER Act home loans for first responders and teachers",
+       "summary": "Create an FHA loan program with no down payment or monthly mortgage insurance for police, firefighters, EMTs and K-12 teachers.",
+       "sources": [
+        {
+         "title": "Sen. Ashley Moody introduces HELPER Act. Here's how it would help first responders & teachers - FOX 13",
+         "url": "https://www.fox13news.com/news/sen-ashley-moody-introduces-helper-act-heres-how-would-help-first-responders-teachers",
+         "date": "2025"
+        },
+        {
+         "title": "Senator Moody Fights for Affordable Homeownership for Florida Law Enforcement Officers - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/senator-moody-fights-for-affordable-homeownership-for-florida-law-enforcement-officers/",
+         "date": "2025"
+        }
+       ]
+      },
+      {
+       "title": "Kennedy Space Center and aerospace workforce",
+       "summary": "Says she passed legislation in 2025 supporting Kennedy Space Center and backs expanding Florida's technical/aerospace workforce.",
+       "sources": [
+        {
+         "title": "Sen. Ashley Moody on her legislative goals for this year and more - WUSF",
+         "url": "https://www.wusf.org/politics-issues/2026-01-24/u-s-senator-ashley-moody-legislative-goals",
+         "date": "2026-01-24"
+        },
+        {
+         "title": "Moody Backs Florida Aerospace Workers And Technical Workforce Expansion - Tampa Free Press",
+         "url": "https://www.tampafp.com/moody-backs-florida-aerospace-workers-and-technical-workforce-expansion/",
+         "date": "2025"
+        }
+       ]
+      },
+      {
+       "title": "Opioid and fentanyl enforcement",
+       "summary": "Cites litigating Florida's multibillion-dollar opioid settlements as AG and lists fighting the opioid epidemic among her Senate priorities.",
+       "sources": [
+        {
+         "title": "AG Moody Leaves Legacy of Fighting Fed Overreach, Protecting the Border, Prosecuting Traffickers, Combating the Opioid Crisis ... - My Florida Legal",
+         "url": "https://www.myfloridalegal.com/newsrelease/ag-moody-leaves-legacy-fighting-fed-overreach-protecting-the-border-prosecuting-traffickers",
+         "date": "2025-01"
+        },
+        {
+         "title": "Florida Reaches Opioid Settlements Topping $870 Million - CBS Miami",
+         "url": "https://www.cbsnews.com/miami/news/florida-reaches-opioid-settlements-topping-870-million/",
+         "date": "2022"
+        },
+        {
+         "title": "President Donald J. Trump Endorses Ashley Moody to Return to the U.S. Senate - ashleymoody.com",
+         "url": "https://ashleymoody.com/president-donald-j-trump-endorses-ashley-moody/",
+         "date": "2025-07"
+        }
+       ]
+      },
+      {
+       "title": "Placement of unaccompanied migrant children (Stop GAPS Act)",
+       "summary": "Require HHS's Office of Refugee Resettlement to coordinate with states before placing unaccompanied migrant children with sponsors.",
+       "sources": [
+        {
+         "title": "Senator Ashley Moody Introduces Legislation to Empower States to Enforce Illegal Immigration Laws & Prevent Human Trafficking of Children at the Border - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/senator-ashley-moody-introduces-legislation-to-empower-states-to-enforce-illegal-immigration-laws-prevent-human-trafficking-of-children-at-the-border/",
+         "date": "2025-05"
+        }
+       ]
+      },
+      {
+       "title": "FEMA disaster reimbursements for Florida",
+       "summary": "Announced securing more than $1.5 billion in delayed FEMA disaster-recovery reimbursements for Florida in 2026 and pressed the FEMA nominee on Florida's outstanding funds.",
+       "sources": [
+        {
+         "title": "Senator Moody Secures Massive $1.5 BILLION in FEMA Disaster Recovery Funding for Florida - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/senator-moody-secures-massive-1-5-billion-in-fema-disaster-recovery-funding-for-florida/",
+         "date": "2026-05"
+        },
+        {
+         "title": "$1.7 Billion On The Line: Florida Senator Moody Grills FEMA Nominee Over Florida Disaster Cash - Tampa Free Press",
+         "url": "https://www.tampafp.com/1-7-billion-on-the-line-florida-senator-moody-grills-fema-nominee-over-florida-disaster-cash/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Blocking a proposed international shipping levy",
+       "summary": "With Sen. Rick Scott, urged the administration to use trade leverage to block an International Maritime Organization carbon-pricing framework she says would raise costs at Florida ports.",
+       "sources": [
+        {
+         "title": "Ashley Moody, Rick Scott urge Donald Trump administration to block proposed international shipping tax - Florida Politics",
+         "url": "https://floridapolitics.com/archives/756860-ashley-moody-rick-scott-urge-donald-trump-administration-to-block-proposed-international-shipping-tax/",
+         "date": "2025-10"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (July 2025), which extended the 2017 tax cuts, added deductions for tips, overtime and seniors, and reduced projected federal Medicaid spending by about $1 trillion over ten years per CBO-based analyses.",
+       "sources": [
+        {
+         "title": "Sen. Ashley Moody Brings Home Wins for Floridians in One Big Beautiful Bill - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/sen-ashley-moody-brings-home-wins-for-floridians-in-one-big-beautiful-bill/",
+         "date": "2025-07"
+        },
+        {
+         "title": "Fact-checking falsehoods about Trump's 'Big Beautiful Bill' and taxes, deficit, Medicaid - PolitiFact",
+         "url": "https://politifact.com/article/2025/jun/24/one-big-beautiful-bill-trump-taxes-senate/",
+         "date": "2025-06-24"
+        }
+       ]
+      },
+      {
+       "item": "Voted in December 2025 against a three-year extension of enhanced ACA premium subsidies; Florida Democrats and Nixon have criticized the vote, citing roughly 440,000 Floridians who dropped ACA coverage after the subsidies lapsed in January 2026.",
+       "sources": [
+        {
+         "title": "Ashley Moody, Rick Scott vote to kill extension of health care subsidies - Florida Politics",
+         "url": "https://floridapolitics.com/archives/769482-ashley-moody-rick-scott-vote-to-kill-extension-of-health-care-subsidies/",
+         "date": "2025-12"
+        },
+        {
+         "title": "Angie Nixon says there are '$10 million reasons' to oppose Ashley Moody - Florida Phoenix",
+         "url": "https://floridaphoenix.com/2026/09/09/angie-nixon-says-there-are-10-million-reasons-to-oppose-ashley-moody/",
+         "date": "2026-09-09"
+        }
+       ]
+      },
+      {
+       "item": "Introduced the Expedited Removal of Criminal Aliens Act and co-introduced the REMOVE Act and RIPPLE Act (287(g) expansion) to speed deportations and expand state/local immigration enforcement.",
+       "sources": [
+        {
+         "title": "Senator Ashley Moody Leads Efforts to Codify President Trump's Immigration Priorities, Introduces Expedited Removal of Criminal Aliens Act - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/senator-ashley-moody-leads-efforts-to-codify-president-trumps-immigration-priorities-introduces-expedited-removal-of-criminal-aliens-act/",
+         "date": "2025"
+        },
+        {
+         "title": "Senators Ashley Moody, Marsha Blackburn and Colleagues Introduce Bill Backed by White House to Expedite Removal of Illegal Aliens - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/senators-ashley-moody-marsha-blackburn-and-colleagues-introduce-bill-backed-by-white-house-to-expedite-removal-of-illegal-aliens-from-united-states/",
+         "date": "2025-06"
+        },
+        {
+         "title": "Senator Ashley Moody Introduces Legislation to Empower States to Enforce Illegal Immigration Laws & Prevent Human Trafficking of Children at the Border - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/senator-ashley-moody-introduces-legislation-to-empower-states-to-enforce-illegal-immigration-laws-prevent-human-trafficking-of-children-at-the-border/",
+         "date": "2025-05"
+        }
+       ]
+      },
+      {
+       "item": "Introduced the American Shores Protection Act (Dec 2025) to extend the offshore drilling moratorium off Florida through 2032, with bipartisan cosponsors.",
+       "sources": [
+        {
+         "title": "Sen. Ashley Moody Fights to Protect Florida's Coast from Off-Shore Oil Drilling, Introduces the American Shores Protection Act - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/news-release-sen-ashley-moody-fights-to-protect-floridas-coast-from-off-shore-oil-drilling-introduces-the-american-shores-protection-act/",
+         "date": "2025-12"
+        }
+       ]
+      },
+      {
+       "item": "Cosponsored the Constitutional Concealed Carry Reciprocity Act and the Born-Alive Abortion Survivors Protection Act; introduced the Child Interstate Abortion Notification Act.",
+       "sources": [
+        {
+         "title": "Senator Moody Fights for Americans' Second Amendment Rights, Cosponsors Concealed-Carry Reciprocity Bill - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/news-release-senator-moody-fights-for-americans-second-amendment-rights-cosponsors-concealed-carry-reciprocity-bill/",
+         "date": "2025"
+        },
+        {
+         "title": "Ashley Moody cosponsors bill calling for more penalties for medical professionals who mishandle abortions - Florida Politics",
+         "url": "https://floridapolitics.com/archives/759890-ashley-moody-cosponsors-bill-calling-more-penalties-for-medical-professionals-who-mishandle-abortions/",
+         "date": "2025"
+        },
+        {
+         "title": "Senator Moody Introduces Child Interstate Abortion Notification Act - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/news-release-senator-moody-introduces-child-interstate-abortion-notification-act-to-empower-parents-and-strengthen-accountability/",
+         "date": "2025"
+        }
+       ]
+      },
+      {
+       "item": "As Attorney General (2019-2025), negotiated opioid settlements including more than $870 million with CVS, Teva and Allergan as part of a roughly $3.1 billion total; an appeals court later questioned her authority to settle claims on behalf of local governments.",
+       "sources": [
+        {
+         "title": "Florida Reaches Opioid Settlements Topping $870 Million - CBS Miami",
+         "url": "https://www.cbsnews.com/miami/news/florida-reaches-opioid-settlements-topping-870-million/",
+         "date": "2022"
+        },
+        {
+         "title": "Did Ashley Moody overstep authority in $3.1B opioid settlement? Appellate court considers the case - Florida Politics",
+         "url": "https://floridapolitics.com/archives/673476-did-ashley-moody-overstep-authority-in-3-1b-opioid-settlement-appellate-court-considers-the-case/",
+         "date": "2024"
+        }
+       ]
+      },
+      {
+       "item": "As Attorney General in December 2020, joined 16 other Republican AGs supporting the Texas lawsuit asking the U.S. Supreme Court to overturn the 2020 presidential results in four states; the court dismissed the case.",
+       "sources": [
+        {
+         "title": "Ashley Moody - Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Ashley_Moody",
+         "date": null
+        },
+        {
+         "title": "More about Ashley Moody, appointed to be Florida's next US senator - WUSF",
+         "url": "https://www.wusf.org/politics-issues/2025-01-17/learn-more-ashley-moody-appointed-next-florida-us-senator",
+         "date": "2025-01-17"
+        }
+       ]
+      },
+      {
+       "item": "As Attorney General, asked the Florida Supreme Court to strike recreational-marijuana ballot initiatives (2019 and 2023) and joined a 26-state suit against the Biden gun-show background-check rule.",
+       "sources": [
+        {
+         "title": "Florida attorney general to challenge marijuana legalization referendum - Sun Sentinel (via PressReader)",
+         "url": "https://www.pressreader.com/usa/sun-sentinel-broward-edition/20190912/281792810725179",
+         "date": "2019-09-12"
+        },
+        {
+         "title": "Ashley Moody - Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Ashley_Moody",
+         "date": null
+        },
+        {
+         "title": "Ashley Moody among 26 Republican AGs suing to block Joe Biden rule requiring background checks at gun shows - Florida Politics",
+         "url": "https://floridapolitics.com/archives/672428-ashley-moody-among-26-republican-ags-suing-to-block-joe-biden-rule-requiring-background-checks-at-gun-shows/",
+         "date": "2024-05"
+        }
+       ]
+      },
+      {
+       "item": "Criticism: an Out of the Swamp PAC ad (Nov 2025) said she 'sided with Trump' on votes affecting FEMA, National Weather Service and disaster-aid funding; her office says she has secured more than $2.3 billion in FEMA reimbursements for Florida.",
+       "sources": [
+        {
+         "title": "Ashley Moody attacked in new ad over FEMA funding vote - Florida Politics",
+         "url": "https://floridapolitics.com/archives/766313-ashley-moody-attacked-in-new-ad-over-fema-funding-vote/",
+         "date": "2025-11"
+        },
+        {
+         "title": "Senator Moody Secures Massive $1.5 BILLION in FEMA Disaster Recovery Funding for Florida - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/senator-moody-secures-massive-1-5-billion-in-fema-disaster-recovery-funding-for-florida/",
+         "date": "2026-05"
+        }
+       ]
+      },
+      {
+       "item": "Criticism: Angie Nixon alleges that as AG Moody transferred $10 million in taxpayer funds intended for children's health care to a political committee; Florida Democrats have also criticized her support for DOGE cuts affecting Social Security Administration staffing.",
+       "sources": [
+        {
+         "title": "Angie Nixon says there are '$10 million reasons' to oppose Ashley Moody - Florida Phoenix",
+         "url": "https://floridaphoenix.com/2026/09/09/angie-nixon-says-there-are-10-million-reasons-to-oppose-ashley-moody/",
+         "date": "2026-09-09"
+        },
+        {
+         "title": "Dems slam Ashley Moody's healthcare record in Orlando - Orlando Weekly",
+         "url": "https://www.orlandoweekly.com/news/orlando-area-news/moody-should-take-a-play-from-dollys-life-dems-slam-ashley-moodys-healthcare-record-in-orlando/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Endorsed by President Trump in July 2025 and won the Aug 18, 2026 GOP primary with 75.3%.",
+       "sources": [
+        {
+         "title": "Trump endorses Ashley Moody for Senate in 2026 - Tampa Bay Times",
+         "url": "https://www.tampabay.com/news/florida-politics/2025/07/24/trump-desantis-moody-immigration-rubio-biden-supreme-court/",
+         "date": "2025-07-24"
+        },
+        {
+         "title": "U.S. Senate Republican primary results - Spectrum News 13",
+         "url": "https://mynews13.com/fl/orlando/news/2026/08/19/u-s--senate-republican-primary-results",
+         "date": "2026-08-19"
+        }
+       ]
+      },
+      {
+       "item": "Voted for H.R. 1 (July 1, 2025), the budget reconciliation law that extended the 2017 tax cuts and added Medicaid work requirements; the Senate vote was 51-50.",
+       "sources": [
+        {
+         "title": "H.R.1, 119th Congress",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        }
+       ]
+      },
+      {
+       "item": "As Attorney General, unsuccessfully asked the Florida Supreme Court to keep the 2024 recreational-marijuana amendment (Amendment 3) and the abortion-rights amendment (Amendment 4) off the ballot.",
+       "sources": [
+        {
+         "title": "Ashley Moody - Wikipedia (with citations)",
+         "url": "https://en.wikipedia.org/wiki/Ashley_Moody"
+        }
+       ]
+      }
+     ],
+     "endorsements": [
+      {
+       "by": "President Donald Trump",
+       "sources": [
+        {
+         "title": "Trump endorses Ashley Moody for Senate in 2026 - Tampa Bay Times",
+         "url": "https://www.tampabay.com/news/florida-politics/2025/07/24/trump-desantis-moody-immigration-rubio-biden-supreme-court/",
+         "date": "2025-07-24"
+        },
+        {
+         "title": "President Donald J. Trump Endorses Ashley Moody to Return to the U.S. Senate - ashleymoody.com",
+         "url": "https://ashleymoody.com/president-donald-j-trump-endorses-ashley-moody/",
+         "date": "2025-07"
+        }
+       ]
+      },
+      {
+       "by": "U.S. Sen. Rick Scott",
+       "sources": [
+        {
+         "title": "Trump supports Ashley Moody for Florida US Senate special election in 2026 - Florida's Voice",
+         "url": "https://flvoicenews.com/trump-backs-ashley-moody-for-florida-us-senate-special-election-in-2026/",
+         "date": "2025-07"
+        }
+       ]
+      },
+      {
+       "by": "Republican Party of Florida",
+       "sources": [
+        {
+         "title": "Ashley B. Moody - Ballotpedia",
+         "url": "https://ballotpedia.org/Ashley_B._Moody",
+         "date": null
+        },
+        {
+         "title": "Endorsements - Ashley Moody for U.S. Senate",
+         "url": "https://ashleymoody.com/endorsements/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "by": "Florida Police Chiefs Association",
+       "sources": [
+        {
+         "title": "Home - Ashley Moody for U.S. Senate (Florida Police Chiefs Association endorsement)",
+         "url": "https://ashleymoody.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "by": "Florida Realtors",
+       "sources": [
+        {
+         "title": "REALTORS Endorse Ashley Moody for U.S. Senate - ashleymoody.com",
+         "url": "https://ashleymoody.com/realtors-endorse-ashley-moody/",
+         "date": "2026"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "angie_nixon",
+     "name": "Angie Nixon",
+     "party": "Democratic",
+     "incumbent": false,
+     "photo_url": "https://www.myfloridahouse.gov/FileStores/Web/Imaging/Member/4766.jpg",
+     "photo_source": "Florida House of Representatives member photo (MemberId 4766); URL pattern unverified",
+     "website": "https://angienixon.com/",
+     "occupation": "Florida State Representative (District 13, Jacksonville); union and community organizer",
+     "residence": "Jacksonville, Duval County",
+     "background": "Angela 'Angie' Nixon was born February 27, 1984, in Jacksonville and raised in the Moncrief neighborhood by a single mother. She attended Stanton College Preparatory School and graduated from the University of Florida in 2007 with a political science degree. She worked as a higher-education director, community and union organizer, and executive director of Florida for All, a statewide voter-registration coalition. She was first elected to the Florida House in 2020 and has represented District 13 since 2022; she is a member of the Democratic Socialists of America and the Working Families Party. She won the August 18, 2026 Democratic primary with about 56% over Alexander Vindman despite being outspent roughly 16 to 1.",
+     "primary_result": "Won Aug 18, 2026 Democratic primary with 56.1% over Alexander Vindman (NBC News; Ballotpedia)",
+     "positions": {
+      "taxes": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Nixon proposes raising taxes on the wealthy rather than cutting them: a 5% annual wealth tax on billionaires, taxing capital gains at the same rate as wages, closing the stepped-up-basis and offshore loopholes, a federal asset registry and stronger IRS enforcement, to fund programs such as Medicare for All and universal child care. She has said she would work to repeal the 2025 Trump tax cuts.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Angie Nixon for U.S. Senate - Priorities",
+         "url": "https://angienixon.com/priorities/",
+         "date": null
+        },
+        {
+         "title": "Socialist Angie Nixon vows to scrap tax cuts as Florida leads nation in refunds - Florida's Voice",
+         "url": "https://flvoicenews.com/exclusive-socialist-angie-nixon-vows-to-scrap-tax-cuts-as-florida-leads-nation-in-refunds/",
+         "date": "2026"
+        },
+        {
+         "title": "Socialist Senate Nominee Angie Nixon Says It's 'Crazy' She Has To Pay Her Taxes And Student Loans - Washington Free Beacon",
+         "url": "https://freebeacon.com/democrats/i-dont-wanna-pay-it-back-socialist-senate-nominee-angie-nixon-says-its-crazy-she-has-to-pay-her-taxes-and-student-loans/",
+         "date": "2026-09"
+        }
+       ]
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Homestead property tax is a state issue; no statement by Nixon on Florida's homestead-tax proposals was found.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. No statement by Nixon on state intervention in Florida's property-insurance market was found.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Nixon's campaign says tackling the affordability crisis, including housing costs, is a core priority and she discussed housing policy in a Fox 13 interview; specific federal housing proposals (subsidies, zoning or rent measures) could not be verified from accessible sources.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "One-on-One: Senate candidate Angie Nixon outlines positions on housing, healthcare, and foreign policy - FOX 13",
+         "url": "https://www.fox13news.com/news/one-on-one-senate-candidate-angie-nixon-outlines-positions-housing-healthcare-foreign-policy",
+         "date": "2026-08"
+        },
+        {
+         "title": "How U.S. Senate candidate Angie Nixon plans to reach Florida voters - WGCU",
+         "url": "https://www.wgcu.org/government-politics/2026-09-07/how-u-s-senate-candidate-angie-nixon-plans-to-reach-florida-voters",
+         "date": "2026-09-07"
+        },
+        {
+         "title": "Florida Senate candidate Angie Nixon campaigns on affordability, healthcare and education - Miami Times",
+         "url": "https://www.miamitimesonline.com/news/florida/florida-senate-candidate-angie-nixon-campaigns-on-affordability-healthcare-and-education/article_18684ca8-e1f3-4cd8-93bf-351933d7d211.html",
+         "date": "2026"
+        }
+       ]
+      },
+      "immigration": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Nixon calls mass deportation a 'moral failure,' says she would abolish ICE and rebuild immigration enforcement, supports a moratorium on deportations pending an audit of enforcement practices, a 'swift' path to citizenship for Dreamers and undocumented residents, and renewal and expansion of TPS. She joined advocates urging Miami to end its 287(g) agreement with ICE and has called ICE agents 'modern-day slave catchers.'",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Angie Nixon for U.S. Senate - Priorities",
+         "url": "https://angienixon.com/priorities/",
+         "date": null
+        },
+        {
+         "title": "US Senate candidate Angie Nixon joins immigration advocates in pressing Miami to end ICE agreement - WUWF/WLRN",
+         "url": "https://www.wuwf.org/florida-news/2026-08-03/us-senate-candidate-angie-nixon-joins-immigration-advocates-in-pressing-miami-to-end-ice-agreement",
+         "date": "2026-08-03"
+        },
+        {
+         "title": "Angie Nixon compares ICE agents to 'modern-day slave catchers' - Washington Times",
+         "url": "https://www.washingtontimes.com/news/2026/aug/22/angie-nixon-compares-ice-agents-modern-day-slave-catchers/",
+         "date": "2026-08-22"
+        },
+        {
+         "title": "Florida's Socialist Senate Candidate Angie Nixon Campaigns on Abolishing ICE, Granting 'Swift' Amnesty - Breitbart",
+         "url": "https://www.breitbart.com/politics/2026/08/19/floridas-socialist-senate-candidate-angie-nixon-campaigns-on-abolishing-ice-granting-swift-amnesty/",
+         "date": "2026-08-19"
+        },
+        {
+         "title": "How aligned is Angie Nixon with democratic socialists? - PolitiFact",
+         "url": "https://politifact.com/article/2026/aug/21/angie-nixon-florida-senate-ashley-moody-dsa/",
+         "date": "2026-08-21"
+        }
+       ]
+      },
+      "abortion": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Nixon voted against Florida's six-week abortion ban in the Legislature and supports protecting and expanding access to abortion and reproductive care, describing restrictions as a threat to Black maternal health and bodily autonomy. In 2021 she warned that Republican control would bring a 'full-scale assault on a woman's right to choose,' and she opposed a fetal-personhood measure, calling it 'devastating.'",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Angie Nixon: Dems losing in 2022 would lead to 'full-scale assault on a woman's right to choose' - Florida Politics",
+         "url": "https://floridapolitics.com/archives/455269-angie-nixon-dems-losing-in-2022-would-bring-a-full-scale-assault-on-a-womans-right-to-choose/",
+         "date": "2021-09"
+        },
+        {
+         "title": "Democrat Angie Nixon: Giving Unborn Babies Human Rights Would be 'Devastating' - LifeNews",
+         "url": "https://www.lifenews.com/2026/09/01/democrat-angie-nixon-giving-unborn-babies-human-rights-would-be-devastating/",
+         "date": "2026-09-01"
+        },
+        {
+         "title": "Angie Nixon said giving unborn babies rights would be 'devastating,' moved to defund pregnancy resource site - Florida's Voice",
+         "url": "https://flvoicenews.com/exclusive-angie-nixon-said-giving-unborn-babies-rights-would-be-devastating-moved-to-defund-pregnancy-resource-site/",
+         "date": "2026-09"
+        },
+        {
+         "title": "Angie Nixon - Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Angie_Nixon",
+         "date": null
+        }
+       ]
+      },
+      "guns": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "In the Florida House, Nixon opposed permitless ('constitutional') carry and supported maintaining training and background-check requirements and safe-storage measures. No detailed federal gun-policy platform was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "State Representative Angie Nixon - BillTrack50 legislator profile",
+         "url": "https://www.billtrack50.com/legislatordetail/24850",
+         "date": null
+        },
+        {
+         "title": "Angela Nixon - Ballotpedia",
+         "url": "https://ballotpedia.org/Angela_Nixon",
+         "date": null
+        },
+        {
+         "title": "Angie Nixon - Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Angie_Nixon",
+         "date": null
+        }
+       ]
+      },
+      "healthcare": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Nixon supports Medicare for All, describing an incremental path that starts with permanently extending ACA subsidies, pressuring insurers to lower premiums and reforming the ACA, then moving to single-payer coverage including dental, vision, hearing, mental health, reproductive care and prescriptions. She argues it would cut costs by reducing emergency-room use and calls health care a human right.",
+       "quote": "Healthcare is a fundamental human right, not a luxury reserved only for those who can afford it.",
+       "sources": [
+        {
+         "title": "U.S. Senate Candidate Angie Nixon Marks 61st Anniversary of Medicare & Medicaid; Again Calls for Medicare for All - angienixon.com",
+         "url": "https://angienixon.com/u-s-senate-candidate-angie-nixon-marks-61st-anniversary-of-medicare-again-calls-for-medicare-for-all/",
+         "date": "2026-07-30"
+        },
+        {
+         "title": "One-on-One: Senate candidate Angie Nixon outlines positions on housing, healthcare, and foreign policy - FOX 13",
+         "url": "https://www.fox13news.com/news/one-on-one-senate-candidate-angie-nixon-outlines-positions-housing-healthcare-foreign-policy",
+         "date": "2026-08"
+        },
+        {
+         "title": "Angie Nixon says there are '$10 million reasons' to oppose Ashley Moody - Florida Phoenix",
+         "url": "https://floridaphoenix.com/2026/09/09/angie-nixon-says-there-are-10-million-reasons-to-oppose-ashley-moody/",
+         "date": "2026-09-09"
+        },
+        {
+         "title": "Angie Nixon talks about affordability, universal health care, immigration and Israel on MS NOW - WLRN",
+         "url": "https://www.wlrn.org/government-politics/2026-08-20/angie-nixon-talks-about-affordability-universal-health-care-immigration-and-israel-on-ms-now-show",
+         "date": "2026-08-20"
+        }
+       ]
+      },
+      "social_security": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Campaigns on protecting and expanding Social Security and Medicare, funded by raising taxes on high earners.",
+       "sources": [
+        {
+         "title": "Angie Nixon campaign site",
+         "url": "https://angienixon.com/",
+         "date": null
+        }
+       ]
+      },
+      "education_choice": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Nixon opposed Florida's 2023 universal school-voucher law (HB 1), offering an amendment to cap eligibility at $1 million household income that was voted down, and said the state should not be 'subsidizing millionaires or billionaires.' She describes public schools as a shared investment and argued the voucher expansion amounted to 'publicly funded discrimination in education.'",
+       "quote": "I just don't think we should be subsidizing millionaires or billionaires.",
+       "sources": [
+        {
+         "title": "Universal voucher bill passes through first House committee, but not without pushback - Florida Politics",
+         "url": "https://floridapolitics.com/archives/584028-universal-voucher-bill-passes-through-first-house-committee-but-not-without-pushback/",
+         "date": "2023-01"
+        },
+        {
+         "title": "Lawmakers move forward with a plan for school vouchers and 'universal choice' for Florida students - WUSF",
+         "url": "https://www.wusf.org/education/2023-01-26/lawmakers-move-forward-plan-school-vouchers-universal-choice-florida-students",
+         "date": "2023-01-26"
+        },
+        {
+         "title": "Florida House approves bill expanding taxpayer-funded school vouchers to all - WPTV",
+         "url": "https://www.wptv.com/news/political/florida-house-approves-bill-expanding-taxpayer-funded-school-vouchers-to-all",
+         "date": "2023-03"
+        }
+       ]
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. No statement by Nixon on conservation, water quality or climate-resilience trade-offs was found in accessible sources.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Growth management is a state/local issue; no Nixon statement was found.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Supported the 2024 Amendment 3 to legalize adult-use marijuana and has called for legalization and expungement of past possession convictions.",
+       "sources": [
+        {
+         "title": "Angie Nixon campaign site",
+         "url": "https://angienixon.com/",
+         "date": null
+        },
+        {
+         "title": "Angie Nixon - Wikipedia (positions, with citations)",
+         "url": "https://en.wikipedia.org/wiki/Angie_Nixon",
+         "date": null
+        }
+       ]
+      },
+      "elections": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 90 (2021) and SB 7050 (2023), which tightened vote-by-mail, drop-box and third-party registration rules.",
+       "sources": [
+        {
+         "title": "SB 90 (2021) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90",
+         "date": "2021-04"
+        },
+        {
+         "title": "SB 7050 (2023) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        }
+       ]
+      },
+      "crime": {
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Nixon describes mass incarceration, like mass deportation, as a 'moral failure' and emphasizes reform. A WLRN/PolitiFact check of a Moody attack tying her to the DSA platform found the claim that she wants to defund police was misleading.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "How aligned is Angie Nixon with democratic socialists? Moody's Florida Senate race attack misleads - WLRN/PolitiFact",
+         "url": "https://www.wlrn.org/government-politics/2026-08-24/how-aligned-is-angie-nixon-with-democratic-socialists-moodys-florida-senate-race-attack-misleads",
+         "date": "2026-08-24"
+        },
+        {
+         "title": "How aligned is Angie Nixon with democratic socialists? - PolitiFact",
+         "url": "https://politifact.com/article/2026/aug/21/angie-nixon-florida-senate-ashley-moody-dsa/",
+         "date": "2026-08-21"
+        },
+        {
+         "title": "Florida's Socialist Senate Candidate Angie Nixon Campaigns on Abolishing ICE, Granting 'Swift' Amnesty - Breitbart",
+         "url": "https://www.breitbart.com/politics/2026/08/19/floridas-socialist-senate-candidate-angie-nixon-campaigns-on-abolishing-ice-granting-swift-amnesty/",
+         "date": "2026-08-19"
+        }
+       ]
+      },
+      "lgbtq": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1557 (2022, the Parental Rights in Education law) and SB 254 (2023, restrictions on gender-affirming care for minors) in the Florida House.",
+       "sources": [
+        {
+         "title": "HB 1557 (2022) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557",
+         "date": "2022-03"
+        },
+        {
+         "title": "SB 254 (2023) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05"
+        }
+       ]
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. No statement by Nixon on renewable energy or utility-rate oversight was found in accessible sources.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. No statement by Nixon on tariffs was found in accessible sources.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Nixon says the U.S. should favor diplomacy and multilateral action over unilateral military engagement, but no specific statement on continuing military aid to Ukraine was found.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Nixon is a strong critic of President Trump. She called him an 'authoritarian bully' who does not respect the rule of law over his birthright-citizenship executive orders, said she would work to remove him from office, accused him of 'pushing communism' with his Venezuela oil deal, and said his rhetoric has normalized racist attacks.",
+       "quote": "authoritarian bully",
+       "sources": [
+        {
+         "title": "Angie Nixon Condemns Trump's Unconstitutional Executive Orders on Birthright Citizenship - angienixon.com",
+         "url": "https://angienixon.com/angie-nixon-condemns-trumps-unconstitutional-executive-orders-on-birthright-citizenship/",
+         "date": "2025"
+        },
+        {
+         "title": "Angie Nixon's promise to remove Donald Trump from office sparks RNC anger - Florida Politics",
+         "url": "https://floridapolitics.com/archives/781229-angie-nixons-promise-to-remove-donald-trump-from-office-sparks-rnc-anger/",
+         "date": "2026"
+        },
+        {
+         "title": "Progressive Florida Democrat insists Trump was pushing 'communism' with Venezuela deal - Yahoo News",
+         "url": "https://www.yahoo.com/news/politics/articles/progressive-florida-democrat-insists-trump-142923672.html",
+         "date": "2026"
+        },
+        {
+         "title": "Angie Nixon Calls Out Trump's 'Harmful Rhetoric' After Laura Loomer Attack - Newsweek",
+         "url": "https://www.newsweek.com/angie-nixon-calls-out-trumps-harmful-rhetoric-after-laura-loomer-attack-12389297",
+         "date": "2026-08"
+        }
+       ]
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. No statement by Nixon on VA services or veterans' benefits was found in accessible sources.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Medicare for All (incremental path)",
+       "summary": "Begin by permanently extending ACA subsidies and pressuring insurers, then move to a single-payer system covering dental, vision, hearing, mental health and prescriptions.",
+       "sources": [
+        {
+         "title": "U.S. Senate Candidate Angie Nixon Marks 61st Anniversary of Medicare & Medicaid; Again Calls for Medicare for All - angienixon.com",
+         "url": "https://angienixon.com/u-s-senate-candidate-angie-nixon-marks-61st-anniversary-of-medicare-again-calls-for-medicare-for-all/",
+         "date": "2026-07-30"
+        },
+        {
+         "title": "One-on-One: Senate candidate Angie Nixon outlines positions on housing, healthcare, and foreign policy - FOX 13",
+         "url": "https://www.fox13news.com/news/one-on-one-senate-candidate-angie-nixon-outlines-positions-housing-healthcare-foreign-policy",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "title": "Wealth tax and closing loopholes",
+       "summary": "A 5% annual wealth tax on billionaires, capital gains taxed as ordinary income, a federal asset registry and stronger IRS enforcement to fund social programs.",
+       "sources": [
+        {
+         "title": "Angie Nixon for U.S. Senate - Priorities",
+         "url": "https://angienixon.com/priorities/",
+         "date": null
+        },
+        {
+         "title": "Socialist Senate Nominee Angie Nixon Says It's 'Crazy' She Has To Pay Her Taxes And Student Loans - Washington Free Beacon",
+         "url": "https://freebeacon.com/democrats/i-dont-wanna-pay-it-back-socialist-senate-nominee-angie-nixon-says-its-crazy-she-has-to-pay-her-taxes-and-student-loans/",
+         "date": "2026-09"
+        }
+       ]
+      },
+      {
+       "title": "Universal child care",
+       "summary": "Lists free or universal child care alongside Medicare for All as a central campaign goal.",
+       "sources": [
+        {
+         "title": "Florida Senate candidate Angie Nixon campaigns on affordability, healthcare and education - Miami Times",
+         "url": "https://www.miamitimesonline.com/news/florida/florida-senate-candidate-angie-nixon-campaigns-on-affordability-healthcare-and-education/article_18684ca8-e1f3-4cd8-93bf-351933d7d211.html",
+         "date": "2026"
+        },
+        {
+         "title": "How U.S. Senate candidate Angie Nixon plans to reach Florida voters - WGCU",
+         "url": "https://www.wgcu.org/government-politics/2026-09-07/how-u-s-senate-candidate-angie-nixon-plans-to-reach-florida-voters",
+         "date": "2026-09-07"
+        }
+       ]
+      },
+      {
+       "title": "Abolish and rebuild ICE; deportation moratorium",
+       "summary": "Abolish ICE, pause deportations pending an audit of enforcement practices, and create a path to citizenship for Dreamers and undocumented residents.",
+       "sources": [
+        {
+         "title": "Florida's Socialist Senate Candidate Angie Nixon Campaigns on Abolishing ICE, Granting 'Swift' Amnesty - Breitbart",
+         "url": "https://www.breitbart.com/politics/2026/08/19/floridas-socialist-senate-candidate-angie-nixon-campaigns-on-abolishing-ice-granting-swift-amnesty/",
+         "date": "2026-08-19"
+        },
+        {
+         "title": "How aligned is Angie Nixon with democratic socialists? - PolitiFact",
+         "url": "https://politifact.com/article/2026/aug/21/angie-nixon-florida-senate-ashley-moody-dsa/",
+         "date": "2026-08-21"
+        },
+        {
+         "title": "US Senate candidate Angie Nixon joins immigration advocates in pressing Miami to end ICE agreement - WUWF/WLRN",
+         "url": "https://www.wuwf.org/florida-news/2026-08-03/us-senate-candidate-angie-nixon-joins-immigration-advocates-in-pressing-miami-to-end-ice-agreement",
+         "date": "2026-08-03"
+        }
+       ]
+      },
+      {
+       "title": "End unconditional U.S. military aid to Israel",
+       "summary": "Calls for ending unconditional military aid to Israel and U.S. support for settlements, a path to Palestinian self-determination through the UN, and has called Prime Minister Netanyahu a 'war criminal'; she filed a Florida House ceasefire resolution in 2023.",
+       "sources": [
+        {
+         "title": "What Florida Senate nominee Angie Nixon has said about Israel and Gaza - The Forward",
+         "url": "https://forward.com/news/845987/what-florida-senate-nominee-angie-nixon-has-said-about-israel-and-gaza/",
+         "date": "2026-08"
+        },
+        {
+         "title": "Angie Nixon talks about affordability, universal health care, immigration and Israel on MS NOW - WLRN",
+         "url": "https://www.wlrn.org/government-politics/2026-08-20/angie-nixon-talks-about-affordability-universal-health-care-immigration-and-israel-on-ms-now-show",
+         "date": "2026-08-20"
+        },
+        {
+         "title": "Vindman, Nixon weigh in on congressional vote to ban funding for Israel - Florida Phoenix",
+         "url": "https://floridaphoenix.com/2026/07/21/vindman-nixon-weigh-in-on-congressional-vote-to-ban-funding-for-israel/",
+         "date": "2026-07-21"
+        }
+       ]
+      },
+      {
+       "title": "Diplomacy over military engagement",
+       "summary": "Says the U.S. should use the UN and multilateral diplomacy rather than unilateral military action, and opposed U.S. military action against Iran.",
+       "sources": [
+        {
+         "title": "What Florida Senate nominee Angie Nixon has said about Israel and Gaza - The Forward",
+         "url": "https://forward.com/news/845987/what-florida-senate-nominee-angie-nixon-has-said-about-israel-and-gaza/",
+         "date": "2026-08"
+        },
+        {
+         "title": "One-on-One: Senate candidate Angie Nixon outlines positions on housing, healthcare, and foreign policy - FOX 13",
+         "url": "https://www.fox13news.com/news/one-on-one-senate-candidate-angie-nixon-outlines-positions-housing-healthcare-foreign-policy",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "title": "Birthright citizenship",
+       "summary": "Condemned President Trump's executive orders restricting birthright citizenship as unconstitutional.",
+       "sources": [
+        {
+         "title": "Angie Nixon Condemns Trump's Unconstitutional Executive Orders on Birthright Citizenship - angienixon.com",
+         "url": "https://angienixon.com/angie-nixon-condemns-trumps-unconstitutional-executive-orders-on-birthright-citizenship/",
+         "date": "2025"
+        }
+       ]
+      },
+      {
+       "title": "TPS for Haitians, Venezuelans and others",
+       "summary": "Calls for immediate renewal and expansion of Temporary Protected Status and a permanent path to citizenship for TPS holders.",
+       "sources": [
+        {
+         "title": "How aligned is Angie Nixon with democratic socialists? - PolitiFact",
+         "url": "https://politifact.com/article/2026/aug/21/angie-nixon-florida-senate-ashley-moody-dsa/",
+         "date": "2026-08-21"
+        },
+        {
+         "title": "US Senate candidate Angie Nixon joins immigration advocates in pressing Miami to end ICE agreement - WUWF/WLRN",
+         "url": "https://www.wuwf.org/florida-news/2026-08-03/us-senate-candidate-angie-nixon-joins-immigration-advocates-in-pressing-miami-to-end-ice-agreement",
+         "date": "2026-08-03"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Voted against Florida's six-week abortion ban (SB 300, 2023) and other abortion restrictions in the Florida House.",
+       "sources": [
+        {
+         "title": "Democrat Angie Nixon: Giving Unborn Babies Human Rights Would be 'Devastating' - LifeNews",
+         "url": "https://www.lifenews.com/2026/09/01/democrat-angie-nixon-giving-unborn-babies-human-rights-would-be-devastating/",
+         "date": "2026-09-01"
+        },
+        {
+         "title": "Angie Nixon - Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Angie_Nixon",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Opposed the 2023 universal school-voucher law (HB 1); her amendment to cap eligibility at $1 million household income was voted down in committee, and the bill passed the House 83-27.",
+       "sources": [
+        {
+         "title": "Universal voucher bill passes through first House committee, but not without pushback - Florida Politics",
+         "url": "https://floridapolitics.com/archives/584028-universal-voucher-bill-passes-through-first-house-committee-but-not-without-pushback/",
+         "date": "2023-01"
+        },
+        {
+         "title": "Florida House approves bill expanding taxpayer-funded school vouchers to all - WPTV",
+         "url": "https://www.wptv.com/news/political/florida-house-approves-bill-expanding-taxpayer-funded-school-vouchers-to-all",
+         "date": "2023-03"
+        }
+       ]
+      },
+      {
+       "item": "Introduced a 2023 Florida House resolution calling on the Biden administration to push for an immediate de-escalation and ceasefire in Israel and 'occupied Palestine.'",
+       "sources": [
+        {
+         "title": "What Florida Senate nominee Angie Nixon has said about Israel and Gaza - The Forward",
+         "url": "https://forward.com/news/845987/what-florida-senate-nominee-angie-nixon-has-said-about-israel-and-gaza/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "item": "Served as executive director of Florida for All, a coalition that registered tens of thousands of new voters, before and during her legislative service.",
+       "sources": [
+        {
+         "title": "Meet Angie - Angie Nixon for U.S. Senate",
+         "url": "https://angienixon.com/meet-angie/",
+         "date": null
+        },
+        {
+         "title": "Angie Nixon - Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Angie_Nixon",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Won the Democratic primary with about 56% while raising roughly $975,000 against Vindman's more than $16 million, relying on a field/ground operation.",
+       "sources": [
+        {
+         "title": "Progressive Challenger Upsets Alex Vindman in Florida's Democratic Senate Primary - NOTUS",
+         "url": "https://www.notus.org/2026-election/florida-democratic-senate-primary-alex-vindman-angie-nixon",
+         "date": "2026-08-18"
+        },
+        {
+         "title": "Angie Nixon wins Florida Senate Democratic primary, defeating Alex Vindman - NBC News",
+         "url": "https://www.nbcnews.com/politics/2026-election/angie-nixon-winner-florida-senate-primary-democrat-alex-vindman-moody-rcna593255",
+         "date": "2026-08-18"
+        },
+        {
+         "title": "Angie Nixon wins Florida's Democratic Senate primary over Alex Vindman - The 19th",
+         "url": "https://19thnews.org/2026/08/angie-nixon-wins-florida-democratic-senate-primary/",
+         "date": "2026-08-18"
+        }
+       ]
+      },
+      {
+       "item": "Endorsed by Bernie Sanders (Aug 20, 2026), Alexandria Ocasio-Cortez and Sen. Chris Murphy after the primary.",
+       "sources": [
+        {
+         "title": "Bernie Sanders endorses Florida's Angie Nixon for Senate - Axios",
+         "url": "https://www.axios.com/2026/08/20/bernie-sanders-endorses-floridas-angie-nixon-for-senate",
+         "date": "2026-08-20"
+        },
+        {
+         "title": "Alexandria Ocasio-Cortez backs Angie Nixon in Florida Senate race - The Hill",
+         "url": "https://thehill.com/homenews/campaign/6066299-aoc-endorses-angie-nixon/",
+         "date": "2026-08"
+        },
+        {
+         "title": "Endorsements - Angie Nixon for U.S. Senate",
+         "url": "https://angienixon.com/endorsements/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Criticism: reports by the Washington Free Beacon and Florida's Voice state she owes about $14,000 in unpaid federal taxes (on an IRS payment plan) and about $17,600 in federal student loans, and that her company, Moxie Group LLC, received Florida Department of Revenue warrants for delinquent sales taxes from 2017-2021 totaling about $4,400.",
+       "sources": [
+        {
+         "title": "Socialist Senate Nominee Angie Nixon Says It's 'Crazy' She Has To Pay Her Taxes And Student Loans - Washington Free Beacon",
+         "url": "https://freebeacon.com/democrats/i-dont-wanna-pay-it-back-socialist-senate-nominee-angie-nixon-says-its-crazy-she-has-to-pay-her-taxes-and-student-loans/",
+         "date": "2026-09"
+        },
+        {
+         "title": "Socialist Angie Nixon vows to scrap tax cuts as Florida leads nation in refunds - Florida's Voice",
+         "url": "https://flvoicenews.com/exclusive-socialist-angie-nixon-vows-to-scrap-tax-cuts-as-florida-leads-nation-in-refunds/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Criticism: her comparison of ICE agents to 'modern-day slave catchers' and description of a detention facility as a 'modern day concentration camp' drew Republican criticism; a WLRN/PolitiFact check found a Moody ad tying her to the full DSA platform (e.g., defunding police) misleading.",
+       "sources": [
+        {
+         "title": "Angie Nixon compares ICE agents to 'modern-day slave catchers' - Washington Times",
+         "url": "https://www.washingtontimes.com/news/2026/aug/22/angie-nixon-compares-ice-agents-modern-day-slave-catchers/",
+         "date": "2026-08-22"
+        },
+        {
+         "title": "How aligned is Angie Nixon with democratic socialists? Moody's Florida Senate race attack misleads - WLRN/PolitiFact",
+         "url": "https://www.wlrn.org/government-politics/2026-08-24/how-aligned-is-angie-nixon-with-democratic-socialists-moodys-florida-senate-race-attack-misleads",
+         "date": "2026-08-24"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 300 (2023), the six-week abortion ban; HB 543 (2023), permitless concealed carry; HB 1 (2023), universal school vouchers; and SB 1718 (2023), the state immigration-enforcement law.",
+       "sources": [
+        {
+         "title": "SB 300 (2023)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "HB 543 (2023)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "HB 1 (2023)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "SB 1718 (2023)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1718"
+        }
+       ]
+      }
+     ],
+     "endorsements": [
+      {
+       "by": "U.S. Sen. Bernie Sanders",
+       "sources": [
+        {
+         "title": "Bernie Sanders endorses Florida's Angie Nixon for Senate - Axios",
+         "url": "https://www.axios.com/2026/08/20/bernie-sanders-endorses-floridas-angie-nixon-for-senate",
+         "date": "2026-08-20"
+        },
+        {
+         "title": "Angie Nixon receives Sen. Bernie Sanders' endorsement for US Senate - Local 10",
+         "url": "https://www.local10.com/video/news/politics/2026/08/21/angie-nixon-receives-sen-bernie-sanders-endorsement-for-us-senate/",
+         "date": "2026-08-21"
+        }
+       ]
+      },
+      {
+       "by": "U.S. Rep. Alexandria Ocasio-Cortez",
+       "sources": [
+        {
+         "title": "Alexandria Ocasio-Cortez backs Angie Nixon in Florida Senate race - The Hill",
+         "url": "https://thehill.com/homenews/campaign/6066299-aoc-endorses-angie-nixon/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "by": "U.S. Sen. Chris Murphy",
+       "sources": [
+        {
+         "title": "Endorsements - Angie Nixon for U.S. Senate",
+         "url": "https://angienixon.com/endorsements/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "by": "Leaders We Deserve (David Hogg's organization)",
+       "sources": [
+        {
+         "title": "Endorsements - Angie Nixon for U.S. Senate",
+         "url": "https://angienixon.com/endorsements/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "by": "Miami New Times (editorial)",
+       "sources": [
+        {
+         "title": "Opinion: Angie Nixon deserves our vote for U.S. Senate - Miami New Times",
+         "url": "https://www.miaminewtimes.com/opinion/opinion-angie-nixon-deserves-our-vote-for-u-s-senate-40582003/",
+         "date": "2026-09"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "neil_gillespie",
+     "name": "Neil J. Gillespie",
+     "party": "No Party Affiliation",
+     "incumbent": false,
+     "photo_url": null,
+     "photo_source": "No public portrait URL found",
+     "website": "https://neilgillespie4senate.blogspot.com/",
+     "occupation": "Blogger and self-described public-interest advocate; pro se litigant and justice-reform activist",
+     "residence": "Ocala, Marion County",
+     "background": "Neil J. Gillespie is an Ocala resident, blogger and self-described public-interest advocate and pro se litigant who has run for office before, including for mayor of Ocala. He qualified in June 2026 as a No Party Affiliation candidate for the U.S. Senate special election and, as an NPA candidate, advanced directly to the November 3 general election without a primary. He describes himself as a 'working-class capitalist' who is critical of the two-party 'duopoly' and of socialism. He has not completed Ballotpedia's candidate survey, and his federal campaign committee is registered with the FEC.",
+     "primary_result": "No primary (NPA candidate advanced directly to the Nov 3 general election)",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie describes himself as a 'working-class capitalist' critical of both major parties, but no specific statement on the Trump administration was found.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Opposition to the two-party 'duopoly'",
+       "summary": "Runs as an independent critical of both major parties and of established institutions.",
+       "sources": [
+        {
+         "title": "Who Will Florida Voters Send to the U.S. Senate in November? - Palm Beach Examiner",
+         "url": "https://palmbeachexaminer.substack.com/p/who-will-florida-voters-send-to-the",
+         "date": "2026-08"
+        },
+        {
+         "title": "Florida 2026 Elections: Candidates for Governor, Senate & House - Politics1",
+         "url": "https://politics1.com/fl.htm",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Justice reform / courts",
+       "summary": "Described as a pro se litigant and justice-reform activist; his blog focuses on court-system grievances.",
+       "sources": [
+        {
+         "title": "Florida 2026 Elections: Candidates for Governor, Senate & House - Politics1",
+         "url": "https://politics1.com/fl.htm",
+         "date": null
+        },
+        {
+         "title": "Neil J. Gillespie for U.S. Senate (campaign blog)",
+         "url": "https://neilgillespie4senate.blogspot.com/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "'Working-class capitalist' economics",
+       "summary": "Self-describes as a working-class capitalist with anti-socialist rhetoric.",
+       "sources": [
+        {
+         "title": "Who Will Florida Voters Send to the U.S. Senate in November? - Palm Beach Examiner",
+         "url": "https://palmbeachexaminer.substack.com/p/who-will-florida-voters-send-to-the",
+         "date": "2026-08"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Qualified as an NPA candidate for U.S. Senate in June 2026; previously a candidate for Ocala mayor per Marion County campaign-finance records.",
+       "sources": [
+        {
+         "title": "The field is set as candidate qualifying closes for Florida's 2026 election - WUWF",
+         "url": "https://www.wuwf.org/text/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election",
+         "date": "2026-06-12"
+        },
+        {
+         "title": "Candidate: Neil J. Gillespie - Mayor, Ocala (Marion County campaign finance record)",
+         "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?op=cv&e=48&c=marion&ca=783&rellevel=4&committee=N",
+         "date": null
+        },
+        {
+         "title": "NEIL J GILLESPIE FOR US SENATE - committee overview - FEC.gov",
+         "url": "https://www.fec.gov/data/committee/C00943399/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Has not completed Ballotpedia's 2026 Candidate Connection survey.",
+       "sources": [
+        {
+         "title": "Neil Gillespie - Ballotpedia",
+         "url": "https://ballotpedia.org/Neil_Gillespie",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "endorsements": []
+    }
+   ]
+  },
+  {
+   "id": "us_house_11",
+   "order": 2,
+   "title": "U.S. House, District 11",
+   "level": "federal",
+   "office_group": "Federal",
+   "term": "2 years",
+   "what_it_does": "Represents Florida's 11th Congressional District, which includes all of Sumter County and The Villages plus parts of Lake, Marion, Orange and Polk counties, in the U.S. House of Representatives. Votes on federal laws and spending. This is an open seat: Rep. Daniel Webster is retiring.",
+   "verified_ballot_note": "Post-recount reports from Spectrum News 13 (Aug 24, 2026), Florida Politics, Villages-News and The Apopka Chief list three Nov. 3 general-election candidates: Joe Strada (R), James Pericola (D) and Ralph Groves (L); Ballotpedia and Florida Division of Elections pages could not be fetched from this sandbox, so the absence of NPA or write-in candidates is not independently confirmed  ;  ; .",
+   "verified_ballot_sources": [
+    {
+     "title": "mynews13.com",
+     "url": "https://mynews13.com/fl/orlando/news/2026/08/24/recount-confirms-strada-wins-the-republican-nomination-for-congressional-district-11"
+    },
+    {
+     "title": "floridapolitics.com",
+     "url": "https://floridapolitics.com/archives/816388-with-recount-complete-joe-strada-advances-to-general-election-in-cd-11/"
+    },
+    {
+     "title": "ballotpedia.org",
+     "url": "https://ballotpedia.org/Florida's_11th_Congressional_District_election,_2026"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "joe_strada",
+     "name": "Joe Strada",
+     "party": "Republican",
+     "incumbent": false,
+     "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Joe_Strada.jpg",
+     "photo_source": "Ballotpedia candidate photo (URL pattern unverified; campaign site votestrada.com also has portraits)",
+     "website": "https://votestrada.com/",
+     "occupation": "Founder, owner and executive chairman of Strada Services (air conditioning, electrical, plumbing and security contractor)",
+     "residence": "Sanford, Seminole County (per LinkedIn and Seminole County property records cited by an opposing campaign; outside CD 11 — not independently verified)",
+     "background": "Joseph Horatio Strada Jr. was born in Chicago and graduated from Lyman High School; he has said he never attended college. He began working in the trades at 14, took his first air-conditioning job at 19, earned state contractor licenses in five trades, and in 2003 founded the Sanford-based company now called Strada Services, which the campaign says has more than 4,000 employees in 13 states and over $1.1 billion in annual revenue. He had not previously held elected office. He entered the race in June 2026 with a $5 million personal contribution and won the five-way Aug. 18, 2026 Republican primary with about 33.5% (27,388 votes), 393 votes ahead of former state Sen. Carey Baker, a result confirmed by a three-county machine recount completed Aug. 24. He was endorsed by President Trump for the general election in September 2026.",
+     "primary_result": "Won Aug 18, 2026 Republican primary with 27,388 votes (~33.5%) over Carey Baker (26,995, ~33%), Nizam Razack, Tim Wilkins and Ivette Palomo; 393-vote margin confirmed by machine recount in Orange, Lake and Sumter counties completed Aug 24 (Spectrum News 13; Central Florida Public Media; Florida Politics)",
+     "positions": {
+      "taxes": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Strada campaigns on a balanced-budget requirement and says Congress should focus on fiscal responsibility and reducing regulations on businesses; his primary ad criticized opponent Carey Baker for voting for tax increases as a state legislator. He has not laid out a specific federal tax-cut plan in sources found.",
+       "quote": "I know what it's like to balance a budget.",
+       "sources": [
+        {
+         "title": "Business owner Joe Strada says he'll take on career politicians in Florida's 11th Congressional District race (Florida's Voice)",
+         "url": "https://flvoicenews.com/business-owner-joe-strada-says-hell-take-on-career-politicians-in-floridas-11th-congressional-district-race/",
+         "date": "2026"
+        },
+        {
+         "title": "Joe Strada for Congress (campaign site)",
+         "url": "https://votestrada.com/",
+         "date": "2026"
+        },
+        {
+         "title": "FACT CHECK: Strada ad attacking Carey Baker in Florida's 11th District holds up (Florida's Voice)",
+         "url": "https://flvoicenews.com/fact-check-strada-ad-attacking-carey-baker-in-floridas-11th-district-holds-up/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Strada says immigration enforcement is one of his general-election priorities and pledges to help President Trump 'get criminal illegals out of here.' His explicit statements focus on deporting people in the country illegally who have committed crimes; no statement was found on broader mass deportation.",
+       "quote": "help President Trump deliver term limits, ban insider trading and get criminal illegals out of here",
+       "sources": [
+        {
+         "title": "Joe Strada calls out 'full of crap' Washington in $1M ad buy (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/802348-joe-strada-calls-out-full-of-crap-washington-in-1m-ad-buy/",
+         "date": "2026-06"
+        },
+        {
+         "title": "Recount confirms Strada as GOP nominee for District 11 (The Apopka Chief)",
+         "url": "https://theapopkachief.com/recount-confirms-strada-as-gop-nominee-for-district-11/",
+         "date": "2026-08"
+        },
+        {
+         "title": "Recount confirms Strada wins Republican nomination for Congressional District 11 (Spectrum News 13)",
+         "url": "https://mynews13.com/fl/orlando/news/2026/08/24/recount-confirms-strada-wins-the-republican-nomination-for-congressional-district-11",
+         "date": "2026-08-24"
+        }
+       ]
+      },
+      "abortion": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "In his iVoterGuide survey Strada said human life deserves legal protection from conception until natural death, that embryos created through artificial methods should be protected from purposeful destruction, that abortion providers such as Planned Parenthood should not receive taxpayer funds (including Title X), and that the Comstock Act's ban on interstate shipment of abortion-inducing drugs should be enforced.",
+       "quote": "human life deserves legal protection from conception until natural death",
+       "sources": [
+        {
+         "title": "iVoterGuide profile: Joe Strada, FL U.S. Rep. Dist. 11",
+         "url": "https://ivoterguide.com/candidate/71345",
+         "date": "2026"
+        },
+        {
+         "title": "iVoterGuide profile (race page): Joe Strada",
+         "url": "https://ivoterguide.com/candidate/71345/race/28520/election/1431",
+         "date": "2026"
+        }
+       ]
+      },
+      "guns": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Strada received an 'AQ' grade from the NRA Political Victory Fund, a pro-gun rating based on his questionnaire answers (he has no voting record). President Trump's endorsement says he will 'Defend our always under siege Second Amendment.' No specific statement on red-flag laws or the purchase age was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "iVoterGuide profile: Joe Strada, FL U.S. Rep. Dist. 11",
+         "url": "https://ivoterguide.com/candidate/71345",
+         "date": "2026"
+        },
+        {
+         "title": "Donald J. Trump Truth Social post endorsing Joe Strada (Trump's Truth archive)",
+         "url": "https://trumpstruth.org/statuses/41457",
+         "date": "2026-09"
+        }
+       ]
+      },
+      "healthcare": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "In his iVoterGuide survey Strada indicated Medicaid and Medicare should remain available but that no other taxpayer-funded health programs are necessary. No statement on ACA subsidies specifically was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "iVoterGuide profile: Joe Strada, FL U.S. Rep. Dist. 11",
+         "url": "https://ivoterguide.com/candidate/71345",
+         "date": "2026"
+        }
+       ]
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Strada describes himself as a Trump ally, said he would 'stand with' President Trump in Congress, and received Trump's 'Complete and Total Endorsement' in September 2026.",
+       "quote": "President Trump spends each and every day putting the American people first, and I'll stand with him in Congress to fight for our families and our economy.",
+       "sources": [
+        {
+         "title": "Businessman and Trump Ally Joe Strada Announces CD 11 Run (The Floridian)",
+         "url": "https://floridianpress.com/2026/06/businessman-and-trump-ally-joe-strada-announces-cd-11-run/",
+         "date": "2026-06"
+        },
+        {
+         "title": "Joe Strada announces congressional campaign for Florida District 11, pledges $5 million (Florida's Voice)",
+         "url": "https://flvoicenews.com/joe-strada-announces-congressional-campaign-florida-district-11-pledges-5-million/",
+         "date": "2026-06"
+        },
+        {
+         "title": "Donald J. Trump Truth Social post endorsing Joe Strada (Trump's Truth archive)",
+         "url": "https://trumpstruth.org/statuses/41457",
+         "date": "2026-09"
+        },
+        {
+         "title": "Donald Trump backs eight GOP candidates for Congress in Florida open and battleground districts (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/818089-donald-trump-backs-eight-gop-candidates-for-congress-in-florida-open-and-battleground-districts/",
+         "date": "2026-09"
+        }
+       ]
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Investigate congressional insider trading",
+       "summary": "Strada says his first priority in Congress is to investigate and ban stock trading by members of Congress, to make Congress 'less profitable.'",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress (campaign site)",
+         "url": "https://votestrada.com/",
+         "date": "2026"
+        },
+        {
+         "title": "Joe Strada calls out 'full of crap' Washington in $1M ad buy (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/802348-joe-strada-calls-out-full-of-crap-washington-in-1m-ad-buy/",
+         "date": "2026-06"
+        }
+       ]
+      },
+      {
+       "title": "Term limits for Congress",
+       "summary": "He pledges to push for term limits so Congress is 'less permanent.'",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress (campaign site)",
+         "url": "https://votestrada.com/",
+         "date": "2026"
+        },
+        {
+         "title": "Business owner Joe Strada says he'll take on career politicians in Florida's 11th Congressional District race (Florida's Voice)",
+         "url": "https://flvoicenews.com/business-owner-joe-strada-says-hell-take-on-career-politicians-in-floridas-11th-congressional-district-race/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Balanced federal budget",
+       "summary": "He wants to require a balanced budget and says Congress should be accountable for the money it spends.",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress (campaign site)",
+         "url": "https://votestrada.com/",
+         "date": "2026"
+        },
+        {
+         "title": "Business owner Joe Strada says he'll take on career politicians in Florida's 11th Congressional District race (Florida's Voice)",
+         "url": "https://flvoicenews.com/business-owner-joe-strada-says-hell-take-on-career-politicians-in-floridas-11th-congressional-district-race/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Skilled-trades workforce shortage",
+       "summary": "Strada cites the shortage of skilled workers as a general-election priority and points to the training program his company built that graduates students directly into the workforce.",
+       "sources": [
+        {
+         "title": "Recount confirms Strada as GOP nominee for District 11 (The Apopka Chief)",
+         "url": "https://theapopkachief.com/recount-confirms-strada-as-gop-nominee-for-district-11/",
+         "date": "2026-08"
+        },
+        {
+         "title": "Strada Services partners with FCC to boost HVAC training",
+         "url": "https://stradaservices.com/about-us/blog/fcc-orlando-partners-with-strada-services-to-enhance-hvac-training-program/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Government accountability / reducing regulation",
+       "summary": "He describes himself as a 'conservative outsider' who will take on 'career politicians' and reduce regulations on businesses.",
+       "sources": [
+        {
+         "title": "Recount confirms Strada as GOP nominee for District 11 (The Apopka Chief)",
+         "url": "https://theapopkachief.com/recount-confirms-strada-as-gop-nominee-for-district-11/",
+         "date": "2026-08"
+        },
+        {
+         "title": "Business owner Joe Strada says he'll take on career politicians in Florida's 11th Congressional District race (Florida's Voice)",
+         "url": "https://flvoicenews.com/business-owner-joe-strada-says-hell-take-on-career-politicians-in-floridas-11th-congressional-district-race/",
+         "date": "2026"
+        },
+        {
+         "title": "Businessman and Trump Ally Joe Strada Announces CD 11 Run (The Floridian)",
+         "url": "https://floridianpress.com/2026/06/businessman-and-trump-ally-joe-strada-announces-cd-11-run/",
+         "date": "2026-06"
+        }
+       ]
+      },
+      {
+       "title": "Support for seniors, veterans, workers and small businesses",
+       "summary": "The campaign site says he will 'stand up for Central Florida families, seniors, veterans, workers, and small businesses,' without detailed proposals in sources found.",
+       "sources": [
+        {
+         "title": "Joe Strada for Congress (campaign site)",
+         "url": "https://votestrada.com/",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Self-funded his campaign with a $5 million personal contribution at launch (June 2026) and followed with a $1 million television ad buy; outspent the rest of the Republican field.",
+       "sources": [
+        {
+         "title": "Joe Strada announces congressional campaign for Florida District 11, pledges $5 million (Florida's Voice)",
+         "url": "https://flvoicenews.com/joe-strada-announces-congressional-campaign-florida-district-11-pledges-5-million/",
+         "date": "2026-06"
+        },
+        {
+         "title": "Joe Strada calls out 'full of crap' Washington in $1M ad buy (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/802348-joe-strada-calls-out-full-of-crap-washington-in-1m-ad-buy/",
+         "date": "2026-06"
+        },
+        {
+         "title": "Joe Strada outspends field including Carey Baker, Nizam Razack and Tim Wilkins in CD 11 race (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/814286-joe-strada-outspends-field-including-carey-baker-nizam-razack-and-tim-wilkins-in-cd-11-race/",
+         "date": "2026-08"
+        },
+        {
+         "title": "FEC candidate overview: STRADA, JOE (H6FL11332)",
+         "url": "https://www.fec.gov/data/candidate/H6FL11332/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Declined an invitation to participate in Spectrum News 13's July 27, 2026 community conversation with District 11 candidates, and did not respond to the Vox Populi questionnaire used in the ClickOrlando/News 6 voter's guide.",
+       "sources": [
+        {
+         "title": "Community conversation with congressional candidates from District 11 (Spectrum News 13)",
+         "url": "https://mynews13.com/fl/orlando/politics/2026/07/27/community-conversation-congressional-district-11-candidates",
+         "date": "2026-07-27"
+        },
+        {
+         "title": "2026 Voter's Guide - US House District 11, Republican primary (ClickOrlando / News 6)",
+         "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-republican-primary/",
+         "date": "2026-07-31"
+        }
+       ]
+      },
+      {
+       "item": "A class-action complaint (Osceola County case 2026 CA 002324 ON, filed July 22, 2026) by seven Florida homeowners names Strada Services LLC and Joseph Horatio Strada Jr. and alleges the company used subpar materials wiring new homes between Aug. 2020 and May 2022; damages sought exceed $5 million. The case is pending; no response from Strada was found in sources.",
+       "sources": [
+        {
+         "title": "The $5 Million Class Action: Joe Strada's Fraud Docket And His Bid For Congress (Steve Edward Farley, Substack)",
+         "url": "https://steveedwardfarley.substack.com/p/the-5-million-class-action-joe-stradas",
+         "date": "2026-07"
+        },
+        {
+         "title": "The REAL Joe Strada (site paid for by Carey Baker for Congress)",
+         "url": "https://realjoestrada.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "An opposition website paid for by Carey Baker for Congress cites earlier employment lawsuits against Strada Services (including Vargas v. Strada Services, M.D. Fla., filed 9/25/2019) alleging FLSA overtime and wage violations, and says Seminole County property records place Strada's home in Florida's 7th District rather than the 11th.",
+       "sources": [
+        {
+         "title": "The REAL Joe Strada (site paid for by Carey Baker for Congress)",
+         "url": "https://realjoestrada.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "A Florida's Voice fact-check found the core claims of Strada's ad attacking Carey Baker (decades in office, residence outside CD 11, votes for tax increases during the Great Recession) 'largely hold up.'",
+       "sources": [
+        {
+         "title": "FACT CHECK: Strada ad attacking Carey Baker in Florida's 11th District holds up (Florida's Voice)",
+         "url": "https://flvoicenews.com/fact-check-strada-ad-attacking-carey-baker-in-floridas-11th-district-holds-up/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "item": "Defeated retiring Rep. Daniel Webster's preferred successor, Carey Baker, in the primary; the Cook Political Report rates the district 'solid' Republican.",
+       "sources": [
+        {
+         "title": "Daniel Webster's pick loses GOP primary for his open Florida House seat to Joe Strada (The Hill)",
+         "url": "https://thehill.com/homenews/campaign/6021256-strada-wins-florida-house-primary/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "item": "Received an 'AQ' rating from the NRA Political Victory Fund (questionnaire-based).",
+       "sources": [
+        {
+         "title": "iVoterGuide profile: Joe Strada, FL U.S. Rep. Dist. 11",
+         "url": "https://ivoterguide.com/candidate/71345",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
+     "endorsements": [
+      {
+       "by": "President Donald Trump",
+       "sources": [
+        {
+         "title": "Donald J. Trump Truth Social post endorsing Joe Strada (Trump's Truth archive)",
+         "url": "https://trumpstruth.org/statuses/41457",
+         "date": "2026-09"
+        },
+        {
+         "title": "Donald Trump backs eight GOP candidates for Congress in Florida open and battleground districts (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/818089-donald-trump-backs-eight-gop-candidates-for-congress-in-florida-open-and-battleground-districts/",
+         "date": "2026-09"
+        },
+        {
+         "title": "Trump Announces Florida Republican General Election Endorsements (The Floridian)",
+         "url": "https://floridianpress.com/2026/09/trump-announces-florida-republican-general-election-endorsements/",
+         "date": "2026-09"
+        }
+       ]
+      },
+      {
+       "by": "House Majority Leader Steve Scalise",
+       "sources": [
+        {
+         "title": "Steve Scalise endorses Joe Strada, who put down $5M to dominate CD 11 field (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/808322-steve-scalise-endorses-joe-strada-who-put-down-5m-to-dominate-cd-11-field/",
+         "date": "2026-07"
+        }
+       ]
+      },
+      {
+       "by": "Rep. Jim Jordan, House Judiciary Committee chair",
+       "sources": [
+        {
+         "title": "Jim Jordan becomes latest prominent conservative to back 'problem solver' Joe Strada in CD 11 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/808531-jordan-strada-cd11/",
+         "date": "2026-07"
+        }
+       ]
+      },
+      {
+       "by": "Florida Attorney General James Uthmeier",
+       "sources": [
+        {
+         "title": "'American success story': Joe Strada secures support from James Uthmeier, Wayne Ivey, Bill Gladson in CD 11 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/808727-american-success-story-joe-strada-secures-support-from-james-uthmeier-wayne-ivey-bill-gladson-in-cd-11/",
+         "date": "2026-07"
+        }
+       ]
+      },
+      {
+       "by": "Brevard County Sheriff Wayne Ivey",
+       "sources": [
+        {
+         "title": "'American success story': Joe Strada secures support from James Uthmeier, Wayne Ivey, Bill Gladson in CD 11 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/808727-american-success-story-joe-strada-secures-support-from-james-uthmeier-wayne-ivey-bill-gladson-in-cd-11/",
+         "date": "2026-07"
+        }
+       ]
+      },
+      {
+       "by": "State Attorney Bill Gladson (5th Judicial Circuit)",
+       "sources": [
+        {
+         "title": "'American success story': Joe Strada secures support from James Uthmeier, Wayne Ivey, Bill Gladson in CD 11 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/808727-american-success-story-joe-strada-secures-support-from-james-uthmeier-wayne-ivey-bill-gladson-in-cd-11/",
+         "date": "2026-07"
+        }
+       ]
+      },
+      {
+       "by": "Seminole County Sheriff Dennis Lemma",
+       "sources": [
+        {
+         "title": "'I know the kind of man he is': Dennis Lemma backs Joe Strada in CD 11 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/809415-i-know-the-kind-of-man-he-is-dennis-lemma-backs-joe-strada-in-cd-11/",
+         "date": "2026-07"
+        }
+       ]
+      },
+      {
+       "by": "Polk County Sheriff Grady Judd",
+       "sources": [
+        {
+         "title": "'A conservative we can trust': Grady Judd endorses Joe Strada in CD 11 (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/811314-a-conservative-we-can-trust-grady-judd-endorses-joe-strada-in-cd-11/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "by": "Group of Central Florida elected officials (June 2026)",
+       "sources": [
+        {
+         "title": "Central Florida elected officials rally around Joe Strada's CD 11 candidacy (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/803812-central-florida-elected-officials-rally-around-joe-stradas-cd-11-candidacy/",
+         "date": "2026-06"
+        },
+        {
+         "title": "Conservative Central Florida Leaders Endorse Joe Strada in Congressional District 11 (campaign site)",
+         "url": "https://votestrada.com/conservative-central-florida-leaders-endorse-joe-strada-in-congressional-district-11/",
+         "date": "2026"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "james_pericola",
+     "name": "James Pericola",
+     "party": "Democratic",
+     "incumbent": false,
+     "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/James_Pericola.jpg",
+     "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+     "website": null,
+     "occupation": "Attorney / legislative advocate; former federal official",
+     "residence": "Not verified (campaign launch event held in Sumter County)",
+     "background": "Pericola says he has more than 30 years of experience in public service, law, government and legislative advocacy. He served in the Clinton administration, including as Special Assistant to the Chair of the National Transportation Safety Board, where he worked with Congress and federal agencies on transportation safety and coordinated responses to major aviation incidents. He launched his campaign in June 2026 with events in Sumter County, and won the Aug. 18, 2026 Democratic primary with about 46.4% of the vote. A pre-primary poll commissioned for the race showed him leading the Democratic field and in a potential dead heat with Joe Strada.",
+     "primary_result": "Won Aug 18, 2026 Democratic primary with 46.4% (99% of precincts reporting) in a multi-candidate field (Spectrum News 13)",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Pericola lists making health care more affordable among the three most pressing issues for the district. He says he will work to restore Medicaid funding, protect the Affordable Care Act, and lower the cost of prescription drugs and medical care.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+         "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+         "date": "2026-08-05"
+        },
+        {
+         "title": "James Pericola: Dems need to 'give people something to vote for, not just someone to vote against' (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/813913-james-pericola-dems-need-to-give-people-something-to-vote-for-not-just-someone-to-vote-against/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      "social_security": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "He names protecting Social Security and Medicare as the district's top issue. He has not specified in sources found how he would finance the programs.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+         "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+         "date": "2026-08-05"
+        }
+       ]
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No explicit public position on the Trump administration found as of Sept 2026. Pericola is running to 'flip' the seat and calls for restoring Medicaid funding, but sources found do not contain a direct statement about the administration.",
+       "quote": "give people something to vote for, not just someone to vote against",
+       "sources": [
+        {
+         "title": "James Pericola: Dems need to 'give people something to vote for, not just someone to vote against' (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/813913-james-pericola-dems-need-to-give-people-something-to-vote-for-not-just-someone-to-vote-against/",
+         "date": "2026-08"
+        },
+        {
+         "title": "James Pericola launches bid to flip CD 11 from red to blue (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/801699-james-pericola-launches-bid-to-flip-cd-11-from-red-to-blue/",
+         "date": "2026-06"
+        }
+       ]
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Affordability for working and middle-class families",
+       "summary": "He lists reducing the financial pressure on working and middle-class families as one of the district's three most pressing issues.",
+       "sources": [
+        {
+         "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+         "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+         "date": "2026-08-05"
+        }
+       ]
+      },
+      {
+       "title": "Lower prescription drug costs",
+       "summary": "He says he will work to lower the cost of prescription drugs and medical care.",
+       "sources": [
+        {
+         "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+         "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+         "date": "2026-08-05"
+        }
+       ]
+      },
+      {
+       "title": "Restore Medicaid funding",
+       "summary": "He calls for restoring Medicaid funding reduced by recent federal legislation.",
+       "sources": [
+        {
+         "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+         "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+         "date": "2026-08-05"
+        },
+        {
+         "title": "James Pericola: Dems need to 'give people something to vote for, not just someone to vote against' (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/813913-james-pericola-dems-need-to-give-people-something-to-vote-for-not-just-someone-to-vote-against/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "title": "Transportation safety background",
+       "summary": "He cites his NTSB and White House experience coordinating responses to aviation incidents as preparation for federal office.",
+       "sources": [
+        {
+         "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+         "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+         "date": "2026-08-05"
+        },
+        {
+         "title": "James Pericola launches bid to flip CD 11 from red to blue (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/801699-james-pericola-launches-bid-to-flip-cd-11-from-red-to-blue/",
+         "date": "2026-06"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Won the Democratic primary with 46.4% of the vote on Aug. 18, 2026.",
+       "sources": [
+        {
+         "title": "CD-11 Democratic primary results (Spectrum News 13)",
+         "url": "https://mynews13.com/fl/orlando/news/2026/08/18/cd-11-democratic-primary-results",
+         "date": "2026-08-18"
+        }
+       ]
+      },
+      {
+       "item": "A poll released in August 2026 showed him leading the Democratic primary field and in a potential dead heat with Joe Strada in a general-election matchup.",
+       "sources": [
+        {
+         "title": "Poll shows James Pericola leading CD 11 Dem field, in potential dead heat with Joe Strada (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/811237-poll-shows-james-pericola-leading-cd-11-dem-field-in-potential-dead-heat-with-joe-strada/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "item": "Served as Special Assistant to the Chair of the National Transportation Safety Board during the Clinton administration (campaign biography).",
+       "sources": [
+        {
+         "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+         "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+         "date": "2026-08-05"
+        },
+        {
+         "title": "James Pericola launches bid to flip CD 11 from red to blue (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/801699-james-pericola-launches-bid-to-flip-cd-11-from-red-to-blue/",
+         "date": "2026-06"
+        }
+       ]
+      }
+     ],
+     "endorsements": []
+    },
+    {
+     "id": "ralph_groves",
+     "name": "Ralph Groves",
+     "party": "Libertarian",
+     "incumbent": false,
+     "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Ralph_Groves.jpg",
+     "photo_source": "Ballotpedia candidate photo (URL pattern unverified; campaign site grovesforcongress.com also has a portrait)",
+     "website": "https://www.grovesforcongress.com/",
+     "occupation": "Retired U.S. Army major; former Department of Defense analyst",
+     "residence": "Orange County (former chair of the Libertarian Party of Orange County; city not verified)",
+     "background": "Groves is a U.S. Army veteran who served in Germany and in the Iraq War and retired at the rank of major. He later worked as a Department of Defense analyst in the United Kingdom and at the Pentagon. He previously chaired the Libertarian Party of Orange County. As the only Libertarian to file, he advanced directly to the Nov. 3, 2026 general election without a primary. He says he is running to give voters a third option because many people who want more personal freedom and less government vote for the two major parties only because they do not believe a third party can win.",
+     "primary_result": "No primary; sole Libertarian candidate, advanced directly to Nov 3 general election (Ballotpedia)",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Groves identifies himself as 'pro-life.' No statement on Florida's six-week law or federal legislation was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+         "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+         "date": "2026"
+        },
+        {
+         "title": "Groves for Congress 2026 (campaign site)",
+         "url": "https://www.grovesforcongress.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      "guns": {
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Groves identifies himself as 'pro-gun ownership.' No statement on red-flag laws, the purchase age or background checks was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+         "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+         "date": "2026"
+        },
+        {
+         "title": "Groves for Congress 2026 (campaign site)",
+         "url": "https://www.grovesforcongress.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Groves says he would advocate for more Environmental Protection Agency safe-drinking-water grants. No statement on conservation land or development trade-offs was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+         "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+         "date": "2026"
+        },
+        {
+         "title": "Mission | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
+        }
+       ]
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No specific position on VA services found as of Sept 2026; Groves is a retired Army major and Iraq War veteran.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+         "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+         "date": "2026"
+        },
+        {
+         "title": "Meet Ralph Groves | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/meet-ralph-groves",
+         "date": "2026"
+        }
+       ]
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Prevent future vaccine mandates",
+       "summary": "He says he would work to prevent any future vaccine mandates.",
+       "sources": [
+        {
+         "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+         "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+         "date": "2026"
+        },
+        {
+         "title": "Mission | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Increase Coast Guard funding",
+       "summary": "He supports increased funding for the U.S. Coast Guard.",
+       "sources": [
+        {
+         "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+         "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "EPA safe-drinking-water grants",
+       "summary": "He would advocate for more EPA safe-drinking-water grants for communities.",
+       "sources": [
+        {
+         "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+         "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "More personal freedom, less government",
+       "summary": "His campaign message is that voters want more personal freedom and a smaller government and deserve a viable third option.",
+       "sources": [
+        {
+         "title": "Groves for Congress 2026 (campaign site)",
+         "url": "https://www.grovesforcongress.com/",
+         "date": "2026"
+        },
+        {
+         "title": "Mission | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Former chairman of the Libertarian Party of Orange County.",
+       "sources": [
+        {
+         "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+         "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+         "date": "2026"
+        },
+        {
+         "title": "Ralph Groves About | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/ralph-groves/about",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Retired from the U.S. Army as a major after service in Germany and the Iraq War; later a DoD analyst in the U.K. and at the Pentagon (campaign biography).",
+       "sources": [
+        {
+         "title": "Meet Ralph Groves | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/meet-ralph-groves",
+         "date": "2026"
+        },
+        {
+         "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+         "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
+     "endorsements": []
+    }
+   ]
+  },
+  {
+   "id": "governor",
+   "order": 3,
+   "title": "Governor & Lieutenant Governor",
+   "level": "state",
+   "office_group": "State",
+   "term": "4 years",
+   "what_it_does": "Florida's chief executive. Signs or vetoes bills, proposes the state budget, appoints agency heads and judges, and manages emergencies such as hurricanes. Gov. Ron DeSantis is term-limited.",
+   "verified_ballot_note": "Qualifying closed June 12, 2026: WUWF and the Tampa Bay Times/Spokesman-Review reported 27 qualified candidates for governor (10 R, 6 D, 6 NPA, 4 write-in, 1 Libertarian); the six NPA qualifiers are Dean Ocean Abrams, Charles Burkett, Jeffrey 'Dr. Jeff' Datto, Moliere 'Moe' Dimanche, Desmond Meade and Frank J. Russo (CBS12/politics1 lists), which confirms state Sen. Jason Pizzo did NOT qualify; Donalds (R, ~47.8%) and Jolly (D, ~61%) won the Aug. 18 primaries (CBS News, Washington Post); Meade withdrew Aug. 28, 2026 (WLRN/Florida Politics) and whether his name remains printed on the ballot is unverified; the names of the four qualified write-in candidates (who do not appear on the ballot) could not be retrieved.",
+   "verified_ballot_sources": [
+    {
+     "title": "wuwf.org",
+     "url": "https://www.wuwf.org/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election"
+    },
+    {
+     "title": "spokesman.com",
+     "url": "https://www.spokesman.com/stories/2026/jun/12/field-set-for-florida-2026-governor-race-as-qualif/"
+    },
+    {
+     "title": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/"
+    },
+    {
+     "title": "wlrn.org",
+     "url": "https://www.wlrn.org/government-politics/2026-08-28/desmond-meade-withdraws-florida-governor-election"
+    },
+    {
+     "title": "ballotpedia.org",
+     "url": "https://ballotpedia.org/Florida_gubernatorial_and_lieutenant_gubernatorial_election,_2026"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "byron_donalds",
+     "name": "Byron Donalds",
+     "party": "Republican",
+     "incumbent": false,
+     "running_mate": "Bryan Avila (state senator, Miami)",
+     "photo_url": "https://www.congress.gov/img/member/d000032_200.jpg",
+     "photo_source": "congress.gov official member portrait (bioguide D000032)",
+     "website": "https://byrondonalds.com/",
+     "occupation": "U.S. Representative, Florida's 19th District",
+     "residence": "Naples, Collier County",
+     "background": "Byron Donalds is a Republican U.S. Representative for Florida's 19th Congressional District (Southwest Florida), first elected in 2020 after serving in the Florida House. He announced his campaign for governor in February 2025 with President Trump's endorsement. He won the Aug. 18, 2026 Republican primary with about 47.8% of the vote over Lt. Gov. Jay Collins, former House Speaker Paul Renner and businessman James Fishback. On Aug. 26, 2026, at Miami's Freedom Tower, he named state Sen. Bryan Avila, a Florida National Guard captain first elected to the Florida House in 2014 and to the Senate in 2022, as his running mate.",
+     "primary_result": "Won Aug 18, 2026 Republican primary with ~47.8% over Jay Collins, Paul Renner and James Fishback (CBS News; Washington Post)",
+     "positions": {
+      "taxes": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Donalds has made tax reduction a centerpiece: he says he will use the state Tax and Budget Reform Commission, which convenes in 2027, to 'study all taxes and fees in Florida' with the goal of eliminating homestead property taxes, and he pitches his campaign around affordability.",
+       "quote": "We are going to study all taxes and fees in Florida. We're going to set a goal of finally eliminating homestead property taxes in our state.",
+       "sources": [
+        {
+         "title": "Byron Donalds doubles down on cutting - or even eliminating - property taxes if elected (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-09-01/byron-donalds-doubles-down-on-cutting-or-even-eliminating-property-taxes-if-elected",
+         "date": "2026-09-01"
+        },
+        {
+         "title": "Byron Donalds vows to revive property tax cuts as Governor if November amendment fails (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/801896-if-homestead-exemption-hike-fails-with-voters-byron-donalds-vows-to-bring-it-back/",
+         "date": "2026"
+        },
+        {
+         "title": "Byron Donalds turns lean-years story, hurricane warning into affordability pitch (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/819063-byron-donalds-turns-lean-years-story-hurricane-warning-into-affordability-pitch/",
+         "date": "2026-09"
+        }
+       ]
+      },
+      "property_tax": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Donalds says that whether or not the November 2026 property-tax amendment (Amendment 3) passes, he will push to eliminate homestead property taxes through the Tax and Budget Reform Commission; at a Tampa stop he said he would move to eliminate all property taxes. He has since said that if broad relief is not fiscally possible, relief would be targeted to seniors on fixed incomes and working families.",
+       "quote": "Whether Amendment 3 passes or fails, we are going to reform property taxes in our state with the goal of eliminating homestead property taxes once and for all.",
+       "sources": [
+        {
+         "title": "Byron Donalds doubles down on cutting - or even eliminating - property taxes if elected (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-09-01/byron-donalds-doubles-down-on-cutting-or-even-eliminating-property-taxes-if-elected",
+         "date": "2026-09-01"
+        },
+        {
+         "title": "Byron Donalds vows to revive property tax cuts as Governor if November amendment fails (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/801896-if-homestead-exemption-hike-fails-with-voters-byron-donalds-vows-to-bring-it-back/",
+         "date": "2026"
+        },
+        {
+         "title": "'Math' problem: Byron Donalds narrows scope of prospective property tax break if Amendment 3 fails (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/814724-donalds-math-amendment-3/",
+         "date": "2026"
+        },
+        {
+         "title": "Byron Donalds gets specific on education, property taxes in Tampa campaign stop (Tampa Bay Times via AOL)",
+         "url": "https://www.aol.com/articles/byron-donalds-gets-specific-education-210535996.html",
+         "date": "2026"
+        }
+       ]
+      },
+      "insurance": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Donalds' six-point 'Bring Down The Bill' plan relies on market-based measures: keep the 2022-23 litigation (tort) reforms, lower reinsurance costs, an 'Insurer Scorecard' comparison tool, mitigation grants like My Safe Florida Home, and keeping Citizens Property Insurance's policy count low. He says regulatory changes could lower rates up to 20% 'with the risk staying off the state's books,' and he criticizes Jolly's state catastrophe-fund idea as shifting risk to taxpayers.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Jolly and Donalds clash on property insurance proposals (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2026/09/16/jolly-and-donalds-clash-on-property-insurance-proposals/",
+         "date": "2026-09-16"
+        },
+        {
+         "title": "Donalds unveils 'Bring Down The Bill' insurance plan (Florida's Voice)",
+         "url": "https://flvoicenews.com/donalds-unveils-bring-down-the-bill-insurance-plan-says-jollys-proposal-would-hit-families-with-1000-hurricane-tax/",
+         "date": "2026-09"
+        },
+        {
+         "title": "Byron Donalds claims David Jolly's insurance plan 'shifts the risk' to taxpayers (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/820055-donalds-jolly-insurance/",
+         "date": "2026-09"
+        },
+        {
+         "title": "Fact Check: Where candidates Donalds and Jolly stand on property insurance (InsuranceNewsNet)",
+         "url": "https://insurancenewsnet.com/oarticle/fact-check-where-candidates-donalds-and-jolly-stand-on-property-insurance",
+         "date": "2026-09"
+        }
+       ]
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for the Laken Riley Act (2025), which requires federal detention of unauthorized immigrants charged with theft and certain other crimes, and has campaigned on continuing Florida's cooperation with federal deportation operations.",
+       "sources": [
+        {
+         "title": "S.5 Laken Riley Act, 119th Congress (actions and votes)",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+         "date": "2025-01"
+        },
+        {
+         "title": "Byron Donalds campaign site",
+         "url": "https://byrondonalds.com/",
+         "date": null
+        }
+       ]
+      },
+      "abortion": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Donalds has called Florida's six-week 'Heartbeat Protection Act' the 'right move' and says he would not move to change the current law; he says abortion policy should be decided by states rather than federal bans, and that there is not sufficient momentum to go further at this time. He is endorsed by Susan B. Anthony Pro-Life America and Florida Voice for the Unborn.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Status quo for now: Byron Donalds says the time isn't right for the 'next legislative step' on restricting abortion (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/819289-byron-donalds-abortion/",
+         "date": "2026-09"
+        },
+        {
+         "title": "Byron Donalds sidesteps his stance on six-week abortion ban in Florida (NBC Meet the Press)",
+         "url": "https://www.nbcnews.com/meet-the-press/video/byron-donalds-sidesteps-his-stance-on-six-week-abortion-ban-in-florida-175420997710",
+         "date": "2023-08"
+        },
+        {
+         "title": "Susan B. Anthony Pro-Life America is pro-Byron Donalds (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/806201-susan-b-anthony-pro-life-america-is-pro-byron-donalds/",
+         "date": "2026"
+        },
+        {
+         "title": "Byron Donalds picks up endorsement from anti-abortion group (Orlando Weekly)",
+         "url": "https://www.orlandoweekly.com/news/florida-news/byron-donalds-picks-up-endorsement-from-anti-abortion-group/",
+         "date": "2026"
+        }
+       ]
+      },
+      "guns": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Donalds says 'job one' as governor would be repealing two parts of the 2018 post-Parkland law: the red-flag (risk protection order) law and the 21-year-old minimum age for long-gun purchases. He says he would also support and push for open carry and has pledged support for constitutional carry for adults 18 and older. He is endorsed by Gun Owners of America and, as of Sept. 16, 2026, the NRA.",
+       "quote": "I would support and push for that, but I think that the bigger thing that we need to get done is really unwinding the red flag laws in our state.",
+       "sources": [
+        {
+         "title": "Byron Donalds says he supports repealing Florida's red-flag law (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/briefs/byron-donalds-says-he-supports-repealing-floridas-red-flag-law/",
+         "date": "2026"
+        },
+        {
+         "title": "Gun policy emerges as an early flashpoint in Florida governor's race (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2026/08/27/gun-policy-emerges-as-an-early-flashpoint-in-florida-governors-race/",
+         "date": "2026-08-27"
+        },
+        {
+         "title": "Gun Owners of America Endorses Byron Donalds for Florida Governor (GOA)",
+         "url": "https://www.gunowners.org/780519-2/",
+         "date": "2026"
+        },
+        {
+         "title": "Byron Donalds lands NRA endorsement for governor (Palm Beach Post via PressReader)",
+         "url": "https://www.pressreader.com/usa/the-palm-beach-post/20260916/281925959911253",
+         "date": "2026-09-16"
+        },
+        {
+         "title": "Byron Donalds, who wants to be governor of Florida, supports repealing the state's red-flag gun safety law (Creative Loafing Tampa)",
+         "url": "https://www.cltampa.com/news/byron-donalds-who-wants-to-be-governor-of-florida-supports-repealing-the-states-red-flag-gun-safety-law-20099301/",
+         "date": "2026"
+        }
+       ]
+      },
+      "healthcare": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for H.R. 1 (the 2025 budget reconciliation law), which added Medicaid work requirements and reduced projected federal Medicaid spending, and has opposed Florida expanding Medicaid under the Affordable Care Act.",
+       "sources": [
+        {
+         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act) actions and roll-call votes",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07"
+        }
+       ]
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "As a state legislator he supported expanding Florida's scholarship (voucher) programs and campaigns on defending universal school choice as governor.",
+       "sources": [
+        {
+         "title": "Byron Donalds campaign site",
+         "url": "https://byrondonalds.com/",
+         "date": null
+        },
+        {
+         "title": "Byron Donalds - Wikipedia (career and positions, with citations)",
+         "url": "https://en.wikipedia.org/wiki/Byron_Donalds",
+         "date": null
+        }
+       ]
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for the SAVE Act (H.R. 22, 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+       "sources": [
+        {
+         "title": "H.R.22 SAVE Act, 119th Congress (actions and votes)",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04"
+        }
+       ]
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits, and supports expanded domestic oil and gas production; like most Florida officials of both parties he opposes drilling off Florida's coast.",
+       "sources": [
+        {
+         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act) actions and roll-call votes",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+         "date": "2025-07"
+        }
+       ]
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Donalds launched his campaign in February 2025 with President Trump's endorsement and has run as a Trump ally; Trump's backing was a central theme of his primary campaign.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Rep. Byron Donalds, backed by Trump, announces run for Florida governor (CBS News)",
+         "url": "https://www.cbsnews.com/amp/news/rep-byron-donalds-backed-by-trump-says-hes-running-for-florida-governor",
+         "date": "2025-02"
+        },
+        {
+         "title": "Byron Donalds, David Jolly to face off in Florida governor's race after primary wins (CBS News)",
+         "url": "https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/",
+         "date": "2026-08-19"
+        },
+        {
+         "title": "Top House Republican backs Byron Donalds for Florida governor (Fox News)",
+         "url": "https://www.foxnews.com/politics/top-house-republican-backs-byron-donalds-florida-governor",
+         "date": "2025"
+        }
+       ]
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Tax and Budget Reform Commission review of all state taxes and fees",
+       "summary": "Says he will use the constitutionally required 2027 Tax and Budget Reform Commission to study every tax and fee in Florida with a goal of eliminating homestead property taxes.",
+       "sources": [
+        {
+         "title": "Byron Donalds doubles down on cutting - or even eliminating - property taxes if elected (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-09-01/byron-donalds-doubles-down-on-cutting-or-even-eliminating-property-taxes-if-elected",
+         "date": "2026-09-01"
+        },
+        {
+         "title": "Byron Donalds vows to revive property tax cuts as Governor if November amendment fails (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/801896-if-homestead-exemption-hike-fails-with-voters-byron-donalds-vows-to-bring-it-back/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "'Bring Down The Bill' property-insurance plan",
+       "summary": "Six-point plan: preserve tort reforms, lower reinsurance costs, an 'Insurer Scorecard' to compare insurers, mitigation/storm-hardening grants, more competition and keeping Citizens small.",
+       "sources": [
+        {
+         "title": "Donalds unveils 'Bring Down The Bill' insurance plan (Florida's Voice)",
+         "url": "https://flvoicenews.com/donalds-unveils-bring-down-the-bill-insurance-plan-says-jollys-proposal-would-hit-families-with-1000-hurricane-tax/",
+         "date": "2026-09"
+        },
+        {
+         "title": "Fact Check: Where candidates Donalds and Jolly stand on property insurance (InsuranceNewsNet)",
+         "url": "https://insurancenewsnet.com/oarticle/fact-check-where-candidates-donalds-and-jolly-stand-on-property-insurance",
+         "date": "2026-09"
+        }
+       ]
+      },
+      {
+       "title": "Amendment 3 (2026 homestead exemption increase)",
+       "summary": "Supports the November 2026 ballot amendment on homestead exemptions and says he will bring the idea back through the commission if voters reject it.",
+       "sources": [
+        {
+         "title": "Byron Donalds vows to revive property tax cuts as Governor if November amendment fails (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/801896-if-homestead-exemption-hike-fails-with-voters-byron-donalds-vows-to-bring-it-back/",
+         "date": "2026"
+        },
+        {
+         "title": "'Math' problem: Byron Donalds narrows scope of prospective property tax break if Amendment 3 fails (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/814724-donalds-math-amendment-3/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Affordability / cost of living",
+       "summary": "Frames his campaign around affordability, citing his family's 'lean years' and hurricane costs, with property taxes and insurance as the main levers.",
+       "sources": [
+        {
+         "title": "Byron Donalds turns lean-years story, hurricane warning into affordability pitch (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/819063-byron-donalds-turns-lean-years-story-hurricane-warning-into-affordability-pitch/",
+         "date": "2026-09"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Won the Aug. 18, 2026 Republican primary for governor with about 47.8% in a four-way race with Jay Collins, Paul Renner and James Fishback.",
+       "sources": [
+        {
+         "title": "Byron Donalds, David Jolly to face off in Florida governor's race after primary wins (CBS News)",
+         "url": "https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/",
+         "date": "2026-08-19"
+        },
+        {
+         "title": "Florida governor primary results live: Byron Donalds, David Jolly win (Washington Post)",
+         "url": "https://www.washingtonpost.com/elections/2026/08/18/florida-governor-primary-results-live-byron-donalds-jay-collins-david-jolly-run/",
+         "date": "2026-08-18"
+        }
+       ]
+      },
+      {
+       "item": "Announced his run in February 2025 after receiving President Trump's endorsement.",
+       "sources": [
+        {
+         "title": "Rep. Byron Donalds, backed by Trump, announces run for Florida governor (CBS News)",
+         "url": "https://www.cbsnews.com/amp/news/rep-byron-donalds-backed-by-trump-says-hes-running-for-florida-governor",
+         "date": "2025-02"
+        }
+       ]
+      },
+      {
+       "item": "Stated in Aug. 2023 on NBC's Meet the Press that he would not say whether he would have signed the six-week abortion ban; in 2026 he said the law was the 'right move' and that he would not change it.",
+       "sources": [
+        {
+         "title": "Byron Donalds sidesteps his stance on six-week abortion ban in Florida (NBC Meet the Press)",
+         "url": "https://www.nbcnews.com/meet-the-press/video/byron-donalds-sidesteps-his-stance-on-six-week-abortion-ban-in-florida-175420997710",
+         "date": "2023-08"
+        },
+        {
+         "title": "Status quo for now: Byron Donalds says the time isn't right for the 'next legislative step' on restricting abortion (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/819289-byron-donalds-abortion/",
+         "date": "2026-09"
+        }
+       ]
+      },
+      {
+       "item": "Answered Gun Owners of America's 2026 Florida candidate survey opposing red-flag confiscation orders and supporting constitutional carry for adults 18+.",
+       "sources": [
+        {
+         "title": "Gun Owners of America Endorses Byron Donalds for Florida Governor (GOA)",
+         "url": "https://www.gunowners.org/780519-2/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Narrowed his property-tax pledge in Sept. 2026, saying relief would be targeted to seniors and working families if broad elimination is not affordable ('math' problem).",
+       "sources": [
+        {
+         "title": "'Math' problem: Byron Donalds narrows scope of prospective property tax break if Amendment 3 fails (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/814724-donalds-math-amendment-3/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 individual tax cuts, added Medicaid work requirements and reduced clean-energy tax credits.",
+       "sources": [
+        {
+         "title": "H.R.1, 119th Congress",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        }
+       ]
+      }
+     ],
+     "endorsements": [
+      {
+       "by": "President Donald Trump",
+       "sources": [
+        {
+         "title": "Rep. Byron Donalds, backed by Trump, announces run for Florida governor (CBS News)",
+         "url": "https://www.cbsnews.com/amp/news/rep-byron-donalds-backed-by-trump-says-hes-running-for-florida-governor",
+         "date": "2025-02"
+        },
+        {
+         "title": "Byron Donalds, David Jolly to face off in Florida governor's race after primary wins (CBS News)",
+         "url": "https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/",
+         "date": "2026-08-19"
+        }
+       ]
+      },
+      {
+       "by": "National Rifle Association (NRA)",
+       "sources": [
+        {
+         "title": "Byron Donalds lands NRA endorsement for governor (Palm Beach Post via PressReader)",
+         "url": "https://www.pressreader.com/usa/the-palm-beach-post/20260916/281925959911253",
+         "date": "2026-09-16"
+        }
+       ]
+      },
+      {
+       "by": "Gun Owners of America",
+       "sources": [
+        {
+         "title": "Gun Owners of America Endorses Byron Donalds for Florida Governor (GOA)",
+         "url": "https://www.gunowners.org/780519-2/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "by": "Susan B. Anthony Pro-Life America",
+       "sources": [
+        {
+         "title": "Susan B. Anthony Pro-Life America is pro-Byron Donalds (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/806201-susan-b-anthony-pro-life-america-is-pro-byron-donalds/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "by": "Florida Voice for the Unborn",
+       "sources": [
+        {
+         "title": "Byron Donalds picks up endorsement from anti-abortion group (Orlando Weekly)",
+         "url": "https://www.orlandoweekly.com/news/florida-news/byron-donalds-picks-up-endorsement-from-anti-abortion-group/",
+         "date": "2026"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "david_jolly",
+     "name": "David Jolly",
+     "party": "Democratic",
+     "incumbent": false,
+     "running_mate": "Gwen Graham (former U.S. Representative)",
+     "photo_url": "https://www.congress.gov/img/member/j000296_200.jpg",
+     "photo_source": "congress.gov official member portrait from his House service (bioguide J000296)",
+     "website": "https://davidjolly.com/",
+     "occupation": "Attorney; former U.S. Representative; political commentator",
+     "residence": "Pinellas County (Tampa Bay area)",
+     "background": "David Jolly is a former U.S. Representative for Florida's 13th District (Pinellas County), serving 2014-2017 as a Republican. He later left the Republican Party, became an independent and then registered as a Democrat before running for governor. He won the Aug. 18, 2026 Democratic primary with about 61% of the vote. On June 10, 2026 he named Gwen Graham, a former Democratic congresswoman (2015-2017), 2018 gubernatorial candidate and daughter of the late Gov. and Sen. Bob Graham, as his running mate; their House service overlapped in 2015-2017.",
+     "primary_result": "Won Aug 18, 2026 Democratic primary with ~61% (CBS News; Washington Post)",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Has criticized proposals to eliminate homestead property taxes as unfunded, arguing they would force cuts to sheriffs, schools and fire services or shift costs to sales taxes; favors targeted relief instead.",
+       "sources": [
+        {
+         "title": "David Jolly campaign site",
+         "url": "https://davidjolly.com/",
+         "date": null
+        },
+        {
+         "title": "2026 Florida gubernatorial election - Wikipedia (campaign coverage, with citations)",
+         "url": "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
+         "date": null
+        }
+       ]
+      },
+      "insurance": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Jolly proposes a state catastrophic insurance fund that would take hurricane/wind coverage out of the private market, which he says could reduce homeowners' insurance costs by 60% to 70%. He disputes the Donalds campaign's claim that the plan means a $1,000 'hurricane tax,' saying no detailed plan with such a charge has been published.",
+       "quote": "It's all lies... it does not include an additional $1,000 tax for homeowners. No governor is going to do that.",
+       "sources": [
+        {
+         "title": "Jolly and Donalds clash on property insurance proposals (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2026/09/16/jolly-and-donalds-clash-on-property-insurance-proposals/",
+         "date": "2026-09-16"
+        },
+        {
+         "title": "Byron Donalds claims David Jolly's insurance plan 'shifts the risk' to taxpayers (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/820055-donalds-jolly-insurance/",
+         "date": "2026-09"
+        },
+        {
+         "title": "Fact Check: Where candidates Donalds and Jolly stand on property insurance (InsuranceNewsNet)",
+         "url": "https://insurancenewsnet.com/oarticle/fact-check-where-candidates-donalds-and-jolly-stand-on-property-insurance",
+         "date": "2026-09"
+        }
+       ]
+      },
+      "housing": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Proposes state action on housing affordability, including fully funding the state's affordable-housing trust funds.",
+       "sources": [
+        {
+         "title": "David Jolly campaign site",
+         "url": "https://davidjolly.com/",
+         "date": null
+        }
+       ]
+      },
+      "immigration": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Has criticized the state's role in federal deportation operations, including the 'Alligator Alcatraz' detention facility, and opposes mass deportation of long-settled residents.",
+       "sources": [
+        {
+         "title": "David Jolly - Wikipedia (positions, with citations)",
+         "url": "https://en.wikipedia.org/wiki/David_Jolly",
+         "date": null
+        },
+        {
+         "title": "David Jolly campaign site",
+         "url": "https://davidjolly.com/",
+         "date": null
+        }
+       ]
+      },
+      "abortion": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Supports repealing Florida's six-week abortion ban and backed the 2024 Amendment 4 effort to protect abortion access up to viability.",
+       "sources": [
+        {
+         "title": "David Jolly campaign site",
+         "url": "https://davidjolly.com/",
+         "date": null
+        },
+        {
+         "title": "David Jolly - Wikipedia (positions, with citations)",
+         "url": "https://en.wikipedia.org/wiki/David_Jolly",
+         "date": null
+        }
+       ]
+      },
+      "guns": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Has advocated for stricter firearm laws since leaving Congress, including keeping Florida's red-flag law and age-21 purchase rule and supporting universal background checks.",
+       "sources": [
+        {
+         "title": "David Jolly - Wikipedia (positions, with citations)",
+         "url": "https://en.wikipedia.org/wiki/David_Jolly",
+         "date": null
+        },
+        {
+         "title": "David Jolly campaign site",
+         "url": "https://davidjolly.com/",
+         "date": null
+        }
+       ]
+      },
+      "healthcare": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Campaigns on expanding Medicaid in Florida under the Affordable Care Act, which the Legislature has declined to do since 2013.",
+       "sources": [
+        {
+         "title": "David Jolly campaign site",
+         "url": "https://davidjolly.com/",
+         "date": null
+        }
+       ]
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Campaigns on climate resilience, water quality and opposing offshore drilling; has said he would restore climate-change language and planning in state government.",
+       "sources": [
+        {
+         "title": "David Jolly campaign site",
+         "url": "https://davidjolly.com/",
+         "date": null
+        }
+       ]
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Opposes the voting restrictions enacted since 2021 and supports full implementation of the 2018 amendment restoring voting rights to people with felony convictions.",
+       "sources": [
+        {
+         "title": "David Jolly campaign site",
+         "url": "https://davidjolly.com/",
+         "date": null
+        }
+       ]
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Opposes Florida's restrictions on gender-affirming care for minors and the classroom-instruction limits in the Parental Rights in Education law.",
+       "sources": [
+        {
+         "title": "David Jolly campaign site",
+         "url": "https://davidjolly.com/",
+         "date": null
+        }
+       ]
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Left the Republican Party in 2018 and has been a frequent on-air critic of President Trump; campaigns explicitly against the administration's direction.",
+       "sources": [
+        {
+         "title": "David Jolly - Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/David_Jolly",
+         "date": null
+        }
+       ]
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "State catastrophic (hurricane/wind) insurance fund",
+       "summary": "Proposes moving hurricane and wind risk into a state catastrophe fund to lower private premiums; the Donalds campaign attacks it as shifting risk to taxpayers.",
+       "sources": [
+        {
+         "title": "Jolly and Donalds clash on property insurance proposals (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2026/09/16/jolly-and-donalds-clash-on-property-insurance-proposals/",
+         "date": "2026-09-16"
+        },
+        {
+         "title": "Byron Donalds claims David Jolly's insurance plan 'shifts the risk' to taxpayers (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/820055-donalds-jolly-insurance/",
+         "date": "2026-09"
+        }
+       ]
+      },
+      {
+       "title": "Property-tax relief approach",
+       "summary": "Coverage says Jolly and Donalds offer 'different paths' to property-tax cuts; specifics for Jolly could not be retrieved.",
+       "sources": [
+        {
+         "title": "Gubernatorial candidates offer different paths to Florida property tax cuts (Tampa Bay Times via Yahoo)",
+         "url": "https://www.yahoo.com/news/politics/articles/gubernatorial-candidates-offer-different-paths-205249244.html",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Served in the U.S. House (FL-13) from 2014 to 2017 as a Republican; running mate Gwen Graham served in the House as a Democrat during the same 2015-2017 period.",
+       "sources": [
+        {
+         "title": "Democrat David Jolly names Gwen Graham as running mate in Florida governor's race (WUSF)",
+         "url": "https://www.wusf.org/politics-issues/2026-06-10/david-jolly-names-gwen-graham-as-running-mate-florida-governors-race",
+         "date": "2026-06-10"
+        },
+        {
+         "title": "David Jolly on why he chose Gwen Graham as his running mate (NBC Miami)",
+         "url": "https://www.nbcmiami.com/news/politics/local-politics/david-jolly-gwen-graham-florida-governor-race/3819830/",
+         "date": "2026-06"
+        }
+       ]
+      },
+      {
+       "item": "Left the Republican Party after Congress and ran for governor in 2026 as a Democrat, winning the primary with ~61%.",
+       "sources": [
+        {
+         "title": "Byron Donalds, David Jolly to face off in Florida governor's race after primary wins (CBS News)",
+         "url": "https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/",
+         "date": "2026-08-19"
+        },
+        {
+         "title": "Florida governor primary results live: Byron Donalds, David Jolly win (Washington Post)",
+         "url": "https://www.washingtonpost.com/elections/2026/08/18/florida-governor-primary-results-live-byron-donalds-jay-collins-david-jolly-run/",
+         "date": "2026-08-18"
+        }
+       ]
+      },
+      {
+       "item": "Was the first major candidate in the race to name a running mate (June 10, 2026).",
+       "sources": [
+        {
+         "title": "Democrat David Jolly names Gwen Graham as running mate in Florida governor's race (WUSF)",
+         "url": "https://www.wusf.org/politics-issues/2026-06-10/david-jolly-names-gwen-graham-as-running-mate-florida-governors-race",
+         "date": "2026-06-10"
+        },
+        {
+         "title": "'A Jolly Florida': Jolly announces Gwen Graham as gubernatorial running mate (campaign site)",
+         "url": "https://davidjolly.com/a-jolly-florida-jolly-announces-gwen-graham-as-gubernatorial-running-mate/",
+         "date": "2026-06-10"
+        }
+       ]
+      },
+      {
+       "item": "Trailed Donalds substantially in early fundraising, per news coverage.",
+       "sources": [
+        {
+         "title": "Byron Donalds dwarfs David Jolly in early 2026 Florida governor race fundraising (Yahoo News)",
+         "url": "https://www.yahoo.com/news/byron-donalds-dwarfs-david-jolly-163544449.html",
+         "date": "2026"
+        }
+       ]
+      }
+     ],
+     "endorsements": []
+    },
+    {
+     "id": "scott_jewett",
+     "name": "Scott Eckhard Jewett",
+     "party": "Libertarian",
+     "incumbent": false,
+     "running_mate": "Nicole Skelly (Milton, FL; construction business owner)",
+     "photo_url": null,
+     "photo_source": "campaign site (photo URL not verified)",
+     "website": "https://scottjewett.com/",
+     "occupation": "Not verified (campaign cites 'a decade of government experience')",
+     "residence": "Florida (city/county not verified)",
+     "background": "Scott Eckhard Jewett is the Libertarian Party of Florida's nominee for governor; the national Libertarian Party announced his filing in 2025 and he announced a 'Libertarian 2.0' bid in November 2025. His campaign says he brings a decade of government experience and brands his platform 'Humanitarian Libertarianism,' combining Republican economic principles with Democratic social values. His running mate is Nicole Skelly of Milton, who runs a construction business with her husband. He was the lone Libertarian to qualify when qualifying closed June 12, 2026.",
+     "primary_result": "No primary; qualified as the Libertarian Party of Florida nominee (WUWF, June 12, 2026)",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "'Humanitarian Libertarianism' platform",
+       "summary": "Says his agenda centers on a robust economy with more living-wage jobs, enhanced educational opportunities and public safety, pairing Republican economic principles with Democratic social values.",
+       "sources": [
+        {
+         "title": "Scott Jewett at Libertarian Party of Florida",
+         "url": "https://www.lpf.org/scottjewett",
+         "date": null
+        },
+        {
+         "title": "Scott Jewett Announces 'Libertarian 2.0' bid for Florida Governor (Floridian Press)",
+         "url": "https://floridianpress.com/2025/11/scott-jewett-announces-libertarian-2-0-bid-for-florida-governor/",
+         "date": "2025-11"
+        },
+        {
+         "title": "Scott Jewett for Florida Governor (campaign site)",
+         "url": "https://scottjewett.com/",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "record": [],
+     "endorsements": [
+      {
+       "by": "Libertarian Party of Florida / Libertarian Party (national)",
+       "sources": [
+        {
+         "title": "Scott Jewett at Libertarian Party of Florida",
+         "url": "https://www.lpf.org/scottjewett",
+         "date": null
+        },
+        {
+         "title": "Scott Eckhard Jewett (Libertarian Party national candidate page)",
+         "url": "https://lp.org/candidate/scott-eckhard-jewett/",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "links": [
+      {
+       "title": "Official page / photo source",
+       "url": "https://scottjewett.com/"
+      }
+     ]
+    },
+    {
+     "id": "dean_abrams",
+     "name": "Dean Ocean Abrams",
+     "party": "No Party Affiliation",
+     "incumbent": false,
+     "running_mate": null,
+     "photo_url": null,
+     "photo_source": "campaign site (photo URL not verified)",
+     "website": "https://www.deanabrams.com/",
+     "occupation": "Technology and management consultant (retired/self-funded candidate)",
+     "residence": "Sarasota, Sarasota County",
+     "background": "Dean Abrams is a Sarasota-based NPA candidate who describes himself as not a career politician. He says he spent three decades in enterprise technology and management consulting with Microsoft, HP, KPMG and other firms, and helped rebuild New York City first responders' emergency communications after Sept. 11. He qualified for the general election as one of six NPA candidates in June 2026 and says his campaign is self-funded with no party, PAC or corporate money.",
+     "primary_result": "No primary; qualified as NPA candidate for the Nov. 3 general election (WUWF/Spokesman, June 12, 2026)",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Campaign lists 'fixing housing' and 'lowering costs' as priorities but no specific policy mechanism was found.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Says he will protect Florida's land and opposes 'polluted waters' and a 'corporate data-center land grab.'",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Dean Abrams for Florida Governor (campaign site)",
+         "url": "https://www.deanabrams.com/",
+         "date": null
+        },
+        {
+         "title": "Dean Abrams for Florida Governor (Good Party)",
+         "url": "https://goodparty.org/candidate/dean-abrams/florida-governor",
+         "date": null
+        }
+       ]
+      },
+      "growth": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "States opposition to 'unchecked development' and the data-center land grab.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Dean Abrams for Florida Governor (campaign site)",
+         "url": "https://www.deanabrams.com/",
+         "date": null
+        },
+        {
+         "title": "Dean Abrams for Florida Governor (Good Party)",
+         "url": "https://goodparty.org/candidate/dean-abrams/florida-governor",
+         "date": null
+        }
+       ]
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Data-center land use",
+       "summary": "Opposes what he calls a corporate data-center land grab in Florida.",
+       "sources": [
+        {
+         "title": "Dean Abrams for Florida Governor (campaign site)",
+         "url": "https://www.deanabrams.com/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Self-funded, no PAC money",
+       "summary": "Says he takes no party, PAC or corporate donations.",
+       "sources": [
+        {
+         "title": "Dean Abrams for Florida Governor (campaign site)",
+         "url": "https://www.deanabrams.com/",
+         "date": null
+        },
+        {
+         "title": "Dean Abrams for Florida Governor (Good Party)",
+         "url": "https://goodparty.org/candidate/dean-abrams/florida-governor",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "record": [],
+     "endorsements": [],
+     "links": [
+      {
+       "title": "Official page / photo source",
+       "url": "https://www.deanabrams.com/"
+      }
+     ]
+    },
+    {
+     "id": "charles_burkett",
+     "name": "Charles W. Burkett",
+     "party": "No Party Affiliation",
+     "incumbent": false,
+     "running_mate": null,
+     "photo_url": null,
+     "photo_source": "WLRN article image (photo URL not verified)",
+     "website": null,
+     "occupation": "Real estate investor; former Mayor of Surfside",
+     "residence": "Surfside, Miami-Dade County",
+     "background": "Charles Burkett was born and raised in Miami Beach, graduated from the University of Miami with a finance degree and founded a real estate investment firm. He served four terms as Mayor of Surfside (2006-2010, 2020-2022, 2024-2026), including during the COVID-19 pandemic and the 2021 Champlain Towers South collapse. He announced an NPA run for governor in May 2026 and qualified in June 2026.",
+     "primary_result": "No primary; qualified as NPA candidate for the Nov. 3 general election (WUWF/Spokesman, June 12, 2026)",
+     "positions": {
+      "taxes": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Platform calls for eliminating homestead property taxes, reducing tolls and gas taxes, and cutting government spending and bureaucracy.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Former Surfside mayor Charles Burkett enters Florida Governors' race (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-05-19/former-surfside-mayor-charles-burkett-florida-governors-race",
+         "date": "2026-05-19"
+        },
+        {
+         "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
+         "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
+         "date": "2026-05"
+        }
+       ]
+      },
+      "property_tax": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Proposes eliminating property taxes on homesteaded homes.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Former Surfside mayor Charles Burkett enters Florida Governors' race (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-05-19/former-surfside-mayor-charles-burkett-florida-governors-race",
+         "date": "2026-05-19"
+        },
+        {
+         "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
+         "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
+         "date": "2026-05"
+        }
+       ]
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Says he would 'overhaul insurance' laws but the direction (more state intervention vs. market reform) was not specified in available coverage.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Says he would overhaul healthcare laws; no specifics found.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Tolls and gas taxes",
+       "summary": "Proposes reducing tolls and gas taxes.",
+       "sources": [
+        {
+         "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
+         "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
+         "date": "2026-05"
+        }
+       ]
+      },
+      {
+       "title": "Insurance and healthcare overhaul",
+       "summary": "Says he would overhaul insurance and healthcare laws as part of an affordability agenda.",
+       "sources": [
+        {
+         "title": "Former Surfside mayor Charles Burkett enters Florida Governors' race (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-05-19/former-surfside-mayor-charles-burkett-florida-governors-race",
+         "date": "2026-05-19"
+        },
+        {
+         "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
+         "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
+         "date": "2026-05"
+        }
+       ]
+      },
+      {
+       "title": "Put current residents first",
+       "summary": "Campaign says it focuses on practical solutions that put current Florida residents first.",
+       "sources": [
+        {
+         "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
+         "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
+         "date": "2026-05"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Served four terms as Surfside mayor, including during the 2021 Champlain Towers South condominium collapse.",
+       "sources": [
+        {
+         "title": "Former Surfside mayor Charles Burkett enters Florida Governors' race (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-05-19/former-surfside-mayor-charles-burkett-florida-governors-race",
+         "date": "2026-05-19"
+        },
+        {
+         "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
+         "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
+         "date": "2026-05"
+        }
+       ]
+      }
+     ],
+     "endorsements": [],
+     "links": [
+      {
+       "title": "Official page / photo source",
+       "url": "https://www.wlrn.org/government-politics/2026-05-19/former-surfside-mayor-charles-burkett-florida-governors-race"
+      }
+     ]
+    },
+    {
+     "id": "jeff_datto",
+     "name": "Jeffrey Peter \"Dr. Jeff\" Datto",
+     "party": "No Party Affiliation",
+     "incumbent": false,
+     "running_mate": null,
+     "photo_url": null,
+     "photo_source": "campaign Facebook page (photo URL not verified)",
+     "website": null,
+     "occupation": "Neuroscientist; founder of DattoAI",
+     "residence": "Hialeah, Miami-Dade County",
+     "background": "Jeffrey P. 'Dr. Jeff' Datto describes himself on his campaign page as a neuroscientist, father and founder of dattoai.com, residing in Hialeah. He qualified as one of six NPA candidates for governor when qualifying closed June 12, 2026. No detailed issue platform was found in this research session.",
+     "primary_result": "No primary; qualified as NPA candidate for the Nov. 3 general election (WUWF/Spokesman, June 12, 2026)",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [],
+     "record": [],
+     "endorsements": [],
+     "links": [
+      {
+       "title": "Official page / photo source",
+       "url": "https://www.facebook.com/DrJeffDatto"
+      }
+     ]
+    },
+    {
+     "id": "moe_dimanche",
+     "name": "Moliere \"Moe\" Dimanche",
+     "party": "No Party Affiliation",
+     "incumbent": false,
+     "running_mate": null,
+     "photo_url": null,
+     "photo_source": "campaign site (photo URL not verified)",
+     "website": "https://nomoecorruption.com/",
+     "occupation": "Artist, author and prison-reform activist",
+     "residence": "Florida (city/county not verified)",
+     "background": "Moliere 'Moe' Dimanche (born 1987) is a Haitian American artist, author and prison-reform activist who served nearly 10 years in Florida prisons. He qualified as an NPA candidate for governor in June 2026. His campaign, branded 'No MOE Corruption,' identifies public corruption as the greatest danger to democracy.",
+     "primary_result": "No primary; qualified as NPA candidate for the Nov. 3 general election (WUWF/Spokesman, June 12, 2026)",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "His candidacy is described as focused on social justice and prison reform, drawing on his own incarceration; no specific position on police funding or sentencing was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Moliere Dimanche (Ballotpedia)",
+         "url": "https://ballotpedia.org/Moliere_Dimanche",
+         "date": null
+        },
+        {
+         "title": "Moliere 'Moe' Dimanche, Former Prisoner Turned Activist, Artist, and Author, Running for Governor of Florida (Hard Times Reviewer)",
+         "url": "https://hardtimesreviewer.substack.com/p/moliere-moe-dimanche-former-prisoner",
+         "date": null
+        }
+       ]
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Public corruption",
+       "summary": "Says his goal is a 'corruption-free Florida' where corruption 'will be met with a heavy hand' and Floridians are 'served, instead of ruled over.'",
+       "sources": [
+        {
+         "title": "No MOE Corruption - Moe Dimanche For Governor of Florida (campaign site)",
+         "url": "https://nomoecorruption.com/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Free speech",
+       "summary": "Campaign says it wants a Florida 'where Freedom of Speech is real again.'",
+       "sources": [
+        {
+         "title": "No MOE Corruption - Moe Dimanche For Governor of Florida (campaign site)",
+         "url": "https://nomoecorruption.com/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Prison reform",
+       "summary": "Advocates prison reform based on his nearly 10 years in Florida prisons.",
+       "sources": [
+        {
+         "title": "Moliere Dimanche (Ballotpedia)",
+         "url": "https://ballotpedia.org/Moliere_Dimanche",
+         "date": null
+        },
+        {
+         "title": "Moliere 'Moe' Dimanche, Former Prisoner Turned Activist, Artist, and Author, Running for Governor of Florida (Hard Times Reviewer)",
+         "url": "https://hardtimesreviewer.substack.com/p/moliere-moe-dimanche-former-prisoner",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "record": [],
+     "endorsements": [],
+     "links": [
+      {
+       "title": "Official page / photo source",
+       "url": "https://nomoecorruption.com/"
+      }
+     ]
+    },
+    {
+     "id": "desmond_meade",
+     "name": "Desmond Meade",
+     "party": "No Party Affiliation",
+     "incumbent": false,
+     "running_mate": null,
+     "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Desmond_Meade.jpg",
+     "photo_source": "Wikimedia Commons (file name unverified)",
+     "website": "https://desmondmeade.com/",
+     "occupation": "President, Florida Rights Restoration Coalition",
+     "residence": "Orlando, Orange County",
+     "background": "Desmond Meade is president of the Florida Rights Restoration Coalition and led the 2018 Amendment 4 campaign that restored voting rights to most Floridians with past felony convictions; he is a MacArthur Fellow. He declared an NPA candidacy on May 28, 2026 and qualified in June 2026. WITHDREW: On Aug. 28, 2026 he sent a formal withdrawal letter to the Division of Elections, citing fundraising ('The rate of our fundraising was not what it needed for me to compete statewide'). Whether his name still prints on the Nov. 3 ballot could not be verified in this session.",
+     "primary_result": "No primary; qualified as NPA in June 2026, then withdrew Aug 28, 2026 (WLRN; Florida Politics)",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Led the 2018 Amendment 4 campaign restoring voting rights to people with past felony convictions and has spent his career on rights restoration.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Voting rights advocate Desmond Meade withdraws from Florida governor's race (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-08-28/desmond-meade-withdraws-florida-governor-election",
+         "date": "2026-08-28"
+        },
+        {
+         "title": "Florida voting rights advocate Desmond Meade submits name for governor bid (WESH via FRRC)",
+         "url": "https://floridarrc.com/feed-items/florida-voting-rights-advocate-desmond-meade-submits-name-for-governor-bid-wesh/",
+         "date": "2026-05"
+        }
+       ]
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Withdrawal from the race",
+       "summary": "Ended his campaign Aug. 28, 2026, saying fundraising could not keep pace in a crowded, expensive field.",
+       "sources": [
+        {
+         "title": "Voting rights advocate Desmond Meade withdraws from Florida governor's race (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-08-28/desmond-meade-withdraws-florida-governor-election",
+         "date": "2026-08-28"
+        },
+        {
+         "title": "Voting rights activist Desmond Meade withdraws from Governor's race (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/817406-voting-rights-activist-desmond-meade-withdraws-from-governors-race/",
+         "date": "2026-08-28"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Led the Florida Rights Restoration Coalition's successful 2018 Amendment 4 ballot campaign.",
+       "sources": [
+        {
+         "title": "Voting rights advocate Desmond Meade withdraws from Florida governor's race (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-08-28/desmond-meade-withdraws-florida-governor-election",
+         "date": "2026-08-28"
+        },
+        {
+         "title": "The field is set as candidate qualifying closes for Florida's 2026 election (WUWF)",
+         "url": "https://www.wuwf.org/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election",
+         "date": "2026-06-12"
+        }
+       ]
+      },
+      {
+       "item": "Withdrew from the 2026 governor's race on Aug. 28, 2026.",
+       "sources": [
+        {
+         "title": "Voting rights advocate Desmond Meade withdraws from Florida governor's race (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-08-28/desmond-meade-withdraws-florida-governor-election",
+         "date": "2026-08-28"
+        },
+        {
+         "title": "Voting rights activist Desmond Meade withdraws from Governor's race (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/817406-voting-rights-activist-desmond-meade-withdraws-from-governors-race/",
+         "date": "2026-08-28"
+        }
+       ]
+      }
+     ],
+     "endorsements": [],
+     "withdrawn": "Aug 28, 2026"
+    },
+    {
+     "id": "frank_russo",
+     "name": "Frank J. Russo",
+     "party": "No Party Affiliation",
+     "incumbent": false,
+     "running_mate": null,
+     "photo_url": null,
+     "photo_source": "Ballotpedia profile (photo URL not verified)",
+     "website": null,
+     "occupation": "Entrepreneur, developer and insurance executive",
+     "residence": "Florida (city/county not verified)",
+     "background": "Frank J. Russo describes himself as a lifelong Floridian with more than 40 years of business leadership, including development projects such as the Queen's Gambit Castle and relief programs for children, veterans and families. He announced an NPA run on April 14, 2026 under a 'People First - Humanity Over the Dollar' banner and qualified in June 2026. He pledges to donate 100% of the governor's salary each year.",
+     "primary_result": "No primary; qualified as NPA candidate for the Nov. 3 general election (LiveNOW from FOX; WUWF, June 2026)",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Says he will 'stabilize insurance'; as an insurance executive he has not, in available coverage, specified whether through state intervention or market reforms.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Says his campaign will 'expand housing' and 'restore affordability' but no specific policy mechanism was found.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "Federal-only issue; not researched for this state race.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Affordability, housing, insurance, workforce",
+       "summary": "Campaign is built on 'practical solutions to restore affordability, expand housing, stabilize insurance, and strengthen workforce opportunities.'",
+       "sources": [
+        {
+         "title": "Frank Russo Announces Run for Governor of Florida (PR Newswire)",
+         "url": "https://www.prnewswire.com/news-releases/frank-russo-announces-run-for-governor-of-florida-302741761.html",
+         "date": "2026-04-14"
+        }
+       ]
+      },
+      {
+       "title": "Donate governor's salary",
+       "summary": "Vows to donate 100% of the governor's annual salary every year if elected.",
+       "sources": [
+        {
+         "title": "Frank Russo Announces Run for Governor of Florida (PR Newswire)",
+         "url": "https://www.prnewswire.com/news-releases/frank-russo-announces-run-for-governor-of-florida-302741761.html",
+         "date": "2026-04-14"
+        }
+       ]
+      }
+     ],
+     "record": [],
+     "endorsements": [],
+     "links": [
+      {
+       "title": "Official page / photo source",
+       "url": "https://ballotpedia.org/Frank_J._Russo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "attorney_general",
+   "order": 4,
+   "title": "Attorney General",
+   "level": "state",
+   "office_group": "State",
+   "term": "4 years",
+   "what_it_does": "Florida's chief legal officer and a member of the Cabinet. Represents the state in court, issues legal opinions, enforces consumer-protection and antitrust laws, and runs the Office of Statewide Prosecution.",
+   "verified_ballot_note": "Multiple news sources (News4Jax voter guide, Florida Tribune, NBC News primary results, Sparker's Soapbox) list only Republican James Uthmeier and Democrat José Javier Rodríguez as Nov. 3 general-election candidates; the Florida Division of Elections candidate list (dos.elections.myflorida.com) and Ballotpedia were blocked in this sandbox, so the absence of NPA/write-in candidates is unverified.",
+   "verified_ballot_sources": [
+    {
+     "title": "news4jax.com",
+     "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-attorney-general/"
+    },
+    {
+     "title": "floridatrib.org",
+     "url": "https://floridatrib.org/2026elections/2026-statewide-races/"
+    },
+    {
+     "title": "nbcnews.com",
+     "url": "https://www.nbcnews.com/politics/2026-primary-elections/florida-attorney-general-results"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "james_uthmeier",
+     "name": "James Uthmeier",
+     "party": "Republican",
+     "incumbent": true,
+     "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20Uthmeier.jpg",
+     "photo_source": "Wikimedia Commons (file name unverified; official portrait also on myfloridalegal.com)",
+     "website": null,
+     "occupation": "Florida Attorney General (appointed); attorney",
+     "residence": "Tallahassee, Leon County (native of Destin, Okaloosa County)",
+     "background": "James William Uthmeier was born Nov. 25, 1987, and grew up in Destin, attending Fort Walton Beach High School. He graduated from the University of Florida, where he competed in track and field, and from Georgetown University Law Center in 2014. He practiced at Jones Day, served as senior counsel and senior advisor at the U.S. Department of Commerce in the first Trump administration (2017-2019), then joined Gov. Ron DeSantis' office as deputy general counsel (2019), general counsel (2020) and chief of staff (2021-2025); he also managed DeSantis' 2024 presidential campaign. DeSantis appointed him attorney general in February 2025 after Ashley Moody was appointed to the U.S. Senate. He is seeking his first full term and was unopposed for the Republican nomination.",
+     "primary_result": "No Republican primary was held; news reports say Uthmeier was the only qualified Republican and advanced directly to the Nov. 3 general election (Florida Tribune/floridatrib.org; WUSF). Note: an earlier Ballotpedia listing had named Steven S. Leskovich as a possible primary opponent; this could not be reconciled because Ballotpedia is blocked in this sandbox.",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No clear position for or against eliminating homestead property taxes was found. After a Leon County judge ordered the DeSantis-backed Amendment 3 ballot summary rewritten as misleading, Uthmeier's office rewrote it (removing the phrase 'full elimination') and he said the proposal 'could certainly have been rolled out with greater transparency' and with input from law enforcement.",
+       "quote": "could certainly have been rolled out with greater transparency",
+       "sources": [
+        {
+         "title": "Does Florida AG Uthmeier dislike the property tax amendment DeSantis pushed? (Tampa Bay Times)",
+         "url": "https://www.tampabay.com/news/florida-politics/elections/2026/08/14/florida-attorney-general-uthmeier-desantis-property-tax-amendment/",
+         "date": "2026-08-14"
+        },
+        {
+         "title": "Uthmeier rewrites property tax cut ballot summary (WGCU)",
+         "url": "https://www.wgcu.org/government-politics/2026-08-14/uthmeier-rewrites-property-tax-cut-ballot-summary",
+         "date": "2026-08-14"
+        }
+       ]
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "As attorney general Uthmeier has made immigration enforcement a signature issue: Florida became the first state with all officers certified under ICE's 287(g) program, he threatened Orange County and Key West officials with removal from office for not honoring 287(g) agreements, he proposed the 'Alligator Alcatraz' Everglades detention facility, and he launched a program to support federal immigration officers. In June 2025 a federal judge held him in civil contempt for continuing to direct enforcement of a state immigration law she had blocked.",
+       "quote": "We will not allow this unlawful sanctuary policy in Florida.",
+       "sources": [
+        {
+         "title": "Attorney General James Uthmeier Stands with Federal Immigration Enforcement Officers",
+         "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-stands-federal-immigration-enforcement-officers",
+         "date": null
+        },
+        {
+         "title": "Florida attorney general threatens Orange County leaders over ICE agreement (WUSF)",
+         "url": "https://www.wusf.org/courts-law/2025-07-29/florida-attorney-general-threatens-orange-county-leaders-over-ice-agreement",
+         "date": "2025-07-29"
+        },
+        {
+         "title": "James Uthmeier threatens Key West leaders with removal from office for voiding ICE agreement (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/745947-james-uthmeier-threatens-key-west-leaders-with-removal-from-office-for-voiding-ice-agreement/",
+         "date": "2025-07"
+        },
+        {
+         "title": "Judge finds Florida AG in contempt for defying court order in major immigration case (AOL/AP)",
+         "url": "https://www.aol.com/news/judge-finds-florida-attorney-general-235138211.html",
+         "date": "2025-06"
+        }
+       ]
+      },
+      "abortion": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "As DeSantis' chief of staff Uthmeier helped lead the effort that defeated 2024's Amendment 4, which would have repealed the six-week ban. As attorney general he filed a $354 million lawsuit against Planned Parenthood over advertising of abortion medication and intervened in a challenge to the FDA's approval of mifepristone.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Uthmeier files $354 million lawsuit against Planned Parenthood for alleged racketeering, deception (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2025/11/07/uthmeier-files-354-million-lawsuit-against-planned-parenthood-for-alleged-racketeering-deception/",
+         "date": "2025-11-07"
+        },
+        {
+         "title": "Uthmeier explains state's intervention in challenge to FDA's mifepristone approval (WLRN)",
+         "url": "https://www.wlrn.org/health/2025-09-17/uthmeier-explains-states-intervention-in-challenge-to-fdas-mifepristone-approval",
+         "date": "2025-09-17"
+        },
+        {
+         "title": "Uthmeier lawsuit accuses Planned Parenthood of false advertising about abortion drugs (WUSF)",
+         "url": "https://www.wusf.org/health-news-florida/2025-11-06/uthmeier-lawsuit-accuses-planned-parenthood-false-advertising-over-abortion-drug",
+         "date": "2025-11-06"
+        }
+       ]
+      },
+      "guns": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Uthmeier has said the Parkland-era law barring 18-to-20-year-olds from buying firearms is unconstitutional and directed his office not to defend it if it reached the U.S. Supreme Court. After a September 2025 appellate ruling, he declared open carry 'the law of the state' and told police and prosecutors not to arrest people visibly carrying firearms. No statement on the red-flag law was found.",
+       "quote": "I believe restricting the ability of Floridians ages 18-20 to purchase firearms runs afoul of our Constitution's Second Amendment.",
+       "sources": [
+        {
+         "title": "James Uthmeier on X (18-20 firearm purchase)",
+         "url": "https://x.com/JamesUthmeierFL/status/1900955966851747980",
+         "date": "2025-03"
+        },
+        {
+         "title": "Florida AG says he won't defend state ban on long gun purchases, so gun safety group steps up (Yahoo)",
+         "url": "https://www.yahoo.com/news/articles/florida-ag-says-won-t-165546414.html",
+         "date": "2025"
+        },
+        {
+         "title": "Open carry begins in Florida, marking major change in state law (CBS Miami)",
+         "url": "https://www.cbsnews.com/miami/news/florida-open-carry-law-what-to-know-gun-rights-control/",
+         "date": "2025-09"
+        }
+       ]
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Uthmeier proposed and defended the 'Alligator Alcatraz' detention site in the Everglades over lawsuits from conservation groups alleging harm to endangered species, and he subpoenaed the Environmental Law Institute's Climate Judiciary Project as an alleged 'climate cartel' under the state's deceptive-trade-practices law. No statement prioritizing conservation over development was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "'Climate cartel': Uthmeier subpoenas environmental nonprofit for alleged trade law violations (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2026/04/16/climate-cartel-uthmeier-subpoenas-environmental-nonprofit-for-alleged-trade-law-violations/",
+         "date": "2026-04-16"
+        },
+        {
+         "title": "What comes after Alligator Alcatraz? (The Invading Sea)",
+         "url": "https://www.theinvadingsea.com/2026/06/22/alligator-alcatraz-florida-everglades-airport-uthmeier-emergency-response-fund-lawsuit/",
+         "date": "2026-06-22"
+        },
+        {
+         "title": "Florida environmental groups sue over 'Alligator Alcatraz' project (Axios)",
+         "url": "https://www.axios.com/local/miami/2025/06/27/alligator-alcatraz-florida-environmental-groups-sue",
+         "date": "2025-06-27"
+        }
+       ]
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Uthmeier led the political committee that campaigned against the 2024 recreational-marijuana amendment. As attorney general he urged the Florida Supreme Court to reject the 2026 Smart & Safe amendment as misleading and in conflict with federal law, and opened dozens of criminal investigations into the campaign's petition gathering.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Up in smoke? James Uthmeier amps up criminal probe of pot petitions (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/774963-up-in-smoke-james-uthmeier-amps-up-criminal-probe-of-pot-petitions/",
+         "date": "2025-12"
+        },
+        {
+         "title": "Smart & Safe urges Florida Supreme Court to OK proposed pot amendment (WUSF)",
+         "url": "https://www.wusf.org/courts-law/2026-01-19/supporters-urge-florida-supreme-court-give-go-ahead-proposed-recreational-marijuana-amendment",
+         "date": "2026-01-19"
+        },
+        {
+         "title": "Judge urged to give go-ahead to recreational marijuana amendment (NBC 6)",
+         "url": "https://www.nbcmiami.com/news/local/judge-urged-to-give-go-ahead-to-recreational-marijuana-amendment/3751272/",
+         "date": "2025"
+        }
+       ]
+      },
+      "elections": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Uthmeier's election-related actions have focused on citizenship verification and enforcement: Florida joined Iowa, Indiana and Ohio in suing to restore access to the federal SAVE database for checking voter citizenship after a federal judge disabled it, and he announced felony charges against a Canadian permanent resident who registered and voted in Florida. No statement supporting expanded mail voting, drop boxes or rights restoration was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Uthmeier announces felony charges against a Canadian citizen who voted in Florida elections (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-07-31/uthmeier-announces-felony-charges-against-a-canadian-citizen-who-voted-in-florida-elections",
+         "date": "2026-07-31"
+        },
+        {
+         "title": "'Theatrical' litigation: Republican AGs fight for Trump voting rules (CNN)",
+         "url": "https://www.cnn.com/2026/09/12/politics/republican-attorneys-general-trump-mail-voting",
+         "date": "2026-09-12"
+        }
+       ]
+      },
+      "crime": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Uthmeier says prosecuting child predators is his No. 1 priority and has cited roughly 2,000 predator arrests during his tenure. He has pushed for the death penalty in several high-profile cases, says his office seeks 'the maximum penalty under the law,' and has proposed new criminal penalties for AI chatbot companies. The Governor and Cabinet approved $90 million in grants to local law enforcement for immigration enforcement.",
+       "quote": "If you harm a child, we will find you, we will prosecute you, and we will seek the maximum penalty under the law.",
+       "sources": [
+        {
+         "title": "Florida Attorney General Uthmeier talks his priorities if elected to stay in his position (WUSF)",
+         "url": "https://www.wusf.org/politics-issues/2026-02-28/florida-attorney-general-james-uthmeier-talks-priorities-re-elected",
+         "date": "2026-02-28"
+        },
+        {
+         "title": "James Uthmeier Highlights 2,000 Child Predator Arrests in Office (The Floridian)",
+         "url": "https://floridianpress.com/2026/08/james-uthmeier-highlights-2000-child-predator-arrests-in-office/",
+         "date": "2026-08"
+        },
+        {
+         "title": "Death penalty? AG James Uthmeier wants man accused of killing 3 tourists prosecuted to the fullest (FOX 35)",
+         "url": "https://www.fox35orlando.com/news/death-penalty-attorney-general-james-uthmeier-wants-man-accused-killing-three-kissimmee-tourists-prosecuted-fullest-he-says",
+         "date": "2026"
+        },
+        {
+         "title": "AG Uthmeier seeks new penalties for chatbot companies abetting crimes (WUSF)",
+         "url": "https://www.wusf.org/courts-law/2026-09-09/ag-uthmeier-seeks-new-penalties-for-chatbot-companies-abetting-crimes",
+         "date": "2026-09-09"
+        }
+       ]
+      },
+      "lgbtq": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Uthmeier sued the World Professional Association for Transgender Health, the Endocrine Society and the American Academy of Pediatrics over gender-affirming care for minors, created an Office of Parental Rights to enforce laws on gender transition, library materials and school surveys, and led a 21-state brief supporting a Tallahassee mother's parental-rights case at the U.S. Supreme Court. A federal judge in Chicago granted the AAP a preliminary injunction against him in June 2026.",
+       "quote": "In 2023, @GovRonDeSantis signed legislation to ban so-called \"gender-affirming care\" for kids. Now it's time for accountability!",
+       "sources": [
+        {
+         "title": "Attorney General James Uthmeier on X (WPATH/AAP lawsuit)",
+         "url": "https://x.com/AGJamesUthmeier/status/1998433573993398563",
+         "date": "2025-12"
+        },
+        {
+         "title": "James Uthmeier files suit against 3 organizations to block 'gender-affirming care' (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/769069-james-uthmeier-files-suit-against-3-organizations-to-block-gender-affirming-care/",
+         "date": "2025-12"
+        },
+        {
+         "title": "Uthmeier leads 21 states in backing January Littlejohn's SCOTUS case over parental rights (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2025/10/06/uthmeier-leads-21-states-in-backing-january-littlejohns-scotus-case-over-parental-rights/",
+         "date": "2025-10-06"
+        },
+        {
+         "title": "Chicago judge sides against Florida attorney general on kids transgender medicine (Center Square)",
+         "url": "https://www.thecentersquare.com/florida/article_b8f1518f-46bc-5dd1-811f-7c9268f044ef.html",
+         "date": "2026-06"
+        }
+       ]
+      },
+      "energy": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Unlike some prior Florida attorneys general, Uthmeier did not intervene before the Public Service Commission against Florida Power & Light's multibillion-dollar rate increase, and he led a multi-state coalition warning corporations about involvement with what he called anticompetitive environmental groups. No statement supporting renewable-energy promotion was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Florida AG candidate says Uthmeier should intervene in FPL rate hike increase (Miami Times)",
+         "url": "https://www.miamitimesonline.com/business/florida-ag-candidate-says-uthmeier-should-intervene-in-fpl-rate-hike-increase/article_df0fc4ca-b7d0-4588-814d-c8fcdf7fdf69.html",
+         "date": "2025"
+        },
+        {
+         "title": "Attorney General James Uthmeier Leads Multi-State Coalition Putting Corporations on Notice Over Involvement with Anticompetitive Environmental Groups",
+         "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-leads-multi-state-coalition-putting-corporations-notice",
+         "date": null
+        }
+       ]
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Uthmeier says he will champion an 'America-first agenda,' filed a 23-state amicus brief supporting President Trump's removal power in Trump v. Slaughter, and celebrated an appellate ruling as 'a win for Florida and President Trump's agenda.' Trump endorsed him in October 2025.",
+       "quote": "A win for Florida and President Trump's agenda!",
+       "sources": [
+        {
+         "title": "Attorney General James Uthmeier on X (11th Circuit ruling)",
+         "url": "https://x.com/AGJamesUthmeier/status/1963680670628384888",
+         "date": "2025-09"
+        },
+        {
+         "title": "Trump endorses Uthmeier for Florida attorney general (Tampa Bay Times)",
+         "url": "https://www.tampabay.com/news/florida-politics/elections/2025/10/08/uthmeier-attorney-general-race-trump-desantis-endorsement/",
+         "date": "2025-10-08"
+        },
+        {
+         "title": "Trump v. Slaughter amicus brief of Florida and 22 other states (Supreme Court docket)",
+         "url": "https://www.supremecourt.gov/DocketPDF/25/25-332/374310/20250910164544592_Slaughter%20Amicus%20Stay%20Draft%20v.Final.pdf",
+         "date": "2025-09-10"
+        }
+       ]
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Prosecuting child predators",
+       "summary": "Says continuing to go after child predators will remain his No. 1 priority if elected; cites roughly 2,000 arrests and a crackdown on social-media platforms used to exploit minors.",
+       "sources": [
+        {
+         "title": "Florida Attorney General Uthmeier talks his priorities if elected (WUSF)",
+         "url": "https://www.wusf.org/politics-issues/2026-02-28/florida-attorney-general-james-uthmeier-talks-priorities-re-elected",
+         "date": null
+        },
+        {
+         "title": "Florida AG cites 1,400 predator takedowns in year amid crackdown on social media abuse (CW34)",
+         "url": "https://cw34.com/news/local/tiktok-instagram-discord-roblox-facebook-instagram-x-twitter-florida-attorney-general-james-uthmeier-crime-cites-1400-predator-takedowns-in-year-amid-crackdown-on-social-media-abuse",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "China office and data protection",
+       "summary": "Opened an office focused on Chinese data threats; says more than a dozen companies are under investigation for devices (medical monitors, security cameras) that send personal data to China.",
+       "sources": [
+        {
+         "title": "Florida Attorney General Uthmeier talks his priorities if elected (WUSF)",
+         "url": "https://www.wusf.org/politics-issues/2026-02-28/florida-attorney-general-james-uthmeier-talks-priorities-re-elected",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Cartels, gangs and traffickers",
+       "summary": "Pledged at his swearing-in to 'fight back against the cartels, the gangs, and the traffickers' as part of an America-first agenda.",
+       "sources": [
+        {
+         "title": "James Uthmeier, DeSantis' 'bulldog,' is sworn in as Florida's attorney general (WUSF)",
+         "url": "https://www.wusf.org/politics-issues/2025-02-17/james-uthmeier-is-the-new-florida-attorney-general-he-says-he-will-lead-with-an-america-first-agenda",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Big Tech, AI chatbots and consumer protection",
+       "summary": "Launched a probe into OpenAI, proposed criminal penalties for chatbot companies that abet crimes, sued proxy advisory firms, and sued pharmacy benefit managers Prime Therapeutics and Express Scripts for alleged price fixing.",
+       "sources": [
+        {
+         "title": "Florida AG James Uthmeier launches probe into OpenAI (WUSF)",
+         "url": "https://www.wusf.org/courts-law/2026-04-09/florida-ag-james-uthmeier-launches-probe-into-openai",
+         "date": null
+        },
+        {
+         "title": "AG takes legal action against Prime Therapeutics and Express Scripts (myfloridalegal.com)",
+         "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-takes-legal-action-against-prime-therapeutics-and",
+         "date": null
+        },
+        {
+         "title": "Florida to sue 2 pharmacy benefit managers for price fixing, deception (ClickOrlando)",
+         "url": "https://www.clickorlando.com/news/politics/2026/08/27/florida-attorney-general-james-uthmeier-speaking-in-the-villages/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Office of Parental Rights",
+       "summary": "Created a litigation team to take cases parents bring on gender transition, library materials and school surveys; warned Catholic schools that refusing religious vaccine exemptions could cost voucher eligibility and claimed vouchers to Islamic schools violate state law.",
+       "sources": [
+        {
+         "title": "Attorney General's office opens parental-rights arm (Yahoo)",
+         "url": "https://www.yahoo.com/news/attorney-general-office-opens-parental-174718472.html",
+         "date": null
+        },
+        {
+         "title": "Florida AG warns Catholic schools: Honor vaccine exemptions or risk scholarships (WTXL)",
+         "url": "https://www.wtxl.com/news/capitol-news/florida-ag-threatens-catholic-school-funding-over-vaccine-exemptions",
+         "date": null
+        },
+        {
+         "title": "Local Islamic leaders hit back at Uthmeier's 'Sharia law' claim (WLRN)",
+         "url": "https://www.wlrn.org/education/2025-11-05/islamic-school-vouchers-florida-uthmeier-sharia",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Scam and fraud enforcement",
+       "summary": "Office secured court orders for more than $4 million against moving-broker scams and a judgment against MV Realty for deceptive homeowner contracts, and recovered funds from Universal Property & Casualty for the Hurricane Catastrophe Fund.",
+       "sources": [
+        {
+         "title": "Moving brokers ordered to pay more than $4M (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/727655-florida-attorney-general-james-uthmeier-moving-brokers-ordered-to-pay-more-than-4m-to-florida-customers-ripped-off-in-scams/",
+         "date": null
+        },
+        {
+         "title": "AG secures judgment against MV Realty (myfloridalegal.com)",
+         "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-secures-judgment-against-mv-realty-scamming-florida",
+         "date": null
+        },
+        {
+         "title": "AG secures return of millions from Universal Property & Casualty to the FHCF (myfloridalegal.com)",
+         "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-secures-return-millions-universal-property-casualty",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Held in civil contempt by U.S. District Judge Kathleen Williams in June 2025 for continuing to direct enforcement of a blocked state immigration law; the judge wrote he offered 'a series of implausible interpretations' of his own words.",
+       "sources": [
+        {
+         "title": "Judge finds Florida AG in contempt (AOL/AP)",
+         "url": "https://www.aol.com/news/judge-finds-florida-attorney-general-235138211.html",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "The 11th Circuit stayed Judge Williams' injunction against expansion of the Alligator Alcatraz detention site pending appeal (Sept. 2025).",
+       "sources": [
+        {
+         "title": "Gov. DeSantis, James Uthmeier hail appellate decision on Alligator Alcatraz (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/754632-alligator-alcatraz-appellate-decision/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "A Leon County grand jury found $10 million from a Medicaid settlement was 'misappropriated' via the Hope Florida Foundation to political committees; testimony identified Uthmeier's committee Keep Florida Clean as recipient of $8.5 million. The grand jury found insufficient evidence for criminal charges. Uthmeier called the probe a 'politically motivated witch hunt.'",
+       "sources": [
+        {
+         "title": "Grand jury finds DeSantis administration 'misappropriated' $10 million in taxpayer money to Hope Florida (CBS Miami)",
+         "url": "https://www.cbsnews.com/miami/news/grand-jury-report-hope-florida/",
+         "date": null
+        },
+        {
+         "title": "Grand jury finds DeSantis administration diverted $10M Medicaid settlement (The Hill)",
+         "url": "https://thehill.com/homenews/state-watch/6056407-grand-jury-desantis-hope-florida-scandal/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Florida House Democrats called for his impeachment in September 2026.",
+       "sources": [
+        {
+         "title": "Florida House Democrats want AG Uthmeier impeached. How does impeachment work? (WUSF)",
+         "url": "https://www.wusf.org/politics-issues/2026-09-03/florida-house-democrats-want-ag-uthmeier-impeached-how-does-impeachment-work",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "A federal judge in Chicago granted the American Academy of Pediatrics a preliminary injunction against Uthmeier and denied his motion to dismiss (June 2, 2026).",
+       "sources": [
+        {
+         "title": "Chicago judge sides against Florida attorney general on kids transgender medicine (Center Square)",
+         "url": "https://www.thecentersquare.com/florida/article_b8f1518f-46bc-5dd1-811f-7c9268f044ef.html",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Filed a Florida-led 23-state amicus brief supporting the president's removal power in Trump v. Slaughter; the Supreme Court sided with Trump 6-3 on June 29, 2026.",
+       "sources": [
+        {
+         "title": "Trump v. Slaughter amicus brief (Supreme Court docket)",
+         "url": "https://www.supremecourt.gov/DocketPDF/25/25-332/374310/20250910164544592_Slaughter%20Amicus%20Stay%20Draft%20v.Final.pdf",
+         "date": null
+        },
+        {
+         "title": "Trump v. Slaughter (SCOTUSblog)",
+         "url": "https://www.scotusblog.com/cases/trump-v-slaughter-2/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Rewrote the ballot summary of the property-tax Amendment 3 after a judge found the original misleading; removed 'full elimination' language.",
+       "sources": [
+        {
+         "title": "Uthmeier rewrites ballot summary of property tax cut amendment (WGCU)",
+         "url": "https://www.wgcu.org/government-politics/2026-08-14/uthmeier-rewrites-property-tax-cut-ballot-summary-amendment-3",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Declared open carry 'the law of the state' after the 1st DCA's Sept. 10, 2025 ruling and directed law enforcement not to arrest people openly carrying; gun-safety groups criticized him for not defending the ban.",
+       "sources": [
+        {
+         "title": "What You Need to Know About Florida Attorney General Uthmeier's Failure to Uphold the State's Open Carry Ban (Everytown)",
+         "url": "https://www.everytown.org/press/what-you-need-to-know-about-florida-attorney-general-uthmeiers-failure-to-uphold-the-states-lifesaving-open-carry-ban/",
+         "date": null
+        },
+        {
+         "title": "Florida Attorney General James Uthmeier is defending gun rights (Second Amendment Foundation)",
+         "url": "https://saf.org/?p=47204",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Campaign finance: his political committee Friends of James Uthmeier had raised $9.9 million as of April 2026; his campaign account raised $1.8 million from 1,320 donors including law-enforcement, insurance, real estate and business PACs.",
+       "sources": [
+        {
+         "title": "Uthmeier grows his fundraising lead in Florida attorney general race (Tampa Bay Times)",
+         "url": "https://www.tampabay.com/news/florida-politics/elections/2026/04/14/attorney-general-uthmeier-javier-rodriguez-campaign-finance/",
+         "date": null
+        },
+        {
+         "title": "Florida Attorney General Candidates 2026 General (Sparker's Soapbox)",
+         "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "endorsements": [
+      {
+       "by": "President Donald Trump",
+       "sources": [
+        {
+         "title": "Trump is backing James Uthmeier for Florida attorney general in 2026 (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2025/10/08/trump-is-backing-james-uthmeier-for-florida-attorney-general-in-2026/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "by": "Republican Party of Florida (unanimous)",
+       "sources": [
+        {
+         "title": "Trump endorses Uthmeier for Florida attorney general (Tampa Bay Times)",
+         "url": "https://www.tampabay.com/news/florida-politics/elections/2025/10/08/uthmeier-attorney-general-race-trump-desantis-endorsement/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "by": "Florida Sheriffs Association (more than 90% of the 67 sheriffs)",
+       "sources": [
+        {
+         "title": "Florida Sheriffs Association backs James Uthmeier for Attorney General (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/810185-he-has-stepped-up-to-the-plate-florida-sheriffs-association-backs-james-uthmeier-for-attorney-general/",
+         "date": null
+        },
+        {
+         "title": "Florida Sheriffs Association endorses AG James Uthmeier for full term (Florida's Voice)",
+         "url": "https://flvoicenews.com/florida-sheriffs-association-endorses-ag-james-uthmeier-for-full-term/",
+         "date": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "jose_javier_rodriguez",
+     "name": "José Javier Rodríguez",
+     "party": "Democratic",
+     "incumbent": false,
+     "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Javier%20Rodr%C3%ADguez.jpg",
+     "photo_source": "Wikimedia Commons (file name unverified; official portrait also on flsenate.gov archives)",
+     "website": "https://www.jjr.vote",
+     "occupation": "Attorney; former U.S. Assistant Secretary of Labor",
+     "residence": "Miami, Miami-Dade County",
+     "background": "Rodríguez is an attorney from Miami who served in the Florida House and then the Florida Senate before losing his Senate seat in 2020. He served in the Biden administration as U.S. Assistant Secretary of Labor. He launched his campaign for attorney general on June 2, 2025, saying he wants to be 'the people's lawyer,' and is the Democratic nominee facing incumbent James Uthmeier.",
+     "primary_result": "No Democratic primary was held; news reports say Rodríguez was the only qualified Democrat and advanced directly to the general election (Florida Tribune/floridatrib.org; NBC News results page). Note: an earlier Ballotpedia listing named Jim Lewis as a possible primary candidate; this could not be reconciled because Ballotpedia is blocked in this sandbox.",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "As a state senator voted against SB 168 (2019), which banned 'sanctuary' policies and required local cooperation with federal immigration detainers.",
+       "sources": [
+        {
+         "title": "SB 168 (2019) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/168",
+         "date": "2019-05"
+        }
+       ]
+      },
+      "abortion": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Supports abortion access and has said he would not use the Attorney General's office to defend the six-week ban beyond what the law requires; opposed the 2022 and 2023 bans.",
+       "sources": [
+        {
+         "title": "José Javier Rodríguez campaign site",
+         "url": "https://www.jjr.vote",
+         "date": null
+        },
+        {
+         "title": "José Javier Rodríguez - Wikipedia (positions, with citations)",
+         "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Javier_Rodr%C3%ADguez",
+         "date": null
+        }
+       ]
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "As a state senator repeatedly filed and supported bills to expand Medicaid under the Affordable Care Act.",
+       "sources": [
+        {
+         "title": "José Javier Rodríguez - Wikipedia (legislative record, with citations)",
+         "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Javier_Rodr%C3%ADguez",
+         "date": null
+        }
+       ]
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "As a state senator sponsored sea-level-rise and climate-planning legislation and campaigned on climate resilience.",
+       "sources": [
+        {
+         "title": "José Javier Rodríguez - Wikipedia (legislative record, with citations)",
+         "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Javier_Rodr%C3%ADguez",
+         "date": null
+        }
+       ]
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 7066 (2019), which required people with felony convictions to pay all fines and fees before regaining the right to vote under Amendment 4.",
+       "sources": [
+        {
+         "title": "SB 7066 (2019) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/7066",
+         "date": "2019-05"
+        }
+       ]
+      },
+      "crime": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Rodríguez frames public safety as one of his three priorities ('crime, costs and corruption'), saying he would support law enforcement, take on the fentanyl crisis, crack down on scammers and protect minors and vulnerable Floridians. He has not been found to address the trade-off between tougher penalties and rehabilitation directly.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Florida Attorney General candidate José Javier Rodríguez talks priorities (WUSF)",
+         "url": "https://www.wusf.org/politics-issues/2026-03-31/florida-matters-florida-attorney-general-candidate-jose-javier-rodriguez-talks-priorities",
+         "date": "2026-03-31"
+        },
+        {
+         "title": "Priorities | Jose Javier Rodriguez for Florida Attorney General",
+         "url": "https://www.jjr.vote/priorities",
+         "date": null
+        }
+       ]
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Served in the Biden administration as an Assistant Secretary of Labor and campaigns against the current administration's policies, including on immigration enforcement.",
+       "sources": [
+        {
+         "title": "José Javier Rodríguez campaign site",
+         "url": "https://www.jjr.vote",
+         "date": null
+        }
+       ]
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "'The people's lawyer' - crime, costs and corruption",
+       "summary": "Says he would refocus the attorney general's office on public safety, lowering costs for Floridians and fighting corruption, and 'root out' what he calls corrupt deal makers in Tallahassee.",
+       "sources": [
+        {
+         "title": "José Javier Rodríguez says he's running for attorney general to become 'the people's lawyer' (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2025/06/02/jose-javier-rodriguez-says-hes-running-for-attorney-general-to-become-the-peoples-lawyer/",
+         "date": null
+        },
+        {
+         "title": "José Javier Rodríguez launches bid for Attorney General, vows to 'root out corruption' (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/740877-jose-javier-rodriguez-launches-bid-for-attorney-general-vows-to-root-out-corruption/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Standing up to big business for consumers",
+       "summary": "Says he will use the office to stand up for consumers against big business and 'fight for the little guy.'",
+       "sources": [
+        {
+         "title": "Jose Javier Rodriguez, running for AG, leans on big-business criticism (Yahoo/Tampa Bay Times)",
+         "url": "https://www.yahoo.com/news/politics/articles/jose-javier-rodriguez-running-ag-100000823.html",
+         "date": null
+        },
+        {
+         "title": "José Javier Rodríguez on 'fighting for the little guy' and more (WUWF)",
+         "url": "https://www.wuwf.org/florida-news/2026-03-31/florida-attorney-general-candidate-jose-javier-rodriguez-on-fighting-for-the-little-guy-and-more",
+         "date": null
+        }
+       ]
+      },
+      {
+       "title": "Fentanyl, scams and protecting minors",
+       "summary": "Lists taking on the fentanyl crisis, cracking down on scammers and protecting minors and 'Florida's most vulnerable' among his priorities.",
+       "sources": [
+        {
+         "title": "Priorities | Jose Javier Rodriguez for Florida Attorney General",
+         "url": "https://www.jjr.vote/priorities",
+         "date": null
+        },
+        {
+         "title": "José Javier Rodríguez visits Miami Shores (Miami-Dade Democratic Party)",
+         "url": "https://www.miamidadedems.org/jose-javier-rodriguez-candidate-attorney-general",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Served in the Florida House and Florida Senate (Miami) and as U.S. Assistant Secretary of Labor in the Biden administration.",
+       "sources": [
+        {
+         "title": "2026 Voter's Guide: Florida Attorney General (News4Jax)",
+         "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-attorney-general/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Campaign finance: raised $1.1 million from 1,823 donors as of April 2026 and passed a $2 million milestone by late summer 2026, trailing Uthmeier substantially.",
+       "sources": [
+        {
+         "title": "Uthmeier grows his fundraising lead in Florida attorney general race (Tampa Bay Times)",
+         "url": "https://www.tampabay.com/news/florida-politics/elections/2026/04/14/attorney-general-uthmeier-javier-rodriguez-campaign-finance/",
+         "date": null
+        },
+        {
+         "title": "José Javier Rodríguez hits $2M fundraising milestone (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/816847-jose-javier-rodriguez-hits-2m-fundraising-milestone-in-bid-for-attorney-general/",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "endorsements": [
+      {
+       "by": "A major labor union (name not captured in available search snippet; see source)",
+       "sources": [
+        {
+         "title": "José Javier Rodríguez adds major union endorsement to Attorney General campaign (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/797285-jose-javier-rodriguez-adds-major-union-endorsement-to-attorney-general-campaign/",
+         "date": null
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cfo",
+   "order": 5,
+   "title": "Chief Financial Officer",
+   "level": "state",
+   "office_group": "State",
+   "term": "4 years",
+   "what_it_does": "Runs the Department of Financial Services: the state treasury, insurance regulation and consumer services, the state fire marshal, unclaimed property, and audits of state spending. A member of the Cabinet.",
+   "verified_ballot_note": "Primary results (News4Jax, FOX49, Florida Phoenix, WUWF) show Republican Blaise Ingoglia and Democrat Annette Taddeo as the Nov. 3 general-election nominees; no NPA or write-in candidates appeared in any source, but the Florida Division of Elections candidate list and Ballotpedia were blocked in this sandbox, so that is unverified.",
+   "verified_ballot_sources": [
+    {
+     "title": "news4jax.com",
+     "url": "https://www.news4jax.com/vote-2026/2026/08/17/vote-2026-primary-election-results-for-floridas-chief-financial-officer-agriculture-commissioner-on-aug-18-2026/"
+    },
+    {
+     "title": "fox49.tv",
+     "url": "https://fox49.tv/news/local/blaise-ingoglia-annette-taddeo-win-florida-chief-financial-officer-primaries"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "blaise_ingoglia",
+     "name": "Blaise Ingoglia",
+     "party": "Republican",
+     "incumbent": true,
+     "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blaise%20Ingoglia.jpg",
+     "photo_source": "Wikimedia Commons (file name unverified; official portrait also on myfloridacfo.com and flsenate.gov)",
+     "website": null,
+     "occupation": "Florida Chief Financial Officer (appointed); homebuilder",
+     "residence": "Spring Hill, Hernando County",
+     "background": "Ingoglia is a Hernando County homebuilder who served in the Florida House and then the Florida Senate and previously chaired the Republican Party of Florida. Gov. Ron DeSantis appointed him Chief Financial Officer on July 16, 2025, after Jimmy Patronis resigned March 31, 2025, to run for Congress; he took office July 21, 2025. Since taking office his most visible initiative has been leading Florida DOGE audit teams reviewing city and county spending. He won the Aug. 18, 2026 Republican primary with about 61% over Frank Collige.",
+     "primary_result": "Won Aug. 18, 2026 Republican primary with 61% (968,222 votes) over Frank William Collige, 39% (610,860) (News4Jax results; FOX49).",
+     "positions": {
+      "taxes": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Argues local governments should cut spending rather than raise revenue and has pushed for property-tax reductions statewide.",
+       "sources": [
+        {
+         "title": "Florida Department of Financial Services - CFO press releases",
+         "url": "https://www.myfloridacfo.com/",
+         "date": null
+        }
+       ]
+      },
+      "property_tax": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "As CFO has toured the state promoting elimination of homestead property taxes and has published 'Florida DOGE' audits asserting that local governments overspent; supports Amendment 3 on the 2026 ballot.",
+       "sources": [
+        {
+         "title": "Florida Department of Financial Services - CFO press releases",
+         "url": "https://www.myfloridacfo.com/",
+         "date": null
+        },
+        {
+         "title": "Blaise Ingoglia - Wikipedia (with citations)",
+         "url": "https://en.wikipedia.org/wiki/Blaise_Ingoglia",
+         "date": null
+        }
+       ]
+      },
+      "insurance": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "As a state senator voted for HB 837 (2023), the tort-reform law backed by insurers, and supports the 2022-2023 market-based insurance reforms; as CFO points to new insurers entering the market as evidence the reforms are working.",
+       "sources": [
+        {
+         "title": "HB 837 (2023) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/837",
+         "date": "2023-03"
+        }
+       ]
+      },
+      "housing": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Live Local Act (SB 102, 2023), which funded affordable-housing programs and preempted some local zoning limits for affordable projects.",
+       "sources": [
+        {
+         "title": "SB 102 (2023) Live Local Act",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03"
+        }
+       ]
+      },
+      "immigration": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 1718 (2023), which expanded state immigration-enforcement penalties and employer verification requirements.",
+       "sources": [
+        {
+         "title": "SB 1718 (2023) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1718",
+         "date": "2023-05"
+        }
+       ]
+      },
+      "abortion": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 5 (2022, 15-week ban) in the House and SB 300 (2023, six-week ban) in the Senate.",
+       "sources": [
+        {
+         "title": "HB 5 (2022)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5",
+         "date": "2022-03"
+        },
+        {
+         "title": "SB 300 (2023)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        }
+       ]
+      },
+      "guns": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), which allows carrying a concealed weapon without a permit.",
+       "sources": [
+        {
+         "title": "HB 543 (2023) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        }
+       ]
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 7045 (2021) and HB 1 (2023), which expanded and then universalized Florida's school-voucher scholarships.",
+       "sources": [
+        {
+         "title": "HB 7045 (2021)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/7045",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2023)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        }
+       ]
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 90 (2021) and SB 7050 (2023), which tightened vote-by-mail and drop-box rules and third-party registration requirements.",
+       "sources": [
+        {
+         "title": "SB 90 (2021)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90",
+         "date": "2021-04"
+        },
+        {
+         "title": "SB 7050 (2023)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        }
+       ]
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1557 (2022) and SB 254 (2023).",
+       "sources": [
+        {
+         "title": "HB 1557 (2022)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557",
+         "date": "2022-03"
+        },
+        {
+         "title": "SB 254 (2023)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05"
+        }
+       ]
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Former Republican Party of Florida chair who campaigns as an ally of President Trump and Gov. DeSantis.",
+       "sources": [
+        {
+         "title": "Blaise Ingoglia - Wikipedia (with citations)",
+         "url": "https://en.wikipedia.org/wiki/Blaise_Ingoglia",
+         "date": null
+        }
+       ]
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Florida DOGE audits of local governments",
+       "summary": "Leads teams of state auditors examining spending by city and county governments across Florida; this has been his signature initiative since his appointment.",
+       "sources": [
+        {
+         "title": "2026 Florida Chief Financial Officer election (Wikipedia)",
+         "url": "https://en.wikipedia.org/wiki/2026_Florida_Chief_Financial_Officer_election",
+         "date": null
+        },
+        {
+         "title": "Annette Taddeo wins Florida Democratic primary for CFO, will face Ingoglia (ECIKS)",
+         "url": "https://eciks.org/21746-taddeo-wins-florida-cfo-primary",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Appointed CFO by Gov. DeSantis on July 16, 2025 (sworn in July 21, 2025) to fill the vacancy left by Jimmy Patronis.",
+       "sources": [
+        {
+         "title": "Florida Chief Financial Officer election, 2026 (Ballotpedia)",
+         "url": "https://ballotpedia.org/Florida_Chief_Financial_Officer_election,_2026",
+         "date": null
+        },
+        {
+         "title": "2026 Florida Chief Financial Officer election (Wikipedia)",
+         "url": "https://en.wikipedia.org/wiki/2026_Florida_Chief_Financial_Officer_election",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Previously served as a state senator and state representative and as chairman of the Republican Party of Florida.",
+       "sources": [
+        {
+         "title": "Blaise Ingoglia (Wikipedia)",
+         "url": "https://en.wikipedia.org/wiki/Blaise_Ingoglia",
+         "date": null
+        },
+        {
+         "title": "Blaise Ingoglia announces his candidacy for Chief Financial Officer in 2026 (Yahoo)",
+         "url": "https://www.yahoo.com/news/articles/blaise-ingoglia-announces-candidacy-chief-125129695.html",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "endorsements": []
+    },
+    {
+     "id": "annette_taddeo",
+     "name": "Annette Taddeo",
+     "party": "Democratic",
+     "incumbent": false,
+     "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Annette%20Taddeo.jpg",
+     "photo_source": "Wikimedia Commons (file name unverified)",
+     "website": null,
+     "occupation": "Businesswoman; former state senator",
+     "residence": "Miami, Miami-Dade County",
+     "background": "Taddeo, 59, of Miami, is a former Florida state senator. She announced her campaign for Chief Financial Officer in June 2026 and has made government accountability the central theme, criticizing Ingoglia's audits of local governments and saying the CFO should be a 'watchdog,' not a 'lapdog.' She won the Aug. 18, 2026 Democratic primary with about 66% over Earle Ford.",
+     "primary_result": "Won Aug. 18, 2026 Democratic primary with 66% (796,723 votes) over Earle Ford, 34% (416,990) (News4Jax results; FOX49).",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Has criticized the insurance industry's rate increases and the CFO's oversight of insurers; campaigns on making the office a consumer 'watchdog'.",
+       "sources": [
+        {
+         "title": "Annette Taddeo - Wikipedia (with citations)",
+         "url": "https://en.wikipedia.org/wiki/Annette_Taddeo",
+         "date": null
+        }
+       ]
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 168 (2019), the 'sanctuary city' ban requiring local cooperation with federal immigration detainers.",
+       "sources": [
+        {
+         "title": "SB 168 (2019) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/168",
+         "date": "2019-05"
+        }
+       ]
+      },
+      "abortion": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "As a state senator voted against HB 5 (2022), the 15-week abortion ban, and supports restoring abortion access.",
+       "sources": [
+        {
+         "title": "HB 5 (2022) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5",
+         "date": "2022-03"
+        }
+       ]
+      },
+      "guns": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Supported the 2018 Marjory Stoneman Douglas High School Public Safety Act (red-flag law and age-21 rule) and has called for a ban on assault-style weapons.",
+       "sources": [
+        {
+         "title": "SB 7026 (2018) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2018/7026",
+         "date": "2018-03"
+        },
+        {
+         "title": "Annette Taddeo - Wikipedia (positions, with citations)",
+         "url": "https://en.wikipedia.org/wiki/Annette_Taddeo",
+         "date": null
+        }
+       ]
+      },
+      "healthcare": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Long-time supporter of expanding Medicaid in Florida.",
+       "sources": [
+        {
+         "title": "Annette Taddeo - Wikipedia (positions, with citations)",
+         "url": "https://en.wikipedia.org/wiki/Annette_Taddeo",
+         "date": null
+        }
+       ]
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 7045 (2021), which expanded voucher eligibility.",
+       "sources": [
+        {
+         "title": "HB 7045 (2021) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/7045",
+         "date": "2021-04"
+        }
+       ]
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 90 (2021), which restricted drop boxes and vote-by-mail request periods.",
+       "sources": [
+        {
+         "title": "SB 90 (2021) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90",
+         "date": "2021-04"
+        }
+       ]
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1557 (2022), the Parental Rights in Education law.",
+       "sources": [
+        {
+         "title": "HB 1557 (2022) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557",
+         "date": "2022-03"
+        }
+       ]
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Democratic former state senator who campaigns against the current administration's direction.",
+       "sources": [
+        {
+         "title": "Annette Taddeo - Wikipedia (with citations)",
+         "url": "https://en.wikipedia.org/wiki/Annette_Taddeo",
+         "date": null
+        }
+       ]
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Government accountability / 'watchdog, not a lapdog'",
+       "summary": "Says the CFO should act as an independent watchdog over state finances and has criticized Ingoglia's high-profile audits of local governments.",
+       "sources": [
+        {
+         "title": "A 'watchdog,' not a 'lapdog': Annette Taddeo is running to unseat Blaise Ingoglia as CFO (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/800648-a-watchdog-not-a-lapdog-annette-taddeo-is-running-to-unseat-blaise-ingoglia-as-cfo/",
+         "date": null
+        },
+        {
+         "title": "Annette Taddeo (Wikipedia)",
+         "url": "https://en.wikipedia.org/wiki/Annette_Taddeo",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Served in the Florida Senate representing a Miami-Dade district before running statewide.",
+       "sources": [
+        {
+         "title": "Democrats Annette Taddeo and Earle Ford compete to face CFO Blaise Ingoglia in November (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2026/07/24/democrats-annette-taddeo-and-earle-ford-compete-to-face-cfo-blaise-ingoglia-in-november/",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "endorsements": []
+    }
+   ]
+  },
+  {
+   "id": "agriculture_commissioner",
+   "order": 6,
+   "title": "Commissioner of Agriculture",
+   "level": "state",
+   "office_group": "State",
+   "term": "4 years",
+   "what_it_does": "Runs the Department of Agriculture and Consumer Services: food safety, farm policy, state forests, consumer complaints, and concealed-weapon licensing. A member of the Cabinet.",
+   "verified_ballot_note": "Primary results (Florida Politics, WUWF, WFLA, Florida Tribune) show Republican incumbent Wilton Simpson and Democrat Joey Mendoza Atkins as the Nov. 3 general-election nominees; no NPA or write-in candidates appeared in any source, but the Florida Division of Elections candidate list (floridaelectionwatch.gov / dos.elections.myflorida.com) and Ballotpedia were blocked in this sandbox, so that is unverified.",
+   "verified_ballot_sources": [
+    {
+     "title": "floridapolitics.com",
+     "url": "https://floridapolitics.com/archives/814743-wilton-simpson-runs-away-with-gop-nomination-for-agriculture-commissioner-democrat-joey-mendoza-atkins-advances-to-general-election/"
+    },
+    {
+     "title": "wfla.com",
+     "url": "https://www.wfla.com/election/4-candidates-battle-for-agriculture-commissioner-nomination/"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "wilton_simpson",
+     "name": "Wilton Simpson",
+     "party": "Republican",
+     "incumbent": true,
+     "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wilton%20Simpson.jpg",
+     "photo_source": "Wikimedia Commons (file name unverified; official portrait on fdacs.gov)",
+     "website": null,
+     "occupation": "Florida Commissioner of Agriculture and Consumer Services; farmer/businessman",
+     "residence": "Trilby, Pasco County (unverified)",
+     "background": "Simpson is the incumbent Commissioner of Agriculture, first elected in 2022, and a former president of the Florida Senate. He is seeking a second term and won the Aug. 18, 2026 Republican primary with roughly 69-70% over Plant City welder and social-media personality Matt 'The Welder' Taylor. His campaign and affiliated committees raised more than $4.8 million in 2026, much of it from farmers and ranchers.",
+     "primary_result": "Won Aug. 18, 2026 Republican primary with about 69% (reports range 68.9%-70.3%) over Matt The Welder (Matthew Taylor), about 31% (Florida Politics; WUWF; ECIKS).",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 168 (2019), the 'sanctuary city' ban.",
+       "sources": [
+        {
+         "title": "SB 168 (2019) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2019/168",
+         "date": "2019-05"
+        }
+       ]
+      },
+      "abortion": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "As Senate President voted for HB 5 (2022), the 15-week abortion ban.",
+       "sources": [
+        {
+         "title": "HB 5 (2022) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5",
+         "date": "2022-03"
+        }
+       ]
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 7045 (2021), which expanded voucher eligibility.",
+       "sources": [
+        {
+         "title": "HB 7045 (2021) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/7045",
+         "date": "2021-04"
+        }
+       ]
+      },
+      "environment": {
+       "stance": 0,
+       "confidence": "record",
+       "summary": "Mixed record: as Senate President he championed the Florida Wildlife Corridor Act (2021) and expanded the Rural and Family Lands Protection Program, but also passed SB 2508 (2022), a water-policy bill criticized by environmental groups and partly vetoed by the governor.",
+       "sources": [
+        {
+         "title": "SB 976 (2021) Florida Wildlife Corridor",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/976",
+         "date": "2021-06"
+        },
+        {
+         "title": "SB 2508 (2022)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/2508",
+         "date": "2022-03"
+        }
+       ]
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Publicly opposed the 2024 Amendment 3 to legalize adult-use marijuana; his department regulates hemp products.",
+       "sources": [
+        {
+         "title": "Wilton Simpson - Wikipedia (with citations)",
+         "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
+         "date": null
+        }
+       ]
+      },
+      "elections": {
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 90 (2021), which restricted drop boxes and vote-by-mail request periods.",
+       "sources": [
+        {
+         "title": "SB 90 (2021) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90",
+         "date": "2021-04"
+        }
+       ]
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1557 (2022), the Parental Rights in Education law, while Senate President.",
+       "sources": [
+        {
+         "title": "HB 1557 (2022) - Florida Senate bill page with vote history",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557",
+         "date": "2022-03"
+        }
+       ]
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Endorsed by President Trump in both 2022 and 2026 and campaigns as an ally of the administration.",
+       "sources": [
+        {
+         "title": "Wilton Simpson - Wikipedia (with citations)",
+         "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
+         "date": null
+        }
+       ]
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [],
+     "record": [
+      {
+       "item": "Elected Commissioner of Agriculture in 2022 after serving as Florida Senate President.",
+       "sources": [
+        {
+         "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
+         "date": null
+        },
+        {
+         "title": "Wilton Simpson (Wikipedia)",
+         "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Campaign finance: Simpson and affiliated political committees raised more than $4.8 million in 2026, versus $1,685 raised plus $8,480 loaned by Democratic nominee Joey Atkins.",
+       "sources": [
+        {
+         "title": "Florida's primary races for commissioner of agriculture (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2026/08/07/floridas-primary-races-for-commissioner-of-agriculture/",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "endorsements": [
+      {
+       "by": "President Donald Trump",
+       "sources": [
+        {
+         "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
+         "date": null
+        }
+       ]
+      },
+      {
+       "by": "Gov. Ron DeSantis",
+       "sources": [
+        {
+         "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
+         "date": null
+        }
+       ]
+      },
+      {
+       "by": "U.S. Sens. Ashley Moody and Rick Scott (both Florida senators)",
+       "sources": [
+        {
+         "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
+         "date": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "joey_atkins",
+     "name": "Joey Mendoza Atkins",
+     "party": "Democratic",
+     "incumbent": false,
+     "photo_url": null,
+     "photo_source": "No public portrait URL located",
+     "website": null,
+     "occupation": "Attorney and sports agent",
+     "residence": "Florida (city/county not found)",
+     "background": "Atkins is a trial attorney and sports agent who has provided legal aid to migrant farmworkers. He won the Aug. 18, 2026 Democratic primary with about 60% over Donald 'Don' Prichard. His campaign reported raising $1,685 and loaning itself $8,480 as of early August 2026.",
+     "primary_result": "Won Aug. 18, 2026 Democratic primary with 60.3% over Donald A. 'Don' Prichard, 39.7% (Florida Politics; WUWF).",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Legal aid for migrant farmworkers",
+       "summary": "His campaign biography emphasizes his work providing legal aid to migrant farmworkers; no detailed platform was located in accessible sources.",
+       "sources": [
+        {
+         "title": "Florida's primary races for commissioner of agriculture (Florida Phoenix)",
+         "url": "https://floridaphoenix.com/2026/08/07/floridas-primary-races-for-commissioner-of-agriculture/",
+         "date": null
+        },
+        {
+         "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
+         "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "record": [],
+     "endorsements": []
+    }
+   ]
+  },
+  {
+   "id": "state_house_52",
+   "order": 7,
+   "title": "Florida House, District 52",
+   "level": "state",
+   "office_group": "State",
+   "term": "2 years",
+   "what_it_does": "Represents District 52, which covers all of Sumter County and part of Hernando County, in the Florida House of Representatives. Votes on state laws and the state budget.",
+   "verified_ballot_note": "Ballotpedia's District 52 page lists Samantha Scott (R) and Pamala Bivins (D) as the candidates for the Nov. 3, 2026 general election after the Aug. 18, 2026 primaries . Whether any write-in or NPA candidate also qualified could NOT be verified: the Sumter County Supervisor of Elections notice of general election  and Ballotpedia were blocked in this sandbox. Research limitation: in this sandbox every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was exhausted, so positions are coded only from search-result snippets. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
+   "verified_ballot_sources": [
+    {
+     "title": "ballotpedia.org",
+     "url": "https://ballotpedia.org/Florida_House_of_Representatives_District_52"
+    },
+    {
+     "title": "elections.sumtercountyfl.gov",
+     "url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "samantha_scott",
+     "name": "Samantha Scott",
+     "party": "Republican",
+     "incumbent": true,
+     "photo_url": null,
+     "photo_source": "Florida House of Representatives member page (MemberId=5070); portrait image URL on that page not verified because the site was blocked in this sandbox",
+     "website": "https://samanthascott.org/",
+     "occupation": "State Representative; businesswoman (co-owner of a Central Florida plumbing company; real estate)",
+     "residence": "Bushnell, Sumter County",
+     "background": "Scott is a lifelong Sumter County resident from Bushnell who, with her husband Shawn, built a plumbing company that employs more than 200 people across Central Florida; she also worked in real estate and earlier served as the youngest executive director of the Sumter County Chamber of Commerce. She chaired the Republican Party of Sumter County, was appointed by Gov. Ron DeSantis to the Lake-Sumter State College District Board of Trustees, was named Sumter County Chamber Business Woman of the Year, and was a Florida delegate to the 2024 Republican National Convention. She entered the 2025-26 special election to succeed former Rep. John Temple; after Democrat Pamala Bivins withdrew and no one else qualified, the March 24, 2026 special election was cancelled and Scott was elected without opposition, assuming office March 25, 2026 (she was sworn in during a special session and at a local ceremony in the Sumter County Courthouse on April 10). She filed for the Aug. 18, 2026 Republican primary for a full term; Ballotpedia lists her and Bivins as the general-election candidates.",
+     "primary_result": "Filed for the Aug. 18, 2026 Republican primary; no Republican primary opponent found in search results (Ballotpedia lists her as the Republican candidate advancing to the Nov. 3 general). Not independently verified against the county sample ballot.",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "In April 2026 Scott wrote a letter raising concerns that a proposed direct-injection well at the Heart of Florida Landfill near Lake Panasoffkee could endanger the Floridan aquifer, the area's main drinking-water source. This is a single, project-specific statement; no broader statement on conservation land or climate resilience was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "State representative pens letter detailing fears of threat to local drinking water - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/04/19/state-representative-pens-letter-detailing-fears-of-threat-to-local-drinking-water/",
+         "date": "2026-04-19"
+        }
+       ]
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Heart of Florida Landfill injection well / aquifer protection",
+       "summary": "Wrote a letter opposing or questioning a proposed direct-injection well at the Heart of Florida Landfill near Lake Panasoffkee, citing risk to the aquifer that supplies local drinking water.",
+       "sources": [
+        {
+         "title": "State representative pens letter detailing fears of threat to local drinking water - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/04/19/state-representative-pens-letter-detailing-fears-of-threat-to-local-drinking-water/",
+         "date": "2026-04-19"
+        }
+       ]
+      },
+      {
+       "title": "Business climate / job creation",
+       "summary": "Campaign materials emphasize her record as a business owner and job creator (plumbing company with 200+ employees) and 'conservative principles'; her campaign describes 'fighting for local families and defending constitutional freedoms.' Specific policy proposals were not retrievable.",
+       "sources": [
+        {
+         "title": "Elect Samantha Scott for State Representative District 52 (campaign site)",
+         "url": "https://samanthascott.org/",
+         "date": null
+        },
+        {
+         "title": "Samantha Scott lands trove of endorsements in HD 52 Special Election - Florida Politics",
+         "url": "https://floridapolitics.com/archives/764404-samantha-scott-lands-trove-of-endorsements-in-hd-52-special-election/",
+         "date": "2025-11"
+        }
+       ]
+      },
+      {
+       "title": "Higher education / Lake-Sumter State College",
+       "summary": "Serves as a DeSantis-appointed trustee of Lake-Sumter State College; the college publicly congratulated her on her swearing-in.",
+       "sources": [
+        {
+         "title": "Lake-Sumter State College on X: Rep. Samantha Scott (LSSC Trustee) sworn in",
+         "url": "https://x.com/LSSCedu/status/2042638854604120146",
+         "date": "2026-04"
+        },
+        {
+         "title": "Samantha Scott lands trove of endorsements in HD 52 Special Election - Florida Politics",
+         "url": "https://floridapolitics.com/archives/764404-samantha-scott-lands-trove-of-endorsements-in-hd-52-special-election/",
+         "date": "2025-11"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Elected to HD 52 without opposition after the only other candidate withdrew before the Nov. 18, 2025 special-election qualifying deadline; the March 24, 2026 special election was cancelled.",
+       "sources": [
+        {
+         "title": "After lone opponent withdraws, Samantha Scott a shoo-in for HD 52 - Florida Politics",
+         "url": "https://floridapolitics.com/archives/766163-after-lone-opponent-withdraws-samantha-scott-a-shoo-in-for-hd-52/",
+         "date": "2025-11"
+        },
+        {
+         "title": "Samantha Scott Elected Unopposed to Florida House District 52 After Qualifying Deadline Passes - The Capitolist",
+         "url": "https://thecapitolist.com/samantha-scott-elected-unopposed-to-florida-house-district-52-after-qualifying-deadline-passes/",
+         "date": "2025-11"
+        },
+        {
+         "title": "Samantha Scott - Ballotpedia",
+         "url": "https://ballotpedia.org/Samantha_Scott",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Sworn into the Florida House during the 2026 special session (with Emily Gregory and Hilary Holley); assumed office March 25, 2026; local swearing-in ceremony April 10, 2026 at the Sumter County Courthouse.",
+       "sources": [
+        {
+         "title": "Emily Gregory, Hilary Holley, Samantha Scott sworn into House seats during Special Session - Florida Politics",
+         "url": "https://floridapolitics.com/archives/793429-emily-gregory-hilary-holley-samantha-scott-sworn-into-house-seats-during-special-session/",
+         "date": "2026-03"
+        },
+        {
+         "title": "Scott sworn in for District 52 - Sumter Sun Times",
+         "url": "https://www.midfloridanewspapers.com/sumter_sun_times/scott-sworn-in-for-district-52/article_66a55275-0036-4f45-97e6-af1d53985823.html",
+         "date": "2026-04"
+        },
+        {
+         "title": "Samantha Scott (politician) - Wikipedia",
+         "url": "https://en.wikipedia.org/wiki/Samantha_Scott_(politician)",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Wrote an April 2026 letter detailing concerns about a proposed injection well at the Heart of Florida Landfill and its potential threat to local drinking water.",
+       "sources": [
+        {
+         "title": "State representative pens letter detailing fears of threat to local drinking water - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/04/19/state-representative-pens-letter-detailing-fears-of-threat-to-local-drinking-water/",
+         "date": "2026-04-19"
+        }
+       ]
+      },
+      {
+       "item": "2026 session bill sponsorships and roll-call votes could not be retrieved (flhouse.gov and vote-tracking sites were blocked); see the flhouse.gov member page for her sponsored bills and votes.",
+       "sources": [
+        {
+         "title": "Samantha Scott - Florida House of Representatives member page",
+         "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=5070",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "endorsements": [
+      {
+       "by": "U.S. Rep. Daniel Webster",
+       "sources": [
+        {
+         "title": "Samantha Scott lands trove of endorsements in HD 52 Special Election - Florida Politics",
+         "url": "https://floridapolitics.com/archives/764404-samantha-scott-lands-trove-of-endorsements-in-hd-52-special-election/",
+         "date": "2025-11"
+        }
+       ]
+      },
+      {
+       "by": "Florida CFO Blaise Ingoglia",
+       "sources": [
+        {
+         "title": "Samantha Scott lands trove of endorsements in HD 52 Special Election - Florida Politics",
+         "url": "https://floridapolitics.com/archives/764404-samantha-scott-lands-trove-of-endorsements-in-hd-52-special-election/",
+         "date": "2025-11"
+        }
+       ]
+      },
+      {
+       "by": "Florida House Republican Campaign Committee (FHRCC)",
+       "sources": [
+        {
+         "title": "House Republicans back Samantha Scott in HD 52 Special Election - Florida Politics",
+         "url": "https://floridapolitics.com/archives/764561-house-republicans-back-samantha-scott-in-hd-52-special-election/",
+         "date": "2025-11"
+        }
+       ]
+      },
+      {
+       "by": "Associated Industries of Florida (AIF)",
+       "sources": [
+        {
+         "title": "'The perspective we need': AIF backs Samantha Scott in HD 52 - Florida Politics",
+         "url": "https://floridapolitics.com/archives/758087-the-perspective-we-need-aif-backs-samantha-scott-in-hd-52/",
+         "date": "2025-10"
+        }
+       ]
+      },
+      {
+       "by": "Republican Party of Florida (congratulated her win; she chaired the Sumter County GOP)",
+       "sources": [
+        {
+         "title": "Florida GOP Congratulates Samantha Scott After Securing HD 52 Win - The Floridian",
+         "url": "https://floridianpress.com/2025/11/florida-gop-congratulates-samantha-scott-after-securing-hd-52-win/",
+         "date": "2025-11"
+        }
+       ]
+      }
+     ],
+     "links": [
+      {
+       "title": "Official page / photo source",
+       "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=5070"
+      }
+     ]
+    },
+    {
+     "id": "pamala_bivins",
+     "name": "Pamala Kaye Bivins",
+     "party": "Democratic",
+     "incumbent": false,
+     "photo_url": null,
+     "photo_source": "Campaign website (og:image not verified; site blocked in this sandbox). Alternative: City of Wildwood commissioner page.",
+     "website": "https://pamala4fldistrict52.com/",
+     "occupation": "Former Wildwood city commissioner and mayor pro tem",
+     "residence": "Wildwood, Sumter County",
+     "background": "Bivins (also known as Pamala Harrison-Bivins) was born and raised in Wildwood and is a lifetime resident. She served more than 25 years on the Wildwood City Commission, including as mayor pro tem, and resigned in November 2025 to run for the Florida House. She opened a campaign account for the HD 52 special election but withdrew before the qualifying deadline, leaving Samantha Scott unopposed; she then filed for the regular 2026 cycle as the Democratic candidate. Ballotpedia lists her as the Democratic candidate in the Aug. 18, 2026 primary advancing to the Nov. 3, 2026 general election.",
+     "primary_result": "Filed for the Aug. 18, 2026 Democratic primary; no Democratic primary opponent found in search results (Ballotpedia lists her as advancing to the Nov. 3 general). Not independently verified against the county sample ballot.",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Bivins lists affordable housing among the concerns she wants to take to Tallahassee. Specific proposals (subsidies, zoning, rent measures) were not found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
+         "date": "2026-06-19"
+        }
+       ]
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "She says she wants to take concerns about healthcare, Medicaid and health-care access to Tallahassee and has spoken with voters about health-care access in the region. She has not been found explicitly calling for Medicaid expansion.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
+         "date": "2026-06-19"
+        },
+        {
+         "title": "Villagers stand up for voting rights and warn of Trump's threats to midterm elections - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/07/19/villagers-stand-up-for-voting-rights-and-warn-of-trumps-threats-to-midterm-elections/",
+         "date": "2026-07-19"
+        }
+       ]
+      },
+      "social_security": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "She names Social Security and Medicare among the issues she wants to advocate for, framing them as 'human needs' shared across party lines.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
+         "date": "2026-06-19"
+        }
+       ]
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "At a July 2026 voting-rights event in The Villages she committed to 'fighting to protect the right to vote and ensure no community is left behind at the ballot box.'",
+       "quote": "fighting to protect the right to vote and ensure no community is left behind at the ballot box",
+       "sources": [
+        {
+         "title": "Villagers stand up for voting rights and warn of Trump's threats to midterm elections - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/07/19/villagers-stand-up-for-voting-rights-and-warn-of-trumps-threats-to-midterm-elections/",
+         "date": "2026-07-19"
+        }
+       ]
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Public education",
+       "summary": "Lists public education among the concerns she wants to bring to Tallahassee.",
+       "sources": [
+        {
+         "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
+         "date": "2026-06-19"
+        }
+       ]
+      },
+      {
+       "title": "Local infrastructure and regional representation",
+       "summary": "Spoke with voters about local infrastructure, health-care access and representation for the region.",
+       "sources": [
+        {
+         "title": "Villagers stand up for voting rights and warn of Trump's threats to midterm elections - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/07/19/villagers-stand-up-for-voting-rights-and-warn-of-trumps-threats-to-midterm-elections/",
+         "date": "2026-07-19"
+        }
+       ]
+      },
+      {
+       "title": "Bipartisan framing of needs",
+       "summary": "Called for Democrats, Republicans and non-partisans to see healthcare, Social Security, Medicare, Medicaid, housing and education as human needs that connect everyone rather than divisive party-line issues.",
+       "sources": [
+        {
+         "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
+         "date": "2026-06-19"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Served more than 25 years on the Wildwood City Commission, including as mayor pro tem; resigned in November 2025 to run for the Florida House.",
+       "sources": [
+        {
+         "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
+         "date": "2026-06-19"
+        },
+        {
+         "title": "Chat with a Commissioner: Commissioner Pamala Harrison-Bivins - City of Wildwood",
+         "url": "https://www.wildwood-fl.gov/bc-city/page/chat-commissioner-commissioner-pamala-harrison-bivins",
+         "date": null
+        },
+        {
+         "title": "Pamala Harrison-Bivins - Ballotpedia",
+         "url": "https://ballotpedia.org/Pamala_Harrison-Bivins",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Withdrew from the 2025-26 HD 52 special election before the qualifying deadline, then filed for the regular 2026 election.",
+       "sources": [
+        {
+         "title": "After lone opponent withdraws, Samantha Scott a shoo-in for HD 52 - Florida Politics",
+         "url": "https://floridapolitics.com/archives/766163-after-lone-opponent-withdraws-samantha-scott-a-shoo-in-for-hd-52/",
+         "date": "2025-11"
+        },
+        {
+         "title": "Democrat Emerges in HD 52 - News Service of Florida",
+         "url": "https://www.newsserviceflorida.com/latest/briefs/democrat-emerges-in-hd-52/article_a40aa5ca-bff9-44e7-9f3a-b270f6047d36.html",
+         "date": "2025"
+        },
+        {
+         "title": "Pamala Bivins - Ballotpedia",
+         "url": "https://ballotpedia.org/Pamala_Bivins",
+         "date": null
+        }
+       ]
+      }
+     ],
+     "endorsements": [],
+     "links": [
+      {
+       "title": "Official page / photo source",
+       "url": "https://pamala4fldistrict52.com/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "county_commission_4",
+   "order": 8,
+   "title": "Sumter County Commission, District 4",
+   "level": "county",
+   "office_group": "County",
+   "term": "4 years",
+   "what_it_does": "One of five county commissioners. Sets the county property-tax rate and budget, funds the Sheriff and fire/EMS, approves land-use and zoning changes, and oversees roads, parks and county services. Elected countywide but must live in the district.",
+   "verified_ballot_note": "ClickOrlando's 2026 Voter's Guide states the winner of the District 4 Republican primary faces write-in candidate Ethan Parks in November ; Lake & Sumter Style reports Bogue won that primary with 73.04% ; Florida Money Watch lists Parks as an active write-in . Not verified against the county's official Notice of General Election (blocked). Research limitation: in this sandbox every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was exhausted, so positions are coded only from search-result snippets. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
+   "verified_ballot_sources": [
+    {
+     "title": "clickorlando.com",
+     "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/"
+    },
+    {
+     "title": "lakeandsumterstyle.com",
+     "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/"
+    },
+    {
+     "title": "floridamoneywatch.com",
+     "url": "https://www.floridamoneywatch.com/county.php?code=SUM"
+    }
+   ],
+   "candidates": [
+    {
+     "id": "jeffrey_bogue",
+     "name": "Jeffrey A. Bogue",
+     "party": "Republican",
+     "incumbent": true,
+     "photo_url": null,
+     "photo_source": "Sumter County official website, District 4 commissioner page (image URL not verified; site blocked in this sandbox)",
+     "website": null,
+     "occupation": "Sumter County Commissioner, District 4",
+     "residence": "Sumter County (city not verified)",
+     "background": "Bogue is the incumbent District 4 member of the Sumter County Board of County Commissioners. He sought re-election in 2026 and won the Aug. 18, 2026 Republican primary over Michael Squier with 19,912 votes (73.04%) to Squier's 7,349 (26.96%). Because a write-in candidate (Ethan Parks) qualified, the primary was closed to Republican voters and the winner advances to face the write-in on Nov. 3, 2026. Details of his career, education and first election could not be retrieved (county site and ClickOrlando questionnaire were blocked).",
+     "primary_result": "Won Aug. 18, 2026 Republican primary with 73.04% (19,912 votes) over Michael Squier (26.96%, 7,349) (Lake & Sumter Style; ClickOrlando results)",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [
+      {
+       "title": "Voter guide questionnaire (content not retrievable)",
+       "summary": "Bogue and Squier answered the ClickOrlando 2026 Voter's Guide questionnaire for the District 4 Republican primary and were profiled by the Daily Commercial ('Get to know Lake & Sumter commission candidates'); the answer text could not be read in this sandbox, so no positions on impact fees, roads, The Villages vs. rural issues, fire/EMS or budget are coded.",
+       "sources": [
+        {
+         "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
+         "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
+         "date": "2026-07-31"
+        },
+        {
+         "title": "Get to know Lake & Sumter commission candidates before primary - Yahoo News (Daily Commercial)",
+         "url": "https://www.yahoo.com/news/politics/articles/know-lake-sumter-commission-candidates-231440397.html",
+         "date": "2026-08"
+        }
+       ]
+      }
+     ],
+     "record": [
+      {
+       "item": "Incumbent Sumter County Commissioner for District 4 running for re-election in 2026.",
+       "sources": [
+        {
+         "title": "District 4 - Sumter County, FL official website",
+         "url": "https://www.sumtercountyfl.gov/161/District-4",
+         "date": null
+        },
+        {
+         "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
+         "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
+         "date": "2026-07-31"
+        }
+       ]
+      },
+      {
+       "item": "Won the Aug. 18, 2026 Republican primary 73.04% to 26.96% over Michael Squier.",
+       "sources": [
+        {
+         "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+         "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+         "date": "2026-08-18"
+        },
+        {
+         "title": "Election results for Sumter County races in the Florida Primary on Aug. 18, 2026 - ClickOrlando",
+         "url": "https://www.clickorlando.com/election-2026/2026/08/18/election-results-for-sumter-county-races-in-the-florida-primary-on-aug-18-2026/",
+         "date": "2026-08-18"
+        },
+        {
+         "title": "2026 Primary Election - Sumter County official results (enr.electionsfl.org)",
+         "url": "https://enr.electionsfl.org/SUM/3989/Summary/",
+         "date": "2026-08-18"
+        }
+       ]
+      }
+     ],
+     "endorsements": [],
+     "links": [
+      {
+       "title": "Official page / photo source",
+       "url": "https://www.sumtercountyfl.gov/161/District-4"
+      }
+     ]
+    },
+    {
+     "id": "ethan_parks",
+     "name": "Ethan Parks",
+     "party": "Write-in",
+     "incumbent": false,
+     "photo_url": null,
+     "photo_source": "No public portrait found",
+     "website": null,
+     "occupation": "Not found",
+     "residence": "Sumter County (not verified)",
+     "background": "Parks qualified as a write-in candidate for Sumter County Commission District 4; his name will not appear printed on the Nov. 3, 2026 ballot (voters must write it in). Florida Money Watch's campaign-finance listing shows him as an active write-in candidate with no monetary contributions or expenditures reported. No campaign website, statements or biography were found.",
+     "primary_result": "Write-in candidates do not run in the primary; advances directly to the Nov. 3 general election as a write-in (ClickOrlando)",
+     "positions": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      }
+     },
+     "other_issues": [],
+     "record": [
+      {
+       "item": "Qualified as a write-in candidate for County Commission District 4; campaign-finance reports show $0 raised and $0 spent.",
+       "sources": [
+        {
+         "title": "Sumter 2026 Candidates - Florida Money Watch (campaign finance)",
+         "url": "https://www.floridamoneywatch.com/county.php?code=SUM",
+         "date": null
+        },
+        {
+         "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
+         "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
+         "date": "2026-07-31"
+        }
+       ]
+      }
+     ],
+     "endorsements": []
+    }
+   ]
+  }
+ ],
+ "amendments": [
+  {
+   "number": 1,
+   "title": "Budget Stabilization Fund",
+   "title_note": "Short ballot title as listed by Ballotpedia and VOTE411; confirm exact capitalization/wording in the Division of Elections booklet.",
+   "ballot_summary": "Proposing an amendment to the State Constitution to increase the amount of funds that may be retained in the Budget Stabilization Fund from 10 percent to 25 percent of the net revenue collections for the general revenue fund; to require the Legislature to transfer each year the lesser of $750 million or the amount required to reach the 25 percent cap, unless certain conditions are met; and to authorize the Legislature to withdraw funds from the Budget Stabilization Fund for critical state needs.",
+   "ballot_summary_note": "Close paraphrase assembled from Ballotpedia's description; not verbatim. UNVERIFIED against the official booklet.",
+   "sponsor": "HJR 5019 (2025 Regular Session), Florida House of Representatives — UNVERIFIED joint-resolution number; Ballotpedia records the referral passing the House 100-1 and the Senate 29-4 in June 2025.",
+   "what_yes_means": "A YES vote raises the constitutional cap on the state's rainy-day reserve (the Budget Stabilization Fund) from 10% to 25% of general revenue collections, requires the Legislature to deposit the lesser of $750 million or the amount needed to reach the cap each year unless certain conditions are met, and lets the Legislature withdraw money for 'critical state needs' when the fund's balance exceeds 15% of revenue and two-thirds of each chamber approves (in addition to existing withdrawals for emergencies or revenue shortfalls).",
+   "what_no_means": "A NO vote keeps the current constitutional structure: the fund is capped at 10% of general revenue collections, and existing rules for deposits and withdrawals (for emergencies and revenue shortfalls) remain unchanged.",
+   "fiscal_impact": "No Financial Impact Estimating Conference statement is prepared for legislatively referred amendments. According to Ballotpedia's summary of the measure, the amendment would require annual transfers of up to $750 million into the fund until the 25% cap is reached, reducing general revenue available for other spending in those years. Exact legislative staff-analysis figures were not retrievable in this sandbox (UNVERIFIED).",
+   "fiscal_impact_sources": [
+    "https://ballotpedia.org/Florida_Changes_to_Budget_Stabilization_Fund_Amendment_(2026)"
+   ],
+   "supporters": [
+    {
+     "who": "Republican Party of Florida",
+     "argument": "The state party announced an endorsement of Amendment 1 (with Amendment 3) in September 2026, framing a larger reserve as protecting the state's finances against downturns and emergencies.",
+     "sources": [
+      "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/"
+     ]
+    },
+    {
+     "who": "Florida Legislature (bipartisan referral vote)",
+     "argument": "The joint resolution passed the House 100-1 and the Senate 29-4; legislative sponsors described the change as building a stronger cushion for future budget shortfalls or disasters.",
+     "sources": [
+      "https://news.ballotpedia.org/2025/06/19/florida-voters-to-decide-on-changes-to-budget-stabilization-fund-in-2026/",
+      "https://ballotpedia.org/Florida_Changes_to_Budget_Stabilization_Fund_Amendment_(2026)"
+     ]
+    }
+   ],
+   "opponents": [
+    {
+     "who": "No organized opposition identified",
+     "argument": "As of Sept 2026, searches found no organization or official formally opposing Amendment 1. Explanatory coverage (Bradenton Times, VOTE411) notes the trade-off that mandatory deposits reduce money available for current-year spending or tax cuts.",
+     "sources": [
+      "https://thebradentontimes.com/stories/2026-constitutional-amendment-1-budget-stabilization-fund,212210",
+      "https://onyourballot.vote411.org/race-detail.do?id=71659260"
+     ]
+    }
+   ],
+   "threshold": "60%",
+   "sources": [
+    "https://ballotpedia.org/Florida_Changes_to_Budget_Stabilization_Fund_Amendment_(2026)",
+    "https://news.ballotpedia.org/2025/06/19/florida-voters-to-decide-on-changes-to-budget-stabilization-fund-in-2026/",
+    "https://onyourballot.vote411.org/race-detail.do?id=71659260",
+    "https://thebradentontimes.com/stories/2026-constitutional-amendment-1-budget-stabilization-fund,212210",
+    "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Exemption of Tangible Personal Property on Agricultural Land from Taxation",
+   "title_note": "Ballot title as listed on the Florida Division of Elections constitutional-amendment index (constitutionalinitiatives.dos.fl.gov, seqnum 109).",
+   "ballot_summary": "Proposing an amendment to the State Constitution to exempt from ad valorem taxation tangible personal property that is habitually located or typically present on agricultural land, is used in the production of agricultural products or for agritourism activities, and is owned by the owner or lessee of the agricultural land, and to authorize the Legislature, by general law, to define the terms and limit the exemption. The amendment takes effect January 1, 2027.",
+   "ballot_summary_note": "Close paraphrase assembled from Ballotpedia and Spectrum News 13 descriptions; not verbatim. UNVERIFIED against the official booklet.",
+   "sponsor": "HJR 1215 (2025 Regular Session) — UNVERIFIED joint-resolution number; the Legislature voted to place the measure on the 2026 ballot during the 2025 session (Florida Politics).",
+   "what_yes_means": "A YES vote exempts qualifying tangible personal property (for example tractors, irrigation equipment and other farm machinery) that is normally kept on agricultural land, used to produce agricultural products or for agritourism, and owned by the land's owner or lessee, from county, city, school and special-district property taxes beginning with the 2027 tax year, and lets the Legislature define and limit the exemption by law.",
+   "what_no_means": "A NO vote keeps current law, under which tangible personal property used in agriculture remains subject to local ad valorem taxation (subject to the existing $25,000 tangible personal property exemption).",
+   "fiscal_impact": "No Financial Impact Estimating Conference statement is prepared for legislatively referred amendments. Legislative staff analyses cited by news coverage estimated a reduction in local government (county, municipal, school and special district) tangible-personal-property tax revenue beginning in FY 2027-28; the dollar figure could not be retrieved in this sandbox (UNVERIFIED).",
+   "fiscal_impact_sources": [
+    "https://ballotpedia.org/Florida_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)",
+    "https://mynews13.com/fl/orlando/news/2026/04/09/floridians-to-vote-on-amendment-on-tangible-property-tax-for-agricultural-businesses"
+   ],
+   "supporters": [
+    {
+     "who": "Florida Legislature (referral sponsors)",
+     "argument": "Legislative sponsors described the exemption as reducing costs for farmers and ranchers who already pay property tax on their land and face rising equipment costs, and as supporting agritourism operations.",
+     "sources": [
+      "https://floridapolitics.com/archives/736070-legislature-votes-to-put-agriculture-tax-cut-on-statewide-ballot-in-2026/",
+      "https://www.aginfo.net/report/62493/Southeast-Regional-Ag-News/Florida-Voters-to-Decide-on-Agricultural-Tax-Break-in-2026"
+     ]
+    }
+   ],
+   "opponents": [
+    {
+     "who": "No organized opposition identified",
+     "argument": "As of Sept 2026, searches found no organization formally opposing Amendment 2. Explanatory coverage notes that the exemption shifts a share of local tax burden away from agricultural operations and reduces local revenue.",
+     "sources": [
+      "https://thebradentontimes.com/stories/2026-constitutional-amendment-2-agricultural-tangible-personal-property-tax-exemption,212219"
+     ]
+    }
+   ],
+   "threshold": "60%",
+   "sources": [
+    "https://ballotpedia.org/Florida_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)",
+    "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=109",
+    "https://mynews13.com/fl/orlando/news/2026/04/09/floridians-to-vote-on-amendment-on-tangible-property-tax-for-agricultural-businesses",
+    "https://floridapolitics.com/archives/736070-legislature-votes-to-put-agriculture-tax-cut-on-statewide-ballot-in-2026/",
+    "https://www.aginfo.net/report/62493/Southeast-Regional-Ag-News/Florida-Voters-to-Decide-on-Agricultural-Tax-Break-in-2026",
+    "https://thebradentontimes.com/stories/2026-constitutional-amendment-2-agricultural-tangible-personal-property-tax-exemption,212219"
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Save Our Homes From Excessive Property Taxes",
+   "title_note": "Ballot title per CS/HJR 1F (2026 Special Session F) as listed by the Florida House and the Division of Elections index (seqnum 110).",
+   "ballot_summary": "Proposing an amendment to the State Constitution to increase the homestead exemption applicable to non-school property taxes to $150,000 for the 2027 tax year and $250,000 beginning with the 2028 tax year, with the exemption amount adjusted annually for inflation thereafter; to provide that persons who establish a new permanent Florida residence after December 31, 2026 receive the increased exemption in phases over five years; and to reduce the annual cap on assessment increases for non-homestead property from 10 percent to 5 percent. The amendment takes effect January 1, 2027.",
+   "ballot_summary_note": "Close paraphrase assembled from the Pinellas County Property Appraiser FAQ, Florida Policy Institute summary and Ballotpedia; not verbatim. UNVERIFIED against the official booklet.",
+   "sponsor": "CS/HJR 1F (2026 Special Session F), Florida House of Representatives; the special session on property tax relief was called by Gov. Ron DeSantis.",
+   "what_yes_means": "A YES vote raises the homestead exemption that applies to county, city and special-district (non-school) taxes from the current $50,000 to $150,000 in 2027 and $250,000 in 2028, indexed to inflation afterward; phases the larger exemption in over five years for people who establish Florida residency after Dec. 31, 2026; and lowers the annual assessment-increase cap on non-homestead property (rentals, second homes, businesses) from 10% to 5%. The $25,000 school-tax exemption and the existing 3% Save Our Homes assessment cap for homesteads are unchanged.",
+   "what_no_means": "A NO vote leaves the current homestead exemption (up to $50,000, of which $25,000 applies to school taxes), the existing Save Our Homes 3% cap, and the 10% non-homestead assessment cap in place.",
+   "fiscal_impact": "Florida's Revenue Estimating Conference (state economists) projected the amendment's quantifiable provisions would reduce local non-school property tax collections by about $4.93-$4.95 billion in FY 2027-28, rising to about $11.8 billion per year by FY 2031-32 when fully phased in. The Legislature's staff analysis (h0001z.SAC, June 16, 2026) accompanies CS/HJR 1F. County-level figures were published by the REC; the Sumter County figure was not retrievable in this sandbox.",
+   "fiscal_impact_sources": [
+    "https://www.wctv.tv/2026/07/20/impact-amendment-3-floridas-revenue-estimating-conference-releases-new-projections/",
+    "https://www.tampabay28.com/news/state/state-economists-property-tax-amendment-could-cost-florida-local-governments-11-8-billion-annually",
+    "https://suncoastsearchlight.org/fact-brief-florida-revenue-estimating-conference-amendment-3/",
+    "https://www.flhouse.gov/Sections/Documents/loaddoc.aspx?BillNumber=1&DocumentType=Analysis&FileName=h0001z.SAC.DOCX&Session=2026F"
+   ],
+   "supporters": [
+    {
+     "who": "Gov. Ron DeSantis",
+     "argument": "The governor called the 2026 special session that produced CS/HJR 1F and has advocated large reductions in homestead property taxes, arguing homeowners should not face rising tax bills on homes they already own.",
+     "sources": [
+      "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452",
+      "https://www.pcpao.gov/amendment3"
+     ]
+    },
+    {
+     "who": "Republican Party of Florida",
+     "argument": "The state party endorsed Amendment 3 (with Amendment 1) in September 2026 as property tax relief for Florida homeowners.",
+     "sources": [
+      "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/"
+     ]
+    },
+    {
+     "who": "Florida House of Representatives (sponsor)",
+     "argument": "House leadership sponsored the joint resolution as a way to lock in a larger homestead exemption in the constitution and slow assessment growth on non-homestead property.",
+     "sources": [
+      "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452"
+     ]
+    }
+   ],
+   "opponents": [
+    {
+     "who": "Florida Sheriffs Association",
+     "argument": "Said it is 'significantly concerned' that the revenue loss could affect funding for law enforcement and other county services without a replacement revenue source.",
+     "sources": [
+      "https://www.clickorlando.com/election-2026/2026/08/03/florida-sheriffs-police-firefighters-groups-sound-alarm-over-property-tax-amendment/"
+     ]
+    },
+    {
+     "who": "Polk County Sheriff Grady Judd",
+     "argument": "Called the amendment 'a train wreck' at an August 2026 news conference, warning of cuts to public-safety budgets.",
+     "sources": [
+      "https://www.wtxl.com/news/capitol-news/tax-cut-or-train-wreck-amendment-3-opposition-gains-muscle-as-supporters-stay-muted"
+     ]
+    },
+    {
+     "who": "Florida State Fraternal Order of Police",
+     "argument": "Formally opposed the amendment, citing the risk to police funding.",
+     "sources": [
+      "https://www.wptv.com/news/state/floridas-property-tax-amendment-faces-growing-opposition-with-little-organized-support-to-counter-it"
+     ]
+    },
+    {
+     "who": "Florida Professional Firefighters; Florida Fire Chiefs Association",
+     "argument": "Warned the amendment could undermine fire and EMS funding without providing a replacement revenue source.",
+     "sources": [
+      "https://www.wptv.com/news/state/floridas-property-tax-amendment-faces-growing-opposition-with-little-organized-support-to-counter-it",
+      "https://www.clickorlando.com/election-2026/2026/08/03/florida-sheriffs-police-firefighters-groups-sound-alarm-over-property-tax-amendment/"
+     ]
+    },
+    {
+     "who": "Florida League of Cities; Florida Association of Counties",
+     "argument": "Warned that the projected multi-billion-dollar annual revenue loss would force cities and counties to cut services, raise other taxes or fees, or both.",
+     "sources": [
+      "https://www.wptv.com/news/state/floridas-property-tax-amendment-faces-growing-opposition-with-little-organized-support-to-counter-it",
+      "https://www.tampafp.com/opposition-surges-against-florida-amendment-3-as-budget-warnings-mount/"
+     ]
+    },
+    {
+     "who": "Miami-Dade Mayor Daniella Levine Cava",
+     "argument": "Reported in September 2026 to be leading a 'No on 3' effort, arguing the cut would hollow out local budgets.",
+     "sources": [
+      "https://politicalcortadito.com/2026/09/03/amendment-3-daniella-levine-cava-no-campaign/comment-page-1/"
+     ]
+    },
+    {
+     "who": "Florida Policy Institute (analysis)",
+     "argument": "Published a summary of the ballot language and county-by-county local fiscal impacts, emphasizing the size of the local revenue reduction.",
+     "sources": [
+      "https://www.floridapolicy.org/posts/florida-property-tax-amendment-ballot-language-summary"
+     ]
+    }
+   ],
+   "neutral_analyses": [
+    {
+     "who": "Florida TaxWatch",
+     "url": "https://floridataxwatch.org/research/florida-property-tax-resource-center/"
+    },
+    {
+     "who": "Tax Foundation",
+     "url": "https://taxfoundation.org/blog/florida-property-tax-proposal/"
+    },
+    {
+     "who": "Pinellas County Property Appraiser FAQ",
+     "url": "https://www.pcpao.gov/amendment3"
+    },
+    {
+     "who": "Orange County Government explainer",
+     "url": "https://ocfl.net/OpenGovernment/PropertyTaxAmendment3.aspx"
+    }
+   ],
+   "threshold": "60%",
+   "sources": [
+    "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452",
+    "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=110",
+    "https://www.pcpao.gov/amendment3",
+    "https://www.floridapolicy.org/posts/florida-property-tax-amendment-ballot-language-summary",
+    "https://www.wctv.tv/2026/07/20/impact-amendment-3-floridas-revenue-estimating-conference-releases-new-projections/",
+    "https://www.tampabay28.com/news/state/state-economists-property-tax-amendment-could-cost-florida-local-governments-11-8-billion-annually",
+    "https://www.wptv.com/news/state/floridas-property-tax-amendment-faces-growing-opposition-with-little-organized-support-to-counter-it",
+    "https://www.clickorlando.com/election-2026/2026/08/03/florida-sheriffs-police-firefighters-groups-sound-alarm-over-property-tax-amendment/",
+    "https://floridianpress.com/2026/09/republican-party-of-florida-endorses-amendment-1-amendment-3-on-november-ballot/",
+    "https://news.ballotpedia.org/2026/06/03/florida-voters-to-decide-expanded-homestead-tax-exemption-amendment-in-november/"
+   ]
+  }
+ ],
+ "judicial": {
+  "election": "Florida General Election, November 3, 2026",
+  "how_merit_retention_works": "Florida Supreme Court justices and district court of appeal judges are appointed by the governor from nominees submitted by a judicial nominating commission and then face voters in a yes-or-no 'merit retention' question ('Shall Justice/Judge ___ be retained in office?') at the first general election held more than one year after appointment and every six years thereafter. A simple majority of votes cast on the question retains the judge for a new six-year term; a majority 'no' vote creates a vacancy that the governor fills by appointment (Fla. Const. art. V, s. 10).",
+  "how_it_works_sources": [
+   "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/",
+   "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+   "https://www.sparkers-soapbox.com/merit-retention-of-florida-judges/"
+  ],
+  "ballot_context": "Per The Florida Bar News, Supreme Court Justice Carlos G. Muñiz and 22 district court of appeal judges qualified for merit retention on the Nov. 3, 2026 ballot. Sumter County is in the Fifth Judicial Circuit, whose appeals go to the Fifth District Court of Appeal (Daytona Beach), so Sumter voters see Muñiz plus the Fifth DCA judges standing in 2026. The Florida Bar's 2026 merit retention poll of its members found 71% favored retaining Justice Muñiz and DCA judges drew support in the 71%-90% range (Florida Phoenix).",
+  "research_note": "floridabar.org, floridaphoenix.com, flcourts.gov, ballotpedia.org and Wikipedia were all blocked to fetch in this sandbox and the search budget was exhausted, so the complete Fifth DCA 2026 list and per-judge Bar poll percentages could NOT be confirmed. John M. Harris is included as confirmed by the requester. Scott Makar is listed as LIKELY (he was last retained in 2020 while on the First DCA and was reassigned to the Fifth DCA in 2023, which would put him on the 2026 cycle) but UNVERIFIED. Other Fifth DCA judges possibly on the 2026 ballot (e.g., any judge appointed to the Fifth DCA in 2024-2025, or Judge Kerry Evander if still serving) must be checked against the Florida Bar News article or the Sumter County sample ballot before use.",
+  "list_complete": false,
+  "judges": [
+   {
+    "name": "Carlos G. Muñiz",
+    "court": "Florida Supreme Court",
+    "ballot_question": "Shall Justice Carlos G. Muñiz of the Supreme Court be retained in office?",
+    "appointed_by": "Gov. Ron DeSantis",
+    "appointed_year": 2019,
+    "appointed_date": "2019-01-22",
+    "background": "Bachelor's degree from the University of Virginia and J.D. from Yale Law School. Law clerk to Judge José A. Cabranes (U.S. Court of Appeals, 2nd Circuit) and Judge Thomas A. Flannery (U.S. District Court, D.C.). Served as deputy general counsel to Gov. Jeb Bush, as deputy attorney general and chief of staff to Attorney General Pam Bondi, and as general counsel of the U.S. Department of Education (2018-2019). Appointed to the Florida Supreme Court on Jan. 22, 2019 as the court's 89th justice; retained by voters in 2020; served two terms as the 57th Chief Justice of Florida (July 2022 - June 2026).",
+    "background_note": "Education/clerkship/prior-position details are from general knowledge consistent with the Ballotpedia and Wikipedia biographies linked below; they could not be re-fetched in this sandbox. Verify before publication.",
+    "notable": [
+     {
+      "item": "Authored the court's April 1, 2024 majority opinion in Planned Parenthood of Southwest and Central Florida v. State, holding that the Florida Constitution's privacy clause does not protect abortion and upholding the state's 15-week abortion law (which allowed the six-week law to take effect).",
+      "sources": [
+       "https://en.wikipedia.org/wiki/Carlos_G._Mu%C3%B1iz",
+       "https://ballotpedia.org/Carlos_Mu%C3%B1iz"
+      ]
+     },
+     {
+      "item": "Only Florida Supreme Court justice on the Nov. 3, 2026 ballot; this is his second retention election (first retained in 2020).",
+      "sources": [
+       "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+       "https://www.sparkers-soapbox.com/florida-supreme-court-merit-retention-2026-general/"
+      ]
+     },
+     {
+      "item": "Florida Channel produced an 'On the Ballot' profile segment on Justice Muñiz for the 2026 retention election.",
+      "sources": [
+       "https://thefloridachannel.org/videos/on-the-ballot-florida-supreme-court-justice-carlos-muniz/"
+      ]
+     }
+    ],
+    "bar_poll": "71% of responding Florida Bar members favored retention (2026 Florida Bar merit retention poll, reported by Florida Phoenix).",
+    "bar_poll_sources": [
+     "https://floridaphoenix.com/briefs/fl-bar-members-give-high-marks-to-carlos-muniz-other-appeals-judges-up-for-merit-retention/"
+    ],
+    "photo_url": "https://supremecourt.flcourts.gov/content/download/1146/file/Muniz.jpg",
+    "photo_note": "UNVERIFIED URL; the official portrait is on the justice's page at https://supremecourt.flcourts.gov/Justices/Justice-Carlos-G.-Muniz",
+    "sources": [
+     "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+     "https://floridaphoenix.com/briefs/fl-bar-members-give-high-marks-to-carlos-muniz-other-appeals-judges-up-for-merit-retention/",
+     "https://ballotpedia.org/Carlos_Mu%C3%B1iz",
+     "https://en.wikipedia.org/wiki/Carlos_G._Mu%C3%B1iz",
+     "https://thefloridachannel.org/videos/on-the-ballot-florida-supreme-court-justice-carlos-muniz/",
+     "https://www.sparkers-soapbox.com/florida-supreme-court-merit-retention-2026-general/"
+    ]
+   },
+   {
+    "name": "John M. Harris",
+    "court": "Fifth District Court of Appeal",
+    "ballot_question": "Shall Judge John M. Harris of the Fifth District Court of Appeal be retained in office?",
+    "confirmation_status": "Confirmed on 2026 ballot (per requester); not independently re-verified in this sandbox.",
+    "appointed_by": "Gov. Rick Scott",
+    "appointed_year": 2017,
+    "background": "Served as a circuit judge in the Eighteenth Judicial Circuit (Brevard County) before Gov. Rick Scott appointed him to the Fifth District Court of Appeal in December 2017 (took office January 2018). First retained by voters in 2020; served a term as the court's chief judge. Education and earlier career details could not be fetched in this sandbox (UNVERIFIED).",
+    "notable": [
+     {
+      "item": "Has served as Chief Judge of the Fifth District Court of Appeal.",
+      "sources": [
+       "https://en.wikipedia.org/wiki/Florida_Fifth_District_Court_of_Appeal",
+       "https://ballotpedia.org/Florida_Fifth_District_Court_of_Appeal"
+      ]
+     }
+    ],
+    "bar_poll": "Individual percentage not retrievable; Florida Phoenix reported all DCA judges on the 2026 ballot drew 71%-90% support in the Florida Bar poll.",
+    "bar_poll_sources": [
+     "https://floridaphoenix.com/briefs/fl-bar-members-give-high-marks-to-carlos-muniz-other-appeals-judges-up-for-merit-retention/"
+    ],
+    "photo_url": "https://5dca.flcourts.gov/Judges",
+    "photo_note": "Judge portrait is on the 5th DCA judges page; direct image URL UNVERIFIED.",
+    "sources": [
+     "https://ballotpedia.org/Florida_Fifth_District_Court_of_Appeal",
+     "https://en.wikipedia.org/wiki/Florida_Fifth_District_Court_of_Appeal",
+     "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+     "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/"
+    ]
+   },
+   {
+    "name": "Scott D. Makar",
+    "court": "Fifth District Court of Appeal",
+    "ballot_question": "Shall Judge Scott Makar of the Fifth District Court of Appeal be retained in office?",
+    "confirmation_status": "LIKELY but UNVERIFIED. Makar was retained in 2020 on the First DCA and was reassigned to the Fifth DCA effective Jan. 1, 2023 under the 2022 court reorganization, placing him on the 2026 retention cycle; confirm against the Florida Bar News list.",
+    "appointed_by": "Gov. Rick Scott",
+    "appointed_year": 2012,
+    "background": "Former Solicitor General of Florida (2007-2012) under Attorneys General Bill McCollum and Pam Bondi; previously chief of the appellate division of the Jacksonville Office of General Counsel and an attorney in private practice. Holds degrees from the University of Florida, including a J.D. and a Ph.D. in economics. Appointed to the First District Court of Appeal in 2012, retained in 2014 and 2020, and moved to the Fifth District Court of Appeal in 2023 when the Legislature redrew appellate districts.",
+    "background_note": "Details from general knowledge consistent with the Wikipedia biography linked below; not re-fetched. Verify before publication.",
+    "notable": [
+     {
+      "item": "Argued cases for the state before the U.S. Supreme Court and Florida Supreme Court as Florida's Solicitor General before joining the appellate bench.",
+      "sources": [
+       "https://en.wikipedia.org/wiki/Scott_Makar"
+      ]
+     }
+    ],
+    "bar_poll": "Individual percentage not retrievable; Florida Phoenix reported all DCA judges on the 2026 ballot drew 71%-90% support in the Florida Bar poll.",
+    "bar_poll_sources": [
+     "https://floridaphoenix.com/briefs/fl-bar-members-give-high-marks-to-carlos-muniz-other-appeals-judges-up-for-merit-retention/"
+    ],
+    "photo_url": "https://5dca.flcourts.gov/Judges",
+    "photo_note": "Direct image URL UNVERIFIED.",
+    "sources": [
+     "https://en.wikipedia.org/wiki/Scott_Makar",
+     "https://ballotpedia.org/Florida_Fifth_District_Court_of_Appeal",
+     "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/"
+    ]
+   }
+  ],
+  "not_on_2026_ballot_note": "Fifth DCA Judges Joe Boatwright, Eric Eisnaugle, Harvey Jay, Paige Kilbane, John MacIver, Jordan Pratt and Adrian Soud stood for retention in November 2024 (Jacksonville Daily Record, Oct. 11, 2024) and therefore are not expected on the 2026 ballot.",
+  "not_on_2026_sources": [
+   "https://www.jaxdailyrecord.com/news/2024/oct/11/on-the-ballot-one-judgeship-and-appellate-court-retention/",
+   "https://jaxtoday.org/2024/10/24/judges-voter-guide-appeals-court-judge-retention/"
+  ],
+  "verification_todo": [
+   "Fetch https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/ for the full Fifth DCA list.",
+   "Fetch https://floridaphoenix.com/briefs/fl-bar-members-give-high-marks-to-carlos-muniz-other-appeals-judges-up-for-merit-retention/ for per-judge poll percentages.",
+   "Check the Sumter County sample ballot at elections.sumtercountyfl.gov once posted (typically after the Sept. 26 overseas-ballot mailing)."
+  ]
+ },
+ "voting_info": {
+  "county": "Sumter County, Florida",
+  "election_date": "2026-11-03",
+  "registration_deadline": "2026-10-05 (29 days before the election; per Florida Division of Elections and Florida Supervisors of Elections calendars)",
+  "vote_by_mail_request_deadline": "2026-10-22 by 5:00 p.m. (12th day before the election); Sumter County Elections news flash confirms Oct. 22, 2026 as the last day to request a mail ballot for the General Election",
+  "vote_by_mail_return_deadline": "Ballot must be RECEIVED by the Supervisor of Elections by 7:00 p.m. on Election Day, Nov. 3, 2026 (postmarks do not count). Mail ballots may also be returned to a secure ballot intake station (drop box) at the SOE office or any early-voting site during early-voting hours, or delivered to the office. Overseas (UOCAVA) ballots have a 10-day post-election receipt allowance. (Florida statutes s. 101.67 and 101.69; dos.fl.gov vote-by-mail page.)",
+  "early_voting_dates": "Florida law requires early voting from the 10th day through the 3rd day before the election: Saturday Oct. 24 through Saturday Oct. 31, 2026, at least 8 hours per day; counties may add optional days from Oct. 19-23 and Nov. 1. Sumter County's specific 2026 General Election early-voting schedule and daily hours could not be fetched (elections.sumtercountyfl.gov blocked) and are UNVERIFIED — check https://elections.sumtercountyfl.gov/200/Early-Voting.",
+  "early_voting_locations": [
+   {
+    "name": "Bushnell Community Building",
+    "address": "407 E. Belt Avenue, Bushnell, FL 33513"
+   },
+   {
+    "name": "Villages Sumter County Service Center",
+    "address": "7375 Powell Road, Room 102, Wildwood, FL 34785"
+   },
+   {
+    "name": "Laurel Manor Recreation Center",
+    "address": "1985 Laurel Manor Drive, The Villages, FL 32162"
+   },
+   {
+    "name": "Tierra Del Sol Recreation Center",
+    "address": "808 San Marino Drive, The Villages, FL 32159"
+   },
+   {
+    "name": "Allamanda Recreation Center",
+    "address": "1515 Saint Charles Place, The Villages, FL 32162"
+   },
+   {
+    "name": "Rohan Recreation Center",
+    "address": "850 Kristine Way, The Villages, FL 32163"
+   },
+   {
+    "name": "Everglades Recreation Center",
+    "address": "5497 Marsh Bend Trail, The Villages, FL 32163"
+   }
+  ],
+  "early_voting_locations_note": "Seven sites listed on the Sumter County Elections early-voting page (search snippet); any registered Sumter voter may use any early-voting site. ZIP codes added from general knowledge; confirm the 2026 General Election site list on the county page.",
+  "election_day_hours": "7:00 a.m. to 7:00 p.m.; voters must vote at their assigned precinct on Election Day; anyone in line at 7:00 p.m. may vote.",
+  "supervisor_of_elections": {
+   "name": "Karen S. Krauss",
+   "phone": "(352) 569-1540",
+   "website": "https://elections.sumtercountyfl.gov/",
+   "address": "Main office: 900 N. Main Street, Bushnell, FL 33513. Villages-area office: Sumter County Government Service Center, 7375 Powell Road, Suite 145, Wildwood, FL 34785.",
+   "note": "Krauss is listed as Supervisor of Elections on the county Office Holders page and LinkedIn; one search snippet referenced former supervisor William 'Bill' Keen (her predecessor), so the office-holder and phone should be confirmed at https://dos.elections.myflorida.com/supervisors/countyInfo.asp?county=SUM."
+  },
+  "id_requirements": "Voters must present a current and valid photo ID with signature at early-voting sites and polling places. Acceptable IDs (Fla. Stat. s. 101.043): Florida driver license; Florida ID card issued by DHSMV; U.S. passport; debit or credit card; military ID; student ID; retirement center ID; neighborhood association ID; public assistance ID; veteran health ID card issued by the U.S. Department of Veterans Affairs; Florida concealed weapon or firearm license; employee ID issued by any branch, department, agency or entity of the federal, state, county or municipal government. If the photo ID lacks a signature, a second ID with signature is required. A voter without acceptable ID may vote a provisional ballot, which counts if the signature matches the registration record.",
+  "id_sources": [
+   "https://dos.fl.gov/elections/for-voters/voting/election-day-voting/",
+   "https://elections.sumtercountyfl.gov/200/Early-Voting"
+  ],
+  "sample_ballot_url": "https://elections.sumtercountyfl.gov/163/2026-Election-Information",
+  "sample_ballot_note": "County posts sample ballots on its 2026 Election Information page and mails them to registered voters before the election; exact PDF link not retrievable (site blocked in sandbox).",
+  "precinct_lookup_url": "https://registration.elections.myflorida.com/CheckVoterStatus",
+  "precinct_lookup_note": "State Voter Information Lookup (shows registration status, precinct and polling place). The county site also offers a precinct/polling-place finder from its home page https://elections.sumtercountyfl.gov/.",
+  "vote_by_mail_request_url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/23",
+  "sources": [
+   "https://elections.sumtercountyfl.gov/",
+   "https://elections.sumtercountyfl.gov/200/Early-Voting",
+   "https://elections.sumtercountyfl.gov/163/2026-Election-Information",
+   "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/23",
+   "https://elections.sumtercountyfl.gov/Elections/Elected-Officials/Office-Holders",
+   "https://dos.fl.gov/elections/for-voters/election-dates/",
+   "https://dos.fl.gov/elections/for-voters/voting/vote-by-mail/",
+   "https://www.myfloridaelections.com/election-dates-deadlines",
+   "https://electionsfla.com/election-dates",
+   "https://www.vote411.org/florida",
+   "https://dos.elections.myflorida.com/supervisors/countyInfo.asp?county=SUM",
+   "https://www.usvotefoundation.org/sumter-county-fl-election-office",
+   "https://www.linkedin.com/in/karen-krauss-55b75b74/",
+   "https://vrcdn.electionsfl.org/StaticPages/sumter.html"
+  ],
+  "unverified": [
+   "Sumter-specific early voting days/hours for Nov. 2026 (only the statewide mandatory window is stated).",
+   "Whether all seven early-voting sites will be used for the General Election.",
+   "Exact sample-ballot PDF link.",
+   "Office holder/phone cross-check against the state SOE directory."
+  ],
+  "short": {
+   "election_date": "Tue, Nov 3, 2026",
+   "registration_deadline": "Mon, Oct 5, 2026",
+   "vote_by_mail_request_deadline": "Thu, Oct 22, 2026 (5 p.m.)",
+   "early_voting_dates": "Oct 24 – Oct 31 (confirm county hours)"
+  }
+ },
+ "other_races": {
+  "race_id": "county_commission_other",
+  "verified_ballot_note": "Compiled from search snippets of Lake & Sumter Style and ClickOrlando primary results, the Sumter Sun Times primary preview, ClickOrlando voter guides and Ballotpedia. The county's official 2026 Notice of General Election (https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27) and sample ballots could not be read, so the November ballot contents below are NOT fully verified. Research limitation: in this sandbox every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was exhausted, so positions are coded only from search-result snippets. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
+  "races_on_ballot": [
+   {
+    "office": "Sumter County Commission, District 4",
+    "status": "On Nov. 3, 2026 ballot",
+    "note": "Republican primary winner Jeffrey A. Bogue (73.04%) vs. write-in Ethan Parks (name not printed on ballot). See county_commission_4.json.",
+    "candidates": [
+     {
+      "id": "jeffrey_bogue",
+      "name": "Jeffrey A. Bogue",
+      "party": "Republican",
+      "incumbent": true
+     },
+     {
+      "id": "ethan_parks",
+      "name": "Ethan Parks",
+      "party": "Write-in",
+      "incumbent": false
+     }
+    ],
+    "sources": [
+     {
+      "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
+      "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
+      "date": "2026-07-31"
+     },
+     {
+      "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+      "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+      "date": "2026-08-18"
+     },
+     {
+      "title": "Sumter 2026 Candidates - Florida Money Watch (campaign finance)",
+      "url": "https://www.floridamoneywatch.com/county.php?code=SUM",
+      "date": null
+     }
+    ]
+   },
+   {
+    "office": "Florida House District 52",
+    "status": "On Nov. 3, 2026 ballot",
+    "note": "Samantha Scott (R, incumbent) vs. Pamala Kaye Bivins (D). See state_house_52.json.",
+    "candidates": [
+     {
+      "id": "samantha_scott",
+      "name": "Samantha Scott",
+      "party": "Republican",
+      "incumbent": true
+     },
+     {
+      "id": "pamala_bivins",
+      "name": "Pamala Kaye Bivins",
+      "party": "Democratic",
+      "incumbent": false
+     }
+    ],
+    "sources": [
+     {
+      "title": "Florida House of Representatives District 52 - Ballotpedia",
+      "url": "https://ballotpedia.org/Florida_House_of_Representatives_District_52",
+      "date": null
+     }
+    ]
+   }
+  ],
+  "decided_or_unopposed": [
+   {
+    "office": "Sumter County School Board, Districts 1, 3 and 5 (nonpartisan)",
+    "status": "Decided Aug. 18, 2026 primary (each winner exceeded 50%; no November runoff)",
+    "note": "D1 Sally Moss 68.31%; D3 David A. Williams 54.52%; D5 Michael Johnson 71.29%. See school_board_results.json.",
+    "sources": [
+     {
+      "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+      "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+      "date": "2026-08-18"
+     },
+     {
+      "title": "Election results for Sumter County races in the Florida Primary on Aug. 18, 2026 - ClickOrlando",
+      "url": "https://www.clickorlando.com/election-2026/2026/08/18/election-results-for-sumter-county-races-in-the-florida-primary-on-aug-18-2026/",
+      "date": "2026-08-18"
+     }
+    ]
+   },
+   {
+    "office": "Fifth Judicial Circuit Judge, Group 27 (nonpartisan, circuit-wide: Citrus, Hernando, Lake, Marion, Sumter)",
+    "status": "Two-candidate race decided in the Aug. 18, 2026 primary by circuit-wide vote; circuit-wide winner NOT verified",
+    "note": "Nicole M. Morris (chief assistant public defender, Citrus County) vs. Lisa Yeager (assistant state attorney, Fifth Circuit). In Sumter County alone Morris led 19,703 (50.32%) to 19,450 (49.68%). The five-county total, which decides the race, could not be retrieved.",
+    "candidates": [
+     {
+      "id": "nicole_morris",
+      "name": "Nicole M. Morris",
+      "party": "Nonpartisan",
+      "incumbent": false
+     },
+     {
+      "id": "lisa_yeager",
+      "name": "Lisa Yeager",
+      "party": "Nonpartisan",
+      "incumbent": false
+     }
+    ],
+    "sources": [
+     {
+      "title": "2026 Voter's Guide - Fifth Circuit Judge, Group 27 - ClickOrlando",
+      "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-fifth-circuit-judge-group-27/",
+      "date": "2026-07-31"
+     },
+     {
+      "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+      "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+      "date": "2026-08-18"
+     },
+     {
+      "title": "Primary election coming up - Sumter Sun Times",
+      "url": "https://www.midfloridanewspapers.com/sumter_sun_times/primary-election-coming-up/article_e03a68ea-ce42-40af-8422-ce3cc530a15e.html",
+      "date": "2026-08"
+     }
+    ]
+   },
+   {
+    "office": "Sumter County Commission, District 2",
+    "status": "UNVERIFIED",
+    "note": "Districts 2 and 4 are the seats on the 2026 cycle. Search snippets of the primary results and ClickOrlando guides mention only the District 4 contest, which suggests District 2 had no contested primary (possibly elected without opposition or a general-election contest), but this could not be confirmed. Check the county Candidates page and Notice of General Election.",
+    "sources": [
+     {
+      "title": "Candidates - Sumter County Elections",
+      "url": "https://elections.sumtercountyfl.gov/183/Candidates",
+      "date": null
+     },
+     {
+      "title": "2026 Notice of General Election - Sumter County Elections",
+      "url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27",
+      "date": "2026"
+     },
+     {
+      "title": "Elections: Commission and School Board candidates - Sumter Sun Times",
+      "url": "https://www.midfloridanewspapers.com/sumter_sun_times/elections-commission-and-school-board-candidates/article_e432b843-0286-4fdd-9d77-0f0f8c8fc24c.html",
+      "date": "2026"
+     },
+     {
+      "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+      "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+      "date": "2026-08-18"
+     }
+    ]
+   },
+   {
+    "office": "Sumter County constitutional offices (Sheriff, Clerk, Property Appraiser, Tax Collector, Supervisor of Elections)",
+    "status": "Not on the 2026 ballot (UNVERIFIED for Sumter specifically)",
+    "note": "Florida county constitutional officers serve four-year terms elected in presidential-election years (last elected 2024, next 2028). No 2026 Sumter constitutional-office contest appeared in any search result.",
+    "sources": [
+     {
+      "title": "Candidates - Sumter County Elections",
+      "url": "https://elections.sumtercountyfl.gov/183/Candidates",
+      "date": null
+     },
+     {
+      "title": "Sumter County, Florida, elections, 2026 - Ballotpedia",
+      "url": "https://ballotpedia.org/Sumter_County,_Florida,_elections,_2026",
+      "date": null
+     }
+    ]
+   },
+   {
+    "office": "Municipal elections (Wildwood, Bushnell, Coleman, Webster, Center Hill)",
+    "status": "UNVERIFIED",
+    "note": "The county's candidate qualifying notice covered 'Cities' in the June 8-12, 2026 qualifying window, but no search result identified specific municipal contests or unopposed municipal candidates for Nov. 3, 2026. Wildwood's commission seat vacated by Bivins (resigned Nov. 2025) may also be affected; not confirmed.",
+    "sources": [
+     {
+      "title": "Primary election coming up - Sumter Sun Times",
+      "url": "https://www.midfloridanewspapers.com/sumter_sun_times/primary-election-coming-up/article_e03a68ea-ce42-40af-8422-ce3cc530a15e.html",
+      "date": "2026-08"
+     },
+     {
+      "title": "2026 Election Information - Sumter County Elections",
+      "url": "https://elections.sumtercountyfl.gov/163/2026-Election-Information",
+      "date": null
+     }
+    ]
+   },
+   {
+    "office": "County or local referendum questions",
+    "status": "UNVERIFIED",
+    "note": "No Sumter County or municipal referendum for Nov. 3, 2026 appeared in search results; the Notice of General Election could not be read.",
+    "sources": [
+     {
+      "title": "2026 Notice of General Election - Sumter County Elections",
+      "url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27",
+      "date": "2026"
+     }
+    ]
+   },
+   {
+    "office": "Sumter County Court Judge",
+    "status": "No 2026 contest found",
+    "note": "No county-court judge contest for Sumter County appeared in 2026 primary results or voter guides.",
+    "sources": [
+     {
+      "title": "Sumter County, Florida (Judicial) - Ballotpedia",
+      "url": "https://ballotpedia.org/Sumter_County,_Florida_(Judicial)",
+      "date": null
+     },
+     {
+      "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+      "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+      "date": "2026-08-18"
+     }
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "title": "2026 Notice of General Election - Sumter County Elections",
+    "url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27",
+    "date": "2026"
+   },
+   {
+    "title": "Candidates - Sumter County Elections",
+    "url": "https://elections.sumtercountyfl.gov/183/Candidates",
+    "date": null
+   },
+   {
+    "title": "2026 Election Information - Sumter County Elections",
+    "url": "https://elections.sumtercountyfl.gov/163/2026-Election-Information",
+    "date": null
+   },
+   {
+    "title": "Official Primary Election Ballot August 18, 2026 - Republican sample ballot",
+    "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/302/2026-Primary-Republican-Sample-Ballot?bidId=",
+    "date": "2026-08"
+   },
+   {
+    "title": "Official Primary Election Ballot August 18, 2026 - Democratic sample ballot",
+    "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/300/2026-Primary-Democratic-Sample-Ballot?bidId=",
+    "date": "2026-08"
+   },
+   {
+    "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+    "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+    "date": "2026-08-18"
+   },
+   {
+    "title": "Election results for Sumter County races in the Florida Primary on Aug. 18, 2026 - ClickOrlando",
+    "url": "https://www.clickorlando.com/election-2026/2026/08/18/election-results-for-sumter-county-races-in-the-florida-primary-on-aug-18-2026/",
+    "date": "2026-08-18"
+   },
+   {
+    "title": "2026 Primary Election - Sumter County official results (enr.electionsfl.org)",
+    "url": "https://enr.electionsfl.org/SUM/3989/Summary/",
+    "date": "2026-08-18"
+   },
+   {
+    "title": "Florida Election Watch - Sumter County results",
+    "url": "https://floridaelectionwatch.gov/TrackCounty/SUM",
+    "date": null
+   },
+   {
+    "title": "Primary election coming up - Sumter Sun Times",
+    "url": "https://www.midfloridanewspapers.com/sumter_sun_times/primary-election-coming-up/article_e03a68ea-ce42-40af-8422-ce3cc530a15e.html",
+    "date": "2026-08"
+   },
+   {
+    "title": "Elections: Commission and School Board candidates - Sumter Sun Times",
+    "url": "https://www.midfloridanewspapers.com/sumter_sun_times/elections-commission-and-school-board-candidates/article_e432b843-0286-4fdd-9d77-0f0f8c8fc24c.html",
+    "date": "2026"
+   },
+   {
+    "title": "Sumter County, Florida, elections, 2026 - Ballotpedia",
+    "url": "https://ballotpedia.org/Sumter_County,_Florida,_elections,_2026",
+    "date": null
+   },
+   {
+    "title": "2026 Voter's Guide - Fifth Circuit Judge, Group 27 - ClickOrlando",
+    "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-fifth-circuit-judge-group-27/",
+    "date": "2026-07-31"
+   },
+   {
+    "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
+    "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
+    "date": "2026-07-31"
+   },
+   {
+    "title": "Sumter 2026 Candidates - Florida Money Watch (campaign finance)",
+    "url": "https://www.floridamoneywatch.com/county.php?code=SUM",
+    "date": null
+   },
+   {
+    "title": "Sumter County Candidates 2026 - Who's Running",
+    "url": "https://www.whosrunning.app/counties/Sumter",
+    "date": null
+   },
+   {
+    "title": "Candidates in the August Primary in Sumter County - Sumter County Democrats",
+    "url": "https://www.sumterfldemocrats.com/post/candidates-in-the-august-primary-in-sumter-county",
+    "date": "2026"
+   }
+  ]
+ },
+ "school_board": {
+  "race_id": "school_board_results",
+  "verified_ballot_note": "Results from Lake & Sumter Style's 2026 Sumter County Primary Election Results (https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/) and ClickOrlando's Aug. 18, 2026 Sumter results page; official canvass at https://enr.electionsfl.org/SUM/3989/Summary/ (blocked in sandbox). All three winners exceeded 50%, so under Florida law for nonpartisan school-board races none goes to a Nov. 3 runoff; the school board will not appear on the November ballot. Vote totals may be election-night figures rather than the certified canvass.",
+  "runoff_needed": false,
+  "contests": [
+   {
+    "office": "School Board District 1",
+    "decided": "Aug. 18, 2026",
+    "runoff": false,
+    "results": [
+     {
+      "name": "Sally Moss",
+      "votes": 25900,
+      "pct": 68.31,
+      "winner": true
+     },
+     {
+      "name": "Leslie Russell",
+      "votes": 12017,
+      "pct": 31.69,
+      "winner": false
+     }
+    ],
+    "sources": [
+     {
+      "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+      "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+      "date": "2026-08-18"
+     },
+     {
+      "title": "Election results for Sumter County races in the Florida Primary on Aug. 18, 2026 - ClickOrlando",
+      "url": "https://www.clickorlando.com/election-2026/2026/08/18/election-results-for-sumter-county-races-in-the-florida-primary-on-aug-18-2026/",
+      "date": "2026-08-18"
+     },
+     {
+      "title": "2026 Primary Election - Sumter County official results (enr.electionsfl.org)",
+      "url": "https://enr.electionsfl.org/SUM/3989/Summary/",
+      "date": "2026-08-18"
+     }
+    ]
+   },
+   {
+    "office": "School Board District 3",
+    "decided": "Aug. 18, 2026",
+    "runoff": false,
+    "results": [
+     {
+      "name": "David A. Williams",
+      "votes": 20732,
+      "pct": 54.52,
+      "winner": true
+     },
+     {
+      "name": "Gerald \"Jerry\" Loomer",
+      "votes": 17294,
+      "pct": 45.48,
+      "winner": false
+     }
+    ],
+    "sources": [
+     {
+      "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+      "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+      "date": "2026-08-18"
+     },
+     {
+      "title": "Election results for Sumter County races in the Florida Primary on Aug. 18, 2026 - ClickOrlando",
+      "url": "https://www.clickorlando.com/election-2026/2026/08/18/election-results-for-sumter-county-races-in-the-florida-primary-on-aug-18-2026/",
+      "date": "2026-08-18"
+     },
+     {
+      "title": "2026 Primary Election - Sumter County official results (enr.electionsfl.org)",
+      "url": "https://enr.electionsfl.org/SUM/3989/Summary/",
+      "date": "2026-08-18"
+     }
+    ]
+   },
+   {
+    "office": "School Board District 5",
+    "decided": "Aug. 18, 2026",
+    "runoff": false,
+    "results": [
+     {
+      "name": "Michael Johnson",
+      "votes": 27154,
+      "pct": 71.29,
+      "winner": true
+     },
+     {
+      "name": "Troye Joiner",
+      "votes": 10938,
+      "pct": 28.71,
+      "winner": false
+     }
+    ],
+    "sources": [
+     {
+      "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+      "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+      "date": "2026-08-18"
+     },
+     {
+      "title": "Election results for Sumter County races in the Florida Primary on Aug. 18, 2026 - ClickOrlando",
+      "url": "https://www.clickorlando.com/election-2026/2026/08/18/election-results-for-sumter-county-races-in-the-florida-primary-on-aug-18-2026/",
+      "date": "2026-08-18"
+     },
+     {
+      "title": "2026 Primary Election - Sumter County official results (enr.electionsfl.org)",
+      "url": "https://enr.electionsfl.org/SUM/3989/Summary/",
+      "date": "2026-08-18"
+     }
+    ]
+   }
+  ],
+  "candidates": [
+   {
+    "id": "sally_moss",
+    "name": "Sally Moss",
+    "party": "Nonpartisan",
+    "incumbent": null,
+    "photo_url": null,
+    "photo_source": "Not researched (race decided in primary)",
+    "website": null,
+    "occupation": "Not researched",
+    "residence": "Sumter County",
+    "background": "Candidate for Sumter County School Board District 1 in the Aug. 18, 2026 nonpartisan election.",
+    "primary_result": "Won Aug. 18, 2026 election with 25,900 votes (68.31%)",
+    "positions": {
+     "taxes": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "property_tax": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "insurance": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "housing": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "immigration": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "abortion": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "guns": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "healthcare": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "social_security": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "education_choice": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "environment": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "growth": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "marijuana": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "elections": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "crime": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "lgbtq": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "energy": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "trump": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "veterans": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     }
+    },
+    "other_issues": [],
+    "record": [],
+    "endorsements": []
+   },
+   {
+    "id": "leslie_russell",
+    "name": "Leslie Russell",
+    "party": "Nonpartisan",
+    "incumbent": null,
+    "photo_url": null,
+    "photo_source": "Not researched (race decided in primary)",
+    "website": null,
+    "occupation": "Not researched",
+    "residence": "Sumter County",
+    "background": "Candidate for Sumter County School Board District 1 in the Aug. 18, 2026 nonpartisan election.",
+    "primary_result": "Lost Aug. 18, 2026 election with 12,017 votes (31.69%)",
+    "positions": {
+     "taxes": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "property_tax": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "insurance": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "housing": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "immigration": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "abortion": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "guns": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "healthcare": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "social_security": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "education_choice": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "environment": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "growth": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "marijuana": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "elections": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "crime": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "lgbtq": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "energy": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "trump": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "veterans": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     }
+    },
+    "other_issues": [],
+    "record": [],
+    "endorsements": []
+   },
+   {
+    "id": "david_williams",
+    "name": "David A. Williams",
+    "party": "Nonpartisan",
+    "incumbent": null,
+    "photo_url": null,
+    "photo_source": "Not researched (race decided in primary)",
+    "website": null,
+    "occupation": "Not researched",
+    "residence": "Sumter County",
+    "background": "Candidate for Sumter County School Board District 3 in the Aug. 18, 2026 nonpartisan election.",
+    "primary_result": "Won Aug. 18, 2026 election with 20,732 votes (54.52%)",
+    "positions": {
+     "taxes": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "property_tax": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "insurance": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "housing": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "immigration": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "abortion": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "guns": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "healthcare": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "social_security": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "education_choice": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "environment": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "growth": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "marijuana": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "elections": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "crime": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "lgbtq": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "energy": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "trump": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "veterans": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     }
+    },
+    "other_issues": [],
+    "record": [],
+    "endorsements": []
+   },
+   {
+    "id": "gerald_loomer",
+    "name": "Gerald \"Jerry\" Loomer",
+    "party": "Nonpartisan",
+    "incumbent": null,
+    "photo_url": null,
+    "photo_source": "Not researched (race decided in primary)",
+    "website": null,
+    "occupation": "Not researched",
+    "residence": "Sumter County",
+    "background": "Candidate for Sumter County School Board District 3 in the Aug. 18, 2026 nonpartisan election.",
+    "primary_result": "Lost Aug. 18, 2026 election with 17,294 votes (45.48%)",
+    "positions": {
+     "taxes": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "property_tax": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "insurance": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "housing": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "immigration": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "abortion": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "guns": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "healthcare": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "social_security": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "education_choice": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "environment": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "growth": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "marijuana": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "elections": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "crime": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "lgbtq": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "energy": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "trump": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "veterans": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     }
+    },
+    "other_issues": [],
+    "record": [],
+    "endorsements": []
+   },
+   {
+    "id": "michael_johnson",
+    "name": "Michael Johnson",
+    "party": "Nonpartisan",
+    "incumbent": null,
+    "photo_url": null,
+    "photo_source": "Not researched (race decided in primary)",
+    "website": null,
+    "occupation": "Not researched",
+    "residence": "Sumter County",
+    "background": "Candidate for Sumter County School Board District 5 in the Aug. 18, 2026 nonpartisan election.",
+    "primary_result": "Won Aug. 18, 2026 election with 27,154 votes (71.29%)",
+    "positions": {
+     "taxes": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "property_tax": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "insurance": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "housing": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "immigration": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "abortion": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "guns": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "healthcare": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "social_security": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "education_choice": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "environment": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "growth": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "marijuana": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "elections": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "crime": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "lgbtq": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "energy": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "trump": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "veterans": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     }
+    },
+    "other_issues": [],
+    "record": [],
+    "endorsements": []
+   },
+   {
+    "id": "troye_joiner",
+    "name": "Troye Joiner",
+    "party": "Nonpartisan",
+    "incumbent": null,
+    "photo_url": null,
+    "photo_source": "Not researched (race decided in primary)",
+    "website": null,
+    "occupation": "Not researched",
+    "residence": "Sumter County",
+    "background": "Candidate for Sumter County School Board District 5 in the Aug. 18, 2026 nonpartisan election.",
+    "primary_result": "Lost Aug. 18, 2026 election with 10,938 votes (28.71%)",
+    "positions": {
+     "taxes": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "property_tax": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "insurance": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "housing": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "immigration": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "abortion": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "guns": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "healthcare": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "social_security": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "education_choice": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "environment": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "growth": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "marijuana": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "elections": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "crime": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "lgbtq": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "energy": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "trump": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     },
+     "veterans": {
+      "stance": null,
+      "confidence": "unknown",
+      "summary": "No public position found as of Sept 2026.",
+      "quote": null,
+      "sources": []
+     }
+    },
+    "other_issues": [],
+    "record": [],
+    "endorsements": []
+   }
+  ]
+ }
+};

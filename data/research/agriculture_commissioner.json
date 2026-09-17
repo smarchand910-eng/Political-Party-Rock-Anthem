@@ -1,0 +1,410 @@
+{
+  "race_id": "agriculture_commissioner",
+  "verified_ballot_note": "Primary results (Florida Politics, WUWF, WFLA, Florida Tribune) show Republican incumbent Wilton Simpson and Democrat Joey Mendoza Atkins as the Nov. 3 general-election nominees; no NPA or write-in candidates appeared in any source, but the Florida Division of Elections candidate list (floridaelectionwatch.gov / dos.elections.myflorida.com) and Ballotpedia were blocked in this sandbox, so that is unverified. Sources: https://floridapolitics.com/archives/814743-wilton-simpson-runs-away-with-gop-nomination-for-agriculture-commissioner-democrat-joey-mendoza-atkins-advances-to-general-election/ ; https://www.wfla.com/election/4-candidates-battle-for-agriculture-commissioner-nomination/",
+  "candidates": [
+    {
+      "id": "wilton_simpson",
+      "name": "Wilton Simpson",
+      "party": "Republican",
+      "incumbent": true,
+      "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wilton%20Simpson.jpg",
+      "photo_source": "Wikimedia Commons (file name unverified; official portrait on fdacs.gov)",
+      "website": null,
+      "occupation": "Florida Commissioner of Agriculture and Consumer Services; farmer/businessman",
+      "residence": "Trilby, Pasco County (unverified)",
+      "background": "Simpson is the incumbent Commissioner of Agriculture, first elected in 2022, and a former president of the Florida Senate. He is seeking a second term and won the Aug. 18, 2026 Republican primary with roughly 69-70% over Plant City welder and social-media personality Matt 'The Welder' Taylor. His campaign and affiliated committees raised more than $4.8 million in 2026, much of it from farmers and ranchers.",
+      "primary_result": "Won Aug. 18, 2026 Republican primary with about 69% (reports range 68.9%-70.3%) over Matt The Welder (Matthew Taylor), about 31% (Florida Politics; WUWF; ECIKS).",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [
+        {
+          "item": "Elected Commissioner of Agriculture in 2022 after serving as Florida Senate President.",
+          "sources": [
+            {
+              "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
+              "date": null
+            },
+            {
+              "title": "Wilton Simpson (Wikipedia)",
+              "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Campaign finance: Simpson and affiliated political committees raised more than $4.8 million in 2026, versus $1,685 raised plus $8,480 loaned by Democratic nominee Joey Atkins.",
+          "sources": [
+            {
+              "title": "Florida's primary races for commissioner of agriculture (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/08/07/floridas-primary-races-for-commissioner-of-agriculture/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "President Donald Trump",
+          "sources": [
+            {
+              "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "Gov. Ron DeSantis",
+          "sources": [
+            {
+              "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "U.S. Sens. Ashley Moody and Rick Scott (both Florida senators)",
+          "sources": [
+            {
+              "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
+              "date": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "joey_atkins",
+      "name": "Joey Mendoza Atkins",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": "No public portrait URL located",
+      "website": null,
+      "occupation": "Attorney and sports agent",
+      "residence": "Florida (city/county not found)",
+      "background": "Atkins is a trial attorney and sports agent who has provided legal aid to migrant farmworkers. He won the Aug. 18, 2026 Democratic primary with about 60% over Donald 'Don' Prichard. His campaign reported raising $1,685 and loaning itself $8,480 as of early August 2026.",
+      "primary_result": "Won Aug. 18, 2026 Democratic primary with 60.3% over Donald A. 'Don' Prichard, 39.7% (Florida Politics; WUWF).",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Legal aid for migrant farmworkers",
+          "summary": "His campaign biography emphasizes his work providing legal aid to migrant farmworkers; no detailed platform was located in accessible sources.",
+          "sources": [
+            {
+              "title": "Florida's primary races for commissioner of agriculture (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/08/07/floridas-primary-races-for-commissioner-of-agriculture/",
+              "date": null
+            },
+            {
+              "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [],
+      "endorsements": []
+    }
+  ]
+}

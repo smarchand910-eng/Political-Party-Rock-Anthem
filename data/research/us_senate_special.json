@@ -1,0 +1,1730 @@
+{
+  "race_id": "us_senate_special",
+  "verified_ballot_note": "Ballotpedia's race page and its Aug 28, 2026 news summary list the Nov 3 general-election candidates as Ashley Moody (R, incumbent), Angela 'Angie' Nixon (D) and Neil Gillespie (NPA); WUWF's June 12, 2026 qualifying report lists six qualified candidates (Moody, Gleason, Perry and Rivera as Republicans; Nixon and Vindman as Democrats; Gillespie as NPA), and Spectrum News 13's Aug 19 results confirm Perry ran in the Republican primary that Moody won with 75.3%, so Perry is not on the general ballot despite an older Ballotpedia profile labeling her NPA; no qualified write-in candidate was found, but the Florida Division of Elections candidate list could not be accessed from this environment to confirm (https://ballotpedia.org/United_States_Senate_special_election_in_Florida,_2026 ; https://news.ballotpedia.org/2026/08/28/special-election-to-fill-the-remainder-of-sec-of-state-marco-rubios-u-s-senate-term-happening-in-florida-on-nov-3/ ; https://www.wuwf.org/text/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election ; https://mynews13.com/fl/orlando/news/2026/08/19/u-s--senate-republican-primary-results).",
+  "candidates": [
+    {
+      "id": "ashley_moody",
+      "name": "Ashley Moody",
+      "party": "Republican",
+      "incumbent": true,
+      "photo_url": "https://www.congress.gov/img/member/m001244_200.jpg",
+      "photo_source": "Congress.gov official member photo (bioguide M001244)",
+      "website": "https://ashleymoody.com/",
+      "occupation": "U.S. Senator (appointed January 2025); former Florida Attorney General, circuit judge and federal prosecutor",
+      "residence": "Plant City, Hillsborough County",
+      "background": "Ashley Moody, born 1975 in Plant City, earned undergraduate and law degrees from the University of Florida and later served as a federal prosecutor in the Middle District of Florida. She was elected a Hillsborough County circuit judge in 2006, then elected Florida Attorney General in 2018 and re-elected in 2022. Gov. Ron DeSantis appointed her to the U.S. Senate on January 16, 2025, to fill the seat vacated when Marco Rubio became Secretary of State; she was sworn in January 21, 2025. She serves on the Judiciary, Commerce, Armed Services and Special Aging committees. She won the August 18, 2026 Republican primary with 75.3% over Chris Gleason (about 15%), Neelam Perry and Ernie Rivera.",
+      "primary_result": "Won Aug 18, 2026 Republican primary with 75.3%; Chris Gleason second with about 15% (Spectrum News 13; CBS News)",
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Moody voted for the 2025 One Big Beautiful Bill Act and described it as 'the largest tax cut for the working and middle class in history,' highlighting no tax on most tips and overtime and relief for seniors on Social Security income. Her campaign lists the economy and tax relief among its core themes.",
+          "quote": "We finally have a leader back in the White House to secure the border, fight the opioid epidemic, implement the largest tax cut for the working class in history.",
+          "sources": [
+            {
+              "title": "Sen. Ashley Moody Brings Home Wins for Floridians in One Big Beautiful Bill - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/sen-ashley-moody-brings-home-wins-for-floridians-in-one-big-beautiful-bill/",
+              "date": "2025-07"
+            },
+            {
+              "title": "President Donald J. Trump Endorses Ashley Moody to Return to the U.S. Senate - ashleymoody.com",
+              "url": "https://ashleymoody.com/president-donald-j-trump-endorses-ashley-moody/",
+              "date": "2025-07"
+            },
+            {
+              "title": "Immigration, crime and economy shape Ashley Moody's Senate campaign - WGCU",
+              "url": "https://www.wgcu.org/government-politics/2026-09-07/immigration-crime-and-economy-shape-ashley-moodys-senate-campaign",
+              "date": "2026-09-07"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Homestead property tax is a state issue; no statement by Moody on Florida's homestead-tax proposals was found.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. No statement by Moody on state intervention in Florida's property-insurance market was found.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Moody's first Senate bill, the HELPER Act, would create an FHA home-loan program for law-enforcement officers, firefighters, other first responders and K-12 teachers with no down payment and no monthly mortgage-insurance premium. She has not proposed broader housing subsidies, zoning changes or rent measures.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Sen. Ashley Moody introduces HELPER Act. Here's how it would help first responders & teachers - FOX 13",
+              "url": "https://www.fox13news.com/news/sen-ashley-moody-introduces-helper-act-heres-how-would-help-first-responders-teachers",
+              "date": "2025"
+            },
+            {
+              "title": "Senator Moody Fights for Affordable Homeownership for Florida Law Enforcement Officers - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/senator-moody-fights-for-affordable-homeownership-for-florida-law-enforcement-officers/",
+              "date": "2025"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Moody has made border security and immigration enforcement a centerpiece of her Senate work and campaign. She introduced the Expedited Removal of Criminal Aliens Act, co-introduced the White House-backed REMOVE Act to conclude removal proceedings within 15 days, and filed the RIPPLE Act to expand the 287(g) state-local enforcement program. Haitian TPS advocates in Miami have pressed her to protect TPS holders from deportation.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Immigration, crime and economy shape Ashley Moody's Senate campaign - WGCU",
+              "url": "https://www.wgcu.org/government-politics/2026-09-07/immigration-crime-and-economy-shape-ashley-moodys-senate-campaign",
+              "date": "2026-09-07"
+            },
+            {
+              "title": "Senator Ashley Moody Leads Efforts to Codify President Trump's Immigration Priorities, Introduces Expedited Removal of Criminal Aliens Act - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/senator-ashley-moody-leads-efforts-to-codify-president-trumps-immigration-priorities-introduces-expedited-removal-of-criminal-aliens-act/",
+              "date": "2025"
+            },
+            {
+              "title": "Senators Ashley Moody, Marsha Blackburn and Colleagues Introduce Bill Backed by White House to Expedite Removal of Illegal Aliens - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/senators-ashley-moody-marsha-blackburn-and-colleagues-introduce-bill-backed-by-white-house-to-expedite-removal-of-illegal-aliens-from-united-states/",
+              "date": "2025-06"
+            },
+            {
+              "title": "Senator Ashley Moody Introduces Legislation to Empower States to Enforce Illegal Immigration Laws & Prevent Human Trafficking of Children at the Border - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/senator-ashley-moody-introduces-legislation-to-empower-states-to-enforce-illegal-immigration-laws-prevent-human-trafficking-of-children-at-the-border/",
+              "date": "2025-05"
+            },
+            {
+              "title": "Miami Activists Press Moody, Scott on Haitian TPS - Hoodline",
+              "url": "https://hoodline.com/2026/09/miami-activists-demand-moody-scott-save-haitian-tps-holders-from-deportation/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Moody has pledged to be a pro-life lawmaker. In the Senate she introduced the Child Interstate Abortion Notification Act, sponsored the Pregnant Students' Rights Act and cosponsored the Born-Alive Abortion Survivors Protection Act. SBA Pro-Life America tracks her as pro-life; Reproductive Freedom for All scores her record as opposed to abortion rights.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Sen. Ashley Moody - SBA Pro-Life America Scorecard",
+              "url": "https://sbaprolife.org/senator/ashley-moody",
+              "date": null
+            },
+            {
+              "title": "Senator Moody Introduces Child Interstate Abortion Notification Act - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/news-release-senator-moody-introduces-child-interstate-abortion-notification-act-to-empower-parents-and-strengthen-accountability/",
+              "date": "2025"
+            },
+            {
+              "title": "Senator Moody Supports Life, Sponsors Pregnant Students' Rights Act - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/news-release-senator-moody-supports-life-sponsors-pregnant-students-rights-act/",
+              "date": "2025"
+            },
+            {
+              "title": "Ashley Moody cosponsors bill calling for more penalties for medical professionals who mishandle abortions - Florida Politics",
+              "url": "https://floridapolitics.com/archives/759890-ashley-moody-cosponsors-bill-calling-more-penalties-for-medical-professionals-who-mishandle-abortions/",
+              "date": "2025"
+            },
+            {
+              "title": "Ashley Moody's Congressional Scorecard - Reproductive Freedom for All",
+              "url": "https://reproductivefreedomforall.org/lawmaker/ashley-moody/",
+              "date": null
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Moody cosponsored the Constitutional Concealed Carry Reciprocity Act in the Senate. As Florida Attorney General she joined a 26-state lawsuit to block a Biden-administration rule expanding background checks at gun shows, calling it federal overreach, and she petitioned the Florida Supreme Court against a proposed assault-weapons-ban ballot initiative. No specific statement on Florida's red-flag law or 21 purchase age was found.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Senator Moody Fights for Americans' Second Amendment Rights, Cosponsors Concealed-Carry Reciprocity Bill - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/news-release-senator-moody-fights-for-americans-second-amendment-rights-cosponsors-concealed-carry-reciprocity-bill/",
+              "date": "2025"
+            },
+            {
+              "title": "Ashley Moody among 26 Republican AGs suing to block Joe Biden rule requiring background checks at gun shows - Florida Politics",
+              "url": "https://floridapolitics.com/archives/672428-ashley-moody-among-26-republican-ags-suing-to-block-joe-biden-rule-requiring-background-checks-at-gun-shows/",
+              "date": "2024-05"
+            },
+            {
+              "title": "Ashley Moody sticks to her guns on assault weapon ban opposition - Florida Politics",
+              "url": "https://floridapolitics.com/archives/302560-ashley-moody-sticks-to-her-guns-on-assault-weapon-ban-opposition/",
+              "date": "2019"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "In December 2025 Moody voted against a three-year extension of enhanced Affordable Care Act premium subsidies; Florida has about 4.7 million ACA marketplace enrollees. She voted for the One Big Beautiful Bill Act, which the Congressional Budget Office estimated reduces federal Medicaid spending by roughly $1 trillion over a decade. She said the shutdown fight over subsidies was 'avoidable' and blamed Democrats for 'grandstanding.'",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Ashley Moody, Rick Scott vote to kill extension of health care subsidies - Florida Politics",
+              "url": "https://floridapolitics.com/archives/769482-ashley-moody-rick-scott-vote-to-kill-extension-of-health-care-subsidies/",
+              "date": "2025-12"
+            },
+            {
+              "title": "Angie Nixon says there are '$10 million reasons' to oppose Ashley Moody - Florida Phoenix",
+              "url": "https://floridaphoenix.com/2026/09/09/angie-nixon-says-there-are-10-million-reasons-to-oppose-ashley-moody/",
+              "date": "2026-09-09"
+            },
+            {
+              "title": "Sen. Ashley Moody Brings Home Wins for Floridians in One Big Beautiful Bill - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/sen-ashley-moody-brings-home-wins-for-floridians-in-one-big-beautiful-bill/",
+              "date": "2025-07"
+            },
+            {
+              "title": "Sen. Ashley Moody criticizes Democrats for 'grandstanding': 'All of this was avoidable' - AOL/News",
+              "url": "https://www.aol.com/news/sen-ashley-moody-criticizes-democrats-121633729.html",
+              "date": "2025"
+            }
+          ]
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026 on whether benefits should be protected from any cuts even if more revenue is required. Related record: she voted for the One Big Beautiful Bill Act and highlighted its tax relief for seniors on Social Security income, and she serves on the Senate Special Committee on Aging. Florida Democrats have criticized her for supporting DOGE-era staffing cuts at the Social Security Administration.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Sen. Ashley Moody Brings Home Wins for Floridians in One Big Beautiful Bill - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/sen-ashley-moody-brings-home-wins-for-floridians-in-one-big-beautiful-bill/",
+              "date": "2025-07"
+            },
+            {
+              "title": "About - Ashley Moody - Senate.gov",
+              "url": "https://www.moody.senate.gov/about/",
+              "date": null
+            },
+            {
+              "title": "Dems slam Ashley Moody's healthcare record in Orlando - Orlando Weekly",
+              "url": "https://www.orlandoweekly.com/news/orlando-area-news/moody-should-take-a-play-from-dollys-life-dems-slam-ashley-moodys-healthcare-record-in-orlando/",
+              "date": "2026"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Moody is co-chair of National School Choice Week, cosponsored the Educational Choice for Children Act (a federal tax-credit scholarship program), and held a Tampa news conference with Education Secretary Linda McMahon touting the school-choice provisions in the One Big Beautiful Bill Act. She cites Florida's universal school-choice program as a national model.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "As Co-Chair of National School Choice Week, Senator Moody Promotes Educational Freedom in America - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/video-release-as-co-chair-of-national-school-choice-week-senator-moody-promotes-educational-freedom-in-america-touts-success-in-floridas-model/",
+              "date": "2026-01"
+            },
+            {
+              "title": "Senator Ashley Moody Shares Support for Legislation to Provide Parents with Additional Scholarship Funds for K-12 Education Options - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/senator-ashley-moody-shares-support-for-legislation-to-provide-parents-with-additional-scholarship-funds-for-k-12-education-options/",
+              "date": "2025"
+            },
+            {
+              "title": "Sen. Ashley Moody, Linda McMahon highlight 'school choice expansion wins' at Tampa news conference - FOX 13",
+              "url": "https://www.fox13news.com/news/sen-moody-linda-mcmahon-hold-news-conference-tampa-school-choice-expansion-wins",
+              "date": "2025"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Moody introduced the American Shores Protection Act to extend the ban on oil and gas drilling off Florida's coasts through 2032 and led a bipartisan Florida delegation letter to President Trump opposing drilling off Florida, citing tourism, the environment and the Gulf Test Range. No statement was found on broader conservation-land, water-quality or climate-resilience trade-offs with development.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Sen. Ashley Moody Fights to Protect Florida's Coast from Off-Shore Oil Drilling, Introduces the American Shores Protection Act - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/news-release-sen-ashley-moody-fights-to-protect-floridas-coast-from-off-shore-oil-drilling-introduces-the-american-shores-protection-act/",
+              "date": "2025-12"
+            },
+            {
+              "title": "Senators Ashley Moody & Rick Scott Lead Bipartisan Florida Delegation Letter to President Trump: Keep Oil Drilling Off Florida's Coasts - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/news-release-senators-ashley-moody-rick-scott-lead-bipartisan-florida-delegation-letter-to-president-trump-keep-oil-drilling-off-floridas-coasts/",
+              "date": "2025-12"
+            },
+            {
+              "title": "Sen. Ashley Moody on her legislative goals for this year and more - WUSF",
+              "url": "https://www.wusf.org/politics-issues/2026-01-24/u-s-senator-ashley-moody-legislative-goals",
+              "date": "2026-01-24"
+            }
+          ]
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Growth management is a state/local issue; no Moody statement was found.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": -1,
+          "confidence": "record",
+          "summary": "As Attorney General, Moody asked the Florida Supreme Court to keep recreational-marijuana legalization initiatives off the ballot in 2019 (2020 cycle) and 2023 (2024 cycle, Amendment 3), arguing the ballot language was misleading; the court allowed Amendment 3 on the ballot 5-2. No statement on federal legalization was found.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Florida attorney general to challenge marijuana legalization referendum - Sun Sentinel (via PressReader)",
+              "url": "https://www.pressreader.com/usa/sun-sentinel-broward-edition/20190912/281792810725179",
+              "date": "2019-09-12"
+            },
+            {
+              "title": "Ashley Moody - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ashley_Moody",
+              "date": null
+            }
+          ]
+        },
+        "elections": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Moody cosponsored the SAVE Act / SAVE America Act, which would require documentary proof of citizenship and photo ID for federal elections, and as Attorney General led a 22-state coalition urging the Senate to pass it. In 2026 she pushed a combined voter-ID and congressional stock-trading-ban bill. As AG in 2020 she joined the Texas lawsuit asking the Supreme Court to overturn results in four states.",
+          "quote": "The SAVE Act is important legislation that ensures only Americans vote in American elections.",
+          "sources": [
+            {
+              "title": "Ashley Moody urges Senate to pass SAVE Act for election security - The Capitolist",
+              "url": "https://thecapitolist.com/ashley-moody-urges-senate-to-pass-save-act-for-election-security/amp/",
+              "date": "2024-07"
+            },
+            {
+              "title": "Ashley Moody pushes Senate to pass combined voter ID, stock trading ban bill - Florida Politics",
+              "url": "https://floridapolitics.com/archives/810019-ashley-moody-pushes-senate-to-pass-combined-voter-id-stock-trading-ban-bill/",
+              "date": "2026"
+            },
+            {
+              "title": "Attorney General Moody and Coalition Call on US Senate to Pass SAVE Act - My Florida Legal",
+              "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-moody-and-coalition-call-us-senate-pass-save-act-ensure-only-americans",
+              "date": "2024-07"
+            },
+            {
+              "title": "Ashley Moody - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ashley_Moody",
+              "date": null
+            },
+            {
+              "title": "Sen. Ashley Moody, anti-voting hardliner, wins Florida GOP primary for U.S. Senate - Democracy Docket",
+              "url": "https://www.democracydocket.com/news-alerts/ashley-moody-anti-voting-hardliner-wins-florida-gop-primary-senate/",
+              "date": "2026-08-18"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "A former prosecutor and judge, Moody sits on the Judiciary Committee, where during her first Police Week the committee advanced an eight-bill law-enforcement package she promoted that boosts local police investment and officer benefits. She is a cosponsor of the Back the Blue Act creating new federal crimes and mandatory minimums for assaulting officers. The Florida Police Chiefs Association and other law-enforcement groups have endorsed her.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "During Ashley Moody's First Police Week as a U.S. Senator, Judiciary Committee Passes Largest Pro-Law Enforcement Package in 15 Years - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/during-ashley-moodys-first-police-week-as-a-u-s-senator-judiciary-committee-passes-largest-pro-law-enforcement-package-in-15-years/",
+              "date": "2025-05"
+            },
+            {
+              "title": "Back the Blue Act of 2025 (S.3366) - govinfo",
+              "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3366.xml",
+              "date": "2025"
+            },
+            {
+              "title": "Home - Ashley Moody for U.S. Senate (Florida Police Chiefs Association endorsement)",
+              "url": "https://ashleymoody.com/",
+              "date": "2026"
+            },
+            {
+              "title": "Immigration, crime and economy shape Ashley Moody's Senate campaign - WGCU",
+              "url": "https://www.wgcu.org/government-politics/2026-09-07/immigration-crime-and-economy-shape-ashley-moodys-senate-campaign",
+              "date": "2026-09-07"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "As Attorney General, Moody sued the Biden administration over a federal rule barring discrimination based on gender identity in health care, arguing it would force doctors to provide gender-affirming treatments to minors. Gov. DeSantis cited that record when appointing her, and in a 2025 Senate hearing she sharply questioned an LGBTQ legal advocate over gender-affirming care for minors.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Florida sues Biden administration over gender-affirming care rule - CBS Miami",
+              "url": "https://cbsnews.com/miami/news/florida-sues-biden-administration-over-gender-affirming-care-rule/",
+              "date": "2024"
+            },
+            {
+              "title": "Florida Gov. Ron DeSantis appoints Ashley Moody as Marco Rubio's replacement in the Senate - The Advocate",
+              "url": "https://www.advocate.com/politics/ashley-moody-florida-senate",
+              "date": "2025-01"
+            },
+            {
+              "title": "Sen. Moody's heated clash with LGBTQ advocate over gender care for minors (Senate hearing video) - YouTube",
+              "url": "https://www.youtube.com/watch?v=cn-6MY5Votc",
+              "date": "2025"
+            }
+          ]
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026 on promoting renewables or utility-rate oversight. Related record: she opposes offshore oil and gas drilling near Florida (American Shores Protection Act) while broadly supporting the Trump administration's agenda.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Sen. Ashley Moody Fights to Protect Florida's Coast from Off-Shore Oil Drilling, Introduces the American Shores Protection Act - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/news-release-sen-ashley-moody-fights-to-protect-floridas-coast-from-off-shore-oil-drilling-introduces-the-american-shores-protection-act/",
+              "date": "2025-12"
+            },
+            {
+              "title": "Sen. Ashley Moody on her legislative goals for this year and more - WUSF",
+              "url": "https://www.wusf.org/politics-issues/2026-01-24/u-s-senator-ashley-moody-legislative-goals",
+              "date": "2026-01-24"
+            }
+          ]
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026 on whether tariffs benefit the U.S. economy. Related: she and Sen. Rick Scott urged the administration to use 'trade leverage' to block a proposed International Maritime Organization shipping levy.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Ashley Moody, Rick Scott urge Donald Trump administration to block proposed international shipping tax - Florida Politics",
+              "url": "https://floridapolitics.com/archives/756860-ashley-moody-rick-scott-urge-donald-trump-administration-to-block-proposed-international-shipping-tax/",
+              "date": "2025-10"
+            }
+          ]
+        },
+        "ukraine": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In February 2022 Moody condemned Russia's invasion and said 'America must always stand for freedom.' In February 2025, after the Trump-Zelensky Oval Office meeting, she wrote that under Biden the U.S. 'poured billions of taxpayer dollars into Ukraine with no clear end to the war in sight' and that 'America is not your piggy bank,' thanking President Trump for pursuing peace.",
+          "quote": "America is not your piggy bank.",
+          "sources": [
+            {
+              "title": "Senator Ashley Moody on X: 'Under Biden, the U.S. poured billions of taxpayer dollars into Ukraine ... America is not your piggy bank.'",
+              "url": "https://x.com/SenAshleyMoody/status/1895598634797863137",
+              "date": "2025-02-28"
+            },
+            {
+              "title": "Ashley Moody on X (Feb 2022) on Russia's invasion of Ukraine",
+              "url": "https://x.com/SenAshleyMoody/status/1496852587555041284",
+              "date": "2022-02-24"
+            },
+            {
+              "title": "Ashley Moody's policy on Ukrainian Defense Funding - iSideWith",
+              "url": "https://www.isidewith.com/candidates/ashley-moody/policies/foreign-policy/ukrainian-defense-funding",
+              "date": null
+            }
+          ]
+        },
+        "trump": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Moody has closely aligned herself with President Trump, who gave her his 'Complete and Total Endorsement.' She said she is 'honored' to 'work together to bring America into the Golden Age and deliver the America First agenda,' and has appeared with Trump at events including in The Villages.",
+          "quote": "I am honored by the endorsement of President Donald Trump as we work together to bring America into the Golden Age and deliver the America First agenda.",
+          "sources": [
+            {
+              "title": "President Donald J. Trump Endorses Ashley Moody to Return to the U.S. Senate - ashleymoody.com",
+              "url": "https://ashleymoody.com/president-donald-j-trump-endorses-ashley-moody/",
+              "date": "2025-07"
+            },
+            {
+              "title": "Trump endorses Ashley Moody for Senate in 2026 - Tampa Bay Times",
+              "url": "https://www.tampabay.com/news/florida-politics/2025/07/24/trump-desantis-moody-immigration-rubio-biden-supreme-court/",
+              "date": "2025-07-24"
+            },
+            {
+              "title": "Senator Moody and President Trump Tout Recent Policy Wins in The Villages - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/video-release-senator-moody-and-president-trump-tout-recent-policy-wins-in-the-villages/",
+              "date": "2025"
+            },
+            {
+              "title": "Immigration, crime and economy shape Ashley Moody's Senate campaign - WGCU",
+              "url": "https://www.wgcu.org/government-politics/2026-09-07/immigration-crime-and-economy-shape-ashley-moodys-senate-campaign",
+              "date": "2026-09-07"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Moody introduced the Veterans Bill of Rights Act and the Veterans Outdoor Rehabilitation Act ($10 million a year in VA grants for outdoor programs aimed at reducing veteran suicide), cosponsored the bipartisan Major Richard Star Act to give combat-injured retirees full DOD retirement and VA disability pay, and supported the VETS Opportunity Act and Restore VA Accountability Act.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Senator Moody Brings Veterans Bill of Rights Act to Thousands of Florida Veterans - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/video-senator-moody-brings-veterans-bill-of-rights-act-to-thousands-of-florida-veterans/",
+              "date": "2025"
+            },
+            {
+              "title": "Senator Moody's bill funds outdoor mental health for veterans - WFTV",
+              "url": "https://www.wftv.com/news/local/orange-county/bill-targets-veteran-suicide-rates-by-funding-outdoor-recreation/6IUJL3D5PFHZTB7BXBYK5IHWOY/",
+              "date": "2025"
+            },
+            {
+              "title": "Sen. Ashley Moody Joins Colleagues to Deliver Combat-Injured Veterans Full Military Benefits - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/sen-ashley-moody-joins-colleagues-to-deliver-combat-injured-veterans-full-military-benefits/",
+              "date": "2025"
+            },
+            {
+              "title": "Senator Ashley Moody Lays Out Record On Florida Veteran And Military Support - Tampa Free Press",
+              "url": "https://www.tampafp.com/senator-ashley-moody-lays-out-record-on-florida-veteran-and-military-support/",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Offshore drilling moratorium (American Shores Protection Act)",
+          "summary": "Codify and extend through 2032 the ban on oil and gas drilling off Florida's Gulf and Atlantic coasts; she calls it a top 2026 legislative goal.",
+          "sources": [
+            {
+              "title": "Sen. Ashley Moody Fights to Protect Florida's Coast from Off-Shore Oil Drilling, Introduces the American Shores Protection Act - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/news-release-sen-ashley-moody-fights-to-protect-floridas-coast-from-off-shore-oil-drilling-introduces-the-american-shores-protection-act/",
+              "date": "2025-12"
+            },
+            {
+              "title": "Sen. Ashley Moody on her legislative goals for this year and more - WUSF",
+              "url": "https://www.wusf.org/politics-issues/2026-01-24/u-s-senator-ashley-moody-legislative-goals",
+              "date": "2026-01-24"
+            }
+          ]
+        },
+        {
+          "title": "Voter ID paired with congressional stock-trading ban",
+          "summary": "Pushed the Senate in 2026 to pass a combined bill requiring voter ID/proof of citizenship and banning stock trading by members of Congress.",
+          "sources": [
+            {
+              "title": "Ashley Moody pushes Senate to pass combined voter ID, stock trading ban bill - Florida Politics",
+              "url": "https://floridapolitics.com/archives/810019-ashley-moody-pushes-senate-to-pass-combined-voter-id-stock-trading-ban-bill/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "HELPER Act home loans for first responders and teachers",
+          "summary": "Create an FHA loan program with no down payment or monthly mortgage insurance for police, firefighters, EMTs and K-12 teachers.",
+          "sources": [
+            {
+              "title": "Sen. Ashley Moody introduces HELPER Act. Here's how it would help first responders & teachers - FOX 13",
+              "url": "https://www.fox13news.com/news/sen-ashley-moody-introduces-helper-act-heres-how-would-help-first-responders-teachers",
+              "date": "2025"
+            },
+            {
+              "title": "Senator Moody Fights for Affordable Homeownership for Florida Law Enforcement Officers - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/senator-moody-fights-for-affordable-homeownership-for-florida-law-enforcement-officers/",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "title": "Kennedy Space Center and aerospace workforce",
+          "summary": "Says she passed legislation in 2025 supporting Kennedy Space Center and backs expanding Florida's technical/aerospace workforce.",
+          "sources": [
+            {
+              "title": "Sen. Ashley Moody on her legislative goals for this year and more - WUSF",
+              "url": "https://www.wusf.org/politics-issues/2026-01-24/u-s-senator-ashley-moody-legislative-goals",
+              "date": "2026-01-24"
+            },
+            {
+              "title": "Moody Backs Florida Aerospace Workers And Technical Workforce Expansion - Tampa Free Press",
+              "url": "https://www.tampafp.com/moody-backs-florida-aerospace-workers-and-technical-workforce-expansion/",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "title": "Opioid and fentanyl enforcement",
+          "summary": "Cites litigating Florida's multibillion-dollar opioid settlements as AG and lists fighting the opioid epidemic among her Senate priorities.",
+          "sources": [
+            {
+              "title": "AG Moody Leaves Legacy of Fighting Fed Overreach, Protecting the Border, Prosecuting Traffickers, Combating the Opioid Crisis ... - My Florida Legal",
+              "url": "https://www.myfloridalegal.com/newsrelease/ag-moody-leaves-legacy-fighting-fed-overreach-protecting-the-border-prosecuting-traffickers",
+              "date": "2025-01"
+            },
+            {
+              "title": "Florida Reaches Opioid Settlements Topping $870 Million - CBS Miami",
+              "url": "https://www.cbsnews.com/miami/news/florida-reaches-opioid-settlements-topping-870-million/",
+              "date": "2022"
+            },
+            {
+              "title": "President Donald J. Trump Endorses Ashley Moody to Return to the U.S. Senate - ashleymoody.com",
+              "url": "https://ashleymoody.com/president-donald-j-trump-endorses-ashley-moody/",
+              "date": "2025-07"
+            }
+          ]
+        },
+        {
+          "title": "Placement of unaccompanied migrant children (Stop GAPS Act)",
+          "summary": "Require HHS's Office of Refugee Resettlement to coordinate with states before placing unaccompanied migrant children with sponsors.",
+          "sources": [
+            {
+              "title": "Senator Ashley Moody Introduces Legislation to Empower States to Enforce Illegal Immigration Laws & Prevent Human Trafficking of Children at the Border - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/senator-ashley-moody-introduces-legislation-to-empower-states-to-enforce-illegal-immigration-laws-prevent-human-trafficking-of-children-at-the-border/",
+              "date": "2025-05"
+            }
+          ]
+        },
+        {
+          "title": "FEMA disaster reimbursements for Florida",
+          "summary": "Announced securing more than $1.5 billion in delayed FEMA disaster-recovery reimbursements for Florida in 2026 and pressed the FEMA nominee on Florida's outstanding funds.",
+          "sources": [
+            {
+              "title": "Senator Moody Secures Massive $1.5 BILLION in FEMA Disaster Recovery Funding for Florida - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/senator-moody-secures-massive-1-5-billion-in-fema-disaster-recovery-funding-for-florida/",
+              "date": "2026-05"
+            },
+            {
+              "title": "$1.7 Billion On The Line: Florida Senator Moody Grills FEMA Nominee Over Florida Disaster Cash - Tampa Free Press",
+              "url": "https://www.tampafp.com/1-7-billion-on-the-line-florida-senator-moody-grills-fema-nominee-over-florida-disaster-cash/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Blocking a proposed international shipping levy",
+          "summary": "With Sen. Rick Scott, urged the administration to use trade leverage to block an International Maritime Organization carbon-pricing framework she says would raise costs at Florida ports.",
+          "sources": [
+            {
+              "title": "Ashley Moody, Rick Scott urge Donald Trump administration to block proposed international shipping tax - Florida Politics",
+              "url": "https://floridapolitics.com/archives/756860-ashley-moody-rick-scott-urge-donald-trump-administration-to-block-proposed-international-shipping-tax/",
+              "date": "2025-10"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted for the One Big Beautiful Bill Act (July 2025), which extended the 2017 tax cuts, added deductions for tips, overtime and seniors, and reduced projected federal Medicaid spending by about $1 trillion over ten years per CBO-based analyses.",
+          "sources": [
+            {
+              "title": "Sen. Ashley Moody Brings Home Wins for Floridians in One Big Beautiful Bill - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/sen-ashley-moody-brings-home-wins-for-floridians-in-one-big-beautiful-bill/",
+              "date": "2025-07"
+            },
+            {
+              "title": "Fact-checking falsehoods about Trump's 'Big Beautiful Bill' and taxes, deficit, Medicaid - PolitiFact",
+              "url": "https://politifact.com/article/2025/jun/24/one-big-beautiful-bill-trump-taxes-senate/",
+              "date": "2025-06-24"
+            }
+          ]
+        },
+        {
+          "item": "Voted in December 2025 against a three-year extension of enhanced ACA premium subsidies; Florida Democrats and Nixon have criticized the vote, citing roughly 440,000 Floridians who dropped ACA coverage after the subsidies lapsed in January 2026.",
+          "sources": [
+            {
+              "title": "Ashley Moody, Rick Scott vote to kill extension of health care subsidies - Florida Politics",
+              "url": "https://floridapolitics.com/archives/769482-ashley-moody-rick-scott-vote-to-kill-extension-of-health-care-subsidies/",
+              "date": "2025-12"
+            },
+            {
+              "title": "Angie Nixon says there are '$10 million reasons' to oppose Ashley Moody - Florida Phoenix",
+              "url": "https://floridaphoenix.com/2026/09/09/angie-nixon-says-there-are-10-million-reasons-to-oppose-ashley-moody/",
+              "date": "2026-09-09"
+            }
+          ]
+        },
+        {
+          "item": "Introduced the Expedited Removal of Criminal Aliens Act and co-introduced the REMOVE Act and RIPPLE Act (287(g) expansion) to speed deportations and expand state/local immigration enforcement.",
+          "sources": [
+            {
+              "title": "Senator Ashley Moody Leads Efforts to Codify President Trump's Immigration Priorities, Introduces Expedited Removal of Criminal Aliens Act - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/senator-ashley-moody-leads-efforts-to-codify-president-trumps-immigration-priorities-introduces-expedited-removal-of-criminal-aliens-act/",
+              "date": "2025"
+            },
+            {
+              "title": "Senators Ashley Moody, Marsha Blackburn and Colleagues Introduce Bill Backed by White House to Expedite Removal of Illegal Aliens - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/senators-ashley-moody-marsha-blackburn-and-colleagues-introduce-bill-backed-by-white-house-to-expedite-removal-of-illegal-aliens-from-united-states/",
+              "date": "2025-06"
+            },
+            {
+              "title": "Senator Ashley Moody Introduces Legislation to Empower States to Enforce Illegal Immigration Laws & Prevent Human Trafficking of Children at the Border - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/senator-ashley-moody-introduces-legislation-to-empower-states-to-enforce-illegal-immigration-laws-prevent-human-trafficking-of-children-at-the-border/",
+              "date": "2025-05"
+            }
+          ]
+        },
+        {
+          "item": "Introduced the American Shores Protection Act (Dec 2025) to extend the offshore drilling moratorium off Florida through 2032, with bipartisan cosponsors.",
+          "sources": [
+            {
+              "title": "Sen. Ashley Moody Fights to Protect Florida's Coast from Off-Shore Oil Drilling, Introduces the American Shores Protection Act - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/news-release-sen-ashley-moody-fights-to-protect-floridas-coast-from-off-shore-oil-drilling-introduces-the-american-shores-protection-act/",
+              "date": "2025-12"
+            }
+          ]
+        },
+        {
+          "item": "Cosponsored the Constitutional Concealed Carry Reciprocity Act and the Born-Alive Abortion Survivors Protection Act; introduced the Child Interstate Abortion Notification Act.",
+          "sources": [
+            {
+              "title": "Senator Moody Fights for Americans' Second Amendment Rights, Cosponsors Concealed-Carry Reciprocity Bill - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/news-release-senator-moody-fights-for-americans-second-amendment-rights-cosponsors-concealed-carry-reciprocity-bill/",
+              "date": "2025"
+            },
+            {
+              "title": "Ashley Moody cosponsors bill calling for more penalties for medical professionals who mishandle abortions - Florida Politics",
+              "url": "https://floridapolitics.com/archives/759890-ashley-moody-cosponsors-bill-calling-more-penalties-for-medical-professionals-who-mishandle-abortions/",
+              "date": "2025"
+            },
+            {
+              "title": "Senator Moody Introduces Child Interstate Abortion Notification Act - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/news-release-senator-moody-introduces-child-interstate-abortion-notification-act-to-empower-parents-and-strengthen-accountability/",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "item": "As Attorney General (2019-2025), negotiated opioid settlements including more than $870 million with CVS, Teva and Allergan as part of a roughly $3.1 billion total; an appeals court later questioned her authority to settle claims on behalf of local governments.",
+          "sources": [
+            {
+              "title": "Florida Reaches Opioid Settlements Topping $870 Million - CBS Miami",
+              "url": "https://www.cbsnews.com/miami/news/florida-reaches-opioid-settlements-topping-870-million/",
+              "date": "2022"
+            },
+            {
+              "title": "Did Ashley Moody overstep authority in $3.1B opioid settlement? Appellate court considers the case - Florida Politics",
+              "url": "https://floridapolitics.com/archives/673476-did-ashley-moody-overstep-authority-in-3-1b-opioid-settlement-appellate-court-considers-the-case/",
+              "date": "2024"
+            }
+          ]
+        },
+        {
+          "item": "As Attorney General in December 2020, joined 16 other Republican AGs supporting the Texas lawsuit asking the U.S. Supreme Court to overturn the 2020 presidential results in four states; the court dismissed the case.",
+          "sources": [
+            {
+              "title": "Ashley Moody - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ashley_Moody",
+              "date": null
+            },
+            {
+              "title": "More about Ashley Moody, appointed to be Florida's next US senator - WUSF",
+              "url": "https://www.wusf.org/politics-issues/2025-01-17/learn-more-ashley-moody-appointed-next-florida-us-senator",
+              "date": "2025-01-17"
+            }
+          ]
+        },
+        {
+          "item": "As Attorney General, asked the Florida Supreme Court to strike recreational-marijuana ballot initiatives (2019 and 2023) and joined a 26-state suit against the Biden gun-show background-check rule.",
+          "sources": [
+            {
+              "title": "Florida attorney general to challenge marijuana legalization referendum - Sun Sentinel (via PressReader)",
+              "url": "https://www.pressreader.com/usa/sun-sentinel-broward-edition/20190912/281792810725179",
+              "date": "2019-09-12"
+            },
+            {
+              "title": "Ashley Moody - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ashley_Moody",
+              "date": null
+            },
+            {
+              "title": "Ashley Moody among 26 Republican AGs suing to block Joe Biden rule requiring background checks at gun shows - Florida Politics",
+              "url": "https://floridapolitics.com/archives/672428-ashley-moody-among-26-republican-ags-suing-to-block-joe-biden-rule-requiring-background-checks-at-gun-shows/",
+              "date": "2024-05"
+            }
+          ]
+        },
+        {
+          "item": "Criticism: an Out of the Swamp PAC ad (Nov 2025) said she 'sided with Trump' on votes affecting FEMA, National Weather Service and disaster-aid funding; her office says she has secured more than $2.3 billion in FEMA reimbursements for Florida.",
+          "sources": [
+            {
+              "title": "Ashley Moody attacked in new ad over FEMA funding vote - Florida Politics",
+              "url": "https://floridapolitics.com/archives/766313-ashley-moody-attacked-in-new-ad-over-fema-funding-vote/",
+              "date": "2025-11"
+            },
+            {
+              "title": "Senator Moody Secures Massive $1.5 BILLION in FEMA Disaster Recovery Funding for Florida - moody.senate.gov",
+              "url": "https://www.moody.senate.gov/press-releases/senator-moody-secures-massive-1-5-billion-in-fema-disaster-recovery-funding-for-florida/",
+              "date": "2026-05"
+            }
+          ]
+        },
+        {
+          "item": "Criticism: Angie Nixon alleges that as AG Moody transferred $10 million in taxpayer funds intended for children's health care to a political committee; Florida Democrats have also criticized her support for DOGE cuts affecting Social Security Administration staffing.",
+          "sources": [
+            {
+              "title": "Angie Nixon says there are '$10 million reasons' to oppose Ashley Moody - Florida Phoenix",
+              "url": "https://floridaphoenix.com/2026/09/09/angie-nixon-says-there-are-10-million-reasons-to-oppose-ashley-moody/",
+              "date": "2026-09-09"
+            },
+            {
+              "title": "Dems slam Ashley Moody's healthcare record in Orlando - Orlando Weekly",
+              "url": "https://www.orlandoweekly.com/news/orlando-area-news/moody-should-take-a-play-from-dollys-life-dems-slam-ashley-moodys-healthcare-record-in-orlando/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "item": "Endorsed by President Trump in July 2025 and won the Aug 18, 2026 GOP primary with 75.3%.",
+          "sources": [
+            {
+              "title": "Trump endorses Ashley Moody for Senate in 2026 - Tampa Bay Times",
+              "url": "https://www.tampabay.com/news/florida-politics/2025/07/24/trump-desantis-moody-immigration-rubio-biden-supreme-court/",
+              "date": "2025-07-24"
+            },
+            {
+              "title": "U.S. Senate Republican primary results - Spectrum News 13",
+              "url": "https://mynews13.com/fl/orlando/news/2026/08/19/u-s--senate-republican-primary-results",
+              "date": "2026-08-19"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "President Donald Trump",
+          "sources": [
+            {
+              "title": "Trump endorses Ashley Moody for Senate in 2026 - Tampa Bay Times",
+              "url": "https://www.tampabay.com/news/florida-politics/2025/07/24/trump-desantis-moody-immigration-rubio-biden-supreme-court/",
+              "date": "2025-07-24"
+            },
+            {
+              "title": "President Donald J. Trump Endorses Ashley Moody to Return to the U.S. Senate - ashleymoody.com",
+              "url": "https://ashleymoody.com/president-donald-j-trump-endorses-ashley-moody/",
+              "date": "2025-07"
+            }
+          ]
+        },
+        {
+          "by": "U.S. Sen. Rick Scott",
+          "sources": [
+            {
+              "title": "Trump supports Ashley Moody for Florida US Senate special election in 2026 - Florida's Voice",
+              "url": "https://flvoicenews.com/trump-backs-ashley-moody-for-florida-us-senate-special-election-in-2026/",
+              "date": "2025-07"
+            }
+          ]
+        },
+        {
+          "by": "Republican Party of Florida",
+          "sources": [
+            {
+              "title": "Ashley B. Moody - Ballotpedia",
+              "url": "https://ballotpedia.org/Ashley_B._Moody",
+              "date": null
+            },
+            {
+              "title": "Endorsements - Ashley Moody for U.S. Senate",
+              "url": "https://ashleymoody.com/endorsements/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "Florida Police Chiefs Association",
+          "sources": [
+            {
+              "title": "Home - Ashley Moody for U.S. Senate (Florida Police Chiefs Association endorsement)",
+              "url": "https://ashleymoody.com/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "Florida Realtors",
+          "sources": [
+            {
+              "title": "REALTORS Endorse Ashley Moody for U.S. Senate - ashleymoody.com",
+              "url": "https://ashleymoody.com/realtors-endorse-ashley-moody/",
+              "date": "2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "angie_nixon",
+      "name": "Angie Nixon",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": "https://www.myfloridahouse.gov/FileStores/Web/Imaging/Member/4766.jpg",
+      "photo_source": "Florida House of Representatives member photo (MemberId 4766); URL pattern unverified",
+      "website": "https://angienixon.com/",
+      "occupation": "Florida State Representative (District 13, Jacksonville); union and community organizer",
+      "residence": "Jacksonville, Duval County",
+      "background": "Angela 'Angie' Nixon was born February 27, 1984, in Jacksonville and raised in the Moncrief neighborhood by a single mother. She attended Stanton College Preparatory School and graduated from the University of Florida in 2007 with a political science degree. She worked as a higher-education director, community and union organizer, and executive director of Florida for All, a statewide voter-registration coalition. She was first elected to the Florida House in 2020 and has represented District 13 since 2022; she is a member of the Democratic Socialists of America and the Working Families Party. She won the August 18, 2026 Democratic primary with about 56% over Alexander Vindman despite being outspent roughly 16 to 1.",
+      "primary_result": "Won Aug 18, 2026 Democratic primary with 56.1% over Alexander Vindman (NBC News; Ballotpedia)",
+      "positions": {
+        "taxes": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Nixon proposes raising taxes on the wealthy rather than cutting them: a 5% annual wealth tax on billionaires, taxing capital gains at the same rate as wages, closing the stepped-up-basis and offshore loopholes, a federal asset registry and stronger IRS enforcement, to fund programs such as Medicare for All and universal child care. She has said she would work to repeal the 2025 Trump tax cuts.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Angie Nixon for U.S. Senate - Priorities",
+              "url": "https://angienixon.com/priorities/",
+              "date": null
+            },
+            {
+              "title": "Socialist Angie Nixon vows to scrap tax cuts as Florida leads nation in refunds - Florida's Voice",
+              "url": "https://flvoicenews.com/exclusive-socialist-angie-nixon-vows-to-scrap-tax-cuts-as-florida-leads-nation-in-refunds/",
+              "date": "2026"
+            },
+            {
+              "title": "Socialist Senate Nominee Angie Nixon Says It's 'Crazy' She Has To Pay Her Taxes And Student Loans - Washington Free Beacon",
+              "url": "https://freebeacon.com/democrats/i-dont-wanna-pay-it-back-socialist-senate-nominee-angie-nixon-says-its-crazy-she-has-to-pay-her-taxes-and-student-loans/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Homestead property tax is a state issue; no statement by Nixon on Florida's homestead-tax proposals was found.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. No statement by Nixon on state intervention in Florida's property-insurance market was found.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Nixon's campaign says tackling the affordability crisis, including housing costs, is a core priority and she discussed housing policy in a Fox 13 interview; specific federal housing proposals (subsidies, zoning or rent measures) could not be verified from accessible sources.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "One-on-One: Senate candidate Angie Nixon outlines positions on housing, healthcare, and foreign policy - FOX 13",
+              "url": "https://www.fox13news.com/news/one-on-one-senate-candidate-angie-nixon-outlines-positions-housing-healthcare-foreign-policy",
+              "date": "2026-08"
+            },
+            {
+              "title": "How U.S. Senate candidate Angie Nixon plans to reach Florida voters - WGCU",
+              "url": "https://www.wgcu.org/government-politics/2026-09-07/how-u-s-senate-candidate-angie-nixon-plans-to-reach-florida-voters",
+              "date": "2026-09-07"
+            },
+            {
+              "title": "Florida Senate candidate Angie Nixon campaigns on affordability, healthcare and education - Miami Times",
+              "url": "https://www.miamitimesonline.com/news/florida/florida-senate-candidate-angie-nixon-campaigns-on-affordability-healthcare-and-education/article_18684ca8-e1f3-4cd8-93bf-351933d7d211.html",
+              "date": "2026"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Nixon calls mass deportation a 'moral failure,' says she would abolish ICE and rebuild immigration enforcement, supports a moratorium on deportations pending an audit of enforcement practices, a 'swift' path to citizenship for Dreamers and undocumented residents, and renewal and expansion of TPS. She joined advocates urging Miami to end its 287(g) agreement with ICE and has called ICE agents 'modern-day slave catchers.'",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Angie Nixon for U.S. Senate - Priorities",
+              "url": "https://angienixon.com/priorities/",
+              "date": null
+            },
+            {
+              "title": "US Senate candidate Angie Nixon joins immigration advocates in pressing Miami to end ICE agreement - WUWF/WLRN",
+              "url": "https://www.wuwf.org/florida-news/2026-08-03/us-senate-candidate-angie-nixon-joins-immigration-advocates-in-pressing-miami-to-end-ice-agreement",
+              "date": "2026-08-03"
+            },
+            {
+              "title": "Angie Nixon compares ICE agents to 'modern-day slave catchers' - Washington Times",
+              "url": "https://www.washingtontimes.com/news/2026/aug/22/angie-nixon-compares-ice-agents-modern-day-slave-catchers/",
+              "date": "2026-08-22"
+            },
+            {
+              "title": "Florida's Socialist Senate Candidate Angie Nixon Campaigns on Abolishing ICE, Granting 'Swift' Amnesty - Breitbart",
+              "url": "https://www.breitbart.com/politics/2026/08/19/floridas-socialist-senate-candidate-angie-nixon-campaigns-on-abolishing-ice-granting-swift-amnesty/",
+              "date": "2026-08-19"
+            },
+            {
+              "title": "How aligned is Angie Nixon with democratic socialists? - PolitiFact",
+              "url": "https://politifact.com/article/2026/aug/21/angie-nixon-florida-senate-ashley-moody-dsa/",
+              "date": "2026-08-21"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Nixon voted against Florida's six-week abortion ban in the Legislature and supports protecting and expanding access to abortion and reproductive care, describing restrictions as a threat to Black maternal health and bodily autonomy. In 2021 she warned that Republican control would bring a 'full-scale assault on a woman's right to choose,' and she opposed a fetal-personhood measure, calling it 'devastating.'",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Angie Nixon: Dems losing in 2022 would lead to 'full-scale assault on a woman's right to choose' - Florida Politics",
+              "url": "https://floridapolitics.com/archives/455269-angie-nixon-dems-losing-in-2022-would-bring-a-full-scale-assault-on-a-womans-right-to-choose/",
+              "date": "2021-09"
+            },
+            {
+              "title": "Democrat Angie Nixon: Giving Unborn Babies Human Rights Would be 'Devastating' - LifeNews",
+              "url": "https://www.lifenews.com/2026/09/01/democrat-angie-nixon-giving-unborn-babies-human-rights-would-be-devastating/",
+              "date": "2026-09-01"
+            },
+            {
+              "title": "Angie Nixon said giving unborn babies rights would be 'devastating,' moved to defund pregnancy resource site - Florida's Voice",
+              "url": "https://flvoicenews.com/exclusive-angie-nixon-said-giving-unborn-babies-rights-would-be-devastating-moved-to-defund-pregnancy-resource-site/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Angie Nixon - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Angie_Nixon",
+              "date": null
+            }
+          ]
+        },
+        "guns": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "In the Florida House, Nixon opposed permitless ('constitutional') carry and supported maintaining training and background-check requirements and safe-storage measures. No detailed federal gun-policy platform was found.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "State Representative Angie Nixon - BillTrack50 legislator profile",
+              "url": "https://www.billtrack50.com/legislatordetail/24850",
+              "date": null
+            },
+            {
+              "title": "Angela Nixon - Ballotpedia",
+              "url": "https://ballotpedia.org/Angela_Nixon",
+              "date": null
+            },
+            {
+              "title": "Angie Nixon - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Angie_Nixon",
+              "date": null
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Nixon supports Medicare for All, describing an incremental path that starts with permanently extending ACA subsidies, pressuring insurers to lower premiums and reforming the ACA, then moving to single-payer coverage including dental, vision, hearing, mental health, reproductive care and prescriptions. She argues it would cut costs by reducing emergency-room use and calls health care a human right.",
+          "quote": "Healthcare is a fundamental human right, not a luxury reserved only for those who can afford it.",
+          "sources": [
+            {
+              "title": "U.S. Senate Candidate Angie Nixon Marks 61st Anniversary of Medicare & Medicaid; Again Calls for Medicare for All - angienixon.com",
+              "url": "https://angienixon.com/u-s-senate-candidate-angie-nixon-marks-61st-anniversary-of-medicare-again-calls-for-medicare-for-all/",
+              "date": "2026-07-30"
+            },
+            {
+              "title": "One-on-One: Senate candidate Angie Nixon outlines positions on housing, healthcare, and foreign policy - FOX 13",
+              "url": "https://www.fox13news.com/news/one-on-one-senate-candidate-angie-nixon-outlines-positions-housing-healthcare-foreign-policy",
+              "date": "2026-08"
+            },
+            {
+              "title": "Angie Nixon says there are '$10 million reasons' to oppose Ashley Moody - Florida Phoenix",
+              "url": "https://floridaphoenix.com/2026/09/09/angie-nixon-says-there-are-10-million-reasons-to-oppose-ashley-moody/",
+              "date": "2026-09-09"
+            },
+            {
+              "title": "Angie Nixon talks about affordability, universal health care, immigration and Israel on MS NOW - WLRN",
+              "url": "https://www.wlrn.org/government-politics/2026-08-20/angie-nixon-talks-about-affordability-universal-health-care-immigration-and-israel-on-ms-now-show",
+              "date": "2026-08-20"
+            }
+          ]
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. No specific statement by Nixon on Social Security benefits or financing was found in accessible sources.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Nixon opposed Florida's 2023 universal school-voucher law (HB 1), offering an amendment to cap eligibility at $1 million household income that was voted down, and said the state should not be 'subsidizing millionaires or billionaires.' She describes public schools as a shared investment and argued the voucher expansion amounted to 'publicly funded discrimination in education.'",
+          "quote": "I just don't think we should be subsidizing millionaires or billionaires.",
+          "sources": [
+            {
+              "title": "Universal voucher bill passes through first House committee, but not without pushback - Florida Politics",
+              "url": "https://floridapolitics.com/archives/584028-universal-voucher-bill-passes-through-first-house-committee-but-not-without-pushback/",
+              "date": "2023-01"
+            },
+            {
+              "title": "Lawmakers move forward with a plan for school vouchers and 'universal choice' for Florida students - WUSF",
+              "url": "https://www.wusf.org/education/2023-01-26/lawmakers-move-forward-plan-school-vouchers-universal-choice-florida-students",
+              "date": "2023-01-26"
+            },
+            {
+              "title": "Florida House approves bill expanding taxpayer-funded school vouchers to all - WPTV",
+              "url": "https://www.wptv.com/news/political/florida-house-approves-bill-expanding-taxpayer-funded-school-vouchers-to-all",
+              "date": "2023-03"
+            }
+          ]
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. No statement by Nixon on conservation, water quality or climate-resilience trade-offs was found in accessible sources.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Growth management is a state/local issue; no Nixon statement was found.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. No statement by Nixon on recreational marijuana was found in accessible sources.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. No specific statement on mail voting, drop boxes or rights restoration was found; she previously led Florida for All, a voter-registration coalition.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Nixon describes mass incarceration, like mass deportation, as a 'moral failure' and emphasizes reform. A WLRN/PolitiFact check of a Moody attack tying her to the DSA platform found the claim that she wants to defund police was misleading.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "How aligned is Angie Nixon with democratic socialists? Moody's Florida Senate race attack misleads - WLRN/PolitiFact",
+              "url": "https://www.wlrn.org/government-politics/2026-08-24/how-aligned-is-angie-nixon-with-democratic-socialists-moodys-florida-senate-race-attack-misleads",
+              "date": "2026-08-24"
+            },
+            {
+              "title": "How aligned is Angie Nixon with democratic socialists? - PolitiFact",
+              "url": "https://politifact.com/article/2026/aug/21/angie-nixon-florida-senate-ashley-moody-dsa/",
+              "date": "2026-08-21"
+            },
+            {
+              "title": "Florida's Socialist Senate Candidate Angie Nixon Campaigns on Abolishing ICE, Granting 'Swift' Amnesty - Breitbart",
+              "url": "https://www.breitbart.com/politics/2026/08/19/floridas-socialist-senate-candidate-angie-nixon-campaigns-on-abolishing-ice-granting-swift-amnesty/",
+              "date": "2026-08-19"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Her Florida House votes on the 2022 Parental Rights in Education law and the 2023 gender-affirming-care ban could not be verified from accessible sources.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. No statement by Nixon on renewable energy or utility-rate oversight was found in accessible sources.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. No statement by Nixon on tariffs was found in accessible sources.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Nixon says the U.S. should favor diplomacy and multilateral action over unilateral military engagement, but no specific statement on continuing military aid to Ukraine was found.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Nixon is a strong critic of President Trump. She called him an 'authoritarian bully' who does not respect the rule of law over his birthright-citizenship executive orders, said she would work to remove him from office, accused him of 'pushing communism' with his Venezuela oil deal, and said his rhetoric has normalized racist attacks.",
+          "quote": "authoritarian bully",
+          "sources": [
+            {
+              "title": "Angie Nixon Condemns Trump's Unconstitutional Executive Orders on Birthright Citizenship - angienixon.com",
+              "url": "https://angienixon.com/angie-nixon-condemns-trumps-unconstitutional-executive-orders-on-birthright-citizenship/",
+              "date": "2025"
+            },
+            {
+              "title": "Angie Nixon's promise to remove Donald Trump from office sparks RNC anger - Florida Politics",
+              "url": "https://floridapolitics.com/archives/781229-angie-nixons-promise-to-remove-donald-trump-from-office-sparks-rnc-anger/",
+              "date": "2026"
+            },
+            {
+              "title": "Progressive Florida Democrat insists Trump was pushing 'communism' with Venezuela deal - Yahoo News",
+              "url": "https://www.yahoo.com/news/politics/articles/progressive-florida-democrat-insists-trump-142923672.html",
+              "date": "2026"
+            },
+            {
+              "title": "Angie Nixon Calls Out Trump's 'Harmful Rhetoric' After Laura Loomer Attack - Newsweek",
+              "url": "https://www.newsweek.com/angie-nixon-calls-out-trumps-harmful-rhetoric-after-laura-loomer-attack-12389297",
+              "date": "2026-08"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. No statement by Nixon on VA services or veterans' benefits was found in accessible sources.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Medicare for All (incremental path)",
+          "summary": "Begin by permanently extending ACA subsidies and pressuring insurers, then move to a single-payer system covering dental, vision, hearing, mental health and prescriptions.",
+          "sources": [
+            {
+              "title": "U.S. Senate Candidate Angie Nixon Marks 61st Anniversary of Medicare & Medicaid; Again Calls for Medicare for All - angienixon.com",
+              "url": "https://angienixon.com/u-s-senate-candidate-angie-nixon-marks-61st-anniversary-of-medicare-again-calls-for-medicare-for-all/",
+              "date": "2026-07-30"
+            },
+            {
+              "title": "One-on-One: Senate candidate Angie Nixon outlines positions on housing, healthcare, and foreign policy - FOX 13",
+              "url": "https://www.fox13news.com/news/one-on-one-senate-candidate-angie-nixon-outlines-positions-housing-healthcare-foreign-policy",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "title": "Wealth tax and closing loopholes",
+          "summary": "A 5% annual wealth tax on billionaires, capital gains taxed as ordinary income, a federal asset registry and stronger IRS enforcement to fund social programs.",
+          "sources": [
+            {
+              "title": "Angie Nixon for U.S. Senate - Priorities",
+              "url": "https://angienixon.com/priorities/",
+              "date": null
+            },
+            {
+              "title": "Socialist Senate Nominee Angie Nixon Says It's 'Crazy' She Has To Pay Her Taxes And Student Loans - Washington Free Beacon",
+              "url": "https://freebeacon.com/democrats/i-dont-wanna-pay-it-back-socialist-senate-nominee-angie-nixon-says-its-crazy-she-has-to-pay-her-taxes-and-student-loans/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Universal child care",
+          "summary": "Lists free or universal child care alongside Medicare for All as a central campaign goal.",
+          "sources": [
+            {
+              "title": "Florida Senate candidate Angie Nixon campaigns on affordability, healthcare and education - Miami Times",
+              "url": "https://www.miamitimesonline.com/news/florida/florida-senate-candidate-angie-nixon-campaigns-on-affordability-healthcare-and-education/article_18684ca8-e1f3-4cd8-93bf-351933d7d211.html",
+              "date": "2026"
+            },
+            {
+              "title": "How U.S. Senate candidate Angie Nixon plans to reach Florida voters - WGCU",
+              "url": "https://www.wgcu.org/government-politics/2026-09-07/how-u-s-senate-candidate-angie-nixon-plans-to-reach-florida-voters",
+              "date": "2026-09-07"
+            }
+          ]
+        },
+        {
+          "title": "Abolish and rebuild ICE; deportation moratorium",
+          "summary": "Abolish ICE, pause deportations pending an audit of enforcement practices, and create a path to citizenship for Dreamers and undocumented residents.",
+          "sources": [
+            {
+              "title": "Florida's Socialist Senate Candidate Angie Nixon Campaigns on Abolishing ICE, Granting 'Swift' Amnesty - Breitbart",
+              "url": "https://www.breitbart.com/politics/2026/08/19/floridas-socialist-senate-candidate-angie-nixon-campaigns-on-abolishing-ice-granting-swift-amnesty/",
+              "date": "2026-08-19"
+            },
+            {
+              "title": "How aligned is Angie Nixon with democratic socialists? - PolitiFact",
+              "url": "https://politifact.com/article/2026/aug/21/angie-nixon-florida-senate-ashley-moody-dsa/",
+              "date": "2026-08-21"
+            },
+            {
+              "title": "US Senate candidate Angie Nixon joins immigration advocates in pressing Miami to end ICE agreement - WUWF/WLRN",
+              "url": "https://www.wuwf.org/florida-news/2026-08-03/us-senate-candidate-angie-nixon-joins-immigration-advocates-in-pressing-miami-to-end-ice-agreement",
+              "date": "2026-08-03"
+            }
+          ]
+        },
+        {
+          "title": "End unconditional U.S. military aid to Israel",
+          "summary": "Calls for ending unconditional military aid to Israel and U.S. support for settlements, a path to Palestinian self-determination through the UN, and has called Prime Minister Netanyahu a 'war criminal'; she filed a Florida House ceasefire resolution in 2023.",
+          "sources": [
+            {
+              "title": "What Florida Senate nominee Angie Nixon has said about Israel and Gaza - The Forward",
+              "url": "https://forward.com/news/845987/what-florida-senate-nominee-angie-nixon-has-said-about-israel-and-gaza/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Angie Nixon talks about affordability, universal health care, immigration and Israel on MS NOW - WLRN",
+              "url": "https://www.wlrn.org/government-politics/2026-08-20/angie-nixon-talks-about-affordability-universal-health-care-immigration-and-israel-on-ms-now-show",
+              "date": "2026-08-20"
+            },
+            {
+              "title": "Vindman, Nixon weigh in on congressional vote to ban funding for Israel - Florida Phoenix",
+              "url": "https://floridaphoenix.com/2026/07/21/vindman-nixon-weigh-in-on-congressional-vote-to-ban-funding-for-israel/",
+              "date": "2026-07-21"
+            }
+          ]
+        },
+        {
+          "title": "Diplomacy over military engagement",
+          "summary": "Says the U.S. should use the UN and multilateral diplomacy rather than unilateral military action, and opposed U.S. military action against Iran.",
+          "sources": [
+            {
+              "title": "What Florida Senate nominee Angie Nixon has said about Israel and Gaza - The Forward",
+              "url": "https://forward.com/news/845987/what-florida-senate-nominee-angie-nixon-has-said-about-israel-and-gaza/",
+              "date": "2026-08"
+            },
+            {
+              "title": "One-on-One: Senate candidate Angie Nixon outlines positions on housing, healthcare, and foreign policy - FOX 13",
+              "url": "https://www.fox13news.com/news/one-on-one-senate-candidate-angie-nixon-outlines-positions-housing-healthcare-foreign-policy",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "title": "Birthright citizenship",
+          "summary": "Condemned President Trump's executive orders restricting birthright citizenship as unconstitutional.",
+          "sources": [
+            {
+              "title": "Angie Nixon Condemns Trump's Unconstitutional Executive Orders on Birthright Citizenship - angienixon.com",
+              "url": "https://angienixon.com/angie-nixon-condemns-trumps-unconstitutional-executive-orders-on-birthright-citizenship/",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "title": "TPS for Haitians, Venezuelans and others",
+          "summary": "Calls for immediate renewal and expansion of Temporary Protected Status and a permanent path to citizenship for TPS holders.",
+          "sources": [
+            {
+              "title": "How aligned is Angie Nixon with democratic socialists? - PolitiFact",
+              "url": "https://politifact.com/article/2026/aug/21/angie-nixon-florida-senate-ashley-moody-dsa/",
+              "date": "2026-08-21"
+            },
+            {
+              "title": "US Senate candidate Angie Nixon joins immigration advocates in pressing Miami to end ICE agreement - WUWF/WLRN",
+              "url": "https://www.wuwf.org/florida-news/2026-08-03/us-senate-candidate-angie-nixon-joins-immigration-advocates-in-pressing-miami-to-end-ice-agreement",
+              "date": "2026-08-03"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted against Florida's six-week abortion ban (SB 300, 2023) and other abortion restrictions in the Florida House.",
+          "sources": [
+            {
+              "title": "Democrat Angie Nixon: Giving Unborn Babies Human Rights Would be 'Devastating' - LifeNews",
+              "url": "https://www.lifenews.com/2026/09/01/democrat-angie-nixon-giving-unborn-babies-human-rights-would-be-devastating/",
+              "date": "2026-09-01"
+            },
+            {
+              "title": "Angie Nixon - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Angie_Nixon",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Opposed the 2023 universal school-voucher law (HB 1); her amendment to cap eligibility at $1 million household income was voted down in committee, and the bill passed the House 83-27.",
+          "sources": [
+            {
+              "title": "Universal voucher bill passes through first House committee, but not without pushback - Florida Politics",
+              "url": "https://floridapolitics.com/archives/584028-universal-voucher-bill-passes-through-first-house-committee-but-not-without-pushback/",
+              "date": "2023-01"
+            },
+            {
+              "title": "Florida House approves bill expanding taxpayer-funded school vouchers to all - WPTV",
+              "url": "https://www.wptv.com/news/political/florida-house-approves-bill-expanding-taxpayer-funded-school-vouchers-to-all",
+              "date": "2023-03"
+            }
+          ]
+        },
+        {
+          "item": "Introduced a 2023 Florida House resolution calling on the Biden administration to push for an immediate de-escalation and ceasefire in Israel and 'occupied Palestine.'",
+          "sources": [
+            {
+              "title": "What Florida Senate nominee Angie Nixon has said about Israel and Gaza - The Forward",
+              "url": "https://forward.com/news/845987/what-florida-senate-nominee-angie-nixon-has-said-about-israel-and-gaza/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "item": "Served as executive director of Florida for All, a coalition that registered tens of thousands of new voters, before and during her legislative service.",
+          "sources": [
+            {
+              "title": "Meet Angie - Angie Nixon for U.S. Senate",
+              "url": "https://angienixon.com/meet-angie/",
+              "date": null
+            },
+            {
+              "title": "Angie Nixon - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Angie_Nixon",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Won the Democratic primary with about 56% while raising roughly $975,000 against Vindman's more than $16 million, relying on a field/ground operation.",
+          "sources": [
+            {
+              "title": "Progressive Challenger Upsets Alex Vindman in Florida's Democratic Senate Primary - NOTUS",
+              "url": "https://www.notus.org/2026-election/florida-democratic-senate-primary-alex-vindman-angie-nixon",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "Angie Nixon wins Florida Senate Democratic primary, defeating Alex Vindman - NBC News",
+              "url": "https://www.nbcnews.com/politics/2026-election/angie-nixon-winner-florida-senate-primary-democrat-alex-vindman-moody-rcna593255",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "Angie Nixon wins Florida's Democratic Senate primary over Alex Vindman - The 19th",
+              "url": "https://19thnews.org/2026/08/angie-nixon-wins-florida-democratic-senate-primary/",
+              "date": "2026-08-18"
+            }
+          ]
+        },
+        {
+          "item": "Endorsed by Bernie Sanders (Aug 20, 2026), Alexandria Ocasio-Cortez and Sen. Chris Murphy after the primary.",
+          "sources": [
+            {
+              "title": "Bernie Sanders endorses Florida's Angie Nixon for Senate - Axios",
+              "url": "https://www.axios.com/2026/08/20/bernie-sanders-endorses-floridas-angie-nixon-for-senate",
+              "date": "2026-08-20"
+            },
+            {
+              "title": "Alexandria Ocasio-Cortez backs Angie Nixon in Florida Senate race - The Hill",
+              "url": "https://thehill.com/homenews/campaign/6066299-aoc-endorses-angie-nixon/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Endorsements - Angie Nixon for U.S. Senate",
+              "url": "https://angienixon.com/endorsements/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Criticism: reports by the Washington Free Beacon and Florida's Voice state she owes about $14,000 in unpaid federal taxes (on an IRS payment plan) and about $17,600 in federal student loans, and that her company, Moxie Group LLC, received Florida Department of Revenue warrants for delinquent sales taxes from 2017-2021 totaling about $4,400.",
+          "sources": [
+            {
+              "title": "Socialist Senate Nominee Angie Nixon Says It's 'Crazy' She Has To Pay Her Taxes And Student Loans - Washington Free Beacon",
+              "url": "https://freebeacon.com/democrats/i-dont-wanna-pay-it-back-socialist-senate-nominee-angie-nixon-says-its-crazy-she-has-to-pay-her-taxes-and-student-loans/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Socialist Angie Nixon vows to scrap tax cuts as Florida leads nation in refunds - Florida's Voice",
+              "url": "https://flvoicenews.com/exclusive-socialist-angie-nixon-vows-to-scrap-tax-cuts-as-florida-leads-nation-in-refunds/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "item": "Criticism: her comparison of ICE agents to 'modern-day slave catchers' and description of a detention facility as a 'modern day concentration camp' drew Republican criticism; a WLRN/PolitiFact check found a Moody ad tying her to the full DSA platform (e.g., defunding police) misleading.",
+          "sources": [
+            {
+              "title": "Angie Nixon compares ICE agents to 'modern-day slave catchers' - Washington Times",
+              "url": "https://www.washingtontimes.com/news/2026/aug/22/angie-nixon-compares-ice-agents-modern-day-slave-catchers/",
+              "date": "2026-08-22"
+            },
+            {
+              "title": "How aligned is Angie Nixon with democratic socialists? Moody's Florida Senate race attack misleads - WLRN/PolitiFact",
+              "url": "https://www.wlrn.org/government-politics/2026-08-24/how-aligned-is-angie-nixon-with-democratic-socialists-moodys-florida-senate-race-attack-misleads",
+              "date": "2026-08-24"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "U.S. Sen. Bernie Sanders",
+          "sources": [
+            {
+              "title": "Bernie Sanders endorses Florida's Angie Nixon for Senate - Axios",
+              "url": "https://www.axios.com/2026/08/20/bernie-sanders-endorses-floridas-angie-nixon-for-senate",
+              "date": "2026-08-20"
+            },
+            {
+              "title": "Angie Nixon receives Sen. Bernie Sanders' endorsement for US Senate - Local 10",
+              "url": "https://www.local10.com/video/news/politics/2026/08/21/angie-nixon-receives-sen-bernie-sanders-endorsement-for-us-senate/",
+              "date": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "by": "U.S. Rep. Alexandria Ocasio-Cortez",
+          "sources": [
+            {
+              "title": "Alexandria Ocasio-Cortez backs Angie Nixon in Florida Senate race - The Hill",
+              "url": "https://thehill.com/homenews/campaign/6066299-aoc-endorses-angie-nixon/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "by": "U.S. Sen. Chris Murphy",
+          "sources": [
+            {
+              "title": "Endorsements - Angie Nixon for U.S. Senate",
+              "url": "https://angienixon.com/endorsements/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "Leaders We Deserve (David Hogg's organization)",
+          "sources": [
+            {
+              "title": "Endorsements - Angie Nixon for U.S. Senate",
+              "url": "https://angienixon.com/endorsements/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "Miami New Times (editorial)",
+          "sources": [
+            {
+              "title": "Opinion: Angie Nixon deserves our vote for U.S. Senate - Miami New Times",
+              "url": "https://www.miaminewtimes.com/opinion/opinion-angie-nixon-deserves-our-vote-for-u-s-senate-40582003/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neil_gillespie",
+      "name": "Neil J. Gillespie",
+      "party": "No Party Affiliation",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": "No public portrait URL found",
+      "website": "https://neilgillespie4senate.blogspot.com/",
+      "occupation": "Blogger and self-described public-interest advocate; pro se litigant and justice-reform activist",
+      "residence": "Ocala, Marion County",
+      "background": "Neil J. Gillespie is an Ocala resident, blogger and self-described public-interest advocate and pro se litigant who has run for office before, including for mayor of Ocala. He qualified in June 2026 as a No Party Affiliation candidate for the U.S. Senate special election and, as an NPA candidate, advanced directly to the November 3 general election without a primary. He describes himself as a 'working-class capitalist' who is critical of the two-party 'duopoly' and of socialism. He has not completed Ballotpedia's candidate survey, and his federal campaign committee is registered with the FEC.",
+      "primary_result": "No primary (NPA candidate advanced directly to the Nov 3 general election)",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie describes himself as a 'working-class capitalist' critical of both major parties, but no specific statement on the Trump administration was found.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Opposition to the two-party 'duopoly'",
+          "summary": "Runs as an independent critical of both major parties and of established institutions.",
+          "sources": [
+            {
+              "title": "Who Will Florida Voters Send to the U.S. Senate in November? - Palm Beach Examiner",
+              "url": "https://palmbeachexaminer.substack.com/p/who-will-florida-voters-send-to-the",
+              "date": "2026-08"
+            },
+            {
+              "title": "Florida 2026 Elections: Candidates for Governor, Senate & House - Politics1",
+              "url": "https://politics1.com/fl.htm",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Justice reform / courts",
+          "summary": "Described as a pro se litigant and justice-reform activist; his blog focuses on court-system grievances.",
+          "sources": [
+            {
+              "title": "Florida 2026 Elections: Candidates for Governor, Senate & House - Politics1",
+              "url": "https://politics1.com/fl.htm",
+              "date": null
+            },
+            {
+              "title": "Neil J. Gillespie for U.S. Senate (campaign blog)",
+              "url": "https://neilgillespie4senate.blogspot.com/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "'Working-class capitalist' economics",
+          "summary": "Self-describes as a working-class capitalist with anti-socialist rhetoric.",
+          "sources": [
+            {
+              "title": "Who Will Florida Voters Send to the U.S. Senate in November? - Palm Beach Examiner",
+              "url": "https://palmbeachexaminer.substack.com/p/who-will-florida-voters-send-to-the",
+              "date": "2026-08"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Qualified as an NPA candidate for U.S. Senate in June 2026; previously a candidate for Ocala mayor per Marion County campaign-finance records.",
+          "sources": [
+            {
+              "title": "The field is set as candidate qualifying closes for Florida's 2026 election - WUWF",
+              "url": "https://www.wuwf.org/text/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election",
+              "date": "2026-06-12"
+            },
+            {
+              "title": "Candidate: Neil J. Gillespie - Mayor, Ocala (Marion County campaign finance record)",
+              "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?op=cv&e=48&c=marion&ca=783&rellevel=4&committee=N",
+              "date": null
+            },
+            {
+              "title": "NEIL J GILLESPIE FOR US SENATE - committee overview - FEC.gov",
+              "url": "https://www.fec.gov/data/committee/C00943399/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Has not completed Ballotpedia's 2026 Candidate Connection survey.",
+          "sources": [
+            {
+              "title": "Neil Gillespie - Ballotpedia",
+              "url": "https://ballotpedia.org/Neil_Gillespie",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": []
+    }
+  ]
+}

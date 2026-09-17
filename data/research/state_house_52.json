@@ -1,0 +1,574 @@
+{
+  "race_id": "state_house_52",
+  "verified_ballot_note": "Ballotpedia's District 52 page lists Samantha Scott (R) and Pamala Bivins (D) as the candidates for the Nov. 3, 2026 general election after the Aug. 18, 2026 primaries (https://ballotpedia.org/Florida_House_of_Representatives_District_52). Whether any write-in or NPA candidate also qualified could NOT be verified: the Sumter County Supervisor of Elections notice of general election (https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27) and Ballotpedia were blocked in this sandbox. Research limitation: in this sandbox every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was exhausted, so positions are coded only from search-result snippets. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
+  "candidates": [
+    {
+      "id": "samantha_scott",
+      "name": "Samantha Scott",
+      "party": "Republican",
+      "incumbent": true,
+      "photo_url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=5070",
+      "photo_source": "Florida House of Representatives member page (MemberId=5070); portrait image URL on that page not verified because the site was blocked in this sandbox",
+      "website": "https://samanthascott.org/",
+      "occupation": "State Representative; businesswoman (co-owner of a Central Florida plumbing company; real estate)",
+      "residence": "Bushnell, Sumter County",
+      "background": "Scott is a lifelong Sumter County resident from Bushnell who, with her husband Shawn, built a plumbing company that employs more than 200 people across Central Florida; she also worked in real estate and earlier served as the youngest executive director of the Sumter County Chamber of Commerce. She chaired the Republican Party of Sumter County, was appointed by Gov. Ron DeSantis to the Lake-Sumter State College District Board of Trustees, was named Sumter County Chamber Business Woman of the Year, and was a Florida delegate to the 2024 Republican National Convention. She entered the 2025-26 special election to succeed former Rep. John Temple; after Democrat Pamala Bivins withdrew and no one else qualified, the March 24, 2026 special election was cancelled and Scott was elected without opposition, assuming office March 25, 2026 (she was sworn in during a special session and at a local ceremony in the Sumter County Courthouse on April 10). She filed for the Aug. 18, 2026 Republican primary for a full term; Ballotpedia lists her and Bivins as the general-election candidates.",
+      "primary_result": "Filed for the Aug. 18, 2026 Republican primary; no Republican primary opponent found in search results (Ballotpedia lists her as the Republican candidate advancing to the Nov. 3 general). Not independently verified against the county sample ballot.",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In April 2026 Scott wrote a letter raising concerns that a proposed direct-injection well at the Heart of Florida Landfill near Lake Panasoffkee could endanger the Floridan aquifer, the area's main drinking-water source. This is a single, project-specific statement; no broader statement on conservation land or climate resilience was found.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "State representative pens letter detailing fears of threat to local drinking water - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/04/19/state-representative-pens-letter-detailing-fears-of-threat-to-local-drinking-water/",
+              "date": "2026-04-19"
+            }
+          ]
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Heart of Florida Landfill injection well / aquifer protection",
+          "summary": "Wrote a letter opposing or questioning a proposed direct-injection well at the Heart of Florida Landfill near Lake Panasoffkee, citing risk to the aquifer that supplies local drinking water.",
+          "sources": [
+            {
+              "title": "State representative pens letter detailing fears of threat to local drinking water - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/04/19/state-representative-pens-letter-detailing-fears-of-threat-to-local-drinking-water/",
+              "date": "2026-04-19"
+            }
+          ]
+        },
+        {
+          "title": "Business climate / job creation",
+          "summary": "Campaign materials emphasize her record as a business owner and job creator (plumbing company with 200+ employees) and 'conservative principles'; her campaign describes 'fighting for local families and defending constitutional freedoms.' Specific policy proposals were not retrievable.",
+          "sources": [
+            {
+              "title": "Elect Samantha Scott for State Representative District 52 (campaign site)",
+              "url": "https://samanthascott.org/",
+              "date": null
+            },
+            {
+              "title": "Samantha Scott lands trove of endorsements in HD 52 Special Election - Florida Politics",
+              "url": "https://floridapolitics.com/archives/764404-samantha-scott-lands-trove-of-endorsements-in-hd-52-special-election/",
+              "date": "2025-11"
+            }
+          ]
+        },
+        {
+          "title": "Higher education / Lake-Sumter State College",
+          "summary": "Serves as a DeSantis-appointed trustee of Lake-Sumter State College; the college publicly congratulated her on her swearing-in.",
+          "sources": [
+            {
+              "title": "Lake-Sumter State College on X: Rep. Samantha Scott (LSSC Trustee) sworn in",
+              "url": "https://x.com/LSSCedu/status/2042638854604120146",
+              "date": "2026-04"
+            },
+            {
+              "title": "Samantha Scott lands trove of endorsements in HD 52 Special Election - Florida Politics",
+              "url": "https://floridapolitics.com/archives/764404-samantha-scott-lands-trove-of-endorsements-in-hd-52-special-election/",
+              "date": "2025-11"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Elected to HD 52 without opposition after the only other candidate withdrew before the Nov. 18, 2025 special-election qualifying deadline; the March 24, 2026 special election was cancelled.",
+          "sources": [
+            {
+              "title": "After lone opponent withdraws, Samantha Scott a shoo-in for HD 52 - Florida Politics",
+              "url": "https://floridapolitics.com/archives/766163-after-lone-opponent-withdraws-samantha-scott-a-shoo-in-for-hd-52/",
+              "date": "2025-11"
+            },
+            {
+              "title": "Samantha Scott Elected Unopposed to Florida House District 52 After Qualifying Deadline Passes - The Capitolist",
+              "url": "https://thecapitolist.com/samantha-scott-elected-unopposed-to-florida-house-district-52-after-qualifying-deadline-passes/",
+              "date": "2025-11"
+            },
+            {
+              "title": "Samantha Scott - Ballotpedia",
+              "url": "https://ballotpedia.org/Samantha_Scott",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Sworn into the Florida House during the 2026 special session (with Emily Gregory and Hilary Holley); assumed office March 25, 2026; local swearing-in ceremony April 10, 2026 at the Sumter County Courthouse.",
+          "sources": [
+            {
+              "title": "Emily Gregory, Hilary Holley, Samantha Scott sworn into House seats during Special Session - Florida Politics",
+              "url": "https://floridapolitics.com/archives/793429-emily-gregory-hilary-holley-samantha-scott-sworn-into-house-seats-during-special-session/",
+              "date": "2026-03"
+            },
+            {
+              "title": "Scott sworn in for District 52 - Sumter Sun Times",
+              "url": "https://www.midfloridanewspapers.com/sumter_sun_times/scott-sworn-in-for-district-52/article_66a55275-0036-4f45-97e6-af1d53985823.html",
+              "date": "2026-04"
+            },
+            {
+              "title": "Samantha Scott (politician) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Samantha_Scott_(politician)",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Wrote an April 2026 letter detailing concerns about a proposed injection well at the Heart of Florida Landfill and its potential threat to local drinking water.",
+          "sources": [
+            {
+              "title": "State representative pens letter detailing fears of threat to local drinking water - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/04/19/state-representative-pens-letter-detailing-fears-of-threat-to-local-drinking-water/",
+              "date": "2026-04-19"
+            }
+          ]
+        },
+        {
+          "item": "2026 session bill sponsorships and roll-call votes could not be retrieved (flhouse.gov and vote-tracking sites were blocked); see the flhouse.gov member page for her sponsored bills and votes.",
+          "sources": [
+            {
+              "title": "Samantha Scott - Florida House of Representatives member page",
+              "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=5070",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "U.S. Rep. Daniel Webster",
+          "sources": [
+            {
+              "title": "Samantha Scott lands trove of endorsements in HD 52 Special Election - Florida Politics",
+              "url": "https://floridapolitics.com/archives/764404-samantha-scott-lands-trove-of-endorsements-in-hd-52-special-election/",
+              "date": "2025-11"
+            }
+          ]
+        },
+        {
+          "by": "Florida CFO Blaise Ingoglia",
+          "sources": [
+            {
+              "title": "Samantha Scott lands trove of endorsements in HD 52 Special Election - Florida Politics",
+              "url": "https://floridapolitics.com/archives/764404-samantha-scott-lands-trove-of-endorsements-in-hd-52-special-election/",
+              "date": "2025-11"
+            }
+          ]
+        },
+        {
+          "by": "Florida House Republican Campaign Committee (FHRCC)",
+          "sources": [
+            {
+              "title": "House Republicans back Samantha Scott in HD 52 Special Election - Florida Politics",
+              "url": "https://floridapolitics.com/archives/764561-house-republicans-back-samantha-scott-in-hd-52-special-election/",
+              "date": "2025-11"
+            }
+          ]
+        },
+        {
+          "by": "Associated Industries of Florida (AIF)",
+          "sources": [
+            {
+              "title": "'The perspective we need': AIF backs Samantha Scott in HD 52 - Florida Politics",
+              "url": "https://floridapolitics.com/archives/758087-the-perspective-we-need-aif-backs-samantha-scott-in-hd-52/",
+              "date": "2025-10"
+            }
+          ]
+        },
+        {
+          "by": "Republican Party of Florida (congratulated her win; she chaired the Sumter County GOP)",
+          "sources": [
+            {
+              "title": "Florida GOP Congratulates Samantha Scott After Securing HD 52 Win - The Floridian",
+              "url": "https://floridianpress.com/2025/11/florida-gop-congratulates-samantha-scott-after-securing-hd-52-win/",
+              "date": "2025-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pamala_bivins",
+      "name": "Pamala Kaye Bivins",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": "https://pamala4fldistrict52.com/",
+      "photo_source": "Campaign website (og:image not verified; site blocked in this sandbox). Alternative: City of Wildwood commissioner page.",
+      "website": "https://pamala4fldistrict52.com/",
+      "occupation": "Former Wildwood city commissioner and mayor pro tem",
+      "residence": "Wildwood, Sumter County",
+      "background": "Bivins (also known as Pamala Harrison-Bivins) was born and raised in Wildwood and is a lifetime resident. She served more than 25 years on the Wildwood City Commission, including as mayor pro tem, and resigned in November 2025 to run for the Florida House. She opened a campaign account for the HD 52 special election but withdrew before the qualifying deadline, leaving Samantha Scott unopposed; she then filed for the regular 2026 cycle as the Democratic candidate. Ballotpedia lists her as the Democratic candidate in the Aug. 18, 2026 primary advancing to the Nov. 3, 2026 general election.",
+      "primary_result": "Filed for the Aug. 18, 2026 Democratic primary; no Democratic primary opponent found in search results (Ballotpedia lists her as advancing to the Nov. 3 general). Not independently verified against the county sample ballot.",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Bivins lists affordable housing among the concerns she wants to take to Tallahassee. Specific proposals (subsidies, zoning, rent measures) were not found.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
+              "date": "2026-06-19"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She says she wants to take concerns about healthcare, Medicaid and health-care access to Tallahassee and has spoken with voters about health-care access in the region. She has not been found explicitly calling for Medicaid expansion.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
+              "date": "2026-06-19"
+            },
+            {
+              "title": "Villagers stand up for voting rights and warn of Trump's threats to midterm elections - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/07/19/villagers-stand-up-for-voting-rights-and-warn-of-trumps-threats-to-midterm-elections/",
+              "date": "2026-07-19"
+            }
+          ]
+        },
+        "social_security": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She names Social Security and Medicare among the issues she wants to advocate for, framing them as 'human needs' shared across party lines.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
+              "date": "2026-06-19"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "At a July 2026 voting-rights event in The Villages she committed to 'fighting to protect the right to vote and ensure no community is left behind at the ballot box.'",
+          "quote": "fighting to protect the right to vote and ensure no community is left behind at the ballot box",
+          "sources": [
+            {
+              "title": "Villagers stand up for voting rights and warn of Trump's threats to midterm elections - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/07/19/villagers-stand-up-for-voting-rights-and-warn-of-trumps-threats-to-midterm-elections/",
+              "date": "2026-07-19"
+            }
+          ]
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Public education",
+          "summary": "Lists public education among the concerns she wants to bring to Tallahassee.",
+          "sources": [
+            {
+              "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
+              "date": "2026-06-19"
+            }
+          ]
+        },
+        {
+          "title": "Local infrastructure and regional representation",
+          "summary": "Spoke with voters about local infrastructure, health-care access and representation for the region.",
+          "sources": [
+            {
+              "title": "Villagers stand up for voting rights and warn of Trump's threats to midterm elections - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/07/19/villagers-stand-up-for-voting-rights-and-warn-of-trumps-threats-to-midterm-elections/",
+              "date": "2026-07-19"
+            }
+          ]
+        },
+        {
+          "title": "Bipartisan framing of needs",
+          "summary": "Called for Democrats, Republicans and non-partisans to see healthcare, Social Security, Medicare, Medicaid, housing and education as human needs that connect everyone rather than divisive party-line issues.",
+          "sources": [
+            {
+              "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
+              "date": "2026-06-19"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Served more than 25 years on the Wildwood City Commission, including as mayor pro tem; resigned in November 2025 to run for the Florida House.",
+          "sources": [
+            {
+              "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
+              "date": "2026-06-19"
+            },
+            {
+              "title": "Chat with a Commissioner: Commissioner Pamala Harrison-Bivins - City of Wildwood",
+              "url": "https://www.wildwood-fl.gov/bc-city/page/chat-commissioner-commissioner-pamala-harrison-bivins",
+              "date": null
+            },
+            {
+              "title": "Pamala Harrison-Bivins - Ballotpedia",
+              "url": "https://ballotpedia.org/Pamala_Harrison-Bivins",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Withdrew from the 2025-26 HD 52 special election before the qualifying deadline, then filed for the regular 2026 election.",
+          "sources": [
+            {
+              "title": "After lone opponent withdraws, Samantha Scott a shoo-in for HD 52 - Florida Politics",
+              "url": "https://floridapolitics.com/archives/766163-after-lone-opponent-withdraws-samantha-scott-a-shoo-in-for-hd-52/",
+              "date": "2025-11"
+            },
+            {
+              "title": "Democrat Emerges in HD 52 - News Service of Florida",
+              "url": "https://www.newsserviceflorida.com/latest/briefs/democrat-emerges-in-hd-52/article_a40aa5ca-bff9-44e7-9f3a-b270f6047d36.html",
+              "date": "2025"
+            },
+            {
+              "title": "Pamala Bivins - Ballotpedia",
+              "url": "https://ballotpedia.org/Pamala_Bivins",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": []
+    }
+  ]
+}

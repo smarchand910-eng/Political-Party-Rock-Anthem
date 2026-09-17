@@ -1,0 +1,377 @@
+{
+  "race_id": "county_commission_4",
+  "verified_ballot_note": "ClickOrlando's 2026 Voter's Guide states the winner of the District 4 Republican primary faces write-in candidate Ethan Parks in November (https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/); Lake & Sumter Style reports Bogue won that primary with 73.04% (https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/); Florida Money Watch lists Parks as an active write-in (https://www.floridamoneywatch.com/county.php?code=SUM). Not verified against the county's official Notice of General Election (blocked). Research limitation: in this sandbox every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was exhausted, so positions are coded only from search-result snippets. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
+  "candidates": [
+    {
+      "id": "jeffrey_bogue",
+      "name": "Jeffrey A. Bogue",
+      "party": "Republican",
+      "incumbent": true,
+      "photo_url": "https://www.sumtercountyfl.gov/161/District-4",
+      "photo_source": "Sumter County official website, District 4 commissioner page (image URL not verified; site blocked in this sandbox)",
+      "website": null,
+      "occupation": "Sumter County Commissioner, District 4",
+      "residence": "Sumter County (city not verified)",
+      "background": "Bogue is the incumbent District 4 member of the Sumter County Board of County Commissioners. He sought re-election in 2026 and won the Aug. 18, 2026 Republican primary over Michael Squier with 19,912 votes (73.04%) to Squier's 7,349 (26.96%). Because a write-in candidate (Ethan Parks) qualified, the primary was closed to Republican voters and the winner advances to face the write-in on Nov. 3, 2026. Details of his career, education and first election could not be retrieved (county site and ClickOrlando questionnaire were blocked).",
+      "primary_result": "Won Aug. 18, 2026 Republican primary with 73.04% (19,912 votes) over Michael Squier (26.96%, 7,349) (Lake & Sumter Style; ClickOrlando results)",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Voter guide questionnaire (content not retrievable)",
+          "summary": "Bogue and Squier answered the ClickOrlando 2026 Voter's Guide questionnaire for the District 4 Republican primary and were profiled by the Daily Commercial ('Get to know Lake & Sumter commission candidates'); the answer text could not be read in this sandbox, so no positions on impact fees, roads, The Villages vs. rural issues, fire/EMS or budget are coded.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Get to know Lake & Sumter commission candidates before primary - Yahoo News (Daily Commercial)",
+              "url": "https://www.yahoo.com/news/politics/articles/know-lake-sumter-commission-candidates-231440397.html",
+              "date": "2026-08"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Incumbent Sumter County Commissioner for District 4 running for re-election in 2026.",
+          "sources": [
+            {
+              "title": "District 4 - Sumter County, FL official website",
+              "url": "https://www.sumtercountyfl.gov/161/District-4",
+              "date": null
+            },
+            {
+              "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "item": "Won the Aug. 18, 2026 Republican primary 73.04% to 26.96% over Michael Squier.",
+          "sources": [
+            {
+              "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+              "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "Election results for Sumter County races in the Florida Primary on Aug. 18, 2026 - ClickOrlando",
+              "url": "https://www.clickorlando.com/election-2026/2026/08/18/election-results-for-sumter-county-races-in-the-florida-primary-on-aug-18-2026/",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "2026 Primary Election - Sumter County official results (enr.electionsfl.org)",
+              "url": "https://enr.electionsfl.org/SUM/3989/Summary/",
+              "date": "2026-08-18"
+            }
+          ]
+        }
+      ],
+      "endorsements": []
+    },
+    {
+      "id": "ethan_parks",
+      "name": "Ethan Parks",
+      "party": "Write-in",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": "No public portrait found",
+      "website": null,
+      "occupation": "Not found",
+      "residence": "Sumter County (not verified)",
+      "background": "Parks qualified as a write-in candidate for Sumter County Commission District 4; his name will not appear printed on the Nov. 3, 2026 ballot (voters must write it in). Florida Money Watch's campaign-finance listing shows him as an active write-in candidate with no monetary contributions or expenditures reported. No campaign website, statements or biography were found.",
+      "primary_result": "Write-in candidates do not run in the primary; advances directly to the Nov. 3 general election as a write-in (ClickOrlando)",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [
+        {
+          "item": "Qualified as a write-in candidate for County Commission District 4; campaign-finance reports show $0 raised and $0 spent.",
+          "sources": [
+            {
+              "title": "Sumter 2026 Candidates - Florida Money Watch (campaign finance)",
+              "url": "https://www.floridamoneywatch.com/county.php?code=SUM",
+              "date": null
+            },
+            {
+              "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ],
+      "endorsements": []
+    }
+  ]
+}

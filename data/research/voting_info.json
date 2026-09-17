@@ -1,0 +1,55 @@
+{
+  "county": "Sumter County, Florida",
+  "election_date": "2026-11-03",
+  "registration_deadline": "2026-10-05 (29 days before the election; per Florida Division of Elections and Florida Supervisors of Elections calendars)",
+  "vote_by_mail_request_deadline": "2026-10-22 by 5:00 p.m. (12th day before the election); Sumter County Elections news flash confirms Oct. 22, 2026 as the last day to request a mail ballot for the General Election",
+  "vote_by_mail_return_deadline": "Ballot must be RECEIVED by the Supervisor of Elections by 7:00 p.m. on Election Day, Nov. 3, 2026 (postmarks do not count). Mail ballots may also be returned to a secure ballot intake station (drop box) at the SOE office or any early-voting site during early-voting hours, or delivered to the office. Overseas (UOCAVA) ballots have a 10-day post-election receipt allowance. (Florida statutes s. 101.67 and 101.69; dos.fl.gov vote-by-mail page.)",
+  "early_voting_dates": "Florida law requires early voting from the 10th day through the 3rd day before the election: Saturday Oct. 24 through Saturday Oct. 31, 2026, at least 8 hours per day; counties may add optional days from Oct. 19-23 and Nov. 1. Sumter County's specific 2026 General Election early-voting schedule and daily hours could not be fetched (elections.sumtercountyfl.gov blocked) and are UNVERIFIED — check https://elections.sumtercountyfl.gov/200/Early-Voting.",
+  "early_voting_locations": [
+    {"name": "Bushnell Community Building", "address": "407 E. Belt Avenue, Bushnell, FL 33513"},
+    {"name": "Villages Sumter County Service Center", "address": "7375 Powell Road, Room 102, Wildwood, FL 34785"},
+    {"name": "Laurel Manor Recreation Center", "address": "1985 Laurel Manor Drive, The Villages, FL 32162"},
+    {"name": "Tierra Del Sol Recreation Center", "address": "808 San Marino Drive, The Villages, FL 32159"},
+    {"name": "Allamanda Recreation Center", "address": "1515 Saint Charles Place, The Villages, FL 32162"},
+    {"name": "Rohan Recreation Center", "address": "850 Kristine Way, The Villages, FL 32163"},
+    {"name": "Everglades Recreation Center", "address": "5497 Marsh Bend Trail, The Villages, FL 32163"}
+  ],
+  "early_voting_locations_note": "Seven sites listed on the Sumter County Elections early-voting page (search snippet); any registered Sumter voter may use any early-voting site. ZIP codes added from general knowledge; confirm the 2026 General Election site list on the county page.",
+  "election_day_hours": "7:00 a.m. to 7:00 p.m.; voters must vote at their assigned precinct on Election Day; anyone in line at 7:00 p.m. may vote.",
+  "supervisor_of_elections": {
+    "name": "Karen S. Krauss",
+    "phone": "(352) 569-1540",
+    "website": "https://elections.sumtercountyfl.gov/",
+    "address": "Main office: 900 N. Main Street, Bushnell, FL 33513. Villages-area office: Sumter County Government Service Center, 7375 Powell Road, Suite 145, Wildwood, FL 34785.",
+    "note": "Krauss is listed as Supervisor of Elections on the county Office Holders page and LinkedIn; one search snippet referenced former supervisor William 'Bill' Keen (her predecessor), so the office-holder and phone should be confirmed at https://dos.elections.myflorida.com/supervisors/countyInfo.asp?county=SUM."
+  },
+  "id_requirements": "Voters must present a current and valid photo ID with signature at early-voting sites and polling places. Acceptable IDs (Fla. Stat. s. 101.043): Florida driver license; Florida ID card issued by DHSMV; U.S. passport; debit or credit card; military ID; student ID; retirement center ID; neighborhood association ID; public assistance ID; veteran health ID card issued by the U.S. Department of Veterans Affairs; Florida concealed weapon or firearm license; employee ID issued by any branch, department, agency or entity of the federal, state, county or municipal government. If the photo ID lacks a signature, a second ID with signature is required. A voter without acceptable ID may vote a provisional ballot, which counts if the signature matches the registration record.",
+  "id_sources": ["https://dos.fl.gov/elections/for-voters/voting/election-day-voting/", "https://elections.sumtercountyfl.gov/200/Early-Voting"],
+  "sample_ballot_url": "https://elections.sumtercountyfl.gov/163/2026-Election-Information",
+  "sample_ballot_note": "County posts sample ballots on its 2026 Election Information page and mails them to registered voters before the election; exact PDF link not retrievable (site blocked in sandbox).",
+  "precinct_lookup_url": "https://registration.elections.myflorida.com/CheckVoterStatus",
+  "precinct_lookup_note": "State Voter Information Lookup (shows registration status, precinct and polling place). The county site also offers a precinct/polling-place finder from its home page https://elections.sumtercountyfl.gov/.",
+  "vote_by_mail_request_url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/23",
+  "sources": [
+    "https://elections.sumtercountyfl.gov/",
+    "https://elections.sumtercountyfl.gov/200/Early-Voting",
+    "https://elections.sumtercountyfl.gov/163/2026-Election-Information",
+    "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/23",
+    "https://elections.sumtercountyfl.gov/Elections/Elected-Officials/Office-Holders",
+    "https://dos.fl.gov/elections/for-voters/election-dates/",
+    "https://dos.fl.gov/elections/for-voters/voting/vote-by-mail/",
+    "https://www.myfloridaelections.com/election-dates-deadlines",
+    "https://electionsfla.com/election-dates",
+    "https://www.vote411.org/florida",
+    "https://dos.elections.myflorida.com/supervisors/countyInfo.asp?county=SUM",
+    "https://www.usvotefoundation.org/sumter-county-fl-election-office",
+    "https://www.linkedin.com/in/karen-krauss-55b75b74/",
+    "https://vrcdn.electionsfl.org/StaticPages/sumter.html"
+  ],
+  "unverified": [
+    "Sumter-specific early voting days/hours for Nov. 2026 (only the statewide mandatory window is stated).",
+    "Whether all seven early-voting sites will be used for the General Election.",
+    "Exact sample-ballot PDF link.",
+    "Office holder/phone cross-check against the state SOE directory."
+  ]
+}

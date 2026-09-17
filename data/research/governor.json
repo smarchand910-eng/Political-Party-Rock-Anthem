@@ -1,0 +1,2196 @@
+{
+ "race_id": "governor",
+ "verified_ballot_note": "Qualifying closed June 12, 2026: WUWF and the Tampa Bay Times/Spokesman-Review reported 27 qualified candidates for governor (10 R, 6 D, 6 NPA, 4 write-in, 1 Libertarian); the six NPA qualifiers are Dean Ocean Abrams, Charles Burkett, Jeffrey 'Dr. Jeff' Datto, Moliere 'Moe' Dimanche, Desmond Meade and Frank J. Russo (CBS12/politics1 lists), which confirms state Sen. Jason Pizzo did NOT qualify; Donalds (R, ~47.8%) and Jolly (D, ~61%) won the Aug. 18 primaries (CBS News, Washington Post); Meade withdrew Aug. 28, 2026 (WLRN/Florida Politics) and whether his name remains printed on the ballot is unverified; the names of the four qualified write-in candidates (who do not appear on the ballot) could not be retrieved. Sources: https://www.wuwf.org/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election ; https://www.spokesman.com/stories/2026/jun/12/field-set-for-florida-2026-governor-race-as-qualif/ ; https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/ ; https://www.wlrn.org/government-politics/2026-08-28/desmond-meade-withdraws-florida-governor-election ; https://ballotpedia.org/Florida_gubernatorial_and_lieutenant_gubernatorial_election,_2026",
+ "candidates": [
+  {
+   "id": "byron_donalds",
+   "name": "Byron Donalds",
+   "party": "Republican",
+   "incumbent": false,
+   "running_mate": "Bryan Avila (state senator, Miami)",
+   "photo_url": "https://www.congress.gov/img/member/d000032_200.jpg",
+   "photo_source": "congress.gov official member portrait (bioguide D000032)",
+   "website": "https://byrondonalds.com/",
+   "occupation": "U.S. Representative, Florida's 19th District",
+   "residence": "Naples, Collier County",
+   "background": "Byron Donalds is a Republican U.S. Representative for Florida's 19th Congressional District (Southwest Florida), first elected in 2020 after serving in the Florida House. He announced his campaign for governor in February 2025 with President Trump's endorsement. He won the Aug. 18, 2026 Republican primary with about 47.8% of the vote over Lt. Gov. Jay Collins, former House Speaker Paul Renner and businessman James Fishback. On Aug. 26, 2026, at Miami's Freedom Tower, he named state Sen. Bryan Avila, a Florida National Guard captain first elected to the Florida House in 2014 and to the Senate in 2022, as his running mate.",
+   "primary_result": "Won Aug 18, 2026 Republican primary with ~47.8% over Jay Collins, Paul Renner and James Fishback (CBS News; Washington Post)",
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Donalds has made tax reduction a centerpiece: he says he will use the state Tax and Budget Reform Commission, which convenes in 2027, to 'study all taxes and fees in Florida' with the goal of eliminating homestead property taxes, and he pitches his campaign around affordability.",
+     "quote": "We are going to study all taxes and fees in Florida. We're going to set a goal of finally eliminating homestead property taxes in our state.",
+     "sources": [
+      {
+       "title": "Byron Donalds doubles down on cutting - or even eliminating - property taxes if elected (WLRN)",
+       "url": "https://www.wlrn.org/government-politics/2026-09-01/byron-donalds-doubles-down-on-cutting-or-even-eliminating-property-taxes-if-elected",
+       "date": "2026-09-01"
+      },
+      {
+       "title": "Byron Donalds vows to revive property tax cuts as Governor if November amendment fails (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/801896-if-homestead-exemption-hike-fails-with-voters-byron-donalds-vows-to-bring-it-back/",
+       "date": "2026"
+      },
+      {
+       "title": "Byron Donalds turns lean-years story, hurricane warning into affordability pitch (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/819063-byron-donalds-turns-lean-years-story-hurricane-warning-into-affordability-pitch/",
+       "date": "2026-09"
+      }
+     ]
+    },
+    "property_tax": {
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Donalds says that whether or not the November 2026 property-tax amendment (Amendment 3) passes, he will push to eliminate homestead property taxes through the Tax and Budget Reform Commission; at a Tampa stop he said he would move to eliminate all property taxes. He has since said that if broad relief is not fiscally possible, relief would be targeted to seniors on fixed incomes and working families.",
+     "quote": "Whether Amendment 3 passes or fails, we are going to reform property taxes in our state with the goal of eliminating homestead property taxes once and for all.",
+     "sources": [
+      {
+       "title": "Byron Donalds doubles down on cutting - or even eliminating - property taxes if elected (WLRN)",
+       "url": "https://www.wlrn.org/government-politics/2026-09-01/byron-donalds-doubles-down-on-cutting-or-even-eliminating-property-taxes-if-elected",
+       "date": "2026-09-01"
+      },
+      {
+       "title": "Byron Donalds vows to revive property tax cuts as Governor if November amendment fails (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/801896-if-homestead-exemption-hike-fails-with-voters-byron-donalds-vows-to-bring-it-back/",
+       "date": "2026"
+      },
+      {
+       "title": "'Math' problem: Byron Donalds narrows scope of prospective property tax break if Amendment 3 fails (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/814724-donalds-math-amendment-3/",
+       "date": "2026"
+      },
+      {
+       "title": "Byron Donalds gets specific on education, property taxes in Tampa campaign stop (Tampa Bay Times via AOL)",
+       "url": "https://www.aol.com/articles/byron-donalds-gets-specific-education-210535996.html",
+       "date": "2026"
+      }
+     ]
+    },
+    "insurance": {
+     "stance": -2,
+     "confidence": "stated",
+     "summary": "Donalds' six-point 'Bring Down The Bill' plan relies on market-based measures: keep the 2022-23 litigation (tort) reforms, lower reinsurance costs, an 'Insurer Scorecard' comparison tool, mitigation grants like My Safe Florida Home, and keeping Citizens Property Insurance's policy count low. He says regulatory changes could lower rates up to 20% 'with the risk staying off the state's books,' and he criticizes Jolly's state catastrophe-fund idea as shifting risk to taxpayers.",
+     "quote": null,
+     "sources": [
+      {
+       "title": "Jolly and Donalds clash on property insurance proposals (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/09/16/jolly-and-donalds-clash-on-property-insurance-proposals/",
+       "date": "2026-09-16"
+      },
+      {
+       "title": "Donalds unveils 'Bring Down The Bill' insurance plan (Florida's Voice)",
+       "url": "https://flvoicenews.com/donalds-unveils-bring-down-the-bill-insurance-plan-says-jollys-proposal-would-hit-families-with-1000-hurricane-tax/",
+       "date": "2026-09"
+      },
+      {
+       "title": "Byron Donalds claims David Jolly's insurance plan 'shifts the risk' to taxpayers (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/820055-donalds-jolly-insurance/",
+       "date": "2026-09"
+      },
+      {
+       "title": "Fact Check: Where candidates Donalds and Jolly stand on property insurance (InsuranceNewsNet)",
+       "url": "https://insurancenewsnet.com/oarticle/fact-check-where-candidates-donalds-and-jolly-stand-on-property-insurance",
+       "date": "2026-09"
+      }
+     ]
+    },
+    "housing": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "immigration": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "abortion": {
+     "stance": -2,
+     "confidence": "stated",
+     "summary": "Donalds has called Florida's six-week 'Heartbeat Protection Act' the 'right move' and says he would not move to change the current law; he says abortion policy should be decided by states rather than federal bans, and that there is not sufficient momentum to go further at this time. He is endorsed by Susan B. Anthony Pro-Life America and Florida Voice for the Unborn.",
+     "quote": null,
+     "sources": [
+      {
+       "title": "Status quo for now: Byron Donalds says the time isn't right for the 'next legislative step' on restricting abortion (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/819289-byron-donalds-abortion/",
+       "date": "2026-09"
+      },
+      {
+       "title": "Byron Donalds sidesteps his stance on six-week abortion ban in Florida (NBC Meet the Press)",
+       "url": "https://www.nbcnews.com/meet-the-press/video/byron-donalds-sidesteps-his-stance-on-six-week-abortion-ban-in-florida-175420997710",
+       "date": "2023-08"
+      },
+      {
+       "title": "Susan B. Anthony Pro-Life America is pro-Byron Donalds (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/806201-susan-b-anthony-pro-life-america-is-pro-byron-donalds/",
+       "date": "2026"
+      },
+      {
+       "title": "Byron Donalds picks up endorsement from anti-abortion group (Orlando Weekly)",
+       "url": "https://www.orlandoweekly.com/news/florida-news/byron-donalds-picks-up-endorsement-from-anti-abortion-group/",
+       "date": "2026"
+      }
+     ]
+    },
+    "guns": {
+     "stance": -2,
+     "confidence": "stated",
+     "summary": "Donalds says 'job one' as governor would be repealing two parts of the 2018 post-Parkland law: the red-flag (risk protection order) law and the 21-year-old minimum age for long-gun purchases. He says he would also support and push for open carry and has pledged support for constitutional carry for adults 18 and older. He is endorsed by Gun Owners of America and, as of Sept. 16, 2026, the NRA.",
+     "quote": "I would support and push for that, but I think that the bigger thing that we need to get done is really unwinding the red flag laws in our state.",
+     "sources": [
+      {
+       "title": "Byron Donalds says he supports repealing Florida's red-flag law (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/briefs/byron-donalds-says-he-supports-repealing-floridas-red-flag-law/",
+       "date": "2026"
+      },
+      {
+       "title": "Gun policy emerges as an early flashpoint in Florida governor's race (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/08/27/gun-policy-emerges-as-an-early-flashpoint-in-florida-governors-race/",
+       "date": "2026-08-27"
+      },
+      {
+       "title": "Gun Owners of America Endorses Byron Donalds for Florida Governor (GOA)",
+       "url": "https://www.gunowners.org/780519-2/",
+       "date": "2026"
+      },
+      {
+       "title": "Byron Donalds lands NRA endorsement for governor (Palm Beach Post via PressReader)",
+       "url": "https://www.pressreader.com/usa/the-palm-beach-post/20260916/281925959911253",
+       "date": "2026-09-16"
+      },
+      {
+       "title": "Byron Donalds, who wants to be governor of Florida, supports repealing the state's red-flag gun safety law (Creative Loafing Tampa)",
+       "url": "https://www.cltampa.com/news/byron-donalds-who-wants-to-be-governor-of-florida-supports-repealing-the-states-red-flag-gun-safety-law-20099301/",
+       "date": "2026"
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "social_security": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "education_choice": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Not verified in this research session. A Tampa Bay Times report describes Donalds getting 'specific on education' at a Tampa campaign stop, but its contents could not be retrieved; no stance coded.",
+     "quote": null,
+     "sources": []
+    },
+    "environment": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "growth": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "marijuana": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "elections": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "crime": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "lgbtq": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "energy": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "tariffs": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "ukraine": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "trump": {
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Donalds launched his campaign in February 2025 with President Trump's endorsement and has run as a Trump ally; Trump's backing was a central theme of his primary campaign.",
+     "quote": null,
+     "sources": [
+      {
+       "title": "Rep. Byron Donalds, backed by Trump, announces run for Florida governor (CBS News)",
+       "url": "https://www.cbsnews.com/amp/news/rep-byron-donalds-backed-by-trump-says-hes-running-for-florida-governor",
+       "date": "2025-02"
+      },
+      {
+       "title": "Byron Donalds, David Jolly to face off in Florida governor's race after primary wins (CBS News)",
+       "url": "https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/",
+       "date": "2026-08-19"
+      },
+      {
+       "title": "Top House Republican backs Byron Donalds for Florida governor (Fox News)",
+       "url": "https://www.foxnews.com/politics/top-house-republican-backs-byron-donalds-florida-governor",
+       "date": "2025"
+      }
+     ]
+    },
+    "veterans": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    }
+   },
+   "other_issues": [
+    {
+     "title": "Tax and Budget Reform Commission review of all state taxes and fees",
+     "summary": "Says he will use the constitutionally required 2027 Tax and Budget Reform Commission to study every tax and fee in Florida with a goal of eliminating homestead property taxes.",
+     "sources": [
+      {
+       "title": "Byron Donalds doubles down on cutting - or even eliminating - property taxes if elected (WLRN)",
+       "url": "https://www.wlrn.org/government-politics/2026-09-01/byron-donalds-doubles-down-on-cutting-or-even-eliminating-property-taxes-if-elected",
+       "date": "2026-09-01"
+      },
+      {
+       "title": "Byron Donalds vows to revive property tax cuts as Governor if November amendment fails (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/801896-if-homestead-exemption-hike-fails-with-voters-byron-donalds-vows-to-bring-it-back/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "title": "'Bring Down The Bill' property-insurance plan",
+     "summary": "Six-point plan: preserve tort reforms, lower reinsurance costs, an 'Insurer Scorecard' to compare insurers, mitigation/storm-hardening grants, more competition and keeping Citizens small.",
+     "sources": [
+      {
+       "title": "Donalds unveils 'Bring Down The Bill' insurance plan (Florida's Voice)",
+       "url": "https://flvoicenews.com/donalds-unveils-bring-down-the-bill-insurance-plan-says-jollys-proposal-would-hit-families-with-1000-hurricane-tax/",
+       "date": "2026-09"
+      },
+      {
+       "title": "Fact Check: Where candidates Donalds and Jolly stand on property insurance (InsuranceNewsNet)",
+       "url": "https://insurancenewsnet.com/oarticle/fact-check-where-candidates-donalds-and-jolly-stand-on-property-insurance",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "title": "Amendment 3 (2026 homestead exemption increase)",
+     "summary": "Supports the November 2026 ballot amendment on homestead exemptions and says he will bring the idea back through the commission if voters reject it.",
+     "sources": [
+      {
+       "title": "Byron Donalds vows to revive property tax cuts as Governor if November amendment fails (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/801896-if-homestead-exemption-hike-fails-with-voters-byron-donalds-vows-to-bring-it-back/",
+       "date": "2026"
+      },
+      {
+       "title": "'Math' problem: Byron Donalds narrows scope of prospective property tax break if Amendment 3 fails (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/814724-donalds-math-amendment-3/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "title": "Affordability / cost of living",
+     "summary": "Frames his campaign around affordability, citing his family's 'lean years' and hurricane costs, with property taxes and insurance as the main levers.",
+     "sources": [
+      {
+       "title": "Byron Donalds turns lean-years story, hurricane warning into affordability pitch (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/819063-byron-donalds-turns-lean-years-story-hurricane-warning-into-affordability-pitch/",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ],
+   "record": [
+    {
+     "item": "Won the Aug. 18, 2026 Republican primary for governor with about 47.8% in a four-way race with Jay Collins, Paul Renner and James Fishback.",
+     "sources": [
+      {
+       "title": "Byron Donalds, David Jolly to face off in Florida governor's race after primary wins (CBS News)",
+       "url": "https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/",
+       "date": "2026-08-19"
+      },
+      {
+       "title": "Florida governor primary results live: Byron Donalds, David Jolly win (Washington Post)",
+       "url": "https://www.washingtonpost.com/elections/2026/08/18/florida-governor-primary-results-live-byron-donalds-jay-collins-david-jolly-run/",
+       "date": "2026-08-18"
+      }
+     ]
+    },
+    {
+     "item": "Announced his run in February 2025 after receiving President Trump's endorsement.",
+     "sources": [
+      {
+       "title": "Rep. Byron Donalds, backed by Trump, announces run for Florida governor (CBS News)",
+       "url": "https://www.cbsnews.com/amp/news/rep-byron-donalds-backed-by-trump-says-hes-running-for-florida-governor",
+       "date": "2025-02"
+      }
+     ]
+    },
+    {
+     "item": "Stated in Aug. 2023 on NBC's Meet the Press that he would not say whether he would have signed the six-week abortion ban; in 2026 he said the law was the 'right move' and that he would not change it.",
+     "sources": [
+      {
+       "title": "Byron Donalds sidesteps his stance on six-week abortion ban in Florida (NBC Meet the Press)",
+       "url": "https://www.nbcnews.com/meet-the-press/video/byron-donalds-sidesteps-his-stance-on-six-week-abortion-ban-in-florida-175420997710",
+       "date": "2023-08"
+      },
+      {
+       "title": "Status quo for now: Byron Donalds says the time isn't right for the 'next legislative step' on restricting abortion (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/819289-byron-donalds-abortion/",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "item": "Answered Gun Owners of America's 2026 Florida candidate survey opposing red-flag confiscation orders and supporting constitutional carry for adults 18+.",
+     "sources": [
+      {
+       "title": "Gun Owners of America Endorses Byron Donalds for Florida Governor (GOA)",
+       "url": "https://www.gunowners.org/780519-2/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "item": "Narrowed his property-tax pledge in Sept. 2026, saying relief would be targeted to seniors and working families if broad elimination is not affordable ('math' problem).",
+     "sources": [
+      {
+       "title": "'Math' problem: Byron Donalds narrows scope of prospective property tax break if Amendment 3 fails (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/814724-donalds-math-amendment-3/",
+       "date": "2026"
+      }
+     ]
+    }
+   ],
+   "endorsements": [
+    {
+     "by": "President Donald Trump",
+     "sources": [
+      {
+       "title": "Rep. Byron Donalds, backed by Trump, announces run for Florida governor (CBS News)",
+       "url": "https://www.cbsnews.com/amp/news/rep-byron-donalds-backed-by-trump-says-hes-running-for-florida-governor",
+       "date": "2025-02"
+      },
+      {
+       "title": "Byron Donalds, David Jolly to face off in Florida governor's race after primary wins (CBS News)",
+       "url": "https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/",
+       "date": "2026-08-19"
+      }
+     ]
+    },
+    {
+     "by": "National Rifle Association (NRA)",
+     "sources": [
+      {
+       "title": "Byron Donalds lands NRA endorsement for governor (Palm Beach Post via PressReader)",
+       "url": "https://www.pressreader.com/usa/the-palm-beach-post/20260916/281925959911253",
+       "date": "2026-09-16"
+      }
+     ]
+    },
+    {
+     "by": "Gun Owners of America",
+     "sources": [
+      {
+       "title": "Gun Owners of America Endorses Byron Donalds for Florida Governor (GOA)",
+       "url": "https://www.gunowners.org/780519-2/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "by": "Susan B. Anthony Pro-Life America",
+     "sources": [
+      {
+       "title": "Susan B. Anthony Pro-Life America is pro-Byron Donalds (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/806201-susan-b-anthony-pro-life-america-is-pro-byron-donalds/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "by": "Florida Voice for the Unborn",
+     "sources": [
+      {
+       "title": "Byron Donalds picks up endorsement from anti-abortion group (Orlando Weekly)",
+       "url": "https://www.orlandoweekly.com/news/florida-news/byron-donalds-picks-up-endorsement-from-anti-abortion-group/",
+       "date": "2026"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "david_jolly",
+   "name": "David Jolly",
+   "party": "Democratic",
+   "incumbent": false,
+   "running_mate": "Gwen Graham (former U.S. Representative)",
+   "photo_url": "https://www.congress.gov/img/member/j000296_200.jpg",
+   "photo_source": "congress.gov official member portrait from his House service (bioguide J000296)",
+   "website": "https://davidjolly.com/",
+   "occupation": "Attorney; former U.S. Representative; political commentator",
+   "residence": "Pinellas County (Tampa Bay area)",
+   "background": "David Jolly is a former U.S. Representative for Florida's 13th District (Pinellas County), serving 2014-2017 as a Republican. He later left the Republican Party, became an independent and then registered as a Democrat before running for governor. He won the Aug. 18, 2026 Democratic primary with about 61% of the vote. On June 10, 2026 he named Gwen Graham, a former Democratic congresswoman (2015-2017), 2018 gubernatorial candidate and daughter of the late Gov. and Sen. Bob Graham, as his running mate; their House service overlapped in 2015-2017.",
+   "primary_result": "Won Aug 18, 2026 Democratic primary with ~61% (CBS News; Washington Post)",
+   "positions": {
+    "taxes": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "property_tax": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Jolly has offered a property-tax approach that news coverage describes as a 'different path' from Donalds' elimination plan, but the article could not be retrieved in this session and no stance is coded.",
+     "quote": null,
+     "sources": []
+    },
+    "insurance": {
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Jolly proposes a state catastrophic insurance fund that would take hurricane/wind coverage out of the private market, which he says could reduce homeowners' insurance costs by 60% to 70%. He disputes the Donalds campaign's claim that the plan means a $1,000 'hurricane tax,' saying no detailed plan with such a charge has been published.",
+     "quote": "It's all lies... it does not include an additional $1,000 tax for homeowners. No governor is going to do that.",
+     "sources": [
+      {
+       "title": "Jolly and Donalds clash on property insurance proposals (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/09/16/jolly-and-donalds-clash-on-property-insurance-proposals/",
+       "date": "2026-09-16"
+      },
+      {
+       "title": "Byron Donalds claims David Jolly's insurance plan 'shifts the risk' to taxpayers (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/820055-donalds-jolly-insurance/",
+       "date": "2026-09"
+      },
+      {
+       "title": "Fact Check: Where candidates Donalds and Jolly stand on property insurance (InsuranceNewsNet)",
+       "url": "https://insurancenewsnet.com/oarticle/fact-check-where-candidates-donalds-and-jolly-stand-on-property-insurance",
+       "date": "2026-09"
+      }
+     ]
+    },
+    "housing": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "immigration": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "abortion": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "guns": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "healthcare": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "social_security": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "education_choice": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "environment": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "growth": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "marijuana": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "elections": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "crime": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "lgbtq": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "energy": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "tariffs": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "ukraine": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "trump": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "veterans": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    }
+   },
+   "other_issues": [
+    {
+     "title": "State catastrophic (hurricane/wind) insurance fund",
+     "summary": "Proposes moving hurricane and wind risk into a state catastrophe fund to lower private premiums; the Donalds campaign attacks it as shifting risk to taxpayers.",
+     "sources": [
+      {
+       "title": "Jolly and Donalds clash on property insurance proposals (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/09/16/jolly-and-donalds-clash-on-property-insurance-proposals/",
+       "date": "2026-09-16"
+      },
+      {
+       "title": "Byron Donalds claims David Jolly's insurance plan 'shifts the risk' to taxpayers (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/820055-donalds-jolly-insurance/",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "title": "Property-tax relief approach",
+     "summary": "Coverage says Jolly and Donalds offer 'different paths' to property-tax cuts; specifics for Jolly could not be retrieved.",
+     "sources": [
+      {
+       "title": "Gubernatorial candidates offer different paths to Florida property tax cuts (Tampa Bay Times via Yahoo)",
+       "url": "https://www.yahoo.com/news/politics/articles/gubernatorial-candidates-offer-different-paths-205249244.html",
+       "date": "2026"
+      }
+     ]
+    }
+   ],
+   "record": [
+    {
+     "item": "Served in the U.S. House (FL-13) from 2014 to 2017 as a Republican; running mate Gwen Graham served in the House as a Democrat during the same 2015-2017 period.",
+     "sources": [
+      {
+       "title": "Democrat David Jolly names Gwen Graham as running mate in Florida governor's race (WUSF)",
+       "url": "https://www.wusf.org/politics-issues/2026-06-10/david-jolly-names-gwen-graham-as-running-mate-florida-governors-race",
+       "date": "2026-06-10"
+      },
+      {
+       "title": "David Jolly on why he chose Gwen Graham as his running mate (NBC Miami)",
+       "url": "https://www.nbcmiami.com/news/politics/local-politics/david-jolly-gwen-graham-florida-governor-race/3819830/",
+       "date": "2026-06"
+      }
+     ]
+    },
+    {
+     "item": "Left the Republican Party after Congress and ran for governor in 2026 as a Democrat, winning the primary with ~61%.",
+     "sources": [
+      {
+       "title": "Byron Donalds, David Jolly to face off in Florida governor's race after primary wins (CBS News)",
+       "url": "https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/",
+       "date": "2026-08-19"
+      },
+      {
+       "title": "Florida governor primary results live: Byron Donalds, David Jolly win (Washington Post)",
+       "url": "https://www.washingtonpost.com/elections/2026/08/18/florida-governor-primary-results-live-byron-donalds-jay-collins-david-jolly-run/",
+       "date": "2026-08-18"
+      }
+     ]
+    },
+    {
+     "item": "Was the first major candidate in the race to name a running mate (June 10, 2026).",
+     "sources": [
+      {
+       "title": "Democrat David Jolly names Gwen Graham as running mate in Florida governor's race (WUSF)",
+       "url": "https://www.wusf.org/politics-issues/2026-06-10/david-jolly-names-gwen-graham-as-running-mate-florida-governors-race",
+       "date": "2026-06-10"
+      },
+      {
+       "title": "'A Jolly Florida': Jolly announces Gwen Graham as gubernatorial running mate (campaign site)",
+       "url": "https://davidjolly.com/a-jolly-florida-jolly-announces-gwen-graham-as-gubernatorial-running-mate/",
+       "date": "2026-06-10"
+      }
+     ]
+    },
+    {
+     "item": "Trailed Donalds substantially in early fundraising, per news coverage.",
+     "sources": [
+      {
+       "title": "Byron Donalds dwarfs David Jolly in early 2026 Florida governor race fundraising (Yahoo News)",
+       "url": "https://www.yahoo.com/news/byron-donalds-dwarfs-david-jolly-163544449.html",
+       "date": "2026"
+      }
+     ]
+    }
+   ],
+   "endorsements": []
+  },
+  {
+   "id": "scott_jewett",
+   "name": "Scott Eckhard Jewett",
+   "party": "Libertarian",
+   "incumbent": false,
+   "running_mate": "Nicole Skelly (Milton, FL; construction business owner)",
+   "photo_url": "https://scottjewett.com/",
+   "photo_source": "campaign site (photo URL not verified)",
+   "website": "https://scottjewett.com/",
+   "occupation": "Not verified (campaign cites 'a decade of government experience')",
+   "residence": "Florida (city/county not verified)",
+   "background": "Scott Eckhard Jewett is the Libertarian Party of Florida's nominee for governor; the national Libertarian Party announced his filing in 2025 and he announced a 'Libertarian 2.0' bid in November 2025. His campaign says he brings a decade of government experience and brands his platform 'Humanitarian Libertarianism,' combining Republican economic principles with Democratic social values. His running mate is Nicole Skelly of Milton, who runs a construction business with her husband. He was the lone Libertarian to qualify when qualifying closed June 12, 2026.",
+   "primary_result": "No primary; qualified as the Libertarian Party of Florida nominee (WUWF, June 12, 2026)",
+   "positions": {
+    "taxes": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "property_tax": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "insurance": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "housing": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "immigration": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "abortion": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "guns": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "healthcare": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "social_security": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "education_choice": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "environment": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "growth": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "marijuana": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "elections": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "crime": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "lgbtq": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "energy": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "tariffs": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "ukraine": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "trump": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "veterans": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    }
+   },
+   "other_issues": [
+    {
+     "title": "'Humanitarian Libertarianism' platform",
+     "summary": "Says his agenda centers on a robust economy with more living-wage jobs, enhanced educational opportunities and public safety, pairing Republican economic principles with Democratic social values.",
+     "sources": [
+      {
+       "title": "Scott Jewett at Libertarian Party of Florida",
+       "url": "https://www.lpf.org/scottjewett",
+       "date": null
+      },
+      {
+       "title": "Scott Jewett Announces 'Libertarian 2.0' bid for Florida Governor (Floridian Press)",
+       "url": "https://floridianpress.com/2025/11/scott-jewett-announces-libertarian-2-0-bid-for-florida-governor/",
+       "date": "2025-11"
+      },
+      {
+       "title": "Scott Jewett for Florida Governor (campaign site)",
+       "url": "https://scottjewett.com/",
+       "date": null
+      }
+     ]
+    }
+   ],
+   "record": [],
+   "endorsements": [
+    {
+     "by": "Libertarian Party of Florida / Libertarian Party (national)",
+     "sources": [
+      {
+       "title": "Scott Jewett at Libertarian Party of Florida",
+       "url": "https://www.lpf.org/scottjewett",
+       "date": null
+      },
+      {
+       "title": "Scott Eckhard Jewett (Libertarian Party national candidate page)",
+       "url": "https://lp.org/candidate/scott-eckhard-jewett/",
+       "date": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dean_abrams",
+   "name": "Dean Ocean Abrams",
+   "party": "No Party Affiliation",
+   "incumbent": false,
+   "running_mate": null,
+   "photo_url": "https://www.deanabrams.com/",
+   "photo_source": "campaign site (photo URL not verified)",
+   "website": "https://www.deanabrams.com/",
+   "occupation": "Technology and management consultant (retired/self-funded candidate)",
+   "residence": "Sarasota, Sarasota County",
+   "background": "Dean Abrams is a Sarasota-based NPA candidate who describes himself as not a career politician. He says he spent three decades in enterprise technology and management consulting with Microsoft, HP, KPMG and other firms, and helped rebuild New York City first responders' emergency communications after Sept. 11. He qualified for the general election as one of six NPA candidates in June 2026 and says his campaign is self-funded with no party, PAC or corporate money.",
+   "primary_result": "No primary; qualified as NPA candidate for the Nov. 3 general election (WUWF/Spokesman, June 12, 2026)",
+   "positions": {
+    "taxes": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "property_tax": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "insurance": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "housing": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Campaign lists 'fixing housing' and 'lowering costs' as priorities but no specific policy mechanism was found.",
+     "quote": null,
+     "sources": []
+    },
+    "immigration": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "abortion": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "guns": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "healthcare": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "social_security": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "education_choice": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "environment": {
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "Says he will protect Florida's land and opposes 'polluted waters' and a 'corporate data-center land grab.'",
+     "quote": null,
+     "sources": [
+      {
+       "title": "Dean Abrams for Florida Governor (campaign site)",
+       "url": "https://www.deanabrams.com/",
+       "date": null
+      },
+      {
+       "title": "Dean Abrams for Florida Governor (Good Party)",
+       "url": "https://goodparty.org/candidate/dean-abrams/florida-governor",
+       "date": null
+      }
+     ]
+    },
+    "growth": {
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "States opposition to 'unchecked development' and the data-center land grab.",
+     "quote": null,
+     "sources": [
+      {
+       "title": "Dean Abrams for Florida Governor (campaign site)",
+       "url": "https://www.deanabrams.com/",
+       "date": null
+      },
+      {
+       "title": "Dean Abrams for Florida Governor (Good Party)",
+       "url": "https://goodparty.org/candidate/dean-abrams/florida-governor",
+       "date": null
+      }
+     ]
+    },
+    "marijuana": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "elections": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "crime": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "lgbtq": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "energy": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "tariffs": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "ukraine": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "trump": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "veterans": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    }
+   },
+   "other_issues": [
+    {
+     "title": "Data-center land use",
+     "summary": "Opposes what he calls a corporate data-center land grab in Florida.",
+     "sources": [
+      {
+       "title": "Dean Abrams for Florida Governor (campaign site)",
+       "url": "https://www.deanabrams.com/",
+       "date": null
+      }
+     ]
+    },
+    {
+     "title": "Self-funded, no PAC money",
+     "summary": "Says he takes no party, PAC or corporate donations.",
+     "sources": [
+      {
+       "title": "Dean Abrams for Florida Governor (campaign site)",
+       "url": "https://www.deanabrams.com/",
+       "date": null
+      },
+      {
+       "title": "Dean Abrams for Florida Governor (Good Party)",
+       "url": "https://goodparty.org/candidate/dean-abrams/florida-governor",
+       "date": null
+      }
+     ]
+    }
+   ],
+   "record": [],
+   "endorsements": []
+  },
+  {
+   "id": "charles_burkett",
+   "name": "Charles W. Burkett",
+   "party": "No Party Affiliation",
+   "incumbent": false,
+   "running_mate": null,
+   "photo_url": "https://www.wlrn.org/government-politics/2026-05-19/former-surfside-mayor-charles-burkett-florida-governors-race",
+   "photo_source": "WLRN article image (photo URL not verified)",
+   "website": null,
+   "occupation": "Real estate investor; former Mayor of Surfside",
+   "residence": "Surfside, Miami-Dade County",
+   "background": "Charles Burkett was born and raised in Miami Beach, graduated from the University of Miami with a finance degree and founded a real estate investment firm. He served four terms as Mayor of Surfside (2006-2010, 2020-2022, 2024-2026), including during the COVID-19 pandemic and the 2021 Champlain Towers South collapse. He announced an NPA run for governor in May 2026 and qualified in June 2026.",
+   "primary_result": "No primary; qualified as NPA candidate for the Nov. 3 general election (WUWF/Spokesman, June 12, 2026)",
+   "positions": {
+    "taxes": {
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Platform calls for eliminating homestead property taxes, reducing tolls and gas taxes, and cutting government spending and bureaucracy.",
+     "quote": null,
+     "sources": [
+      {
+       "title": "Former Surfside mayor Charles Burkett enters Florida Governors' race (WLRN)",
+       "url": "https://www.wlrn.org/government-politics/2026-05-19/former-surfside-mayor-charles-burkett-florida-governors-race",
+       "date": "2026-05-19"
+      },
+      {
+       "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
+       "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
+       "date": "2026-05"
+      }
+     ]
+    },
+    "property_tax": {
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Proposes eliminating property taxes on homesteaded homes.",
+     "quote": null,
+     "sources": [
+      {
+       "title": "Former Surfside mayor Charles Burkett enters Florida Governors' race (WLRN)",
+       "url": "https://www.wlrn.org/government-politics/2026-05-19/former-surfside-mayor-charles-burkett-florida-governors-race",
+       "date": "2026-05-19"
+      },
+      {
+       "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
+       "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
+       "date": "2026-05"
+      }
+     ]
+    },
+    "insurance": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Says he would 'overhaul insurance' laws but the direction (more state intervention vs. market reform) was not specified in available coverage.",
+     "quote": null,
+     "sources": []
+    },
+    "housing": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "immigration": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "abortion": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "guns": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "healthcare": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Says he would overhaul healthcare laws; no specifics found.",
+     "quote": null,
+     "sources": []
+    },
+    "social_security": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "education_choice": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "environment": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "growth": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "marijuana": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "elections": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "crime": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "lgbtq": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "energy": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "tariffs": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "ukraine": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "trump": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "veterans": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    }
+   },
+   "other_issues": [
+    {
+     "title": "Tolls and gas taxes",
+     "summary": "Proposes reducing tolls and gas taxes.",
+     "sources": [
+      {
+       "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
+       "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
+       "date": "2026-05"
+      }
+     ]
+    },
+    {
+     "title": "Insurance and healthcare overhaul",
+     "summary": "Says he would overhaul insurance and healthcare laws as part of an affordability agenda.",
+     "sources": [
+      {
+       "title": "Former Surfside mayor Charles Burkett enters Florida Governors' race (WLRN)",
+       "url": "https://www.wlrn.org/government-politics/2026-05-19/former-surfside-mayor-charles-burkett-florida-governors-race",
+       "date": "2026-05-19"
+      },
+      {
+       "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
+       "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
+       "date": "2026-05"
+      }
+     ]
+    },
+    {
+     "title": "Put current residents first",
+     "summary": "Campaign says it focuses on practical solutions that put current Florida residents first.",
+     "sources": [
+      {
+       "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
+       "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
+       "date": "2026-05"
+      }
+     ]
+    }
+   ],
+   "record": [
+    {
+     "item": "Served four terms as Surfside mayor, including during the 2021 Champlain Towers South condominium collapse.",
+     "sources": [
+      {
+       "title": "Former Surfside mayor Charles Burkett enters Florida Governors' race (WLRN)",
+       "url": "https://www.wlrn.org/government-politics/2026-05-19/former-surfside-mayor-charles-burkett-florida-governors-race",
+       "date": "2026-05-19"
+      },
+      {
+       "title": "Four-Time Surfside Mayor Charles W. Burkett Announces Candidacy for Governor of Florida as a 'No Party Affiliation' Candidate (Send2Press release)",
+       "url": "https://www.send2press.com/wire/four-time-surfside-mayor-charles-w-burkett-announces-candidacy-for-governor-of-florida-as-a-no-party-affiliation-candidate/",
+       "date": "2026-05"
+      }
+     ]
+    }
+   ],
+   "endorsements": []
+  },
+  {
+   "id": "jeff_datto",
+   "name": "Jeffrey Peter \"Dr. Jeff\" Datto",
+   "party": "No Party Affiliation",
+   "incumbent": false,
+   "running_mate": null,
+   "photo_url": "https://www.facebook.com/DrJeffDatto",
+   "photo_source": "campaign Facebook page (photo URL not verified)",
+   "website": null,
+   "occupation": "Neuroscientist; founder of DattoAI",
+   "residence": "Hialeah, Miami-Dade County",
+   "background": "Jeffrey P. 'Dr. Jeff' Datto describes himself on his campaign page as a neuroscientist, father and founder of dattoai.com, residing in Hialeah. He qualified as one of six NPA candidates for governor when qualifying closed June 12, 2026. No detailed issue platform was found in this research session.",
+   "primary_result": "No primary; qualified as NPA candidate for the Nov. 3 general election (WUWF/Spokesman, June 12, 2026)",
+   "positions": {
+    "taxes": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "property_tax": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "insurance": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "housing": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "immigration": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "abortion": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "guns": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "healthcare": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "social_security": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "education_choice": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "environment": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "growth": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "marijuana": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "elections": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "crime": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "lgbtq": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "energy": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "tariffs": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "ukraine": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "trump": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "veterans": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    }
+   },
+   "other_issues": [],
+   "record": [],
+   "endorsements": []
+  },
+  {
+   "id": "moe_dimanche",
+   "name": "Moliere \"Moe\" Dimanche",
+   "party": "No Party Affiliation",
+   "incumbent": false,
+   "running_mate": null,
+   "photo_url": "https://nomoecorruption.com/",
+   "photo_source": "campaign site (photo URL not verified)",
+   "website": "https://nomoecorruption.com/",
+   "occupation": "Artist, author and prison-reform activist",
+   "residence": "Florida (city/county not verified)",
+   "background": "Moliere 'Moe' Dimanche (born 1987) is a Haitian American artist, author and prison-reform activist who served nearly 10 years in Florida prisons. He qualified as an NPA candidate for governor in June 2026. His campaign, branded 'No MOE Corruption,' identifies public corruption as the greatest danger to democracy.",
+   "primary_result": "No primary; qualified as NPA candidate for the Nov. 3 general election (WUWF/Spokesman, June 12, 2026)",
+   "positions": {
+    "taxes": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "property_tax": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "insurance": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "housing": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "immigration": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "abortion": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "guns": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "healthcare": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "social_security": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "education_choice": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "environment": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "growth": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "marijuana": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "elections": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "crime": {
+     "stance": -1,
+     "confidence": "stated",
+     "summary": "His candidacy is described as focused on social justice and prison reform, drawing on his own incarceration; no specific position on police funding or sentencing was found.",
+     "quote": null,
+     "sources": [
+      {
+       "title": "Moliere Dimanche (Ballotpedia)",
+       "url": "https://ballotpedia.org/Moliere_Dimanche",
+       "date": null
+      },
+      {
+       "title": "Moliere 'Moe' Dimanche, Former Prisoner Turned Activist, Artist, and Author, Running for Governor of Florida (Hard Times Reviewer)",
+       "url": "https://hardtimesreviewer.substack.com/p/moliere-moe-dimanche-former-prisoner",
+       "date": null
+      }
+     ]
+    },
+    "lgbtq": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "energy": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "tariffs": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "ukraine": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "trump": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "veterans": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    }
+   },
+   "other_issues": [
+    {
+     "title": "Public corruption",
+     "summary": "Says his goal is a 'corruption-free Florida' where corruption 'will be met with a heavy hand' and Floridians are 'served, instead of ruled over.'",
+     "sources": [
+      {
+       "title": "No MOE Corruption - Moe Dimanche For Governor of Florida (campaign site)",
+       "url": "https://nomoecorruption.com/",
+       "date": null
+      }
+     ]
+    },
+    {
+     "title": "Free speech",
+     "summary": "Campaign says it wants a Florida 'where Freedom of Speech is real again.'",
+     "sources": [
+      {
+       "title": "No MOE Corruption - Moe Dimanche For Governor of Florida (campaign site)",
+       "url": "https://nomoecorruption.com/",
+       "date": null
+      }
+     ]
+    },
+    {
+     "title": "Prison reform",
+     "summary": "Advocates prison reform based on his nearly 10 years in Florida prisons.",
+     "sources": [
+      {
+       "title": "Moliere Dimanche (Ballotpedia)",
+       "url": "https://ballotpedia.org/Moliere_Dimanche",
+       "date": null
+      },
+      {
+       "title": "Moliere 'Moe' Dimanche, Former Prisoner Turned Activist, Artist, and Author, Running for Governor of Florida (Hard Times Reviewer)",
+       "url": "https://hardtimesreviewer.substack.com/p/moliere-moe-dimanche-former-prisoner",
+       "date": null
+      }
+     ]
+    }
+   ],
+   "record": [],
+   "endorsements": []
+  },
+  {
+   "id": "desmond_meade",
+   "name": "Desmond Meade",
+   "party": "No Party Affiliation",
+   "incumbent": false,
+   "running_mate": null,
+   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Desmond_Meade.jpg",
+   "photo_source": "Wikimedia Commons (file name unverified)",
+   "website": "https://desmondmeade.com/",
+   "occupation": "President, Florida Rights Restoration Coalition",
+   "residence": "Orlando, Orange County",
+   "background": "Desmond Meade is president of the Florida Rights Restoration Coalition and led the 2018 Amendment 4 campaign that restored voting rights to most Floridians with past felony convictions; he is a MacArthur Fellow. He declared an NPA candidacy on May 28, 2026 and qualified in June 2026. WITHDREW: On Aug. 28, 2026 he sent a formal withdrawal letter to the Division of Elections, citing fundraising ('The rate of our fundraising was not what it needed for me to compete statewide'). Whether his name still prints on the Nov. 3 ballot could not be verified in this session.",
+   "primary_result": "No primary; qualified as NPA in June 2026, then withdrew Aug 28, 2026 (WLRN; Florida Politics)",
+   "positions": {
+    "taxes": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "property_tax": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "insurance": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "housing": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "immigration": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "abortion": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "guns": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "healthcare": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "social_security": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "education_choice": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "environment": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "growth": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "marijuana": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "elections": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Led the 2018 Amendment 4 campaign restoring voting rights to people with past felony convictions and has spent his career on rights restoration.",
+     "quote": null,
+     "sources": [
+      {
+       "title": "Voting rights advocate Desmond Meade withdraws from Florida governor's race (WLRN)",
+       "url": "https://www.wlrn.org/government-politics/2026-08-28/desmond-meade-withdraws-florida-governor-election",
+       "date": "2026-08-28"
+      },
+      {
+       "title": "Florida voting rights advocate Desmond Meade submits name for governor bid (WESH via FRRC)",
+       "url": "https://floridarrc.com/feed-items/florida-voting-rights-advocate-desmond-meade-submits-name-for-governor-bid-wesh/",
+       "date": "2026-05"
+      }
+     ]
+    },
+    "crime": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "lgbtq": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "energy": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "tariffs": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "ukraine": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "trump": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "veterans": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    }
+   },
+   "other_issues": [
+    {
+     "title": "Withdrawal from the race",
+     "summary": "Ended his campaign Aug. 28, 2026, saying fundraising could not keep pace in a crowded, expensive field.",
+     "sources": [
+      {
+       "title": "Voting rights advocate Desmond Meade withdraws from Florida governor's race (WLRN)",
+       "url": "https://www.wlrn.org/government-politics/2026-08-28/desmond-meade-withdraws-florida-governor-election",
+       "date": "2026-08-28"
+      },
+      {
+       "title": "Voting rights activist Desmond Meade withdraws from Governor's race (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/817406-voting-rights-activist-desmond-meade-withdraws-from-governors-race/",
+       "date": "2026-08-28"
+      }
+     ]
+    }
+   ],
+   "record": [
+    {
+     "item": "Led the Florida Rights Restoration Coalition's successful 2018 Amendment 4 ballot campaign.",
+     "sources": [
+      {
+       "title": "Voting rights advocate Desmond Meade withdraws from Florida governor's race (WLRN)",
+       "url": "https://www.wlrn.org/government-politics/2026-08-28/desmond-meade-withdraws-florida-governor-election",
+       "date": "2026-08-28"
+      },
+      {
+       "title": "The field is set as candidate qualifying closes for Florida's 2026 election (WUWF)",
+       "url": "https://www.wuwf.org/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election",
+       "date": "2026-06-12"
+      }
+     ]
+    },
+    {
+     "item": "Withdrew from the 2026 governor's race on Aug. 28, 2026.",
+     "sources": [
+      {
+       "title": "Voting rights advocate Desmond Meade withdraws from Florida governor's race (WLRN)",
+       "url": "https://www.wlrn.org/government-politics/2026-08-28/desmond-meade-withdraws-florida-governor-election",
+       "date": "2026-08-28"
+      },
+      {
+       "title": "Voting rights activist Desmond Meade withdraws from Governor's race (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/817406-voting-rights-activist-desmond-meade-withdraws-from-governors-race/",
+       "date": "2026-08-28"
+      }
+     ]
+    }
+   ],
+   "endorsements": [],
+   "withdrawn": "Aug 28, 2026"
+  },
+  {
+   "id": "frank_russo",
+   "name": "Frank J. Russo",
+   "party": "No Party Affiliation",
+   "incumbent": false,
+   "running_mate": null,
+   "photo_url": "https://ballotpedia.org/Frank_J._Russo",
+   "photo_source": "Ballotpedia profile (photo URL not verified)",
+   "website": null,
+   "occupation": "Entrepreneur, developer and insurance executive",
+   "residence": "Florida (city/county not verified)",
+   "background": "Frank J. Russo describes himself as a lifelong Floridian with more than 40 years of business leadership, including development projects such as the Queen's Gambit Castle and relief programs for children, veterans and families. He announced an NPA run on April 14, 2026 under a 'People First - Humanity Over the Dollar' banner and qualified in June 2026. He pledges to donate 100% of the governor's salary each year.",
+   "primary_result": "No primary; qualified as NPA candidate for the Nov. 3 general election (LiveNOW from FOX; WUWF, June 2026)",
+   "positions": {
+    "taxes": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "property_tax": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "insurance": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Says he will 'stabilize insurance'; as an insurance executive he has not, in available coverage, specified whether through state intervention or market reforms.",
+     "quote": null,
+     "sources": []
+    },
+    "housing": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Says his campaign will 'expand housing' and 'restore affordability' but no specific policy mechanism was found.",
+     "quote": null,
+     "sources": []
+    },
+    "immigration": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "abortion": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "guns": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "healthcare": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "social_security": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "education_choice": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "environment": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "growth": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "marijuana": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "elections": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "crime": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "lgbtq": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "energy": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "tariffs": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "ukraine": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "Federal-only issue; not researched for this state race.",
+     "quote": null,
+     "sources": []
+    },
+    "trump": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "veterans": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    }
+   },
+   "other_issues": [
+    {
+     "title": "Affordability, housing, insurance, workforce",
+     "summary": "Campaign is built on 'practical solutions to restore affordability, expand housing, stabilize insurance, and strengthen workforce opportunities.'",
+     "sources": [
+      {
+       "title": "Frank Russo Announces Run for Governor of Florida (PR Newswire)",
+       "url": "https://www.prnewswire.com/news-releases/frank-russo-announces-run-for-governor-of-florida-302741761.html",
+       "date": "2026-04-14"
+      }
+     ]
+    },
+    {
+     "title": "Donate governor's salary",
+     "summary": "Vows to donate 100% of the governor's annual salary every year if elected.",
+     "sources": [
+      {
+       "title": "Frank Russo Announces Run for Governor of Florida (PR Newswire)",
+       "url": "https://www.prnewswire.com/news-releases/frank-russo-announces-run-for-governor-of-florida-302741761.html",
+       "date": "2026-04-14"
+      }
+     ]
+    }
+   ],
+   "record": [],
+   "endorsements": []
+  }
+ ]
+}
