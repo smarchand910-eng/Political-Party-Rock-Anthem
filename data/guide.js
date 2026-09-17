@@ -10266,14 +10266,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -10684,14 +10684,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -11019,14 +11019,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -11437,14 +11437,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -20667,14 +20667,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -20871,14 +20871,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21076,14 +21076,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21281,14 +21281,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21486,14 +21486,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21691,14 +21691,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21869,14 +21869,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22073,14 +22073,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22283,14 +22283,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22498,14 +22498,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22722,14 +22722,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22940,14 +22940,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -23161,14 +23161,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -23338,14 +23338,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -23544,14 +23544,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -23749,14 +23749,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -23921,14 +23921,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -24136,14 +24136,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -24325,14 +24325,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -24538,14 +24538,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -24710,14 +24710,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -24914,14 +24914,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -25086,14 +25086,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -25258,14 +25258,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -25467,14 +25467,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -25645,14 +25645,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -25854,14 +25854,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -26058,14 +26058,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -26241,14 +26241,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -26445,14 +26445,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -26617,14 +26617,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -26825,14 +26825,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -27035,14 +27035,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -27207,14 +27207,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -27415,14 +27415,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -27630,14 +27630,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -27808,14 +27808,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28017,14 +28017,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28204,14 +28204,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28376,14 +28376,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28580,14 +28580,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28788,14 +28788,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29009,14 +29009,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29213,14 +29213,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29422,14 +29422,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29599,14 +29599,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29776,14 +29776,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29953,14 +29953,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30162,14 +30162,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30366,14 +30366,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30584,14 +30584,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30768,14 +30768,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30978,14 +30978,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31157,14 +31157,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31376,14 +31376,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31560,14 +31560,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31771,14 +31771,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31986,14 +31986,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32165,14 +32165,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32388,14 +32388,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32567,14 +32567,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32787,14 +32787,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32971,14 +32971,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33149,14 +33149,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33365,14 +33365,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33595,14 +33595,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33774,14 +33774,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33993,14 +33993,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -34171,14 +34171,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -34387,14 +34387,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -34565,14 +34565,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -34781,14 +34781,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -34975,14 +34975,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35185,14 +35185,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35407,14 +35407,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35603,14 +35603,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35818,14 +35818,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36008,14 +36008,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36232,14 +36232,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36411,14 +36411,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36626,14 +36626,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36810,14 +36810,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37025,14 +37025,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37252,14 +37252,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37431,14 +37431,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37604,14 +37604,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37825,14 +37825,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38039,14 +38039,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38222,14 +38222,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38405,14 +38405,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
