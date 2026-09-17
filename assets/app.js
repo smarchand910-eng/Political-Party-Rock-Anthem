@@ -120,7 +120,7 @@
     if (!prof) return '';
     const bits = [];
     if (prof.county) bits.push(`${prof.county} County`);
-    if (prof.cd) bits.push(`Congressional District ${prof.cd}`);
+    if (prof.cd) bits.push(`Congressional District ${prof.cd}${prof.cd_unconfirmed ? ' (confirm)' : ''}`);
     if (prof.sd) bits.push(`Senate District ${prof.sd}`);
     if (prof.hd) bits.push(`House District ${prof.hd}`);
     return bits.join(' · ');
@@ -134,7 +134,8 @@
   }
   function addressPanel(compact) {
     const prof = loadProfile();
-    if (prof && compact) return `<div class="card addr-bar"><div><span class="eyebrow" style="margin:0">Your ballot</span> <strong>${esc(profileSummary(prof))}</strong> <small class="muted">${prof.label && !/preset/.test(prof.label) ? '· ' + esc(prof.label) : ''}</small></div><div class="btn-row" style="margin:0"><a class="btn btn-sm" href="#/where">Change</a></div></div>`;
+    const cdWarn = prof && prof.cd_unconfirmed ? `<p class="notice notice-warn" style="margin-top:10px"><strong>Check your congressional district.</strong> Florida adopted a new congressional map in May 2026 that changed 21 of 28 districts, and the Census Bureau's lookup still uses the old lines. Your county and state legislative districts are reliable; for the U.S. House race, <a href="https://registration.elections.myflorida.com/CheckVoterStatus" target="_blank" rel="noopener">look up your district on the state voter site</a> and <a href="#/where">enter it manually</a> if it differs from ${esc(String(prof.cd))}.</p>` : '';
+    if (prof && compact) return `<div class="card addr-bar"><div><span class="eyebrow" style="margin:0">Your ballot</span> <strong>${esc(profileSummary(prof))}</strong> <small class="muted">${prof.label && !/preset/.test(prof.label) ? '· ' + esc(prof.label) : ''}</small></div><div class="btn-row" style="margin:0"><a class="btn btn-sm" href="#/where">Change</a></div></div>${cdWarn}`;
     return `<div class="card addr-panel">
       <div class="eyebrow">Where do you vote?</div>
       ${prof ? `<p>Currently set to <strong>${esc(profileSummary(prof))}</strong>${prof.label && !/preset/.test(prof.label) ? ` <small class="muted">(${esc(prof.label)})</small>` : ''}.</p>` : `<p class="muted">Enter your Florida street address to see exactly the races and questions on your ballot. Only your county and district numbers are kept, in your browser; the address itself is sent once to the U.S. Census Bureau's public geocoder and not stored.</p>`}
@@ -154,7 +155,8 @@
         </form>
       </details>
       <div class="btn-row"><button type="button" class="btn btn-sm" data-preset="sumter">I vote in Sumter County / The Villages</button>${prof ? '<button type="button" class="btn btn-sm" data-clear-profile>Clear</button>' : ''}</div>
-      <p class="muted" style="margin:10px 0 0"><small>District boundaries come from the U.S. Census Bureau's current files. If Florida's 2026 redistricting changed your congressional district, confirm it with the state lookup and adjust the number above.</small></p>
+      <p class="muted" style="margin:10px 0 0"><small>County and state legislative districts come from the U.S. Census Bureau's current files. Florida redrew its congressional districts in May 2026 and the Census files predate that map, so the congressional district is marked "confirm" until you check it on the state voter site and enter it manually if needed.</small></p>
+      ${cdWarn}
     </div>`;
   }
   function geocode(address) {
@@ -177,7 +179,7 @@
     const county = pick(/^Counties$/i), cd = pick(/Congressional Districts/i), sd = pick(/Legislative Districts - Upper/i), hd = pick(/Legislative Districts - Lower/i), st = pick(/^States$/i);
     if (st && st.BASENAME && st.BASENAME !== 'Florida') return { error: `That address geocodes to ${st.BASENAME}, not Florida.` };
     const num = o => { if (!o) return null; const v = parseInt(String(o.BASENAME || o.NAME || '').replace(/\D/g, ''), 10); return isNaN(v) ? null : v; };
-    return { county: county ? String(county.BASENAME || county.NAME || '').replace(/ County$/, '') : null, cd: num(cd), sd: num(sd), hd: num(hd), label: m.matchedAddress || address };
+    return { county: county ? String(county.BASENAME || county.NAME || '').replace(/ County$/, '') : null, cd: num(cd), cd_unconfirmed: true, sd: num(sd), hd: num(hd), label: m.matchedAddress || address };
   }
   function bindAddress(root) {
     const form = root.querySelector('[data-addr-form]'); const status = root.querySelector('[data-addr-status]');
@@ -204,8 +206,8 @@
   // Each axis is the mean of the candidate's coded stances on the listed statements, with the sign
   // giving the direction that counts toward the positive end. Requires >= 3 documented statements.
   const AXES = {
-    x: { label: 'Economic policy', neg: 'Larger public role', pos: 'Smaller government', parts: { taxes: 1, property_tax: 1, healthcare: -1, housing: -1, insurance: -1, energy: -1, social_security: -1 } },
-    y: { label: 'Social & legal policy', neg: 'Expand access / loosen', pos: 'Restrict / enforce', parts: { immigration: 1, abortion: -1, guns: -1, education_choice: 1, elections: -1, crime: 1, lgbtq: 1, marijuana: -1, environment: -1, trump: 1 } }
+    x: { label: 'Economic issues', neg: 'Larger government role (more programs, more regulation)', pos: 'Smaller government (lower taxes, less spending)', parts: { taxes: 1, property_tax: 1, healthcare: -1, housing: -1, insurance: -1, energy: -1, social_security: -1 } },
+    y: { label: 'Social & legal issues', neg: 'Progressive side of the statements', pos: 'Conservative side of the statements', parts: { immigration: 1, abortion: -1, guns: -1, education_choice: 1, elections: -1, crime: 1, lgbtq: 1, marijuana: -1, environment: -1, trump: 1 } }
   };
   function axisValue(getStance, axis) {
     let sum = 0, n = 0;
@@ -216,7 +218,7 @@
   function userPoint(answers) { const g = iid => (answers[iid] && answers[iid].value != null) ? answers[iid].value : null; return { x: axisValue(g, 'x'), y: axisValue(g, 'y') }; }
 
   function landscapeMap(cands, opts = {}) {
-    const W = 720, H = 520, m = { l: 56, r: 24, t: 24, b: 56 };
+    const W = 720, H = 560, m = { l: 28, r: 28, t: 64, b: 84 };
     const sx = v => m.l + ((v + 2) / 4) * (W - m.l - m.r), sy = v => m.t + ((2 - v) / 4) * (H - m.t - m.b);
     const placed = [], tray = [];
     cands.forEach(c => { const p = candPoint(c); if (p.x && p.y) placed.push({ c, p }); else tray.push(c); });
@@ -244,12 +246,13 @@
       ${ticks.map(t => `<line class="grid" x1="${sx(t)}" x2="${sx(t)}" y1="${m.t}" y2="${H - m.b}"/><line class="grid" y1="${sy(t)}" y2="${sy(t)}" x1="${m.l}" x2="${W - m.r}"/>`).join('')}
       <line x1="${sx(0)}" x2="${sx(0)}" y1="${m.t}" y2="${H - m.b}" stroke="var(--text-muted)" stroke-width="1.5" opacity=".6"/>
       <line y1="${sy(0)}" y2="${sy(0)}" x1="${m.l}" x2="${W - m.r}" stroke="var(--text-muted)" stroke-width="1.5" opacity=".6"/>
-      <text class="axis-label" x="${(m.l + W - m.r) / 2}" y="${H - 10}" text-anchor="middle">${esc(AXES.x.label)}</text>
-      <text class="axis-end" x="${m.l}" y="${H - 28}">← ${esc(AXES.x.neg)}</text>
-      <text class="axis-end" x="${W - m.r}" y="${H - 28}" text-anchor="end">${esc(AXES.x.pos)} →</text>
-      <text class="axis-label" transform="translate(16,${(m.t + H - m.b) / 2}) rotate(-90)" text-anchor="middle">${esc(AXES.y.label)}</text>
-      <text class="axis-end" transform="translate(34,${m.t + 4}) rotate(-90)" text-anchor="end">${esc(AXES.y.pos)} ↑</text>
-      <text class="axis-end" transform="translate(34,${H - m.b}) rotate(-90)">↓ ${esc(AXES.y.neg)}</text>
+      <text class="axis-label" x="${m.l}" y="${m.t - 40}">${esc(AXES.y.label)}</text>
+      <text class="axis-end" x="${m.l}" y="${m.t - 20}">▲ Up = ${esc(AXES.y.pos)}</text>
+      <text class="axis-end" x="${m.l}" y="${H - m.b + 22}">▼ Down = ${esc(AXES.y.neg)}</text>
+      <text class="axis-label" x="${m.l}" y="${H - 34}">${esc(AXES.x.label)}</text>
+      <text class="axis-end" x="${m.l}" y="${H - 14}">◀ Left = larger government role</text>
+      <text class="axis-end" x="${W - m.r}" y="${H - 14}" text-anchor="end">Right = smaller government, lower taxes ▶</text>
+      <text class="axis-end" x="${sx(0) + 6}" y="${m.t + 14}" opacity=".8">center line = neutral / mixed</text>
       ${bubbles}${you}
     </svg><div class="map-tip" role="tooltip"></div></div>
     ${tray.length ? `<div class="map-tray">Not enough documented positions to place: ${tray.map(c => `<a class="cand-chip" href="#/candidate/${esc(c.id)}">${avatar(c, 'sm')}${esc(c.name)}</a>`).join('')}</div>` : ''}

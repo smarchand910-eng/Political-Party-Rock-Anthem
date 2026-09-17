@@ -1,0 +1,136 @@
+{
+  "scope": "Florida U.S. House districts 1-14 excluding 11",
+  "as_of": "2026-09-17",
+  "redistricting_finding": {
+    "new_map_applies_to_nov_2026": true,
+    "summary": "Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues.",
+    "sources": [
+      "https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/",
+      "https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026",
+      "https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map"
+    ]
+  },
+  "search_budget_used": 40,
+  "districts": {
+    "1": {
+      "coverage": "roster",
+      "candidates_found": 3,
+      "candidates": [
+        "Jimmy Patronis (Republican, incumbent)",
+        "Gay Valimont (Democratic)",
+        "Tyler Davis (No Party Affiliation)"
+      ],
+      "open_items": "Write-in candidates unconfirmed."
+    },
+    "2": {
+      "coverage": "roster",
+      "candidates_found": 2,
+      "candidates": [
+        "Austin Rogers (Republican)",
+        "Yen Bailey (Democratic)"
+      ],
+      "open_items": "Verify Dem primary status (Ballotpedia says Bailey advanced without ballot); NPA/write-in unconfirmed."
+    },
+    "3": {
+      "coverage": "partial",
+      "candidates_found": 2,
+      "candidates": [
+        "Kat Cammack (Republican, incumbent)",
+        "Seth Harp (Democratic)"
+      ],
+      "open_items": "Harp primary percentage; NPA/write-in unconfirmed."
+    },
+    "4": {
+      "coverage": "roster",
+      "candidates_found": 2,
+      "candidates": [
+        "Aaron Bean (Republican, incumbent)",
+        "LaShonda \"L.J.\" Holloway (Democratic)"
+      ],
+      "open_items": "Bean vs. Valerio GOP primary percentage; NPA/write-in unconfirmed."
+    },
+    "5": {
+      "coverage": "partial",
+      "candidates_found": 2,
+      "candidates": [
+        "John Rutherford (Republican, incumbent)",
+        "Rachel Grage (Democratic)"
+      ],
+      "open_items": "GOP primary result (Rutherford vs. Kaye/Muirheid) NOT found - Rutherford's nomination unconfirmed."
+    },
+    "6": {
+      "coverage": "roster",
+      "candidates_found": 4,
+      "candidates": [
+        "Randy Fine (Republican, incumbent)",
+        "Eric Yonce (Democratic)",
+        "Christopher Manuel Alcantara (No Party Affiliation)",
+        "Amr Metwally (No Party Affiliation)"
+      ],
+      "open_items": "Party affiliation of Alcantara and Metwally unverified; Fine primary percentage not reliably found."
+    },
+    "7": {
+      "coverage": "roster",
+      "candidates_found": 2,
+      "candidates": [
+        "Ryan Elijah (Republican)",
+        "Bale Dalton (Democratic)"
+      ],
+      "open_items": "Percentages for Dem primary; NPA/write-in unconfirmed."
+    },
+    "8": {
+      "coverage": "roster",
+      "candidates_found": 2,
+      "candidates": [
+        "Mike Haridopolos (Republican, incumbent)",
+        "Paul Dellinger (Democratic)"
+      ],
+      "open_items": "Primary details not found; NPA/write-in unconfirmed."
+    },
+    "9": {
+      "coverage": "roster",
+      "candidates_found": 2,
+      "candidates": [
+        "Darren Soto (Democratic, incumbent)",
+        "Dan Green (Republican)"
+      ],
+      "open_items": "NPA/write-in unconfirmed."
+    },
+    "10": {
+      "coverage": "partial",
+      "candidates_found": 1,
+      "candidates": [
+        "Maxwell Alejandro Frost (Democratic, incumbent)"
+      ],
+      "open_items": "Conflict: ClickOrlando says Frost unopposed at qualifying; Ballotpedia lists 4 GOP primary filers, no result found. Must verify."
+    },
+    "12": {
+      "coverage": "roster",
+      "candidates_found": 3,
+      "candidates": [
+        "Gus Bilirakis (Republican, incumbent)",
+        "Kimberly Overman (Democratic)",
+        "Branden Schivener (No Party Affiliation)"
+      ],
+      "open_items": "Write-in candidates unconfirmed."
+    },
+    "13": {
+      "coverage": "roster",
+      "candidates_found": 2,
+      "candidates": [
+        "Anna Paulina Luna (Republican, incumbent)",
+        "Leela Gray (Democratic)"
+      ],
+      "open_items": "NPA/write-in unconfirmed."
+    },
+    "14": {
+      "coverage": "roster",
+      "candidates_found": 2,
+      "candidates": [
+        "Kathy Castor (Democratic, incumbent)",
+        "Mike Beltran (Republican)"
+      ],
+      "open_items": "Beltran primary percentage and background; NPA/write-in unconfirmed."
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "race_id": "us_house_15",
+  "title": "U.S. House, District 15",
+  "level": "federal",
+  "office_group": "Federal",
+  "term": "2 years",
+  "jurisdiction": {
+    "type": "cd",
+    "id": 15
+  },
+  "counties": [
+    "Citrus",
+    "Hernando",
+    "Pasco (part)",
+    "Hillsborough (part)"
+  ],
+  "what_it_does": "Represents Florida's 15th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
+  "coverage": "roster",
+  "verified_ballot_note": "Roster from post-primary reporting: Citrus County Chronicle (Robert People wins Democratic primary; newly drawn CD 15) and Ballotpedia/NBC News District 15 results pages; incumbent Laurel Lee ran for re-election in CD 15 (Florida's Voice). No NPA or write-in candidate was identified in search snippets, but Ballotpedia/Division of Elections pages could not be fetched, so their absence is unconfirmed. Sources: https://www.chronicleonline.com/news/local/u-s-house-robert-people-wins-democratic-primary/article_c65c7af7-1895-56ef-8600-5fb28d5c76e7.html ; https://ballotpedia.org/Florida's_15th_Congressional_District_election,_2026 ; https://flvoicenews.com/rep-laurel-lee-to-seek-re-election-in-current-district-following-floridas-redistricting-overhaul/ Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts; county descriptions here reflect post-redistricting reporting where found (https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map).",
+  "candidates": [
+    {
+      "id": "laurel_lee",
+      "name": "Laurel Lee",
+      "party": "Republican",
+      "incumbent": true,
+      "photo_url": "https://www.congress.gov/img/member/l000598_200.jpg",
+      "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
+      "website": "https://votelaurel.com/",
+      "occupation": "U.S. Representative (since 2023)",
+      "residence": "Thonotosassa area, Hillsborough County (per prior reporting; not re-verified)",
+      "background": "Laurel Lee has represented Florida's 15th District since January 2023. She previously served as Florida Secretary of State (2019-2022) and as a circuit judge in Hillsborough County. After the 2026 redistricting she announced she would seek re-election in CD 15, which now takes in Citrus and Hernando counties and parts of Pasco and Hillsborough; she was the Republican candidate on the Aug. 18 primary ballot.",
+      "primary_result": "Republican nominee for CD 15 (Ballotpedia; primary details not found in search snippets)",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [
+        {
+          "item": "Listed by House Democrats' campaign arm (DCCC) as a 2026 target.",
+          "sources": [
+            {
+              "title": "House Democrats add Laurel Lee to list of targets in 2026 Midterms (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/769048-house-democrats-add-laurel-lee-to-list-of-targets-in-2026-midterms/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": []
+    },
+    {
+      "id": "robert_people",
+      "name": "Robert People",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Robert_People.jpg",
+      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "website": null,
+      "occupation": "Retired U.S. Army veteran (21 years); former proposal writer",
+      "residence": "Not found (district includes Citrus, Hernando, parts of Pasco and Hillsborough)",
+      "background": "Robert People, 46, is a retired 21-year Army veteran and former proposal writer. He entered the CD 15 race in February 2025 and stayed in after the state redrew the district. He won the Aug. 18, 2026 Democratic primary over Jose Engell, Darren McAuley and Kimberly Overman; his campaign has emphasized affordability, housing, utility costs, health care and Social Security.",
+      "primary_result": "Won Aug 18, 2026 Democratic primary over Engell, McAuley and Overman (Citrus County Chronicle; NBC News results page); percentage not captured in search snippets",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Kitchen-table affordability (housing, utility costs, health care, Social Security)",
+          "summary": "People's campaign has focused on affordability, housing, utility costs, health care and Social Security, per local reporting; specific proposals were not captured.",
+          "sources": [
+            {
+              "title": "U.S. House: Robert People wins Democratic primary (Citrus County Chronicle)",
+              "url": "https://www.chronicleonline.com/news/local/u-s-house-robert-people-wins-democratic-primary/article_c65c7af7-1895-56ef-8600-5fb28d5c76e7.html",
+              "date": "2026-08"
+            }
+          ]
+        }
+      ],
+      "record": [],
+      "endorsements": []
+    }
+  ]
+}

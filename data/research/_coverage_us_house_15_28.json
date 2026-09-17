@@ -1,0 +1,161 @@
+{
+  "us_house_15": {
+    "coverage": "roster",
+    "incumbent": "Laurel Lee",
+    "candidates": [
+      "Laurel Lee (Republican)",
+      "Robert People (Democratic)"
+    ],
+    "stances_coded": 0,
+    "counties_known": true
+  },
+  "us_house_16": {
+    "coverage": "roster",
+    "incumbent": null,
+    "candidates": [
+      "Sydney Gruters (Republican)",
+      "Kelly Kirschner (Democratic)",
+      "Mark Davis (No Party Affiliation)"
+    ],
+    "stances_coded": 0,
+    "counties_known": true
+  },
+  "us_house_17": {
+    "coverage": "roster",
+    "incumbent": "Greg Steube",
+    "candidates": [
+      "Greg Steube (Republican)",
+      "Matthew Montavon (Democratic)"
+    ],
+    "stances_coded": 0,
+    "counties_known": true
+  },
+  "us_house_18": {
+    "coverage": "roster",
+    "incumbent": "Scott Franklin",
+    "candidates": [
+      "Scott Franklin (Republican)",
+      "Curtis Gibson (Democratic)",
+      "Deva Simmons (No Party Affiliation)"
+    ],
+    "stances_coded": 0,
+    "counties_known": true
+  },
+  "us_house_19": {
+    "coverage": "roster",
+    "incumbent": null,
+    "candidates": [
+      "Jim Schwartzel (Republican)",
+      "Victor Arias (Democratic)"
+    ],
+    "stances_coded": 0,
+    "counties_known": true
+  },
+  "us_house_20": {
+    "coverage": "roster",
+    "incumbent": "Debbie Wasserman Schultz",
+    "candidates": [
+      "Debbie Wasserman Schultz (Democratic)",
+      "Brent Andersen (Republican)",
+      "Kedner Maxime (No Party Affiliation)",
+      "Kevin McClellan (Write-in)"
+    ],
+    "stances_coded": 0,
+    "counties_known": true
+  },
+  "us_house_21": {
+    "coverage": "roster",
+    "incumbent": "Brian Mast",
+    "candidates": [
+      "Brian Mast (Republican)",
+      "James Martin (Democratic)",
+      "Robert Ott (No Party Affiliation)"
+    ],
+    "stances_coded": 0,
+    "counties_known": false
+  },
+  "us_house_22": {
+    "coverage": "roster",
+    "incumbent": null,
+    "candidates": [
+      "Casey Askar (Republican)",
+      "Pia Dandiya (Democratic)"
+    ],
+    "stances_coded": 0,
+    "counties_known": true
+  },
+  "us_house_23": {
+    "coverage": "roster",
+    "incumbent": "Lois Frankel",
+    "candidates": [
+      "Lois Frankel (Democratic)",
+      "Deborah Adeimy (Republican)"
+    ],
+    "stances_coded": 0,
+    "counties_known": true
+  },
+  "us_house_24": {
+    "coverage": "roster",
+    "incumbent": null,
+    "candidates": [
+      "Oliver Gilbert (Democratic)",
+      "Te Mayonna Brown (Republican)"
+    ],
+    "stances_coded": 0,
+    "counties_known": true
+  },
+  "us_house_25": {
+    "coverage": "roster",
+    "incumbent": "Jared Moskowitz",
+    "candidates": [
+      "Scott Singer (Republican)",
+      "Jared Moskowitz (Democratic)"
+    ],
+    "stances_coded": 0,
+    "counties_known": true
+  },
+  "us_house_26": {
+    "coverage": "roster",
+    "incumbent": "Mario Diaz-Balart",
+    "candidates": [
+      "Mario Diaz-Balart (Republican)",
+      "Nicole Locklin (Democratic)",
+      "Deborah Meidinger Hosey (No Party Affiliation)"
+    ],
+    "stances_coded": 0,
+    "counties_known": true
+  },
+  "us_house_27": {
+    "coverage": "partial",
+    "incumbent": "Maria Elvira Salazar",
+    "candidates": [
+      "Maria Elvira Salazar (Republican)",
+      "Eliott Rodriguez (Democratic)"
+    ],
+    "stances_coded": 1,
+    "counties_known": true
+  },
+  "us_house_28": {
+    "coverage": "partial",
+    "incumbent": "Carlos Gimenez",
+    "candidates": [
+      "Carlos Gimenez (Republican)",
+      "Phil \"Felipe\" Ehr (Democratic)",
+      "Eddy Rojas (No Party Affiliation)"
+    ],
+    "stances_coded": 1,
+    "counties_known": true
+  },
+  "_meta": {
+    "researched": "2026-09-17",
+    "method": "WebSearch snippets only (40-query budget); Ballotpedia, Wikipedia, 270toWin and Florida Division of Elections pages were egress-blocked for WebFetch",
+    "caveats": [
+      "FL-18 Democratic nominee (Curtis Gibson) is provisional - based on a results-page snippet, not a news confirmation",
+      "FL-20: a separate special election for the remainder of the term may also appear on ballots in the old district; its candidates were not verified",
+      "Absence of NPA/write-in candidates is unconfirmed in districts where none was reported",
+      "Counties reflect post-redistricting news descriptions where available; empty list = not found",
+      "Candidate websites given only where a snippet showed one; incumbents' official/campaign sites not verified",
+      "Photo URLs are best-guess patterns (congress.gov bioguide IDs from memory; Ballotpedia thumbnail pattern) and unverified"
+    ]
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "_meta": {
+    "generated": "2026-09-17",
+    "search_budget": "40 WebSearch calls (10 directory, 30 races); direct site fetches blocked",
+    "status_values": [
+      "documented",
+      "no_county_contests_found",
+      "not_researched"
+    ]
+  },
+  "counties": {
+    "Alachua": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Ballotpedia snippet lists no offices; no 2026 charter question confirmed."
+    },
+    "Baker": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Bay": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Bradford": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Brevard": {
+      "status": "documented",
+      "files": [
+        "county_brevard_commission_1.json",
+        "county_brevard_commission_4.json"
+      ],
+      "note": ""
+    },
+    "Broward": {
+      "status": "not_researched",
+      "files": [],
+      "note": "District 6 Democratic primary (Eugen Bold, Jeffery Jones, A.J. Ryan, Caryl Shuham) winner not captured; November lineups not verified."
+    },
+    "Calhoun": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Charlotte": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Citrus": {
+      "status": "no_county_contests_found",
+      "files": [],
+      "note": "Commission Districts 2 and 4 were universal primary contests (all Republican, no Democrat qualified) decided Aug. 18; winners face no November opponent (Citrus County Chronicle: https://www.chronicleonline.com/news/local/primary-carries-november-sized-stakes/article_e33f3880-0e2d-5ba3-b4f0-2ff9a903a50a.html). Candidate names not captured."
+    },
+    "Clay": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Collier": {
+      "status": "documented",
+      "files": [
+        "county_collier_commission_2.json"
+      ],
+      "note": ""
+    },
+    "Columbia": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "DeSoto": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Dixie": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Duval": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Consolidated city-county; no county commission. School board/referenda not verified."
+    },
+    "Escambia": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Flagler": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Franklin": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Gadsden": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Gilchrist": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Glades": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Gulf": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Hamilton": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Hardee": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Hendry": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Hernando": {
+      "status": "documented",
+      "files": [
+        "county_hernando_commission_4.json"
+      ],
+      "note": "District 2 (Kathryn Birren, 31%) decided in primary with no November opponent; School Board D1 (Dana Pearce) and D3 (Shannon Rodriguez) decided Aug. 18. District 4 file is partial."
+    },
+    "Highlands": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Hillsborough": {
+      "status": "documented",
+      "files": [
+        "county_hillsborough_commission_expansion_referendum.json",
+        "county_hillsborough_elected_superintendent_referendum.json",
+        "county_hillsborough_school_board_2.json",
+        "county_hillsborough_school_board_6.json"
+      ],
+      "note": "Two local-bill referendums (HB 4029 commission expansion; HB 4027 elected superintendent) and School Board D2/D6 runoffs documented; commission candidates not found in snippets."
+    },
+    "Holmes": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Indian River": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Jackson": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Jefferson": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Lafayette": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Lake": {
+      "status": "documented",
+      "files": [
+        "county_lake_commission_2.json",
+        "county_lake_commission_4.json"
+      ],
+      "note": ""
+    },
+    "Lee": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Only found that Commission District 5 was a universal primary contest in August (neafamily.com snippet); other seats not verified."
+    },
+    "Leon": {
+      "status": "not_researched",
+      "files": [],
+      "note": "No results in snippets."
+    },
+    "Levy": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Liberty": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Madison": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Manatee": {
+      "status": "documented",
+      "files": [
+        "county_manatee_commission_1.json",
+        "county_manatee_commission_2.json",
+        "county_manatee_commission_4.json",
+        "county_manatee_commission_6.json"
+      ],
+      "note": ""
+    },
+    "Marion": {
+      "status": "documented",
+      "files": [
+        "county_marion_commission_2.json",
+        "county_marion_commission_4.json"
+      ],
+      "note": ""
+    },
+    "Martin": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Miami-Dade": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Nonpartisan commission runoffs (if any) not identified; charter questions not identified."
+    },
+    "Monroe": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Nassau": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Okaloosa": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Okeechobee": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Orange": {
+      "status": "documented",
+      "files": [
+        "county_orange_commission_2.json",
+        "county_orange_commission_8.json",
+        "county_orange_mayor.json"
+      ],
+      "note": "Mayor, Commission D2 and D8 runoffs documented; other commission districts and any charter questions not verified."
+    },
+    "Osceola": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Palm Beach": {
+      "status": "documented",
+      "files": [
+        "county_palm_beach_commission_6.json"
+      ],
+      "note": ""
+    },
+    "Pasco": {
+      "status": "documented",
+      "files": [
+        "county_pasco_commission_2.json",
+        "county_pasco_commission_4.json"
+      ],
+      "note": ""
+    },
+    "Pinellas": {
+      "status": "documented",
+      "files": [
+        "county_pinellas_commission_6.json"
+      ],
+      "note": "Commission District 6 partial only. School Board D2 (Lisa Cane vs. Nancy Velardi) and D3 (Dawn Peters vs. Curtis Campogni, Dawn Douglas) were on the Aug. 18 ballot; runoff status unknown. votepinellas.gov says local ballot measures are on the Nov. 3 ballot but none were identified."
+    },
+    "Polk": {
+      "status": "documented",
+      "files": [
+        "county_polk_commission_2.json",
+        "county_polk_commission_4.json",
+        "county_polk_school_board_3.json",
+        "county_polk_school_millage_referendum.json"
+      ],
+      "note": "School Board D3 runoff, Commission D2/D4 (partial), and school millage referendum (partial)."
+    },
+    "Putnam": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Santa Rosa": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Sarasota": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Only City of Sarasota commission results surfaced; county commission lineup not verified (https://www.sarasotavotes.gov/206/Board-of-County-Commissioners)."
+    },
+    "Seminole": {
+      "status": "not_researched",
+      "files": [],
+      "note": "District 2: incumbent Jay Zembower effectively re-elected after Democratic opponent Nakicha Dunn failed to qualify (Sanford Herald snippet). District 4 outcome/November lineup not found."
+    },
+    "St. Johns": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "St. Lucie": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Sumter": {
+      "status": "documented",
+      "files": [],
+      "note": "Covered by the primary research set: county_commission_4.json and county_commission_other.json."
+    },
+    "Suwannee": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Taylor": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Union": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Volusia": {
+      "status": "documented",
+      "files": [
+        "county_volusia_council_1.json",
+        "county_volusia_council_3.json",
+        "county_volusia_council_at_large.json"
+      ],
+      "note": ""
+    },
+    "Wakulla": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Walton": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    },
+    "Washington": {
+      "status": "not_researched",
+      "files": [],
+      "note": "Not searched within the 40-search budget."
+    }
+  }
+}

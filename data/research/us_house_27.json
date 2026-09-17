@@ -1,0 +1,372 @@
+{
+  "race_id": "us_house_27",
+  "title": "U.S. House, District 27",
+  "level": "federal",
+  "office_group": "Federal",
+  "term": "2 years",
+  "jurisdiction": {
+    "type": "cd",
+    "id": 27
+  },
+  "counties": [
+    "Miami-Dade (part)"
+  ],
+  "what_it_does": "Represents Florida's 27th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
+  "coverage": "partial",
+  "verified_ballot_note": "Roster from CBS Miami, Local 10 and WLRN post-primary reports: Maria Elvira Salazar (R) vs. Eliott Rodriguez (D). No NPA candidate identified; absence unconfirmed. Sources: https://www.cbsnews.com/miami/news/2026-florida-primary-district-27-republican-maria-elvira-salazar/ ; https://www.local10.com/news/politics/2026/08/18/florida-primary-coverage-of-us-house-races-for-the-27th-congressional-district/ ; https://www.wlrn.org/government-politics/2026-08-18/ex-tv-anchor-eliott-rodriguez-27-district Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts; county descriptions here reflect post-redistricting reporting where found (https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map).",
+  "candidates": [
+    {
+      "id": "maria_elvira_salazar",
+      "name": "Maria Elvira Salazar",
+      "party": "Republican",
+      "incumbent": true,
+      "photo_url": "https://www.congress.gov/img/member/s000168_200.jpg",
+      "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
+      "website": null,
+      "occupation": "U.S. Representative (since 2021)",
+      "residence": "Coral Gables area, Miami-Dade County (not re-verified)",
+      "background": "Maria Elvira Salazar, a former television journalist, has represented the 27th District since January 2021. She won the Aug. 18, 2026 Republican primary with 81.3% of the vote over Coral Gables attorney V. Michael Arias (18.7%).",
+      "primary_result": "Won Aug 18, 2026 Republican primary with 81.3% over V. Michael Arias (18.7%) (CBS Miami; Florida Politics)",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [],
+      "record": [],
+      "endorsements": []
+    },
+    {
+      "id": "eliott_rodriguez",
+      "name": "Eliott Rodriguez",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Eliott_Rodriguez.jpg",
+      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "website": null,
+      "occupation": "Retired broadcast journalist (former CBS News Miami anchor)",
+      "residence": "Miami-Dade County",
+      "background": "Eliott Rodriguez, 69, is a retired broadcast journalist who anchored at CBS News Miami for 25 years; he was born in New York to Cuban parents. He left the station and announced his candidacy in March 2026, then won the Aug. 18 Democratic primary with about 53.5% over former homicide prosecutor Robin Peguero. Coverage describes affordability and opposition to the Trump administration's immigration policies as central themes of his campaign.",
+      "primary_result": "Won Aug 18, 2026 Democratic primary with ~53.5% over Robin Peguero (CBS Miami; WLRN)",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Local coverage of his primary win reports that opposition to the Trump administration's immigration policies is a central theme of Rodriguez's campaign; his specific enforcement proposals were not captured in this research.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Ex-TV anchor Eliott Rodriguez wins the Democratic nod in Florida's 27th (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-08-18/ex-tv-anchor-eliott-rodriguez-27-district",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "Eliott Rodriguez wins Democratic primary for Florida's 27th Congressional District (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-27-eliott-rodriguez/",
+              "date": "2026-08-18"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Affordability",
+          "summary": "Rodriguez has made affordability (cost of living) a central campaign theme, per post-primary coverage.",
+          "sources": [
+            {
+              "title": "Eliott Rodriguez wins Democratic primary for Florida's 27th Congressional District (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-27-eliott-rodriguez/",
+              "date": "2026-08-18"
+            }
+          ]
+        }
+      ],
+      "record": [],
+      "endorsements": []
+    }
+  ]
+}

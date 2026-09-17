@@ -1,0 +1,29 @@
+{
+  "race_id": "county_hillsborough_commission_expansion_referendum",
+  "title": "Hillsborough County Commission expansion referendum (HB 4029)",
+  "level": "county",
+  "office_group": "County",
+  "term": "n/a",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Hillsborough"
+  },
+  "what_it_does": "Local-bill referendum on the structure of the Board of County Commissioners.",
+  "coverage": "partial",
+  "verified_ballot_note": "Per WUSF and Florida Politics; exact ballot language not readable. Ballotpedia: https://ballotpedia.org/Hillsborough_County,_Florida_ballot_measures",
+  "candidates": [],
+  "kind": "measure",
+  "ballot_summary": "Asks voters whether to expand the Hillsborough County Commission from seven members to nine and eliminate countywide seats in favor of single-member districts; the board would later grow to 11 members if county population reaches at least 2.5 million.",
+  "what_yes_means": "Commission grows to nine single-member-district seats (countywide seats eliminated), with automatic growth to 11 at 2.5 million residents.",
+  "what_no_means": "Commission keeps its current seven-member structure with countywide seats.",
+  "sources": [
+    {
+      "title": "Hillsborough voters will decide whether to elect school superintendent, expand county commission (WUSF)",
+      "url": "https://www.wusf.org/politics-issues/2026-06-09/hillsborough-voters-will-decide-whether-to-elect-school-superintendent-expand-county-commission"
+    },
+    {
+      "title": "Governor signs bills teeing up Hillsborough Commission, Superintendent referendums",
+      "url": "https://floridapolitics.com/archives/800881-gov-desantis-signs-bills-teeing-up-hillsborough-commission-superintendent-referendums/"
+    }
+  ]
+}

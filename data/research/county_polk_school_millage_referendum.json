@@ -1,0 +1,19 @@
+{
+  "race_id": "county_polk_school_millage_referendum",
+  "title": "Polk County School District additional millage referendum",
+  "level": "county",
+  "office_group": "County",
+  "term": "n/a",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Polk"
+  },
+  "what_it_does": "A school-district referendum asking voters to approve an additional property-tax millage for the school district.",
+  "coverage": "partial",
+  "verified_ballot_note": "Existence of a Nov. 3, 2026 School Board millage referendum per a Polk School Board memorandum (https://go.boarddocs.com/fl/polk/Board.nsf/files/DERM2B5919B3/$file/Memorandum%20-%20Additional%20Millage.pdf). Exact ballot language and millage rate not readable from snippets.",
+  "candidates": [],
+  "kind": "measure",
+  "ballot_summary": "Not verified: a proposal to levy an additional school millage, placed on the Nov. 3, 2026 ballot by the Polk County School Board.",
+  "what_yes_means": "Approves the additional school millage proposed by the School Board (details unverified).",
+  "what_no_means": "Rejects the additional school millage."
+}

@@ -1,0 +1,406 @@
+{
+  "race_id": "us_house_3",
+  "title": "U.S. House, District 3",
+  "level": "federal",
+  "office_group": "Federal",
+  "term": "2 years",
+  "jurisdiction": {
+    "type": "cd",
+    "id": 3
+  },
+  "counties": [
+    "Alachua",
+    "Marion",
+    "Clay (part)",
+    "Putnam",
+    "Bradford",
+    "Union",
+    "Levy",
+    "Gilchrist",
+    "Dixie",
+    "Lafayette",
+    "Suwannee",
+    "Hamilton",
+    "Columbia",
+    "Madison"
+  ],
+  "what_it_does": "Represents Florida's 3rd Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
+  "coverage": "partial",
+  "verified_ballot_note": "FOX 35/FOX 51 (Aug 18-19, 2026) and Bay News 9/AP report Seth Harp (D) won the Democratic primary and will face incumbent Kat Cammack (R), who was unopposed in the Republican primary (https://www.fox35orlando.com/news/florida-congressional-district-3-election-results ; https://baynews9.com/fl/tampa/ap-online/2026/08/19/seth-harp-wins-democratic-nomination-for-us-house-in-floridas-3rd-congressional-district). NPA/write-in candidates not confirmed; Ballotpedia page could not be fetched. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide.",
+  "candidates": [
+    {
+      "id": "kat_cammack",
+      "name": "Kat Cammack",
+      "party": "Republican",
+      "incumbent": true,
+      "photo_url": "https://www.congress.gov/img/member/c001039_200.jpg",
+      "photo_source": "congress.gov member portrait",
+      "website": null,
+      "occupation": "U.S. Representative (since 2021)",
+      "residence": "Gainesville area, Alachua County (not re-verified)",
+      "background": "Kat Cammack has represented the 3rd District since 2021. She was unopposed in the Aug. 18, 2026 Republican primary. Her campaign highlights her legislative record on small business, military families and agriculture in the district (FOX 35).",
+      "primary_result": "Unopposed in Aug 18, 2026 Republican primary (FOX 35: https://www.fox35orlando.com/news/florida-congressional-district-3-election-results)",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "social_security": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Small business, military families and agriculture",
+          "summary": "Campaign highlights her legislative experience supporting small business owners, military families and agricultural interests in the district.",
+          "sources": [
+            {
+              "title": "FOX 35: Seth Harp to challenge Kat Cammack",
+              "url": "https://www.fox35orlando.com/news/florida-congressional-district-3-election-results"
+            }
+          ]
+        }
+      ],
+      "record": [],
+      "endorsements": []
+    },
+    {
+      "id": "seth_harp",
+      "name": "Seth Harp",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Seth_Harp_(Florida).jpg",
+      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "website": null,
+      "occupation": "Sixth-grade civics teacher",
+      "residence": "Not verified",
+      "background": "Seth Harp is a sixth-grade civics teacher. He won the five-way Aug. 18, 2026 Democratic primary over Rock Aboujaoude Jr., Troy Albers, George Hubac and Tom Wells (percentages not found in searches). His platform emphasizes civic engagement, expanding Social Security, guaranteeing affordable health care and the C.U.B.S. Act on childcare access.",
+      "primary_result": "Won Aug 18, 2026 Democratic primary over Rock Aboujaoude Jr., Troy Albers, George Hubac and Tom Wells; percentages not found (AP via Bay News 9: https://baynews9.com/fl/tampa/ap-online/2026/08/19/seth-harp-wins-democratic-nomination-for-us-house-in-floridas-3rd-congressional-district)",
+      "positions": {
+        "taxes": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "property_tax": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "insurance": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "housing": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "immigration": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "abortion": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "guns": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Harp's platform calls for 'guaranteeing affordable healthcare'; specifics on Medicaid expansion or ACA subsidies were not found.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "FOX 35: Seth Harp to challenge Kat Cammack",
+              "url": "https://www.fox35orlando.com/news/florida-congressional-district-3-election-results",
+              "date": "2026-08"
+            }
+          ]
+        },
+        "social_security": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Harp's platform calls for expanding Social Security; he has not been quoted on how to fund it.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "FOX 35: Seth Harp to challenge Kat Cammack",
+              "url": "https://www.fox35orlando.com/news/florida-congressional-district-3-election-results",
+              "date": "2026-08"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "environment": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "growth": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "marijuana": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "elections": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "crime": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "lgbtq": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "energy": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "tariffs": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "ukraine": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "trump": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        },
+        "veterans": {
+          "stance": null,
+          "confidence": "unknown",
+          "summary": "No public position found as of Sept 2026.",
+          "quote": null,
+          "sources": []
+        }
+      },
+      "other_issues": [
+        {
+          "title": "C.U.B.S. Act (childcare access)",
+          "summary": "Says he would work to pass the C.U.B.S. Act to increase childcare access.",
+          "sources": [
+            {
+              "title": "FOX 35",
+              "url": "https://www.fox35orlando.com/news/florida-congressional-district-3-election-results"
+            }
+          ]
+        },
+        {
+          "title": "Civic engagement",
+          "summary": "Campaign platform focuses on civic engagement.",
+          "sources": [
+            {
+              "title": "FOX 35",
+              "url": "https://www.fox35orlando.com/news/florida-congressional-district-3-election-results"
+            }
+          ]
+        }
+      ],
+      "record": [],
+      "endorsements": []
+    }
+  ]
+}
