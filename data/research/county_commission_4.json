@@ -1,6 +1,6 @@
 {
   "race_id": "county_commission_4",
-  "verified_ballot_note": "ClickOrlando's 2026 Voter's Guide states the winner of the District 4 Republican primary faces write-in candidate Ethan Parks in November (https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/); Lake & Sumter Style reports Bogue won that primary with 73.04% (https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/); Florida Money Watch lists Parks as an active write-in (https://www.floridamoneywatch.com/county.php?code=SUM). Not verified against the county's official Notice of General Election (blocked). Research limitation: in this sandbox every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was exhausted, so positions are coded only from search-result snippets. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
+  "verified_ballot_note": "ClickOrlando's 2026 Voter's Guide states the winner of the District 4 Republican primary faces write-in candidate Ethan Parks in November (https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/); Lake & Sumter Style reports Bogue won that primary with 73.04% (https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/); Florida Money Watch lists Parks as an active write-in (https://www.floridamoneywatch.com/county.php?code=SUM). Not verified against the county's official Notice of General Election (blocked). Research limitation (two passes, Sept 2026): every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was capped, so positions are coded only from search-result snippets. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
   "candidates": [
     {
       "id": "jeffrey_bogue",
@@ -9,25 +9,67 @@
       "incumbent": true,
       "photo_url": "https://www.sumtercountyfl.gov/161/District-4",
       "photo_source": "Sumter County official website, District 4 commissioner page (image URL not verified; site blocked in this sandbox)",
-      "website": null,
-      "occupation": "Sumter County Commissioner, District 4",
-      "residence": "Sumter County (city not verified)",
-      "background": "Bogue is the incumbent District 4 member of the Sumter County Board of County Commissioners. He sought re-election in 2026 and won the Aug. 18, 2026 Republican primary over Michael Squier with 19,912 votes (73.04%) to Squier's 7,349 (26.96%). Because a write-in candidate (Ethan Parks) qualified, the primary was closed to Republican voters and the winner advances to face the write-in on Nov. 3, 2026. Details of his career, education and first election could not be retrieved (county site and ClickOrlando questionnaire were blocked).",
+      "website": "https://www.votejeffbogue.com/",
+      "occupation": "Sumter County Commissioner, District 4 (2nd Vice Chairman); director of emergency medical services, AdventHealth",
+      "residence": "Bushnell, Sumter County",
+      "background": "Bogue, the son of a U.S. Army colonel, settled in the Tampa Bay area as a young adult and began a career in fire and EMS, working as a firefighter/EMT, paramedic and trauma flight paramedic; his campaign biography says he is currently director of emergency medical services for AdventHealth. His family bought a 10-acre farm in Bushnell in 2014 and made it their permanent home. He served on the county's ambulance committee before filing in January 2022 to run for the District 4 commission seat, and has served on the Board of County Commissioners since 2022, currently as 2nd Vice Chairman. He sought re-election in 2026 and won the Aug. 18, 2026 Republican primary over Michael Squier with 19,912 votes (73.04%) to Squier's 7,349 (26.96%). Because write-in candidate Ethan Parks qualified, the primary was closed to Republican voters and Bogue advances to face the write-in on Nov. 3, 2026.",
       "primary_result": "Won Aug. 18, 2026 Republican primary with 73.04% (19,912 votes) over Michael Squier (26.96%, 7,349) (Lake & Sumter Style; ClickOrlando results)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "record",
+          "summary": "His 2026 record leans toward preserving services over lowering the tax burden: he moved in July 2026 to eliminate the fire assessment fee, then in September 2026 voted with the full board to fully fund Fire & EMS through property-tax millage despite taxpayer objections, saying commissioners are elected 'to make the right decision for the entire county' rather than 'to take a popular vote.' In 2023 he described himself as 'never more conflicted' over a proposed fire-fee increase that was rejected 3-2 (see record). No general statement on tax cutting as a priority was found.",
+          "quote": "We are not elected simply to take a popular vote. We're elected to make the right decision for the entire county.",
+          "sources": [
+            {
+              "title": "Sumter commissioners make tough decision on funding for county fire department - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/09/16/sumter-commissioners-make-tough-decision-on-funding-for-county-fire-department/",
+              "date": "2026-09-16"
+            },
+            {
+              "title": "Outpouring of opposition snuffs out county's controversial fire assessment fees - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/07/29/outpouring-of-opposition-snuffs-out-countys-controversial-fire-assessment-fees/",
+              "date": "2026-07-29"
+            },
+            {
+              "title": "Sumter Commission splits 3-2 on hot topic of fire assessment fees - Villages-News.com",
+              "url": "https://www.villages-news.com/2023/08/22/residents-crowd-meeting-as-sumter-commissioners-to-decide-fate-of-fire-fee-increase/",
+              "date": "2023-08-22"
+            }
+          ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Coded from county millage votes only; no statement by Bogue on the state homestead-exemption Amendment 3 was found. In September 2025 he moved to adopt the Fire/EMS municipal service taxing unit tentative millage (0.8571), and the FY 2025-26 budget he helped adopt kept the general-fund rate at 4.89 mills, which state TRIM rules classify as a 4.75% tax increase. In July 2026 he moved to abolish the county's per-parcel fire assessment fees, and on Sept. 15, 2026, after taxpayers complained that fire-related property-tax bills had risen $1,500 or more, he joined a unanimous vote to fully fund Fire & EMS through a $4.60-per-$1,000 levy on non-Villages property on top of the 4.89-mill general rate.",
+          "quote": "We are not elected simply to take a popular vote. We're elected to make the right decision for the entire county.",
+          "sources": [
+            {
+              "title": "Sumter commissioners make tough decision on funding for county fire department - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/09/16/sumter-commissioners-make-tough-decision-on-funding-for-county-fire-department/",
+              "date": "2026-09-16"
+            },
+            {
+              "title": "Outpouring of opposition snuffs out county's controversial fire assessment fees - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/07/29/outpouring-of-opposition-snuffs-out-countys-controversial-fire-assessment-fees/",
+              "date": "2026-07-29"
+            },
+            {
+              "title": "1st Budget Hearing, Board of County Commissioners, September 16, 2025 (minutes) - Sumter County",
+              "url": "https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/27440?fileID=67935",
+              "date": "2025-09-16"
+            },
+            {
+              "title": "Sumter County Adopts the Budget for Next Fiscal Year (October 1, 2025 - September 30, 2026) - Sumter County news flash",
+              "url": "https://www.sumtercountyfl.gov/m/newsflash/home/detail/1552",
+              "date": "2025-10"
+            },
+            {
+              "title": "County Millage Rate Information - Sumter County, FL",
+              "url": "https://sumtercountyfl.gov/865/County-Millage-Rate-Information",
+              "date": null
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -93,11 +135,22 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In his 2022 campaign Bogue said the county must 'reevaluate the impact fee structure so that there is not the significant disparity in age-restricted (The Villages) communities and those other communities' and must 'better control the growth rate in Sumter County.' No 2025-26 statement or vote on Villages expansion, rural-land rezonings or impact-fee levels was found in search snippets.",
+          "quote": "better control the growth rate in Sumter County",
+          "sources": [
+            {
+              "title": "Meet The Candidates (2022) - Sumter Sun Times",
+              "url": "https://www.midfloridanewspapers.com/sumter_sun_times/meet-the-candidates/article_9fbf05c0-1388-11ed-b36a-73e1df8c2e24.html",
+              "date": "2022-08"
+            },
+            {
+              "title": "Fair Government For Sumter - 2022 Candidates (Jeff Bogue questionnaire)",
+              "url": "https://www.fg4s.org/2022-candidates/",
+              "date": "2022"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -151,18 +204,112 @@
       },
       "other_issues": [
         {
-          "title": "Voter guide questionnaire (content not retrievable)",
-          "summary": "Bogue and Squier answered the ClickOrlando 2026 Voter's Guide questionnaire for the District 4 Republican primary and were profiled by the Daily Commercial ('Get to know Lake & Sumter commission candidates'); the answer text could not be read in this sandbox, so no positions on impact fees, roads, The Villages vs. rural issues, fire/EMS or budget are coded.",
+          "title": "Fire assessment fees vs. property-tax funding for Fire & EMS",
+          "summary": "Bogue, an EMS administrator, has been a central vote on how Sumter County pays for its fire department. In 2023 he said he had 'never been more conflicted' over a proposed fire-fee increase (rejected 3-2). In July 2026 he moved to 'trash' the fire assessment fees entirely (approved 3-2 after a 3.5-hour hearing), and in September 2026 he voted with a unanimous board to fully fund Fire & EMS through a $4.60-per-$1,000 levy on non-Villages property rather than cut the department.",
           "sources": [
+            {
+              "title": "Outpouring of opposition snuffs out county's controversial fire assessment fees - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/07/29/outpouring-of-opposition-snuffs-out-countys-controversial-fire-assessment-fees/",
+              "date": "2026-07-29"
+            },
+            {
+              "title": "Sumter commissioners make tough decision on funding for county fire department - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/09/16/sumter-commissioners-make-tough-decision-on-funding-for-county-fire-department/",
+              "date": "2026-09-16"
+            },
+            {
+              "title": "Firefighters plead with Sumter County officials not to cut funding - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/09/09/firefighters-plead-with-sumter-county-officials-not-to-cut-funding/",
+              "date": "2026-09-09"
+            },
+            {
+              "title": "Sumter Commission splits 3-2 on hot topic of fire assessment fees - Villages-News.com",
+              "url": "https://www.villages-news.com/2023/08/22/residents-crowd-meeting-as-sumter-commissioners-to-decide-fate-of-fire-fee-increase/",
+              "date": "2023-08-22"
+            },
+            {
+              "title": "Sumter County struggles to hire new firefighters after commissioners reject fee increases - FOX 35 Orlando",
+              "url": "https://www.fox35orlando.com/news/sumter-county-struggles-to-hire-new-firefighters-after-fee-raise-fails",
+              "date": "2026"
+            },
+            {
+              "title": "Sumter County to consider new fire assessment fee rate - Spectrum News 13",
+              "url": "https://mynews13.com/fl/orlando/news/2026/07/22/sumter-county-to-consider-new-fire-assessment-fee-rate-july-",
+              "date": "2026-07-22"
+            }
+          ]
+        },
+        {
+          "title": "Impact-fee disparity between The Villages and other communities",
+          "summary": "Said in 2022 that the county must re-evaluate its impact-fee structure so there is not a 'significant disparity' between age-restricted (Villages) communities and other communities.",
+          "sources": [
+            {
+              "title": "Meet The Candidates (2022) - Sumter Sun Times",
+              "url": "https://www.midfloridanewspapers.com/sumter_sun_times/meet-the-candidates/article_9fbf05c0-1388-11ed-b36a-73e1df8c2e24.html",
+              "date": "2022-08"
+            },
+            {
+              "title": "Fair Government For Sumter - 2022 Candidates (Jeff Bogue questionnaire)",
+              "url": "https://www.fg4s.org/2022-candidates/",
+              "date": "2022"
+            }
+          ]
+        },
+        {
+          "title": "Code-enforcement fines",
+          "summary": "Challenged the county's routine practice of waiving code-enforcement fines once violations are corrected, saying at an October 2023 workshop that it made no sense to impose daily fines the county would ultimately waive.",
+          "sources": [
+            {
+              "title": "Sumter County commissioners disagree on waiving fines for derelict properties - Villages-News.com",
+              "url": "https://www.villages-news.com/2024/01/10/sumter-county-commissioners-disagree-on-waiving-fines-for-derelict-properties/",
+              "date": "2024-01-10"
+            }
+          ]
+        },
+        {
+          "title": "Road maintenance funding",
+          "summary": "As a member of the board, adopted the FY 2025-26 budget that retained the 4.89-mill general-fund rate, which the county said was done to increase funding for road maintenance; the board also approved a contract for C-470 intersection improvements in 2026 (board actions; no individual statement by Bogue found).",
+          "sources": [
+            {
+              "title": "Sumter County Adopts the Budget for Next Fiscal Year (October 1, 2025 - September 30, 2026) - Sumter County news flash",
+              "url": "https://www.sumtercountyfl.gov/m/newsflash/home/detail/1552",
+              "date": "2025-10"
+            },
+            {
+              "title": "Regular Meeting, Board of County Commissioners (minutes; C-470 intersection improvements contract) - Sumter County",
+              "url": "https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/28223?fileID=70260",
+              "date": "2026-02-10"
+            },
+            {
+              "title": "Final Budget Hearing, Board of County Commissioners, September 30, 2025 (minutes) - Sumter County",
+              "url": "https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/27572?fileID=68161",
+              "date": "2025-09-30"
+            }
+          ]
+        },
+        {
+          "title": "Voter-guide questionnaires",
+          "summary": "The Daily Commercial reported that Bogue did not answer its 2026 candidate questionnaire but posted a candidate profile on the Sumter County Supervisor of Elections website. ClickOrlando's 2026 Voter's Guide for the District 4 primary features Bogue and Squier; its questionnaire text and any Ballotpedia survey could not be read in this sandbox.",
+          "sources": [
+            {
+              "title": "Get to know Lake & Sumter commission candidates before primary - Daily Commercial via Yahoo News",
+              "url": "https://www.yahoo.com/news/politics/articles/know-lake-sumter-commission-candidates-231440397.html",
+              "date": "2026-08"
+            },
+            {
+              "title": "Get to know Lake & Sumter commission candidates before primary - Daily Commercial via AOL",
+              "url": "https://www.aol.com/articles/know-lake-sumter-commission-candidates-231440000.html",
+              "date": "2026-08"
+            },
             {
               "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
               "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
               "date": "2026-07-31"
             },
             {
-              "title": "Get to know Lake & Sumter commission candidates before primary - Yahoo News (Daily Commercial)",
-              "url": "https://www.yahoo.com/news/politics/articles/know-lake-sumter-commission-candidates-231440397.html",
-              "date": "2026-08"
+              "title": "Jeffrey Bogue (Sumter County Board of County Commissioners District 4, Florida, candidate 2026) - Ballotpedia",
+              "url": "https://ballotpedia.org/Jeffrey_Bogue_(Sumter_County_Board_of_County_Commissioners_District_4,_Florida,_candidate_2026)",
+              "date": null
             }
           ]
         }
@@ -180,6 +327,106 @@
               "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
               "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
               "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "item": "Served on Sumter County's ambulance committee before filing in January 2022 to run for the District 4 seat; elected in 2022 and currently 2nd Vice Chairman of the board.",
+          "sources": [
+            {
+              "title": "Ambulance committee member files to run for Sumter County Commission - Villages-News.com",
+              "url": "https://www.villages-news.com/2022/01/19/ambulance-committee-member-files-to-run-for-sumter-county-commission/",
+              "date": "2022-01-19"
+            },
+            {
+              "title": "District 4 - Sumter County, FL official website",
+              "url": "https://www.sumtercountyfl.gov/161/District-4",
+              "date": null
+            },
+            {
+              "title": "Get to know Lake & Sumter commission candidates before primary - Daily Commercial via Yahoo News",
+              "url": "https://www.yahoo.com/news/politics/articles/know-lake-sumter-commission-candidates-231440397.html",
+              "date": "2026-08"
+            },
+            {
+              "title": "About - Jeff Bogue for Sumter County Commissioner (campaign site)",
+              "url": "https://www.votejeffbogue.com/about",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Aug. 22, 2023: in the board's 3-2 vote on a proposed fire assessment increase (from $124 to $323.64 per residence), Bogue voted with Commissioner Craig Estep and said he did not want to see firefighters laid off but had 'never been more conflicted about a decision.' The increase was rejected; the fire chief subsequently reported a $12.2-million shortfall, 30 layoffs and cancelled hiring. (Which side of the 3-2 split Bogue and Estep were on could not be confirmed from search snippets.)",
+          "sources": [
+            {
+              "title": "Sumter Commission splits 3-2 on hot topic of fire assessment fees - Villages-News.com",
+              "url": "https://www.villages-news.com/2023/08/22/residents-crowd-meeting-as-sumter-commissioners-to-decide-fate-of-fire-fee-increase/",
+              "date": "2023-08-22"
+            },
+            {
+              "title": "Sumter County begins feeling impact of rejection of fire assessment fee increases - Villages-News.com",
+              "url": "https://www.villages-news.com/2023/09/06/sumter-county-begins-feeling-impact-of-rejection-of-fire-assessment-fee-increases/",
+              "date": "2023-09-06"
+            },
+            {
+              "title": "Sumter County fire and emergency services face financial cuts - Spectrum News 13",
+              "url": "https://mynews13.com/fl/orlando/news/2023/09/06/sumter-county-fire-services-face-financial-cuts",
+              "date": "2023-09-06"
+            }
+          ]
+        },
+        {
+          "item": "Sept. 16, 2025: moved to adopt the Fire and EMS MSTU tentative millage rate of 0.8571 for FY 2025-26; the board's final budget kept the general-fund rate at 4.89 mills (a 4.75% increase under TRIM rules) to increase road-maintenance funding.",
+          "sources": [
+            {
+              "title": "1st Budget Hearing, Board of County Commissioners, September 16, 2025 (minutes) - Sumter County",
+              "url": "https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/27440?fileID=67935",
+              "date": "2025-09-16"
+            },
+            {
+              "title": "Final Budget Hearing, Board of County Commissioners, September 30, 2025 (minutes) - Sumter County",
+              "url": "https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/27572?fileID=68161",
+              "date": "2025-09-30"
+            },
+            {
+              "title": "Sumter County Adopts the Budget for Next Fiscal Year (October 1, 2025 - September 30, 2026) - Sumter County news flash",
+              "url": "https://www.sumtercountyfl.gov/m/newsflash/home/detail/1552",
+              "date": "2025-10"
+            }
+          ]
+        },
+        {
+          "item": "July 28, 2026: after a 3.5-hour public hearing, moved to eliminate ('trash') the county's fire assessment fees for FY 2026-27; the board set the assessment at zero on a 3-2 vote.",
+          "sources": [
+            {
+              "title": "Outpouring of opposition snuffs out county's controversial fire assessment fees - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/07/29/outpouring-of-opposition-snuffs-out-countys-controversial-fire-assessment-fees/",
+              "date": "2026-07-29"
+            },
+            {
+              "title": "Sumter County to consider new fire assessment fee rate - Spectrum News 13",
+              "url": "https://mynews13.com/fl/orlando/news/2026/07/22/sumter-county-to-consider-new-fire-assessment-fee-rate-july-",
+              "date": "2026-07-22"
+            },
+            {
+              "title": "Sumter commissioners to vote on new method for calculating fire assessments - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/05/27/sumter-commissioners-to-vote-on-new-method-for-calculating-fire-assessments/",
+              "date": "2026-05-27"
+            }
+          ]
+        },
+        {
+          "item": "Sept. 15, 2026: voted with a unanimous board to fully fund Sumter County Fire & EMS for FY 2026-27 through property-tax millage ($4.60 per $1,000 on non-Villages property on top of the 4.89-mill general rate; countywide property-tax collections projected at $127.9 million, up 9.4%). Final budget vote scheduled Sept. 29, 2026.",
+          "sources": [
+            {
+              "title": "Sumter commissioners make tough decision on funding for county fire department - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/09/16/sumter-commissioners-make-tough-decision-on-funding-for-county-fire-department/",
+              "date": "2026-09-16"
+            },
+            {
+              "title": "Firefighters plead with Sumter County officials not to cut funding - Villages-News.com",
+              "url": "https://www.villages-news.com/2026/09/09/firefighters-plead-with-sumter-county-officials-not-to-cut-funding/",
+              "date": "2026-09-09"
             }
           ]
         },

@@ -200,7 +200,7 @@ window.GUIDE_DATA = {
    "office_group": "Federal",
    "term": "Remainder of term ending January 2029",
    "what_it_does": "One of Florida's two members of the U.S. Senate. Votes on federal laws, the federal budget, treaties, and confirmation of judges and cabinet officials. This special election fills the seat Marco Rubio vacated in 2025; the winner serves until the regular 2028 election.",
-   "verified_ballot_note": "Ballotpedia's race page and its Aug 28, 2026 news summary list the Nov 3 general-election candidates as Ashley Moody (R, incumbent), Angela 'Angie' Nixon (D) and Neil Gillespie (NPA); WUWF's June 12, 2026 qualifying report lists six qualified candidates (Moody, Gleason, Perry and Rivera as Republicans; Nixon and Vindman as Democrats; Gillespie as NPA), and Spectrum News 13's Aug 19 results confirm Perry ran in the Republican primary that Moody won with 75.3%, so Perry is not on the general ballot despite an older Ballotpedia profile labeling her NPA; no qualified write-in candidate was found, but the Florida Division of Elections candidate list could not be accessed from this environment to confirm  ;  ;  ; .",
+   "verified_ballot_note": "Ballotpedia's race page and its Aug 28, 2026 news summary, Wikipedia's race article and the Aug 6, 2026 Hy-Lo News voter guide all list the Nov 3 general-election candidates as Ashley Moody (R, incumbent), Angela 'Angie' Nixon (D) and Neil J. Gillespie (NPA); WUWF's June 12, 2026 qualifying report lists the same three plus the primary losers, and Spectrum News 13's Aug 19 results confirm Perry ran (and lost) in the Republican primary. A June 2026 online candidate guide described Gillespie as withdrawn, but every later source (Ballotpedia Aug 28, Hy-Lo News Aug 6, Palm Beach Examiner Aug 2026, Politics1) lists him as an active NPA candidate. No qualified write-in candidate was found in any source; the Florida Division of Elections candidate database (dos.elections.myflorida.com) is blocked from this environment, so the absence of a write-in could not be confirmed from the primary source  ;  ;  ;  ;  ; .",
    "verified_ballot_sources": [
     {
      "title": "ballotpedia.org",
@@ -209,6 +209,14 @@ window.GUIDE_DATA = {
     {
      "title": "news.ballotpedia.org",
      "url": "https://news.ballotpedia.org/2026/08/28/special-election-to-fill-the-remainder-of-sec-of-state-marco-rubios-u-s-senate-term-happening-in-florida-on-nov-3/"
+    },
+    {
+     "title": "en.wikipedia.org",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_special_election_in_Florida"
+    },
+    {
+     "title": "hylonewsmiami.com",
+     "url": "https://hylonewsmiami.com/2026/08/06/florida-u-s-senate-voter-guide-meet-the-candidates-in-the-2026-special-election/"
     },
     {
      "title": "wuwf.org",
@@ -266,9 +274,20 @@ window.GUIDE_DATA = {
       "insurance": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. No statement by Moody on state intervention in Florida's property-insurance market was found.",
+       "summary": "No public position found as of Sept 2026 on state intervention (rate caps, expanding Citizens, stricter insurer regulation) in Florida's property-insurance market. Related federal record: in July 2025 she and Sen. Rick Scott introduced the Flood Insurance Relief Act, which would create a tax deduction for flood-insurance premiums paid through the National Flood Insurance Program or private insurers; she said constituents tell her they are worried about rising flood-insurance costs.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Sens. Ashley Moody and Rick Scott Introduce Bill to Provide Tax Relief for Skyrocketing Flood Insurance Costs - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/sens-ashley-moody-and-rick-scott-introduce-bill-to-provide-tax-relief-for-skyrocketing-flood-insurance-costs/",
+         "date": "2025-07"
+        },
+        {
+         "title": "Sen. Rick Scott, Sen. Ashley Moody try to give homeowners a financial break on flood insurance - WLRN",
+         "url": "https://www.wlrn.org/business/2025-07-17/rick-scott-ashley-moody-homeowners-financial-break-flood-insurance",
+         "date": "2025-07-17"
+        }
+       ]
       },
       "housing": {
        "stance": 1,
@@ -467,7 +486,7 @@ window.GUIDE_DATA = {
       "marijuana": {
        "stance": -1,
        "confidence": "record",
-       "summary": "As Attorney General, Moody asked the Florida Supreme Court to keep recreational-marijuana legalization initiatives off the ballot in 2019 (2020 cycle) and 2023 (2024 cycle, Amendment 3), arguing the ballot language was misleading; the court allowed Amendment 3 on the ballot 5-2. No statement on federal legalization was found.",
+       "summary": "As Attorney General, Moody asked the Florida Supreme Court to keep recreational-marijuana legalization initiatives off the ballot in 2019 (2020 cycle) and 2023 (2024 cycle, Amendment 3), arguing the ballot language was misleading; the court allowed Amendment 3 on the ballot 5-2. As a senator she did not sign a 2025-26 letter by Republican colleagues (which Sen. Rick Scott signed) opposing the Trump administration's move to reschedule marijuana. No statement on federal legalization was found.",
        "quote": null,
        "sources": [
         {
@@ -479,6 +498,11 @@ window.GUIDE_DATA = {
          "title": "Ashley Moody - Wikipedia",
          "url": "https://en.wikipedia.org/wiki/Ashley_Moody",
          "date": null
+        },
+        {
+         "title": "Ashley Moody, Rick Scott diverge on rescheduling pot - Florida Politics",
+         "url": "https://floridapolitics.com/archives/770284-moody-scott-pot/",
+         "date": "2026"
         }
        ]
       },
@@ -567,29 +591,49 @@ window.GUIDE_DATA = {
        ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026 on promoting renewables or utility-rate oversight. Related record: she opposes offshore oil and gas drilling near Florida (American Shores Protection Act) while broadly supporting the Trump administration's agenda.",
-       "quote": null,
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Moody has said the U.S. must 'bring back energy dominance' in support of the Trump administration's fossil-fuel-focused energy policies, and as Attorney General she criticized California's 'Green New Deal' policies in a Supreme Court filing over interstate emissions lawsuits. She simultaneously opposes oil and gas drilling off Florida's coasts (American Shores Protection Act). No statement was found on renewable-energy incentives or utility-rate oversight specifically.",
+       "quote": "We've got to bring back energy dominance.",
        "sources": [
+        {
+         "title": "We've got to bring back energy dominance, says Sen. Ashley Moody - Fox Business (video)",
+         "url": "https://www.foxbusiness.com/video/6374915481112",
+         "date": "2025-06"
+        },
+        {
+         "title": "Attorney General Moody Files Legal Action to Protect Energy Sources Crucial to Economic and National Security - My Florida Legal",
+         "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-moody-files-legal-action-protect-energy-sources-crucial-economic-and",
+         "date": "2024"
+        },
         {
          "title": "Sen. Ashley Moody Fights to Protect Florida's Coast from Off-Shore Oil Drilling, Introduces the American Shores Protection Act - moody.senate.gov",
          "url": "https://www.moody.senate.gov/press-releases/news-release-sen-ashley-moody-fights-to-protect-floridas-coast-from-off-shore-oil-drilling-introduces-the-american-shores-protection-act/",
          "date": "2025-12"
-        },
-        {
-         "title": "Sen. Ashley Moody on her legislative goals for this year and more - WUSF",
-         "url": "https://www.wusf.org/politics-issues/2026-01-24/u-s-senator-ashley-moody-legislative-goals",
-         "date": "2026-01-24"
         }
        ]
       },
       "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026 on whether tariffs benefit the U.S. economy. Related: she and Sen. Rick Scott urged the administration to use 'trade leverage' to block a proposed International Maritime Organization shipping levy.",
-       "quote": null,
+       "stance": 2,
+       "confidence": "record",
+       "summary": "On April 2, 2025, Moody voted against S.J.Res. 37, the resolution (passed 51-48) to terminate the national emergency used to impose tariffs on Canadian imports. The same day she praised President Trump's 'Liberation Day' reciprocal-tariff announcement, saying the era of America 'being taken advantage of is over.' She and Sen. Rick Scott have also urged the administration to use trade leverage against a proposed international shipping levy.",
+       "quote": "It's liberation day in America! Today, @POTUS sent a message to the world that the era of America being taken advantage of is over.",
        "sources": [
+        {
+         "title": "U.S. Senate Roll Call Vote 119th Congress, 1st Session, Vote 160 (S.J.Res. 37) - senate.gov",
+         "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00160.htm",
+         "date": "2025-04-02"
+        },
+        {
+         "title": "S.J.Res. 37: terminating the national emergency declared to impose duties on articles imported from Canada - GovTrack vote record",
+         "url": "https://www.govtrack.us/congress/votes/119-2025/s160",
+         "date": "2025-04-02"
+        },
+        {
+         "title": "Support Grows for President Trump's America First Reciprocal Trade Plan - The White House (compilation of lawmaker statements)",
+         "url": "https://www.whitehouse.gov/releases/2025/04/support-grows-for-president-trumps-america-first-reciprocal-trade-plan/",
+         "date": "2025-04"
+        },
         {
          "title": "Ashley Moody, Rick Scott urge Donald Trump administration to block proposed international shipping tax - Florida Politics",
          "url": "https://floridapolitics.com/archives/756860-ashley-moody-rick-scott-urge-donald-trump-administration-to-block-proposed-international-shipping-tax/",
@@ -795,6 +839,33 @@ window.GUIDE_DATA = {
          "date": "2025-10"
         }
        ]
+      },
+      {
+       "title": "Flood Insurance Relief Act (tax deduction for flood premiums)",
+       "summary": "Create a non-refundable federal tax deduction for flood-insurance premiums paid through NFIP or private insurers; introduced with Sen. Rick Scott in July 2025.",
+       "sources": [
+        {
+         "title": "Sens. Ashley Moody and Rick Scott Introduce Bill to Provide Tax Relief for Skyrocketing Flood Insurance Costs - moody.senate.gov",
+         "url": "https://www.moody.senate.gov/press-releases/sens-ashley-moody-and-rick-scott-introduce-bill-to-provide-tax-relief-for-skyrocketing-flood-insurance-costs/",
+         "date": "2025-07"
+        },
+        {
+         "title": "Making a splash: Ashley Moody, Rick Scott introduce flood insurance tax relief bill - Florida Politics",
+         "url": "https://floridapolitics.com/archives/747747-making-a-splash-ashley-moody-rick-scott-introduce-flood-insurance-tax-relief-bill/",
+         "date": "2025-07"
+        }
+       ]
+      },
+      {
+       "title": "'Energy dominance'",
+       "summary": "Backs the Trump administration's push to expand domestic energy production ('bring back energy dominance') while opposing drilling off Florida's coast.",
+       "sources": [
+        {
+         "title": "We've got to bring back energy dominance, says Sen. Ashley Moody - Fox Business (video)",
+         "url": "https://www.foxbusiness.com/video/6374915481112",
+         "date": "2025-06"
+        }
+       ]
       }
      ],
      "record": [
@@ -974,6 +1045,51 @@ window.GUIDE_DATA = {
        ]
       },
       {
+       "item": "Voted Nay on S.J.Res. 37 (April 2, 2025), the resolution to terminate the national emergency underlying tariffs on Canadian imports; it passed 51-48 with four Republicans joining Democrats.",
+       "sources": [
+        {
+         "title": "U.S. Senate Roll Call Vote 119-1-160 (S.J.Res. 37) - senate.gov",
+         "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00160.htm",
+         "date": "2025-04-02"
+        },
+        {
+         "title": "Senate votes to block Trump administration's tariffs on Canada (S.J. Res. 37) - Economic Policy Institute",
+         "url": "https://www.epi.org/policywatch/senate-votes-to-block-trump-administrations-tariffs-on-canada-s-j-res-37/",
+         "date": "2025-04"
+        }
+       ]
+      },
+      {
+       "item": "Introduced the Flood Insurance Relief Act with Sen. Rick Scott (July 2025) to create a tax deduction for flood-insurance premiums.",
+       "sources": [
+        {
+         "title": "Sen. Rick Scott, Sen. Ashley Moody try to give homeowners a financial break on flood insurance - WLRN",
+         "url": "https://www.wlrn.org/business/2025-07-17/rick-scott-ashley-moody-homeowners-financial-break-flood-insurance",
+         "date": "2025-07-17"
+        }
+       ]
+      },
+      {
+       "item": "Fact-checks: PolitiFact (Aug 21, 2026) found her claim tying Nixon to the full Democratic Socialists of America platform misleading; PolitiFact (Aug 13, 2026) separately examined Alexander Vindman's claims about her role, as Attorney General, in the Hope Florida / $10 million Medicaid-settlement matter.",
+       "sources": [
+        {
+         "title": "How aligned is Angie Nixon with democratic socialists? Moody's Florida Senate race attack misleads - PolitiFact",
+         "url": "https://politifact.com/article/2026/aug/21/angie-nixon-florida-senate-ashley-moody-dsa/",
+         "date": "2026-08-21"
+        },
+        {
+         "title": "Fact-checking Ashley Moody's role in Hope Florida scandal - PolitiFact",
+         "url": "https://politifact.com/factchecks/2026/aug/13/alexander-vindman/ashley-moody-senate-hope-florida-medicaid/",
+         "date": "2026-08-13"
+        },
+        {
+         "title": "Angie Nixon Hits Hard as GOP's Moody Linked to $10M Florida Scandal - Newsweek",
+         "url": "https://www.newsweek.com/nixon-hits-hard-ashley-moody-10m-florida-scandal-polls-12375702",
+         "date": "2026-09"
+        }
+       ]
+      },
+      {
        "item": "Voted for H.R. 1 (July 1, 2025), the budget reconciliation law that extended the 2017 tax cuts and added Medicaid work requirements; the Senate vote was 51-50.",
        "sources": [
         {
@@ -1061,7 +1177,7 @@ window.GUIDE_DATA = {
      "party": "Democratic",
      "incumbent": false,
      "photo_url": "https://www.myfloridahouse.gov/FileStores/Web/Imaging/Member/4766.jpg",
-     "photo_source": "Florida House of Representatives member photo (MemberId 4766); URL pattern unverified",
+     "photo_source": "Florida House of Representatives member photo (MemberId 4766, confirmed via https://www.myfloridahouse.gov/Sections/Representatives/details.aspx?MemberId=4766); the FileStores image URL pattern itself could not be verified because myfloridahouse.gov is blocked from this environment",
      "website": "https://angienixon.com/",
      "occupation": "Florida State Representative (District 13, Jacksonville); union and community organizer",
      "residence": "Jacksonville, Duval County",
@@ -1092,18 +1208,45 @@ window.GUIDE_DATA = {
        ]
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Homestead property tax is a state issue; no statement by Nixon on Florida's homestead-tax proposals was found.",
-       "quote": null,
-       "sources": []
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Responding to Gov. DeSantis's plan to reduce and eventually eliminate homestead property taxes, Nixon said she supports targeted relief for seniors and low-income homeowners but opposes the broader elimination plan. In February 2024 she voted with House Democrats against the joint resolution (approved 86-29) that placed the inflation-indexed homestead exemption (2024 Amendment 5) on the ballot.",
+       "quote": "I do believe that we need to provide some relief for the seniors and some low-income people who may not be able to pay for things, but I don't think we need to be subsidizing billionaires.",
+       "sources": [
+        {
+         "title": "DeSantis unveils plan to reduce, eventually eliminate Florida property taxes - NBC 6 South Florida",
+         "url": "https://www.nbcmiami.com/news/local/desantis-unveils-plan-to-reduce-eventually-eliminate-florida-property-taxes/3814163/",
+         "date": "2026"
+        },
+        {
+         "title": "Socialist Senate Nominee Angie Nixon Claims the Same Homestead Tax Exemption She Tried To Kill in Florida House - Washington Free Beacon",
+         "url": "https://freebeacon.com/democrats/socialist-senate-nominee-angie-nixon-claims-the-same-homestead-tax-exemption-she-tried-to-kill-in-florida-house/",
+         "date": "2026-09"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. No statement by Nixon on state intervention in Florida's property-insurance market was found.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Nixon says Florida property insurance costs about 300% of the national average and that 'insurance is out of control,' and calls for federal action on the property-insurance crisis, including reinsurance backstops and stronger consumer protections. Her proposals are federal rather than state-level, but they favor more direct government intervention over relying on market-based reforms.",
+       "quote": "Florida is too expensive for Floridians, insurance is out of control and rent is out of control and so are groceries.",
+       "sources": [
+        {
+         "title": "Angie Nixon for U.S. Senate - Priorities",
+         "url": "https://angienixon.com/priorities/",
+         "date": null
+        },
+        {
+         "title": "State Rep. Angie Nixon on X: 'Property insurance is 300% more than the national average...'",
+         "url": "https://x.com/AngieNixon/status/2085773313016520884",
+         "date": "2026-08"
+        },
+        {
+         "title": "'Too expensive for Floridians': Jacksonville rep pushes back against DeSantis ahead of his 'State of the State' address - News4Jax",
+         "url": "https://www.news4jax.com/news/local/2026/01/13/too-expensive-for-floridians-jacksonville-rep-pushes-back-against-desantis-ahead-of-his-state-of-the-state-address/",
+         "date": "2026-01-13"
+        }
+       ]
       },
       "housing": {
        "stance": 1,
@@ -1192,7 +1335,7 @@ window.GUIDE_DATA = {
       "guns": {
        "stance": 1,
        "confidence": "record",
-       "summary": "In the Florida House, Nixon opposed permitless ('constitutional') carry and supported maintaining training and background-check requirements and safe-storage measures. No detailed federal gun-policy platform was found.",
+       "summary": "In the Florida House, Nixon opposed permitless ('constitutional') carry (HB 543, 2023) and supported maintaining training and background-check requirements and safe-storage measures; she discussed her opposition to permitless carry on the Florida Watch 'Keeping Watch' podcast. No federal gun platform (for example, on an assault-weapons ban) was found.",
        "quote": null,
        "sources": [
         {
@@ -1209,6 +1352,11 @@ window.GUIDE_DATA = {
          "title": "Angie Nixon - Wikipedia",
          "url": "https://en.wikipedia.org/wiki/Angie_Nixon",
          "date": null
+        },
+        {
+         "title": "Keeping Watch Podcast Episode 001 - Rep. Angie Nixon Interview and Permitless Carry - Florida Watch",
+         "url": "https://floridawatch.org/keeping-watch-ep-1-decoding-florida-politics-and-holding-elected-officials-accountable/",
+         "date": "2023"
         }
        ]
       },
@@ -1243,11 +1391,17 @@ window.GUIDE_DATA = {
       "social_security": {
        "stance": 2,
        "confidence": "stated",
-       "summary": "Campaigns on protecting and expanding Social Security and Medicare, funded by raising taxes on high earners.",
+       "summary": "Nixon's platform says Social Security and Medicare must be defended 'without compromise' with no cuts, and she proposes funding expanded programs through higher taxes on billionaires and capital gains rather than benefit reductions.",
+       "quote": "No cuts. No negotiations. Social Security and Medicare will be defended without compromise.",
        "sources": [
         {
-         "title": "Angie Nixon campaign site",
-         "url": "https://angienixon.com/",
+         "title": "Angie Nixon for U.S. Senate - Priorities",
+         "url": "https://angienixon.com/priorities/",
+         "date": null
+        },
+        {
+         "title": "Angie Nixon - BallotReady candidate profile",
+         "url": "https://www.ballotready.org/people/angie-nixon",
          "date": null
         }
        ]
@@ -1276,11 +1430,17 @@ window.GUIDE_DATA = {
        ]
       },
       "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. No statement by Nixon on conservation, water quality or climate-resilience trade-offs was found in accessible sources.",
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Nixon's platform calls the climate crisis an 'existential threat,' rejects what she calls a false choice between jobs and a livable planet, and says polluters should pay for the damage they have caused and taxpayer subsidies for fossil-fuel companies should end. No specific statement was found on conservation land, water quality or slowing development.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Angie Nixon for U.S. Senate - Priorities",
+         "url": "https://angienixon.com/priorities/",
+         "date": null
+        }
+       ]
       },
       "growth": {
        "stance": null,
@@ -1292,12 +1452,13 @@ window.GUIDE_DATA = {
       "marijuana": {
        "stance": 2,
        "confidence": "stated",
-       "summary": "Supported the 2024 Amendment 3 to legalize adult-use marijuana and has called for legalization and expungement of past possession convictions.",
+       "summary": "Nixon supported Florida's 2024 Amendment 3 to legalize adult-use marijuana and, at the federal level, says she supports removing cannabis from the Controlled Substances Act with expungement and resentencing of past convictions, employment and parental protections, opportunities for small businesses and reinvestment in communities harmed by drug enforcement.",
+       "quote": null,
        "sources": [
         {
-         "title": "Angie Nixon campaign site",
-         "url": "https://angienixon.com/",
-         "date": null
+         "title": "Angie Nixon Jumps in The Rotation: Florida U.S. Senate Candidate Talks Cannabis, Protest and People Power - Suncoast NORML",
+         "url": "https://www.suncoastnorml.org/post/angie-nixon-jumps-in-the-rotation-florida-u-s-senate-candidate-talks-cannabis-protest-and-people",
+         "date": "2026"
         },
         {
          "title": "Angie Nixon - Wikipedia (positions, with citations)",
@@ -1309,8 +1470,14 @@ window.GUIDE_DATA = {
       "elections": {
        "stance": 2,
        "confidence": "record",
-       "summary": "Voted against SB 90 (2021) and SB 7050 (2023), which tightened vote-by-mail, drop-box and third-party registration rules.",
+       "summary": "Nixon opposes the federal SAVE Act (documentary proof of citizenship to register), arguing it creates barriers for older Americans, students and women who have changed their names. In the Florida House she voted against SB 90 (2021) and SB 7050 (2023), which tightened vote-by-mail, drop-box and third-party voter-registration rules, and she previously led Florida for All, a voter-registration coalition.",
+       "quote": null,
        "sources": [
+        {
+         "title": "How aligned is Angie Nixon with democratic socialists? Moody's Florida Senate race attack misleads - PolitiFact",
+         "url": "https://politifact.com/article/2026/aug/21/angie-nixon-florida-senate-ashley-moody-dsa/",
+         "date": "2026-08-21"
+        },
         {
          "title": "SB 90 (2021) - Florida Senate bill page with vote history",
          "url": "https://www.flsenate.gov/Session/Bill/2021/90",
@@ -1349,7 +1516,8 @@ window.GUIDE_DATA = {
       "lgbtq": {
        "stance": -2,
        "confidence": "record",
-       "summary": "Voted against HB 1557 (2022, the Parental Rights in Education law) and SB 254 (2023, restrictions on gender-affirming care for minors) in the Florida House.",
+       "summary": "In the Florida House Nixon voted against HB 1557 (2022, the Parental Rights in Education law) and SB 254 (2023, restrictions on gender-affirming care for minors), and offered an amendment to the 2023 drag-show bill. As a Senate candidate she said the Supreme Court's 2026 ruling allowing states to bar transgender girls from girls' sports 'puts trans children and all young girls and women athletes in harm's way,' and she has defended drag shows as 'wholesome' entertainment.",
+       "quote": "No child deserves to be discriminated against, bullied or left out.",
        "sources": [
         {
          "title": "HB 1557 (2022) - Florida Senate bill page with vote history",
@@ -1360,27 +1528,69 @@ window.GUIDE_DATA = {
          "title": "SB 254 (2023) - Florida Senate bill page with vote history",
          "url": "https://www.flsenate.gov/Session/Bill/2023/254",
          "date": "2023-05"
+        },
+        {
+         "title": "U.S. Senate Candidate Angie Nixon Responds to SCOTUS Ruling Allowing States to Bar Transgender Girls From Girls' Sports - angienixon.com",
+         "url": "https://angienixon.com/u-s-senate-candidate-angie-nixon-responds-to-scotus-ruling-allowing-states-to-bar-transgender-girls-from-girls-sports/",
+         "date": "2026"
+        },
+        {
+         "title": "Florida Senate candidate Angie Nixon defends drag shows as 'wholesome' for children - Yahoo News",
+         "url": "https://www.yahoo.com/news/politics/articles/florida-senate-candidate-angie-nixon-165249327.html",
+         "date": "2026-08"
+        },
+        {
+         "title": "'Thunderdome of Hate': Florida House Debates Slew of Anti-LGBTQ+ Bills - The Advocate",
+         "url": "https://www.advocate.com/politics/florida-house-anti-lgbtq-bills",
+         "date": "2023"
         }
        ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. No statement by Nixon on renewable energy or utility-rate oversight was found in accessible sources.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "In March 2025 Nixon joined Florida Democratic legislators in a letter urging the Public Service Commission to reject Florida Power & Light's proposed rate increase (the PSC approved a roughly $7 billion increase in November 2025). Her platform calls for a 'union-built' transition to renewable energy with jobs in wind, solar and grid modernization, ending fossil-fuel subsidies and making polluters pay.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Florida Democratic Lawmakers Urge Public Service Commission to Reject FPL Rate Hike - Rep. Anna Eskamani",
+         "url": "https://annaforflorida.com/2025/03/11/florida-democratic-lawmakers-urge-public-service-commission-to-reject-fpl-rate-hike/",
+         "date": "2025-03-11"
+        },
+        {
+         "title": "Angie Nixon for U.S. Senate - Priorities",
+         "url": "https://angienixon.com/priorities/",
+         "date": null
+        },
+        {
+         "title": "PSC approves contentious $7 billion rate hike for Florida Power & Light customers - Florida Phoenix",
+         "url": "https://floridaphoenix.com/2025/11/20/psc-approves-contentious-7-billion-rate-hike-for-florida-power-light-customers/",
+         "date": "2025-11-20"
+        }
+       ]
       },
       "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. No statement by Nixon on tariffs was found in accessible sources.",
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "In a Fox 13 interview, when asked about price controls, Nixon said her focus was on repealing the Trump-era tariffs, which she links to higher consumer prices; she attributes rising costs mainly to 'corporate greed.'",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "One-on-One: Senate candidate Angie Nixon outlines positions on housing, healthcare, and foreign policy - FOX 13",
+         "url": "https://www.fox13news.com/news/one-on-one-senate-candidate-angie-nixon-outlines-positions-housing-healthcare-foreign-policy",
+         "date": "2026-08"
+        },
+        {
+         "title": "One-on-One: Senate candidate Angie Nixon outlines positions on housing, healthcare, and foreign policy - Yahoo News (syndicated)",
+         "url": "https://www.yahoo.com/news/politics/articles/one-one-senate-candidate-angie-225238766.html",
+         "date": "2026-08"
+        }
+       ]
       },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Nixon says the U.S. should favor diplomacy and multilateral action over unilateral military engagement, but no specific statement on continuing military aid to Ukraine was found.",
+       "summary": "No public position found as of Sept 2026. Nixon says the U.S. should favor diplomacy and multilateral action over unilateral military engagement, and she did not make Ukraine an issue in her primary against Alexander Vindman; no specific statement on continuing military aid to Ukraine was found in two search passes.",
        "quote": null,
        "sources": []
       },
@@ -1413,11 +1623,22 @@ window.GUIDE_DATA = {
        ]
       },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. No statement by Nixon on VA services or veterans' benefits was found in accessible sources.",
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Nixon has criticized Republicans in Washington for voting to 'privatize the VA and slash veterans' benefits,' and in a July 2025 Fox 13 interview said the Defense Department keeps failing its audits while veterans are homeless and military families rely on food assistance. She is endorsed by Common Defense, a progressive veterans organization. No detailed VA-expansion proposal was found.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Common Defense Endorses Angie Nixon for United States Senate - Common Defense",
+         "url": "https://commondefense.us/news/common-defense-endorses-angie-nixon-for-united-state-senate/",
+         "date": "2026"
+        },
+        {
+         "title": "One-on-One: Senate candidate Angie Nixon outlines positions on housing, healthcare, and foreign policy - FOX 13",
+         "url": "https://www.fox13news.com/news/one-on-one-senate-candidate-angie-nixon-outlines-positions-housing-healthcare-foreign-policy",
+         "date": "2026-08"
+        }
+       ]
       }
      },
      "other_issues": [
@@ -1553,6 +1774,55 @@ window.GUIDE_DATA = {
          "date": "2026-08-03"
         }
        ]
+      },
+      {
+       "title": "Federal reinsurance backstop for property insurance",
+       "summary": "Calls for federal action on Florida's property-insurance crisis, including reinsurance backstops and stronger consumer protections.",
+       "sources": [
+        {
+         "title": "Angie Nixon for U.S. Senate - Priorities",
+         "url": "https://angienixon.com/priorities/",
+         "date": null
+        },
+        {
+         "title": "State Rep. Angie Nixon on X on Florida housing and insurance costs",
+         "url": "https://x.com/AngieNixon/status/2085773313016520884",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "title": "Opposing FPL rate increases / utility oversight",
+       "summary": "Joined a 2025 legislators' letter urging the Public Service Commission to reject Florida Power & Light's rate increase.",
+       "sources": [
+        {
+         "title": "Florida Democratic Lawmakers Urge Public Service Commission to Reject FPL Rate Hike - Rep. Anna Eskamani",
+         "url": "https://annaforflorida.com/2025/03/11/florida-democratic-lawmakers-urge-public-service-commission-to-reject-fpl-rate-hike/",
+         "date": "2025-03-11"
+        }
+       ]
+      },
+      {
+       "title": "Federal cannabis descheduling with expungement",
+       "summary": "Remove cannabis from the Controlled Substances Act with expungement, resentencing and reinvestment in affected communities.",
+       "sources": [
+        {
+         "title": "Angie Nixon Jumps in The Rotation - Suncoast NORML",
+         "url": "https://www.suncoastnorml.org/post/angie-nixon-jumps-in-the-rotation-florida-u-s-senate-candidate-talks-cannabis-protest-and-people",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Repeal Trump-era tariffs",
+       "summary": "Says repealing the Trump tariffs is part of her plan to lower consumer prices.",
+       "sources": [
+        {
+         "title": "One-on-One: Senate candidate Angie Nixon outlines positions on housing, healthcare, and foreign policy - FOX 13",
+         "url": "https://www.fox13news.com/news/one-on-one-senate-candidate-angie-nixon-outlines-positions-housing-healthcare-foreign-policy",
+         "date": "2026-08"
+        }
+       ]
       }
      ],
      "record": [
@@ -1682,6 +1952,36 @@ window.GUIDE_DATA = {
        ]
       },
       {
+       "item": "Voted in February 2024 against the House joint resolution (passed 86-29) placing the inflation-indexed homestead exemption (2024 Amendment 5) on the ballot; the Washington Free Beacon reported in September 2026 that she claims the exemption on her Duval County home.",
+       "sources": [
+        {
+         "title": "Socialist Senate Nominee Angie Nixon Claims the Same Homestead Tax Exemption She Tried To Kill in Florida House - Washington Free Beacon",
+         "url": "https://freebeacon.com/democrats/socialist-senate-nominee-angie-nixon-claims-the-same-homestead-tax-exemption-she-tried-to-kill-in-florida-house/",
+         "date": "2026-09"
+        }
+       ]
+      },
+      {
+       "item": "Signed a March 2025 letter from Florida Democratic legislators urging the Public Service Commission to reject FPL's proposed rate increase.",
+       "sources": [
+        {
+         "title": "Florida Democratic Lawmakers Urge Public Service Commission to Reject FPL Rate Hike - Rep. Anna Eskamani",
+         "url": "https://annaforflorida.com/2025/03/11/florida-democratic-lawmakers-urge-public-service-commission-to-reject-fpl-rate-hike/",
+         "date": "2025-03-11"
+        }
+       ]
+      },
+      {
+       "item": "Issued a statement opposing the U.S. Supreme Court's 2026 West Virginia v. B.P.J. ruling allowing states to bar transgender girls from girls' sports teams.",
+       "sources": [
+        {
+         "title": "U.S. Senate Candidate Angie Nixon Responds to SCOTUS Ruling - angienixon.com",
+         "url": "https://angienixon.com/u-s-senate-candidate-angie-nixon-responds-to-scotus-ruling-allowing-states-to-bar-transgender-girls-from-girls-sports/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
        "item": "Voted against SB 300 (2023), the six-week abortion ban; HB 543 (2023), permitless concealed carry; HB 1 (2023), universal school vouchers; and SB 1718 (2023), the state immigration-enforcement law.",
        "sources": [
         {
@@ -1758,6 +2058,16 @@ window.GUIDE_DATA = {
          "date": "2026-09"
         }
        ]
+      },
+      {
+       "by": "Common Defense (veterans organization)",
+       "sources": [
+        {
+         "title": "Common Defense Endorses Angie Nixon for United States Senate",
+         "url": "https://commondefense.us/news/common-defense-endorses-angie-nixon-for-united-state-senate/",
+         "date": "2026"
+        }
+       ]
       }
      ]
     },
@@ -1771,139 +2081,139 @@ window.GUIDE_DATA = {
      "website": "https://neilgillespie4senate.blogspot.com/",
      "occupation": "Blogger and self-described public-interest advocate; pro se litigant and justice-reform activist",
      "residence": "Ocala, Marion County",
-     "background": "Neil J. Gillespie is an Ocala resident, blogger and self-described public-interest advocate and pro se litigant who has run for office before, including for mayor of Ocala. He qualified in June 2026 as a No Party Affiliation candidate for the U.S. Senate special election and, as an NPA candidate, advanced directly to the November 3 general election without a primary. He describes himself as a 'working-class capitalist' who is critical of the two-party 'duopoly' and of socialism. He has not completed Ballotpedia's candidate survey, and his federal campaign committee is registered with the FEC.",
+     "background": "Neil J. Gillespie, 68, is an Ocala (Oak Run) resident, blogger and founder of 'Justice Network,' which he describes as advocacy, education and news-gathering to help people fight injustice. Describing himself as a disabled non-lawyer, he has litigated pro se for years, including a challenge to the constitutionality of the federal Home Equity Conversion (reverse) Mortgage program arising from a foreclosure on his homestead that he took to the Florida Supreme Court and, by certiorari petitions, to the U.S. Supreme Court (Nos. 17-8689 and 18-7225). He has previously run for Ocala mayor and filed federal committees for president. He filed for the U.S. Senate special election in March 2026, paid the $6,060 no-party-affiliation qualifying fee in June 2026 and, as an NPA candidate, advanced directly to the November 3 general election without a primary. He describes himself as a 'working-class capitalist,' says he is fed up with the two-party 'duopoly,' invokes George Washington's warning about political factions, and promises an 'independent voice' in Washington. He has not completed Ballotpedia's candidate survey.",
      "primary_result": "No primary (NPA candidate advanced directly to the Nov 3 general election)",
      "positions": {
       "taxes": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "property_tax": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "insurance": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "housing": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "immigration": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "abortion": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "guns": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "healthcare": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "social_security": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "education_choice": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "environment": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "growth": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "marijuana": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "elections": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "crime": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "energy": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "tariffs": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       },
@@ -1917,7 +2227,7 @@ window.GUIDE_DATA = {
       "veterans": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog could not be accessed from this environment.",
+       "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
        "quote": null,
        "sources": []
       }
@@ -1925,7 +2235,7 @@ window.GUIDE_DATA = {
      "other_issues": [
       {
        "title": "Opposition to the two-party 'duopoly'",
-       "summary": "Runs as an independent critical of both major parties and of established institutions.",
+       "summary": "His central argument is opposition to the two-party system: he invokes George Washington's farewell warning about political factions and says he would give Floridians an 'independent voice' in Washington.",
        "sources": [
         {
          "title": "Who Will Florida Voters Send to the U.S. Senate in November? - Palm Beach Examiner",
@@ -1936,12 +2246,17 @@ window.GUIDE_DATA = {
          "title": "Florida 2026 Elections: Candidates for Governor, Senate & House - Politics1",
          "url": "https://politics1.com/fl.htm",
          "date": null
+        },
+        {
+         "title": "Florida U.S. Senate Voter Guide: Meet the Candidates in the 2026 Special Election - Hy-Lo News",
+         "url": "https://hylonewsmiami.com/2026/08/06/florida-u-s-senate-voter-guide-meet-the-candidates-in-the-2026-special-election/",
+         "date": "2026-08-06"
         }
        ]
       },
       {
        "title": "Justice reform / courts",
-       "summary": "Described as a pro se litigant and justice-reform activist; his blog focuses on court-system grievances.",
+       "summary": "Founder of 'Justice Network,' described as advocacy, education and news gathering to help people fight injustice; a long-time pro se litigant whose blog and YouTube channel focus on court-system and consumer grievances (including reverse-mortgage foreclosure).",
        "sources": [
         {
          "title": "Florida 2026 Elections: Candidates for Governor, Senate & House - Politics1",
@@ -1951,6 +2266,11 @@ window.GUIDE_DATA = {
         {
          "title": "Neil J. Gillespie for U.S. Senate (campaign blog)",
          "url": "https://neilgillespie4senate.blogspot.com/",
+         "date": null
+        },
+        {
+         "title": "Neil Gillespie - Justice Network - YouTube channel",
+         "url": "https://www.youtube.com/@Neil4Justice",
          "date": null
         }
        ]
@@ -1997,6 +2317,61 @@ window.GUIDE_DATA = {
          "date": null
         }
        ]
+      },
+      {
+       "item": "As a pro se litigant, petitioned the U.S. Supreme Court (Nos. 17-8689, 2018, and 18-7225, 2019) challenging the due-process constitutionality of the federal HECM reverse-mortgage program in a foreclosure case on his Ocala home (Reverse Mortgage Solutions v. Gillespie).",
+       "sources": [
+        {
+         "title": "Petition for writ of certiorari, No. 17-8689 - Supreme Court of the United States docket",
+         "url": "https://www.supremecourt.gov/DocketPDF/17/17-8689/45162/20180430165837634_00000007.pdf",
+         "date": "2018-04"
+        },
+        {
+         "title": "Petition for writ of certiorari, No. 18-7225 - Supreme Court of the United States docket",
+         "url": "https://www.supremecourt.gov/DocketPDF/18/18-7225/90171/20190228160651733_00000001.pdf",
+         "date": "2019-02"
+        },
+        {
+         "title": "Reverse Mortgage Solutions, Inc. v. Neil J. Gillespie as Co-Trustees et al (5:13-cv-00058), M.D. Fla. - PacerMonitor",
+         "url": "https://www.pacermonitor.com/public/case/1195339/Reverse_Mortgage_Solutions,_Inc_v_Neil_J_Gillespie_as_CoTrustees_et_al",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Filed a federal committee, 'Neil J. Gillespie for President,' with the FEC (filing dated January 2025) and maintains a presidential-campaign blog, in addition to his 2026 U.S. Senate committee.",
+       "sources": [
+        {
+         "title": "Neil J. Gillespie for President - FEC filing (PDF)",
+         "url": "https://docquery.fec.gov/pdf/897/202501319753183897/202501319753183897.pdf",
+         "date": "2025-01"
+        },
+        {
+         "title": "Neil J. Gillespie for President (blog)",
+         "url": "https://njg4potus.blogspot.com/",
+         "date": null
+        },
+        {
+         "title": "NEIL J GILLESPIE FOR US SENATE - committee overview - FEC.gov",
+         "url": "https://www.fec.gov/data/committee/C00943399/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Paid the $6,060 NPA qualifying fee and, per the Florida Division of Elections, qualified for the Nov 3 general election; a June 2026 candidate guide reported him as withdrawn, but Ballotpedia (Aug 28) and other August 2026 guides list him as an active candidate.",
+       "sources": [
+        {
+         "title": "Florida U.S. Senate Voter Guide: Meet the Candidates in the 2026 Special Election - Hy-Lo News",
+         "url": "https://hylonewsmiami.com/2026/08/06/florida-u-s-senate-voter-guide-meet-the-candidates-in-the-2026-special-election/",
+         "date": "2026-08-06"
+        },
+        {
+         "title": "Special election to fill the remainder of Sec. of State Marco Rubio's U.S. Senate term happening in Florida on Nov. 3 - Ballotpedia News",
+         "url": "https://news.ballotpedia.org/2026/08/28/special-election-to-fill-the-remainder-of-sec-of-state-marco-rubios-u-s-senate-term-happening-in-florida-on-nov-3/",
+         "date": "2026-08-28"
+        }
+       ]
       }
      ],
      "endorsements": []
@@ -2011,7 +2386,7 @@ window.GUIDE_DATA = {
    "office_group": "Federal",
    "term": "2 years",
    "what_it_does": "Represents Florida's 11th Congressional District, which includes all of Sumter County and The Villages plus parts of Lake, Marion, Orange and Polk counties, in the U.S. House of Representatives. Votes on federal laws and spending. This is an open seat: Rep. Daniel Webster is retiring.",
-   "verified_ballot_note": "Post-recount reports from Spectrum News 13 (Aug 24, 2026), Florida Politics, Villages-News and The Apopka Chief list three Nov. 3 general-election candidates: Joe Strada (R), James Pericola (D) and Ralph Groves (L); Ballotpedia and Florida Division of Elections pages could not be fetched from this sandbox, so the absence of NPA or write-in candidates is not independently confirmed  ;  ; .",
+   "verified_ballot_note": "Post-recount reports from Spectrum News 13 (Aug 24, 2026), Florida Politics, Villages-News and The Apopka Chief list three Nov. 3 general-election candidates: Joe Strada (R), James Pericola (D) and Ralph Groves (L); Ballotpedia and Florida Division of Elections pages could not be fetched from this sandbox, so the absence of NPA or write-in candidates is not independently confirmed  ;  ; . No general-election debate or forum among Strada, Pericola and Groves had been reported by Villages Daily Sun, WESH, Spectrum News 13 or Florida Politics as of Sept 17, 2026 in searches run for this guide.",
    "verified_ballot_sources": [
     {
      "title": "mynews13.com",
@@ -2159,9 +2534,20 @@ window.GUIDE_DATA = {
       "social_security": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "summary": "No public position found as of Sept 2026. Strada's campaign site says he will 'stand up for' seniors, but he did not answer the Vox Populi/ClickOrlando questionnaire question on protecting Social Security, and no other statement was found.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Joe Strada for Congress (campaign site)",
+         "url": "https://votestrada.com/",
+         "date": "2026"
+        },
+        {
+         "title": "Where do Republican candidates for Congressional District 11 stand on issues? VoxPopuli went to Wildwood to find out (Vox Populi / Winter Garden)",
+         "url": "https://www.wintergardenvox.com/articles/where-do-republican-candidates-for-congressional-district-11-stand-on-issues-voxpopuli-went-to-wildwood-to-find-out",
+         "date": "2026"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -2264,9 +2650,15 @@ window.GUIDE_DATA = {
       "veterans": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "summary": "No specific position on VA services found as of Sept 2026; the campaign site lists veterans among the groups he says he will 'stand up for.'",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Joe Strada for Congress (campaign site)",
+         "url": "https://votestrada.com/",
+         "date": "2026"
+        }
+       ]
       }
      },
      "other_issues": [
@@ -2394,7 +2786,7 @@ window.GUIDE_DATA = {
        ]
       },
       {
-       "item": "Declined an invitation to participate in Spectrum News 13's July 27, 2026 community conversation with District 11 candidates, and did not respond to the Vox Populi questionnaire used in the ClickOrlando/News 6 voter's guide.",
+       "item": "Declined an invitation to participate in Spectrum News 13's July 2026 AARP community conversation with District 11 candidates, did not respond to the Vox Populi questionnaire used in the ClickOrlando/News 6 voter's guide and the Vox Populi Wildwood candidate coverage (where other Republicans answered questions on protecting Social Security), and did not participate in the West Orange Times & Observer candidate questionnaire found in sources.",
        "sources": [
         {
          "title": "Community conversation with congressional candidates from District 11 (Spectrum News 13)",
@@ -2405,6 +2797,11 @@ window.GUIDE_DATA = {
          "title": "2026 Voter's Guide - US House District 11, Republican primary (ClickOrlando / News 6)",
          "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-republican-primary/",
          "date": "2026-07-31"
+        },
+        {
+         "title": "Where do Republican candidates for Congressional District 11 stand on issues? VoxPopuli went to Wildwood to find out (Vox Populi / Winter Garden)",
+         "url": "https://www.wintergardenvox.com/articles/where-do-republican-candidates-for-congressional-district-11-stand-on-issues-voxpopuli-went-to-wildwood-to-find-out",
+         "date": "2026"
         }
        ]
       },
@@ -2460,6 +2857,46 @@ window.GUIDE_DATA = {
          "title": "iVoterGuide profile: Joe Strada, FL U.S. Rep. Dist. 11",
          "url": "https://ivoterguide.com/candidate/71345",
          "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "After the primary he issued a statement turning to the general election: 'To our competitors, their supporters and those who may have sat this one out, I'm eager to earn your support and welcome you to the team as we work together toward a victory in November.' Florida's Voice reported he also criticized Democrats on taxes; the specific tax remarks could not be retrieved from this sandbox.",
+       "sources": [
+        {
+         "title": "Joe Strada looks to November after narrow FL-11 GOP primary win, takes aim at Democrats on taxes (Florida's Voice)",
+         "url": "https://flvoicenews.com/joe-strada-looks-to-november-after-narrow-fl-11-gop-primary-win-takes-aim-at-democrats-on-taxes/",
+         "date": "2026-08"
+        },
+        {
+         "title": "Strada, Pericola poised to battle for Webster's seat (The Apopka Chief)",
+         "url": "https://theapopkachief.com/strada-pericola-poised-to-battle-for-websters-seat/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "item": "Villages-News reported on Aug. 19, 2026 that Strada, who owns a Sanford air-conditioning/plumbing company and put $5 million of his own money into the race, will likely be the new congressman for the bulk of The Villages after Carey Baker conceded; no Villages-specific policy priorities from Strada were found in coverage.",
+       "sources": [
+        {
+         "title": "Businessman will likely be new Congressman for The Villages (Villages-News)",
+         "url": "https://www.villages-news.com/2026/08/19/businessman-will-likely-be-new-congressman-for-the-villages/",
+         "date": "2026-08-19"
+        }
+       ]
+      },
+      {
+       "item": "The Osceola County class action (2026 CA 002324 ON, Judge Christine E. Arendas) alleges Strada Services installed steel-core copper-clad grounding conductors instead of the copper conductors required by the National Electrical Code and Florida Building Code in new homes wired Aug. 2020-May 2022; plaintiffs' counsel maintains a case website. No public response from Strada or his campaign was found as of Sept 17, 2026.",
+       "sources": [
+        {
+         "title": "Strada Services Class Action (Lawson Huck Gonzalez, PLLC)",
+         "url": "https://stradalawsuit.com/",
+         "date": "2026"
+        },
+        {
+         "title": "The $5 Million Class Action: Joe Strada's Fraud Docket And His Bid For Congress (Steve Edward Farley, Substack)",
+         "url": "https://steveedwardfarley.substack.com/p/the-5-million-class-action-joe-stradas",
+         "date": "2026-07"
         }
        ]
       }
@@ -2578,19 +3015,40 @@ window.GUIDE_DATA = {
      "party": "Democratic",
      "incumbent": false,
      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/James_Pericola.jpg",
-     "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-     "website": null,
-     "occupation": "Attorney / legislative advocate; former federal official",
-     "residence": "Not verified (campaign launch event held in Sumter County)",
-     "background": "Pericola says he has more than 30 years of experience in public service, law, government and legislative advocacy. He served in the Clinton administration, including as Special Assistant to the Chair of the National Transportation Safety Board, where he worked with Congress and federal agencies on transportation safety and coordinated responses to major aviation incidents. He launched his campaign in June 2026 with events in Sumter County, and won the Aug. 18, 2026 Democratic primary with about 46.4% of the vote. A pre-primary poll commissioned for the race showed him leading the Democratic field and in a potential dead heat with Joe Strada.",
-     "primary_result": "Won Aug 18, 2026 Democratic primary with 46.4% (99% of precincts reporting) in a multi-candidate field (Spectrum News 13)",
+     "photo_source": "Ballotpedia candidate photo (URL pattern unverified); campaign site jamespericola.com also carries a portrait",
+     "website": "https://jamespericola.com/",
+     "occupation": "Attorney and government-relations consultant; founder of Seward Square Group (government relations and consulting firm, est. 2009)",
+     "residence": "Orlando, Orange County (per Florida Politics; campaign launch events held in Sumter County)",
+     "background": "Pericola describes more than 30 years in public service, law, government and legislative advocacy: he started as a staff assistant to U.S. Sen. Bob Graham, was a Presidential appointee in the Clinton administration (Special Assistant to the Chair of the National Transportation Safety Board, where he worked with Congress and federal agencies on transportation safety and coordinated responses to major aviation incidents), worked as congressional staff and as an attorney, and in 2009 founded Seward Square Group, a government relations and consulting firm. His LinkedIn profile lists a J.D. from The Catholic University of America's Columbus School of Law (2001-2005). Florida Politics describes him as a Central Florida native from Orlando. He launched his campaign in June 2026 with events in Sumter County, reported raising more than $100,000 in his first three weeks, and won the Aug. 18, 2026 Democratic primary with about 46.4% of the vote over Royal Webster and Dan Williams. A pre-primary poll commissioned for the race showed him leading the Democratic field and in a potential dead heat with Joe Strada.",
+     "primary_result": "Won Aug 18, 2026 Democratic primary with 46.4% (99% of precincts reporting) over Royal Webster and Dan Williams (Spectrum News 13; The Apopka Chief)",
      "positions": {
       "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Pericola says he will work to eliminate federal income taxes for people earning less than $100,000 a year and cut taxes for middle-class families. He pairs this with calls to restore Medicaid funding and protect Social Security and Medicare, so he does not frame tax cuts as coming at the expense of services.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "James Pericola for Congress (campaign site)",
+         "url": "https://jamespericola.com/",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola | BallotReady",
+         "url": "https://www.ballotready.org/people/james-pericola",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola About | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+         "date": "2026"
+        },
+        {
+         "title": "Q&A: Democratic candidates for U.S. House District 11 discuss affordability, education (The Apopka Chief)",
+         "url": "https://theapopkachief.com/qa-democratic-candidates-for-u-s-house-district-11-discuss-affordability-education/",
+         "date": "2026-08"
+        }
+       ]
       },
       "property_tax": {
        "stance": null,
@@ -2600,18 +3058,50 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Pericola says he would secure federal funding to help lower property-insurance costs. He has not addressed state-level tools such as rate caps, Citizens expansion or insurer regulation in sources found, so this is coded as leaning toward more government involvement.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "James Pericola for Congress (campaign site)",
+         "url": "https://jamespericola.com/",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola | BallotReady",
+         "url": "https://www.ballotready.org/people/james-pericola",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola About | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+         "date": "2026"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "His platform calls for securing federal funding to combat the housing crisis.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "James Pericola for Congress (campaign site)",
+         "url": "https://jamespericola.com/",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola | BallotReady",
+         "url": "https://www.ballotready.org/people/james-pericola",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola About | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+         "date": "2026"
+        }
+       ]
       },
       "immigration": {
        "stance": null,
@@ -2649,19 +3139,44 @@ window.GUIDE_DATA = {
          "title": "James Pericola: Dems need to 'give people something to vote for, not just someone to vote against' (Florida Politics)",
          "url": "https://floridapolitics.com/archives/813913-james-pericola-dems-need-to-give-people-something-to-vote-for-not-just-someone-to-vote-against/",
          "date": "2026-08"
+        },
+        {
+         "title": "James Pericola for Congress (campaign site)",
+         "url": "https://jamespericola.com/",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola About | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+         "date": "2026"
         }
        ]
       },
       "social_security": {
        "stance": 2,
        "confidence": "stated",
-       "summary": "He names protecting Social Security and Medicare as the district's top issue. He has not specified in sources found how he would finance the programs.",
+       "summary": "He names protecting Social Security and Medicare as the district's top issue, opposes any cuts to or privatization of either program, and wants to let Medicare negotiate lower prescription-drug prices. He has not specified in sources found how he would finance the programs.",
        "quote": null,
        "sources": [
         {
          "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
          "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
          "date": "2026-08-05"
+        },
+        {
+         "title": "James Pericola for Congress (campaign site)",
+         "url": "https://jamespericola.com/",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola About | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+         "date": "2026"
+        },
+        {
+         "title": "Q&A: Democratic candidates for U.S. House District 11 discuss affordability, education (The Apopka Chief)",
+         "url": "https://theapopkachief.com/qa-democratic-candidates-for-u-s-house-district-11-discuss-affordability-education/",
+         "date": "2026-08"
         }
        ]
       },
@@ -2694,11 +3209,27 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "He says he will fight to end gerrymandering and pass the John Lewis Voting Rights Act, which would restore federal preclearance of voting-law changes.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "James Pericola for Congress (campaign site)",
+         "url": "https://jamespericola.com/",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola | BallotReady",
+         "url": "https://www.ballotready.org/people/james-pericola",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola About | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+         "date": "2026"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -2722,11 +3253,27 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Pericola opposes broad tariffs, which he describes as functioning as a tax on many of the goods people buy every day. No statement on targeted or sector-specific tariffs was found.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "James Pericola for Congress (campaign site)",
+         "url": "https://jamespericola.com/",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola About | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola: Dems need to 'give people something to vote for, not just someone to vote against' (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/813913-james-pericola-dems-need-to-give-people-something-to-vote-for-not-just-someone-to-vote-against/",
+         "date": "2026-08"
+        }
+       ]
       },
       "ukraine": {
        "stance": null,
@@ -2736,11 +3283,21 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No explicit public position on the Trump administration found as of Sept 2026. Pericola is running to 'flip' the seat and calls for restoring Medicaid funding, but sources found do not contain a direct statement about the administration.",
-       "quote": "give people something to vote for, not just someone to vote against",
+       "stance": -2,
+       "confidence": "stated",
+       "summary": "Pericola's platform says he will 'defend democracy from MAGA attacks,' and he calls for restoring Medicaid funding reduced by the 2025 federal reconciliation law. He is running to flip the seat from Republican control while saying Democrats must 'give people something to vote for, not just someone to vote against.'",
+       "quote": "defend democracy from MAGA attacks",
        "sources": [
+        {
+         "title": "James Pericola for Congress (campaign site)",
+         "url": "https://jamespericola.com/",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola About | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+         "date": "2026"
+        },
         {
          "title": "James Pericola: Dems need to 'give people something to vote for, not just someone to vote against' (Florida Politics)",
          "url": "https://floridapolitics.com/archives/813913-james-pericola-dems-need-to-give-people-something-to-vote-for-not-just-someone-to-vote-against/",
@@ -2756,9 +3313,20 @@ window.GUIDE_DATA = {
       "veterans": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "summary": "No position on expanding VA services found as of Sept 2026. Pericola says his office will help constituents navigate Social Security, Medicare, veterans' benefits and other federal agencies, which is a constituent-service pledge rather than a policy position.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "James Pericola for Congress (campaign site)",
+         "url": "https://jamespericola.com/",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola About | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+         "date": "2026"
+        }
+       ]
       }
      },
      "other_issues": [
@@ -2815,6 +3383,75 @@ window.GUIDE_DATA = {
          "date": "2026-06"
         }
        ]
+      },
+      {
+       "title": "Eliminate federal income tax under $100,000",
+       "summary": "He proposes eliminating federal income taxes for people earning less than $100,000 a year and cutting taxes for middle-class families.",
+       "sources": [
+        {
+         "title": "James Pericola for Congress (campaign site)",
+         "url": "https://jamespericola.com/",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola | BallotReady",
+         "url": "https://www.ballotready.org/people/james-pericola",
+         "date": "2026"
+        },
+        {
+         "title": "Q&A: Democratic candidates for U.S. House District 11 discuss affordability, education (The Apopka Chief)",
+         "url": "https://theapopkachief.com/qa-democratic-candidates-for-u-s-house-district-11-discuss-affordability-education/",
+         "date": "2026-08"
+        }
+       ]
+      },
+      {
+       "title": "Let Medicare negotiate drug prices",
+       "summary": "He wants Medicare to negotiate lower prescription-drug costs for seniors and opposes privatization of Social Security and Medicare.",
+       "sources": [
+        {
+         "title": "James Pericola for Congress (campaign site)",
+         "url": "https://jamespericola.com/",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola About | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "End gerrymandering / John Lewis Voting Rights Act",
+       "summary": "He says he will fight to end gerrymandering and pass the John Lewis Voting Rights Act.",
+       "sources": [
+        {
+         "title": "James Pericola for Congress (campaign site)",
+         "url": "https://jamespericola.com/",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola | BallotReady",
+         "url": "https://www.ballotready.org/people/james-pericola",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Constituent services",
+       "summary": "He pledges an accessible, responsive district office to help constituents with Social Security, Medicare, veterans' benefits and other federal agencies.",
+       "sources": [
+        {
+         "title": "James Pericola for Congress (campaign site)",
+         "url": "https://jamespericola.com/",
+         "date": "2026"
+        },
+        {
+         "title": "James Pericola About | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+         "date": "2026"
+        }
+       ]
       }
      ],
      "record": [
@@ -2852,9 +3489,100 @@ window.GUIDE_DATA = {
          "date": "2026-06"
         }
        ]
+      },
+      {
+       "item": "Reported raising more than $100,000 in his first three weeks as a candidate (June-July 2026).",
+       "sources": [
+        {
+         "title": "James Pericola raised $100,000 in just three weeks for CD 11 run (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/805476-james-pericola-raised-100000-in-just-three-weeks-for-cd-11-run/",
+         "date": "2026-07"
+        },
+        {
+         "title": "FEC candidate overview: PERICOLA, JAMES (H6FL11357)",
+         "url": "https://www.fec.gov/data/candidate/H6FL11357/",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Founded Seward Square Group, a Washington-based government relations and consulting firm, in 2009; earlier served as a staff assistant to U.S. Sen. Bob Graham.",
+       "sources": [
+        {
+         "title": "James Pericola launches bid to flip CD 11 in Sumter County (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/803642-james-pericola-launches-bid-to-flip-cd-11-in-sumter-county/",
+         "date": "2026-06"
+        },
+        {
+         "title": "Jamie Pericola - Seward Square Group LLC, Founder - Biography (LegiStorm)",
+         "url": "https://www.legistorm.com/person/bio/124452/James_Michael_Pericola.html",
+         "date": null
+        },
+        {
+         "title": "James Pericola for Congress (campaign site)",
+         "url": "https://jamespericola.com/",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Participated in the Spectrum News 13 / AARP community conversation for District 11 candidates (July 2026), the ClickOrlando/News 6 Vox Populi questionnaire, the Apopka Chief Q&A and the West Orange Times & Observer candidate questionnaire; outlined his platform at The Villages Democratic Club meet-and-greet on Aug. 8, 2026.",
+       "sources": [
+        {
+         "title": "Community conversation with congressional candidates from District 11 (Spectrum News 13)",
+         "url": "https://mynews13.com/fl/orlando/politics/2026/07/27/community-conversation-congressional-district-11-candidates",
+         "date": "2026-07-27"
+        },
+        {
+         "title": "2026 Voter's Guide - US House District 11, Democratic primary (ClickOrlando / News 6)",
+         "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/",
+         "date": "2026-07-31"
+        },
+        {
+         "title": "Q&A: Democratic candidates for U.S. House District 11 discuss affordability, education (The Apopka Chief)",
+         "url": "https://theapopkachief.com/qa-democratic-candidates-for-u-s-house-district-11-discuss-affordability-education/",
+         "date": "2026-08"
+        },
+        {
+         "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+         "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+         "date": "2026-08-05"
+        },
+        {
+         "title": "Leading Democratic candidate for governor rallies voters in The Villages (Villages-News)",
+         "url": "https://www.villages-news.com/2026/08/08/leading-democratic-candidate-for-governor-rallies-voters-in-the-villages/",
+         "date": "2026-08-08"
+        }
+       ]
       }
      ],
-     "endorsements": []
+     "endorsements": [
+      {
+       "by": "Jaime Harrison, former Democratic National Committee chair",
+       "sources": [
+        {
+         "title": "James Pericola launches bid to flip CD 11 from red to blue (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/801699-james-pericola-launches-bid-to-flip-cd-11-from-red-to-blue/",
+         "date": "2026-06"
+        }
+       ]
+      },
+      {
+       "by": "Barbie Harden Hall, 2024 Democratic nominee for FL-11",
+       "sources": [
+        {
+         "title": "James Pericola launches bid to flip CD 11 in Sumter County (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/803642-james-pericola-launches-bid-to-flip-cd-11-in-sumter-county/",
+         "date": "2026-06"
+        },
+        {
+         "title": "James Pericola raised $100,000 in just three weeks for CD 11 run (Florida Politics)",
+         "url": "https://floridapolitics.com/archives/805476-james-pericola-raised-100000-in-just-three-weeks-for-cd-11-run/",
+         "date": "2026-07"
+        }
+       ]
+      }
+     ]
     },
     {
      "id": "ralph_groves",
@@ -2865,16 +3593,27 @@ window.GUIDE_DATA = {
      "photo_source": "Ballotpedia candidate photo (URL pattern unverified; campaign site grovesforcongress.com also has a portrait)",
      "website": "https://www.grovesforcongress.com/",
      "occupation": "Retired U.S. Army major; former Department of Defense analyst",
-     "residence": "Orange County (former chair of the Libertarian Party of Orange County; city not verified)",
-     "background": "Groves is a U.S. Army veteran who served in Germany and in the Iraq War and retired at the rank of major. He later worked as a Department of Defense analyst in the United Kingdom and at the Pentagon. He previously chaired the Libertarian Party of Orange County. As the only Libertarian to file, he advanced directly to the Nov. 3, 2026 general election without a primary. He says he is running to give voters a third option because many people who want more personal freedom and less government vote for the two major parties only because they do not believe a third party can win.",
+     "residence": "Ocoee, Orange County",
+     "background": "Groves holds a Doctor of Arts degree in history from St. John's University. He is a U.S. Army veteran who served in Germany and in the Iraq War and retired at the rank of major, then worked as a Department of Defense analyst in the United Kingdom and at the Pentagon; he is now retired. He says he has been active in the right-to-life movement since before 1973 and ran for Congress in New York in 1982 on the Conservative Party line with the Right to Life Party's endorsement. He lives in Ocoee, is married with five children and three grandchildren, and previously chaired the Libertarian Party of Orange County. As the only Libertarian to file, he advanced directly to the Nov. 3, 2026 general election without a primary. He says he is running to give voters a third option because many people who want more personal freedom and less government vote for the two major parties only because they do not believe a third party can win.",
      "primary_result": "No primary; sole Libertarian candidate, advanced directly to Nov 3 general election (Ballotpedia)",
      "positions": {
       "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Groves calls for reducing federal taxes to stimulate the economy, saying lower taxes will increase spending power, spur competition and eventually reduce prices, and that lower taxes and decreased regulation will spur job growth in Florida.",
+       "quote": "call for reduction of Federal taxes to stimulate the economy",
+       "sources": [
+        {
+         "title": "Mission | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
+        },
+        {
+         "title": "Ralph Groves | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/ralph-groves",
+         "date": "2026"
+        }
+       ]
       },
       "property_tax": {
        "stance": null,
@@ -2898,18 +3637,39 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 0,
+       "confidence": "stated",
+       "summary": "Groves advocates legal, regulated immigration from Latin America and elsewhere (noting his mother was a legal immigrant from Lebanon), saying it boosts the economy and population, while 'illegal and unregulated migration stresses our communities, hospitals, and schools.' He wants simplified, reasonable immigration processes. No statement on deportation or enforcement levels was found, so this is coded as mixed.",
+       "quote": "illegal and unregulated migration stresses our communities, hospitals, and schools",
+       "sources": [
+        {
+         "title": "Mission | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
+        },
+        {
+         "title": "Position Papers | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/position-papers",
+         "date": "2026"
+        },
+        {
+         "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+         "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+         "date": "2026"
+        }
+       ]
       },
       "abortion": {
        "stance": -1,
        "confidence": "stated",
-       "summary": "Groves identifies himself as 'pro-life.' No statement on Florida's six-week law or federal legislation was found.",
-       "quote": null,
+       "summary": "Groves identifies as pro-life and says he has been active in the right-to-life movement since before Roe v. Wade; in 1982 he ran for Congress in New York with the Right to Life Party's endorsement. He says that 'in extreme cases' abortion should be decided by women and their doctors rather than government, and that government should be excluded from abortion, including no government funding for Planned Parenthood. He applauds President Trump's pardons of jailed anti-abortion protesters. No statement on Florida's six-week law was found.",
+       "quote": "In extreme cases, abortion should be decided by women and their doctors, not government",
        "sources": [
+        {
+         "title": "Position Papers | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/position-papers",
+         "date": "2026"
+        },
         {
          "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
          "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
@@ -2925,17 +3685,22 @@ window.GUIDE_DATA = {
       "guns": {
        "stance": -1,
        "confidence": "stated",
-       "summary": "Groves identifies himself as 'pro-gun ownership.' No statement on red-flag laws, the purchase age or background checks was found.",
+       "summary": "Groves is a gun owner and a member of Gun Owners of America and says self-defense is a natural right. He argues gun confiscation cannot be accomplished because it would provoke civil disobedience and police would refuse to carry it out. No statement on red-flag laws, the purchase age or background checks was found.",
        "quote": null,
        "sources": [
         {
-         "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
-         "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+         "title": "Position Papers | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/position-papers",
          "date": "2026"
         },
         {
-         "title": "Groves for Congress 2026 (campaign site)",
-         "url": "https://www.grovesforcongress.com/",
+         "title": "Mission | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
+        },
+        {
+         "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+         "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
          "date": "2026"
         }
        ]
@@ -2948,18 +3713,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "He says that in Washington he 'will uphold Social Security and Medicare.' He simultaneously calls for lower federal taxes and does not say how the programs would be financed.",
+       "quote": "will uphold Social Security and Medicare",
+       "sources": [
+        {
+         "title": "Mission | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
+        },
+        {
+         "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+         "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+         "date": "2026"
+        }
+       ]
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Groves applauds the abolition of the federal Department of Education, says each state should manage education without federal regulation, and says parents should have a broad range of options including a voucher system and homeschooling.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Mission | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
+        },
+        {
+         "title": "Ralph Groves | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/ralph-groves",
+         "date": "2026"
+        }
+       ]
       },
       "environment": {
        "stance": 1,
@@ -3015,11 +3802,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "He says the U.S. will depend on fossil fuels for the proximate future and that increasing fossil-fuel output will lower transport costs and the prices of petrochemical-based products. No statement on renewable energy or utility-rate oversight was found.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Mission | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
+        },
+        {
+         "title": "Position Papers | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/position-papers",
+         "date": "2026"
+        }
+       ]
       },
       "tariffs": {
        "stance": null,
@@ -3029,25 +3827,57 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Groves calls for an immediate cease-fire with mediated peace talks and opposes deepening U.S. support for Ukraine, preferring that European allies do more to counter Russian aggression. He backs 'Defend the Guard' efforts to keep the Florida National Guard from being deployed overseas, but supports increased funding for U.S. defense industries to restock the military equipment sent to Ukraine.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Mission | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
+        },
+        {
+         "title": "Position Papers | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/position-papers",
+         "date": "2026"
+        },
+        {
+         "title": "Ralph Groves | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/ralph-groves",
+         "date": "2026"
+        }
+       ]
       },
       "trump": {
        "stance": null,
        "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No specific position on VA services found as of Sept 2026; Groves is a retired Army major and Iraq War veteran.",
+       "summary": "No overall position on the Trump administration found as of Sept 2026. Groves applauds President Trump's pardons of jailed anti-abortion protesters and the abolition of the federal Department of Education, but sources found contain no general assessment of the administration.",
        "quote": null,
        "sources": [
+        {
+         "title": "Position Papers | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/position-papers",
+         "date": "2026"
+        },
+        {
+         "title": "Mission | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
+        }
+       ]
+      },
+      "veterans": {
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "As an Iraq War veteran, Groves says he is dedicated to ensuring military personnel's needs are met through the Veterans Administration. He also supports increased Coast Guard funding. No specific VA expansion proposal was found.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Mission | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
+        },
         {
          "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
          "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
@@ -3115,6 +3945,55 @@ window.GUIDE_DATA = {
          "date": "2026"
         }
        ]
+      },
+      {
+       "title": "'Defend the Guard' / no overseas Guard deployments",
+       "summary": "He supports keeping the Florida National Guard at home rather than allowing federal deployment to Ukraine or other overseas locations, while backing more funding for defense industries to restock U.S. military equipment.",
+       "sources": [
+        {
+         "title": "Mission | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
+        },
+        {
+         "title": "Ralph Groves | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/ralph-groves",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Abolish federal Department of Education",
+       "summary": "He applauds abolition of the federal Department of Education and wants states to run education without federal regulation.",
+       "sources": [
+        {
+         "title": "Mission | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "No government funding for Planned Parenthood",
+       "summary": "He says government should be excluded from abortion, which he says means no government funding for Planned Parenthood.",
+       "sources": [
+        {
+         "title": "Position Papers | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/position-papers",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "title": "Reduce federal regulation",
+       "summary": "He says decreased regulation, along with lower taxes, will spur job growth and economic development in Florida.",
+       "sources": [
+        {
+         "title": "Mission | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/my-mission",
+         "date": "2026"
+        }
+       ]
       }
      ],
      "record": [
@@ -3144,6 +4023,41 @@ window.GUIDE_DATA = {
         {
          "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
          "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Ran for Congress in New York in 1982 on the Conservative Party line with the endorsement of the New York State Right to Life Party (campaign position paper).",
+       "sources": [
+        {
+         "title": "Position Papers | Groves for Congress 2026",
+         "url": "https://www.grovesforcongress.com/position-papers",
+         "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Registered with the FEC as a candidate for Florida's 11th District in the 2024 cycle (candidate ID H4FL11089).",
+       "sources": [
+        {
+         "title": "FEC candidate overview: GROVES, RALPH (H4FL11089), 2024 cycle",
+         "url": "https://www.fec.gov/data/candidate/H4FL11089/?cycle=2024",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Holds a Doctor of Arts degree in history from St. John's University; lives in Ocoee (Libertarian Party of Florida candidate page).",
+       "sources": [
+        {
+         "title": "Ralph Groves at Libertarian Party of Florida",
+         "url": "https://www.lpf.org/45764",
+         "date": null
+        },
+        {
+         "title": "Ralph Groves About | Local Candidates",
+         "url": "https://www.localcandidates.org/politicians/ralph-groves/about",
          "date": "2026"
         }
        ]
@@ -7641,14 +8555,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -7997,14 +8911,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -8107,7 +9021,7 @@ window.GUIDE_DATA = {
    "office_group": "County",
    "term": "4 years",
    "what_it_does": "One of five county commissioners. Sets the county property-tax rate and budget, funds the Sheriff and fire/EMS, approves land-use and zoning changes, and oversees roads, parks and county services. Elected countywide but must live in the district.",
-   "verified_ballot_note": "ClickOrlando's 2026 Voter's Guide states the winner of the District 4 Republican primary faces write-in candidate Ethan Parks in November ; Lake & Sumter Style reports Bogue won that primary with 73.04% ; Florida Money Watch lists Parks as an active write-in . Not verified against the county's official Notice of General Election (blocked). Research limitation: in this sandbox every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was exhausted, so positions are coded only from search-result snippets. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
+   "verified_ballot_note": "ClickOrlando's 2026 Voter's Guide states the winner of the District 4 Republican primary faces write-in candidate Ethan Parks in November ; Lake & Sumter Style reports Bogue won that primary with 73.04% ; Florida Money Watch lists Parks as an active write-in . Not verified against the county's official Notice of General Election (blocked). Research limitation (two passes, Sept 2026): every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was capped, so positions are coded only from search-result snippets. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
    "verified_ballot_sources": [
     {
      "title": "clickorlando.com",
@@ -8130,25 +9044,67 @@ window.GUIDE_DATA = {
      "incumbent": true,
      "photo_url": null,
      "photo_source": "Sumter County official website, District 4 commissioner page (image URL not verified; site blocked in this sandbox)",
-     "website": null,
-     "occupation": "Sumter County Commissioner, District 4",
-     "residence": "Sumter County (city not verified)",
-     "background": "Bogue is the incumbent District 4 member of the Sumter County Board of County Commissioners. He sought re-election in 2026 and won the Aug. 18, 2026 Republican primary over Michael Squier with 19,912 votes (73.04%) to Squier's 7,349 (26.96%). Because a write-in candidate (Ethan Parks) qualified, the primary was closed to Republican voters and the winner advances to face the write-in on Nov. 3, 2026. Details of his career, education and first election could not be retrieved (county site and ClickOrlando questionnaire were blocked).",
+     "website": "https://www.votejeffbogue.com/",
+     "occupation": "Sumter County Commissioner, District 4 (2nd Vice Chairman); director of emergency medical services, AdventHealth",
+     "residence": "Bushnell, Sumter County",
+     "background": "Bogue, the son of a U.S. Army colonel, settled in the Tampa Bay area as a young adult and began a career in fire and EMS, working as a firefighter/EMT, paramedic and trauma flight paramedic; his campaign biography says he is currently director of emergency medical services for AdventHealth. His family bought a 10-acre farm in Bushnell in 2014 and made it their permanent home. He served on the county's ambulance committee before filing in January 2022 to run for the District 4 commission seat, and has served on the Board of County Commissioners since 2022, currently as 2nd Vice Chairman. He sought re-election in 2026 and won the Aug. 18, 2026 Republican primary over Michael Squier with 19,912 votes (73.04%) to Squier's 7,349 (26.96%). Because write-in candidate Ethan Parks qualified, the primary was closed to Republican voters and Bogue advances to face the write-in on Nov. 3, 2026.",
      "primary_result": "Won Aug. 18, 2026 Republican primary with 73.04% (19,912 votes) over Michael Squier (26.96%, 7,349) (Lake & Sumter Style; ClickOrlando results)",
      "positions": {
       "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": -1,
+       "confidence": "record",
+       "summary": "His 2026 record leans toward preserving services over lowering the tax burden: he moved in July 2026 to eliminate the fire assessment fee, then in September 2026 voted with the full board to fully fund Fire & EMS through property-tax millage despite taxpayer objections, saying commissioners are elected 'to make the right decision for the entire county' rather than 'to take a popular vote.' In 2023 he described himself as 'never more conflicted' over a proposed fire-fee increase that was rejected 3-2 (see record). No general statement on tax cutting as a priority was found.",
+       "quote": "We are not elected simply to take a popular vote. We're elected to make the right decision for the entire county.",
+       "sources": [
+        {
+         "title": "Sumter commissioners make tough decision on funding for county fire department - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/09/16/sumter-commissioners-make-tough-decision-on-funding-for-county-fire-department/",
+         "date": "2026-09-16"
+        },
+        {
+         "title": "Outpouring of opposition snuffs out county's controversial fire assessment fees - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/07/29/outpouring-of-opposition-snuffs-out-countys-controversial-fire-assessment-fees/",
+         "date": "2026-07-29"
+        },
+        {
+         "title": "Sumter Commission splits 3-2 on hot topic of fire assessment fees - Villages-News.com",
+         "url": "https://www.villages-news.com/2023/08/22/residents-crowd-meeting-as-sumter-commissioners-to-decide-fate-of-fire-fee-increase/",
+         "date": "2023-08-22"
+        }
+       ]
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Coded from county millage votes only; no statement by Bogue on the state homestead-exemption Amendment 3 was found. In September 2025 he moved to adopt the Fire/EMS municipal service taxing unit tentative millage (0.8571), and the FY 2025-26 budget he helped adopt kept the general-fund rate at 4.89 mills, which state TRIM rules classify as a 4.75% tax increase. In July 2026 he moved to abolish the county's per-parcel fire assessment fees, and on Sept. 15, 2026, after taxpayers complained that fire-related property-tax bills had risen $1,500 or more, he joined a unanimous vote to fully fund Fire & EMS through a $4.60-per-$1,000 levy on non-Villages property on top of the 4.89-mill general rate.",
+       "quote": "We are not elected simply to take a popular vote. We're elected to make the right decision for the entire county.",
+       "sources": [
+        {
+         "title": "Sumter commissioners make tough decision on funding for county fire department - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/09/16/sumter-commissioners-make-tough-decision-on-funding-for-county-fire-department/",
+         "date": "2026-09-16"
+        },
+        {
+         "title": "Outpouring of opposition snuffs out county's controversial fire assessment fees - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/07/29/outpouring-of-opposition-snuffs-out-countys-controversial-fire-assessment-fees/",
+         "date": "2026-07-29"
+        },
+        {
+         "title": "1st Budget Hearing, Board of County Commissioners, September 16, 2025 (minutes) - Sumter County",
+         "url": "https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/27440?fileID=67935",
+         "date": "2025-09-16"
+        },
+        {
+         "title": "Sumter County Adopts the Budget for Next Fiscal Year (October 1, 2025 - September 30, 2026) - Sumter County news flash",
+         "url": "https://www.sumtercountyfl.gov/m/newsflash/home/detail/1552",
+         "date": "2025-10"
+        },
+        {
+         "title": "County Millage Rate Information - Sumter County, FL",
+         "url": "https://sumtercountyfl.gov/865/County-Millage-Rate-Information",
+         "date": null
+        }
+       ]
       },
       "insurance": {
        "stance": null,
@@ -8214,11 +9170,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "In his 2022 campaign Bogue said the county must 'reevaluate the impact fee structure so that there is not the significant disparity in age-restricted (The Villages) communities and those other communities' and must 'better control the growth rate in Sumter County.' No 2025-26 statement or vote on Villages expansion, rural-land rezonings or impact-fee levels was found in search snippets.",
+       "quote": "better control the growth rate in Sumter County",
+       "sources": [
+        {
+         "title": "Meet The Candidates (2022) - Sumter Sun Times",
+         "url": "https://www.midfloridanewspapers.com/sumter_sun_times/meet-the-candidates/article_9fbf05c0-1388-11ed-b36a-73e1df8c2e24.html",
+         "date": "2022-08"
+        },
+        {
+         "title": "Fair Government For Sumter - 2022 Candidates (Jeff Bogue questionnaire)",
+         "url": "https://www.fg4s.org/2022-candidates/",
+         "date": "2022"
+        }
+       ]
       },
       "marijuana": {
        "stance": null,
@@ -8269,14 +9236,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -8286,18 +9253,112 @@ window.GUIDE_DATA = {
      },
      "other_issues": [
       {
-       "title": "Voter guide questionnaire (content not retrievable)",
-       "summary": "Bogue and Squier answered the ClickOrlando 2026 Voter's Guide questionnaire for the District 4 Republican primary and were profiled by the Daily Commercial ('Get to know Lake & Sumter commission candidates'); the answer text could not be read in this sandbox, so no positions on impact fees, roads, The Villages vs. rural issues, fire/EMS or budget are coded.",
+       "title": "Fire assessment fees vs. property-tax funding for Fire & EMS",
+       "summary": "Bogue, an EMS administrator, has been a central vote on how Sumter County pays for its fire department. In 2023 he said he had 'never been more conflicted' over a proposed fire-fee increase (rejected 3-2). In July 2026 he moved to 'trash' the fire assessment fees entirely (approved 3-2 after a 3.5-hour hearing), and in September 2026 he voted with a unanimous board to fully fund Fire & EMS through a $4.60-per-$1,000 levy on non-Villages property rather than cut the department.",
        "sources": [
+        {
+         "title": "Outpouring of opposition snuffs out county's controversial fire assessment fees - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/07/29/outpouring-of-opposition-snuffs-out-countys-controversial-fire-assessment-fees/",
+         "date": "2026-07-29"
+        },
+        {
+         "title": "Sumter commissioners make tough decision on funding for county fire department - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/09/16/sumter-commissioners-make-tough-decision-on-funding-for-county-fire-department/",
+         "date": "2026-09-16"
+        },
+        {
+         "title": "Firefighters plead with Sumter County officials not to cut funding - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/09/09/firefighters-plead-with-sumter-county-officials-not-to-cut-funding/",
+         "date": "2026-09-09"
+        },
+        {
+         "title": "Sumter Commission splits 3-2 on hot topic of fire assessment fees - Villages-News.com",
+         "url": "https://www.villages-news.com/2023/08/22/residents-crowd-meeting-as-sumter-commissioners-to-decide-fate-of-fire-fee-increase/",
+         "date": "2023-08-22"
+        },
+        {
+         "title": "Sumter County struggles to hire new firefighters after commissioners reject fee increases - FOX 35 Orlando",
+         "url": "https://www.fox35orlando.com/news/sumter-county-struggles-to-hire-new-firefighters-after-fee-raise-fails",
+         "date": "2026"
+        },
+        {
+         "title": "Sumter County to consider new fire assessment fee rate - Spectrum News 13",
+         "url": "https://mynews13.com/fl/orlando/news/2026/07/22/sumter-county-to-consider-new-fire-assessment-fee-rate-july-",
+         "date": "2026-07-22"
+        }
+       ]
+      },
+      {
+       "title": "Impact-fee disparity between The Villages and other communities",
+       "summary": "Said in 2022 that the county must re-evaluate its impact-fee structure so there is not a 'significant disparity' between age-restricted (Villages) communities and other communities.",
+       "sources": [
+        {
+         "title": "Meet The Candidates (2022) - Sumter Sun Times",
+         "url": "https://www.midfloridanewspapers.com/sumter_sun_times/meet-the-candidates/article_9fbf05c0-1388-11ed-b36a-73e1df8c2e24.html",
+         "date": "2022-08"
+        },
+        {
+         "title": "Fair Government For Sumter - 2022 Candidates (Jeff Bogue questionnaire)",
+         "url": "https://www.fg4s.org/2022-candidates/",
+         "date": "2022"
+        }
+       ]
+      },
+      {
+       "title": "Code-enforcement fines",
+       "summary": "Challenged the county's routine practice of waiving code-enforcement fines once violations are corrected, saying at an October 2023 workshop that it made no sense to impose daily fines the county would ultimately waive.",
+       "sources": [
+        {
+         "title": "Sumter County commissioners disagree on waiving fines for derelict properties - Villages-News.com",
+         "url": "https://www.villages-news.com/2024/01/10/sumter-county-commissioners-disagree-on-waiving-fines-for-derelict-properties/",
+         "date": "2024-01-10"
+        }
+       ]
+      },
+      {
+       "title": "Road maintenance funding",
+       "summary": "As a member of the board, adopted the FY 2025-26 budget that retained the 4.89-mill general-fund rate, which the county said was done to increase funding for road maintenance; the board also approved a contract for C-470 intersection improvements in 2026 (board actions; no individual statement by Bogue found).",
+       "sources": [
+        {
+         "title": "Sumter County Adopts the Budget for Next Fiscal Year (October 1, 2025 - September 30, 2026) - Sumter County news flash",
+         "url": "https://www.sumtercountyfl.gov/m/newsflash/home/detail/1552",
+         "date": "2025-10"
+        },
+        {
+         "title": "Regular Meeting, Board of County Commissioners (minutes; C-470 intersection improvements contract) - Sumter County",
+         "url": "https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/28223?fileID=70260",
+         "date": "2026-02-10"
+        },
+        {
+         "title": "Final Budget Hearing, Board of County Commissioners, September 30, 2025 (minutes) - Sumter County",
+         "url": "https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/27572?fileID=68161",
+         "date": "2025-09-30"
+        }
+       ]
+      },
+      {
+       "title": "Voter-guide questionnaires",
+       "summary": "The Daily Commercial reported that Bogue did not answer its 2026 candidate questionnaire but posted a candidate profile on the Sumter County Supervisor of Elections website. ClickOrlando's 2026 Voter's Guide for the District 4 primary features Bogue and Squier; its questionnaire text and any Ballotpedia survey could not be read in this sandbox.",
+       "sources": [
+        {
+         "title": "Get to know Lake & Sumter commission candidates before primary - Daily Commercial via Yahoo News",
+         "url": "https://www.yahoo.com/news/politics/articles/know-lake-sumter-commission-candidates-231440397.html",
+         "date": "2026-08"
+        },
+        {
+         "title": "Get to know Lake & Sumter commission candidates before primary - Daily Commercial via AOL",
+         "url": "https://www.aol.com/articles/know-lake-sumter-commission-candidates-231440000.html",
+         "date": "2026-08"
+        },
         {
          "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
          "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
          "date": "2026-07-31"
         },
         {
-         "title": "Get to know Lake & Sumter commission candidates before primary - Yahoo News (Daily Commercial)",
-         "url": "https://www.yahoo.com/news/politics/articles/know-lake-sumter-commission-candidates-231440397.html",
-         "date": "2026-08"
+         "title": "Jeffrey Bogue (Sumter County Board of County Commissioners District 4, Florida, candidate 2026) - Ballotpedia",
+         "url": "https://ballotpedia.org/Jeffrey_Bogue_(Sumter_County_Board_of_County_Commissioners_District_4,_Florida,_candidate_2026)",
+         "date": null
         }
        ]
       }
@@ -8315,6 +9376,106 @@ window.GUIDE_DATA = {
          "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
          "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
          "date": "2026-07-31"
+        }
+       ]
+      },
+      {
+       "item": "Served on Sumter County's ambulance committee before filing in January 2022 to run for the District 4 seat; elected in 2022 and currently 2nd Vice Chairman of the board.",
+       "sources": [
+        {
+         "title": "Ambulance committee member files to run for Sumter County Commission - Villages-News.com",
+         "url": "https://www.villages-news.com/2022/01/19/ambulance-committee-member-files-to-run-for-sumter-county-commission/",
+         "date": "2022-01-19"
+        },
+        {
+         "title": "District 4 - Sumter County, FL official website",
+         "url": "https://www.sumtercountyfl.gov/161/District-4",
+         "date": null
+        },
+        {
+         "title": "Get to know Lake & Sumter commission candidates before primary - Daily Commercial via Yahoo News",
+         "url": "https://www.yahoo.com/news/politics/articles/know-lake-sumter-commission-candidates-231440397.html",
+         "date": "2026-08"
+        },
+        {
+         "title": "About - Jeff Bogue for Sumter County Commissioner (campaign site)",
+         "url": "https://www.votejeffbogue.com/about",
+         "date": null
+        }
+       ]
+      },
+      {
+       "item": "Aug. 22, 2023: in the board's 3-2 vote on a proposed fire assessment increase (from $124 to $323.64 per residence), Bogue voted with Commissioner Craig Estep and said he did not want to see firefighters laid off but had 'never been more conflicted about a decision.' The increase was rejected; the fire chief subsequently reported a $12.2-million shortfall, 30 layoffs and cancelled hiring. (Which side of the 3-2 split Bogue and Estep were on could not be confirmed from search snippets.)",
+       "sources": [
+        {
+         "title": "Sumter Commission splits 3-2 on hot topic of fire assessment fees - Villages-News.com",
+         "url": "https://www.villages-news.com/2023/08/22/residents-crowd-meeting-as-sumter-commissioners-to-decide-fate-of-fire-fee-increase/",
+         "date": "2023-08-22"
+        },
+        {
+         "title": "Sumter County begins feeling impact of rejection of fire assessment fee increases - Villages-News.com",
+         "url": "https://www.villages-news.com/2023/09/06/sumter-county-begins-feeling-impact-of-rejection-of-fire-assessment-fee-increases/",
+         "date": "2023-09-06"
+        },
+        {
+         "title": "Sumter County fire and emergency services face financial cuts - Spectrum News 13",
+         "url": "https://mynews13.com/fl/orlando/news/2023/09/06/sumter-county-fire-services-face-financial-cuts",
+         "date": "2023-09-06"
+        }
+       ]
+      },
+      {
+       "item": "Sept. 16, 2025: moved to adopt the Fire and EMS MSTU tentative millage rate of 0.8571 for FY 2025-26; the board's final budget kept the general-fund rate at 4.89 mills (a 4.75% increase under TRIM rules) to increase road-maintenance funding.",
+       "sources": [
+        {
+         "title": "1st Budget Hearing, Board of County Commissioners, September 16, 2025 (minutes) - Sumter County",
+         "url": "https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/27440?fileID=67935",
+         "date": "2025-09-16"
+        },
+        {
+         "title": "Final Budget Hearing, Board of County Commissioners, September 30, 2025 (minutes) - Sumter County",
+         "url": "https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/27572?fileID=68161",
+         "date": "2025-09-30"
+        },
+        {
+         "title": "Sumter County Adopts the Budget for Next Fiscal Year (October 1, 2025 - September 30, 2026) - Sumter County news flash",
+         "url": "https://www.sumtercountyfl.gov/m/newsflash/home/detail/1552",
+         "date": "2025-10"
+        }
+       ]
+      },
+      {
+       "item": "July 28, 2026: after a 3.5-hour public hearing, moved to eliminate ('trash') the county's fire assessment fees for FY 2026-27; the board set the assessment at zero on a 3-2 vote.",
+       "sources": [
+        {
+         "title": "Outpouring of opposition snuffs out county's controversial fire assessment fees - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/07/29/outpouring-of-opposition-snuffs-out-countys-controversial-fire-assessment-fees/",
+         "date": "2026-07-29"
+        },
+        {
+         "title": "Sumter County to consider new fire assessment fee rate - Spectrum News 13",
+         "url": "https://mynews13.com/fl/orlando/news/2026/07/22/sumter-county-to-consider-new-fire-assessment-fee-rate-july-",
+         "date": "2026-07-22"
+        },
+        {
+         "title": "Sumter commissioners to vote on new method for calculating fire assessments - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/05/27/sumter-commissioners-to-vote-on-new-method-for-calculating-fire-assessments/",
+         "date": "2026-05-27"
+        }
+       ]
+      },
+      {
+       "item": "Sept. 15, 2026: voted with a unanimous board to fully fund Sumter County Fire & EMS for FY 2026-27 through property-tax millage ($4.60 per $1,000 on non-Villages property on top of the 4.89-mill general rate; countywide property-tax collections projected at $127.9 million, up 9.4%). Final budget vote scheduled Sept. 29, 2026.",
+       "sources": [
+        {
+         "title": "Sumter commissioners make tough decision on funding for county fire department - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/09/16/sumter-commissioners-make-tough-decision-on-funding-for-county-fire-department/",
+         "date": "2026-09-16"
+        },
+        {
+         "title": "Firefighters plead with Sumter County officials not to cut funding - Villages-News.com",
+         "url": "https://www.villages-news.com/2026/09/09/firefighters-plead-with-sumter-county-officials-not-to-cut-funding/",
+         "date": "2026-09-09"
         }
        ]
       },
@@ -8493,14 +9654,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",

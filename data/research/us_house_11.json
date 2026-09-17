@@ -1,6 +1,6 @@
 {
   "race_id": "us_house_11",
-  "verified_ballot_note": "Post-recount reports from Spectrum News 13 (Aug 24, 2026), Florida Politics, Villages-News and The Apopka Chief list three Nov. 3 general-election candidates: Joe Strada (R), James Pericola (D) and Ralph Groves (L); Ballotpedia and Florida Division of Elections pages could not be fetched from this sandbox, so the absence of NPA or write-in candidates is not independently confirmed (https://mynews13.com/fl/orlando/news/2026/08/24/recount-confirms-strada-wins-the-republican-nomination-for-congressional-district-11 ; https://floridapolitics.com/archives/816388-with-recount-complete-joe-strada-advances-to-general-election-in-cd-11/ ; https://ballotpedia.org/Florida's_11th_Congressional_District_election,_2026).",
+  "verified_ballot_note": "Post-recount reports from Spectrum News 13 (Aug 24, 2026), Florida Politics, Villages-News and The Apopka Chief list three Nov. 3 general-election candidates: Joe Strada (R), James Pericola (D) and Ralph Groves (L); Ballotpedia and Florida Division of Elections pages could not be fetched from this sandbox, so the absence of NPA or write-in candidates is not independently confirmed (https://mynews13.com/fl/orlando/news/2026/08/24/recount-confirms-strada-wins-the-republican-nomination-for-congressional-district-11 ; https://floridapolitics.com/archives/816388-with-recount-complete-joe-strada-advances-to-general-election-in-cd-11/ ; https://ballotpedia.org/Florida's_11th_Congressional_District_election,_2026). No general-election debate or forum among Strada, Pericola and Groves had been reported by Villages Daily Sun, WESH, Spectrum News 13 or Florida Politics as of Sept 17, 2026 in searches run for this guide.",
   "candidates": [
     {
       "id": "joe_strada",
@@ -134,9 +134,20 @@
         "social_security": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "No public position found as of Sept 2026. Strada's campaign site says he will 'stand up for' seniors, but he did not answer the Vox Populi/ClickOrlando questionnaire question on protecting Social Security, and no other statement was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Joe Strada for Congress (campaign site)",
+              "url": "https://votestrada.com/",
+              "date": "2026"
+            },
+            {
+              "title": "Where do Republican candidates for Congressional District 11 stand on issues? VoxPopuli went to Wildwood to find out (Vox Populi / Winter Garden)",
+              "url": "https://www.wintergardenvox.com/articles/where-do-republican-candidates-for-congressional-district-11-stand-on-issues-voxpopuli-went-to-wildwood-to-find-out",
+              "date": "2026"
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -239,9 +250,15 @@
         "veterans": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "No specific position on VA services found as of Sept 2026; the campaign site lists veterans among the groups he says he will 'stand up for.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Joe Strada for Congress (campaign site)",
+              "url": "https://votestrada.com/",
+              "date": "2026"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -369,7 +386,7 @@
           ]
         },
         {
-          "item": "Declined an invitation to participate in Spectrum News 13's July 27, 2026 community conversation with District 11 candidates, and did not respond to the Vox Populi questionnaire used in the ClickOrlando/News 6 voter's guide.",
+          "item": "Declined an invitation to participate in Spectrum News 13's July 2026 AARP community conversation with District 11 candidates, did not respond to the Vox Populi questionnaire used in the ClickOrlando/News 6 voter's guide and the Vox Populi Wildwood candidate coverage (where other Republicans answered questions on protecting Social Security), and did not participate in the West Orange Times & Observer candidate questionnaire found in sources.",
           "sources": [
             {
               "title": "Community conversation with congressional candidates from District 11 (Spectrum News 13)",
@@ -380,6 +397,11 @@
               "title": "2026 Voter's Guide - US House District 11, Republican primary (ClickOrlando / News 6)",
               "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-republican-primary/",
               "date": "2026-07-31"
+            },
+            {
+              "title": "Where do Republican candidates for Congressional District 11 stand on issues? VoxPopuli went to Wildwood to find out (Vox Populi / Winter Garden)",
+              "url": "https://www.wintergardenvox.com/articles/where-do-republican-candidates-for-congressional-district-11-stand-on-issues-voxpopuli-went-to-wildwood-to-find-out",
+              "date": "2026"
             }
           ]
         },
@@ -435,6 +457,46 @@
               "title": "iVoterGuide profile: Joe Strada, FL U.S. Rep. Dist. 11",
               "url": "https://ivoterguide.com/candidate/71345",
               "date": "2026"
+            }
+          ]
+        },
+        {
+          "item": "After the primary he issued a statement turning to the general election: 'To our competitors, their supporters and those who may have sat this one out, I'm eager to earn your support and welcome you to the team as we work together toward a victory in November.' Florida's Voice reported he also criticized Democrats on taxes; the specific tax remarks could not be retrieved from this sandbox.",
+          "sources": [
+            {
+              "title": "Joe Strada looks to November after narrow FL-11 GOP primary win, takes aim at Democrats on taxes (Florida's Voice)",
+              "url": "https://flvoicenews.com/joe-strada-looks-to-november-after-narrow-fl-11-gop-primary-win-takes-aim-at-democrats-on-taxes/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Strada, Pericola poised to battle for Webster's seat (The Apopka Chief)",
+              "url": "https://theapopkachief.com/strada-pericola-poised-to-battle-for-websters-seat/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "item": "Villages-News reported on Aug. 19, 2026 that Strada, who owns a Sanford air-conditioning/plumbing company and put $5 million of his own money into the race, will likely be the new congressman for the bulk of The Villages after Carey Baker conceded; no Villages-specific policy priorities from Strada were found in coverage.",
+          "sources": [
+            {
+              "title": "Businessman will likely be new Congressman for The Villages (Villages-News)",
+              "url": "https://www.villages-news.com/2026/08/19/businessman-will-likely-be-new-congressman-for-the-villages/",
+              "date": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "item": "The Osceola County class action (2026 CA 002324 ON, Judge Christine E. Arendas) alleges Strada Services installed steel-core copper-clad grounding conductors instead of the copper conductors required by the National Electrical Code and Florida Building Code in new homes wired Aug. 2020-May 2022; plaintiffs' counsel maintains a case website. No public response from Strada or his campaign was found as of Sept 17, 2026.",
+          "sources": [
+            {
+              "title": "Strada Services Class Action (Lawson Huck Gonzalez, PLLC)",
+              "url": "https://stradalawsuit.com/",
+              "date": "2026"
+            },
+            {
+              "title": "The $5 Million Class Action: Joe Strada's Fraud Docket And His Bid For Congress (Steve Edward Farley, Substack)",
+              "url": "https://steveedwardfarley.substack.com/p/the-5-million-class-action-joe-stradas",
+              "date": "2026-07"
             }
           ]
         }
@@ -553,19 +615,40 @@
       "party": "Democratic",
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/James_Pericola.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Attorney / legislative advocate; former federal official",
-      "residence": "Not verified (campaign launch event held in Sumter County)",
-      "background": "Pericola says he has more than 30 years of experience in public service, law, government and legislative advocacy. He served in the Clinton administration, including as Special Assistant to the Chair of the National Transportation Safety Board, where he worked with Congress and federal agencies on transportation safety and coordinated responses to major aviation incidents. He launched his campaign in June 2026 with events in Sumter County, and won the Aug. 18, 2026 Democratic primary with about 46.4% of the vote. A pre-primary poll commissioned for the race showed him leading the Democratic field and in a potential dead heat with Joe Strada.",
-      "primary_result": "Won Aug 18, 2026 Democratic primary with 46.4% (99% of precincts reporting) in a multi-candidate field (Spectrum News 13)",
+      "photo_source": "Ballotpedia candidate photo (URL pattern unverified); campaign site jamespericola.com also carries a portrait",
+      "website": "https://jamespericola.com/",
+      "occupation": "Attorney and government-relations consultant; founder of Seward Square Group (government relations and consulting firm, est. 2009)",
+      "residence": "Orlando, Orange County (per Florida Politics; campaign launch events held in Sumter County)",
+      "background": "Pericola describes more than 30 years in public service, law, government and legislative advocacy: he started as a staff assistant to U.S. Sen. Bob Graham, was a Presidential appointee in the Clinton administration (Special Assistant to the Chair of the National Transportation Safety Board, where he worked with Congress and federal agencies on transportation safety and coordinated responses to major aviation incidents), worked as congressional staff and as an attorney, and in 2009 founded Seward Square Group, a government relations and consulting firm. His LinkedIn profile lists a J.D. from The Catholic University of America's Columbus School of Law (2001-2005). Florida Politics describes him as a Central Florida native from Orlando. He launched his campaign in June 2026 with events in Sumter County, reported raising more than $100,000 in his first three weeks, and won the Aug. 18, 2026 Democratic primary with about 46.4% of the vote over Royal Webster and Dan Williams. A pre-primary poll commissioned for the race showed him leading the Democratic field and in a potential dead heat with Joe Strada.",
+      "primary_result": "Won Aug 18, 2026 Democratic primary with 46.4% (99% of precincts reporting) over Royal Webster and Dan Williams (Spectrum News 13; The Apopka Chief)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pericola says he will work to eliminate federal income taxes for people earning less than $100,000 a year and cut taxes for middle-class families. He pairs this with calls to restore Medicaid funding and protect Social Security and Medicare, so he does not frame tax cuts as coming at the expense of services.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "James Pericola for Congress (campaign site)",
+              "url": "https://jamespericola.com/",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola | BallotReady",
+              "url": "https://www.ballotready.org/people/james-pericola",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola About | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+              "date": "2026"
+            },
+            {
+              "title": "Q&A: Democratic candidates for U.S. House District 11 discuss affordability, education (The Apopka Chief)",
+              "url": "https://theapopkachief.com/qa-democratic-candidates-for-u-s-house-district-11-discuss-affordability-education/",
+              "date": "2026-08"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -575,18 +658,50 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pericola says he would secure federal funding to help lower property-insurance costs. He has not addressed state-level tools such as rate caps, Citizens expansion or insurer regulation in sources found, so this is coded as leaning toward more government involvement.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "James Pericola for Congress (campaign site)",
+              "url": "https://jamespericola.com/",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola | BallotReady",
+              "url": "https://www.ballotready.org/people/james-pericola",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola About | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+              "date": "2026"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His platform calls for securing federal funding to combat the housing crisis.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "James Pericola for Congress (campaign site)",
+              "url": "https://jamespericola.com/",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola | BallotReady",
+              "url": "https://www.ballotready.org/people/james-pericola",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola About | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+              "date": "2026"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -624,19 +739,44 @@
               "title": "James Pericola: Dems need to 'give people something to vote for, not just someone to vote against' (Florida Politics)",
               "url": "https://floridapolitics.com/archives/813913-james-pericola-dems-need-to-give-people-something-to-vote-for-not-just-someone-to-vote-against/",
               "date": "2026-08"
+            },
+            {
+              "title": "James Pericola for Congress (campaign site)",
+              "url": "https://jamespericola.com/",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola About | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+              "date": "2026"
             }
           ]
         },
         "social_security": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "He names protecting Social Security and Medicare as the district's top issue. He has not specified in sources found how he would finance the programs.",
+          "summary": "He names protecting Social Security and Medicare as the district's top issue, opposes any cuts to or privatization of either program, and wants to let Medicare negotiate lower prescription-drug prices. He has not specified in sources found how he would finance the programs.",
           "quote": null,
           "sources": [
             {
               "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
               "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
               "date": "2026-08-05"
+            },
+            {
+              "title": "James Pericola for Congress (campaign site)",
+              "url": "https://jamespericola.com/",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola About | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+              "date": "2026"
+            },
+            {
+              "title": "Q&A: Democratic candidates for U.S. House District 11 discuss affordability, education (The Apopka Chief)",
+              "url": "https://theapopkachief.com/qa-democratic-candidates-for-u-s-house-district-11-discuss-affordability-education/",
+              "date": "2026-08"
             }
           ]
         },
@@ -669,11 +809,27 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says he will fight to end gerrymandering and pass the John Lewis Voting Rights Act, which would restore federal preclearance of voting-law changes.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "James Pericola for Congress (campaign site)",
+              "url": "https://jamespericola.com/",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola | BallotReady",
+              "url": "https://www.ballotready.org/people/james-pericola",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola About | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+              "date": "2026"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -697,11 +853,27 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Pericola opposes broad tariffs, which he describes as functioning as a tax on many of the goods people buy every day. No statement on targeted or sector-specific tariffs was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "James Pericola for Congress (campaign site)",
+              "url": "https://jamespericola.com/",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola About | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola: Dems need to 'give people something to vote for, not just someone to vote against' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/813913-james-pericola-dems-need-to-give-people-something-to-vote-for-not-just-someone-to-vote-against/",
+              "date": "2026-08"
+            }
+          ]
         },
         "ukraine": {
           "stance": null,
@@ -711,11 +883,21 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No explicit public position on the Trump administration found as of Sept 2026. Pericola is running to 'flip' the seat and calls for restoring Medicaid funding, but sources found do not contain a direct statement about the administration.",
-          "quote": "give people something to vote for, not just someone to vote against",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Pericola's platform says he will 'defend democracy from MAGA attacks,' and he calls for restoring Medicaid funding reduced by the 2025 federal reconciliation law. He is running to flip the seat from Republican control while saying Democrats must 'give people something to vote for, not just someone to vote against.'",
+          "quote": "defend democracy from MAGA attacks",
           "sources": [
+            {
+              "title": "James Pericola for Congress (campaign site)",
+              "url": "https://jamespericola.com/",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola About | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+              "date": "2026"
+            },
             {
               "title": "James Pericola: Dems need to 'give people something to vote for, not just someone to vote against' (Florida Politics)",
               "url": "https://floridapolitics.com/archives/813913-james-pericola-dems-need-to-give-people-something-to-vote-for-not-just-someone-to-vote-against/",
@@ -731,9 +913,20 @@
         "veterans": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "No position on expanding VA services found as of Sept 2026. Pericola says his office will help constituents navigate Social Security, Medicare, veterans' benefits and other federal agencies, which is a constituent-service pledge rather than a policy position.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "James Pericola for Congress (campaign site)",
+              "url": "https://jamespericola.com/",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola About | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+              "date": "2026"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -790,6 +983,75 @@
               "date": "2026-06"
             }
           ]
+        },
+        {
+          "title": "Eliminate federal income tax under $100,000",
+          "summary": "He proposes eliminating federal income taxes for people earning less than $100,000 a year and cutting taxes for middle-class families.",
+          "sources": [
+            {
+              "title": "James Pericola for Congress (campaign site)",
+              "url": "https://jamespericola.com/",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola | BallotReady",
+              "url": "https://www.ballotready.org/people/james-pericola",
+              "date": "2026"
+            },
+            {
+              "title": "Q&A: Democratic candidates for U.S. House District 11 discuss affordability, education (The Apopka Chief)",
+              "url": "https://theapopkachief.com/qa-democratic-candidates-for-u-s-house-district-11-discuss-affordability-education/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "title": "Let Medicare negotiate drug prices",
+          "summary": "He wants Medicare to negotiate lower prescription-drug costs for seniors and opposes privatization of Social Security and Medicare.",
+          "sources": [
+            {
+              "title": "James Pericola for Congress (campaign site)",
+              "url": "https://jamespericola.com/",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola About | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "End gerrymandering / John Lewis Voting Rights Act",
+          "summary": "He says he will fight to end gerrymandering and pass the John Lewis Voting Rights Act.",
+          "sources": [
+            {
+              "title": "James Pericola for Congress (campaign site)",
+              "url": "https://jamespericola.com/",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola | BallotReady",
+              "url": "https://www.ballotready.org/people/james-pericola",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Constituent services",
+          "summary": "He pledges an accessible, responsive district office to help constituents with Social Security, Medicare, veterans' benefits and other federal agencies.",
+          "sources": [
+            {
+              "title": "James Pericola for Congress (campaign site)",
+              "url": "https://jamespericola.com/",
+              "date": "2026"
+            },
+            {
+              "title": "James Pericola About | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/james-pericola/about",
+              "date": "2026"
+            }
+          ]
         }
       ],
       "record": [
@@ -827,9 +1089,100 @@
               "date": "2026-06"
             }
           ]
+        },
+        {
+          "item": "Reported raising more than $100,000 in his first three weeks as a candidate (June-July 2026).",
+          "sources": [
+            {
+              "title": "James Pericola raised $100,000 in just three weeks for CD 11 run (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/805476-james-pericola-raised-100000-in-just-three-weeks-for-cd-11-run/",
+              "date": "2026-07"
+            },
+            {
+              "title": "FEC candidate overview: PERICOLA, JAMES (H6FL11357)",
+              "url": "https://www.fec.gov/data/candidate/H6FL11357/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Founded Seward Square Group, a Washington-based government relations and consulting firm, in 2009; earlier served as a staff assistant to U.S. Sen. Bob Graham.",
+          "sources": [
+            {
+              "title": "James Pericola launches bid to flip CD 11 in Sumter County (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/803642-james-pericola-launches-bid-to-flip-cd-11-in-sumter-county/",
+              "date": "2026-06"
+            },
+            {
+              "title": "Jamie Pericola - Seward Square Group LLC, Founder - Biography (LegiStorm)",
+              "url": "https://www.legistorm.com/person/bio/124452/James_Michael_Pericola.html",
+              "date": null
+            },
+            {
+              "title": "James Pericola for Congress (campaign site)",
+              "url": "https://jamespericola.com/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "item": "Participated in the Spectrum News 13 / AARP community conversation for District 11 candidates (July 2026), the ClickOrlando/News 6 Vox Populi questionnaire, the Apopka Chief Q&A and the West Orange Times & Observer candidate questionnaire; outlined his platform at The Villages Democratic Club meet-and-greet on Aug. 8, 2026.",
+          "sources": [
+            {
+              "title": "Community conversation with congressional candidates from District 11 (Spectrum News 13)",
+              "url": "https://mynews13.com/fl/orlando/politics/2026/07/27/community-conversation-congressional-district-11-candidates",
+              "date": "2026-07-27"
+            },
+            {
+              "title": "2026 Voter's Guide - US House District 11, Democratic primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Q&A: Democratic candidates for U.S. House District 11 discuss affordability, education (The Apopka Chief)",
+              "url": "https://theapopkachief.com/qa-democratic-candidates-for-u-s-house-district-11-discuss-affordability-education/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
+              "url": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/",
+              "date": "2026-08-05"
+            },
+            {
+              "title": "Leading Democratic candidate for governor rallies voters in The Villages (Villages-News)",
+              "url": "https://www.villages-news.com/2026/08/08/leading-democratic-candidate-for-governor-rallies-voters-in-the-villages/",
+              "date": "2026-08-08"
+            }
+          ]
         }
       ],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "Jaime Harrison, former Democratic National Committee chair",
+          "sources": [
+            {
+              "title": "James Pericola launches bid to flip CD 11 from red to blue (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/801699-james-pericola-launches-bid-to-flip-cd-11-from-red-to-blue/",
+              "date": "2026-06"
+            }
+          ]
+        },
+        {
+          "by": "Barbie Harden Hall, 2024 Democratic nominee for FL-11",
+          "sources": [
+            {
+              "title": "James Pericola launches bid to flip CD 11 in Sumter County (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/803642-james-pericola-launches-bid-to-flip-cd-11-in-sumter-county/",
+              "date": "2026-06"
+            },
+            {
+              "title": "James Pericola raised $100,000 in just three weeks for CD 11 run (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/805476-james-pericola-raised-100000-in-just-three-weeks-for-cd-11-run/",
+              "date": "2026-07"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "ralph_groves",
@@ -840,16 +1193,27 @@
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified; campaign site grovesforcongress.com also has a portrait)",
       "website": "https://www.grovesforcongress.com/",
       "occupation": "Retired U.S. Army major; former Department of Defense analyst",
-      "residence": "Orange County (former chair of the Libertarian Party of Orange County; city not verified)",
-      "background": "Groves is a U.S. Army veteran who served in Germany and in the Iraq War and retired at the rank of major. He later worked as a Department of Defense analyst in the United Kingdom and at the Pentagon. He previously chaired the Libertarian Party of Orange County. As the only Libertarian to file, he advanced directly to the Nov. 3, 2026 general election without a primary. He says he is running to give voters a third option because many people who want more personal freedom and less government vote for the two major parties only because they do not believe a third party can win.",
+      "residence": "Ocoee, Orange County",
+      "background": "Groves holds a Doctor of Arts degree in history from St. John's University. He is a U.S. Army veteran who served in Germany and in the Iraq War and retired at the rank of major, then worked as a Department of Defense analyst in the United Kingdom and at the Pentagon; he is now retired. He says he has been active in the right-to-life movement since before 1973 and ran for Congress in New York in 1982 on the Conservative Party line with the Right to Life Party's endorsement. He lives in Ocoee, is married with five children and three grandchildren, and previously chaired the Libertarian Party of Orange County. As the only Libertarian to file, he advanced directly to the Nov. 3, 2026 general election without a primary. He says he is running to give voters a third option because many people who want more personal freedom and less government vote for the two major parties only because they do not believe a third party can win.",
       "primary_result": "No primary; sole Libertarian candidate, advanced directly to Nov 3 general election (Ballotpedia)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Groves calls for reducing federal taxes to stimulate the economy, saying lower taxes will increase spending power, spur competition and eventually reduce prices, and that lower taxes and decreased regulation will spur job growth in Florida.",
+          "quote": "call for reduction of Federal taxes to stimulate the economy",
+          "sources": [
+            {
+              "title": "Mission | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
+            },
+            {
+              "title": "Ralph Groves | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/ralph-groves",
+              "date": "2026"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -873,18 +1237,39 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Groves advocates legal, regulated immigration from Latin America and elsewhere (noting his mother was a legal immigrant from Lebanon), saying it boosts the economy and population, while 'illegal and unregulated migration stresses our communities, hospitals, and schools.' He wants simplified, reasonable immigration processes. No statement on deportation or enforcement levels was found, so this is coded as mixed.",
+          "quote": "illegal and unregulated migration stresses our communities, hospitals, and schools",
+          "sources": [
+            {
+              "title": "Mission | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
+            },
+            {
+              "title": "Position Papers | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/position-papers",
+              "date": "2026"
+            },
+            {
+              "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+              "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+              "date": "2026"
+            }
+          ]
         },
         "abortion": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "Groves identifies himself as 'pro-life.' No statement on Florida's six-week law or federal legislation was found.",
-          "quote": null,
+          "summary": "Groves identifies as pro-life and says he has been active in the right-to-life movement since before Roe v. Wade; in 1982 he ran for Congress in New York with the Right to Life Party's endorsement. He says that 'in extreme cases' abortion should be decided by women and their doctors rather than government, and that government should be excluded from abortion, including no government funding for Planned Parenthood. He applauds President Trump's pardons of jailed anti-abortion protesters. No statement on Florida's six-week law was found.",
+          "quote": "In extreme cases, abortion should be decided by women and their doctors, not government",
           "sources": [
+            {
+              "title": "Position Papers | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/position-papers",
+              "date": "2026"
+            },
             {
               "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
               "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
@@ -900,17 +1285,22 @@
         "guns": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "Groves identifies himself as 'pro-gun ownership.' No statement on red-flag laws, the purchase age or background checks was found.",
+          "summary": "Groves is a gun owner and a member of Gun Owners of America and says self-defense is a natural right. He argues gun confiscation cannot be accomplished because it would provoke civil disobedience and police would refuse to carry it out. No statement on red-flag laws, the purchase age or background checks was found.",
           "quote": null,
           "sources": [
             {
-              "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
-              "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+              "title": "Position Papers | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/position-papers",
               "date": "2026"
             },
             {
-              "title": "Groves for Congress 2026 (campaign site)",
-              "url": "https://www.grovesforcongress.com/",
+              "title": "Mission | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
+            },
+            {
+              "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+              "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
               "date": "2026"
             }
           ]
@@ -923,18 +1313,40 @@
           "sources": []
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says that in Washington he 'will uphold Social Security and Medicare.' He simultaneously calls for lower federal taxes and does not say how the programs would be financed.",
+          "quote": "will uphold Social Security and Medicare",
+          "sources": [
+            {
+              "title": "Mission | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
+            },
+            {
+              "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
+              "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+              "date": "2026"
+            }
+          ]
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Groves applauds the abolition of the federal Department of Education, says each state should manage education without federal regulation, and says parents should have a broad range of options including a voucher system and homeschooling.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Mission | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
+            },
+            {
+              "title": "Ralph Groves | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/ralph-groves",
+              "date": "2026"
+            }
+          ]
         },
         "environment": {
           "stance": 1,
@@ -990,11 +1402,22 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "He says the U.S. will depend on fossil fuels for the proximate future and that increasing fossil-fuel output will lower transport costs and the prices of petrochemical-based products. No statement on renewable energy or utility-rate oversight was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Mission | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
+            },
+            {
+              "title": "Position Papers | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/position-papers",
+              "date": "2026"
+            }
+          ]
         },
         "tariffs": {
           "stance": null,
@@ -1004,25 +1427,57 @@
           "sources": []
         },
         "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Groves calls for an immediate cease-fire with mediated peace talks and opposes deepening U.S. support for Ukraine, preferring that European allies do more to counter Russian aggression. He backs 'Defend the Guard' efforts to keep the Florida National Guard from being deployed overseas, but supports increased funding for U.S. defense industries to restock the military equipment sent to Ukraine.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Mission | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
+            },
+            {
+              "title": "Position Papers | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/position-papers",
+              "date": "2026"
+            },
+            {
+              "title": "Ralph Groves | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/ralph-groves",
+              "date": "2026"
+            }
+          ]
         },
         "trump": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No specific position on VA services found as of Sept 2026; Groves is a retired Army major and Iraq War veteran.",
+          "summary": "No overall position on the Trump administration found as of Sept 2026. Groves applauds President Trump's pardons of jailed anti-abortion protesters and the abolition of the federal Department of Education, but sources found contain no general assessment of the administration.",
           "quote": null,
           "sources": [
+            {
+              "title": "Position Papers | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/position-papers",
+              "date": "2026"
+            },
+            {
+              "title": "Mission | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "As an Iraq War veteran, Groves says he is dedicated to ensuring military personnel's needs are met through the Veterans Administration. He also supports increased Coast Guard funding. No specific VA expansion proposal was found.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Mission | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
+            },
             {
               "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
               "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
@@ -1090,6 +1545,55 @@
               "date": "2026"
             }
           ]
+        },
+        {
+          "title": "'Defend the Guard' / no overseas Guard deployments",
+          "summary": "He supports keeping the Florida National Guard at home rather than allowing federal deployment to Ukraine or other overseas locations, while backing more funding for defense industries to restock U.S. military equipment.",
+          "sources": [
+            {
+              "title": "Mission | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
+            },
+            {
+              "title": "Ralph Groves | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/ralph-groves",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Abolish federal Department of Education",
+          "summary": "He applauds abolition of the federal Department of Education and wants states to run education without federal regulation.",
+          "sources": [
+            {
+              "title": "Mission | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "No government funding for Planned Parenthood",
+          "summary": "He says government should be excluded from abortion, which he says means no government funding for Planned Parenthood.",
+          "sources": [
+            {
+              "title": "Position Papers | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/position-papers",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Reduce federal regulation",
+          "summary": "He says decreased regulation, along with lower taxes, will spur job growth and economic development in Florida.",
+          "sources": [
+            {
+              "title": "Mission | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
+            }
+          ]
         }
       ],
       "record": [
@@ -1119,6 +1623,41 @@
             {
               "title": "Libertarian candidate wants voters to have a third option in Congressional race (Vox Populi / Winter Garden)",
               "url": "https://www.wintergardenvox.com/articles/libertarian-candidate-wants-voters-to-have-a-third-option-in-congressional-race",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "item": "Ran for Congress in New York in 1982 on the Conservative Party line with the endorsement of the New York State Right to Life Party (campaign position paper).",
+          "sources": [
+            {
+              "title": "Position Papers | Groves for Congress 2026",
+              "url": "https://www.grovesforcongress.com/position-papers",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "item": "Registered with the FEC as a candidate for Florida's 11th District in the 2024 cycle (candidate ID H4FL11089).",
+          "sources": [
+            {
+              "title": "FEC candidate overview: GROVES, RALPH (H4FL11089), 2024 cycle",
+              "url": "https://www.fec.gov/data/candidate/H4FL11089/?cycle=2024",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Holds a Doctor of Arts degree in history from St. John's University; lives in Ocoee (Libertarian Party of Florida candidate page).",
+          "sources": [
+            {
+              "title": "Ralph Groves at Libertarian Party of Florida",
+              "url": "https://www.lpf.org/45764",
+              "date": null
+            },
+            {
+              "title": "Ralph Groves About | Local Candidates",
+              "url": "https://www.localcandidates.org/politicians/ralph-groves/about",
               "date": "2026"
             }
           ]
