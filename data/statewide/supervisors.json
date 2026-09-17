@@ -1,0 +1,474 @@
+{
+ "_source": "Florida Division of Elections supervisor directory, https://dos.elections.myflorida.com/supervisors/countyInfo.asp?county=<code>, fetched 2026-09-17. The state directory can lag local changes (for Sumter it still lists the previous supervisor); the county website is authoritative.",
+ "by_code": {
+  "ALA": {
+   "county": "Alachua",
+   "supervisor": "Kim A. Barton",
+   "address": "515 N. Main St., Suite 300 Gainesville, FL 32601",
+   "phone": "352-374-5252",
+   "website": "https://www.votealachua.gov"
+  },
+  "BAK": {
+   "county": "Baker",
+   "supervisor": "Christopher Milton",
+   "address": "32 North 5th Street, Suite A PO Box 505 Macclenny, FL 32063",
+   "phone": "904-259-6339",
+   "website": "https://votebakerfl.gov"
+  },
+  "BAY": {
+   "county": "Bay",
+   "supervisor": "Nina Ward",
+   "address": "830 West 11th Street Panama City, FL 32401",
+   "phone": "850-784-6100",
+   "website": "https://www.bayvotesfl.gov"
+  },
+  "BRA": {
+   "county": "Bradford",
+   "supervisor": "Amanda Seyfang",
+   "address": "945 N. Temple Ave. Suite C PO Box 58 Starke, FL 32091",
+   "phone": "904-966-6266",
+   "website": "https://www.votebradfordfl.gov"
+  },
+  "BRE": {
+   "county": "Brevard",
+   "supervisor": "Tim Bobanic",
+   "address": "2725 Judge Fran Jamieson Way, Bldg C Melbourne, FL 32940 PO Box 410819 Melbourne, FL 32941 -0819",
+   "phone": "321-290-8683",
+   "website": "https://www.votebrevard.gov"
+  },
+  "BRO": {
+   "county": "Broward",
+   "supervisor": "Joe Scott",
+   "address": "4650 NW 21st Avenue Fort Lauderdale, FL 33309",
+   "phone": "954-357-7050",
+   "website": "https://www.browardvotes.gov"
+  },
+  "CAL": {
+   "county": "Calhoun",
+   "supervisor": "Sharon Chason",
+   "address": "20859 Central Avenue E., Room 117 Blountstown, FL 32424",
+   "phone": "850-674-8568",
+   "website": "https://www.votecalhounfl.gov"
+  },
+  "CHA": {
+   "county": "Charlotte",
+   "supervisor": "Leah Valenti",
+   "address": "226 Taylor Street, Unit 120 Punta Gorda, FL 33950",
+   "phone": "941-833-5400",
+   "website": "https://www.soecharlottecountyfl.gov"
+  },
+  "CIT": {
+   "county": "Citrus",
+   "supervisor": "Maureen \"Mo\" Baird",
+   "address": "1500 N. Meadowcrest Blvd., Crystal River, FL Lecanto, FL 34429 PO Box 1870 Lecanto, FL 34460 -1870",
+   "phone": "352-564-7120",
+   "website": "https://www.votecitrus.gov"
+  },
+  "CLA": {
+   "county": "Clay",
+   "supervisor": "Chris H. Chambless",
+   "address": "500 N. Orange Ave. PO Box 337 Green Cove Spring, FL 32043",
+   "phone": "904-269-6350",
+   "website": "https://www.clayelections.gov"
+  },
+  "CLL": {
+   "county": "Collier",
+   "supervisor": "Melissa Blazier",
+   "address": "3750 Enterprise Avenue Naples, FL 34104",
+   "phone": "239-252-8683",
+   "website": "https://www.CollierVotes.gov"
+  },
+  "CLM": {
+   "county": "Columbia",
+   "supervisor": "Tomi Stinson Brown",
+   "address": "971 W. Duval Street, Suite 102 Lake City, FL 32055",
+   "phone": "386-758-1026",
+   "website": "https://www.votecolumbiafl.gov"
+  },
+  "DAD": {
+   "county": "Miami-Dade",
+   "supervisor": "Alina Garcia",
+   "address": "2700 NW 87th Avenue Miami, FL 33172 PO Box 521550 Miami, FL 33152 -1550",
+   "phone": "305-499-8683",
+   "website": "https://www.miamidade.gov/elections"
+  },
+  "DES": {
+   "county": "DeSoto",
+   "supervisor": "Debbie Wertz",
+   "address": "201 E. Oak Street, Suite 104 Arcadia, FL 34266 PO Box 89 Arcadia, FL 34265 -0089",
+   "phone": "863-993-4871",
+   "website": "https://www.votedesotofl.gov"
+  },
+  "DIX": {
+   "county": "Dixie",
+   "supervisor": "Darbi Chaires",
+   "address": "229 NE 351 Hwy., Suite A PO Box 2057 Cross City, FL 32628",
+   "phone": "352-498-1216",
+   "website": "https://www.dixievotes.com"
+  },
+  "DUV": {
+   "county": "Duval",
+   "supervisor": "Jerry Holland",
+   "address": "105 E. Monroe Street Jacksonville, FL 32202",
+   "phone": "904-255-8683",
+   "website": "https://www.duvalelections.com"
+  },
+  "ESC": {
+   "county": "Escambia",
+   "supervisor": "Robert Bender",
+   "address": "213 Palafox Place, 2nd Floor Pensacola, FL 32502 PO Box 12601 Pensacola, FL 32591 -2601",
+   "phone": "850-595-3900",
+   "website": "https://escambiavotes.gov"
+  },
+  "FLA": {
+   "county": "Flagler",
+   "supervisor": "Kaiti Lenhart",
+   "address": "1769 E. Moody Blvd., Bldg. 2, Suite 101 PO Box 901 Bunnell, FL 32110",
+   "phone": "386-313-4170",
+   "website": "https://www.flaglerelections.gov"
+  },
+  "FRA": {
+   "county": "Franklin",
+   "supervisor": "Heather Riley",
+   "address": "47 Avenue F Apalachicola, FL 32320",
+   "phone": "850-653-9520",
+   "website": "https://www.votefranklinfl.gov"
+  },
+  "GAD": {
+   "county": "Gadsden",
+   "supervisor": "Kenya Ponder Williams",
+   "address": "16 S. Madison Street Quincy, FL 32351 PO Box 186 Quincy, FL 32353 -0186",
+   "phone": "850-627-9910",
+   "website": "https://www.gadsdensoefl.gov"
+  },
+  "GIL": {
+   "county": "Gilchrist",
+   "supervisor": "Lisa Darus",
+   "address": "112 S. Main Street, Room 137 Trenton, FL 32693",
+   "phone": "352-463-3194",
+   "website": "https://www.votegilchrist.com"
+  },
+  "GLA": {
+   "county": "Glades",
+   "supervisor": "Aletris Farnam",
+   "address": "998 S. U.S. Hwy. 27 PO Box 668 Moore Haven, FL 33471",
+   "phone": "863-946-6005",
+   "website": "https://www.voteglades.gov"
+  },
+  "GUL": {
+   "county": "Gulf",
+   "supervisor": "Rhonda H. Pierce",
+   "address": "401 Long Avenue Port St. Joe, FL 32456",
+   "phone": "850-229-6117",
+   "website": "https://www.votegulf.gov"
+  },
+  "HAM": {
+   "county": "Hamilton",
+   "supervisor": "Laura Hutto",
+   "address": "1153 US Hwy 41 NW, Suite 1 Jasper, FL 32052",
+   "phone": "386-792-1426",
+   "website": "https://www.hamiltonvotesFL.gov"
+  },
+  "HAR": {
+   "county": "Hardee",
+   "supervisor": "Diane Smith",
+   "address": "131 K.D. Revell Road Wauchula, FL 33873",
+   "phone": "863-773-6061",
+   "website": "https://hardeeflvotes.gov"
+  },
+  "HEN": {
+   "county": "Hendry",
+   "supervisor": "Sherry Taylor",
+   "address": "25 E. Hickpochee Avenue LaBelle, FL 33935 PO Box 174 LaBelle, FL 33975 -0174",
+   "phone": "863-675-5230",
+   "website": "https://www.hendryelections.gov"
+  },
+  "HER": {
+   "county": "Hernando",
+   "supervisor": "Denise LaVancher",
+   "address": "16264 Spring Hill Drive Brooksville, FL 34604",
+   "phone": "352-754-4125",
+   "website": "https://www.hernandovotes.gov"
+  },
+  "HIG": {
+   "county": "Highlands",
+   "supervisor": "Karen Healy",
+   "address": "580 S. Commerce Ave, Room A201 Sebring, FL 33870 PO Drawer 3448 Sebring, FL 33871 -3448",
+   "phone": "863-402-6655",
+   "website": "https://www.votehighlands.gov/"
+  },
+  "HIL": {
+   "county": "Hillsborough",
+   "supervisor": "Craig Latimer",
+   "address": "2514 N. Falkenburg Rd. Tampa, FL 33619",
+   "phone": "813-744-5900",
+   "website": "https://www.votehillsborough.gov"
+  },
+  "HOL": {
+   "county": "Holmes",
+   "supervisor": "H. Russell \"Rusty\" Williams",
+   "address": "201 N. Oklahoma Street, Ste 102 Bonifay, FL 32425",
+   "phone": "850-547-1107",
+   "website": "https://www.holmeselectionsfl.gov"
+  },
+  "IND": {
+   "county": "Indian River",
+   "supervisor": "Leslie Rossway Swan",
+   "address": "4375 43rd Avenue Vero Beach, FL 32967",
+   "phone": "772-226-4700",
+   "website": "https://www.voteindianriver.gov"
+  },
+  "JAC": {
+   "county": "Jackson",
+   "supervisor": "Carol A. Dunaway",
+   "address": "2851 Jefferson Street Marianna, FL 32448",
+   "phone": "850-482-9652",
+   "website": "https://www.votejacksonfl.gov"
+  },
+  "JEF": {
+   "county": "Jefferson",
+   "supervisor": "Michelle Milligan",
+   "address": "1175 W. Washington Street Monticello, FL 32344",
+   "phone": "850-997-3348",
+   "website": "https://www.jeffersonvotesfl.gov"
+  },
+  "LAF": {
+   "county": "Lafayette",
+   "supervisor": "Travis Hart",
+   "address": "120 W. Main Street, Room 129 PO Box 76 Mayo, FL 32066",
+   "phone": "386-294-1261",
+   "website": "https://www.lafayettevotes.net"
+  },
+  "LAK": {
+   "county": "Lake",
+   "supervisor": "Alan Hays",
+   "address": "1898 E. Burleigh Blvd. PO Box 457 Tavares, FL 32778",
+   "phone": "352-343-9734",
+   "website": "https://www.lakevotes.gov"
+  },
+  "LEE": {
+   "county": "Lee",
+   "supervisor": "Jenna Persons-Mulicka",
+   "address": "2480 Thompson Street Fort Myers, FL 33901 PO Box 2545 Fort Myers, FL 33902 -2545",
+   "phone": "239-533-8683",
+   "website": "https://www.lee.vote"
+  },
+  "LEO": {
+   "county": "Leon",
+   "supervisor": "Mark S. Earley",
+   "address": "2990-1 Apalachee Parkway Tallahassee, FL 32301 PO Box 7357 Tallahassee, FL 32314 -7357",
+   "phone": "850-606-8683",
+   "website": "https://www.leonvotes.gov"
+  },
+  "LEV": {
+   "county": "Levy",
+   "supervisor": "Tammy Jones",
+   "address": "421 S. Court Street Bronson, FL 32621",
+   "phone": "352-486-5163",
+   "website": "https://www.votelevy.com"
+  },
+  "LIB": {
+   "county": "Liberty",
+   "supervisor": "Grant Conyers",
+   "address": "10818 NW SR 20 PO Box 597 Bristol, FL 32321",
+   "phone": "850-643-5226",
+   "website": "https://libertycountyflsoe.gov/"
+  },
+  "MAD": {
+   "county": "Madison",
+   "supervisor": "Heath Driggers",
+   "address": "239 SW Pinckney St. Madison, FL 32340",
+   "phone": "850-973-6507",
+   "website": "https://www.votemadison.com"
+  },
+  "MAN": {
+   "county": "Manatee",
+   "supervisor": "Scott Farrington",
+   "address": "600 301 Blvd. W., Ste 108 Bradenton, FL 34205 PO Box 1000 Bradenton, FL 34206 -1000",
+   "phone": "941-741-3823",
+   "website": "https://www.votemanatee.gov"
+  },
+  "MRN": {
+   "county": "Marion",
+   "supervisor": "Wesley Wilcox",
+   "address": "981 NE 16th Street Ocala, FL 34470 PO Box 289 Ocala, FL 34478 -0289",
+   "phone": "352-620-3290",
+   "website": "https://votemarion.gov"
+  },
+  "MRT": {
+   "county": "Martin",
+   "supervisor": "Vicki Davis",
+   "address": "135 SE Martin Luther King, Jr. Blvd. Stuart, FL 34994 PO Box 1257 Stuart, FL 34995 -1257",
+   "phone": "772-288-5637",
+   "website": "https://www.martinvotes.gov"
+  },
+  "MON": {
+   "county": "Monroe",
+   "supervisor": "Sherri Hodies",
+   "address": "5200 College Road Key West, FL 33040",
+   "phone": "305-292-3416",
+   "website": "https://votemonroeflkeys.gov"
+  },
+  "NAS": {
+   "county": "Nassau",
+   "supervisor": "Janet H. Adkins",
+   "address": "96135 Nassau Place, Ste 3 Yulee, FL 32097",
+   "phone": "904-491-7500",
+   "website": "https://www.votenassaufl.gov/"
+  },
+  "OKA": {
+   "county": "Okaloosa",
+   "supervisor": "Paul A. Lux",
+   "address": "302 N. Wilson St., Ste 102 Crestview, FL 32536",
+   "phone": "850-689-5600",
+   "website": "https://www.voteokaloosa.gov"
+  },
+  "OKE": {
+   "county": "Okeechobee",
+   "supervisor": "David May",
+   "address": "307 NW 5th Ave Okeechobee, FL 34972",
+   "phone": "863-763-4014",
+   "website": "https://www.voteokeechobee.gov"
+  },
+  "ORA": {
+   "county": "Orange",
+   "supervisor": "Karen Castor Dentel",
+   "address": "119 West Kaley Street Orlando, FL 32806 PO Box 562001 Orlando, FL 32856 -2001",
+   "phone": "407-836-2070",
+   "website": "https://www.voteorangefl.gov"
+  },
+  "OSC": {
+   "county": "Osceola",
+   "supervisor": "Mary Jane Arrington",
+   "address": "2509 E. Irlo Bronson Memorial Hwy Kissimmee, FL 34744",
+   "phone": "407-742-6000",
+   "website": "https://www.voteosceola.gov"
+  },
+  "PAL": {
+   "county": "Palm Beach",
+   "supervisor": "Wendy Sartory Link",
+   "address": "4301 Cherry Road West Palm Beach, FL 33409 PO Box 22309 West Palm Beach, FL 33416 -2309",
+   "phone": "561-656-6200",
+   "website": "https://www.votepalmbeach.gov"
+  },
+  "PAS": {
+   "county": "Pasco",
+   "supervisor": "Brian E. Corley",
+   "address": "14236 6th Street, Ste 200 Dade City, FL 33523 PO Box 300 Dade City, FL 33526 -0300",
+   "phone": "800-851-8754",
+   "website": "https://www.pascovotes.gov"
+  },
+  "PIN": {
+   "county": "Pinellas",
+   "supervisor": "Julie Marcus",
+   "address": "13001 Starkey Road Largo, FL 33773",
+   "phone": "727-464-8683",
+   "website": "https://www.votepinellas.gov"
+  },
+  "POL": {
+   "county": "Polk",
+   "supervisor": "Melony Bell",
+   "address": "250 S. Broadway Avenue Bartow, FL 33830 PO Box 1460 Bartow, FL 33831 -1460",
+   "phone": "863-534-5888",
+   "website": "https://www.polkelections.gov"
+  },
+  "PUT": {
+   "county": "Putnam",
+   "supervisor": "Charles Overturf",
+   "address": "2509 Crill Ave, Ste 900 Palatka, FL 32177",
+   "phone": "386-329-0224",
+   "website": "https://soe.putnam-fl.gov"
+  },
+  "SAN": {
+   "county": "Santa Rosa",
+   "supervisor": "Tappie A. Villane",
+   "address": "6495 Caroline Street, Ste F Milton, FL 32570",
+   "phone": "850-983-1900",
+   "website": "https://www.votesantarosa.gov"
+  },
+  "SAR": {
+   "county": "Sarasota",
+   "supervisor": "Ron Turner",
+   "address": "101 S. Washington Blvd. Sarasota, FL 34236 PO Box 4194 Sarasota, FL 34230 -4194",
+   "phone": "941-861-8600",
+   "website": "https://www.sarasotavotes.gov"
+  },
+  "SEM": {
+   "county": "Seminole",
+   "supervisor": "Amy Pennock",
+   "address": "1500 E. Airport Blvd. Sanford, FL 32773 PO Box 1479 Sanford, FL 32772 -1479",
+   "phone": "407-585-8683",
+   "website": "https://www.voteseminole.gov"
+  },
+  "STJ": {
+   "county": "St. Johns",
+   "supervisor": "Vicky Oakes",
+   "address": "4455 Avenue A, Ste 101 St. Augustine, FL 32095",
+   "phone": "904-823-2238",
+   "website": "https://www.votesjc.gov"
+  },
+  "STL": {
+   "county": "St. Lucie",
+   "supervisor": "Gertrude Walker",
+   "address": "4132 Okeechobee Rd. Fort Pierce, FL 34947",
+   "phone": "772-462-1500",
+   "website": "https://www.stlucievotes.gov"
+  },
+  "SUM": {
+   "county": "Sumter",
+   "supervisor": "William \"Bill\" Keen",
+   "address": "7375 Powell Road, Ste 125 Wildwood, FL 34785",
+   "phone": "352-569-1540",
+   "website": "https://elections.sumtercountyfl.gov"
+  },
+  "SUW": {
+   "county": "Suwannee",
+   "supervisor": "Jennifer Musgrove Kinsey",
+   "address": "302 Pine Avenue, SW Live Oak, FL 32064",
+   "phone": "386-362-2616",
+   "website": "https://www.suwanneevotes.com"
+  },
+  "TAY": {
+   "county": "Taylor",
+   "supervisor": "Dana Southerland",
+   "address": "433 U.S. 19 N. Perry, FL 32347 PO Box 1060 Perry, FL 32348 -1060",
+   "phone": "850-838-3515",
+   "website": "https://www.taylorelectionsfl.gov"
+  },
+  "UNI": {
+   "county": "Union",
+   "supervisor": "Deborah K. Osborne",
+   "address": "175 W. Main Street Lake Butler, FL 32054",
+   "phone": "386-496-2236",
+   "website": "https://www.unionflvotes.com"
+  },
+  "VOL": {
+   "county": "Volusia",
+   "supervisor": "Lisa Lewis",
+   "address": "1588 N Woodland Blvd. DeLand, FL 32720",
+   "phone": "386-736-5930",
+   "website": "https://VolusiaElections.gov"
+  },
+  "WAK": {
+   "county": "Wakulla",
+   "supervisor": "Joseph \"Joe\" Morgan",
+   "address": "3115-B Crawfordville Hwy Crawfordville, FL 32327 PO Box 305 Crawfordville, FL 32326 -0305",
+   "phone": "850-926-7575",
+   "website": "https://www.wakullavotes.gov/"
+  },
+  "WAL": {
+   "county": "Walton",
+   "supervisor": "Ryan Messer",
+   "address": "571 US Hwy 90 E., Ste. 102 DeFuniak Springs, FL 32433",
+   "phone": "850-892-8112",
+   "website": "https://www.votewalton.gov"
+  },
+  "WAS": {
+   "county": "Washington",
+   "supervisor": "Deidra Pettis",
+   "address": "1424 Jackson Ave., Ste C Chipley, FL 32428",
+   "phone": "850-638-6230",
+   "website": "https://www.wcsoe.gov"
+  }
+ }
+}

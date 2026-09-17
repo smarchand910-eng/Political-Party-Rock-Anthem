@@ -1,6 +1,6 @@
 {
   "race_id": "us_house_11",
-  "verified_ballot_note": "Post-recount reports from Spectrum News 13 (Aug 24, 2026), Florida Politics, Villages-News and The Apopka Chief list three Nov. 3 general-election candidates: Joe Strada (R), James Pericola (D) and Ralph Groves (L); Ballotpedia and Florida Division of Elections pages could not be fetched from this sandbox, so the absence of NPA or write-in candidates is not independently confirmed (https://mynews13.com/fl/orlando/news/2026/08/24/recount-confirms-strada-wins-the-republican-nomination-for-congressional-district-11 ; https://floridapolitics.com/archives/816388-with-recount-complete-joe-strada-advances-to-general-election-in-cd-11/ ; https://ballotpedia.org/Florida's_11th_Congressional_District_election,_2026). No general-election debate or forum among Strada, Pericola and Groves had been reported by Villages Daily Sun, WESH, Spectrum News 13 or Florida Politics as of Sept 17, 2026 in searches run for this guide.",
+  "verified_ballot_note": "Third pass (Sept 17, 2026): verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot, which lists Joe Strada (REP), James Pericola (DEM) and Ralph Groves (LPF, Libertarian Party of Florida) for Representative in Congress, District 11, with no write-in line. Sources: https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot ; https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf",
   "candidates": [
     {
       "id": "joe_strada",
@@ -35,6 +35,11 @@
               "title": "FACT CHECK: Strada ad attacking Carey Baker in Florida's 11th District holds up (Florida's Voice)",
               "url": "https://flvoicenews.com/fact-check-strada-ad-attacking-carey-baker-in-floridas-11th-district-holds-up/",
               "date": "2026-08"
+            },
+            {
+              "title": "Joe Strada for Congress - Priorities",
+              "url": "https://votestrada.com/priorities",
+              "date": "2026"
             }
           ]
         },
@@ -79,6 +84,11 @@
               "title": "Recount confirms Strada wins Republican nomination for Congressional District 11 (Spectrum News 13)",
               "url": "https://mynews13.com/fl/orlando/news/2026/08/24/recount-confirms-strada-wins-the-republican-nomination-for-congressional-district-11",
               "date": "2026-08-24"
+            },
+            {
+              "title": "Joe Strada for Congress - Priorities",
+              "url": "https://votestrada.com/priorities",
+              "date": "2026"
             }
           ]
         },
@@ -104,7 +114,7 @@
           "stance": -2,
           "confidence": "stated",
           "summary": "Strada received an 'AQ' grade from the NRA Political Victory Fund, a pro-gun rating based on his questionnaire answers (he has no voting record). President Trump's endorsement says he will 'Defend our always under siege Second Amendment.' No specific statement on red-flag laws or the purchase age was found.",
-          "quote": null,
+          "quote": "the right to keep and bear arms",
           "sources": [
             {
               "title": "iVoterGuide profile: Joe Strada, FL U.S. Rep. Dist. 11",
@@ -115,6 +125,11 @@
               "title": "Donald J. Trump Truth Social post endorsing Joe Strada (Trump's Truth archive)",
               "url": "https://trumpstruth.org/statuses/41457",
               "date": "2026-09"
+            },
+            {
+              "title": "Joe Strada for Congress - Priorities",
+              "url": "https://votestrada.com/priorities",
+              "date": "2026"
             }
           ]
         },
@@ -132,29 +147,30 @@
           ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026. Strada's campaign site says he will 'stand up for' seniors, but he did not answer the Vox Populi/ClickOrlando questionnaire question on protecting Social Security, and no other statement was found.",
-          "quote": null,
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Priorities page says 'Keep the promises made to seniors and protect earned benefits'; it does not address how to fund them or whether he would accept new revenue.",
+          "quote": "Keep the promises made to seniors and protect earned benefits.",
           "sources": [
             {
-              "title": "Joe Strada for Congress (campaign site)",
-              "url": "https://votestrada.com/",
-              "date": "2026"
-            },
-            {
-              "title": "Where do Republican candidates for Congressional District 11 stand on issues? VoxPopuli went to Wildwood to find out (Vox Populi / Winter Garden)",
-              "url": "https://www.wintergardenvox.com/articles/where-do-republican-candidates-for-congressional-district-11-stand-on-issues-voxpopuli-went-to-wildwood-to-find-out",
+              "title": "Joe Strada for Congress - Priorities",
+              "url": "https://votestrada.com/priorities",
               "date": "2026"
             }
           ]
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says families should have 'the freedom to choose the school, public, charter, private, or homeschool, that fits their child best,' and that parents, not bureaucrats, should make education decisions.",
+          "quote": "Empower families with the freedom to choose the school, public, charter, private, or homeschool, that fits their child best.",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress - Priorities",
+              "url": "https://votestrada.com/priorities",
+              "date": "2026"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -178,39 +194,69 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Supports 'voter ID, clean voter rolls, paper ballot accountability, and election integrity.'",
+          "quote": "voter ID, clean voter rolls, paper ballot accountability, and election integrity",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress - Priorities",
+              "url": "https://votestrada.com/priorities",
+              "date": "2026"
+            }
+          ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Priorities page: 'Back law enforcement, punish violent offenders, and make communities safe again,' and treat cartel violence, human trafficking and fentanyl 'as national security threats.'",
+          "quote": "Back law enforcement, punish violent offenders, and make communities safe again.",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress - Priorities",
+              "url": "https://votestrada.com/priorities",
+              "date": "2026"
+            }
+          ]
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Priorities page: 'Keep men out of women's sports and protect fairness for girls and women' and 'stop taxpayer-funded indoctrination'; no statement found on Florida's gender-affirming-care or classroom-instruction laws specifically.",
+          "quote": "Keep men out of women's sports and protect fairness for girls and women.",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress - Priorities",
+              "url": "https://votestrada.com/priorities",
+              "date": "2026"
+            }
+          ]
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Calls for restoring 'energy independence' and lowering costs by not 'punishing American workers and families'; no statement on renewables or utility regulation.",
+          "quote": "Lower costs, restore energy independence, and stop punishing American workers and families.",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress - Priorities",
+              "url": "https://votestrada.com/priorities",
+              "date": "2026"
+            }
+          ]
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "On trade he would 'reward companies that invest in American workers, not foreign outsourcing' and protect against China's threats to jobs, supply chains and farmland; he has not stated a position on specific tariff levels.",
+          "quote": "Reward companies that invest in American workers, not foreign outsourcing.",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress - Priorities",
+              "url": "https://votestrada.com/priorities",
+              "date": "2026"
+            }
+          ]
         },
         "ukraine": {
           "stance": null,
@@ -248,14 +294,14 @@
           ]
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No specific position on VA services found as of Sept 2026; the campaign site lists veterans among the groups he says he will 'stand up for.'",
-          "quote": null,
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to 'ensure veterans receive the care, respect, and benefits they earned through service.'",
+          "quote": "Ensure veterans receive the care, respect, and benefits they earned through service.",
           "sources": [
             {
-              "title": "Joe Strada for Congress (campaign site)",
-              "url": "https://votestrada.com/",
+              "title": "Joe Strada for Congress - Priorities",
+              "url": "https://votestrada.com/priorities",
               "date": "2026"
             }
           ]
@@ -354,6 +400,39 @@
             {
               "title": "Joe Strada for Congress (campaign site)",
               "url": "https://votestrada.com/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Line-item veto and balanced-budget amendment",
+          "summary": "Would 'give the President a tool to strike wasteful spending from bloated bills' and supports a balanced-budget amendment.",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress - Priorities",
+              "url": "https://votestrada.com/priorities",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Manufacturing and China",
+          "summary": "Wants to 'bring supply chains, factories, and good-paying jobs back to the United States' and counter China's 'threats to jobs, supply chains, farmland, technology, and national security.'",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress - Priorities",
+              "url": "https://votestrada.com/priorities",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure that keeps pace with growth",
+          "summary": "Pledges to 'fight for infrastructure that keeps pace with growth, improves mobility, and respects taxpayers.'",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress - Priorities",
+              "url": "https://votestrada.com/priorities",
               "date": "2026"
             }
           ]
@@ -499,6 +578,16 @@
               "date": "2026-07"
             }
           ]
+        },
+        {
+          "item": "Did not respond to ClickOrlando's 2026 primary voter-guide questionnaire.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - US House District 11, Republican primary - ClickOrlando (Strada did not respond to the questionnaire)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
         }
       ],
       "endorsements": [
@@ -606,6 +695,36 @@
               "date": "2026"
             }
           ]
+        },
+        {
+          "by": "Sheriffs Peyton Grinnell (Lake), John Mina (Orange), Patrick Breeden (Sumter), Grady Judd (Polk) and Dennis Lemma (Seminole)",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress - Endorsements",
+              "url": "https://votestrada.com/endorsements",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "State Sens. Keith Truenow and Jason Brodeur; state Reps. Samantha Scott, Taylor Yarkosky, Nan Cobb, Richard Gentry, Webster Barnaby and Doug Bankson",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress - Endorsements",
+              "url": "https://votestrada.com/endorsements",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "Sumter County Commissioner Don Wiley; Professional Firefighters of Lake County IAFF Local 3990; Reedy Creek Professional Firefighters IAFF Local 2117",
+          "sources": [
+            {
+              "title": "Joe Strada for Congress - Endorsements",
+              "url": "https://votestrada.com/endorsements",
+              "date": "2026"
+            }
+          ]
         }
       ]
     },
@@ -684,7 +803,7 @@
           "stance": 2,
           "confidence": "stated",
           "summary": "His platform calls for securing federal funding to combat the housing crisis.",
-          "quote": null,
+          "quote": "The cost of groceries, gas, housing, healthcare, and insurance has stretched working families and seniors too thin.",
           "sources": [
             {
               "title": "James Pericola for Congress (campaign site)",
@@ -700,6 +819,11 @@
               "title": "James Pericola About | Local Candidates",
               "url": "https://www.localcandidates.org/politicians/james-pericola/about",
               "date": "2026"
+            },
+            {
+              "title": "2026 Voter's Guide - US House District 11, Democratic primary - ClickOrlando (questionnaire)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/",
+              "date": "2026-07-31"
             }
           ]
         },
@@ -728,7 +852,7 @@
           "stance": 2,
           "confidence": "stated",
           "summary": "Pericola lists making health care more affordable among the three most pressing issues for the district. He says he will work to restore Medicaid funding, protect the Affordable Care Act, and lower the cost of prescription drugs and medical care.",
-          "quote": null,
+          "quote": "My mother is navigating our broken healthcare system right now, and I have seen firsthand how confusing, expensive, and exhausting it is.",
           "sources": [
             {
               "title": "Meet 11th Congressional District Democratic candidate James Pericola (West Orange Times & Observer)",
@@ -749,6 +873,16 @@
               "title": "James Pericola About | Local Candidates",
               "url": "https://www.localcandidates.org/politicians/james-pericola/about",
               "date": "2026"
+            },
+            {
+              "title": "2026 Voter's Guide - US House District 11, Democratic primary - ClickOrlando (questionnaire)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Q&A: Democratic candidates for U.S. House District 11 discuss affordability, education - The Apopka Chief",
+              "url": "https://theapopkachief.com/qa-democratic-candidates-for-u-s-house-district-11-discuss-affordability-education/",
+              "date": "2026-07-28"
             }
           ]
         },
@@ -777,6 +911,11 @@
               "title": "Q&A: Democratic candidates for U.S. House District 11 discuss affordability, education (The Apopka Chief)",
               "url": "https://theapopkachief.com/qa-democratic-candidates-for-u-s-house-district-11-discuss-affordability-education/",
               "date": "2026-08"
+            },
+            {
+              "title": "2026 Voter's Guide - US House District 11, Democratic primary - ClickOrlando (questionnaire)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/",
+              "date": "2026-07-31"
             }
           ]
         },
@@ -788,11 +927,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In ClickOrlando's questionnaire he named 'protecting our water while building resilience against extreme weather and climate' as Florida's main environmental challenge and supports federal investment in water quality and Everglades restoration.",
+          "quote": "protecting our water while building resilience against extreme weather and climate",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - US House District 11, Democratic primary - ClickOrlando (questionnaire)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -812,7 +957,7 @@
           "stance": 2,
           "confidence": "stated",
           "summary": "He says he will fight to end gerrymandering and pass the John Lewis Voting Rights Act, which would restore federal preclearance of voting-law changes.",
-          "quote": null,
+          "quote": "My wife is an immigrant, and our family's story is rooted in the promise of America: freedom, opportunity, equal protection, and the right to have a voice.",
           "sources": [
             {
               "title": "James Pericola for Congress (campaign site)",
@@ -828,6 +973,11 @@
               "title": "James Pericola About | Local Candidates",
               "url": "https://www.localcandidates.org/politicians/james-pericola/about",
               "date": "2026"
+            },
+            {
+              "title": "2026 Voter's Guide - US House District 11, Democratic primary - ClickOrlando (questionnaire)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/",
+              "date": "2026-07-31"
             }
           ]
         },
@@ -1154,6 +1304,16 @@
               "date": "2026-08-08"
             }
           ]
+        },
+        {
+          "item": "Told The Apopka Chief he worked for U.S. Sen. Bob Graham and in the Clinton administration and that 'too little substantive legislation was passed' under retiring Rep. Daniel Webster.",
+          "sources": [
+            {
+              "title": "Q&A: Democratic candidates for U.S. House District 11 discuss affordability, education - The Apopka Chief",
+              "url": "https://theapopkachief.com/qa-democratic-candidates-for-u-s-house-district-11-discuss-affordability-education/",
+              "date": "2026-07-28"
+            }
+          ]
         }
       ],
       "endorsements": [
@@ -1279,6 +1439,11 @@
               "title": "Groves for Congress 2026 (campaign site)",
               "url": "https://www.grovesforcongress.com/",
               "date": "2026"
+            },
+            {
+              "title": "Ralph Groves for Congress - My Mission",
+              "url": "https://www.grovesforcongress.com/my-mission",
+              "date": "2026"
             }
           ]
         },
@@ -1286,7 +1451,7 @@
           "stance": -1,
           "confidence": "stated",
           "summary": "Groves is a gun owner and a member of Gun Owners of America and says self-defense is a natural right. He argues gun confiscation cannot be accomplished because it would provoke civil disobedience and police would refuse to carry it out. No statement on red-flag laws, the purchase age or background checks was found.",
-          "quote": null,
+          "quote": "Self-defense is a natural right. This right is codified in the 2nd Amendment.",
           "sources": [
             {
               "title": "Position Papers | Groves for Congress 2026",
@@ -1405,7 +1570,7 @@
           "stance": -1,
           "confidence": "stated",
           "summary": "He says the U.S. will depend on fossil fuels for the proximate future and that increasing fossil-fuel output will lower transport costs and the prices of petrochemical-based products. No statement on renewable energy or utility-rate oversight was found.",
-          "quote": null,
+          "quote": "For the proximate future, the U.S. will depend on fossil fuels.",
           "sources": [
             {
               "title": "Mission | Groves for Congress 2026",
@@ -1430,7 +1595,7 @@
           "stance": -1,
           "confidence": "stated",
           "summary": "Groves calls for an immediate cease-fire with mediated peace talks and opposes deepening U.S. support for Ukraine, preferring that European allies do more to counter Russian aggression. He backs 'Defend the Guard' efforts to keep the Florida National Guard from being deployed overseas, but supports increased funding for U.S. defense industries to restock the military equipment sent to Ukraine.",
-          "quote": null,
+          "quote": "He calls for an immediate cease-fire with mediated peace talks, and opposes deepening of U.S. support for Ukraine.",
           "sources": [
             {
               "title": "Mission | Groves for Congress 2026",
@@ -1658,6 +1823,16 @@
             {
               "title": "Ralph Groves About | Local Candidates",
               "url": "https://www.localcandidates.org/politicians/ralph-groves/about",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "item": "Defense Intelligence Agency analyst 1999-2015 at RAF Molesworth, England, and 2015-2018 at the Pentagon; retired from the Army Reserve as a major in 2010; lives in Ocoee with his wife and family (campaign site).",
+          "sources": [
+            {
+              "title": "Ralph Groves for Congress - home page",
+              "url": "https://www.grovesforcongress.com/",
               "date": "2026"
             }
           ]

@@ -1,6 +1,6 @@
 {
   "race_id": "attorney_general",
-  "verified_ballot_note": "Multiple news sources (News4Jax voter guide, Florida Tribune, NBC News primary results, Sparker's Soapbox) list only Republican James Uthmeier and Democrat José Javier Rodríguez as Nov. 3 general-election candidates; the Florida Division of Elections candidate list (dos.elections.myflorida.com) and Ballotpedia were blocked in this sandbox, so the absence of NPA/write-in candidates is unverified. Sources: https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-attorney-general/ ; https://floridatrib.org/2026elections/2026-statewide-races/ ; https://www.nbcnews.com/politics/2026-primary-elections/florida-attorney-general-results",
+  "verified_ballot_note": "Third pass (Sept 17, 2026): verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot, which lists James Uthmeier (REP) and Jose Javier Rodriguez (DEM) for Attorney General with no other candidates and no write-in line. Sources: https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot ; https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf",
   "candidates": [
     {
       "id": "james_uthmeier",
@@ -89,6 +89,11 @@
               "title": "Judge finds Florida AG in contempt for defying court order in major immigration case (AOL/AP)",
               "url": "https://www.aol.com/news/judge-finds-florida-attorney-general-235138211.html",
               "date": "2025-06"
+            },
+            {
+              "title": "James Uthmeier campaign website",
+              "url": "https://jamesforfl.com/",
+              "date": "2026"
             }
           ]
         },
@@ -578,6 +583,26 @@
               "date": null
             }
           ]
+        },
+        {
+          "item": "WGCU reported (July 2026) that the 'Alligator Alcatraz' detention site Uthmeier proposed had cost the state roughly $1 billion, with $58 million of $608 million in requested federal reimbursement received at that point.",
+          "sources": [
+            {
+              "title": "The staggering cost of Florida Attorney General James Uthmeier - WGCU",
+              "url": "https://www.wgcu.org/government-politics/2026-07-07/the-staggering-cost-of-florida-attorney-general-james-uthmeier",
+              "date": "2026-07-07"
+            }
+          ]
+        },
+        {
+          "item": "Campaign finance (per Sparker's Soapbox compilation of state filings): about $1.8 million raised directly from 1,336 donors plus $131,250 from political committees; the affiliated committee Friends of James Uthmeier had raised $10.1 million.",
+          "sources": [
+            {
+              "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+              "date": "2026-08"
+            }
+          ]
         }
       ],
       "endorsements": [
@@ -615,6 +640,21 @@
               "date": null
             }
           ]
+        },
+        {
+          "by": "Republican Attorneys General Association; Club for Growth; Associated Industries of Florida",
+          "sources": [
+            {
+              "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+              "date": "2026-08"
+            },
+            {
+              "title": "2026 Florida Attorney General election - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/2026_Florida_Attorney_General_election",
+              "date": null
+            }
+          ]
         }
       ]
     },
@@ -649,7 +689,7 @@
           "stance": 1,
           "confidence": "stated",
           "summary": "Rodríguez says the attorney general should take on 'multimillion-dollar corporations, especially those in the insurance and utility industries,' go after fraud in property insurance and enforce consumer protections he says recent administrations have ignored. He has not been found to propose rate caps or expanding Citizens.",
-          "quote": null,
+          "quote": "Deliver real relief for homeowners and small businesses from skyrocketing insurance costs",
           "sources": [
             {
               "title": "José Javier Rodríguez visits Miami Shores (Miami-Dade Democratic Party)",
@@ -660,6 +700,16 @@
               "title": "Jose Javier Rodriguez, running for AG, leans on big-business criticism (Yahoo/Tampa Bay Times)",
               "url": "https://www.yahoo.com/news/politics/articles/jose-javier-rodriguez-running-ag-100000823.html",
               "date": "2025"
+            },
+            {
+              "title": "Jose Javier Rodriguez for Attorney General - Priorities",
+              "url": "https://www.jjr.vote/priorities",
+              "date": "2026"
+            },
+            {
+              "title": "Florida Matters: Attorney general candidate Jose Javier Rodriguez talks priorities - WUSF",
+              "url": "https://wusf.org/text/politics-issues/2026-03-31/florida-matters-florida-attorney-general-candidate-jose-javier-rodriguez-talks-priorities",
+              "date": "2026-03-31"
             }
           ]
         },
@@ -671,18 +721,40 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "As a state senator Rodríguez voted against SB 168 (2019), which banned 'sanctuary' policies and required local agencies to support federal immigration enforcement. His 2026 campaign has not made immigration a stated priority.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CS/CS/CS/SB 168 (2019) Federal Immigration Enforcement (sanctuary-policy ban) - Senate roll call, May 2, 2019 (22-18)",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/168/Vote/SenateVote_s00168e1008.PDF",
+              "date": "2019-05-02"
+            },
+            {
+              "title": "CS/CS/CS/SB 168 (2019) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/168",
+              "date": "2019"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Voted against SB 404 (2020), which requires parental consent before a minor's abortion; he left the Senate before the 2022 and 2023 abortion limits and has not campaigned on the six-week law as a candidate for attorney general.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CS/CS/SB 404 (2020) Abortion (parental consent for minors) - Senate roll call, Feb. 6, 2020 (23-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2020/404/Vote/SenateVote_s00404e1002.PDF",
+              "date": "2020-02-06"
+            },
+            {
+              "title": "CS/CS/SB 404 (2020) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2020/404",
+              "date": "2020"
+            }
+          ]
         },
         "guns": {
           "stance": 1,
@@ -699,6 +771,11 @@
               "title": "Priorities | Jose Javier Rodriguez for Florida Attorney General",
               "url": "https://www.jjr.vote/priorities",
               "date": null
+            },
+            {
+              "title": "CS/SB 7026 (2018) Marjory Stoneman Douglas High School Public Safety Act - Senate roll call, March 5, 2018 (20-18)",
+              "url": "https://www.flsenate.gov/Session/Bill/2018/7026/Vote/SenateVote_s07026e1018.PDF",
+              "date": "2018-03-05"
             }
           ]
         },
@@ -724,11 +801,22 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says he would use the office against polluters: 'If you're polluting the state with algae blooms, we're going to go after you.' He is endorsed by VoteWater and the Democratic Environmental Caucus of Florida.",
+          "quote": "If you're polluting the state with algae blooms, we're going to go after you.",
+          "sources": [
+            {
+              "title": "Florida Matters: Attorney general candidate Jose Javier Rodriguez talks priorities - WUSF",
+              "url": "https://wusf.org/text/politics-issues/2026-03-31/florida-matters-florida-attorney-general-candidate-jose-javier-rodriguez-talks-priorities",
+              "date": "2026-03-31"
+            },
+            {
+              "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+              "date": "2026-08"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -745,17 +833,28 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted against SB 7066 (2019), which requires people with felony convictions to pay fines and fees before their voting rights are restored under Amendment 4.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CS/SB 7066 (2019) Election Administration (Amendment 4 implementation; fines/fees before voting-rights restoration) - Senate roll call, May 2, 2019 (22-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/7066/Vote/SenateVote_s07066e1031.PDF",
+              "date": "2019-05-02"
+            },
+            {
+              "title": "CS/SB 7066 (2019) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/7066",
+              "date": "2019"
+            }
+          ]
         },
         "crime": {
           "stance": 1,
           "confidence": "stated",
           "summary": "Rodríguez frames public safety as one of his three priorities ('crime, costs and corruption'), saying he would support law enforcement, take on the fentanyl crisis, crack down on scammers and protect minors and vulnerable Floridians. He has not been found to address the trade-off between tougher penalties and rehabilitation directly.",
-          "quote": null,
+          "quote": "If you're polluting the state with fentanyl, we're going to go after you.",
           "sources": [
             {
               "title": "Florida Attorney General candidate José Javier Rodríguez talks priorities (WUSF)",
@@ -766,6 +865,11 @@
               "title": "Priorities | Jose Javier Rodriguez for Florida Attorney General",
               "url": "https://www.jjr.vote/priorities",
               "date": null
+            },
+            {
+              "title": "Florida Matters: Attorney general candidate Jose Javier Rodriguez talks priorities - WUSF",
+              "url": "https://wusf.org/text/politics-issues/2026-03-31/florida-matters-florida-attorney-general-candidate-jose-javier-rodriguez-talks-priorities",
+              "date": "2026-03-31"
             }
           ]
         },
@@ -915,6 +1019,33 @@
               "date": "2025-06"
             }
           ]
+        },
+        {
+          "title": "Protect seniors and veterans from exploitation",
+          "summary": "Priorities page pledges to 'protect seniors and veterans from exploitation and abuse' and to 'crack down on scammers targeting Florida families, renters or homeowners.'",
+          "sources": [
+            {
+              "title": "Jose Javier Rodriguez for Attorney General - Priorities",
+              "url": "https://www.jjr.vote/priorities",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Check and balance on the governor",
+          "summary": "Says the attorney general should be 'a check and balance on the governor's administration' and 'a steady, professional enforcer of the law, not a political operation.'",
+          "sources": [
+            {
+              "title": "Florida Matters: Attorney general candidate Jose Javier Rodriguez talks priorities - WUSF",
+              "url": "https://wusf.org/text/politics-issues/2026-03-31/florida-matters-florida-attorney-general-candidate-jose-javier-rodriguez-talks-priorities",
+              "date": "2026-03-31"
+            },
+            {
+              "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+              "date": "2026-08"
+            }
+          ]
         }
       ],
       "record": [
@@ -940,6 +1071,66 @@
               "title": "José Javier Rodríguez hits $2M fundraising milestone (Florida Politics)",
               "url": "https://floridapolitics.com/archives/816847-jose-javier-rodriguez-hits-2m-fundraising-milestone-in-bid-for-attorney-general/",
               "date": null
+            }
+          ]
+        },
+        {
+          "item": "Senate votes: against SB 168 sanctuary-policy ban (2019), SB 7066 Amendment 4 implementation (2019) and SB 404 parental consent for abortion (2020).",
+          "sources": [
+            {
+              "title": "CS/CS/CS/SB 168 (2019) Federal Immigration Enforcement (sanctuary-policy ban) - Senate roll call, May 2, 2019 (22-18)",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/168/Vote/SenateVote_s00168e1008.PDF",
+              "date": "2019-05-02"
+            },
+            {
+              "title": "CS/SB 7066 (2019) Election Administration (Amendment 4 implementation; fines/fees before voting-rights restoration) - Senate roll call, May 2, 2019 (22-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/7066/Vote/SenateVote_s07066e1031.PDF",
+              "date": "2019-05-02"
+            },
+            {
+              "title": "CS/CS/SB 404 (2020) Abortion (parental consent for minors) - Senate roll call, Feb. 6, 2020 (23-17)",
+              "url": "https://www.flsenate.gov/Session/Bill/2020/404/Vote/SenateVote_s00404e1002.PDF",
+              "date": "2020-02-06"
+            }
+          ]
+        },
+        {
+          "item": "Voted against SB 7026 (2018), the post-Parkland gun and school-safety law; the Tampa Bay Times reported that Democrats who opposed the bill objected to its program allowing armed school staff, while the bill also raised the purchase age to 21 and created the red-flag process.",
+          "sources": [
+            {
+              "title": "CS/SB 7026 (2018) Marjory Stoneman Douglas High School Public Safety Act - Senate roll call, March 5, 2018 (20-18)",
+              "url": "https://www.flsenate.gov/Session/Bill/2018/7026/Vote/SenateVote_s07026e1018.PDF",
+              "date": "2018-03-05"
+            },
+            {
+              "title": "How has your Florida senator voted on assault weapons and arming teachers so far? - Tampa Bay Times",
+              "url": "https://www.tampabay.com/florida-politics/buzz/2018/03/05/how-has-your-florida-senator-voted-on-assault-weapons-and-arming-teachers-so-far/",
+              "date": "2018-03-05"
+            }
+          ]
+        },
+        {
+          "item": "Born Aug. 8, 1978, in Miami; Brown University (2000), Peace Corps 2000-2003, Harvard Law School (2006); Florida House 2012-2016, Florida Senate 2016-2020; lost his 2020 re-election by 32 votes in a race later found to involve a funded 'ghost' candidate; U.S. Assistant Secretary of Labor for Employment and Training 2024-January 2025.",
+          "sources": [
+            {
+              "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Jose Javier Rodriguez for Attorney General - About",
+              "url": "https://www.jjr.vote/about",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "item": "Campaign finance (per Sparker's Soapbox compilation of state filings): about $1.2 million from 1,958 donors, 92% in-state, plus $66,850 from political committees, mostly labor unions.",
+          "sources": [
+            {
+              "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+              "date": "2026-08"
             }
           ]
         }
@@ -997,6 +1188,36 @@
               "title": "José Javier Rodríguez, Lucía Báez-Geller among SAVE's early 2026 endorsements (Political Cortadito)",
               "url": "https://www.politicalcortadito.com/2026/05/17/jose-javier-rodriguez-lucia-baez-geller-among-saves-early-2026-endorsements/",
               "date": "2026-05-17"
+            }
+          ]
+        },
+        {
+          "by": "Former Attorney General Bob Butterworth, former CFO Alex Sink, former state Rep. Sean Shaw and former Palm Beach State Attorney Dave Aronberg",
+          "sources": [
+            {
+              "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "by": "Former U.S. Sen. Bill Nelson, U.S. Rep. Kathy Castor, former U.S. Rep. Gwen Graham and Parkland parent Fred Guttenberg",
+          "sources": [
+            {
+              "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "by": "VoteWater, Latino Victory Fund, End Citizens United, Democratic Environmental Caucus of Florida",
+          "sources": [
+            {
+              "title": "Florida Attorney General Candidates 2026 General - Sparker's Soapbox (candidate compilation with links)",
+              "url": "https://www.sparkers-soapbox.com/florida-attorney-general-general-election-2026/",
+              "date": "2026-08"
             }
           ]
         }

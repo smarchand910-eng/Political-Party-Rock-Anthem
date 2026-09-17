@@ -1,0 +1,22 @@
+{
+  "race_id": "county_sumter_tourist_tax_referendum",
+  "kind": "measure",
+  "title": "Sumter County Referendum No. 2: Tourist Development Tax Ordinance",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "full",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Sumter"
+  },
+  "counties": [
+    "Sumter"
+  ],
+  "what_it_does": "County ballot question (FOR the Tourist Development Tax / AGAINST the Tourist Development Tax). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "The levy and imposition of a 2% tourist development tax as set forth in Sumter County Ordinance 26-08 is subject to approval by the electors of Sumter County in a referendum election which is hereby scheduled for the General Election of 2026 which is to be held on November 3, 2026.",
+  "what_yes_means": "A vote FOR approves a 2% tax on short-term lodging (hotels, motels, campgrounds, vacation rentals and similar stays of six months or less) in Sumter County under Ordinance 26-08. Villages-News reported the tax is expected to raise about $1 million a year, to be spent on tourism-related purposes allowed by state law such as fairgrounds improvements and entertainment at The Villages town squares, with a Tourist Development Council advising the county.",
+  "what_no_means": "A vote AGAINST means no tourist development tax is levied; Sumter County would remain without a 'bed tax' (the commission suspended its earlier levy in October 2020).",
+  "verified_ballot_note": "Official wording copied from the Sumter County Supervisor of Elections' 2026 General Election sample ballot (fetched Sept. 17, 2026). Background: In May 2026 the County Commission approved an ordinance creating a Tourist Development Council as the first step toward reviving the tax and set the referendum for Nov. 3. Commissioner Deb Butterfield supported it, saying tourists rather than residents pay it and 'we're leaving precious money on the table'; Chairman Don Wiley voted for the ordinance but said it 'puts an additional tax burden on our businesses' and questioned whether short-term rentals in The Villages would comply. Renters of homes for six months or less would also pay the tax. Sources: https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot ; https://www.villages-news.com/2026/05/13/sumter-county-takes-step-toward-reviving-tourism-tax/ ; https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/28650?fileID=71398",
+  "candidates": []
+}

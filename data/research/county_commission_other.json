@@ -1,43 +1,7 @@
 {
   "race_id": "county_commission_other",
-  "verified_ballot_note": "Compiled from search snippets of Lake & Sumter Style and ClickOrlando primary results, the Sumter Sun Times primary preview, ClickOrlando voter guides and Ballotpedia. The county's official 2026 Notice of General Election (https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27) and sample ballots could not be read, so the November ballot contents below are NOT fully verified. Second pass (Sept 2026) resolved the Group 27 judge result (Morris won circuit-wide), District 2 (Bilardello unopposed), and the list of municipal seats scheduled for Nov. 3; contested status of municipal seats and any referendum remain unverified because elections.sumtercountyfl.gov, Ballotpedia and city sites were blocked.",
+  "verified_ballot_note": "Third pass (Sept 17, 2026): everything below was checked against the Supervisor of Elections' official 2026 General Election sample ballot (a two-page PDF that shows every countywide contest plus the precinct-limited city and Village CDD contests), the Secretary of State's Notice of General Election for Sumter County (March 20, 2026, issued before qualifying), and the county's VoterFocus candidate roster, which shows each candidate's status (qualified, unopposed, withdrawn, elected, defeated). The seats listed in the notice that do not appear on the sample ballot were filled without opposition or in the August primary.",
   "races_on_ballot": [
-    {
-      "office": "Sumter County Commission, District 4",
-      "status": "On Nov. 3, 2026 ballot",
-      "note": "Republican primary winner Jeffrey A. Bogue (73.04%) vs. write-in Ethan Parks (name not printed on ballot). See county_commission_4.json.",
-      "candidates": [
-        {
-          "id": "jeffrey_bogue",
-          "name": "Jeffrey A. Bogue",
-          "party": "Republican",
-          "incumbent": true
-        },
-        {
-          "id": "ethan_parks",
-          "name": "Ethan Parks",
-          "party": "Write-in",
-          "incumbent": false
-        }
-      ],
-      "sources": [
-        {
-          "title": "2026 Voter's Guide - Sumter County Commission District 4 Republican primary - ClickOrlando",
-          "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-sumter-county-commission-district-4-republican-primary/",
-          "date": "2026-07-31"
-        },
-        {
-          "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
-          "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
-          "date": "2026-08-18"
-        },
-        {
-          "title": "Sumter 2026 Candidates - Florida Money Watch (campaign finance)",
-          "url": "https://www.floridamoneywatch.com/county.php?code=SUM",
-          "date": null
-        }
-      ]
-    },
     {
       "office": "Florida House District 52",
       "status": "On Nov. 3, 2026 ballot",
@@ -66,6 +30,36 @@
     }
   ],
   "decided_or_unopposed": [
+    {
+      "office": "Sumter County Commission, District 4",
+      "status": "Not on Nov. 3 ballot: write-in candidate withdrew; incumbent Jeffrey A. Bogue (R) elected without opposition",
+      "note": "Bogue won the Aug. 18 Republican primary with 73.04% over Michael Squier. The only general-election opponent, write-in Ethan Parks, is listed as 'Active-Withdrawn' on the county candidate roster and Bogue as 'Active-Unopposed'; the official sample ballot has no County Commission contest. The candidate profile from earlier research is kept in county_commission_4.json.",
+      "candidates": [
+        {
+          "id": "jeffrey_bogue",
+          "name": "Jeffrey A. Bogue",
+          "party": "Republican",
+          "incumbent": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+          "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+          "date": "2026-09"
+        },
+        {
+          "title": "Sumter County candidate reports (VoterFocus campaign-finance system used by the Supervisor of Elections; shows candidate status)",
+          "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sumter",
+          "date": "2026-09"
+        },
+        {
+          "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
+          "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
+          "date": "2026-08-18"
+        }
+      ]
+    },
     {
       "office": "Sumter County School Board, Districts 1, 3 and 5 (nonpartisan)",
       "status": "Decided Aug. 18, 2026 primary (each winner exceeded 50%; no November runoff)",
@@ -136,9 +130,19 @@
     },
     {
       "office": "Sumter County Commission, District 2",
-      "status": "Not on Nov. 3 ballot: incumbent elected without opposition (per SOE candidate list snippet; official notice not readable)",
-      "note": "The Sumter County Supervisor of Elections candidate list (updated Aug. 8, 2026) shows the District 2 Board of County Commissioners race as unopposed with a Republican candidate; search snippets and the county's official site identify the District 2 commissioner as Andrew \"Andy\" Bilardello, board Vice Chairman, who has a 2026 campaign-finance account on file. Under Florida law an unopposed candidate is deemed elected at qualifying and does not appear on the ballot. The unopposed status was read only from search snippets of the SOE page; the official Notice of General Election could not be opened.",
+      "status": "Not on Nov. 3 ballot: Andrew 'Andy' Bilardello (R) elected without opposition",
+      "note": "The county's VoterFocus candidate roster lists Bilardello as 'Active-Unopposed' and the official sample ballot has no District 2 contest.",
       "sources": [
+        {
+          "title": "Sumter County candidate reports (VoterFocus campaign-finance system used by the Supervisor of Elections; shows candidate status)",
+          "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sumter",
+          "date": "2026-09"
+        },
+        {
+          "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+          "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+          "date": "2026-09"
+        },
         {
           "title": "Candidates - Sumter County Elections (list updated Aug. 8, 2026)",
           "url": "https://elections.sumtercountyfl.gov/183/Candidates",
@@ -191,9 +195,19 @@
     },
     {
       "office": "Sumter County constitutional offices (Sheriff, Clerk, Property Appraiser, Tax Collector, Supervisor of Elections)",
-      "status": "Not on the 2026 ballot (UNVERIFIED for Sumter specifically)",
+      "status": "Not on the 2026 ballot (confirmed: none appear in the Notice of General Election or on the sample ballot)",
       "note": "Florida county constitutional officers serve four-year terms elected in presidential-election years (last elected 2024, next 2028). No 2026 Sumter constitutional-office contest appeared in any search result.",
       "sources": [
+        {
+          "title": "Notice of General Election, Sumter County (Florida Secretary of State, March 20, 2026)",
+          "url": "https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf",
+          "date": "2026-03-20"
+        },
+        {
+          "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+          "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+          "date": "2026-09"
+        },
         {
           "title": "Candidates - Sumter County Elections",
           "url": "https://elections.sumtercountyfl.gov/183/Candidates",
@@ -203,70 +217,6 @@
           "title": "Sumter County, Florida, elections, 2026 - Ballotpedia",
           "url": "https://ballotpedia.org/Sumter_County,_Florida,_elections,_2026",
           "date": null
-        }
-      ]
-    },
-    {
-      "office": "Municipal elections (Wildwood, Bushnell, Coleman, Webster, Center Hill)",
-      "status": "Municipal seats scheduled for the Nov. 3, 2026 ballot (per SOE 'Seats up for Election'); which seats are contested vs. unopposed is UNVERIFIED",
-      "note": "The Sumter County Supervisor of Elections lists these city seats up in 2026 (qualifying June 8-12, 2026): Bushnell - Mayor (Seat 1), Seats 3 and 5; Center Hill - Seats 1, 3 and 5; Coleman - Mayor and Seats 2 and 4; Webster - Commissioner Seats 1, 3 and 5; Wildwood - Mayor-Commissioner Seat 1 and Commissioner Seats 2 and 4. In Wildwood the seats up are held by Mayor-Commissioner Ed Wolf (Seat 1), appointed Commissioner David Fountaine (Seat 2) and Commissioner Marcos Flores (Seat 4), all with terms expiring December 2026; Villages-News reported in March 2026 that Wolf filed paperwork to seek an 11th term. Whether Bushnell, Center Hill, Coleman, Webster or Wildwood seats drew opposition (or were filled without opposition at qualifying) could not be verified because the SOE Candidates page and city sites were blocked.",
-      "sources": [
-        {
-          "title": "Seats up for Election - Sumter County Elections",
-          "url": "https://elections.sumtercountyfl.gov/160/Seats-up-for-Election",
-          "date": null
-        },
-        {
-          "title": "Cities - Sumter County Elections",
-          "url": "https://elections.sumtercountyfl.gov/165/Cities",
-          "date": null
-        },
-        {
-          "title": "Candidates - Sumter County Elections (list updated Aug. 8, 2026)",
-          "url": "https://elections.sumtercountyfl.gov/183/Candidates",
-          "date": "2026-08-08"
-        },
-        {
-          "title": "City Commission - City of Wildwood, FL",
-          "url": "https://www.wildwood-fl.gov/205/City-Commission",
-          "date": null
-        },
-        {
-          "title": "Wildwood Mayor Ed Wolf changes mind and decides to seek another term - Villages-News.com",
-          "url": "https://www.villages-news.com/2026/03/23/wildwood-mayor-ed-wolf-changes-mind-and-decides-to-seek-another-term/",
-          "date": "2026-03-23"
-        },
-        {
-          "title": "Primary election coming up - Sumter Sun Times",
-          "url": "https://www.midfloridanewspapers.com/sumter_sun_times/primary-election-coming-up/article_e03a68ea-ce42-40af-8422-ce3cc530a15e.html",
-          "date": "2026-08"
-        },
-        {
-          "title": "2026 Election Information - Sumter County Elections",
-          "url": "https://elections.sumtercountyfl.gov/163/2026-Election-Information",
-          "date": null
-        }
-      ]
-    },
-    {
-      "office": "County or local referendum questions",
-      "status": "None found (UNVERIFIED)",
-      "note": "No Sumter County or municipal referendum for Nov. 3, 2026 appeared in any search result across two research passes; the Notice of General Election could not be read. Statewide constitutional amendments (including Amendment 3, the homestead property-tax amendment placed by HJR 1-F in June 2026) will appear on Sumter ballots but are state, not county, questions.",
-      "sources": [
-        {
-          "title": "2026 Notice of General Election - Sumter County Elections",
-          "url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27",
-          "date": "2026"
-        },
-        {
-          "title": "Florida 2026 ballot measures - Ballotpedia",
-          "url": "https://ballotpedia.org/Florida_2026_ballot_measures",
-          "date": null
-        },
-        {
-          "title": "'Giving the public a voice': Legislature approves putting homestead property tax amendment on ballot - Florida Politics",
-          "url": "https://floridapolitics.com/archives/799592-homestead-property-tax/",
-          "date": "2026-06-02"
         }
       ]
     },
@@ -289,6 +239,21 @@
     }
   ],
   "sources": [
+    {
+      "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+      "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+      "date": "2026-09"
+    },
+    {
+      "title": "Notice of General Election, Sumter County (Florida Secretary of State, March 20, 2026)",
+      "url": "https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf",
+      "date": "2026-03-20"
+    },
+    {
+      "title": "Sumter County candidate reports (VoterFocus campaign-finance system used by the Supervisor of Elections; shows candidate status)",
+      "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sumter",
+      "date": "2026-09"
+    },
     {
       "title": "2026 Notice of General Election - Sumter County Elections",
       "url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27",
@@ -398,6 +363,183 @@
       "title": "Wildwood Mayor Ed Wolf changes mind and decides to seek another term - Villages-News.com",
       "url": "https://www.villages-news.com/2026/03/23/wildwood-mayor-ed-wolf-changes-mind-and-decides-to-seek-another-term/",
       "date": "2026-03-23"
+    }
+  ],
+  "municipal_and_district_races": {
+    "note": "These contests appear only on ballots in the precincts listed; the sample ballot marks each as 'race only for' those precincts. All are nonpartisan. Candidate names are copied from the sample ballot; this guide has not researched their positions.",
+    "races": [
+      {
+        "office": "City of Bushnell - Mayor, Seat 1",
+        "precincts": "118.2, 118.3, 118.6, 118.8, 118.9, 120.2, 132.2, 132.7, 132.8",
+        "candidates": [
+          "Dale Barnes",
+          "Erica Miller"
+        ],
+        "sources": [
+          {
+            "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+            "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+            "date": "2026-09"
+          }
+        ]
+      },
+      {
+        "office": "City of Center Hill - Council, Seat 3",
+        "precincts": "119.3, 119.8",
+        "candidates": [
+          "Don M. Buckner Sr.",
+          "Daniel Shimasaki"
+        ],
+        "sources": [
+          {
+            "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+            "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+            "date": "2026-09"
+          }
+        ]
+      },
+      {
+        "office": "Village Community Development District 2 - Seat 1",
+        "precincts": "101.3, 102.4, 125.3",
+        "candidates": [
+          "Frank Shallis",
+          "Tom Swiers"
+        ],
+        "sources": [
+          {
+            "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+            "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+            "date": "2026-09"
+          }
+        ]
+      },
+      {
+        "office": "Village Community Development District 2 - Seat 2",
+        "precincts": "101.3, 102.4, 125.3",
+        "candidates": [
+          "James \"Jim\" Cipollone",
+          "David Stem"
+        ],
+        "sources": [
+          {
+            "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+            "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+            "date": "2026-09"
+          }
+        ]
+      },
+      {
+        "office": "Village Community Development District 2 - Seat 3",
+        "precincts": "101.3, 102.4, 125.3",
+        "candidates": [
+          "James \"Jim\" Conti",
+          "Harold \"Coach Hal\" Whiting"
+        ],
+        "sources": [
+          {
+            "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+            "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+            "date": "2026-09"
+          }
+        ]
+      },
+      {
+        "office": "Village Community Development District 13 - Seat 4",
+        "precincts": "116.12, 117.12, 122.8, 122.9, 124.4",
+        "candidates": [
+          "Kenneth Ivins",
+          "Chuck Krouse"
+        ],
+        "sources": [
+          {
+            "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+            "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+            "date": "2026-09"
+          }
+        ]
+      }
+    ],
+    "uncontested_note": "The Notice of General Election also listed seats for Beaumont CDD, North Sumter County Utility Dependent District, Village CDDs 1, 3, 5-10 and 12, the Villages Public Safety Department Dependent District and the Wildwood Utility Dependent District, plus Wildwood, Coleman and Webster city seats; none appear on the sample ballot, so they were filled without opposition (the county roster marks most as 'Unopposed').",
+    "sources": [
+      {
+        "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+        "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+        "date": "2026-09"
+      },
+      {
+        "title": "Notice of General Election, Sumter County (Florida Secretary of State, March 20, 2026)",
+        "url": "https://files.floridados.gov/media/710302/2026_nge_sum_english.pdf",
+        "date": "2026-03-20"
+      },
+      {
+        "title": "Sumter County candidate reports (VoterFocus campaign-finance system used by the Supervisor of Elections; shows candidate status)",
+        "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=sumter",
+        "date": "2026-09"
+      }
+    ]
+  },
+  "county_referendums": [
+    {
+      "number": 1,
+      "title": "Renewal of the 5th and 6th Cent Local Option Fuel Tax",
+      "ballot_question": "Sumter County currently levies a 5th and 6th cent local option fuel tax generating an estimated $2,648,888 in annual revenue to fund road maintenance, road construction, and other transportation infrastructure. Fuel taxes are proportionately shared, based on population, with cities within the county. Shall Sumter County continue to levy a 5th and 6th cent tax per gallon on motor fuel sold within the county, for a period up to 30 years beginning January 1, 2028?",
+      "choices": "Yes / No",
+      "what_yes_means": "A YES vote continues the existing two cents per gallon (the '5th and 6th cent') of local option fuel tax on gasoline and diesel sold in Sumter County for up to 30 more years, through 2057, after the current levy expires Dec. 31, 2027. The county says the tax raised slightly over $2 million in 2024 and is dedicated to road resurfacing, construction, bridge work and pavement markings, with about 89% retained by the county and the rest shared with cities by population.",
+      "what_no_means": "A NO vote lets the two-cent levy expire on Dec. 31, 2027, reducing the local fuel tax from eight cents to six cents per gallon and removing roughly $2-2.6 million a year that the county now spends on roads; the county would have to fund those projects from other sources or reduce them.",
+      "background": "Sumter County adopted the levy by ordinance in March 2008 and extended it in 2020 through 2027. Florida law requires voter approval to continue the 5th and 6th cent tax beyond its expiration, and the County Commission voted to place the renewal on the Nov. 3, 2026 ballot. The county launched a 'Your Fuel Taxes At Work' information campaign; County Administrator Bradley Arnold said 'a dependable transportation network is essential to emergency response, commerce, and daily life.' No organized opposition was found in the sources reviewed.",
+      "sources": [
+        {
+          "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+          "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+          "date": "2026-09"
+        },
+        {
+          "title": "Local Fuel Taxes - Sumter County official website",
+          "url": "https://www.sumtercountyfl.gov/1476/Local-Fuel-Taxes",
+          "date": "2026"
+        },
+        {
+          "title": "Fuel Tax FAQs - Sumter County official website",
+          "url": "https://sumtercountyfl.gov/m/faq?cat=66",
+          "date": "2026"
+        },
+        {
+          "title": "Sumter County voters to decide future of fuel tax later this year - Villages-News.com",
+          "url": "https://www.villages-news.com/2026/01/27/sumter-county-voters-to-decide-future-of-fuel-tax-this-year/",
+          "date": "2026-01-27"
+        },
+        {
+          "title": "Sumter County advocates for fuel tax to fund road projects - Spectrum News 13",
+          "url": "https://mynews13.com/fl/orlando/news/2026/02/09/sumter-county-fuel-tax-initiative-",
+          "date": "2026-02-09"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Tourist Development Tax Ordinance",
+      "ballot_question": "The levy and imposition of a 2% tourist development tax as set forth in Sumter County Ordinance 26-08 is subject to approval by the electors of Sumter County in a referendum election which is hereby scheduled for the General Election of 2026 which is to be held on November 3, 2026.",
+      "choices": "FOR the Tourist Development Tax / AGAINST the Tourist Development Tax",
+      "what_yes_means": "A vote FOR approves a 2% tax on short-term lodging (hotels, motels, campgrounds, vacation rentals and similar stays of six months or less) in Sumter County under Ordinance 26-08. Villages-News reported the tax is expected to raise about $1 million a year, to be spent on tourism-related purposes allowed by state law such as fairgrounds improvements and entertainment at The Villages town squares, with a Tourist Development Council advising the county.",
+      "what_no_means": "A vote AGAINST means no tourist development tax is levied; Sumter County would remain without a 'bed tax' (the commission suspended its earlier levy in October 2020).",
+      "background": "In May 2026 the County Commission approved an ordinance creating a Tourist Development Council as the first step toward reviving the tax and set the referendum for Nov. 3. Commissioner Deb Butterfield supported it, saying tourists rather than residents pay it and 'we're leaving precious money on the table'; Chairman Don Wiley voted for the ordinance but said it 'puts an additional tax burden on our businesses' and questioned whether short-term rentals in The Villages would comply. Renters of homes for six months or less would also pay the tax.",
+      "sources": [
+        {
+          "title": "Sumter County 2026 General Election sample ballot (Supervisor of Elections)",
+          "url": "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+          "date": "2026-09"
+        },
+        {
+          "title": "Sumter County takes step toward reviving tourism tax - Villages-News.com",
+          "url": "https://www.villages-news.com/2026/05/13/sumter-county-takes-step-toward-reviving-tourism-tax/",
+          "date": "2026-05-13"
+        },
+        {
+          "title": "May 12, 2026 regular meeting minutes, Sumter County Board of County Commissioners",
+          "url": "https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/28650?fileID=71398",
+          "date": "2026-05-12"
+        }
+      ]
     }
   ]
 }
