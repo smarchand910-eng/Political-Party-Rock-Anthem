@@ -1,6 +1,6 @@
 {
  "race_id": "governor",
- "verified_ballot_note": "Qualifying closed June 12, 2026: WUWF and the Tampa Bay Times/Spokesman-Review reported 27 qualified candidates for governor (10 R, 6 D, 6 NPA, 4 write-in, 1 Libertarian); the six NPA qualifiers are Dean Ocean Abrams, Charles Burkett, Jeffrey 'Dr. Jeff' Datto, Moliere 'Moe' Dimanche, Desmond Meade and Frank J. Russo (CBS12/politics1 lists), which confirms state Sen. Jason Pizzo did NOT qualify; Donalds (R, ~47.8%) and Jolly (D, ~61%) won the Aug. 18 primaries (CBS News, Washington Post); Meade withdrew Aug. 28, 2026 (WLRN/Florida Politics) and whether his name remains printed on the ballot is unverified; the names of the four qualified write-in candidates (who do not appear on the ballot) could not be retrieved. Sources: https://www.wuwf.org/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election ; https://www.spokesman.com/stories/2026/jun/12/field-set-for-florida-2026-governor-race-as-qualif/ ; https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/ ; https://www.wlrn.org/government-politics/2026-08-28/desmond-meade-withdraws-florida-governor-election ; https://ballotpedia.org/Florida_gubernatorial_and_lieutenant_gubernatorial_election,_2026",
+ "verified_ballot_note": "Qualifying closed June 12, 2026: WUWF and the Tampa Bay Times/Spokesman-Review reported 27 qualified candidates for governor (10 R, 6 D, 6 NPA, 4 write-in, 1 Libertarian); the six NPA qualifiers are Dean Ocean Abrams, Charles Burkett, Jeffrey 'Dr. Jeff' Datto, Moliere 'Moe' Dimanche, Desmond Meade and Frank J. Russo (CBS12/politics1 lists), which confirms state Sen. Jason Pizzo did NOT qualify; Donalds (R, ~47.8%) and Jolly (D, ~61%) won the Aug. 18 primaries (CBS News, Washington Post); Meade withdrew Aug. 28, 2026 (WLRN/Florida Politics) and whether his name remains printed on the ballot is unverified (a second search pass on Sept. 17, 2026 found no Division of Elections notice or news report resolving this); the names of the four qualified write-in candidates (who do not appear on the ballot) could not be retrieved. Sources: https://www.wuwf.org/local-news/2026-06-12/the-field-is-set-as-candidate-qualifying-closes-for-floridas-2026-election ; https://www.spokesman.com/stories/2026/jun/12/field-set-for-florida-2026-governor-race-as-qualif/ ; https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/ ; https://www.wlrn.org/government-politics/2026-08-28/desmond-meade-withdraws-florida-governor-election ; https://ballotpedia.org/Florida_gubernatorial_and_lieutenant_gubernatorial_election,_2026",
  "candidates": [
   {
    "id": "byron_donalds",
@@ -13,7 +13,7 @@
    "website": "https://byrondonalds.com/",
    "occupation": "U.S. Representative, Florida's 19th District",
    "residence": "Naples, Collier County",
-   "background": "Byron Donalds is a Republican U.S. Representative for Florida's 19th Congressional District (Southwest Florida), first elected in 2020 after serving in the Florida House. He announced his campaign for governor in February 2025 with President Trump's endorsement. He won the Aug. 18, 2026 Republican primary with about 47.8% of the vote over Lt. Gov. Jay Collins, former House Speaker Paul Renner and businessman James Fishback. On Aug. 26, 2026, at Miami's Freedom Tower, he named state Sen. Bryan Avila, a Florida National Guard captain first elected to the Florida House in 2014 and to the Senate in 2022, as his running mate.",
+   "background": "Byron Donalds is a Republican U.S. Representative for Florida's 19th Congressional District (Southwest Florida), first elected in 2020 after serving in the Florida House. He announced his campaign for governor in February 2025 with President Trump's endorsement. He won the Aug. 18, 2026 Republican primary with about 47.8% of the vote over Lt. Gov. Jay Collins, former House Speaker Paul Renner and businessman James Fishback. On Aug. 26, 2026, at Miami's Freedom Tower, he named state Sen. Bryan Avila, a Florida National Guard captain first elected to the Florida House in 2014 and to the Senate in 2022, as his running mate. Avila (born 1984 in Hialeah to Cuban exile parents) holds degrees from Miami Dade College, the University of Miami and Florida International University (M.S. criminal justice and M.P.A.), served eight years in the Florida House (2014-2022) where he sponsored the 'Stop WOKE Act,' and has represented part of Miami-Dade in the Florida Senate since 2022 while serving as a captain in the Florida Army National Guard.",
    "primary_result": "Won Aug 18, 2026 Republican primary with ~47.8% over Jay Collins, Paul Renner and James Fishback (CBS News; Washington Post)",
    "positions": {
     "taxes": {
@@ -96,18 +96,50 @@
      ]
     },
     "housing": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "Donalds' housing plan focuses on supply-side measures: cutting permitting timelines and regulatory costs (which he says can be about 30% of a new home's cost), loosening local zoning restraints (he has urged Miami-Dade to 'get creative'), and repurposing unused public land for homes. He pairs this with his property-tax elimination goal; no support for subsidies or rent measures was found.",
+     "quote": "The permitting timelines and titling of developments is taking way too long.",
+     "sources": [
+      {
+       "title": "Florida Gov Hopeful Byron Donalds Unveils Affordable Housing Plan at Miami Forum (Biscayne Times)",
+       "url": "https://www.biscaynetimes.com/news/florida-gov-hopeful-byron-donalds-unveils-affordable-housing/",
+       "date": "2026"
+      },
+      {
+       "title": "Byron Donalds says Miami-Dade must 'get creative' in homebuilding for first-time owners (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/819981-byron-donalds-says-miami-dade-must-get-creative-in-homebuilding-for-first-time-owners/",
+       "date": "2026-09"
+      },
+      {
+       "title": "Affordability takes center stage in FL governor's race as Byron Donalds outlines plan (WINK News)",
+       "url": "https://www.winknews.com/news/state/affordability-takes-center-stage-in-florida-governor-s-race-as-byron-donalds-outlines-plan/article_33450b8a-eab7-4be8-b793-e269464746ff.html",
+       "date": "2026"
+      }
+     ]
     },
     "immigration": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Donalds' 'Zero Tolerance' public-safety agenda would mandate full cooperation between state/local agencies and federal immigration authorities, ban sanctuary policies statewide and reserve taxpayer benefits for citizens and legal residents. He defended Florida's 'Alligator Alcatraz' detention facility and the state's enforcement expansion, calling the crackdown 'mission accomplished' while seeking federal repayment; in May 2026 he backed talks to wind the facility down as the federal government takes over detention.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Byron Donalds outlines law-and-order agenda at Melbourne public safety roundtable (Florida's Voice)",
+       "url": "https://flvoicenews.com/byron-donalds-outlines-law-and-order-agenda-at-melbourne-public-safety-roundtable/",
+       "date": "2026"
+      },
+      {
+       "title": "Byron Donalds calls Florida immigration crackdown 'mission accomplished,' seeks federal repayment (WPTV)",
+       "url": "https://www.wptv.com/news/politics/byron-donalds-calls-florida-immigration-crackdown-mission-accomplished-seeks-federal-repayment",
+       "date": "2026"
+      },
+      {
+       "title": "Byron Donalds Backs Preliminary Talks to Close Alligator Alcatraz (The Floridian)",
+       "url": "https://floridianpress.com/2026/05/byron-donalds-backs-preliminary-talks-to-close-alligator-alcatraz/",
+       "date": "2026-05"
+      }
+     ]
     },
     "abortion": {
      "stance": -2,
@@ -171,11 +203,27 @@
      ]
     },
     "healthcare": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": -1,
+     "confidence": "stated",
+     "summary": "Donalds' 'Your Doctor, Your Price' plan requires providers to post cash prices for their top 20 services, aligns Florida's prescription-drug program with federal costs and targets pre-authorizations and surprise billing. He has questioned whether people need 'full-blown' health insurance and defended the 2025 federal budget law's Medicaid provisions as spending controls; no statement supporting Medicaid expansion in Florida was found.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "'Your doctor, your price': Byron Donalds rolls out health care plan (Miami Times)",
+       "url": "https://www.miamitimesonline.com/news/florida/your-doctor-your-price-byron-donalds-rolls-out-health-care-plan/article_b26b6771-e985-48d5-b24d-320cf6e51df5.html",
+       "date": "2026"
+      },
+      {
+       "title": "Byron Donalds doubts people need 'full-blown' health insurance (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/761563-byron-donalds-doubts-people-need-full-blown-health-insurance/",
+       "date": "2025"
+      },
+      {
+       "title": "2026 Voter's Guide: Florida Governor (News4Jax)",
+       "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-governor/",
+       "date": "2026-07-31"
+      }
+     ]
     },
     "social_security": {
      "stance": null,
@@ -185,60 +233,168 @@
      "sources": []
     },
     "education_choice": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "Not verified in this research session. A Tampa Bay Times report describes Donalds getting 'specific on education' at a Tampa campaign stop, but its contents could not be retrieved; no stance coded.",
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Donalds calls himself a staunch supporter of Florida's universal voucher program and proposes a 'universal scorecard' of outcomes for all schools, co-locating charter, private or parochial schools in under-enrolled district buildings, and a career-pathway plan for every student starting in sixth grade. He did not propose teacher raises in his PTA remarks.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Teacher pay, vouchers: Candidates for Florida governor share education plan (Tampa Bay Times via Yahoo)",
+       "url": "https://www.yahoo.com/news/politics/articles/teacher-pay-vouchers-candidates-florida-195700038.html",
+       "date": "2026"
+      },
+      {
+       "title": "Byron Donalds pushes Florida education plan centered on building student career pathways starting in 6th grade (FOX 13 Tampa Bay)",
+       "url": "https://www.fox13news.com/news/byron-donalds-florida-education-plan-building-student-career-6th-grade",
+       "date": "2026"
+      },
+      {
+       "title": "What Byron and Erika Donalds' gospel of school choice could mean for Florida (WLRN)",
+       "url": "https://www.wlrn.org/government-politics/2026-08-03/what-byron-and-erika-donalds-gospel-of-school-choice-could-mean-for-florida",
+       "date": "2026-08-03"
+      }
+     ]
     },
     "environment": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "Donalds' platform pledges to complete Everglades restoration, improve water quality, expand water supply and protect beaches; he cites the blue-green algae blooms that hurt Southwest Florida's economy and says 'if you don't have fresh water, you have nothing.' He also favors reducing permitting regulation for housing.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Issues - Byron Donalds for Governor (campaign site)",
+       "url": "https://byrondonalds.com/issues/",
+       "date": null
+      },
+      {
+       "title": "GOP frontrunner for governor says Florida needs growth management (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/05/21/gop-frontrunner-for-governor-says-florida-needs-growth-management/",
+       "date": "2026-05-21"
+      },
+      {
+       "title": "Rep. Byron Donalds discusses campaign finance, data centers, the environment and more (WUSF)",
+       "url": "https://www.wusf.org/politics-issues/2026-08-04/rep-byron-donalds-discusses-campaign-finance-data-centers-the-environment-and-more",
+       "date": "2026-08-04"
+      }
+     ]
     },
     "growth": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 0,
+     "confidence": "stated",
+     "summary": "Mixed: Donalds says Florida needs growth management, calling for every local government to adopt comprehensive plans that mesh with a state plan and are approved by the state, and for 'concurrency' so roads, sewers and other infrastructure are funded before development. At the same time he wants to cut permitting timelines and zoning restraints to lower housing costs.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "GOP frontrunner for governor says Florida needs growth management (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/05/21/gop-frontrunner-for-governor-says-florida-needs-growth-management/",
+       "date": "2026-05-21"
+      },
+      {
+       "title": "Byron Donalds says Miami-Dade must 'get creative' in homebuilding for first-time owners (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/819981-byron-donalds-says-miami-dade-must-get-creative-in-homebuilding-for-first-time-owners/",
+       "date": "2026-09"
+      }
+     ]
     },
     "marijuana": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": -2,
+     "confidence": "stated",
+     "summary": "Donalds says he does not support legalizing recreational marijuana and that the current medical-marijuana regulatory system is fine.",
+     "quote": "I do not support recreational marijuana.",
+     "sources": [
+      {
+       "title": "Most major FL gubernatorial candidates say state should never legalize recreational marijuana (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/05/06/most-major-fl-gubernatorial-candidates-say-state-should-never-legalize-recreational-marijuana/",
+       "date": "2026-05-06"
+      },
+      {
+       "title": "Just one candidate running for Florida governor supports recreational marijuana (Creative Loafing Tampa)",
+       "url": "https://www.cltampa.com/news/just-one-candidate-running-for-florida-governor-supports-recreational-marijuana/",
+       "date": "2026-05"
+      },
+      {
+       "title": "Florida Republican Governor Candidates Are United In Opposing Marijuana Legalization (Marijuana Moment)",
+       "url": "https://www.marijuanamoment.net/florida-republican-governor-candidates-are-united-in-opposing-marijuana-legalization/",
+       "date": "2026-05"
+      }
+     ]
     },
     "elections": {
      "stance": null,
      "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "summary": "No statement on mail voting, drop boxes or rights restoration found. In Congress he voted on Jan. 6, 2021 to object to certifying the Arizona and Pennsylvania electoral votes (see record).",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Byron Donalds to object certification of electoral votes (Fox 4 Now)",
+       "url": "https://www.fox4now.com/news/local-news/byron-donalds-to-object-certification-of-electoral-votes",
+       "date": "2021-01"
+      },
+      {
+       "title": "A dozen Florida Representatives voted against certifying Joe Biden win (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/393069-a-dozen-florida-representatives-vote-against-joe-biden-win/",
+       "date": "2021-01-07"
+      }
+     ]
     },
     "crime": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Donalds' 'Zero Tolerance' agenda pledges to 'stand with those who serve' and give law enforcement the resources they need, strengthen officer recruitment, retention, pay and benefits, and ban sanctuary policies; he is endorsed by the Florida PBA, Fraternal Order of Police, Police Chiefs Association and most sheriffs.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Byron Donalds outlines law-and-order agenda at Melbourne public safety roundtable (Florida's Voice)",
+       "url": "https://flvoicenews.com/byron-donalds-outlines-law-and-order-agenda-at-melbourne-public-safety-roundtable/",
+       "date": "2026"
+      },
+      {
+       "title": "Police Benevolent Association, NRA Political Victory Fund back Byron Donalds in Governor's race (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/819866-pba-nra-donalds/",
+       "date": "2026-09"
+      },
+      {
+       "title": "Backed by the blue: Fraternal Order of Police supports Byron Donalds for Governor (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/818933-fop-donalds/",
+       "date": "2026-09"
+      }
+     ]
     },
     "lgbtq": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "As a state legislator in 2020 Donalds co-introduced bills including one that would have criminalized doctors providing transition-related care to minors; in 2026 he says his opposition to transgender-related policies is 'common sense' rather than a 'culture war' and has made the issue a central contrast with Jolly, including an ad PolitiFact rated deceptively edited.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Byron Donalds' LGBTQ+ record shows he's no ally to queer Floridians (LGBTQ Nation)",
+       "url": "https://www.lgbtqnation.com/2026/08/byron-donalds-lgbtq-record/",
+       "date": "2026-08"
+      },
+      {
+       "title": "Byron Donalds says he won't back down on 'cultural differences' with David Jolly (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/08/10/byron-donalds-says-he-wont-back-down-on-cultural-differences-with-david-jolly/",
+       "date": "2026-08-10"
+      },
+      {
+       "title": "Byron Donalds' ad deceptively edited David Jolly clip on gender-affirming care (PolitiFact)",
+       "url": "https://politifact.com/factchecks/2026/aug/19/byron-donalds/david-jolly-trans-youth-surgeries-florida-governor/",
+       "date": "2026-08-19"
+      }
+     ]
     },
     "energy": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": -2,
+     "confidence": "stated",
+     "summary": "Donalds rejected capping utility return on equity after the FPL rate case, saying caps lead to 'worse service' by starving grid investment; his plan to lower bills emphasizes small modular and micro nuclear reactors, hydrogen and 'another natural gas pipeline.'",
+     "quote": "A cap might sound good politically, but it's a terrible solution.",
+     "sources": [
+      {
+       "title": "Donalds and Jolly bicker over response to utility profitability (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/06/23/donalds-and-jolly-bicker-over-response-to-utility-profitability/",
+       "date": "2026-06-23"
+      }
+     ]
     },
     "tariffs": {
      "stance": null,
@@ -278,11 +434,27 @@
      ]
     },
     "veterans": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "At a Jacksonville veterans roundtable Donalds proposed letting veterans use GI Bill benefits to start small businesses, expanding VA clinic support, digitizing medical records, and investing in mental-health services for veterans; his campaign runs a 'Veterans for Byron' coalition and is backed by Concerned Veterans for America Action.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Byron Donalds spotlights veteran issues at roundtable (Florida's Voice)",
+       "url": "https://flvoicenews.com/byron-donalds-spotlights-veteran-issues-at-roundtable/",
+       "date": "2026"
+      },
+      {
+       "title": "Veterans for Byron (campaign site)",
+       "url": "https://byrondonalds.com/vets/",
+       "date": null
+      },
+      {
+       "title": "Concerned Veterans for America lines up behind Byron Donalds' campaign for Governor (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/787309-concerned-veterans-for-america-lines-up-behind-byron-donalds-campaign-for-governor/",
+       "date": "2026"
+      }
+     ]
     }
    },
    "other_issues": [
@@ -342,6 +514,71 @@
        "title": "Byron Donalds turns lean-years story, hurricane warning into affordability pitch (Florida Politics)",
        "url": "https://floridapolitics.com/archives/819063-byron-donalds-turns-lean-years-story-hurricane-warning-into-affordability-pitch/",
        "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "title": "'Your Doctor, Your Price' health-care price transparency",
+     "summary": "Would require providers to post cash prices for their 20 most common services, align state drug purchasing with federal prices and limit pre-authorizations and surprise billing.",
+     "sources": [
+      {
+       "title": "'Your doctor, your price': Byron Donalds rolls out health care plan (Miami Times)",
+       "url": "https://www.miamitimesonline.com/news/florida/your-doctor-your-price-byron-donalds-rolls-out-health-care-plan/article_b26b6771-e985-48d5-b24d-320cf6e51df5.html",
+       "date": "2026"
+      },
+      {
+       "title": "2026 Voter's Guide: Florida Governor (News4Jax)",
+       "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-governor/",
+       "date": "2026-07-31"
+      }
+     ]
+    },
+    {
+     "title": "'Zero Tolerance' public-safety and sanctuary-policy ban",
+     "summary": "Mandates state and local cooperation with federal immigration enforcement, bans sanctuary policies statewide and limits taxpayer benefits to citizens and legal residents.",
+     "sources": [
+      {
+       "title": "Byron Donalds outlines law-and-order agenda at Melbourne public safety roundtable (Florida's Voice)",
+       "url": "https://flvoicenews.com/byron-donalds-outlines-law-and-order-agenda-at-melbourne-public-safety-roundtable/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "title": "Career pathways from sixth grade and co-located schools",
+     "summary": "Every student would build a plan toward college, military or a trade starting in sixth grade; under-enrolled district buildings would host charter, private or parochial schools.",
+     "sources": [
+      {
+       "title": "Byron Donalds pushes Florida education plan centered on building student career pathways starting in 6th grade (FOX 13 Tampa Bay)",
+       "url": "https://www.fox13news.com/news/byron-donalds-florida-education-plan-building-student-career-6th-grade",
+       "date": "2026"
+      },
+      {
+       "title": "Teacher pay, vouchers: Candidates for Florida governor share education plan (Tampa Bay Times via Yahoo)",
+       "url": "https://www.yahoo.com/news/politics/articles/teacher-pay-vouchers-candidates-florida-195700038.html",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "title": "State-approved growth plans and concurrency",
+     "summary": "Local comprehensive plans would be coordinated with and approved by the state, with infrastructure concurrency so new growth pays for itself before development.",
+     "sources": [
+      {
+       "title": "GOP frontrunner for governor says Florida needs growth management (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/05/21/gop-frontrunner-for-governor-says-florida-needs-growth-management/",
+       "date": "2026-05-21"
+      }
+     ]
+    },
+    {
+     "title": "Nuclear, hydrogen and natural gas for lower power bills",
+     "summary": "Says lowering electric bills should focus on small modular and micro nuclear reactors, hydrogen and a new natural-gas pipeline rather than profit caps.",
+     "sources": [
+      {
+       "title": "Donalds and Jolly bicker over response to utility profitability (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/06/23/donalds-and-jolly-bicker-over-response-to-utility-profitability/",
+       "date": "2026-06-23"
       }
      ]
     }
@@ -406,6 +643,81 @@
        "date": "2026"
       }
      ]
+    },
+    {
+     "item": "On Jan. 6, 2021, voted with 11 other Florida Republicans to object to certifying the Arizona and Pennsylvania electoral votes for Joe Biden.",
+     "sources": [
+      {
+       "title": "Byron Donalds to object certification of electoral votes (Fox 4 Now)",
+       "url": "https://www.fox4now.com/news/local-news/byron-donalds-to-object-certification-of-electoral-votes",
+       "date": "2021-01"
+      },
+      {
+       "title": "A dozen Florida Representatives voted against certifying Joe Biden win (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/393069-a-dozen-florida-representatives-vote-against-joe-biden-win/",
+       "date": "2021-01-07"
+      }
+     ]
+    },
+    {
+     "item": "As a state representative in 2020, co-introduced a package of bills including one that would have imprisoned doctors who provide transition-related care to minors.",
+     "sources": [
+      {
+       "title": "Byron Donalds' LGBTQ+ record shows he's no ally to queer Floridians (LGBTQ Nation)",
+       "url": "https://www.lgbtqnation.com/2026/08/byron-donalds-lgbtq-record/",
+       "date": "2026-08"
+      }
+     ]
+    },
+    {
+     "item": "PolitiFact rated a Donalds campaign ad about Jolly and gender-affirming care as deceptively edited (Aug. 19, 2026).",
+     "sources": [
+      {
+       "title": "Byron Donalds' ad deceptively edited David Jolly clip on gender-affirming care (PolitiFact)",
+       "url": "https://politifact.com/factchecks/2026/aug/19/byron-donalds/david-jolly-trans-youth-surgeries-florida-governor/",
+       "date": "2026-08-19"
+      }
+     ]
+    },
+    {
+     "item": "Florida Power & Light and affiliates gave $500,000 to a political committee controlled by Donalds, according to the Energy and Policy Institute's tally of FPL state-level political spending.",
+     "sources": [
+      {
+       "title": "NextEra's acquisition of Dominion would bring history of political control, rate increases (Energy and Policy Institute)",
+       "url": "https://energyandpolicy.org/nextera-dominion-merger/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "item": "Dismissed a utility return-on-equity cap at a Tampa press conference in June 2026, calling it 'a terrible solution.'",
+     "sources": [
+      {
+       "title": "Donalds and Jolly bicker over response to utility profitability (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/06/23/donalds-and-jolly-bicker-over-response-to-utility-profitability/",
+       "date": "2026-06-23"
+      }
+     ]
+    },
+    {
+     "item": "Running mate Bryan Avila sponsored the 2022 'Stop WOKE Act' in the Florida House and is a captain in the Florida Army National Guard.",
+     "sources": [
+      {
+       "title": "What to know about Bryan Avila, Byron Donalds' running mate (Miami Herald via Yahoo)",
+       "url": "https://www.yahoo.com/news/politics/articles/know-bryan-vila-byron-donalds-110000727.html",
+       "date": "2026-08"
+      },
+      {
+       "title": "Bryan Avila (Ballotpedia)",
+       "url": "https://ballotpedia.org/Bryan_Avila",
+       "date": null
+      },
+      {
+       "title": "Byron Donalds Taps State Sen. Bryan Avila For Florida Lt. Governor Running Mate (Tampa Free Press)",
+       "url": "https://www.tampafp.com/byron-donalds-taps-state-sen-bryan-avila-for-florida-lt-governor/",
+       "date": "2026-08-26"
+      }
+     ]
     }
    ],
    "endorsements": [
@@ -463,6 +775,66 @@
        "date": "2026"
       }
      ]
+    },
+    {
+     "by": "Florida Police Benevolent Association (31,000 members)",
+     "sources": [
+      {
+       "title": "Police Benevolent Association, NRA Political Victory Fund back Byron Donalds in Governor's race (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/819866-pba-nra-donalds/",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "by": "Florida State Lodge, Fraternal Order of Police",
+     "sources": [
+      {
+       "title": "Backed by the blue: Fraternal Order of Police supports Byron Donalds for Governor (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/818933-fop-donalds/",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "by": "Florida Police Chiefs Association",
+     "sources": [
+      {
+       "title": "Badge of approval: With Police Chiefs nod, Byron Donalds bolsters law enforcement backing (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/806870-badge-of-approval-with-police-chiefs-nod-byron-donalds-bolsters-law-enforcement-backing/",
+       "date": "2026"
+      },
+      {
+       "title": "Endorsements - Byron Donalds for Governor (campaign site)",
+       "url": "https://byrondonalds.com/endorsements/",
+       "date": null
+      }
+     ]
+    },
+    {
+     "by": "Florida sheriffs including Grady Judd (Polk), Wayne Ivey (Brevard), Chris Nocco (Pasco), T.K. Waters (Duval), Chad Chronister (Hillsborough) and Rosie Cordero-Stutz (Miami-Dade)",
+     "sources": [
+      {
+       "title": "'Making Florida great': 15 Sheriffs endorse Byron Donalds for Governor (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/758327-making-florida-great-15-sheriffs-endorse-byron-donalds-for-governor/",
+       "date": "2025"
+      },
+      {
+       "title": "Police Benevolent Association, NRA Political Victory Fund back Byron Donalds in Governor's race (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/819866-pba-nra-donalds/",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "by": "Concerned Veterans for America Action",
+     "sources": [
+      {
+       "title": "Concerned Veterans for America lines up behind Byron Donalds' campaign for Governor (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/787309-concerned-veterans-for-america-lines-up-behind-byron-donalds-campaign-for-governor/",
+       "date": "2026"
+      }
+     ]
     }
    ]
   },
@@ -477,22 +849,59 @@
    "website": "https://davidjolly.com/",
    "occupation": "Attorney; former U.S. Representative; political commentator",
    "residence": "Pinellas County (Tampa Bay area)",
-   "background": "David Jolly is a former U.S. Representative for Florida's 13th District (Pinellas County), serving 2014-2017 as a Republican. He later left the Republican Party, became an independent and then registered as a Democrat before running for governor. He won the Aug. 18, 2026 Democratic primary with about 61% of the vote. On June 10, 2026 he named Gwen Graham, a former Democratic congresswoman (2015-2017), 2018 gubernatorial candidate and daughter of the late Gov. and Sen. Bob Graham, as his running mate; their House service overlapped in 2015-2017.",
+   "background": "David Jolly is a former U.S. Representative for Florida's 13th District (Pinellas County), serving 2014-2017 as a Republican. He later left the Republican Party, became an independent and then registered as a Democrat before running for governor. He won the Aug. 18, 2026 Democratic primary with about 61% of the vote. On June 10, 2026 he named Gwen Graham, a former Democratic congresswoman (2015-2017), 2018 gubernatorial candidate and daughter of the late Gov. and Sen. Bob Graham, as his running mate; their House service overlapped in 2015-2017. Gwen Graham (born 1963, Miami Lakes) is an attorney and daughter of former Gov. and U.S. Sen. Bob Graham; she represented Florida's 2nd District (2015-2017), finished second in the 2018 Democratic primary for governor with 31.3%, and served as U.S. Assistant Secretary of Education for legislation and congressional affairs in the Biden administration from 2021 to 2025.",
    "primary_result": "Won Aug 18, 2026 Democratic primary with ~61% (CBS News; Washington Post)",
    "positions": {
     "taxes": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": -1,
+     "confidence": "stated",
+     "summary": "Jolly says tax relief must be paired with revenue to fund services ('we need the math to work') and has criticized Republican leaders as 'willing to starve critically needed services in the name of tax relief.' His agenda prioritizes new spending on public schools, teacher pay and Medicaid expansion rather than broad tax cuts.",
+     "quote": "We need the math to work.",
+     "sources": [
+      {
+       "title": "Gubernatorial candidates offer different paths to Florida property tax cuts (WFLA / Tampa Bay Times)",
+       "url": "https://www.wfla.com/news/politics/gubernatorial-candidates-offer-different-paths-to-florida-property-tax-cuts/",
+       "date": "2026-09"
+      },
+      {
+       "title": "Byron Donalds to Face David Jolly in Florida Governor's Race: What They Say on Property Taxes (Yahoo News)",
+       "url": "https://www.yahoo.com/news/politics/articles/byron-donalds-face-david-jolly-155152696.html",
+       "date": "2026-08"
+      },
+      {
+       "title": "In bid for governor, Renner and Jolly discuss property tax reform, more (WUSF Florida Roundup)",
+       "url": "https://wusf.org/text/the-florida-roundup/2025-11-10/bid-for-florida-governor-paul-renner-david-jolly-discuss-property-tax-reform-more",
+       "date": "2025-11-10"
+      }
+     ]
     },
     "property_tax": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "Jolly has offered a property-tax approach that news coverage describes as a 'different path' from Donalds' elimination plan, but the article could not be retrieved in this session and no stance is coded.",
-     "quote": null,
-     "sources": []
+     "stance": -1,
+     "confidence": "stated",
+     "summary": "Jolly opposes eliminating homestead property taxes without replacement revenue and says the 2026 Amendment 3 push puts 'a very popular amendment to repeal property taxes without an answer for the needed revenue' before voters, which he says would create 'a great crisis in the state.' He instead proposes 'generational property tax reform' centered on a new homestead exemption for first-time homebuyers to offset Save Our Homes caps.",
+     "quote": "Republicans put in front of voters a very popular amendment to repeal property taxes without an answer for the needed revenue, and that then creates a great crisis in the state.",
+     "sources": [
+      {
+       "title": "Gubernatorial candidates offer different paths to Florida property tax cuts (WFLA / Tampa Bay Times)",
+       "url": "https://www.wfla.com/news/politics/gubernatorial-candidates-offer-different-paths-to-florida-property-tax-cuts/",
+       "date": "2026-09"
+      },
+      {
+       "title": "Byron Donalds to Face David Jolly in Florida Governor's Race: What They Say on Property Taxes (Yahoo News)",
+       "url": "https://www.yahoo.com/news/politics/articles/byron-donalds-face-david-jolly-155152696.html",
+       "date": "2026-08"
+      },
+      {
+       "title": "Gubernatorial candidate David Jolly speaks on housing, property taxes and immigration (WUSF Florida Roundup)",
+       "url": "https://www.wusf.org/the-florida-roundup/2025-06-09/florida-governor-candidate-david-jolly-on-housing-property-taxes-immigration",
+       "date": "2025-06-09"
+      },
+      {
+       "title": "In bid for governor, Renner and Jolly discuss property tax reform, more (WUSF Florida Roundup)",
+       "url": "https://wusf.org/text/the-florida-roundup/2025-11-10/bid-for-florida-governor-paul-renner-david-jolly-discuss-property-tax-reform-more",
+       "date": "2025-11-10"
+      }
+     ]
     },
     "insurance": {
      "stance": 2,
@@ -518,39 +927,119 @@
      ]
     },
     "housing": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Jolly's affordability plan calls for expanded affordable-housing programs and renter protections, a first-time homebuyer homestead exemption, and no-interest state-backed loans to help condo associations and owners pay special assessments and structural-repair costs; he ties housing costs to property insurance and proposes a state catastrophe fund.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Affordable Housing in Florida (davidjolly.com)",
+       "url": "https://davidjolly.com/issues/affordability/",
+       "date": null
+      },
+      {
+       "title": "Gubernatorial candidate David Jolly speaks on housing, property taxes and immigration (WUSF Florida Roundup)",
+       "url": "https://www.wusf.org/the-florida-roundup/2025-06-09/florida-governor-candidate-david-jolly-on-housing-property-taxes-immigration",
+       "date": "2025-06-09"
+      },
+      {
+       "title": "Democratic governor nominee David Jolly makes Pensacola stop, touts affordability plan (WEAR)",
+       "url": "https://weartv.com/news/local/democratic-governor-nominee-david-jolly-makes-pensacola-stop-touts-affordability-plan",
+       "date": "2026-08"
+      }
+     ]
     },
     "immigration": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": -2,
+     "confidence": "stated",
+     "summary": "Jolly says that if the 'Alligator Alcatraz' detention facility is still operating when he takes office he would move to close it on his first day and return the land to Miami-Dade County. He would suspend or not require the state's 287(g) agreements with ICE pending stronger due-process protections, leaving participation to local law enforcement, and says enforcement should target criminal activity rather than treating immigrant communities with suspicion.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "David Jolly, leading Democratic candidate for 2026 governor, shares views on abortion and Alligator Alcatraz (CBS Miami)",
+       "url": "https://www.cbsnews.com/miami/news/democratic-candidate-governor-david-jolly-abortion-rights-alligator-alcatraz",
+       "date": "2025"
+      },
+      {
+       "title": "David Jolly Suggests Not Enforcing 287(g) ICE Agreements as Governor (The Floridian)",
+       "url": "https://floridianpress.com/2026/02/david-jolly-suggests-not-enforcing-287g-ice-agreements-as-governor/",
+       "date": "2026-02"
+      },
+      {
+       "title": "Florida Democratic candidates lay down their markers on immigration policy (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2025/08/20/florida-democratic-candidates-lay-down-their-markers-on-immigration-policy/",
+       "date": "2025-08-20"
+      }
+     ]
     },
     "abortion": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Jolly says he voted for the 2024 Amendment 4 and would work to enact its language (no restriction on abortion before viability, or when needed to protect the patient's health) into law, replacing the six-week ban. He argues the governor should act on amendments that won more than 50% of the vote.",
+     "quote": "I voted for Amendment 4. As governor, I would work to enact Amendment 4 into law.",
+     "sources": [
+      {
+       "title": "Reproductive Freedom & Abortion Rights (davidjolly.com)",
+       "url": "https://davidjolly.com/issues/reproductive-freedom/",
+       "date": null
+      },
+      {
+       "title": "Q&A: Florida Democrats' gubernatorial front-runner David Jolly on his campaign (Independent Florida Alligator)",
+       "url": "https://www.alligator.org/article/2025/09/david-jolly-campaigns-for-florida-governor",
+       "date": "2025-09"
+      },
+      {
+       "title": "David Jolly, leading Democratic candidate for 2026 governor, shares views on abortion and Alligator Alcatraz (CBS Miami)",
+       "url": "https://www.cbsnews.com/miami/news/democratic-candidate-governor-david-jolly-abortion-rights-alligator-alcatraz",
+       "date": "2025"
+      }
+     ]
     },
     "guns": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Jolly's gun platform calls for banning the sale of assault weapons, universal background checks on every transfer, exploring firearm licensing, and preserving and expanding the 2018 post-Parkland red-flag law and 21 purchase age. He says he would test the governor's authority to challenge the court ruling allowing open carry.",
+     "quote": "The Parkland gun safety law was bipartisan, it's supported by law enforcement, and it should stay in place.",
+     "sources": [
+      {
+       "title": "Gun policy emerges as an early flashpoint in Florida governor's race (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/08/27/gun-policy-emerges-as-an-early-flashpoint-in-florida-governors-race/",
+       "date": "2026-08-27"
+      },
+      {
+       "title": "Reducing Gun Violence: David Jolly's Position on Firearms (davidjolly.com)",
+       "url": "https://davidjolly.com/issues/gun-safety/",
+       "date": null
+      },
+      {
+       "title": "Donalds campaign attacks Jolly over comments on gun rights, Trump airport remarks (Florida's Voice)",
+       "url": "https://flvoicenews.com/donalds-campaign-attacks-jolly-over-comments-on-gun-rights-trump-airport-remarks/",
+       "date": "2026"
+      }
+     ]
     },
     "healthcare": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Jolly proposes expanding Medicaid to cover roughly 266,000 Floridians in the coverage gap and scaling up direct primary care in all 67 counties through community health centers and county clinics; he has also said the state should support ACA tax credits and rural hospitals.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "David Jolly on Health Care (davidjolly.com)",
+       "url": "https://davidjolly.com/health-care",
+       "date": null
+      },
+      {
+       "title": "David Jolly's Plan to Fight Florida's Health Care Crisis (davidjolly.com)",
+       "url": "https://davidjolly.com/issues/health-care/health-care-watch-as-governor-health-care/",
+       "date": null
+      },
+      {
+       "title": "David Jolly — 2026 Florida Governor Election (Smarter.Vote)",
+       "url": "https://smarter.vote/races/fl-governor-2026/david-jolly/",
+       "date": null
+      }
+     ]
     },
     "social_security": {
      "stance": null,
@@ -560,60 +1049,173 @@
      "sources": []
     },
     "education_choice": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": -1,
+     "confidence": "stated",
+     "summary": "Jolly says he would not end Florida's universal voucher program but would means-test it and apply public-school rules to private schools that take state money, including barring tuition increases above the voucher amount and barring schools from turning away students with disabilities. He proposes a 30% public-teacher pay raise funded by tourist-development taxes.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Democratic gubernatorial hopeful David Jolly defends school choice (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2025/09/18/democratic-gubernatorial-hopeful-david-jolly-defends-school-choice/",
+       "date": "2025-09-18"
+      },
+      {
+       "title": "Democratic gubernatorial hopeful David Jolly spotlights education in Sarasota (WUSF)",
+       "url": "https://wusf.org/text/politics-issues/2025-12-19/democratic-gubernatorial-hopeful-david-jolly-spotlights-education-sarasota",
+       "date": "2025-12-19"
+      },
+      {
+       "title": "Teacher pay, vouchers: Candidates for Florida governor share education plan (Tampa Bay Times via Yahoo)",
+       "url": "https://www.yahoo.com/news/politics/articles/teacher-pay-vouchers-candidates-florida-225300588.html",
+       "date": "2026"
+      },
+      {
+       "title": "David Jolly on Public Education (davidjolly.com)",
+       "url": "https://davidjolly.com/issues/public-education/",
+       "date": null
+      }
+     ]
     },
     "environment": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Jolly supports Everglades restoration, water-quality improvement and climate-resilience investment, and says he would issue an immediate moratorium on new data centers on day one, citing environmental impact, public health and real-estate effects ('let them sue if they want to').",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Jolly on Florida governor run, Hope Florida scandal, and why he opposes data centers (CBS Miami)",
+       "url": "https://www.cbsnews.com/miami/news/jolly-florida-governor-hope-florida-data-centers-september-2026/",
+       "date": "2026-09"
+      },
+      {
+       "title": "Who is David Jolly? Meet the Democratic nominee for Florida governor (WTSP)",
+       "url": "https://www.wtsp.com/article/news/politics/elections/who-is-david-jolly-democrat-florida-governor-2026-race/67-9baa25b9-1a5d-4da0-ae1c-0168ff555583",
+       "date": "2026-08"
+      },
+      {
+       "title": "As Governor — David Jolly for Florida 2026 (davidjolly.com)",
+       "url": "https://davidjolly.com/as-governor/",
+       "date": null
+      }
+     ]
     },
     "growth": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "Jolly backs home rule, saying local zoning, labor and environmental decisions should belong to local governments without Tallahassee preemption, and he proposes a statewide moratorium on data-center development.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Home Rule & Direct Democracy in Florida (davidjolly.com)",
+       "url": "https://davidjolly.com/issues/home-rule/",
+       "date": null
+      },
+      {
+       "title": "Jolly on Florida governor run, Hope Florida scandal, and why he opposes data centers (CBS Miami)",
+       "url": "https://www.cbsnews.com/miami/news/jolly-florida-governor-hope-florida-data-centers-september-2026/",
+       "date": "2026-09"
+      }
+     ]
     },
     "marijuana": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "Jolly says he personally voted against the 2024 recreational-marijuana amendment (Amendment 3) but, because it won more than 50% of the vote, he would as governor move toward regulated adult-use legalization; he was the only major candidate in a May 2026 survey to support legalization.",
+     "quote": "I think the governor's role is to represent the majority of the state, and the majority of the state asked for it, and I think that we should do it.",
+     "sources": [
+      {
+       "title": "Most major FL gubernatorial candidates say state should never legalize recreational marijuana (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/05/06/most-major-fl-gubernatorial-candidates-say-state-should-never-legalize-recreational-marijuana/",
+       "date": "2026-05-06"
+      },
+      {
+       "title": "Most major FL gubernatorial candidates say state should never legalize recreational marijuana (WLRN)",
+       "url": "https://www.wlrn.org/government-politics/2026-05-07/most-major-fl-gubernatorial-candidates-say-state-should-never-legalize-recreational-marijuana",
+       "date": "2026-05-07"
+      },
+      {
+       "title": "Just one candidate running for Florida governor supports recreational marijuana (Creative Loafing Tampa)",
+       "url": "https://www.cltampa.com/news/just-one-candidate-running-for-florida-governor-supports-recreational-marijuana/",
+       "date": "2026-05"
+      }
+     ]
     },
     "elections": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "Jolly's platform says direct democracy 'should be easier, not harder,' that the governor should lead efforts to enact voter-approved amendments that clear 50% (he cites the 2018 voting-rights restoration amendment among initiatives Floridians passed), and that the state should support implementation of successful local voter initiatives. No specific statement on mail voting or drop boxes was found.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Home Rule & Direct Democracy in Florida (davidjolly.com)",
+       "url": "https://davidjolly.com/issues/home-rule/",
+       "date": null
+      },
+      {
+       "title": "Who is David Jolly? Meet the Democratic nominee for Florida governor (WTSP)",
+       "url": "https://www.wtsp.com/article/news/politics/elections/who-is-david-jolly-democrat-florida-governor-2026-race/67-9baa25b9-1a5d-4da0-ae1c-0168ff555583",
+       "date": "2026-08"
+      }
+     ]
     },
     "crime": {
      "stance": null,
      "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "summary": "Campaign materials say anyone who commits a crime in Florida should be held accountable and that enforcement should target criminal activity, and Jolly lists 'fighting crime' among spending priorities alongside schools and health care; no position found on tougher penalties versus reform or on police funding levels.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "David Jolly Presents an Agenda Focused on Affordability, Reform and Bipartisan Leadership (Le Floridien)",
+       "url": "https://lefloridien.com/david-jolly-presents-an-agenda-focused-on-affordability-reform-and-bipartisan-leadership",
+       "date": "2026"
+      },
+      {
+       "title": "Who is David Jolly? Meet the Democratic nominee for Florida governor (WTSP)",
+       "url": "https://www.wtsp.com/article/news/politics/elections/who-is-david-jolly-democrat-florida-governor-2026-race/67-9baa25b9-1a5d-4da0-ae1c-0168ff555583",
+       "date": "2026-08"
+      }
+     ]
     },
     "lgbtq": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": -1,
+     "confidence": "stated",
+     "summary": "Jolly has defended parents' right to make decisions about gender-affirming care for their children and supported communities' rainbow crosswalks, and PolitiFact found a Donalds ad deceptively edited his remarks on the topic. He told WLRN he does not think athletes assigned male at birth should compete in girls' sports but that the governor should not impose sweeping restrictions on youth leagues.",
+     "quote": "Look, if a 10- or 12-year-old soccer league in the community has a coed team, I don't think the governor should be throwing a flag on the field.",
+     "sources": [
+      {
+       "title": "Byron Donalds' ad deceptively edited David Jolly clip on gender-affirming care (PolitiFact)",
+       "url": "https://politifact.com/factchecks/2026/aug/19/byron-donalds/david-jolly-trans-youth-surgeries-florida-governor/",
+       "date": "2026-08-19"
+      },
+      {
+       "title": "Mission improbable: A onetime Republican is trying to prove Democrats can win in Florida (WLRN)",
+       "url": "https://www.wlrn.org/government-politics/2026-08-13/mission-improbable-a-onetime-republican-is-trying-to-prove-democrats-can-win-in-florida",
+       "date": "2026-08-13"
+      },
+      {
+       "title": "David Jolly blasts Byron Donalds' 'attack' on LGBTQ+ rights amid Florida governor's race (Orlando Weekly)",
+       "url": "https://www.orlandoweekly.com/news/david-jolly-blasts-byron-donalds-attack-on-lgbtq-rights-amid-florida-governors-race/",
+       "date": "2026"
+      }
+     ]
     },
     "energy": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "After the Public Service Commission approved FPL's roughly $7 billion rate increase with a 10.95% return on equity, Jolly proposed capping the profit margin Florida's major electric utilities may earn at the national average (about 9.7%), reforming campaign finance to reduce utility influence, and 'requiring greater integration of clean energy technologies into our public utilities.' He says regulators and the Legislature have been 'captured' by the industry.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Donalds and Jolly bicker over response to utility profitability (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/06/23/donalds-and-jolly-bicker-over-response-to-utility-profitability/",
+       "date": "2026-06-23"
+      },
+      {
+       "title": "After FPL rate hike, how would governor candidates address utilities? (reposted on davidjolly.com)",
+       "url": "https://davidjolly.com/after-fpl-rate-hike-how-would-governor-candidates-address-utilities/",
+       "date": "2025-11"
+      }
+     ]
     },
     "tariffs": {
      "stance": null,
@@ -630,18 +1232,45 @@
      "sources": []
     },
     "trump": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": -2,
+     "confidence": "stated",
+     "summary": "Jolly, who as a Republican congressman urged Trump to leave the 2016 race after his proposed Muslim ban, left the GOP in 2018 and became a Trump critic as an MSNBC commentator; in the 2026 race he calls Donalds 'Donald Trump's guy' and challenges him to defend the Trump economy.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Well-known Trump critic David Jolly enters race for Florida governor (Yahoo News)",
+       "url": "https://www.yahoo.com/news/well-known-trump-critic-david-080000254.html",
+       "date": "2025-06"
+      },
+      {
+       "title": "Election highlights: Byron Donalds and David Jolly to face off in Florida governor's race (NBC News)",
+       "url": "https://www.nbcnews.com/politics/2026-election/live-blog/elections-florida-governor-house-senate-alaska-primaries-live-updates-rcna593016",
+       "date": "2026-08-18"
+      },
+      {
+       "title": "'He's Donald Trump's guy!': David Jolly challenges GOP rival Byron Donalds to defend Trump's economy (MS NOW, The Last Word)",
+       "url": "https://www.ms.now/the-last-word/watch/he-s-donald-trump-s-guy-david-jolly-challenges-gop-rival-byron-donalds-to-defend-trump-s-economy-2511853123551",
+       "date": "2026"
+      }
+     ]
     },
     "veterans": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "Jolly lists 'Restoring Services for Our Veterans' as a platform plank and says he wants 'a government that actually serves seniors, veterans, and those in need'; no detailed veterans-benefits proposal was found.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "As Governor — David Jolly for Florida 2026 (davidjolly.com)",
+       "url": "https://davidjolly.com/as-governor/",
+       "date": null
+      },
+      {
+       "title": "David Jolly — 2026 Florida Governor Election (Smarter.Vote)",
+       "url": "https://smarter.vote/races/fl-governor-2026/david-jolly/",
+       "date": null
+      }
+     ]
     }
    },
    "other_issues": [
@@ -663,12 +1292,118 @@
     },
     {
      "title": "Property-tax relief approach",
-     "summary": "Coverage says Jolly and Donalds offer 'different paths' to property-tax cuts; specifics for Jolly could not be retrieved.",
+     "summary": "Proposes a homestead exemption for first-time homebuyers ('generational property tax reform') instead of Amendment 3's broad elimination, which he says lacks replacement revenue.",
      "sources": [
       {
-       "title": "Gubernatorial candidates offer different paths to Florida property tax cuts (Tampa Bay Times via Yahoo)",
-       "url": "https://www.yahoo.com/news/politics/articles/gubernatorial-candidates-offer-different-paths-205249244.html",
+       "title": "Gubernatorial candidates offer different paths to Florida property tax cuts (WFLA / Tampa Bay Times)",
+       "url": "https://www.wfla.com/news/politics/gubernatorial-candidates-offer-different-paths-to-florida-property-tax-cuts/",
+       "date": "2026-09"
+      },
+      {
+       "title": "Gubernatorial candidate David Jolly speaks on housing, property taxes and immigration (WUSF Florida Roundup)",
+       "url": "https://www.wusf.org/the-florida-roundup/2025-06-09/florida-governor-candidate-david-jolly-on-housing-property-taxes-immigration",
+       "date": "2025-06-09"
+      },
+      {
+       "title": "In bid for governor, Renner and Jolly discuss property tax reform, more (WUSF Florida Roundup)",
+       "url": "https://wusf.org/text/the-florida-roundup/2025-11-10/bid-for-florida-governor-paul-renner-david-jolly-discuss-property-tax-reform-more",
+       "date": "2025-11-10"
+      }
+     ]
+    },
+    {
+     "title": "30% teacher pay raise and 10-year public-school 'renaissance'",
+     "summary": "Proposes using tourist-development taxes to fund a 30% raise for public-school teachers, repair school infrastructure and add mental-health and anti-hunger programs in schools.",
+     "sources": [
+      {
+       "title": "Democratic gubernatorial hopeful David Jolly spotlights education in Sarasota (WUSF)",
+       "url": "https://wusf.org/text/politics-issues/2025-12-19/democratic-gubernatorial-hopeful-david-jolly-spotlights-education-sarasota",
+       "date": "2025-12-19"
+      },
+      {
+       "title": "Teacher pay, vouchers: Candidates for Florida governor share education plan (Tampa Bay Times via Yahoo)",
+       "url": "https://www.yahoo.com/news/politics/articles/teacher-pay-vouchers-candidates-florida-225300588.html",
        "date": "2026"
+      },
+      {
+       "title": "David Jolly on Public Education (davidjolly.com)",
+       "url": "https://davidjolly.com/issues/public-education/",
+       "date": null
+      }
+     ]
+    },
+    {
+     "title": "No-interest state loans for condo owners",
+     "summary": "Proposes a state-backed, no-interest loan program to help condominium associations and individual owners pay special assessments, structural repairs and reserve requirements.",
+     "sources": [
+      {
+       "title": "Affordable Housing in Florida (davidjolly.com)",
+       "url": "https://davidjolly.com/issues/affordability/",
+       "date": null
+      },
+      {
+       "title": "Democratic governor nominee David Jolly makes Pensacola stop, touts affordability plan (WEAR)",
+       "url": "https://weartv.com/news/local/democratic-governor-nominee-david-jolly-makes-pensacola-stop-touts-affordability-plan",
+       "date": "2026-08"
+      }
+     ]
+    },
+    {
+     "title": "Home rule and enacting majority-approved amendments",
+     "summary": "Says Tallahassee should stop preempting local zoning, labor and environmental decisions, and that when an amendment wins more than 50% (e.g., abortion 57%, marijuana 56%, open primaries 57%) the governor should use executive tools to advance it.",
+     "sources": [
+      {
+       "title": "Home Rule & Direct Democracy in Florida (davidjolly.com)",
+       "url": "https://davidjolly.com/issues/home-rule/",
+       "date": null
+      },
+      {
+       "title": "Q&A: Florida Democrats' gubernatorial front-runner David Jolly on his campaign (Independent Florida Alligator)",
+       "url": "https://www.alligator.org/article/2025/09/david-jolly-campaigns-for-florida-governor",
+       "date": "2025-09"
+      }
+     ]
+    },
+    {
+     "title": "Data-center moratorium",
+     "summary": "Says he would order an immediate moratorium on new data centers on his first day, citing environmental, community, real-estate and public-health concerns.",
+     "sources": [
+      {
+       "title": "Jolly on Florida governor run, Hope Florida scandal, and why he opposes data centers (CBS Miami)",
+       "url": "https://www.cbsnews.com/miami/news/jolly-florida-governor-hope-florida-data-centers-september-2026/",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "title": "Utility profit cap and campaign-finance reform",
+     "summary": "Would cap investor-owned utilities' allowed return on equity at the national average and limit utility political spending after the FPL rate case.",
+     "sources": [
+      {
+       "title": "Donalds and Jolly bicker over response to utility profitability (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/06/23/donalds-and-jolly-bicker-over-response-to-utility-profitability/",
+       "date": "2026-06-23"
+      },
+      {
+       "title": "After FPL rate hike, how would governor candidates address utilities? (reposted on davidjolly.com)",
+       "url": "https://davidjolly.com/after-fpl-rate-hike-how-would-governor-candidates-address-utilities/",
+       "date": "2025-11"
+      }
+     ]
+    },
+    {
+     "title": "Close 'Alligator Alcatraz' and review 287(g) agreements",
+     "summary": "Would close the Everglades detention facility on day one if still operating and suspend 287(g) agreements pending due-process protections.",
+     "sources": [
+      {
+       "title": "David Jolly, leading Democratic candidate for 2026 governor, shares views on abortion and Alligator Alcatraz (CBS Miami)",
+       "url": "https://www.cbsnews.com/miami/news/democratic-candidate-governor-david-jolly-abortion-rights-alligator-alcatraz",
+       "date": "2025"
+      },
+      {
+       "title": "David Jolly Suggests Not Enforcing 287(g) ICE Agreements as Governor (The Floridian)",
+       "url": "https://floridianpress.com/2026/02/david-jolly-suggests-not-enforcing-287g-ice-agreements-as-governor/",
+       "date": "2026-02"
       }
      ]
     }
@@ -728,9 +1463,155 @@
        "date": "2026"
       }
      ]
+    },
+    {
+     "item": "Sponsored H.R. 4443, the Stop Act (introduced Feb. 3, 2016), which would have barred federal officeholders from personally soliciting campaign contributions.",
+     "sources": [
+      {
+       "title": "David W. Jolly (Congress.gov member page)",
+       "url": "https://www.congress.gov/member/david-jolly/J000296",
+       "date": null
+      },
+      {
+       "title": "Rep. David Jolly [R-FL13, 2014-2016] (GovTrack)",
+       "url": "https://www.govtrack.us/congress/members/david_jolly/412603",
+       "date": null
+      }
+     ]
+    },
+    {
+     "item": "Heritage Action scored his 114th Congress voting record at 39%, more moderate than the average House Republican; GovTrack records him missing 77 of 1,763 roll-call votes (4.4%) from March 2014 to December 2016, above the median.",
+     "sources": [
+      {
+       "title": "Rep. David Jolly - Scorecard 114th Congress: 39% (Heritage Action)",
+       "url": "https://heritageaction.com/scorecard/members/J000296/114",
+       "date": null
+      },
+      {
+       "title": "Rep. David Jolly [R-FL13, 2014-2016] (GovTrack)",
+       "url": "https://www.govtrack.us/congress/members/david_jolly/412603",
+       "date": null
+      }
+     ]
+    },
+    {
+     "item": "While in Congress as a Republican he said the Affordable Care Act should be repealed and replaced with private-sector solutions; as a 2026 Democratic candidate he supports Medicaid expansion and ACA tax credits.",
+     "sources": [
+      {
+       "title": "David Jolly on Health Care (OnTheIssues)",
+       "url": "https://www.ontheissues.org/FL/David_Jolly_Health_Care.htm",
+       "date": null
+      },
+      {
+       "title": "David Jolly on Health Care (davidjolly.com)",
+       "url": "https://davidjolly.com/health-care",
+       "date": null
+      }
+     ]
+    },
+    {
+     "item": "Says he voted against the 2024 recreational-marijuana amendment personally but would implement it as governor because a majority supported it.",
+     "sources": [
+      {
+       "title": "Most major FL gubernatorial candidates say state should never legalize recreational marijuana (Florida Phoenix)",
+       "url": "https://floridaphoenix.com/2026/05/06/most-major-fl-gubernatorial-candidates-say-state-should-never-legalize-recreational-marijuana/",
+       "date": "2026-05-06"
+      },
+      {
+       "title": "Just one candidate running for Florida governor supports recreational marijuana (Creative Loafing Tampa)",
+       "url": "https://www.cltampa.com/news/just-one-candidate-running-for-florida-governor-supports-recreational-marijuana/",
+       "date": "2026-05"
+      }
+     ]
+    },
+    {
+     "item": "PolitiFact (Aug. 19, 2026) found a Donalds campaign ad deceptively edited a Jolly clip to suggest he supports gender-transition surgeries for minors.",
+     "sources": [
+      {
+       "title": "Byron Donalds' ad deceptively edited David Jolly clip on gender-affirming care (PolitiFact)",
+       "url": "https://politifact.com/factchecks/2026/aug/19/byron-donalds/david-jolly-trans-youth-surgeries-florida-governor/",
+       "date": "2026-08-19"
+      }
+     ]
+    },
+    {
+     "item": "Urged Donald Trump to drop out of the 2016 presidential race in December 2015 over the proposed Muslim ban, and left the Republican Party in 2018.",
+     "sources": [
+      {
+       "title": "Well-known Trump critic David Jolly enters race for Florida governor (Yahoo News)",
+       "url": "https://www.yahoo.com/news/well-known-trump-critic-david-080000254.html",
+       "date": "2025-06"
+      },
+      {
+       "title": "Election highlights: Byron Donalds and David Jolly to face off in Florida governor's race (NBC News)",
+       "url": "https://www.nbcnews.com/politics/2026-election/live-blog/elections-florida-governor-house-senate-alaska-primaries-live-updates-rcna593016",
+       "date": "2026-08-18"
+      }
+     ]
+    },
+    {
+     "item": "Running mate Gwen Graham served as U.S. Assistant Secretary of Education (2021-2025) after finishing second in the 2018 Democratic gubernatorial primary.",
+     "sources": [
+      {
+       "title": "Gwen Graham (Ballotpedia)",
+       "url": "https://ballotpedia.org/Gwen_Graham",
+       "date": null
+      },
+      {
+       "title": "Gwen Graham confirmed as assistant U.S. secretary of education (WUSF)",
+       "url": "https://www.wusf.org/education/2021-10-07/gwen-graham-confirmed-assistant-us-secretary-of-education",
+       "date": "2021-10-07"
+      },
+      {
+       "title": "Jolly adds Graham to anticipated Democratic ticket (WUWF)",
+       "url": "https://www.wuwf.org/florida-news/2026-06-10/jolly-adds-graham-to-anticipated-democratic-ticket",
+       "date": "2026-06-10"
+      }
+     ]
     }
    ],
-   "endorsements": []
+   "endorsements": [
+    {
+     "by": "Florida Education Association (teachers' union, 120,000+ members)",
+     "sources": [
+      {
+       "title": "Educators, Workers Endorse David Jolly for Florida Governor (Florida Education Association)",
+       "url": "https://feaweb.org/release/educators-workers-endorse-david-jolly-for-florida-governor/",
+       "date": "2026-06"
+      },
+      {
+       "title": "Florida Education Association backs David Jolly for Governor (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/804118-florida-education-association-backs-david-jolly-for-governor/",
+       "date": "2026-06"
+      }
+     ]
+    },
+    {
+     "by": "Florida AFL-CIO and allied public-sector unions",
+     "sources": [
+      {
+       "title": "Florida AFL-CIO, Florida Education Association Endorse David Jolly for Governor (The Floridian)",
+       "url": "https://floridianpress.com/2026/06/florida-afl-cio-florida-education-association-endorse-david-jolly-for-governor/",
+       "date": "2026-06"
+      },
+      {
+       "title": "Educators, Workers Endorse David Jolly for Florida Governor (Florida Education Association)",
+       "url": "https://feaweb.org/release/educators-workers-endorse-david-jolly-for-florida-governor/",
+       "date": "2026-06"
+      }
+     ]
+    },
+    {
+     "by": "Group of Republican supporters including former 2026 GOP candidate Bobby Williams",
+     "sources": [
+      {
+       "title": "David Jolly introduces Republican supporters, including former 2026 candidate Bobby Williams (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/819928-david-jolly-introduces-republican-supporters-including-former-2026-candidate-bobby-williams/",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "scott_jewett",
@@ -743,7 +1624,7 @@
    "website": "https://scottjewett.com/",
    "occupation": "Not verified (campaign cites 'a decade of government experience')",
    "residence": "Florida (city/county not verified)",
-   "background": "Scott Eckhard Jewett is the Libertarian Party of Florida's nominee for governor; the national Libertarian Party announced his filing in 2025 and he announced a 'Libertarian 2.0' bid in November 2025. His campaign says he brings a decade of government experience and brands his platform 'Humanitarian Libertarianism,' combining Republican economic principles with Democratic social values. His running mate is Nicole Skelly of Milton, who runs a construction business with her husband. He was the lone Libertarian to qualify when qualifying closed June 12, 2026.",
+   "background": "Scott Eckhard Jewett is the Libertarian Party of Florida's nominee for governor; the national Libertarian Party announced his filing in 2025 and he announced a 'Libertarian 2.0' bid in November 2025. His campaign says he brings a decade of government experience and brands his platform 'Humanitarian Libertarianism,' combining Republican economic principles with Democratic social values. His running mate is Nicole Skelly of Milton, who runs a construction business with her husband. He was the lone Libertarian to qualify when qualifying closed June 12, 2026. Skelly lives in Milton (Santa Rosa County) with her husband and two children; the campaign says the couple has owned and run a construction business for many years and that she brings a small-business owner's perspective on rising costs and regulation.",
    "primary_result": "No primary; qualified as the Libertarian Party of Florida nominee (WUWF, June 12, 2026)",
    "positions": {
     "taxes": {
@@ -754,18 +1635,40 @@
      "sources": []
     },
     "property_tax": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Jewett's platform calls for ending property taxes on homesteaded homes.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Scott Jewett for Florida Governor (campaign site)",
+       "url": "https://scottjewett.com/",
+       "date": null
+      },
+      {
+       "title": "Scott Jewett (Ballotpedia)",
+       "url": "https://ballotpedia.org/Scott_Jewett",
+       "date": null
+      }
+     ]
     },
     "insurance": {
      "stance": null,
      "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "summary": "Calls Florida's homeowners-insurance system 'a disaster,' citing $43 billion in premiums paid versus $7 billion paid out for repairs, and lists insurance reform as a top priority; the direction of reform (state intervention vs. market) was not specified in available coverage.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Scott Jewett for Florida Governor (campaign site)",
+       "url": "https://scottjewett.com/",
+       "date": null
+      },
+      {
+       "title": "Scott Jewett (Ballotpedia)",
+       "url": "https://ballotpedia.org/Scott_Jewett",
+       "date": null
+      }
+     ]
     },
     "housing": {
      "stance": null,
@@ -782,11 +1685,22 @@
      "sources": []
     },
     "abortion": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Jewett says government should stay out of abortion decisions, leaving the choice to individuals and their doctors.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Scott Jewett for Florida Governor (campaign site)",
+       "url": "https://scottjewett.com/",
+       "date": null
+      },
+      {
+       "title": "Scott Jewett (Ballotpedia)",
+       "url": "https://ballotpedia.org/Scott_Jewett",
+       "date": null
+      }
+     ]
     },
     "guns": {
      "stance": null,
@@ -810,11 +1724,22 @@
      "sources": []
     },
     "education_choice": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Lists school choice among his platform priorities.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Scott Jewett for Florida Governor (campaign site)",
+       "url": "https://scottjewett.com/",
+       "date": null
+      },
+      {
+       "title": "Scott Jewett (Ballotpedia)",
+       "url": "https://ballotpedia.org/Scott_Jewett",
+       "date": null
+      }
+     ]
     },
     "environment": {
      "stance": null,
@@ -912,6 +1837,54 @@
       {
        "title": "Scott Jewett for Florida Governor (campaign site)",
        "url": "https://scottjewett.com/",
+       "date": null
+      }
+     ]
+    },
+    {
+     "title": "Homeowners' insurance reform",
+     "summary": "Calls the insurance system 'a disaster' ($43 billion in premiums vs. $7 billion paid out) and makes reform a top priority.",
+     "sources": [
+      {
+       "title": "Scott Jewett for Florida Governor (campaign site)",
+       "url": "https://scottjewett.com/",
+       "date": null
+      },
+      {
+       "title": "Scott Jewett (Ballotpedia)",
+       "url": "https://ballotpedia.org/Scott_Jewett",
+       "date": null
+      }
+     ]
+    },
+    {
+     "title": "Advanced nuclear power hub",
+     "summary": "Wants Florida to become a hub for advanced nuclear power.",
+     "sources": [
+      {
+       "title": "Scott Jewett for Florida Governor (campaign site)",
+       "url": "https://scottjewett.com/",
+       "date": null
+      },
+      {
+       "title": "Scott Jewett (Ballotpedia)",
+       "url": "https://ballotpedia.org/Scott_Jewett",
+       "date": null
+      }
+     ]
+    },
+    {
+     "title": "Criminal-justice and immigration reform",
+     "summary": "Lists criminal-justice and immigration reform among platform priorities (specifics not found).",
+     "sources": [
+      {
+       "title": "Scott Jewett for Florida Governor (campaign site)",
+       "url": "https://scottjewett.com/",
+       "date": null
+      },
+      {
+       "title": "Scott Jewett (Ballotpedia)",
+       "url": "https://ballotpedia.org/Scott_Jewett",
        "date": null
       }
      ]
@@ -1788,7 +2761,7 @@
    "website": "https://desmondmeade.com/",
    "occupation": "President, Florida Rights Restoration Coalition",
    "residence": "Orlando, Orange County",
-   "background": "Desmond Meade is president of the Florida Rights Restoration Coalition and led the 2018 Amendment 4 campaign that restored voting rights to most Floridians with past felony convictions; he is a MacArthur Fellow. He declared an NPA candidacy on May 28, 2026 and qualified in June 2026. WITHDREW: On Aug. 28, 2026 he sent a formal withdrawal letter to the Division of Elections, citing fundraising ('The rate of our fundraising was not what it needed for me to compete statewide'). Whether his name still prints on the Nov. 3 ballot could not be verified in this session.",
+   "background": "Desmond Meade is president of the Florida Rights Restoration Coalition and led the 2018 Amendment 4 campaign that restored voting rights to most Floridians with past felony convictions; he is a MacArthur Fellow. He declared an NPA candidacy on May 28, 2026 and qualified in June 2026. WITHDREW: On Aug. 28, 2026 he sent a formal withdrawal letter to the Division of Elections, citing fundraising ('The rate of our fundraising was not what it needed for me to compete statewide'). Florida Politics reports he submitted the notice of withdrawal by mail and email to the Division of Elections 'effective immediately.' A second search pass (Sept. 17, 2026) found no report or Division of Elections notice stating whether his name will still be printed on the Nov. 3 ballot; this remains unverified.",
    "primary_result": "No primary; qualified as NPA in June 2026, then withdrew Aug 28, 2026 (WLRN; Florida Politics)",
    "positions": {
     "taxes": {
@@ -1995,6 +2968,21 @@
       {
        "title": "Voting rights activist Desmond Meade withdraws from Governor's race (Florida Politics)",
        "url": "https://floridapolitics.com/archives/817406-voting-rights-activist-desmond-meade-withdraws-from-governors-race/",
+       "date": "2026-08-28"
+      }
+     ]
+    },
+    {
+     "item": "Submitted a formal notice of withdrawal to the Florida Division of Elections on Aug. 28, 2026, citing fundraising; ballot-printing status not confirmed.",
+     "sources": [
+      {
+       "title": "Voting rights activist Desmond Meade withdraws from Governor's race (Florida Politics)",
+       "url": "https://floridapolitics.com/archives/817406-voting-rights-activist-desmond-meade-withdraws-from-governors-race/",
+       "date": "2026-08-28"
+      },
+      {
+       "title": "Voting rights advocate Desmond Meade withdraws from Florida governor's race (WLRN)",
+       "url": "https://www.wlrn.org/government-politics/2026-08-28/desmond-meade-withdraws-florida-governor-election",
        "date": "2026-08-28"
       }
      ]
