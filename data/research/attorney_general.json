@@ -9,7 +9,7 @@
       "incumbent": true,
       "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/James%20Uthmeier.jpg",
       "photo_source": "Wikimedia Commons (file name unverified; official portrait also on myfloridalegal.com)",
-      "website": null,
+      "website": "https://jamesforfl.com/",
       "occupation": "Florida Attorney General (appointed); attorney",
       "residence": "Tallahassee, Leon County (native of Destin, Okaloosa County)",
       "background": "James William Uthmeier was born Nov. 25, 1987, and grew up in Destin, attending Fort Walton Beach High School. He graduated from the University of Florida, where he competed in track and field, and from Georgetown University Law Center in 2014. He practiced at Jones Day, served as senior counsel and senior advisor at the U.S. Department of Commerce in the first Trump administration (2017-2019), then joined Gov. Ron DeSantis' office as deputy general counsel (2019), general counsel (2020) and chief of staff (2021-2025); he also managed DeSantis' 2024 presidential campaign. DeSantis appointed him attorney general in February 2025 after Ashley Moody was appointed to the U.S. Senate. He is seeking his first full term and was unopposed for the Republican nomination.",
@@ -23,11 +23,16 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No clear position for or against eliminating homestead property taxes was found. After a Leon County judge ordered the DeSantis-backed Amendment 3 ballot summary rewritten as misleading, Uthmeier's office rewrote it (removing the phrase 'full elimination') and he said the proposal 'could certainly have been rolled out with greater transparency' and with input from law enforcement.",
-          "quote": "could certainly have been rolled out with greater transparency",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Uthmeier has said he supports Amendment 3, which would raise the homestead exemption to $250,000 by 2028, arguing the property-tax structure is 'anchored in the Constitution' and the change would let the Legislature make adjustments as needed. At the same time he said the proposal 'could certainly have been rolled out with greater transparency' and that sheriffs and law enforcement, who warned of revenue losses, should have been consulted. After a judge found the original ballot summary misleading, his office rewrote it and removed the 'full elimination' language.",
+          "quote": "The amendment could certainly have been rolled out with greater transparency. No one wants to defund our incredible sheriffs, yet there were no discussions to involve them in this process.",
           "sources": [
+            {
+              "title": "James Uthmeier says team is taking a 'hard look' at court demand for revised property tax amendment language (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/811430-james-uthmeier-says-team-is-taking-a-hard-look-at-court-demand-for-revised-property-tax-amendment-language/",
+              "date": "2026-08"
+            },
             {
               "title": "Does Florida AG Uthmeier dislike the property tax amendment DeSantis pushed? (Tampa Bay Times)",
               "url": "https://www.tampabay.com/news/florida-politics/elections/2026/08/14/florida-attorney-general-uthmeier-desantis-property-tax-amendment/",
@@ -36,6 +41,11 @@
             {
               "title": "Uthmeier rewrites property tax cut ballot summary (WGCU)",
               "url": "https://www.wgcu.org/government-politics/2026-08-14/uthmeier-rewrites-property-tax-cut-ballot-summary",
+              "date": "2026-08-14"
+            },
+            {
+              "title": "Florida AG revises property tax amendment language after judge's ruling (Central Florida Public Media)",
+              "url": "https://www.cfpublic.org/politics/2026-08-14/property-tax-amendment-revision",
               "date": "2026-08-14"
             }
           ]
@@ -143,11 +153,27 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Uthmeier's campaign biography says that as Gov. DeSantis' chief of staff he worked to expand school choice (the 2023 universal-voucher law passed during his tenure). As attorney general he has treated voucher eligibility as conditional on compliance with state law, warning Catholic schools that refusing religious vaccine exemptions could disqualify them from scholarships and asserting that vouchers to some Islamic schools violate state law.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "James Uthmeier (Club for Growth candidate profile)",
+              "url": "https://www.clubforgrowth.org/candidates/james-uthmeier/",
+              "date": null
+            },
+            {
+              "title": "Catholic school parents' complaints compelled James Uthmeier to challenge vax mandate (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/811454-catholic-school-parents-complaints-compelled-james-uthmeier-to-challenge-vax-mandate/",
+              "date": "2026-08"
+            },
+            {
+              "title": "School vouchers row: Local Islamic leaders hit back at Uthmeier's 'Sharia law' claim (WLRN)",
+              "url": "https://www.wlrn.org/education/2025-11-05/islamic-school-vouchers-florida-uthmeier-sharia",
+              "date": "2025-11-05"
+            }
+          ]
         },
         "environment": {
           "stance": -1,
@@ -620,11 +646,22 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Rodríguez says the attorney general should take on 'multimillion-dollar corporations, especially those in the insurance and utility industries,' go after fraud in property insurance and enforce consumer protections he says recent administrations have ignored. He has not been found to propose rate caps or expanding Citizens.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "José Javier Rodríguez visits Miami Shores (Miami-Dade Democratic Party)",
+              "url": "https://www.miamidadedems.org/jose-javier-rodriguez-candidate-attorney-general",
+              "date": "2026"
+            },
+            {
+              "title": "Jose Javier Rodriguez, running for AG, leans on big-business criticism (Yahoo/Tampa Bay Times)",
+              "url": "https://www.yahoo.com/news/politics/articles/jose-javier-rodriguez-running-ag-100000823.html",
+              "date": "2025"
+            }
+          ]
         },
         "housing": {
           "stance": null,
@@ -648,11 +685,22 @@
           "sources": []
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Rodríguez lists addressing gun violence among his public-safety priorities. He acknowledges that state preemption limits local gun rules but says the attorney general can enforce liability laws, advocate safe storage and work with law enforcement on 'commonsense reforms.' No specific statement on the red-flag law, the age-21 purchase rule or open carry was found.",
+          "quote": "Even in a red state, we can lead on gun safety — not just gun control.",
+          "sources": [
+            {
+              "title": "José Javier Rodríguez visits Miami Shores: A People's Lawyer for a Safer, Fairer Florida (Miami-Dade Democratic Party)",
+              "url": "https://www.miamidadedems.org/jose-javier-rodriguez-candidate-attorney-general",
+              "date": "2026"
+            },
+            {
+              "title": "Priorities | Jose Javier Rodriguez for Florida Attorney General",
+              "url": "https://www.jjr.vote/priorities",
+              "date": null
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -724,16 +772,38 @@
         "lgbtq": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "No explicit statement on the gender-affirming-care or classroom-instruction laws found as of Sept 2026; he was included in the early 2026 endorsement slate of SAVE, a South Florida LGBTQ+ rights organization.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "José Javier Rodríguez, Lucía Báez-Geller among SAVE's early 2026 endorsements (Political Cortadito)",
+              "url": "https://www.politicalcortadito.com/2026/05/17/jose-javier-rodriguez-lucia-baez-geller-among-saves-early-2026-endorsements/",
+              "date": "2026-05-17"
+            }
+          ]
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Rodríguez publicly called on Attorney General Uthmeier to intervene against Florida Power & Light's roughly $6.9 billion, four-year rate increase before the Public Service Commission, noting past Republican attorneys general had intervened in utility rate cases, and says as attorney general he would 'expose abuses by monopolistic utilities like FPL.' No statement on renewable-energy promotion or fossil-fuel production was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Florida AG candidate says Uthmeier should intervene in FPL rate hike increase (Miami Times)",
+              "url": "https://www.miamitimesonline.com/business/florida-ag-candidate-says-uthmeier-should-intervene-in-fpl-rate-hike-increase/article_df0fc4ca-b7d0-4588-814d-c8fcdf7fdf69.html",
+              "date": "2025"
+            },
+            {
+              "title": "Florida's GOP AGs used to intervene in utility rate cases, but no longer (Miami Times)",
+              "url": "https://www.miamitimesonline.com/business/florida-s-gop-ags-used-to-intervene-in-utility-rate-cases-but-no-longer/article_f7209369-5383-4d66-8e6d-0bb858dc0cad.amp.html",
+              "date": "2025"
+            },
+            {
+              "title": "José Javier Rodríguez visits Miami Shores (Miami-Dade Democratic Party)",
+              "url": "https://www.miamidadedems.org/jose-javier-rodriguez-candidate-attorney-general",
+              "date": "2026"
+            }
+          ]
         },
         "tariffs": {
           "stance": null,
@@ -812,6 +882,39 @@
               "date": null
             }
           ]
+        },
+        {
+          "title": "Utility rate oversight (FPL)",
+          "summary": "Called on the attorney general to intervene against FPL's $6.9 billion rate settlement and says he would use the office to challenge what he calls abuses by monopoly utilities.",
+          "sources": [
+            {
+              "title": "Florida AG candidate says Uthmeier should intervene in FPL rate hike increase (Miami Times)",
+              "url": "https://www.miamitimesonline.com/business/florida-ag-candidate-says-uthmeier-should-intervene-in-fpl-rate-hike-increase/article_df0fc4ca-b7d0-4588-814d-c8fcdf7fdf69.html",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "title": "Property-insurance fraud and landlords",
+          "summary": "Says he would go after fraud in property insurance and 'unjust landlords' and enforce consumer-protection laws.",
+          "sources": [
+            {
+              "title": "José Javier Rodríguez visits Miami Shores (Miami-Dade Democratic Party)",
+              "url": "https://www.miamidadedems.org/jose-javier-rodriguez-candidate-attorney-general",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Independence of the office",
+          "summary": "Campaigns on 'bringing independence back' to the attorney general's office from the governor, calling himself the 'people's lawyer' rather than the governor's.",
+          "sources": [
+            {
+              "title": "José Javier Rodríguez launches bid for Attorney General, vows to 'root out corruption' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/740877-jose-javier-rodriguez-launches-bid-for-attorney-general-vows-to-root-out-corruption/",
+              "date": "2025-06"
+            }
+          ]
         }
       ],
       "record": [
@@ -843,12 +946,57 @@
       ],
       "endorsements": [
         {
-          "by": "A major labor union (name not captured in available search snippet; see source)",
+          "by": "Florida AFL-CIO",
+          "sources": [
+            {
+              "title": "Florida AFL-CIO endorses 'principled' José Javier Rodríguez for Attorney General (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/798721-florida-afl-cio-endorses-principled-jose-javier-rodriguez-for-attorney-general/",
+              "date": "2026-05"
+            },
+            {
+              "title": "Florida AFL-CIO Debuts Labor 2026 Campaign With Endorsement of Jose Javier Rodriguez for Attorney General (flaflcio.org)",
+              "url": "https://flaflcio.org/florida-afl-cio-debuts-labor-2026-campaign-with-endorsement-of-jose-javier-rodriguez-for-attorney-general/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "SEIU Florida",
           "sources": [
             {
               "title": "José Javier Rodríguez adds major union endorsement to Attorney General campaign (Florida Politics)",
               "url": "https://floridapolitics.com/archives/797285-jose-javier-rodriguez-adds-major-union-endorsement-to-attorney-general-campaign/",
-              "date": null
+              "date": "2026-05"
+            }
+          ]
+        },
+        {
+          "by": "Florida Professional Firefighters, AFSCME Florida and UNITE HERE Florida locals",
+          "sources": [
+            {
+              "title": "3 more labor unions endorse 'strong advocate' José Javier Rodríguez in Attorney General race (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/809171-3-more-labor-unions-endorse-strong-advocate-jose-javier-rodriguez-in-attorney-general-race/",
+              "date": "2026-07"
+            }
+          ]
+        },
+        {
+          "by": "U.S. Rep. Maxwell Frost",
+          "sources": [
+            {
+              "title": "Congressman Maxwell Frost Endorses Jose Javier Rodriguez for Attorney General (The Floridian)",
+              "url": "https://floridianpress.com/2026/06/congressman-maxwell-frost-endorses-jose-javier-rodriguez-for-attorney-general/",
+              "date": "2026-06"
+            }
+          ]
+        },
+        {
+          "by": "SAVE (South Florida LGBTQ+ advocacy organization)",
+          "sources": [
+            {
+              "title": "José Javier Rodríguez, Lucía Báez-Geller among SAVE's early 2026 endorsements (Political Cortadito)",
+              "url": "https://www.politicalcortadito.com/2026/05/17/jose-javier-rodriguez-lucia-baez-geller-among-saves-early-2026-endorsements/",
+              "date": "2026-05-17"
             }
           ]
         }

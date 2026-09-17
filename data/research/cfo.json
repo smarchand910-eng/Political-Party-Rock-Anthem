@@ -9,32 +9,85 @@
       "incumbent": true,
       "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blaise%20Ingoglia.jpg",
       "photo_source": "Wikimedia Commons (file name unverified; official portrait also on myfloridacfo.com and flsenate.gov)",
-      "website": null,
+      "website": "https://blaiseforflorida.com/",
       "occupation": "Florida Chief Financial Officer (appointed); homebuilder",
       "residence": "Spring Hill, Hernando County",
       "background": "Ingoglia is a Hernando County homebuilder who served in the Florida House and then the Florida Senate and previously chaired the Republican Party of Florida. Gov. Ron DeSantis appointed him Chief Financial Officer on July 16, 2025, after Jimmy Patronis resigned March 31, 2025, to run for Congress; he took office July 21, 2025. Since taking office his most visible initiative has been leading Florida DOGE audit teams reviewing city and county spending. He won the Aug. 18, 2026 Republican primary with about 61% over Frank Collige.",
       "primary_result": "Won Aug. 18, 2026 Republican primary with 61% (968,222 votes) over Frank William Collige, 39% (610,860) (News4Jax results; FOX49).",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Ingoglia launched his campaign for a full term saying he would target government waste and pursue tax cuts, and says Florida has room to cut taxes while still funding essential government services. His 'Florida DOGE' (later renamed Florida Agency for Fiscal Oversight, FAFO) audits assert that local governments have overspent and should cut budgets rather than raise revenue.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "IN DEPTH: Florida CFO candidates talk affordability, insurance and state spending (WOKV)",
+              "url": "https://www.wokv.com/news/local/depth-florida-cfo-candidates-talk-affordability-insurance-state-spending/E5ARFQOPUNGOHFOPYVZ6LWIB3A/",
+              "date": "2026-08"
+            },
+            {
+              "title": "DeSantis-appointed CFO Blaise Ingoglia launches 2026 campaign, targets waste and tax cuts (Florida's Voice)",
+              "url": "https://flvoicenews.com/desantis-appointed-cfo-blaise-ingoglia-launches-2026-campaign-targets-waste-and-tax-cuts/",
+              "date": "2025-09"
+            },
+            {
+              "title": "What to know about Florida DOGE audits (WUSF)",
+              "url": "https://www.wusf.org/the-florida-roundup/2025-08-25/florida-cfo-blaise-ingoglia-doge-audits-wasteful-spending-undeniable",
+              "date": "2025-08-25"
+            }
+          ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Ingoglia's campaign launch video advocated eliminating property taxes in Florida, and he has described his DOGE/FAFO audits of city and county spending as a 'prelude to a constitutional amendment for property tax reform.' He has held press conferences across the state arguing local governments can absorb property-tax cuts by eliminating what he calls wasteful spending.",
+          "quote": "To provide meaningful property tax relief, we must first show taxpayers how their money is being spent.",
+          "sources": [
+            {
+              "title": "Blaise Ingoglia launches campaign for a full term as CFO (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/753839-blaise-ingoglia-launches-campaign-for-a-full-term-as-cfo/",
+              "date": "2025-09"
+            },
+            {
+              "title": "What to know about Florida DOGE audits (WUSF)",
+              "url": "https://www.wusf.org/the-florida-roundup/2025-08-25/florida-cfo-blaise-ingoglia-doge-audits-wasteful-spending-undeniable",
+              "date": "2025-08-25"
+            },
+            {
+              "title": "Florida Issues Update on Property Tax Cut Proposal (Newsweek)",
+              "url": "https://www.newsweek.com/florida-issues-update-property-tax-cut-proposal-2116917",
+              "date": "2025"
+            },
+            {
+              "title": "Calling himself 'unapologetically conservative,' Blaise Ingoglia kicks off his campaign for CFO (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2025/09/23/calling-himself-unapologetically-conservative-blaise-ingoglia-kicks-off-his-campaign-for-cfo/",
+              "date": "2025-09-23"
+            }
+          ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Ingoglia credits the 2022-2023 lawsuit (tort) reforms he supported as a legislator for stabilizing the market and lowering premiums, pointing to declining litigation, lower reinsurance costs and Citizens policyholders returning to private insurers. He has not proposed rate caps or expanding Citizens; as CFO he has emphasized enforcement, announcing more than $2 million in fines against eight insurers for claims-handling misconduct after Hurricanes Ian and Idalia and pledging accountability for insurers.",
+          "quote": "Four years ago, our insurance market was near collapse, which is why I stood alongside our Governor to create historic lawsuit reform, cut out the waste, fraud and abuse, and strengthen our insurance market. Those reforms are working, and Florida homeowners are seeing the benefits.",
+          "sources": [
+            {
+              "title": "ICYMI: Governor Ron DeSantis Announces Major Insurance Rate Relief as Florida's Reforms Deliver Results (myfloridacfo.com)",
+              "url": "https://myfloridacfo.com/news/pressreleases/press-release-details/2026/01/12/icymi--governor-ron-desantis-announces-major-insurance-rate-relief-as-florida's-reforms-deliver-results",
+              "date": "2026-01-12"
+            },
+            {
+              "title": "Florida CFO Ingoglia pledges accountability for insurers, makes 2026 election bid (WFLA)",
+              "url": "https://www.wfla.com/news/politics/florida-cfo-ingoglia-pledges-accountability-for-insurers-makes-2026-election-bid/",
+              "date": "2025-09"
+            },
+            {
+              "title": "Florida CFO Blaise Ingoglia pushes for tax reform and lower insurance rates (WTXL)",
+              "url": "https://www.wtxl.com/news/local-news/in-your-neighborhood/south-tallahassee/florida-cfo-blaise-ingoglia-calls-for-tax-reform-and-lower-insurance-rates",
+              "date": null
+            }
+          ]
         },
         "housing": {
           "stance": null,
@@ -165,17 +218,81 @@
       },
       "other_issues": [
         {
-          "title": "Florida DOGE audits of local governments",
-          "summary": "Leads teams of state auditors examining spending by city and county governments across Florida; this has been his signature initiative since his appointment.",
+          "title": "Florida DOGE / FAFO audits of local governments",
+          "summary": "Leads state audit teams (branded Florida DOGE, later renamed the Florida Agency for Fiscal Oversight, FAFO) that inspect city and county budgets, records and facilities and hold press conferences alleging overspending; says the audits will be followed by an informational campaign ahead of the property-tax amendment. County leaders have responded that the audit figures lack context, including state-mandated spending.",
           "sources": [
             {
-              "title": "2026 Florida Chief Financial Officer election (Wikipedia)",
-              "url": "https://en.wikipedia.org/wiki/2026_Florida_Chief_Financial_Officer_election",
-              "date": null
+              "title": "What to know about Florida DOGE audits (WUSF)",
+              "url": "https://www.wusf.org/the-florida-roundup/2025-08-25/florida-cfo-blaise-ingoglia-doge-audits-wasteful-spending-undeniable",
+              "date": "2025-08-25"
             },
             {
-              "title": "Annette Taddeo wins Florida Democratic primary for CFO, will face Ingoglia (ECIKS)",
-              "url": "https://eciks.org/21746-taddeo-wins-florida-cfo-primary",
+              "title": "DOGE audits begin: Florida teams to scrutinize city and county spending (First Coast News)",
+              "url": "https://www.firstcoastnews.com/article/news/politics/doge-audits-florida-spending/67-661a8da9-6f8f-4adb-9519-a587658c0c0b",
+              "date": "2025-07"
+            },
+            {
+              "title": "County leaders get candid in discussing getting 'DOGEd' by CFO's office (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2025/11/23/county-leaders-get-candid-in-discussing-getting-doged-by-cfos-office/",
+              "date": "2025-11-23"
+            }
+          ]
+        },
+        {
+          "title": "Insurer accountability and fines",
+          "summary": "Announced more than $2 million in fines against eight insurance companies for misconduct in handling claims from Hurricanes Ian and Idalia, and campaigns on holding insurers accountable for how they treat policyholders.",
+          "sources": [
+            {
+              "title": "Florida CFO Ingoglia pledges accountability for insurers, makes 2026 election bid (WFLA)",
+              "url": "https://www.wfla.com/news/politics/florida-cfo-ingoglia-pledges-accountability-for-insurers-makes-2026-election-bid/",
+              "date": "2025-09"
+            },
+            {
+              "title": "Chief Financial Officer Blaise Ingoglia Highlights Major Accomplishments of 2025 (myfloridacfo.com)",
+              "url": "https://myfloridacfo.com/news/pressreleases/press-release-details/2025/12/23/chief-financial-officer-blaise-ingoglia-highlights-major-accomplishments-of-2025",
+              "date": "2025-12-23"
+            }
+          ]
+        },
+        {
+          "title": "Unclaimed property returns",
+          "summary": "Touts record monthly returns of unclaimed property by the Department of Financial Services (e.g., $92 million in March 2026 and $88 million in February 2026), with the division reporting more than $847 million returned to Floridians.",
+          "sources": [
+            {
+              "title": "CFO Blaise Ingoglia Continues to Break Records with $92 Million Returned in Unclaimed Property in March (myfloridacfo.com)",
+              "url": "https://myfloridacfo.com/news/pressreleases/press-release-details/2026/04/16/chief-financial-officer-blaise-ingoglia-continues-to-break-records-with--92-million-returned-in-unclaimed-property-in-march",
+              "date": "2026-04-16"
+            },
+            {
+              "title": "CFO Blaise Ingoglia Announces $57 Million Returned in Unclaimed Property in July (myfloridacfo.com)",
+              "url": "https://myfloridacfo.com/news/pressreleases/press-release-details/2026/08/13/chief-financial-officer-blaise-ingoglia-announces--57-million-returned-in-unclaimed-property-in-july",
+              "date": "2026-08-13"
+            }
+          ]
+        },
+        {
+          "title": "Fraud investigations and arrests",
+          "summary": "His office's investigators have announced arrests in a scheme to defraud the state and he highlights anti-fraud enforcement (insurance fraud, public-assistance fraud) as part of his record.",
+          "sources": [
+            {
+              "title": "CFO Blaise Ingoglia Announces Four Additional Arrests in Scheme to Defraud the State (myfloridacfo.com)",
+              "url": "https://myfloridacfo.com/news/pressreleases/press-release-details/2026/02/17/chief-financial-officer-blaise-ingoglia-announces-four-additional-arrests-in-scheme-to-defraud-the-state",
+              "date": "2026-02-17"
+            },
+            {
+              "title": "CFO Blaise Ingoglia Marks 1 Year of Financial Accomplishments in Florida (myfloridacfo.com)",
+              "url": "https://myfloridacfo.com/news/pressreleases/press-release-details/2026/07/16/chief-financial-officer-blaise-ingoglia-marks-1-year-of-financial-accomplishments-in-florida",
+              "date": "2026-07-16"
+            }
+          ]
+        },
+        {
+          "title": "State Fire Marshal",
+          "summary": "As CFO he also serves as State Fire Marshal and as a member of the Florida Cabinet.",
+          "sources": [
+            {
+              "title": "About the CFO (myfloridacfo.com)",
+              "url": "https://myfloridacfo.com/about/meet-the-cfo",
               "date": null
             }
           ]
@@ -211,9 +328,100 @@
               "date": null
             }
           ]
+        },
+        {
+          "item": "Gov. DeSantis appointed Ingoglia over state Sen. Joe Gruters, whom President Trump had publicly endorsed for the CFO vacancy (July 2025).",
+          "sources": [
+            {
+              "title": "Ignoring Donald Trump, Gov. DeSantis taps Blaise Ingoglia as CFO (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/747511-ignoring-donald-trump-gov-desantis-taps-blaise-ingoglia-as-cfo/",
+              "date": "2025-07"
+            },
+            {
+              "title": "DeSantis picks Blaise Ingoglia for CFO over Trump candidate (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/2025/07/16/desantis-blaise-ingoglia-cfo-florida-gruters-trump-2026/",
+              "date": "2025-07-16"
+            }
+          ]
+        },
+        {
+          "item": "County officials in Tampa and elsewhere said the CFO's DOGE audit findings lacked context, including spending mandated by the state.",
+          "sources": [
+            {
+              "title": "Florida county leaders say 'DOGE' audits lack context, including state-mandated spending (Orlando Weekly)",
+              "url": "https://www.orlandoweekly.com/news/florida-county-leaders-say-doge-audits-lack-context-including-state-mandated-spending/",
+              "date": "2025-11"
+            },
+            {
+              "title": "County leaders get candid in discussing getting 'DOGEd' by CFO's office (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/767034-county-leaders-get-candid-in-discussing-getting-doged-by-cfos-office/",
+              "date": "2025-11"
+            }
+          ]
+        },
+        {
+          "item": "As a state senator voted for the 2022-2023 insurance and tort-reform package he now credits for premium reductions; the Office of Insurance Regulation and Governor announced rate decreases in January 2026.",
+          "sources": [
+            {
+              "title": "Governor Ron DeSantis Announces Major Insurance Rate Relief as Florida's Reforms Deliver Results (flgov.com)",
+              "url": "https://www.flgov.com/eog/news/press/2026/governor-ron-desantis-announces-major-insurance-rate-relief-floridas-reforms",
+              "date": "2026-01"
+            }
+          ]
         }
       ],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "Gov. Ron DeSantis",
+          "sources": [
+            {
+              "title": "DeSantis-appointed CFO Blaise Ingoglia launches 2026 campaign, targets waste and tax cuts (Florida's Voice)",
+              "url": "https://flvoicenews.com/desantis-appointed-cfo-blaise-ingoglia-launches-2026-campaign-targets-waste-and-tax-cuts/",
+              "date": "2025-09"
+            }
+          ]
+        },
+        {
+          "by": "Republican Party of Florida",
+          "sources": [
+            {
+              "title": "Florida GOP Endorses Blaise Ingoglia for Chief Financial Officer (The Floridian)",
+              "url": "https://floridianpress.com/2026/04/florida-gop-endorses-blaise-ingoglia-for-chief-financial-officer/",
+              "date": "2026-04"
+            },
+            {
+              "title": "Florida GOP backs 'conservative fighter' Blaise Ingoglia for full term as CFO in 2026 (Florida's Voice)",
+              "url": "https://flvoicenews.com/florida-gop-backs-conservative-fighter-blaise-ingoglia-for-full-term-as-cfo-in-2026/",
+              "date": "2026-04"
+            }
+          ]
+        },
+        {
+          "by": "Florida Chamber of Commerce",
+          "sources": [
+            {
+              "title": "Florida Chamber of Commerce Announces Endorsement of CFO Blaise Ingoglia",
+              "url": "https://www.flchamber.com/florida-chamber-of-commerce-announces-endorsement-of-cfo-blaise-ingoglia/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "60 sheriffs, 16 state senators, 55 state representatives and 13 state attorneys (per campaign website)",
+          "sources": [
+            {
+              "title": "DeSantis-appointed CFO Blaise Ingoglia launches 2026 campaign, targets waste and tax cuts (Florida's Voice)",
+              "url": "https://flvoicenews.com/desantis-appointed-cfo-blaise-ingoglia-launches-2026-campaign-targets-waste-and-tax-cuts/",
+              "date": "2025-09"
+            },
+            {
+              "title": "Blaise Ingoglia for CFO (campaign site)",
+              "url": "https://blaiseforflorida.com/",
+              "date": null
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "annette_taddeo",
@@ -222,7 +430,7 @@
       "incumbent": false,
       "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Annette%20Taddeo.jpg",
       "photo_source": "Wikimedia Commons (file name unverified)",
-      "website": null,
+      "website": "https://annettetaddeo.com/",
       "occupation": "Businesswoman; former state senator",
       "residence": "Miami, Miami-Dade County",
       "background": "Taddeo, 59, of Miami, is a former Florida state senator. She announced her campaign for Chief Financial Officer in June 2026 and has made government accountability the central theme, criticizing Ingoglia's audits of local governments and saying the CFO should be a 'watchdog,' not a 'lapdog.' She won the Aug. 18, 2026 Democratic primary with about 66% over Earle Ford.",
@@ -236,25 +444,68 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Taddeo questions the Amendment 3 homestead-exemption expansion, arguing that revenue lost from property taxes would have to be made up elsewhere and that local services still need funding; she has characterized the amendment as an attempt to 'trick' voters into believing the Legislature addressed cost of living. She says lowering property-insurance rates, not property taxes, is what voters raise most.",
+          "quote": "If they take it out of one, they're going to take it out of another one. The fact is, we still need certain resources.",
+          "sources": [
+            {
+              "title": "Former state Sen. Annette Taddeo joins Florida CFO race, questions property tax plan and state spending (WFLX)",
+              "url": "https://www.wflx.com/2026/06/09/former-state-sen-annette-taddeo-joins-florida-cfo-race-questions-property-tax-plan-state-spending/",
+              "date": "2026-06-09"
+            },
+            {
+              "title": "Democrats Annette Taddeo and Earle Ford compete to face CFO Blaise Ingoglia in November (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/07/24/democrats-annette-taddeo-and-earle-ford-compete-to-face-cfo-blaise-ingoglia-in-november/",
+              "date": "2026-07-24"
+            },
+            {
+              "title": "A 'watchdog,' not a 'lapdog': Annette Taddeo is running to unseat Blaise Ingoglia as CFO (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/800648-a-watchdog-not-a-lapdog-annette-taddeo-is-running-to-unseat-blaise-ingoglia-as-cfo/",
+              "date": "2026-06"
+            }
+          ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Taddeo says the property-insurance crisis is a main reason she entered the race and argues state leaders have failed to adequately regulate the industry, with homeowners paying through rising premiums and market instability. She calls for stronger CFO oversight and accountability of insurers, especially when policyholders struggle to collect after storms. No specific proposal on rate caps or expanding Citizens was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Annette Taddeo says she's running for Florida CFO to hold insurance companies accountable (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/annette-taddeo-florida-cfo-race-insurance-oversight-homeowners/",
+              "date": "2026"
+            },
+            {
+              "title": "Democrats Annette Taddeo and Earle Ford compete to face CFO Blaise Ingoglia in November (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/07/24/democrats-annette-taddeo-and-earle-ford-compete-to-face-cfo-blaise-ingoglia-in-november/",
+              "date": "2026-07-24"
+            },
+            {
+              "title": "Former state Sen. Annette Taddeo joins Florida CFO race, questions property tax plan and state spending (WPTV)",
+              "url": "https://www.wptv.com/news/state/former-state-sen-annette-taddeo-joins-florida-cfo-race-questions-property-tax-plan-and-state-spending",
+              "date": "2026-06"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "During her 2022 statewide campaign Taddeo said affordable housing was a top priority and called for a limit on how much rents can be raised; as a state senator she sponsored affordable-housing bills. No 2026 housing-specific proposal tied to the CFO office was found.",
+          "quote": "Let's at least help people right now with a limit.",
+          "sources": [
+            {
+              "title": "Affordable housing, education top priorities in Sen. Annette Taddeo's campaign (WPTV)",
+              "url": "https://www.wptv.com/news/political/to-the-point/affordable-housing-education-top-priorities-in-sen-annette-taddeos-campaign",
+              "date": "2022"
+            },
+            {
+              "title": "State Senator Annette Taddeo - sponsored bills (BillTrack50)",
+              "url": "https://www.billtrack50.com/legislatordetail/22647",
+              "date": null
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -392,6 +643,49 @@
               "date": null
             }
           ]
+        },
+        {
+          "title": "Investigations of no-bid state contracts (Alligator Alcatraz, Hope Florida)",
+          "summary": "Calls for the CFO to investigate no-bid state contracts and spending from state emergency funds, citing the 'Alligator Alcatraz' detention site and the Hope Florida Medicaid-settlement controversy, and says political connections should not influence how money is spent.",
+          "sources": [
+            {
+              "title": "Florida CFO race draws Republican, Democratic challengers ahead of Tuesday's primary (WCTV)",
+              "url": "https://www.wctv.tv/2026/08/12/florida-cfo-race-draws-republican-democratic-challengers-ahead-tuesdays-primary/",
+              "date": "2026-08-12"
+            },
+            {
+              "title": "Former state Sen. Annette Taddeo joins Florida CFO race, questions property tax plan and state spending (WPTV)",
+              "url": "https://www.wptv.com/news/state/former-state-sen-annette-taddeo-joins-florida-cfo-race-questions-property-tax-plan-and-state-spending",
+              "date": "2026-06"
+            }
+          ]
+        },
+        {
+          "title": "Insurance company accountability",
+          "summary": "Says the CFO should use the office's authority to hold insurers accountable for claims handling and premiums; describes the insurance crisis as the reason she ran.",
+          "sources": [
+            {
+              "title": "Annette Taddeo says she's running for Florida CFO to hold insurance companies accountable (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/annette-taddeo-florida-cfo-race-insurance-oversight-homeowners/",
+              "date": "2026"
+            },
+            {
+              "title": "Issues - Annette Taddeo for Chief Financial Officer (campaign site)",
+              "url": "https://annettetaddeo.com/issues",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Oversight of taxpayer dollars / audits",
+          "summary": "Says the CFO should provide more oversight of how taxpayer money is spent and criticizes the current handling of state contracts and audits.",
+          "sources": [
+            {
+              "title": "Taddeo joins Florida CFO race, questions property tax plan and state spending (Tampa Bay 28)",
+              "url": "https://www.tampabay28.com/news/state/taddeo-joins-florida-cfo-race-questions-property-tax-plan-and-state-spending",
+              "date": "2026-06"
+            }
+          ]
         }
       ],
       "record": [
@@ -406,7 +700,63 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "Florida AFL-CIO",
+          "sources": [
+            {
+              "title": "'She has consistently stood with the people': Florida AFL-CIO backs Annette Taddeo for CFO (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/812596-she-has-consistently-stood-with-the-people-florida-afl-cio-backs-annette-taddeo-for-cfo/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "by": "Teamsters Joint Council 75",
+          "sources": [
+            {
+              "title": "Teamsters, Democratic leaders line up behind Annette Taddeo's CFO campaign (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/809702-teamsters-democratic-leaders-line-up-behind-annette-taddeos-cfo-campaign/",
+              "date": "2026-07"
+            }
+          ]
+        },
+        {
+          "by": "Miami-Dade County Mayor Daniella Levine Cava and Orange County Mayor Jerry Demings",
+          "sources": [
+            {
+              "title": "Daniella Levine Cava, Jerry Demings endorse Annette Taddeo for CFO (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/807786-daniella-levine-cava-jerry-demings-endorse-annette-taddeo-for-cfo/",
+              "date": "2026-07"
+            }
+          ]
+        },
+        {
+          "by": "Former CFO Alex Sink",
+          "sources": [
+            {
+              "title": "'Experience, integrity and independence': Alex Sink backs Annette Taddeo for CFO (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/802050-experience-integrity-and-independence-alex-sink-backs-annette-taddeo-for-cfo/",
+              "date": "2026-06"
+            }
+          ]
+        },
+        {
+          "by": "Florida legislative Democratic leaders Lori Berman, Fentrice Driskell and Tracie Davis; former U.S. Reps. Donna Shalala, Al Lawson and Kendrick Meek",
+          "sources": [
+            {
+              "title": "Teamsters, Democratic leaders line up behind Annette Taddeo's CFO campaign (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/809702-teamsters-democratic-leaders-line-up-behind-annette-taddeos-cfo-campaign/",
+              "date": "2026-07"
+            },
+            {
+              "title": "Endorsements - Annette Taddeo for Chief Financial Officer (campaign site)",
+              "url": "https://annettetaddeo.com/endorsements",
+              "date": null
+            }
+          ]
+        }
+      ]
     }
   ]
 }

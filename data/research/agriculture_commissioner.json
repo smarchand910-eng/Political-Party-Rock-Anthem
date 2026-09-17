@@ -9,7 +9,7 @@
       "incumbent": true,
       "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wilton%20Simpson.jpg",
       "photo_source": "Wikimedia Commons (file name unverified; official portrait on fdacs.gov)",
-      "website": null,
+      "website": "https://wiltonsimpson.com/",
       "occupation": "Florida Commissioner of Agriculture and Consumer Services; farmer/businessman",
       "residence": "Trilby, Pasco County (unverified)",
       "background": "Simpson is the incumbent Commissioner of Agriculture, first elected in 2022, and a former president of the Florida Senate. He is seeking a second term and won the Aug. 18, 2026 Republican primary with roughly 69-70% over Plant City welder and social-media personality Matt 'The Welder' Taylor. His campaign and affiliated committees raised more than $4.8 million in 2026, much of it from farmers and ranchers.",
@@ -44,11 +44,32 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Simpson says he is 'doubling down' on support for federal immigration enforcement, saying farmers 'cannot keep having an influx of illegal folks coming across that border,' and has played down the prospect that mass deportations would harm Florida agriculture, saying most farm labor is legal H-2A visa labor. He advocates simplifying the H-2A visa process for small farms. As a state senator he voted for the 2019 'sanctuary city' ban (SB 168).",
+          "quote": "In Florida, the vast majority of our agriculture labor is H2A legal labor.",
+          "sources": [
+            {
+              "title": "Wilton Simpson doubles down on support for immigration crackdowns (WUSF)",
+              "url": "https://www.wusf.org/politics-issues/2025-06-23/state-agriculture-commissioner-doubles-down-support-immigration-crackdowns",
+              "date": "2025-06-23"
+            },
+            {
+              "title": "Ag commissioner dismisses economic harm from mass deportations (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2025/01/14/ag-commissioner-dismisses-economic-harm-from-mass-deportations/",
+              "date": "2025-01-14"
+            },
+            {
+              "title": "Florida's new immigration law and E-Verify could pose 'challenges' (WUSF)",
+              "url": "https://www.wusf.org/politics-issues/2023-05-19/florida-new-immigration-law-everify-challenges",
+              "date": "2023-05-19"
+            },
+            {
+              "title": "SB 168 (2019) - Florida Senate bill page with vote history",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/168",
+              "date": "2019-05"
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -58,11 +79,32 @@
           "sources": []
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Simpson has said he supports permitless ('constitutional') carry and would have voted for it on the Senate floor, though gun-rights groups criticized him as Senate President for not bringing such a bill to a vote. As Agriculture Commissioner he oversees concealed-weapon licensing, says the licensing program 'will remain exactly the same' under the 2023 permitless-carry law, encourages Floridians to still obtain licenses for reciprocity and waiting-period benefits, and reports the license backlog is cleared. No statement calling for repeal of the red-flag law or the age-21 rule was found.",
+          "quote": "I support Constitutional Carry and I would vote for it if it came to the Senate Floor.",
+          "sources": [
+            {
+              "title": "Wilton Simpson says he'd vote for constitutional carry bill (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/488221-wilton-simpson-says-hed-vote-for-constitutional-carry-bill/",
+              "date": "2022"
+            },
+            {
+              "title": "Wilton Simpson Says he Supports Constitutional Carry: 'Reasonable Chance' of Passing Next Session (Florida's Voice)",
+              "url": "https://flvoicenews.com/wilton-simpson-says-he-supports-constitutional-carry-reasonable-chance-of-passing-next-session/",
+              "date": "2022"
+            },
+            {
+              "title": "Gun owners may want concealed carry permit, despite Florida's new permitless carry rule (FOX 13)",
+              "url": "https://www.fox13news.com/news/agriculture-commissioner-encourages-floridians-to-carry-concealed-with-a-permit",
+              "date": "2023"
+            },
+            {
+              "title": "Florida's Pro-2A Ag Commissioner Says Carry License Backlog Is Cleared (Bearing Arms)",
+              "url": "https://bearingarms.com/camedwards/2026/05/23/floridas-pro-2a-ag-commissioner-says-carry-license-backlog-is-cleared-n1232619",
+              "date": "2026-05-23"
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -100,11 +142,22 @@
           "sources": []
         },
         "marijuana": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Simpson opposed the 2024 recreational-marijuana amendment, and in 2026 praised a Fifth District Court of Appeal ruling upholding his department's enforcement of THC limits on hemp products as stopping a 'back-door' effort to legalize recreational marijuana. He says he worked with the Legislature beginning in 2023 to put 'guardrails' on hemp products and their marketing to children.",
+          "quote": "shuts down a devious attempt to, effectively, legalize recreational marijuana in Florida",
+          "sources": [
+            {
+              "title": "Statement from Commissioner Wilton Simpson on Fifth DCA Decision Stopping Back-Door Effort to Legalize Recreational Marijuana (FDACS)",
+              "url": "https://www.fdacs.gov/News-Events/Press-Releases/2026-Press-Releases/Statement-from-Commissioner-Wilton-Simpson-on-Fifth-DCA-Decision-Stopping-Back-Door-Effort-to-Legalize-Recreational-Marijuana",
+              "date": "2026"
+            },
+            {
+              "title": "Wilton Simpson - Wikipedia (with citations)",
+              "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
+              "date": null
+            }
+          ]
         },
         "elections": {
           "stance": null,
@@ -163,7 +216,121 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Rural and Family Lands Protection Program (farmland conservation easements)",
+          "summary": "Has secured more than $1.1 billion in state funding since 2022, including a record $425 million in the 2026-27 budget, to buy conservation easements that keep working farms and ranches from being developed; the program has protected more than 234,000 acres, over 168,000 of them during his term, and received a record 500+ applications in the latest cycle.",
+          "sources": [
+            {
+              "title": "Wilton Simpson Applauds Florida Legislature for Historic Funding to Save Agricultural Lands from Development (FDACS)",
+              "url": "https://www.fdacs.gov/News-Events/Press-Releases/2026-Press-Releases/Wilton-Simpson-Applauds-Florida-Legislature-for-Historic-Funding-to-Save-Agricultural-Lands-from-Development",
+              "date": "2026"
+            },
+            {
+              "title": "Commissioner Wilton Simpson Announces Rural and Family Lands Protection Program Receives Record Applications (FDACS)",
+              "url": "https://www.fdacs.gov/News-Events/Press-Releases/2026-Press-Releases/Commissioner-Wilton-Simpson-Announces-Rural-and-Family-Lands-Protection-Program-Receives-Record-Applications",
+              "date": "2026"
+            },
+            {
+              "title": "Environment - Wilton Simpson campaign site",
+              "url": "https://wiltonsimpson.com/environment/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Amendment 2 (2026): property-tax exemption for farm equipment",
+          "summary": "Supports the Nov. 3 ballot's Amendment 2, which would exempt tangible personal property such as farm equipment used for agriculture or agritourism from property taxes beginning 2027; he calls food security a national-security issue and the amendment 'a pivotal step towards securing the permanent future of agriculture in Florida.' A Senate estimate puts the local revenue reduction at about $31 million in 2027-28.",
+          "sources": [
+            {
+              "title": "Amendment 2: Agricultural Tangible Personal Property Tax Exemption, Explained (Bradenton Times)",
+              "url": "https://thebradentontimes.com/stories/2026-constitutional-amendment-2-agricultural-tangible-personal-property-tax-exemption,212219",
+              "date": "2026"
+            },
+            {
+              "title": "Florida Exempt Tangible Personal Property Used for Agriculture or Agritourism from Property Taxes Amendment (Ballotpedia)",
+              "url": "https://ballotpedia.org/Florida_Exempt_Tangible_Personal_Property_Used_for_Agriculture_or_Agritourism_from_Property_Taxes_Amendment_(2026)",
+              "date": null
+            },
+            {
+              "title": "Floridians to vote on tangible property tax amendment for agricultural business (Spectrum News 13)",
+              "url": "https://mynews13.com/fl/orlando/news/2026/04/09/floridians-to-vote-on-amendment-on-tangible-property-tax-for-agricultural-businesses",
+              "date": "2026-04-09"
+            }
+          ]
+        },
+        {
+          "title": "Hemp product regulation",
+          "summary": "Worked with the Legislature beginning in 2023 to set THC limits, packaging and marketing rules for hemp products, and his department's enforcement of total-THC limits was upheld on appeal in 2026.",
+          "sources": [
+            {
+              "title": "Statement from Commissioner Wilton Simpson on Fifth DCA Decision (FDACS)",
+              "url": "https://www.fdacs.gov/News-Events/Press-Releases/2026-Press-Releases/Statement-from-Commissioner-Wilton-Simpson-on-Fifth-DCA-Decision-Stopping-Back-Door-Effort-to-Legalize-Recreational-Marijuana",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Lab-grown meat ban and foreign ownership of farmland",
+          "summary": "Backed the 2024 law making Florida the first state to outlaw lab-grown (cultivated) meat and Farm Bill provisions barring 'hostile foreign nations' from buying Florida agricultural land.",
+          "sources": [
+            {
+              "title": "Wilton Simpson hits the air with first re-election ad, 'Done' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/806339-wilton-simpson-hits-the-air-with-first-re-election-ad-done/",
+              "date": "2026-07"
+            }
+          ]
+        },
+        {
+          "title": "Wildfire mitigation",
+          "summary": "Steered more than $100 million into wildfire mitigation and prescribed burns through the Florida Forest Service.",
+          "sources": [
+            {
+              "title": "Wilton Simpson hits the air with first re-election ad, 'Done' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/806339-wilton-simpson-hits-the-air-with-first-re-election-ad-done/",
+              "date": "2026-07"
+            }
+          ]
+        },
+        {
+          "title": "Solar farms on agricultural land",
+          "summary": "His Florida Farm Bill proposal would return decisions on siting solar farms on agricultural land to local governments and clarify the tax structure to encourage dual use of solar with working agriculture; his department also houses the state Office of Energy.",
+          "sources": [
+            {
+              "title": "Commissioner Wilton Simpson Highlights 2025 Florida Farm Bill, Proposal to Protect Farmers, Ranchers from ESG Lending Discrimination (FDACS)",
+              "url": "https://www.fdacs.gov/News-Events/Press-Releases/2025-Press-Releases/Commissioner-Wilton-Simpson-Highlights-2025-Florida-Farm-Bill-Proposal-to-Protect-Farmers-Ranchers-from-ESG-Lending-Discrimination",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "title": "H-2A farm labor visa simplification",
+          "summary": "Advocates simplifying the federal H-2A agricultural visa process so small farms can access legal guest labor.",
+          "sources": [
+            {
+              "title": "Ag commissioner dismisses economic harm from mass deportations (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2025/01/14/ag-commissioner-dismisses-economic-harm-from-mass-deportations/",
+              "date": "2025-01-14"
+            }
+          ]
+        },
+        {
+          "title": "'Year of the Farmer' budget and agency funding",
+          "summary": "Requested nearly $415 million for his department ahead of the 2026 session and declared 2026 'The Year of the Farmer' after the Legislature passed what he called historic agriculture funding.",
+          "sources": [
+            {
+              "title": "Sowing the seeds of success: Wilton Simpson's Office asks for nearly $415M ahead of 2026 Session (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/756635-sowing-the-seeds-of-success-wilton-simpsons-office-asks-for-nearly-415m-ahead-of-2026-session/",
+              "date": "2025"
+            },
+            {
+              "title": "Wilton Simpson declares 2026 'The Year of the Farmer' as state budget delivers historic ag funding (Feeding Florida / Florida's Voice)",
+              "url": "https://www.feedingflorida.org/take-action/learn/news/floridas-voice-wilton-simpson-declares-2026-the-year-of-the-farmer-as-state-budget-delivers-historic-ag-funding/",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Elected Commissioner of Agriculture in 2022 after serving as Florida Senate President.",
@@ -187,6 +354,41 @@
               "title": "Florida's primary races for commissioner of agriculture (Florida Phoenix)",
               "url": "https://floridaphoenix.com/2026/08/07/floridas-primary-races-for-commissioner-of-agriculture/",
               "date": null
+            }
+          ]
+        },
+        {
+          "item": "Entered the 2026 race in April with about $33 million across four political committees after deciding not to run for governor.",
+          "sources": [
+            {
+              "title": "Wilton Simpson, expected contender for governor, files for reelection instead (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/04/27/wilton-simpson-agriculture-commissioner-2026-election-governor-desantis/",
+              "date": "2026-04-27"
+            },
+            {
+              "title": "Who is pouring millions into the sleepy race for Florida's ag commissioner? (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-08-03/who-is-pouring-millions-into-the-sleepy-race-for-floridas-ag-commissioner",
+              "date": "2026-08-03"
+            }
+          ]
+        },
+        {
+          "item": "Gun-rights group Florida Carry publicly called on him, as Senate President in 2022, to pass a permitless-carry bill that did not reach the floor that session.",
+          "sources": [
+            {
+              "title": "Florida Carry Calls on Senate President Wilton Simpson to Pass Constitutional Carry (The Truth About Guns)",
+              "url": "https://www.thetruthaboutguns.com/florida-carry-calls-on-senate-president-wilson-simpson-to-pass-constitutional-carry/",
+              "date": "2022"
+            }
+          ]
+        },
+        {
+          "item": "Dropped a lawsuit against FDLE over concealed-weapon-license background checks.",
+          "sources": [
+            {
+              "title": "Wilton Simpson drops lawsuit against FDLE over concealed carry license background checks (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/581096-wilton-simpson-drops-lawsuit-against-fdle-over-concealed-carry-license-background-checks/",
+              "date": "2023"
             }
           ]
         }
@@ -221,6 +423,31 @@
               "date": null
             }
           ]
+        },
+        {
+          "by": "Florida Chamber of Commerce",
+          "sources": [
+            {
+              "title": "Wilton Simpson hits the air with first re-election ad, 'Done' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/806339-wilton-simpson-hits-the-air-with-first-re-election-ad-done/",
+              "date": "2026-07"
+            }
+          ]
+        },
+        {
+          "by": "61 of Florida's 67 sheriffs",
+          "sources": [
+            {
+              "title": "Wilton Simpson hits the air with first re-election ad, 'Done' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/806339-wilton-simpson-hits-the-air-with-first-re-election-ad-done/",
+              "date": "2026-07"
+            },
+            {
+              "title": "Trump-Backed Florida Ag Commissioner Wilton Simpson Launches 2026 Re-election Bid (Tampa Free Press)",
+              "url": "https://www.tampafp.com/trump-backed-florida-ag-commissioner-wilton-simpson-launches-2026-re-election-bid/",
+              "date": "2026-04"
+            }
+          ]
         }
       ]
     },
@@ -230,11 +457,11 @@
       "party": "Democratic",
       "incumbent": false,
       "photo_url": null,
-      "photo_source": "No public portrait URL located",
-      "website": null,
+      "photo_source": "No public portrait URL located; campaign Instagram is @joeyforflorida (https://www.instagram.com/joeyforflorida/)",
+      "website": "https://www.joeyforflorida.com/",
       "occupation": "Attorney and sports agent",
-      "residence": "Florida (city/county not found)",
-      "background": "Atkins is a trial attorney and sports agent who has provided legal aid to migrant farmworkers. He won the Aug. 18, 2026 Democratic primary with about 60% over Donald 'Don' Prichard. His campaign reported raising $1,685 and loaning itself $8,480 as of early August 2026.",
+      "residence": "Miami, Miami-Dade County",
+      "background": "Atkins is a Miami trial attorney and former sports agent. He earned a bachelor's degree in political science from Florida Atlantic University, a J.D. from the University of Toledo College of Law (2013) and a master's degree in environmental management, and has done policy work with the UN Global Compact. He worked at a legal-aid foundation representing migrant farmworkers and DACA recipients. He won the Aug. 18, 2026 Democratic primary with about 60% over Donald 'Don' Prichard; his campaign reported raising $1,685 and loaning itself $8,480 as of early August 2026.",
       "primary_result": "Won Aug. 18, 2026 Democratic primary with 60.3% over Donald A. 'Don' Prichard, 39.7% (Florida Politics; WUWF).",
       "positions": {
         "taxes": {
@@ -268,7 +495,7 @@
         "immigration": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "No explicit position on enforcement or deportation found as of Sept 2026; his biography emphasizes legal aid to migrant farmworkers and DACA recipients, and he says agriculture 'is about people, it's about the families who harvest our food.'",
           "quote": null,
           "sources": []
         },
@@ -308,18 +535,45 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Atkins says he is running to 'protect and preserve Florida's natural resources' and that government needs systems that look at long-term issues such as water-table and aquifer preservation. He calls for a moratorium on data centers and a rollback of legislation that shields sugar growers from air-pollution lawsuits.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
+              "date": "2026-08-10"
+            },
+            {
+              "title": "Florida's primary races for commissioner of agriculture (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/08/07/floridas-primary-races-for-commissioner-of-agriculture/",
+              "date": "2026-08-07"
+            },
+            {
+              "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner (campaign site)",
+              "url": "https://www.joeyforflorida.com/",
+              "date": null
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Atkins calls for a moratorium on new data centers and says keeping them out of communities will be a top priority; he has not been found to address impact fees, density limits or local control more broadly.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Debate about data centers emerges in Donalds-Jolly gubernatorial race (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-09-16/debate-about-data-centers-emerges-in-donalds-jolly-gubernatorial-race",
+              "date": "2026-09-16"
+            },
+            {
+              "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
+              "date": "2026-08-10"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -399,6 +653,44 @@
               "title": "Election 2026: Florida's primary races for commissioner of agriculture (WLRN)",
               "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
               "date": null
+            }
+          ]
+        },
+        {
+          "title": "Moratorium on data centers",
+          "summary": "Says data centers will be a defining issue in November and that keeping them out of communities would be a top priority as commissioner; joined a Democratic 'Data Center Donalds' tour in Pinellas County.",
+          "sources": [
+            {
+              "title": "Debate about data centers emerges in Donalds-Jolly gubernatorial race (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-09-16/debate-about-data-centers-emerges-in-donalds-jolly-gubernatorial-race",
+              "date": "2026-09-16"
+            }
+          ]
+        },
+        {
+          "title": "Repeal of liability shield for sugar growers' air pollution",
+          "summary": "Calls for rolling back legislation that shields sugar growers from air-pollution lawsuits.",
+          "sources": [
+            {
+              "title": "Florida's primary races for commissioner of agriculture (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/08/07/floridas-primary-races-for-commissioner-of-agriculture/",
+              "date": "2026-08-07"
+            }
+          ]
+        },
+        {
+          "title": "Special interests and cost of living",
+          "summary": "Campaign site says he is running to 'take on the corruption of multi-millionaire politician Wilton Simpson,' to 'fight for regular Floridians against special interests, and cut costs for Florida families.'",
+          "sources": [
+            {
+              "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner (campaign site)",
+              "url": "https://www.joeyforflorida.com/",
+              "date": null
+            },
+            {
+              "title": "Race Analysis: Florida AG Commissioner Democratic Primary (Bradenton Times)",
+              "url": "https://thebradentontimes.com/stories/florida-ag-commissioner-democratic-primary-donald-prichard-and-joey-mendoza-atkins,205016",
+              "date": "2026-08"
             }
           ]
         }

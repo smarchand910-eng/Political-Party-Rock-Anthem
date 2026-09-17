@@ -143,8 +143,8 @@
         </div>
       </section>
       ${(other.decided_or_unopposed && other.decided_or_unopposed.length) || (other.unverified && other.unverified.length) || (sb.results && sb.results.length) ? `
-      <section class="section"><h2>Already decided or uncontested</h2>
-        <p class="muted">These seats were filled in the August 18 primary, or only one candidate qualified, so they will not appear as a contest in November. Listed for completeness.</p>
+      <section class="section"><h2>Also on or off the ballot: decided, uncontested, municipal and unverified items</h2>
+        <p class="muted">Seats filled in the August 18 primary or without opposition, city council seats scheduled for November (candidates not yet verified), and items we could not confirm. Check your sample ballot for city races.</p>
         <div class="card">
           ${(other.decided_or_unopposed || []).length ? `<h3>Decided in August or unopposed</h3><ul>${other.decided_or_unopposed.map(x => `<li><strong>${esc(x.office || x.title || x.race || '')}</strong>${x.status ? ` <span class="tag">${esc(x.status)}</span>` : ''}${x.result ? ': ' + esc(x.result) : ''}${x.note ? `<br><small class="muted">${esc(x.note)}</small>` : ''}${sourcesHtml(x.sources)}</li>`).join('')}</ul>` : ''}
           ${(other.unverified || []).length ? `<h3>Could not be verified</h3><ul>${other.unverified.map(x => `<li><strong>${esc(x.office || x.title || '')}</strong>${x.note ? `<br><small class="muted">${esc(x.note)}</small>` : ''}${sourcesHtml(x.sources)}</li>`).join('')}</ul>` : ''}
@@ -326,12 +326,14 @@
       ${list.length ? list.map(a => `<div class="card" id="amend-${esc(a.number)}">
         <div class="eyebrow">Amendment ${esc(a.number)}${a.sponsor ? ` · ${esc(a.sponsor)}` : ''}</div>
         <h2>${esc(a.title)}</h2>
-        ${a.ballot_summary ? `<details open><summary>Official ballot summary</summary><p style="margin-top:8px">${esc(a.ballot_summary)}</p></details>` : ''}
+        ${a.original_title ? `<p class="muted"><small>Originally titled "${esc(a.original_title)}". ${a.ballot_language_litigation ? esc(a.ballot_language_litigation.summary || '') : ''}${a.ballot_language_litigation && a.ballot_language_litigation.sources ? ' ' + a.ballot_language_litigation.sources.map(u => `<a href="${esc(typeof u === 'string' ? u : u.url)}" target="_blank" rel="noopener">${esc(hostOf(typeof u === 'string' ? u : u.url))}</a>`).join(' · ') : ''}</small></p>` : ''}
+        ${a.ballot_summary ? `<details open><summary>Official ballot summary</summary><p style="margin-top:8px">${esc(a.ballot_summary)}</p>${a.ballot_summary_note ? `<p class="muted"><small>${esc(a.ballot_summary_note)}</small></p>` : ''}</details>` : ''}
         <div class="grid grid-2" style="margin-top:14px">
           <div><h3>A "Yes" vote means</h3><p>${esc(a.what_yes_means || '')}</p></div>
           <div><h3>A "No" vote means</h3><p>${esc(a.what_no_means || '')}</p></div>
         </div>
-        ${a.fiscal_impact ? `<h3>Estimated fiscal impact</h3><p>${esc(a.fiscal_impact)}</p>` : ''}
+        ${a.fiscal_impact ? `<h3>Estimated fiscal impact</h3><p>${esc(a.fiscal_impact)}${sourcesHtml(a.fiscal_impact_sources)}</p>` : ''}
+        ${(a.neutral_analyses || []).length ? `<h3>Independent analyses</h3><ul>${a.neutral_analyses.map(n => `<li>${typeof n === 'string' ? esc(n) : `<strong>${esc(n.who || n.title || '')}</strong>${n.summary ? ': ' + esc(n.summary) : ''}${sourcesHtml(n.sources || (n.url ? [{url: n.url, title: n.title}] : []))}`}</li>`).join('')}</ul>` : ''}
         <div class="grid grid-2">
           <div><h3>Who supports it, and why</h3>${(a.supporters || []).length ? `<ul>${a.supporters.map(s => `<li><strong>${esc(s.who)}</strong>: ${esc(s.argument)}${sourcesHtml(s.sources)}</li>`).join('')}</ul>` : '<p class="empty">No organized support found.</p>'}</div>
           <div><h3>Who opposes it, and why</h3>${(a.opponents || []).length ? `<ul>${a.opponents.map(s => `<li><strong>${esc(s.who)}</strong>: ${esc(s.argument)}${sourcesHtml(s.sources)}</li>`).join('')}</ul>` : '<p class="empty">No organized opposition found.</p>'}</div>
@@ -347,7 +349,8 @@
       <p class="lead muted">${esc(j.how_it_works || j.how_merit_retention_works || 'Florida Supreme Court justices and District Court of Appeal judges do not run against opponents. Voters answer "Shall Justice/Judge X be retained in office?" A majority Yes gives a new six-year term; a majority No creates a vacancy the governor fills.')}${j.sources ? '' : ''}</p>
       ${sourcesHtml(j.sources || j.how_it_works_sources)}
       ${j.ballot_context ? `<p class="notice">${esc(j.ballot_context)}</p>` : ''}
-      ${j.list_complete === false ? `<p class="notice notice-warn">This list may be incomplete: the full 2026 Fifth District Court of Appeal retention roster could not be confirmed from the Florida Bar during the last data review. ${esc(j.research_note || '')}</p>` : ''}
+      ${j.list_complete === false ? `<p class="notice notice-warn">This list may be incomplete: the full 2026 Fifth District Court of Appeal retention roster could not be confirmed from the Florida Bar during the last data review. Check your sample ballot for the exact names. ${esc(j.research_note || '')}</p>` : ''}
+      ${j.not_on_2026_ballot_note ? `<p class="muted"><small>${esc(j.not_on_2026_ballot_note)}</small>${sourcesHtml(j.not_on_2026_sources)}</p>` : ''}
       <div class="stack section">${judges.length ? judges.map(x => `<div class="card cand-card">
         ${avatar(x, 'lg')}
         <div>
@@ -370,7 +373,7 @@
         <dl class="kv">
           ${row('Election Day', v.election_date)}${row('Polls open', v.election_day_hours)}${row('Register / update party by', v.registration_deadline)}
           ${row('Request a mail ballot by', v.vote_by_mail_request_deadline)}${row('Mail ballot must arrive by', v.vote_by_mail_return_deadline)}
-          ${row('Early voting', v.early_voting_dates)}${row('ID required', v.id_requirements)}
+          ${row('Early voting', v.early_voting_dates)}${row('Early voting hours', v.early_voting_hours)}${row('ID required', v.id_requirements)}
         </dl>
         <div class="btn-row">
           ${v.sample_ballot_url ? `<a class="btn btn-primary" href="${esc(v.sample_ballot_url)}" target="_blank" rel="noopener">My sample ballot ↗</a>` : ''}
