@@ -67,8 +67,11 @@
   function partyTag(c) { return `<span class="tag tag-party ${partyClass(c.party)}">${esc(c.party || 'No Party Affiliation')}</span>`; }
 
   /* ---------- storage ---------- */
-  function loadAnswers() { try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch (e) { return {}; } }
-  function saveAnswers(a) { try { localStorage.setItem(STORAGE_KEY, JSON.stringify(a)); } catch (e) { /* ignore */ } }
+  // Quiz answers live in memory only: they reset on every page load, and answers saved by an earlier version are removed.
+  try { localStorage.removeItem(STORAGE_KEY); } catch (e) { /* ignore */ }
+  let ANSWERS = {};
+  function loadAnswers() { return Object.assign({}, ANSWERS); }
+  function saveAnswers(a) { ANSWERS = Object.assign({}, a || {}); }
 
   /* ---------- matching ---------- */
   function scoreCandidate(cand, race, answers) {
