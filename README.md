@@ -1,6 +1,6 @@
-# Sumter County Voter Guide — November 3, 2026
+# Florida Voters Guide — November 3, 2026
 
-A nonpartisan, source-cited voter guide for the races and ballot questions a **Sumter County, Florida** voter will see in the 2026 general election, with a questionnaire that matches your views to each candidate's documented positions.
+A nonpartisan, source-cited voter guide for Florida's 2026 general election: official candidate line-ups for all 67 counties, and in-depth coverage of every race and ballot question a **Sumter County** voter will see, with a questionnaire that matches your views to each candidate's documented positions.
 
 **Covers all 67 Florida counties** at the ballot-line-up level (official candidate lists for Congress, the Legislature, judges and county offices, plus each Supervisor of Elections) and Sumter County in depth (researched positions, match tool, referendums, voting logistics).
 

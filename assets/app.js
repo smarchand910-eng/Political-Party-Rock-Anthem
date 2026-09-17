@@ -1,4 +1,4 @@
-/* Sumter County Voter Guide 2026 — single-page app (no build step, no framework). */
+/* Florida Voters Guide 2026 — single-page app (no build step, no framework). */
 (function () {
   'use strict';
 
@@ -211,7 +211,7 @@
     ].filter(d => d[1]);
     return `
       <section class="hero">
-        <div class="eyebrow">Sumter County, Florida · General Election · November 3, 2026</div>
+        <div class="eyebrow">Florida · General Election · November 3, 2026</div>
         <h1>Know every race on your ballot. Decide on the facts.</h1>
         <p class="lead">A nonpartisan, source-cited guide to the candidates and questions Sumter County voters will see this November, plus a tool that matches your own views to each candidate's stated positions.</p>
         <div class="btn-row">
