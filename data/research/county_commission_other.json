@@ -1,6 +1,6 @@
 {
   "race_id": "county_commission_other",
-  "verified_ballot_note": "Compiled from search snippets of Lake & Sumter Style and ClickOrlando primary results, the Sumter Sun Times primary preview, ClickOrlando voter guides and Ballotpedia. The county's official 2026 Notice of General Election (https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27) and sample ballots could not be read, so the November ballot contents below are NOT fully verified. Research limitation: in this sandbox every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was exhausted, so positions are coded only from search-result snippets. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
+  "verified_ballot_note": "Compiled from search snippets of Lake & Sumter Style and ClickOrlando primary results, the Sumter Sun Times primary preview, ClickOrlando voter guides and Ballotpedia. The county's official 2026 Notice of General Election (https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27) and sample ballots could not be read, so the November ballot contents below are NOT fully verified. Second pass (Sept 2026) resolved the Group 27 judge result (Morris won circuit-wide), District 2 (Bilardello unopposed), and the list of municipal seats scheduled for Nov. 3; contested status of municipal seats and any referendum remain unverified because elections.sumtercountyfl.gov, Ballotpedia and city sites were blocked.",
   "races_on_ballot": [
     {
       "office": "Sumter County Commission, District 4",
@@ -85,8 +85,8 @@
     },
     {
       "office": "Fifth Judicial Circuit Judge, Group 27 (nonpartisan, circuit-wide: Citrus, Hernando, Lake, Marion, Sumter)",
-      "status": "Two-candidate race decided in the Aug. 18, 2026 primary by circuit-wide vote; circuit-wide winner NOT verified",
-      "note": "Nicole M. Morris (chief assistant public defender, Citrus County) vs. Lisa Yeager (assistant state attorney, Fifth Circuit). In Sumter County alone Morris led 19,703 (50.32%) to 19,450 (49.68%). The five-county total, which decides the race, could not be retrieved.",
+      "status": "Decided Aug. 18, 2026 primary (circuit-wide); not on Nov. 3 ballot",
+      "note": "Nicole M. Morris (chief assistant public defender, Citrus County) defeated Lisa Yeager (assistant state attorney, Fifth Circuit) circuit-wide, 122,375 votes (52.2%) to 111,959 (47.8%), per the Citrus County Chronicle. In Sumter County alone Morris led 19,703 (50.32%) to 19,450 (49.68%). Group 27 was the only one of 11 Fifth Circuit judicial groups with more than one candidate in 2026.",
       "candidates": [
         {
           "id": "nicole_morris",
@@ -102,6 +102,21 @@
         }
       ],
       "sources": [
+        {
+          "title": "Morris wins judicial seat - Citrus County Chronicle",
+          "url": "https://www.chronicleonline.com/news/crime_and_courts/morris-wins-judicial-seat/article_d9d8ba94-19b9-5257-8f3f-3dccf4bcc2ed.html",
+          "date": "2026-08-19"
+        },
+        {
+          "title": "Citrus only contested race in Fifth Judicial Circuit judge race - Citrus County Chronicle",
+          "url": "https://www.chronicleonline.com/news/elections/citrus-only-contested-race-in-fifth-judicial-circuit-judge-race/article_216d33f3-fbbd-583f-bd55-9677a315c6df.html",
+          "date": "2026"
+        },
+        {
+          "title": "Dozens of trial court races set for August primary - The Florida Bar",
+          "url": "https://www.floridabar.org/the-florida-bar-news/dozens-of-trial-court-races-set-for-august-primary/",
+          "date": "2026"
+        },
         {
           "title": "2026 Voter's Guide - Fifth Circuit Judge, Group 27 - ClickOrlando",
           "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-fifth-circuit-judge-group-27/",
@@ -121,12 +136,32 @@
     },
     {
       "office": "Sumter County Commission, District 2",
-      "status": "UNVERIFIED",
-      "note": "Districts 2 and 4 are the seats on the 2026 cycle. Search snippets of the primary results and ClickOrlando guides mention only the District 4 contest, which suggests District 2 had no contested primary (possibly elected without opposition or a general-election contest), but this could not be confirmed. Check the county Candidates page and Notice of General Election.",
+      "status": "Not on Nov. 3 ballot: incumbent elected without opposition (per SOE candidate list snippet; official notice not readable)",
+      "note": "The Sumter County Supervisor of Elections candidate list (updated Aug. 8, 2026) shows the District 2 Board of County Commissioners race as unopposed with a Republican candidate; search snippets and the county's official site identify the District 2 commissioner as Andrew \"Andy\" Bilardello, board Vice Chairman, who has a 2026 campaign-finance account on file. Under Florida law an unopposed candidate is deemed elected at qualifying and does not appear on the ballot. The unopposed status was read only from search snippets of the SOE page; the official Notice of General Election could not be opened.",
       "sources": [
         {
-          "title": "Candidates - Sumter County Elections",
+          "title": "Candidates - Sumter County Elections (list updated Aug. 8, 2026)",
           "url": "https://elections.sumtercountyfl.gov/183/Candidates",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "Candidate: Andrew \"Andy\" Bilardello - Sumter County campaign finance (VoterFocus)",
+          "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?op=cv&e=26&c=sumter&ca=554&rellevel=4&committee=N",
+          "date": null
+        },
+        {
+          "title": "District 2 - Sumter County, FL official website",
+          "url": "https://www.sumtercountyfl.gov/118/District-2",
+          "date": null
+        },
+        {
+          "title": "About the Commissioners - Sumter County, FL official website",
+          "url": "https://www.sumtercountyfl.gov/67/About-the-Commissioners",
+          "date": null
+        },
+        {
+          "title": "Sumter County Candidates 2026 - Who's Running",
+          "url": "https://www.whosrunning.app/counties/Sumter",
           "date": null
         },
         {
@@ -143,6 +178,14 @@
           "title": "2026 Sumter County Primary Election Results - Lake & Sumter Style",
           "url": "https://lakeandsumterstyle.com/2026-sumter-county-primary-election-results/",
           "date": "2026-08-18"
+        }
+      ],
+      "candidates": [
+        {
+          "id": "andrew_bilardello",
+          "name": "Andrew \"Andy\" Bilardello",
+          "party": "Republican",
+          "incumbent": true
         }
       ]
     },
@@ -165,9 +208,34 @@
     },
     {
       "office": "Municipal elections (Wildwood, Bushnell, Coleman, Webster, Center Hill)",
-      "status": "UNVERIFIED",
-      "note": "The county's candidate qualifying notice covered 'Cities' in the June 8-12, 2026 qualifying window, but no search result identified specific municipal contests or unopposed municipal candidates for Nov. 3, 2026. Wildwood's commission seat vacated by Bivins (resigned Nov. 2025) may also be affected; not confirmed.",
+      "status": "Municipal seats scheduled for the Nov. 3, 2026 ballot (per SOE 'Seats up for Election'); which seats are contested vs. unopposed is UNVERIFIED",
+      "note": "The Sumter County Supervisor of Elections lists these city seats up in 2026 (qualifying June 8-12, 2026): Bushnell - Mayor (Seat 1), Seats 3 and 5; Center Hill - Seats 1, 3 and 5; Coleman - Mayor and Seats 2 and 4; Webster - Commissioner Seats 1, 3 and 5; Wildwood - Mayor-Commissioner Seat 1 and Commissioner Seats 2 and 4. In Wildwood the seats up are held by Mayor-Commissioner Ed Wolf (Seat 1), appointed Commissioner David Fountaine (Seat 2) and Commissioner Marcos Flores (Seat 4), all with terms expiring December 2026; Villages-News reported in March 2026 that Wolf filed paperwork to seek an 11th term. Whether Bushnell, Center Hill, Coleman, Webster or Wildwood seats drew opposition (or were filled without opposition at qualifying) could not be verified because the SOE Candidates page and city sites were blocked.",
       "sources": [
+        {
+          "title": "Seats up for Election - Sumter County Elections",
+          "url": "https://elections.sumtercountyfl.gov/160/Seats-up-for-Election",
+          "date": null
+        },
+        {
+          "title": "Cities - Sumter County Elections",
+          "url": "https://elections.sumtercountyfl.gov/165/Cities",
+          "date": null
+        },
+        {
+          "title": "Candidates - Sumter County Elections (list updated Aug. 8, 2026)",
+          "url": "https://elections.sumtercountyfl.gov/183/Candidates",
+          "date": "2026-08-08"
+        },
+        {
+          "title": "City Commission - City of Wildwood, FL",
+          "url": "https://www.wildwood-fl.gov/205/City-Commission",
+          "date": null
+        },
+        {
+          "title": "Wildwood Mayor Ed Wolf changes mind and decides to seek another term - Villages-News.com",
+          "url": "https://www.villages-news.com/2026/03/23/wildwood-mayor-ed-wolf-changes-mind-and-decides-to-seek-another-term/",
+          "date": "2026-03-23"
+        },
         {
           "title": "Primary election coming up - Sumter Sun Times",
           "url": "https://www.midfloridanewspapers.com/sumter_sun_times/primary-election-coming-up/article_e03a68ea-ce42-40af-8422-ce3cc530a15e.html",
@@ -182,13 +250,23 @@
     },
     {
       "office": "County or local referendum questions",
-      "status": "UNVERIFIED",
-      "note": "No Sumter County or municipal referendum for Nov. 3, 2026 appeared in search results; the Notice of General Election could not be read.",
+      "status": "None found (UNVERIFIED)",
+      "note": "No Sumter County or municipal referendum for Nov. 3, 2026 appeared in any search result across two research passes; the Notice of General Election could not be read. Statewide constitutional amendments (including Amendment 3, the homestead property-tax amendment placed by HJR 1-F in June 2026) will appear on Sumter ballots but are state, not county, questions.",
       "sources": [
         {
           "title": "2026 Notice of General Election - Sumter County Elections",
           "url": "https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27",
           "date": "2026"
+        },
+        {
+          "title": "Florida 2026 ballot measures - Ballotpedia",
+          "url": "https://ballotpedia.org/Florida_2026_ballot_measures",
+          "date": null
+        },
+        {
+          "title": "'Giving the public a voice': Legislature approves putting homestead property tax amendment on ballot - Florida Politics",
+          "url": "https://floridapolitics.com/archives/799592-homestead-property-tax/",
+          "date": "2026-06-02"
         }
       ]
     },
@@ -295,6 +373,31 @@
       "title": "Candidates in the August Primary in Sumter County - Sumter County Democrats",
       "url": "https://www.sumterfldemocrats.com/post/candidates-in-the-august-primary-in-sumter-county",
       "date": "2026"
+    },
+    {
+      "title": "Morris wins judicial seat - Citrus County Chronicle",
+      "url": "https://www.chronicleonline.com/news/crime_and_courts/morris-wins-judicial-seat/article_d9d8ba94-19b9-5257-8f3f-3dccf4bcc2ed.html",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Seats up for Election - Sumter County Elections",
+      "url": "https://elections.sumtercountyfl.gov/160/Seats-up-for-Election",
+      "date": null
+    },
+    {
+      "title": "Cities - Sumter County Elections",
+      "url": "https://elections.sumtercountyfl.gov/165/Cities",
+      "date": null
+    },
+    {
+      "title": "Candidate: Andrew \"Andy\" Bilardello - Sumter County campaign finance (VoterFocus)",
+      "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?op=cv&e=26&c=sumter&ca=554&rellevel=4&committee=N",
+      "date": null
+    },
+    {
+      "title": "Wildwood Mayor Ed Wolf changes mind and decides to seek another term - Villages-News.com",
+      "url": "https://www.villages-news.com/2026/03/23/wildwood-mayor-ed-wolf-changes-mind-and-decides-to-seek-another-term/",
+      "date": "2026-03-23"
     }
   ]
 }

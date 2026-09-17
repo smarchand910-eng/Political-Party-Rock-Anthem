@@ -1,6 +1,6 @@
 {
   "race_id": "state_house_52",
-  "verified_ballot_note": "Ballotpedia's District 52 page lists Samantha Scott (R) and Pamala Bivins (D) as the candidates for the Nov. 3, 2026 general election after the Aug. 18, 2026 primaries (https://ballotpedia.org/Florida_House_of_Representatives_District_52). Whether any write-in or NPA candidate also qualified could NOT be verified: the Sumter County Supervisor of Elections notice of general election (https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27) and Ballotpedia were blocked in this sandbox. Research limitation: in this sandbox every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was exhausted, so positions are coded only from search-result snippets. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
+  "verified_ballot_note": "Ballotpedia's District 52 page lists Samantha Scott (R) and Pamala Bivins (D) as the candidates for the Nov. 3, 2026 general election after the Aug. 18, 2026 primaries (https://ballotpedia.org/Florida_House_of_Representatives_District_52). Whether any write-in or NPA candidate also qualified could NOT be verified: the Sumter County Supervisor of Elections notice of general election (https://elections.sumtercountyfl.gov/m/newsflash/home/detail/27) and Ballotpedia were blocked in this sandbox. Research limitation (two passes, Sept 2026): every WebFetch to candidate, government and news sites was blocked and the WebSearch budget was capped, so positions are coded only from search-result snippets. Second pass found no statements by Scott on property tax/Amendment 3, insurance, immigration, guns, abortion, education or growth, and no individual roll-call votes. Many issues remain 'unknown' because the underlying pages (candidate sites, ClickOrlando questionnaires, Ballotpedia surveys, flhouse.gov vote records) could not be read.",
   "candidates": [
     {
       "id": "samantha_scott",
@@ -198,6 +198,17 @@
               "date": "2025-11"
             }
           ]
+        },
+        {
+          "title": "Succeeded Rep. John Temple",
+          "summary": "Replaced outgoing Rep. John Temple, who resigned after being named president of Lake-Sumter State College; local swearing-in was held April 10, 2026 at the historic Sumter County Courthouse in Bushnell.",
+          "sources": [
+            {
+              "title": "Scott sworn in for District 52 - Sumter Sun Times",
+              "url": "https://www.midfloridanewspapers.com/sumter_sun_times/scott-sworn-in-for-district-52/article_66a55275-0036-4f45-97e6-af1d53985823.html",
+              "date": "2026-04"
+            }
+          ]
         }
       ],
       "record": [
@@ -252,11 +263,36 @@
           ]
         },
         {
-          "item": "2026 session bill sponsorships and roll-call votes could not be retrieved (flhouse.gov and vote-tracking sites were blocked); see the flhouse.gov member page for her sponsored bills and votes.",
+          "item": "Legislative record context: the 2026 regular session ended March 13, 2026, before Scott assumed office on March 25, so she sponsored no regular-session bills. She was seated during the March 2026 special session and served during the April 28-May 1, 2026 special session (congressional redistricting, AI consumer protections, 'medical freedom') and the June 1-3, 2026 special session in which the House passed HJR 1-F, the homestead property-tax constitutional amendment now on the Nov. 3 ballot as Amendment 3, by 75-26. Her individual roll-call votes and any special-session bill sponsorships could not be retrieved in this sandbox (flhouse.gov, LobbyTools and her campaign news page were blocked).",
           "sources": [
             {
-              "title": "Samantha Scott - Florida House of Representatives member page",
-              "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=5070",
+              "title": "'Giving the public a voice': Legislature approves putting homestead property tax amendment on ballot - Florida Politics",
+              "url": "https://floridapolitics.com/archives/799592-homestead-property-tax/",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "2026 Florida Legislative Session Wrap-Up - Special Session Edition - Florida TaxWatch",
+              "url": "https://floridataxwatch.org/2026-florida-legislative-session-wrap-up-special-session-edition/",
+              "date": "2026"
+            },
+            {
+              "title": "Palm Beach County 2026 Legislative Session Final Report",
+              "url": "https://discover.pbc.gov/Intergovernmental-Affairs/LegislativeAffairs/State_Legislative_Issues/2026-Legislative-Final-Report.pdf",
+              "date": "2026"
+            },
+            {
+              "title": "Samantha Scott - 2024-2026 (Speaker Perez) - Florida House of Representatives",
+              "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=5070&LegislativeTermId=91",
+              "date": null
+            },
+            {
+              "title": "Florida Representative Samantha Scott (R) - LobbyTools",
+              "url": "https://public.lobbytools.com/legislators/902",
+              "date": null
+            },
+            {
+              "title": "News - Elect Samantha Scott (campaign site)",
+              "url": "https://samanthascott.org/news/",
               "date": null
             }
           ]
@@ -352,9 +388,14 @@
         "housing": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Bivins lists affordable housing among the concerns she wants to take to Tallahassee. Specific proposals (subsidies, zoning, rent measures) were not found.",
+          "summary": "Her campaign website lists 'pushing for solutions that keep housing affordable and communities strong' among her key issues, and she named affordable housing among the concerns she wants to take to Tallahassee. Specific mechanisms (subsidies, zoning, rent measures) were not found.",
           "quote": null,
           "sources": [
+            {
+              "title": "Pamala Kaye Bivins for Florida House District 52 (campaign site)",
+              "url": "https://pamala4fldistrict52.com/",
+              "date": null
+            },
             {
               "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
               "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
@@ -386,9 +427,14 @@
         "healthcare": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "She says she wants to take concerns about healthcare, Medicaid and health-care access to Tallahassee and has spoken with voters about health-care access in the region. She has not been found explicitly calling for Medicaid expansion.",
+          "summary": "Her campaign website lists 'advocating for accessible, affordable health care for all Floridians' as a key issue; she has said she wants to take concerns about healthcare, Medicaid and health-care access to Tallahassee. She has not been found explicitly calling for Medicaid expansion or ACA subsidy extension.",
           "quote": null,
           "sources": [
+            {
+              "title": "Pamala Kaye Bivins for Florida House District 52 (campaign site)",
+              "url": "https://pamala4fldistrict52.com/",
+              "date": null
+            },
             {
               "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
               "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
@@ -402,11 +448,16 @@
           ]
         },
         "social_security": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "She names Social Security and Medicare among the issues she wants to advocate for, framing them as 'human needs' shared across party lines.",
+          "summary": "Her campaign website says she will stand firm against any effort to cut or privatize Social Security and Medicare; she has also named them among the 'human needs' she wants to advocate for. (Note: these are federal programs; a state representative has no direct vote on them.)",
           "quote": null,
           "sources": [
+            {
+              "title": "Pamala Kaye Bivins for Florida House District 52 (campaign site)",
+              "url": "https://pamala4fldistrict52.com/",
+              "date": null
+            },
             {
               "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
               "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
@@ -417,9 +468,15 @@
         "education_choice": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "No position on vouchers/school choice found as of Sept 2026. Her campaign website lists 'fully funding public schools and supporting teachers' as a key issue, which does not directly address whether public money should follow students to private schools.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Pamala Kaye Bivins for Florida House District 52 (campaign site)",
+              "url": "https://pamala4fldistrict52.com/",
+              "date": null
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -445,13 +502,18 @@
         "elections": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "At a July 2026 voting-rights event in The Villages she committed to 'fighting to protect the right to vote and ensure no community is left behind at the ballot box.'",
+          "summary": "Her campaign website lists 'protecting the right to vote and ensuring no community is left behind at the ballot box' as a key issue, and she repeated that commitment at a July 2026 voting-rights event in The Villages. Specific proposals on mail voting, drop boxes or rights restoration were not found.",
           "quote": "fighting to protect the right to vote and ensure no community is left behind at the ballot box",
           "sources": [
             {
               "title": "Villagers stand up for voting rights and warn of Trump's threats to midterm elections - Villages-News.com",
               "url": "https://www.villages-news.com/2026/07/19/villagers-stand-up-for-voting-rights-and-warn-of-trumps-threats-to-midterm-elections/",
               "date": "2026-07-19"
+            },
+            {
+              "title": "Pamala Kaye Bivins for Florida House District 52 (campaign site)",
+              "url": "https://pamala4fldistrict52.com/",
+              "date": null
             }
           ]
         },
@@ -494,8 +556,13 @@
       "other_issues": [
         {
           "title": "Public education",
-          "summary": "Lists public education among the concerns she wants to bring to Tallahassee.",
+          "summary": "Her campaign website lists 'fully funding public schools and supporting teachers' as a key issue, and she names public education among the concerns she wants to bring to Tallahassee.",
           "sources": [
+            {
+              "title": "Pamala Kaye Bivins for Florida House District 52 (campaign site)",
+              "url": "https://pamala4fldistrict52.com/",
+              "date": null
+            },
             {
               "title": "Democratic Women's Club hosts candidates for Congress and statehouse - Villages-News.com",
               "url": "https://www.villages-news.com/2026/06/19/candidates-for-u-s-and-florida-houses-of-reps-speak-at-local-democratic-club/",
