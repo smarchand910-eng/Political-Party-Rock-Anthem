@@ -13,8 +13,8 @@
     "Osceola (part)"
   ],
   "what_it_does": "Represents Florida's 18th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
-  "verified_ballot_note": "Incumbent Scott Franklin (R) and NPA candidate Deva Simmons are on the Nov. 3 ballot per Ballotpedia. The Democratic nominee appears to be Curtis Gibson: an NBC News live-results snippet showed Gibson far ahead of Tiffanie Luong and BallotReady/Ballotpedia snippets list Gibson as the nominee, but no news article confirming the result was found, so treat the Democratic nominee as PROVISIONAL. Sources: https://ballotpedia.org/Florida's_18th_Congressional_District_election,_2026 ; https://www.nbcnews.com/politics/2026-primary-elections/florida-us-house-district-18-results ; county makeup per WUSF map breakdown (district now centered on Polk with part of Osceola). Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts; county descriptions here reflect post-redistricting reporting where found (https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map).",
+  "coverage": "partial",
+  "verified_ballot_note": "Incumbent Scott Franklin (R), Democrat Curtis Gibson and NPA candidate Deva Simmons are on the Nov. 3 ballot. Ballotpedia's district page lists Gibson as the Democratic nominee who advanced from the Aug. 18 primary (an NBC News results page had shown him well ahead of Tiffanie Luong, and the Polk County Democratic Party is promoting his general-election candidacy), so the Democratic nominee is now treated as confirmed. Sources: https://ballotpedia.org/Florida's_18th_Congressional_District_election,_2026 ; https://ballotpedia.org/Florida's_18th_Congressional_District ; https://www.nbcnews.com/politics/2026-primary-elections/florida-us-house-district-18-results ; https://www.facebook.com/PolkCountyFLDemocrats/posts/vote-curtis-gibson-on-november-3rd-and-send-a-voice-for-all-of-polk-county-to-wa/1498087652354189/ ; county makeup per WUSF map breakdown (https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map). Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts.",
   "candidates": [
     {
       "id": "scott_franklin",
@@ -22,19 +22,30 @@
       "party": "Republican",
       "incumbent": true,
       "photo_url": "https://www.congress.gov/img/member/f000472_200.jpg",
-      "photo_source": "congress.gov member portrait (bioguide F000472 per congress.gov district-map page)",
+      "photo_source": "congress.gov member portrait (bioguide ID F000472 confirmed via congress.gov member page)",
       "website": null,
       "occupation": "U.S. Representative (since 2021)",
       "residence": "Lakeland, Polk County",
-      "background": "Scott Franklin has represented the district since January 2021 (first elected in the old 15th, then the 18th after 2022 redistricting); he is a retired Navy aviator and former Lakeland city commissioner. He was the Republican candidate in the Aug. 18, 2026 primary; under the 2026 map the district is centered on Polk County with part of Osceola County.",
+      "background": "Scott Franklin has represented the district since January 2021 (first elected in the old 15th, then the 18th after 2022 redistricting). He served in the U.S. Navy from 1986 to 2000 and the Navy Reserve from 2000 to 2012, worked in business, and was a Lakeland city commissioner. He is the Republican nominee on the Nov. 3, 2026 ballot; under the 2026 map the district is centered on Polk County with part of Osceola County.",
       "primary_result": "Republican nominee (Ballotpedia; primary details not found in snippets)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Franklin voted for H.R. 1 (the One Big Beautiful Bill Act) on final passage in July 2025. The law made the 2017 individual tax-rate cuts permanent and added new deductions while reducing projected federal spending on Medicaid and SNAP.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -58,18 +69,50 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Franklin voted for the Laken Riley Act (mandatory federal detention of unauthorized immigrants arrested for theft and certain other offenses) in January 2025 and for H.R. 1, which appropriated funds for border-wall construction, Border Patrol hiring and expanded immigration detention and removal operations.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            },
+            {
+              "title": "House Roll Call 23 (S. 5, Laken Riley Act, Jan. 22, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Franklin has described himself as 'a defender of the unborn' who would welcome any decision overturning Roe v. Wade; SBA Pro-Life America records him as voting consistently to restrict abortion and bar taxpayer funding of it.",
+          "quote": "As a defender of the unborn, I would welcome any decision that overturns Roe v. Wade.",
+          "sources": [
+            {
+              "title": "Scott Franklin on Abortion (OnTheIssues)",
+              "url": "https://ontheissues.org/FL/Scott_Franklin_Abortion.htm",
+              "date": null
+            },
+            {
+              "title": "Rep. Scott Franklin - SBA Pro-Life America Scorecard",
+              "url": "https://sbaprolife.org/representative/scott-franklin",
+              "date": null
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -79,11 +122,22 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Franklin voted for H.R. 1, which added work-reporting requirements and more frequent eligibility checks for Medicaid expansion enrollees and reduced projected federal Medicaid spending. No statement on expanding Medicaid in Florida or extending ACA subsidies was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -121,11 +175,22 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Franklin voted for the SAVE Act (H.R. 22), which would require documentary proof of U.S. citizenship to register to vote in federal elections. No statement on mail voting or drop boxes was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "House Roll Call 102 (H.R. 22, SAVE Act, Apr. 10, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025102",
+              "date": "2025-04-10"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -177,8 +242,123 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "SCHEDULES Act of 2026 (H.R. 8199)",
+          "summary": "Introduced a 2026 bill referred to the House Veterans' Affairs Committee; the bill's contents were not captured in this research.",
+          "sources": [
+            {
+              "title": "Scott Franklin - Ballotpedia",
+              "url": "https://ballotpedia.org/Scott_Franklin",
+              "date": null
+            },
+            {
+              "title": "Scott Franklin | Congress.gov member page (bioguide F000472)",
+              "url": "https://www.congress.gov/member/scott-franklin/F000472",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Health and agriculture legislation",
+          "summary": "Ballotpedia and Congress.gov describe him as a sponsor of health- and agriculture-related bills for the Polk County-centered district.",
+          "sources": [
+            {
+              "title": "Scott Franklin - Ballotpedia",
+              "url": "https://ballotpedia.org/Scott_Franklin",
+              "date": null
+            },
+            {
+              "title": "Scott Franklin | Congress.gov member page (bioguide F000472)",
+              "url": "https://www.congress.gov/member/scott-franklin/F000472",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Military background",
+          "summary": "Served in the U.S. Navy (1986-2000) and Navy Reserve (2000-2012) before entering business and local politics in Lakeland.",
+          "sources": [
+            {
+              "title": "Scott Franklin - Ballotpedia",
+              "url": "https://ballotpedia.org/Scott_Franklin",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted yes on final passage of H.R. 1, the One Big Beautiful Bill Act (July 3, 2025), which extended the 2017 tax cuts, funded border and immigration enforcement, and changed Medicaid and SNAP eligibility rules.",
+          "sources": [
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on S. 5, the Laken Riley Act (Jan. 22, 2025), requiring federal detention of unauthorized immigrants charged with theft-related and certain violent offenses.",
+          "sources": [
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            },
+            {
+              "title": "House Roll Call 23 (S. 5, Laken Riley Act, Jan. 22, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on H.R. 22, the SAVE Act (Apr. 10, 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+          "sources": [
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "House Roll Call 102 (H.R. 22, SAVE Act, Apr. 10, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025102",
+              "date": "2025-04-10"
+            }
+          ]
+        },
+        {
+          "item": "GovTrack's vote record, as summarized in search results, shows Franklin voted against the Honoring our PACT Act of 2022 (H.R. 3967), which expanded VA benefits for veterans exposed to toxic substances; the specific roll call was not verified here.",
+          "sources": [
+            {
+              "title": "Rep. Scott Franklin - GovTrack.us member page and vote record",
+              "url": "https://www.govtrack.us/congress/members/scott_franklin/456807",
+              "date": null
+            },
+            {
+              "title": "H.R.3967 - Honoring our PACT Act of 2022 - Congress.gov",
+              "url": "https://www.congress.gov/bill/117th-congress/house-bill/3967",
+              "date": "2022-08-10"
+            }
+          ]
+        },
+        {
+          "item": "Had not completed Ballotpedia's 2026 Candidate Connection survey as of the search date.",
+          "sources": [
+            {
+              "title": "Scott Franklin - Ballotpedia",
+              "url": "https://ballotpedia.org/Scott_Franklin",
+              "date": null
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -188,11 +368,11 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Curtis_Gibson.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not found",
-      "residence": "Not found",
-      "background": "Curtis Gibson ran in the Aug. 18, 2026 Democratic primary against Tiffanie Luong; results-page snippets indicate he won and BallotReady lists him as the Democratic nominee, but this was not confirmed by a news report in this research.",
-      "primary_result": "Reported winner of Aug 18, 2026 Democratic primary over Tiffanie Luong (NBC News results page snippet; unconfirmed)",
+      "website": "https://votecurtisgibson.com/",
+      "occupation": "Former Lake Wales city commissioner; former mall manager; small-business owner",
+      "residence": "Lake Wales, Polk County (campaign describes him as a lifelong Lake Wales resident)",
+      "background": "Curtis Gibson is a lifelong Lake Wales resident, former Lake Wales city commissioner, former mall manager and small-business owner; he ran for Lake Wales mayor in 2022 and 2025. He entered the CD 18 race against Rep. Scott Franklin and is listed by Ballotpedia as the Democratic nominee advancing from the Aug. 18, 2026 primary. His campaign slogan is 'The Heartland's Voice.'",
+      "primary_result": "Democratic nominee per Ballotpedia; an NBC News results page for the Aug 18, 2026 primary showed him well ahead of Tiffanie Luong (percentages not captured)",
       "positions": {
         "taxes": {
           "stance": null,
@@ -202,18 +382,40 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Gibson lists 'Property Tax Relief' as one of three headline priorities on his campaign site; the mechanism and whether he supports eliminating homestead taxes were not specified.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Curtis Gibson | The Heartland's Voice (campaign site)",
+              "url": "https://votecurtisgibson.com/",
+              "date": null
+            },
+            {
+              "title": "Curtis Gibson - The Heartland's Voice (Local Candidates profile)",
+              "url": "https://www.localcandidates.org/politicians/curtis-gibson/about/74fdc787-bbca-49d8-9325-647008416006",
+              "date": null
+            }
+          ]
         },
         "insurance": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "Lists 'Property Insurance Stability' as a headline priority, but no specific position on rate caps, Citizens expansion or insurer regulation was found as of Sept 2026.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Curtis Gibson | The Heartland's Voice (campaign site)",
+              "url": "https://votecurtisgibson.com/",
+              "date": null
+            },
+            {
+              "title": "Curtis Gibson - The Heartland's Voice (Local Candidates profile)",
+              "url": "https://www.localcandidates.org/politicians/curtis-gibson/about/74fdc787-bbca-49d8-9325-647008416006",
+              "date": null
+            }
+          ]
         },
         "housing": {
           "stance": null,
@@ -335,14 +537,75 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Lists 'Veterans' Healthcare Access' as a headline priority and says veterans return home 'only to be met with red tape instead of results.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Curtis Gibson | The Heartland's Voice (campaign site)",
+              "url": "https://votecurtisgibson.com/",
+              "date": null
+            },
+            {
+              "title": "Curtis Gibson - The Heartland's Voice (Local Candidates profile)",
+              "url": "https://www.localcandidates.org/politicians/curtis-gibson/about/74fdc787-bbca-49d8-9325-647008416006",
+              "date": null
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Property insurance stability",
+          "summary": "One of three headline campaign priorities; specifics not captured.",
+          "sources": [
+            {
+              "title": "Curtis Gibson | The Heartland's Voice (campaign site)",
+              "url": "https://votecurtisgibson.com/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Property tax relief",
+          "summary": "One of three headline campaign priorities; specifics not captured.",
+          "sources": [
+            {
+              "title": "Curtis Gibson | The Heartland's Voice (campaign site)",
+              "url": "https://votecurtisgibson.com/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Veterans' health-care access",
+          "summary": "Pledges to cut red tape facing returning veterans.",
+          "sources": [
+            {
+              "title": "Curtis Gibson | The Heartland's Voice (campaign site)",
+              "url": "https://votecurtisgibson.com/",
+              "date": null
+            },
+            {
+              "title": "Curtis Gibson - The Heartland's Voice (Local Candidates profile)",
+              "url": "https://www.localcandidates.org/politicians/curtis-gibson/about/74fdc787-bbca-49d8-9325-647008416006",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Middle-class cost of living",
+          "summary": "Campaign says he 'knows the weight of making payroll, the cost of groceries' as a former small-business owner and mall manager.",
+          "sources": [
+            {
+              "title": "Curtis Gibson - The Heartland's Voice (Local Candidates profile)",
+              "url": "https://www.localcandidates.org/politicians/curtis-gibson/about/74fdc787-bbca-49d8-9325-647008416006",
+              "date": null
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     },
@@ -353,10 +616,10 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Deva_Simmons.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not found",
-      "residence": "Not found",
-      "background": "Deva Simmons is a no-party-affiliation candidate listed by Ballotpedia as running in the Nov. 3, 2026 general election for District 18.",
+      "website": "https://www.devasimmons.com/en",
+      "occupation": "Educator (more than 20 years teaching and mentoring)",
+      "residence": "Polk County (campaign says she settled in Polk County in 2002)",
+      "background": "Deva Simmons moved to Florida in 1995 and settled in Polk County in 2002; she has worked in education for more than two decades as a teacher and mentor and lists community service with the Boys & Girls Club of Lakeland and other local organizations. She is a no-party-affiliation candidate on the Nov. 3, 2026 ballot for District 18, per Ballotpedia.",
       "primary_result": "No primary (NPA candidate; Ballotpedia)",
       "positions": {
         "taxes": {
@@ -411,9 +674,15 @@
         "healthcare": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "Campaign says she is 'fighting for affordable healthcare,' but no specific position on Medicaid expansion or ACA subsidies was found as of Sept 2026.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Deva Simmons for Congress | Florida District 18 (campaign site)",
+              "url": "https://www.devasimmons.com/en",
+              "date": null
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -507,7 +776,30 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Affordable health care, economic stability and quality education",
+          "summary": "Campaign lists these three as her focus areas.",
+          "sources": [
+            {
+              "title": "Deva Simmons for Congress | Florida District 18 (campaign site)",
+              "url": "https://www.devasimmons.com/en",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Community service in Polk County",
+          "summary": "Cites involvement with the Boys & Girls Club of Lakeland, the Polk County Supervisor of Elections, the AGB Museum of Art and kidsPACK.",
+          "sources": [
+            {
+              "title": "Deva Simmons for Congress | Florida District 18 (campaign site)",
+              "url": "https://www.devasimmons.com/en",
+              "date": null
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

@@ -12,7 +12,7 @@
     "Hillsborough (entirely within, per 2026 reporting)"
   ],
   "what_it_does": "Represents Florida's 14th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "WUSF, WTSP and AP (Aug 18, 2026) report Mike Beltran won the eight-candidate Republican primary and faces incumbent Kathy Castor (D), who advanced without appearing on the primary ballot (https://www.wusf.org/politics-issues/2026-08-18/hillsborough-primary-results-2026-mike-beltran-wins-republican-nomination-florida-congressional-district-14 ; https://www.10tv.com/article/syndication/associatedpress/mike-beltran-wins-republican-nomination-for-us-house-in-floridas-14th-congressional-district/616-2e360727-dc08-48af-82f9-ad35faa3f9a4 ; https://thehill.com/homenews/6033995-beltran-castor-florida-house-race/). Under the 2026 map the district lies entirely within Hillsborough County (eastern and southern Hillsborough: Brandon, Riverview, Plant City, Valrico, Sun City Center, Apollo Beach, Wimauma). NPA/write-in candidates not confirmed. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide.",
   "candidates": [
     {
@@ -25,15 +25,31 @@
       "website": null,
       "occupation": "U.S. Representative (since 2007)",
       "residence": "Tampa, Hillsborough County (not re-verified)",
-      "background": "Kathy Castor has represented the Tampa-based 14th District since 2007. She advanced to the 2026 general election without appearing on the Democratic primary ballot (Ballotpedia had listed Juan Arauz as a filer). The April 2026 map removed the district's cross-bay portion, leaving it entirely within eastern and southern Hillsborough County.",
+      "background": "Kathy Castor, an attorney and former Hillsborough County commissioner, has represented the Tampa-based 14th District since 2007. She chaired the House Select Committee on the Climate Crisis (2019-2023) and sits on the Energy and Commerce Committee. She advanced to the 2026 general election without appearing on the Democratic primary ballot (Ballotpedia had listed Juan Arauz as a filer). The April 2026 map removed the district's cross-bay portion, leaving it entirely within eastern and southern Hillsborough County.",
       "primary_result": "Advanced without appearing on Aug 18, 2026 Democratic primary ballot (Ballotpedia: https://ballotpedia.org/Florida%27s_14th_Congressional_District_election,_2026_(August_18_Democratic_primary) ; WUSF: https://www.wusf.org/politics-issues/2026-08-18/hillsborough-primary-results-2026-mike-beltran-wins-republican-nomination-florida-congressional-district-14)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Castor voted against H.R. 1 (the 2025 reconciliation law), which paired extended tax cuts with reductions in projected Medicaid and SNAP spending. All House Democrats voted no.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+              "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+              "date": "2025-07"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -57,32 +73,91 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Castor voted against the Laken Riley Act in January 2025 (and the 2024 version), voted no on a 2026 extension of Department of Homeland Security funding, and issued a March 2026 statement criticizing House Republicans for not reforming ICE 'without any guardrails or protections' after what she called well-documented abuses.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "House Roll Call 6 on H.R. 29, Laken Riley Act (264-159)",
+              "url": "https://clerk.house.gov/Votes/20256",
+              "date": "2025-01-07"
+            },
+            {
+              "title": "Florida's Voice: Six Florida Democrats vote against Laken Riley Act (Castor, Cherfilus-McCormick, Frankel, Frost, Soto, Wasserman Schultz)",
+              "url": "https://flvoicenews.com/six-florida-democrats-vote-against-laken-riley-act-meant-to-target-illegal-alien-criminals-nationwide/",
+              "date": "2025-01"
+            },
+            {
+              "title": "U.S. Rep. Kathy Castor Statement on Congressional Republicans Putting Americans' Safety at Risk",
+              "url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405143",
+              "date": "2026-03"
+            },
+            {
+              "title": "Kathy Castor - Ballotpedia",
+              "url": "https://ballotpedia.org/Kathy_Castor",
+              "date": null
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Castor co-sponsors the Women's Health Protection Act of 2025 (H.R. 12) to codify Roe, has called Florida's six-week law a 'cruel' ban, and voted for House Democrats' bill to protect access to birth control.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R. 12 - Women's Health Protection Act of 2025 (cosponsors)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/12/text",
+              "date": null
+            },
+            {
+              "title": "Rep. Castor, House Democrats Take Action to Protect Women's Access to Birth Control",
+              "url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=403929",
+              "date": null
+            },
+            {
+              "title": "Kathy Castor on Abortion - OnTheIssues",
+              "url": "https://www.ontheissues.org/FL/Kathy_Castor_Abortion.htm",
+              "date": null
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for the Bipartisan Safer Communities Act (2022), the federal gun-safety package that expanded background checks for buyers under 21 and funded red-flag law implementation.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Kathy Castor - Ballotpedia",
+              "url": "https://ballotpedia.org/Kathy_Castor",
+              "date": null
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted against H.R. 1 (all House Democrats voted no); sponsors the Keep Kids Covered Act and voted for the Inflation Reduction Act, which extended ACA subsidies and allowed Medicare drug-price negotiation.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+              "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+              "date": "2025-07"
+            },
+            {
+              "title": "Kathy Castor - Congress.gov (sponsored legislation)",
+              "url": "https://www.congress.gov/member/kathy-castor/C001066",
+              "date": null
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -99,11 +174,22 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "As chair of the Select Committee on the Climate Crisis she released 'Solving the Climate Crisis,' a congressional action plan for a clean-energy economy and a 'healthy, resilient, and just America.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Kathy Castor - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kathy_Castor",
+              "date": null
+            },
+            {
+              "title": "Kathy Castor - Ballotpedia",
+              "url": "https://ballotpedia.org/Kathy_Castor",
+              "date": null
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -141,11 +227,22 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for the Inflation Reduction Act's roughly $370 billion in clean-energy spending and sponsored the American Energy Efficiency Act and Advancing GETs Act (grid-enhancing technologies) in 2024.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Kathy Castor - Congress.gov (sponsored legislation)",
+              "url": "https://www.congress.gov/member/kathy-castor/C001066",
+              "date": null
+            },
+            {
+              "title": "Kathy Castor - Ballotpedia",
+              "url": "https://ballotpedia.org/Kathy_Castor",
+              "date": null
+            }
+          ]
         },
         "tariffs": {
           "stance": null,
@@ -176,8 +273,130 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Keep Kids Covered Act",
+          "summary": "Sponsors legislation to keep children continuously enrolled in Medicaid/CHIP coverage.",
+          "sources": [
+            {
+              "title": "Kathy Castor - Congress.gov",
+              "url": "https://www.congress.gov/member/kathy-castor/C001066",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "PREVENT HPV Cancers Act of 2025",
+          "summary": "Sponsors a bill to expand HPV vaccination and cancer-prevention efforts.",
+          "sources": [
+            {
+              "title": "Kathy Castor - Congress.gov",
+              "url": "https://www.congress.gov/member/kathy-castor/C001066",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "ICE reform with guardrails",
+          "summary": "Called for reforms to Immigration and Customs Enforcement with protections against abuses.",
+          "sources": [
+            {
+              "title": "U.S. Rep. Kathy Castor Statement on Congressional Republicans Putting Americans' Safety at Risk",
+              "url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405143",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Grid modernization",
+          "summary": "Sponsored the Advancing GETs Act to encourage grid-enhancing technologies.",
+          "sources": [
+            {
+              "title": "Kathy Castor - Congress.gov",
+              "url": "https://www.congress.gov/member/kathy-castor/C001066",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Contraception access",
+          "summary": "Voted for the Right to Contraception Act.",
+          "sources": [
+            {
+              "title": "Rep. Castor, House Democrats Take Action to Protect Women's Access to Birth Control",
+              "url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=403929",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted against H.R. 1, the 2025 reconciliation law (all House Democrats voted no).",
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+              "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+              "date": "2025-07"
+            }
+          ]
+        },
+        {
+          "item": "Voted against the Laken Riley Act (Jan. 2025) and its 2024 predecessor.",
+          "sources": [
+            {
+              "title": "House Roll Call 6 on H.R. 29, Laken Riley Act (264-159)",
+              "url": "https://clerk.house.gov/Votes/20256",
+              "date": "2025-01-07"
+            },
+            {
+              "title": "Florida's Voice: Six Florida Democrats vote against Laken Riley Act (Castor, Cherfilus-McCormick, Frankel, Frost, Soto, Wasserman Schultz)",
+              "url": "https://flvoicenews.com/six-florida-democrats-vote-against-laken-riley-act-meant-to-target-illegal-alien-criminals-nationwide/",
+              "date": "2025-01"
+            },
+            {
+              "title": "Kathy Castor - Ballotpedia",
+              "url": "https://ballotpedia.org/Kathy_Castor",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Voted no on a 2026 extension of Department of Homeland Security funding.",
+          "sources": [
+            {
+              "title": "Kathy Castor news - castor.house.gov",
+              "url": "https://castor.house.gov/news/documentquery.aspx?Page=3",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Voted for the Bipartisan Safer Communities Act (2022) and the Inflation Reduction Act (2022).",
+          "sources": [
+            {
+              "title": "Kathy Castor - Ballotpedia",
+              "url": "https://ballotpedia.org/Kathy_Castor",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Chaired the House Select Committee on the Climate Crisis.",
+          "sources": [
+            {
+              "title": "Kathy Castor - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kathy_Castor",
+              "date": null
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -187,18 +406,29 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Mike_Beltran.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not verified in searches",
-      "residence": "Hillsborough County (not verified)",
-      "background": "Mike Beltran won the Aug. 18, 2026 Republican primary in the redrawn 14th District, defeating seven other Republicans (vote share not found in searches). He faces incumbent Kathy Castor in November.",
-      "primary_result": "Won eight-candidate Aug 18, 2026 Republican primary; percentage not found (AP via 10TV: https://www.10tv.com/article/syndication/associatedpress/mike-beltran-wins-republican-nomination-for-us-house-in-floridas-14th-congressional-district/616-2e360727-dc08-48af-82f9-ad35faa3f9a4 ; WTSP: https://www.wtsp.com/video/news/regional/florida/mike-beltran-wins-republican-primary-for-us-house-district-14-will-face-kathy-castor-in-november/67-c8c6f5ac-7968-4f5c-ab13-d2e1de4c8ed1)",
+      "website": "https://beltranforcongress.com/",
+      "occupation": "Attorney; former Florida state representative (2018-2024)",
+      "residence": "Lithia, Hillsborough County",
+      "background": "Mike Beltran, an attorney from Lithia, served in the Florida House of Representatives from 2018 to 2024, representing a southeastern Hillsborough County district. He entered the CD 14 race in May 2026 after redistricting and won the eight-candidate Aug. 18, 2026 Republican primary with 45.6%, defeating former colleague Kevin Steele (30.2%). He calls himself 'MAGA Mike' and says he has supported Donald Trump since 2015.",
+      "primary_result": "Won eight-candidate Aug 18, 2026 Republican primary with 45.6% over Kevin Steele (30.2%) (Florida Politics: https://floridapolitics.com/archives/814008-mike-beltran-emerges-victorious-in-cd-14-after-crowded-gop-primary-to-take-on-kathy-castor/ ; AP via 10TV: https://www.10tv.com/article/syndication/associatedpress/mike-beltran-wins-republican-nomination-for-us-house-in-floridas-14th-congressional-district/616-2e360727-dc08-48af-82f9-ad35faa3f9a4)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His campaign says he 'delivered real relief' in the Legislature through sales-tax holidays and 'the largest tax cut in Florida history,' and blames federal spending, subsidies and regulation for rising costs of food, education, health care, housing and energy.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Platform - Mike Beltran for Congress",
+              "url": "https://beltranforcongress.com/platform/",
+              "date": null
+            },
+            {
+              "title": "Mike Beltran jumps into CD 14 race to challenge Kathy Castor - Florida Politics",
+              "url": "https://floridapolitics.com/archives/797010-mike-beltran-jumps-into-cd-14-race-to-challenge-kathy-castor/",
+              "date": null
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -222,25 +452,58 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says he stands '100% with President Trump on immigration' and calls for finishing the wall, deporting 'the criminals and fraudsters' and restoring law and order at the southern border; he also proposes cracking down on 'birth tourism.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Platform - Mike Beltran for Congress",
+              "url": "https://beltranforcongress.com/platform/",
+              "date": null
+            },
+            {
+              "title": "Mike Beltran wants to crack down on birth tourism and Big Pharma 'price discrimination' - Florida Politics",
+              "url": "https://floridapolitics.com/archives/814074-mike-beltran-wants-to-crack-down-on-birth-tourism-and-big-pharma-price-discrimination/",
+              "date": "2026-08"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "record",
+          "summary": "As a state representative Beltran voted for Florida's 15-week (2022) and six-week (2023) abortion laws and sponsored legislation to prohibit most abortions with narrow medical-emergency exceptions; he was endorsed by pro-life organizations at his campaign launch.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Mike Beltran - Florida Choice Tracker",
+              "url": "https://choicetracker.org/fl/people/mike-beltran/195166208",
+              "date": null
+            },
+            {
+              "title": "Mike Beltran - Florida House of Representatives member page",
+              "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4747",
+              "date": null
+            },
+            {
+              "title": "Mike Beltran jumps into CD 14 race - Florida Politics",
+              "url": "https://floridapolitics.com/archives/797010-mike-beltran-jumps-into-cd-14-race-to-challenge-kathy-castor/",
+              "date": null
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Supported Florida's 2023 permitless-carry law, saying gun owners should not be 'at the mercy of the government to issue you a permit,' and has backed open-carry and looser concealed-carry measures.",
+          "quote": "You shouldn't be at the mercy of the government to issue you a permit.",
+          "sources": [
+            {
+              "title": "The Florida House passes the permitless carry bill - WUSF",
+              "url": "https://www.wusf.org/politics-issues/2023-03-26/florida-house-backs-concealed-weapons-change",
+              "date": "2023-03-26"
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -320,18 +583,40 @@
           "sources": []
         },
         "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Beltran says the United States should stay out of the Ukraine conflict but should make weapons available for Ukraine to purchase.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Mike Beltran wants to crack down on birth tourism and Big Pharma 'price discrimination' - Florida Politics",
+              "url": "https://floridapolitics.com/archives/814074-mike-beltran-wants-to-crack-down-on-birth-tourism-and-big-pharma-price-discrimination/",
+              "date": "2026-08"
+            }
+          ]
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls himself 'MAGA Mike,' says he has supported Donald Trump since 2015 and that he stands '100% with President Trump' on immigration.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Beltran and Castor trade attacks in race for Florida's 14th District - WTSP",
+              "url": "https://www.wtsp.com/article/news/politics/elections/florida-14th-district-race-election-kathy-castor-mike-beltran/67-5dc518b3-d6ba-4cec-baec-99e4ea76abf5",
+              "date": null
+            },
+            {
+              "title": "Mike Beltran - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Mike_Beltran",
+              "date": null
+            },
+            {
+              "title": "Platform - Mike Beltran for Congress",
+              "url": "https://beltranforcongress.com/platform/",
+              "date": null
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -341,9 +626,111 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "Birth tourism",
+          "summary": "Proposes a federal crackdown on 'birth tourism.'",
+          "sources": [
+            {
+              "title": "Mike Beltran wants to crack down on birth tourism and Big Pharma 'price discrimination' - Florida Politics",
+              "url": "https://floridapolitics.com/archives/814074-mike-beltran-wants-to-crack-down-on-birth-tourism-and-big-pharma-price-discrimination/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Pharmaceutical 'price discrimination'",
+          "summary": "Wants to address drug makers charging Americans more than buyers in other countries.",
+          "sources": [
+            {
+              "title": "Mike Beltran wants to crack down on birth tourism and Big Pharma 'price discrimination' - Florida Politics",
+              "url": "https://floridapolitics.com/archives/814074-mike-beltran-wants-to-crack-down-on-birth-tourism-and-big-pharma-price-discrimination/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Federal spending and regulation",
+          "summary": "Blames federal spending, subsidies and regulation for higher costs of food, education, health care, housing and energy.",
+          "sources": [
+            {
+              "title": "Platform - Mike Beltran for Congress",
+              "url": "https://beltranforcongress.com/platform/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Telehealth and clinic access",
+          "summary": "Says he broke up health-care bureaucracies blocking new clinics and expanded telehealth in the Legislature.",
+          "sources": [
+            {
+              "title": "Platform - Mike Beltran for Congress",
+              "url": "https://beltranforcongress.com/platform/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Served in the Florida House, 2018-2024.",
+          "sources": [
+            {
+              "title": "Mike Beltran - Florida House of Representatives member page",
+              "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4747",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Voted for Florida's 2023 permitless-carry law and its 15-week and six-week abortion laws.",
+          "sources": [
+            {
+              "title": "The Florida House passes the permitless carry bill - WUSF",
+              "url": "https://www.wusf.org/politics-issues/2023-03-26/florida-house-backs-concealed-weapons-change",
+              "date": null
+            },
+            {
+              "title": "Mike Beltran - Florida Choice Tracker",
+              "url": "https://choicetracker.org/fl/people/mike-beltran/195166208",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Won the Aug. 18, 2026 Republican primary with 45.6%.",
+          "sources": [
+            {
+              "title": "Mike Beltran emerges victorious in CD 14 - Florida Politics",
+              "url": "https://floridapolitics.com/archives/814008-mike-beltran-emerges-victorious-in-cd-14-after-crowded-gop-primary-to-take-on-kathy-castor/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Club for Growth",
+          "sources": [
+            {
+              "title": "Mike Beltran - Club for Growth",
+              "url": "https://www.clubforgrowth.org/candidates/mike-beltran/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "Pro-life organizations and school-choice groups (unnamed in report)",
+          "sources": [
+            {
+              "title": "Mike Beltran jumps into CD 14 race - Florida Politics",
+              "url": "https://floridapolitics.com/archives/797010-mike-beltran-jumps-into-cd-14-race-to-challenge-kathy-castor/",
+              "date": null
+            }
+          ]
+        }
+      ]
     }
   ]
 }

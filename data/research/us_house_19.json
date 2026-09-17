@@ -13,7 +13,7 @@
     "Collier"
   ],
   "what_it_does": "Represents Florida's 19th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Open seat (Rep. Byron Donalds is the Republican nominee for governor). Roster from WINK News, Fort Myers Beach Observer, Ballotpedia News and Florida's Voice post-primary reports naming Jim Schwartzel (R) and Victor Arias (D). No NPA candidate identified; absence unconfirmed. Sources: https://www.winknews.com/news/schwartzel-beats-trump-backed-rival-as-arias-wins-democratic-primary-in-florida-s-19th-district/article_87b66b20-7599-4549-bb94-b1511580fff5.html ; https://www.fortmyersbeachtalk.com/news/community-news/2026/08/arias-schwartzel-win-party-primaries-to-advance-in-district-19-congressional-race/ ; https://news.ballotpedia.org/2026/08/19/jim-schwartzel-r-defeated-nine-other-candidates-in-the-republican-primary-for-floridas-19th-congressional-district-on-august-18-2026/ Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts; county descriptions here reflect post-redistricting reporting where found (https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map).",
   "candidates": [
     {
@@ -26,15 +26,26 @@
       "website": null,
       "occupation": "Businessman; president of Sun Broadcasting",
       "residence": "Southwest Florida (Lee County area; not verified)",
-      "background": "Jim Schwartzel is a Southwest Florida businessman and president of Sun Broadcasting. He won the ten-candidate Aug. 18, 2026 Republican primary with 29.39% (26,140 votes), finishing more than 6,000 votes ahead of Trump-endorsed Catalina Lauf (about 22%).",
+      "background": "Jim Schwartzel is a Southwest Florida media executive and president of Sun Broadcasting. He won the ten-candidate Aug. 18, 2026 Republican primary with 29.39% (26,140 votes), finishing more than 6,000 votes ahead of Trump-endorsed Catalina Lauf (about 22%). The seat opened when Rep. Byron Donalds ran for governor.",
       "primary_result": "Won Aug 18, 2026 Republican primary with 29.39% (26,140 votes) over Catalina Lauf (~22%) and eight others (WINK; Ballotpedia News)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Schwartzel says he would make the tax cuts permanent, keep taxes low, eliminate burdensome regulations, and start with 'an audit of everything Washington spends.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
+              "date": "2026"
+            },
+            {
+              "title": "Jim Schwartzel - Ballotpedia",
+              "url": "https://ballotpedia.org/Jim_Schwartzel",
+              "date": null
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -58,25 +69,48 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says his position is to 'secure the border, finish the wall and deport people who broke the law getting here,' and that he would work to ensure no future president can undo border security 'with a pen.'",
+          "quote": "Secure the border, finish the wall and deport people who broke the law getting here.",
+          "sources": [
+            {
+              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
+              "date": "2026"
+            },
+            {
+              "title": "Jim Schwartzel is running for the District 19 congressional seat. Here's a Q&A (The News-Press)",
+              "url": "https://www.facebook.com/TheNewsPress/posts/jim-schwartzel-is-running-for-the-district-19-congressional-seat-heres-a-qa-with/1468724658624773/",
+              "date": "2026"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Describes himself as 'pro-life'; no statement on exceptions or on Florida's six-week law was captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
+              "date": "2026"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Describes himself as 'pro-Second Amendment without apology'; no statement on red-flag laws or purchase age was captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
+              "date": "2026"
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -93,18 +127,35 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says 'education dollars should follow the child and parents, not Washington bureaucrats.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
+              "date": "2026"
+            }
+          ]
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says the federal government's jobs in the region include paying its share of Everglades restoration and reservoir projects on time and funding Army Corps work that protects estuaries and the coast; he also says he will fight 'outside political interest groups that threaten the environment.' He pairs this with cutting regulation on building.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
+              "date": "2026"
+            },
+            {
+              "title": "Jim Schwartzel is running for the District 19 congressional seat. Here's a Q&A (The News-Press)",
+              "url": "https://www.facebook.com/TheNewsPress/posts/jim-schwartzel-is-running-for-the-district-19-congressional-seat-heres-a-qa-with/1468724658624773/",
+              "date": "2026"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -135,18 +186,30 @@
           "sources": []
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says he will defend every American's rights 'while protecting girls' sports and keeping adult content away from kids'; no statement specifically on Florida's gender-affirming-care or classroom-instruction laws was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
+              "date": "2026"
+            }
+          ]
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says he would 'keep unleashing American energy' and cut regulatory red tape; no statement on renewable energy or utility-rate oversight was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
+              "date": "2026"
+            }
+          ]
         },
         "tariffs": {
           "stance": null,
@@ -163,11 +226,22 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Calls the administration's border security 'consequential' and says he would fight to ensure no future president can undo it; he won the primary over Trump-endorsed Catalina Lauf.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
+              "date": "2026"
+            },
+            {
+              "title": "Schwartzel beats Trump-backed rival as Arias wins Democratic primary in Florida's 19th District (WINK)",
+              "url": "https://www.winknews.com/news/schwartzel-beats-trump-backed-rival-as-arias-wins-democratic-primary-in-florida-s-19th-district/article_87b66b20-7599-4549-bb94-b1511580fff5.html",
+              "date": "2026-08-18"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -177,8 +251,91 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Term limits",
+          "summary": "Supports congressional term limits.",
+          "sources": [
+            {
+              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Audit of federal spending",
+          "summary": "Says he would 'start with an audit of everything Washington spends.'",
+          "sources": [
+            {
+              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "AI, social media and Big Tech",
+          "summary": "Supports no censorship of political speech, 'real protections for minors' and 'no blank check for Big Tech.'",
+          "sources": [
+            {
+              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Everglades restoration and Army Corps funding",
+          "summary": "Wants federal money for Everglades and reservoir projects delivered on time and Army Corps estuary/coastal work funded.",
+          "sources": [
+            {
+              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Faster disaster aid",
+          "summary": "Says disaster money should get out the door 'in weeks instead of years.'",
+          "sources": [
+            {
+              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Regulatory red tape and building costs",
+          "summary": "Says cutting regulation that 'drives up the cost of building anything' is part of his affordability plan.",
+          "sources": [
+            {
+              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Won the ten-candidate Republican primary with 29.39% despite President Trump endorsing rival Catalina Lauf.",
+          "sources": [
+            {
+              "title": "Schwartzel beats Trump-backed rival as Arias wins Democratic primary in Florida's 19th District (WINK)",
+              "url": "https://www.winknews.com/news/schwartzel-beats-trump-backed-rival-as-arias-wins-democratic-primary-in-florida-s-19th-district/article_87b66b20-7599-4549-bb94-b1511580fff5.html",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "Media Mogul Jim Schwartzel Leads Crowded FL-19 GOP Field, Barely (Hoodline)",
+              "url": "https://hoodline.com/2026/08/media-mogul-jim-schwartzel-leads-crowded-fl-19-gop-field-barely/",
+              "date": "2026-08"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -188,10 +345,10 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Victor_Arias.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Attorney",
+      "website": "https://votearias.us/",
+      "occupation": "Attorney; owner and managing attorney, Arias Law Firm (Cape Coral)",
       "residence": "Cape Coral, Lee County",
-      "background": "Victor Arias is a Cape Coral attorney. He won the Aug. 18, 2026 Democratic primary with about 45-46% of the vote, defeating Howard Sapp (about 41%) and Robert Neeld (about 13%).",
+      "background": "Victor Arias was born in the Dominican Republic, raised in New York, and moved to Southwest Florida in 1999 to work for the School District of Lee County; he has run his own law firm in Cape Coral since 2003, handling personal-injury, workers' compensation and school-law cases. He ran for Lee County superintendent of schools in 2024. He won the Aug. 18, 2026 Democratic primary with about 45% of the vote (15,406 votes), defeating Howard Sapp (about 41%) and Robert Neeld (about 13%).",
       "primary_result": "Won Aug 18, 2026 Democratic primary with ~45% over Howard Sapp (~41%) and Robert Neeld (~13%) (Fort Myers Beach Observer; Pine Island Eagle)",
       "positions": {
         "taxes": {
@@ -244,18 +401,40 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Arias proposes expanding Medicare's authority to negotiate drug prices, capping out-of-pocket prescription costs for seniors, ending surprise medical billing and increasing price transparency. No statement on Medicaid expansion in Florida was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Home | Arias for Congress (campaign site)",
+              "url": "https://votearias.us/",
+              "date": null
+            },
+            {
+              "title": "Victor Arias | BallotReady",
+              "url": "https://www.ballotready.org/people/victor-arias-092f0a5b-9692-4108-ad31-f157db6bc99d",
+              "date": null
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says he is running to 'protect Medicare for seniors'; no statement on Social Security financing was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Home | Arias for Congress (campaign site)",
+              "url": "https://votearias.us/",
+              "date": null
+            },
+            {
+              "title": "Cape attorney wins Democratic congressional primary (Island Reporter)",
+              "url": "https://www.captivasanibel.com/news/2026/08/cape-attorney-wins-democratic-congressional-primary/",
+              "date": "2026-08"
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -265,11 +444,22 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says he will 'defend the water quality that drives our economy,' secure federal funding for Everglades restoration and combat red tide at its source.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Home | Arias for Congress (campaign site)",
+              "url": "https://votearias.us/",
+              "date": null
+            },
+            {
+              "title": "Victor Arias - From the Douglas Housing Projects to Congress (Local Candidates profile)",
+              "url": "https://www.localcandidates.org/politicians/victor-arias/about/5b358535-ebd1-4516-b5c4-94c5c9b7bf6a",
+              "date": null
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -335,15 +525,102 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Pledges to 'cut the red tape for veterans,' expand VA health-care access and ensure veterans receive the benefits they earned.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Home | Arias for Congress (campaign site)",
+              "url": "https://votearias.us/",
+              "date": null
+            },
+            {
+              "title": "Cape attorney wins Democratic congressional primary (Island Reporter)",
+              "url": "https://www.captivasanibel.com/news/2026/08/cape-attorney-wins-democratic-congressional-primary/",
+              "date": "2026-08"
+            }
+          ]
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Everglades restoration funding and red tide",
+          "summary": "Wants federal Everglades funding and efforts to combat red tide 'at the source' to protect tourism.",
+          "sources": [
+            {
+              "title": "Home | Arias for Congress (campaign site)",
+              "url": "https://votearias.us/",
+              "date": null
+            },
+            {
+              "title": "Victor Arias - From the Douglas Housing Projects to Congress (Local Candidates profile)",
+              "url": "https://www.localcandidates.org/politicians/victor-arias/about/5b358535-ebd1-4516-b5c4-94c5c9b7bf6a",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Surprise medical billing and price transparency",
+          "summary": "Supports ending surprise billing and increasing transparency in health-care pricing.",
+          "sources": [
+            {
+              "title": "Victor Arias | BallotReady",
+              "url": "https://www.ballotready.org/people/victor-arias-092f0a5b-9692-4108-ad31-f157db6bc99d",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "VA red tape",
+          "summary": "Pledges to slash VA bureaucracy so veterans get benefits faster.",
+          "sources": [
+            {
+              "title": "Home | Arias for Congress (campaign site)",
+              "url": "https://votearias.us/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "'Real representation' for the district",
+          "summary": "Campaign frames the race around bringing 'real representation to Florida's 19th District' against a large Republican registration advantage.",
+          "sources": [
+            {
+              "title": "Home | Arias for Congress (campaign site)",
+              "url": "https://votearias.us/",
+              "date": null
+            },
+            {
+              "title": "Cape attorney wins Democratic congressional primary (Island Reporter)",
+              "url": "https://www.captivasanibel.com/news/2026/08/cape-attorney-wins-democratic-congressional-primary/",
+              "date": "2026-08"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Ran for Lee County Superintendent of Schools in 2024 (Ballotpedia).",
+          "sources": [
+            {
+              "title": "Victor Arias (Lee County Superintendent of Schools candidate, 2024) - Ballotpedia",
+              "url": "https://ballotpedia.org/Victor_Arias_(Lee_County_Superintendent_of_Schools,_Florida,_candidate_2024)",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Had not completed Ballotpedia's 2026 Candidate Connection survey as of the search date.",
+          "sources": [
+            {
+              "title": "Victor Arias - Ballotpedia",
+              "url": "https://ballotpedia.org/Victor_Arias",
+              "date": null
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

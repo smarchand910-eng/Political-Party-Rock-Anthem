@@ -17,7 +17,7 @@
     "Pinellas (part, St. Petersburg)"
   ],
   "what_it_does": "Represents Florida's 16th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Open seat (Rep. Vern Buchanan retiring). Roster from post-primary reporting by Florida Politics, Florida's Voice, Spectrum News 13 and a Yahoo/Herald-Tribune story that names Republican Sydney Gruters, Democrat Kelly Kirschner and independent (NPA) Mark Davis as the November candidates. Sources: https://floridapolitics.com/archives/813805-sydney-gruters-wins-gop-nomination-in-race-to-succeed-vern-buchanan/ ; https://www.yahoo.com/news/politics/articles/democrat-kirschner-wins-fl-16-001830722.html ; https://mynews13.com/fl/orlando/news/2026/08/19/cd-16-primary-results ; county makeup per WUSF map breakdown. Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts; county descriptions here reflect post-redistricting reporting where found (https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map).",
   "candidates": [
     {
@@ -27,18 +27,29 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Sydney_Gruters.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not found",
-      "residence": "Sarasota area (not verified)",
-      "background": "Sydney Gruters won the Aug. 18, 2026 Republican primary for the open 16th District seat with about 63.5% of the vote, defeating Eddie Speir and Ed Pope. She was endorsed by President Trump during the primary. The seat opened when Rep. Vern Buchanan announced his retirement.",
+      "website": "https://grutersforcongress.com/",
+      "occupation": "Former district director for U.S. Rep. Greg Steube (2019-2023); has cited experience at foundations and at the U.S. Department of Agriculture",
+      "residence": "Sarasota area, Sarasota County (not verified)",
+      "background": "Sydney Gruters is the wife of Republican National Committee Chair Joe Gruters and previously worked as district director for U.S. Rep. Greg Steube (2019-2023); she has also cited work at foundations and the U.S. Department of Agriculture. She announced for the open 16th District seat after Rep. Vern Buchanan said he would retire, was endorsed by President Trump, and won the Aug. 18, 2026 Republican primary with about 63.5% of the vote over Eddie Speir and Ed Pope.",
       "primary_result": "Won Aug 18, 2026 Republican primary with ~63.5% over Eddie Speir and Ed Pope (Florida's Voice; Florida Politics)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Gruters says she will fight rising prices 'with conservative solutions that help families keep more of what they earn' and told WSLR that controlling inflation comes down to balancing the federal budget.",
+          "quote": "You have to balance the budget. 49 of the 50 states do it. It's not impossible.",
+          "sources": [
+            {
+              "title": "Sydney Gruters For Congress (campaign site)",
+              "url": "https://grutersforcongress.com/",
+              "date": null
+            },
+            {
+              "title": "District 16 congressional race: Sydney Gruters (WSLR+Fogartyville interview)",
+              "url": "https://wslr.org/district-16-congressional-race-sydney-gruters/",
+              "date": "2026"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -57,23 +68,56 @@
         "housing": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "Lists housing costs among her six legislative priorities and says she wants to keep homeownership within reach, but no specific proposal (subsidies, zoning, rent measures) was found as of Sept 2026.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Sydney Gruters, RNC chair's wife, launches Florida House bid (The Hill)",
+              "url": "https://thehill.com/homenews/5812771-sydney-gruters-congress-campaign/",
+              "date": "2026"
+            },
+            {
+              "title": "Sydney Gruters For Congress (campaign site)",
+              "url": "https://grutersforcongress.com/",
+              "date": null
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists 'a secure border' among six legislative priorities and says she will 'work with President Trump and ICE to keep our families safe from violent criminals entering our country illegally.' No statement on large-scale deportation beyond people with criminal records was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Sydney Gruters For Congress (campaign site)",
+              "url": "https://grutersforcongress.com/",
+              "date": null
+            },
+            {
+              "title": "Sydney Gruters, RNC chair's wife, launches Florida House bid (The Hill)",
+              "url": "https://thehill.com/homenews/5812771-sydney-gruters-congress-campaign/",
+              "date": "2026"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Gruters said she would 'defend the unborn' in Congress and was endorsed by the Faith & Freedom Coalition of Florida, which cited her opposition to abortion. Florida Politics reported she did not answer a conservative questionnaire's specific questions on when abortion should be allowed, so her position on Florida's six-week law is not documented.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Faith & Freedom Coalition of Florida endorses Sydney Gruters for Congress (Florida's Voice)",
+              "url": "https://flvoicenews.com/faith-freedom-coalition-of-florida-endorses-sydney-gruters-for-congress/",
+              "date": "2026"
+            },
+            {
+              "title": "Sydney Gruters earns faith-based conservative backing in CD 16 race (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/802844-sydney-gruters-earns-faith-based-conservative-backing-in-cd-16-race/",
+              "date": "2026"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -90,11 +134,17 @@
           "sources": []
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Campaign site says she will 'protect Social Security and Medicare so seniors and those who served can retire with security.' No statement on how to finance the programs was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Sydney Gruters For Congress (campaign site)",
+              "url": "https://grutersforcongress.com/",
+              "date": null
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -111,11 +161,17 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Campaign site says she 'will fight to curb overdevelopment and keep homeownership within reach for working families.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Sydney Gruters For Congress (campaign site)",
+              "url": "https://grutersforcongress.com/",
+              "date": null
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -127,9 +183,15 @@
         "elections": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "Lists 'election security' among her six legislative priorities; no specific position on mail voting, drop boxes or new requirements was found as of Sept 2026.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Sydney Gruters, RNC chair's wife, launches Florida House bid (The Hill)",
+              "url": "https://thehill.com/homenews/5812771-sydney-gruters-congress-campaign/",
+              "date": "2026"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -167,22 +229,115 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Gruters was endorsed by President Trump in the primary and says she will work with President Trump and ICE on border enforcement; her husband, Joe Gruters, chairs the Republican National Committee.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Sydney Gruters For Congress (campaign site)",
+              "url": "https://grutersforcongress.com/",
+              "date": null
+            },
+            {
+              "title": "Sydney Gruters, RNC chair's wife, launches Florida House bid (The Hill)",
+              "url": "https://thehill.com/homenews/5812771-sydney-gruters-congress-campaign/",
+              "date": "2026"
+            }
+          ]
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says she will 'strengthen veterans' benefits'; lists seniors and veterans among her six legislative priorities.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Sydney Gruters For Congress (campaign site)",
+              "url": "https://grutersforcongress.com/",
+              "date": null
+            },
+            {
+              "title": "Sydney Gruters, RNC chair's wife, launches Florida House bid (The Hill)",
+              "url": "https://thehill.com/homenews/5812771-sydney-gruters-congress-campaign/",
+              "date": "2026"
+            }
+          ]
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Balanced federal budget",
+          "summary": "Says tackling inflation 'came down to balancing the budget' and cites her budget experience at foundations and the USDA.",
+          "sources": [
+            {
+              "title": "District 16 congressional race: Sydney Gruters (WSLR+Fogartyville interview)",
+              "url": "https://wslr.org/district-16-congressional-race-sydney-gruters/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Election security",
+          "summary": "Names election security as one of six legislative priorities.",
+          "sources": [
+            {
+              "title": "Sydney Gruters, RNC chair's wife, launches Florida House bid (The Hill)",
+              "url": "https://thehill.com/homenews/5812771-sydney-gruters-congress-campaign/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Constituent service",
+          "summary": "Told WSLR every constituent will have access to her and her staff, citing seniors needing help with Social Security.",
+          "sources": [
+            {
+              "title": "District 16 congressional race: Sydney Gruters (WSLR+Fogartyville interview)",
+              "url": "https://wslr.org/district-16-congressional-race-sydney-gruters/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Cost of living and inflation",
+          "summary": "Lists cost of living and inflation as top priorities, pledging 'conservative solutions' to rising prices.",
+          "sources": [
+            {
+              "title": "Sydney Gruters, RNC chair's wife, launches Florida House bid (The Hill)",
+              "url": "https://thehill.com/homenews/5812771-sydney-gruters-congress-campaign/",
+              "date": "2026"
+            },
+            {
+              "title": "Sydney Gruters For Congress (campaign site)",
+              "url": "https://grutersforcongress.com/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Served as district director for Rep. Greg Steube from January 2019 to March 2023 (LegiStorm).",
+          "sources": [
+            {
+              "title": "Sydney Gruters - LegiStorm biography (district director for Rep. Greg Steube, Jan. 2019-Mar. 2023)",
+              "url": "https://www.legistorm.com/person/bio/45894/Sydney_Spence_Gruters.html",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Raised more than $1 million and was supported by super PAC spending exceeding $1.5 million during the primary, per WSLR.",
+          "sources": [
+            {
+              "title": "District 16 congressional race: Sydney Gruters (WSLR+Fogartyville interview)",
+              "url": "https://wslr.org/district-16-congressional-race-sydney-gruters/",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "endorsements": [
         {
           "by": "President Donald Trump",
@@ -198,6 +353,21 @@
               "date": null
             }
           ]
+        },
+        {
+          "by": "Faith & Freedom Coalition of Florida",
+          "sources": [
+            {
+              "title": "Faith & Freedom Coalition of Florida endorses Sydney Gruters for Congress (Florida's Voice)",
+              "url": "https://flvoicenews.com/faith-freedom-coalition-of-florida-endorses-sydney-gruters-for-congress/",
+              "date": "2026"
+            },
+            {
+              "title": "Sydney Gruters earns faith-based conservative backing in CD 16 race (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/802844-sydney-gruters-earns-faith-based-conservative-backing-in-cd-16-race/",
+              "date": "2026"
+            }
+          ]
         }
       ]
     },
@@ -208,18 +378,24 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Kelly_Kirschner.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not found",
-      "residence": "Sarasota County (not verified)",
-      "background": "Kelly Kirschner won the Aug. 18, 2026 Democratic primary with about 43.8% of the vote over Tamika Lyles (19.4%), Jonathan Harris, Glenn Pearson and Jan Schneider, advancing to face Republican Sydney Gruters and independent Mark Davis in November.",
+      "website": "https://kellykirschner.com/",
+      "occupation": "Former Sarasota mayor and city commissioner; former Eckerd College administrator; co-founder of the nonprofit UnidosNow",
+      "residence": "Sarasota, Sarasota County (former Sarasota mayor; residence not independently verified)",
+      "background": "Kelly Kirschner served on the Sarasota City Commission and as mayor of Sarasota, worked in higher-education leadership at Eckerd College, and co-founded the nonprofit UnidosNow, which he says has helped more than 1,000 first-generation students earn scholarships. He entered the open CD 16 race in May 2026 and won the Aug. 18, 2026 Democratic primary with about 43.8% of the vote over Tamika Lyles (19.4%), Jonathan Harris, Glenn Pearson and Jan Schneider.",
       "primary_result": "Won Aug 18, 2026 Democratic primary with ~43.8% over Lyles (~19.4%), Harris, Pearson and Schneider (Spectrum News 13; Yahoo/Herald-Tribune)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Kirschner says billionaires, lobbyists and corporations 'have treated Congress like a vending machine' with the result that ordinary people 'pay more for groceries, prescriptions and rent while they pay less in taxes'; he has not made tax cuts a priority.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Kelly Kirschner for U.S. Congress - FL 16 (campaign site)",
+              "url": "https://kellykirschner.com/",
+              "date": null
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -229,11 +405,22 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Cites a 78% rise in Florida property-insurance costs over three years and proposes a national catastrophic reinsurance fund to stabilize the market, plus a fully funded FEMA and 'affordable home and flood insurance.' The proposal is a federal backstop rather than a state rate cap.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "District 16 congressional race: Kelly Kirschner (WSLR+Fogartyville interview)",
+              "url": "https://wslr.org/district-16-congressional-race-kelly-kirschner/",
+              "date": "2026"
+            },
+            {
+              "title": "Kelly Kirschner for U.S. Congress - FL 16 (campaign site)",
+              "url": "https://kellykirschner.com/",
+              "date": null
+            }
+          ]
         },
         "housing": {
           "stance": null,
@@ -243,11 +430,17 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Kirschner argues the district's economy was built on immigrant labor and that politicians such as Rick Scott and Donald Trump made that population 'a political target'; he cites CBO estimates that the U.S. needs 1.2-1.5 million new immigrants a year for economic growth and Social Security/Medicare solvency. He co-founded an immigrant-integration nonprofit. No statement on specific enforcement measures was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "District 16 congressional race: Kelly Kirschner (WSLR+Fogartyville interview)",
+              "url": "https://wslr.org/district-16-congressional-race-kelly-kirschner/",
+              "date": "2026"
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -264,11 +457,22 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Kirschner says he is running to 'defend health care': protecting patients with pre-existing conditions, restoring cuts to Medicaid and Medicare, and expanding access to affordable health care.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Kelly Kirschner for U.S. Congress - FL 16 (campaign site)",
+              "url": "https://kellykirschner.com/",
+              "date": null
+            },
+            {
+              "title": "District 16 congressional race: Kelly Kirschner (WSLR+Fogartyville interview)",
+              "url": "https://wslr.org/district-16-congressional-race-kelly-kirschner/",
+              "date": "2026"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -285,18 +489,35 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Campaign materials prioritize water-quality protection and addressing 'unchecked development'; endorsed by the Democratic Environmental Caucus of Florida.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "District 16 congressional race: Kelly Kirschner (WSLR+Fogartyville interview)",
+              "url": "https://wslr.org/district-16-congressional-race-kelly-kirschner/",
+              "date": "2026"
+            },
+            {
+              "title": "Press - Kelly Kirschner for U.S. Congress (campaign site)",
+              "url": "https://kellykirschner.com/press/",
+              "date": null
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says the region faces unchecked development and that protecting water quality should be a priority.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "District 16 congressional race: Kelly Kirschner (WSLR+Fogartyville interview)",
+              "url": "https://wslr.org/district-16-congressional-race-kelly-kirschner/",
+              "date": "2026"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -348,11 +569,22 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says working families 'were promised relief eighteen months ago but instead got higher rent, higher insurance, higher gasoline, and higher grocery bills,' and criticizes Donald Trump and Rick Scott for targeting immigrants.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Kelly Kirschner for U.S. Congress - FL 16 (campaign site)",
+              "url": "https://kellykirschner.com/",
+              "date": null
+            },
+            {
+              "title": "District 16 congressional race: Kelly Kirschner (WSLR+Fogartyville interview)",
+              "url": "https://wslr.org/district-16-congressional-race-kelly-kirschner/",
+              "date": "2026"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -362,9 +594,116 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "Campaign-finance reform / no corporate PAC money",
+          "summary": "Says he takes no corporate PAC contributions and wants to end the influence of billionaires and lobbyists on Congress.",
+          "sources": [
+            {
+              "title": "Kelly Kirschner for U.S. Congress - FL 16 (campaign site)",
+              "url": "https://kellykirschner.com/",
+              "date": null
+            },
+            {
+              "title": "Press - Kelly Kirschner for U.S. Congress (campaign site)",
+              "url": "https://kellykirschner.com/press/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "War powers",
+          "summary": "Calls for an end to the 'blank check' era of foreign wars and pledges to hold Congress to its constitutional duty to declare war.",
+          "sources": [
+            {
+              "title": "Kelly Kirschner for U.S. Congress - FL 16 (campaign site)",
+              "url": "https://kellykirschner.com/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "FEMA funding and hurricane relief",
+          "summary": "Platform calls for a fully funded FEMA for hurricane relief.",
+          "sources": [
+            {
+              "title": "Kelly Kirschner for U.S. Congress - FL 16 (campaign site)",
+              "url": "https://kellykirschner.com/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "National catastrophic reinsurance fund",
+          "summary": "Proposes a federal catastrophic natural-disaster reinsurance fund to stabilize property-insurance markets.",
+          "sources": [
+            {
+              "title": "District 16 congressional race: Kelly Kirschner (WSLR+Fogartyville interview)",
+              "url": "https://wslr.org/district-16-congressional-race-kelly-kirschner/",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Reported more than $100,000 raised in his first week and $224,000 in his first quarter as a candidate.",
+          "sources": [
+            {
+              "title": "Kelly Kirschner reports more than $100K in first week of campaign for CD 16 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/796546-kelly-kirschner-reports-more-than-100k-in-first-week-of-campaign-for-cd-16/",
+              "date": "2026-05"
+            },
+            {
+              "title": "Kelly Kirschner posts $224K in first quarter, says he's ready to battle Sydney Gruters in CD 16 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/807762-kelly-kirschner-posts-224k-in-first-quarter-says-hes-ready-to-battle-sydney-gruters-in-cd-16/",
+              "date": "2026-07"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Florida AFL-CIO",
+          "sources": [
+            {
+              "title": "Press - Kelly Kirschner for U.S. Congress (campaign site)",
+              "url": "https://kellykirschner.com/press/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "West Central Florida Labor Council",
+          "sources": [
+            {
+              "title": "Press - Kelly Kirschner for U.S. Congress (campaign site)",
+              "url": "https://kellykirschner.com/press/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "Democratic Environmental Caucus of Florida",
+          "sources": [
+            {
+              "title": "Press - Kelly Kirschner for U.S. Congress (campaign site)",
+              "url": "https://kellykirschner.com/press/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "Florida LGBTQ+ Democratic Caucus",
+          "sources": [
+            {
+              "title": "Press - Kelly Kirschner for U.S. Congress (campaign site)",
+              "url": "https://kellykirschner.com/press/",
+              "date": null
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "mark_davis",
@@ -374,9 +713,9 @@
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Mark_Davis.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
       "website": null,
-      "occupation": "Not found",
+      "occupation": "Business owner; U.S. Air Force veteran (2005-2013)",
       "residence": "Not found",
-      "background": "Mark Davis is an independent (no party affiliation) candidate who qualified for the November ballot in the open 16th District, per post-primary reporting.",
+      "background": "Mark Davis served in the U.S. Air Force from 2005 to 2013 and works as a business owner; Ballotpedia lists a high-school diploma from Western High School. He qualified as a no-party-affiliation candidate for the open 16th District and says he is running to offer a moderate, fiscally responsible alternative. Local outlets reported he was arrested in Parrish in July 2026.",
       "primary_result": "No primary (NPA candidate; Yahoo/Herald-Tribune report)",
       "positions": {
         "taxes": {
@@ -527,8 +866,36 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Moderate, nonpartisan alternative",
+          "summary": "Says he is running as an independent to offer a moderate alternative, emphasizing fiscal responsibility and nonpartisan problem-solving.",
+          "sources": [
+            {
+              "title": "Mark Davis (Florida) - Ballotpedia",
+              "url": "https://ballotpedia.org/Mark_Davis_(Florida)",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Records show Davis was arrested in Parrish (Manatee County) in July 2026, according to the Tampa Bay Times and WTSP; the nature of the charge was not captured in this research.",
+          "sources": [
+            {
+              "title": "Congressional District 16 candidate arrested, records show (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/07/29/congress-candidate-16-arrest-election-2026/",
+              "date": "2026-07-29"
+            },
+            {
+              "title": "Florida Congressional independent candidate arrested in Parrish, records show (WTSP)",
+              "url": "https://www.wtsp.com/article/news/local/manateecounty/florida-us-congress-candidate-arrest-mark-davis-district-16/67-c1379d1c-56a4-47d7-8835-9844c6ce1617",
+              "date": "2026-07"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

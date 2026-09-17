@@ -228,7 +228,8 @@
       }
      ]
     }
-   }
+   },
+   "record": []
   },
   "ashley_moody": {
    "positions": {},
@@ -422,7 +423,8 @@
       }
      ]
     }
-   }
+   },
+   "record": []
   },
   "blaise_ingoglia": {
    "positions": {
@@ -583,7 +585,8 @@
       }
      ]
     }
-   }
+   },
+   "record": []
   },
   "annette_taddeo": {
    "positions": {
@@ -700,7 +703,8 @@
       }
      ]
     }
-   }
+   },
+   "record": []
   },
   "wilton_simpson": {
    "positions": {
@@ -805,7 +809,8 @@
       }
      ]
     }
-   }
+   },
+   "record": []
   },
   "kat_cammack": {
    "positions": {
@@ -842,18 +847,6 @@
        "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
        "date": "2025-07"
-      }
-     ]
-    },
-    "elections": {
-     "stance": -2,
-     "confidence": "record",
-     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
       }
      ]
     },
@@ -926,18 +919,6 @@
       }
      ]
     },
-    "elections": {
-     "stance": -2,
-     "confidence": "record",
-     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
-    },
     "immigration": {
      "stance": 2,
      "confidence": "record",
@@ -1004,18 +985,6 @@
        "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
        "date": "2025-07"
-      }
-     ]
-    },
-    "elections": {
-     "stance": -2,
-     "confidence": "record",
-     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
       }
      ]
     },
@@ -1088,18 +1057,6 @@
       }
      ]
     },
-    "elections": {
-     "stance": -2,
-     "confidence": "record",
-     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
-    },
     "immigration": {
      "stance": 2,
      "confidence": "record",
@@ -1166,18 +1123,6 @@
        "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
        "date": "2025-07"
-      }
-     ]
-    },
-    "elections": {
-     "stance": -2,
-     "confidence": "record",
-     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
       }
      ]
     },
@@ -1250,18 +1195,6 @@
       }
      ]
     },
-    "elections": {
-     "stance": -2,
-     "confidence": "record",
-     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
-    },
     "immigration": {
      "stance": 2,
      "confidence": "record",
@@ -1328,18 +1261,6 @@
        "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
        "date": "2025-07"
-      }
-     ]
-    },
-    "elections": {
-     "stance": -2,
-     "confidence": "record",
-     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
       }
      ]
     },
@@ -1412,18 +1333,6 @@
       }
      ]
     },
-    "elections": {
-     "stance": -2,
-     "confidence": "record",
-     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
-    },
     "immigration": {
      "stance": 2,
      "confidence": "record",
@@ -1490,18 +1399,6 @@
        "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
        "date": "2025-07"
-      }
-     ]
-    },
-    "elections": {
-     "stance": -2,
-     "confidence": "record",
-     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
       }
      ]
     },
@@ -1574,18 +1471,6 @@
       }
      ]
     },
-    "elections": {
-     "stance": -2,
-     "confidence": "record",
-     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
-    },
     "immigration": {
      "stance": 2,
      "confidence": "record",
@@ -1652,18 +1537,6 @@
        "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
        "date": "2025-07"
-      }
-     ]
-    },
-    "elections": {
-     "stance": -2,
-     "confidence": "record",
-     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
       }
      ]
     },
@@ -1736,18 +1609,6 @@
       }
      ]
     },
-    "elections": {
-     "stance": -2,
-     "confidence": "record",
-     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
-    },
     "immigration": {
      "stance": 2,
      "confidence": "record",
@@ -1814,18 +1675,6 @@
        "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
        "date": "2025-07"
-      }
-     ]
-    },
-    "elections": {
-     "stance": -2,
-     "confidence": "record",
-     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
       }
      ]
     },
@@ -1898,18 +1747,6 @@
       }
      ]
     },
-    "elections": {
-     "stance": -2,
-     "confidence": "record",
-     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
-    },
     "immigration": {
      "stance": 2,
      "confidence": "record",
@@ -1971,18 +1808,6 @@
        "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
        "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
        "date": "2025-07"
-      }
-     ]
-    },
-    "elections": {
-     "stance": -2,
-     "confidence": "record",
-     "summary": "Voted for the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
       }
      ]
     },
@@ -2049,37 +1874,9 @@
        "date": "2025-07"
       }
      ]
-    },
-    "elections": {
-     "stance": 2,
-     "confidence": "record",
-     "summary": "Voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
     }
    },
-   "record": [
-    {
-     "item": "Voted against H.R. 1 (2025), the budget reconciliation law, and against the SAVE Act (2025).",
-     "sources": [
-      {
-       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-       "date": "2025-07"
-      },
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
-    }
-   ]
+   "record": []
   },
   "kathy_castor": {
    "positions": {
@@ -2118,37 +1915,9 @@
        "date": "2025-07"
       }
      ]
-    },
-    "elections": {
-     "stance": 2,
-     "confidence": "record",
-     "summary": "Voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
     }
    },
-   "record": [
-    {
-     "item": "Voted against H.R. 1 (2025), the budget reconciliation law, and against the SAVE Act (2025).",
-     "sources": [
-      {
-       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-       "date": "2025-07"
-      },
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
-    }
-   ]
+   "record": []
   },
   "darren_soto": {
    "positions": {
@@ -2187,37 +1956,9 @@
        "date": "2025-07"
       }
      ]
-    },
-    "elections": {
-     "stance": 2,
-     "confidence": "record",
-     "summary": "Voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
     }
    },
-   "record": [
-    {
-     "item": "Voted against H.R. 1 (2025), the budget reconciliation law, and against the SAVE Act (2025).",
-     "sources": [
-      {
-       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-       "date": "2025-07"
-      },
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
-    }
-   ]
+   "record": []
   },
   "debbie_wasserman_schultz": {
    "positions": {
@@ -2256,37 +1997,9 @@
        "date": "2025-07"
       }
      ]
-    },
-    "elections": {
-     "stance": 2,
-     "confidence": "record",
-     "summary": "Voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
     }
    },
-   "record": [
-    {
-     "item": "Voted against H.R. 1 (2025), the budget reconciliation law, and against the SAVE Act (2025).",
-     "sources": [
-      {
-       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-       "date": "2025-07"
-      },
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
-    }
-   ]
+   "record": []
   },
   "lois_frankel": {
    "positions": {
@@ -2325,37 +2038,9 @@
        "date": "2025-07"
       }
      ]
-    },
-    "elections": {
-     "stance": 2,
-     "confidence": "record",
-     "summary": "Voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
     }
    },
-   "record": [
-    {
-     "item": "Voted against H.R. 1 (2025), the budget reconciliation law, and against the SAVE Act (2025).",
-     "sources": [
-      {
-       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-       "date": "2025-07"
-      },
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
-    }
-   ]
+   "record": []
   },
   "jared_moskowitz": {
    "positions": {
@@ -2394,37 +2079,9 @@
        "date": "2025-07"
       }
      ]
-    },
-    "elections": {
-     "stance": 2,
-     "confidence": "record",
-     "summary": "Voted against the SAVE Act (H.R. 22, April 2025), which would require documentary proof of citizenship to register to vote.",
-     "sources": [
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
     }
    },
-   "record": [
-    {
-     "item": "Voted against H.R. 1 (2025), the budget reconciliation law, and against the SAVE Act (2025).",
-     "sources": [
-      {
-       "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-       "date": "2025-07"
-      },
-      {
-       "title": "H.R.22 SAVE Act, 119th Congress: actions and roll-call votes",
-       "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
-       "date": "2025-04"
-      }
-     ]
-    }
-   ]
+   "record": []
   }
  }
 }

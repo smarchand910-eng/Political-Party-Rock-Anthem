@@ -15,7 +15,7 @@
   ],
   "what_it_does": "Represents Florida's 5th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
   "coverage": "partial",
-  "verified_ballot_note": "Action News Jax/AP reports Rachel Grage won the Aug. 18, 2026 Democratic nomination in the 5th District (https://www.actionnewsjax.com/news/local/7-pm-live-results-2026-florida-primary-election/3Q5GX2YDSZA3ZA4Y57MP36IDGY/). The result of the Republican primary among incumbent John Rutherford, Mark Kaye and Donald Muirheid (Ballotpedia roster: https://ballotpedia.org/Florida's_5th_Congressional_District_election,_2026) was NOT found in searches run for this guide; Rutherford is listed below as the incumbent primary candidate with his nomination unconfirmed. NPA/write-in candidates not confirmed. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide.",
+  "verified_ballot_note": "UPDATE (Sept 2026 research pass): Rutherford won the Aug. 18, 2026 Republican primary with about 67.7% to 32.3% for challenger Mark Kaye, per a NewsForce post on X citing results (https://x.com/Newsforce/status/2089942937538793937); Ballotpedia's primary page lists the contest (https://ballotpedia.org/Florida's_5th_Congressional_District_election,_2026_(August_18_Republican_primary)). The percentage comes from a social-media post and should be confirmed against the Florida Division of Elections. Both Trump-endorsement roundups also list Rutherford as a primary winner (https://www.yahoo.com/news/politics/articles/florida-primary-election-trump-endorsements-013004057.html). Action News Jax/AP reports Rachel Grage won the Aug. 18, 2026 Democratic nomination in the 5th District (https://www.actionnewsjax.com/news/local/7-pm-live-results-2026-florida-primary-election/3Q5GX2YDSZA3ZA4Y57MP36IDGY/). The result of the Republican primary among incumbent John Rutherford, Mark Kaye and Donald Muirheid (Ballotpedia roster: https://ballotpedia.org/Florida's_5th_Congressional_District_election,_2026) was NOT found in searches run for this guide; Rutherford is listed below as the incumbent primary candidate with his nomination unconfirmed. NPA/write-in candidates not confirmed. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide.",
   "candidates": [
     {
       "id": "john_rutherford",
@@ -27,15 +27,36 @@
       "website": null,
       "occupation": "U.S. Representative (since 2017); former Jacksonville sheriff",
       "residence": "Jacksonville, Duval County (not re-verified)",
-      "background": "John Rutherford, a former Jacksonville sheriff, has served in the U.S. House since 2017. He faced radio host Mark Kaye and Donald Muirheid in the Aug. 18, 2026 Republican primary. NOTE: the outcome of that primary was not found in searches run for this guide, so his place on the November ballot is unconfirmed.",
-      "primary_result": "Republican primary vs. Mark Kaye and Donald Muirheid on Aug 18, 2026; result NOT found in searches (Florida Politics preview: https://floridapolitics.com/archives/743249-rutherford-kaye-primary/)",
+      "background": "John Rutherford, a former Jacksonville sheriff, has served in the U.S. House since 2017. He won the Aug. 18, 2026 Republican primary with about 68% over radio host Mark Kaye, per results posted by NewsForce on X (to be confirmed with the Division of Elections). He was endorsed by President Trump for 2026 and voted for the One Big Beautiful Bill Act, the Laken Riley Act and the SAVE Act (congress.gov; rutherford.house.gov). He faces Democrat Rachel Grage in November.",
+      "primary_result": "Won Aug 18, 2026 Republican primary with about 67.7% over Mark Kaye (32.3%), per a NewsForce post on X (https://x.com/Newsforce/status/2089942937538793937); verify against Division of Elections. Ballotpedia primary page: https://ballotpedia.org/Florida's_5th_Congressional_District_election,_2026_(August_18_Republican_primary)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for H.R. 1 (One Big Beautiful Bill Act) in 2025, which extended the 2017 individual tax cuts and created new deductions (tips, overtime) while reducing projected federal spending on Medicaid and SNAP. His statement said the bill gives Americans 'a much-needed tax break' and 'historic tax relief for seniors'; his site maintains a 'Tax Cuts for Working Americans' page.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Congress.gov: H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Clerk: Roll Call 190 (July 3, 2025) - agreeing to Senate amendment to H.R. 1, 218-214",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "Rep. Rutherford press release: Statement on Passing the One Big Beautiful Bill",
+              "url": "https://rutherford.house.gov/media/press-releases/rutherford-statement-passing-one-big-beautiful-bill",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "Rep. Rutherford official site: Tax Cuts for Working Americans",
+              "url": "https://rutherford.house.gov/issues/tax-cuts-working-americans",
+              "date": null
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -59,18 +80,60 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for the Laken Riley Act (Jan. 2025) and for H.R. 1, which he said would deliver on 'permanently closing the Southern Border'; has issued statements supporting Homeland Security appropriations and a CR to end a DHS shutdown.",
+          "quote": "permanently closing the Southern Border",
+          "sources": [
+            {
+              "title": "Congress.gov: S. 5 - Laken Riley Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            },
+            {
+              "title": "House Clerk: Roll Call 23 (Jan. 22, 2025) - passage of S. 5, 263-156",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            },
+            {
+              "title": "Rep. Rutherford press release: Statement on Passing the One Big Beautiful Bill",
+              "url": "https://rutherford.house.gov/media/press-releases/rutherford-statement-passing-one-big-beautiful-bill",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "Rep. Rutherford official site: Immigration issue page",
+              "url": "https://rutherford.house.gov/issues/immigration",
+              "date": null
+            },
+            {
+              "title": "Rep. Rutherford press release: Statement on FY25 Homeland Security Appropriations Bill Passage",
+              "url": "https://rutherford.house.gov/media/press-releases/rutherford-statement-fy25-homeland-security-appropriations-bill-passage",
+              "date": "2024"
+            },
+            {
+              "title": "Rep. Rutherford press release: Statement on CR to End DHS Shutdown",
+              "url": "https://rutherford.house.gov/media/press-releases/rutherford-statement-cr-end-dhs-shutdown",
+              "date": "2026"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "His statement on the FY2026 appropriations bills highlighted provisions to 'defund abortion-related travel' at the Department of War; Reproductive Freedom for All's scorecard tracks his votes as opposing abortion access. A statement on Florida's six-week ban was not found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Rep. Rutherford press release: Statement on the Final Four FY26 Appropriations Bills Passage",
+              "url": "https://rutherford.house.gov/media/press-releases/rutherford-statement-final-four-fy26-appropriations-bills-passage",
+              "date": "2026"
+            },
+            {
+              "title": "Reproductive Freedom for All: John Rutherford congressional scorecard",
+              "url": "https://reproductivefreedomforall.org/lawmaker/john-rutherford/",
+              "date": null
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -80,11 +143,27 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted for H.R. 1 (2025), which added Medicaid work-reporting requirements and other eligibility changes and did not extend the enhanced ACA premium subsidies; the vote is coded as leaning against expanding the federal role in coverage.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Congress.gov: H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Clerk: Roll Call 190 (July 3, 2025) - agreeing to Senate amendment to H.R. 1, 218-214",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "Rep. Rutherford press release: Statement on Passing the One Big Beautiful Bill",
+              "url": "https://rutherford.house.gov/media/press-releases/rutherford-statement-passing-one-big-beautiful-bill",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -122,11 +201,22 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted for H.R. 22, the SAVE Act (April 2025), which would require documentary proof of citizenship to register to vote in federal elections; coded as supporting a new voting requirement rather than easing access.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Congress.gov: H.R. 22 - SAVE Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "House Clerk: Roll Call 102 (April 10, 2025) - passage of H.R. 22, 220-208",
+              "url": "https://clerk.house.gov/Votes/2025102",
+              "date": "2025-04-10"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -157,18 +247,50 @@
           "sources": []
         },
         "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "What The Vote records him voting 'No' on a 2026 measure authorizing additional Ukraine aid including up to $8 billion in military assistance via loans; he was not among the 18 House Republicans listed as voting for the June 4, 2026 Ukraine aid bill.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "What The Vote: John H. Rutherford votes and record",
+              "url": "https://wtfvote.us/profile/John_Rutherford",
+              "date": null
+            },
+            {
+              "title": "Newsweek: House Passes Ukraine Aid Bill: Full List of Republicans Who Backed It",
+              "url": "https://www.newsweek.com/house-passes-ukraine-aid-bill-full-list-of-republicans-who-backed-it-12034949",
+              "date": "2026-06-05"
+            }
+          ]
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Endorsed by President Trump for 2026; his statements describe H.R. 1 as 'delivering on promises made by President Trump' and he issued a statement supporting the administration's February 2026 Operation Epic Fury against Iran.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Florida's Voice: President Trump throws full weight behind seven Florida Republicans in early 2026 endorsements",
+              "url": "https://flvoicenews.com/president-trump-throws-full-weight-behind-seven-florida-republicans-in-early-2026-endorsements/",
+              "date": "2026"
+            },
+            {
+              "title": "USA Today Network via Yahoo: Florida primary election Trump endorsements for 2026: Who won",
+              "url": "https://www.yahoo.com/news/politics/articles/florida-primary-election-trump-endorsements-013004057.html",
+              "date": "2026-08"
+            },
+            {
+              "title": "Rep. Rutherford press release: Statement on Passing the One Big Beautiful Bill",
+              "url": "https://rutherford.house.gov/media/press-releases/rutherford-statement-passing-one-big-beautiful-bill",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "Rep. Rutherford official site: media (statement supporting Operation Epic Fury, Feb. 2026)",
+              "url": "https://rutherford.house.gov/media",
+              "date": "2026-02"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -178,9 +300,129 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "FY2026 appropriations",
+          "summary": "Voted for the final four full-year FY2026 funding bills, which he said fund combat-ready forces, a secure border, education and health systems and transportation.",
+          "sources": [
+            {
+              "title": "Rep. Rutherford press release: Statement on the Final Four FY26 Appropriations Bills Passage",
+              "url": "https://rutherford.house.gov/media/press-releases/rutherford-statement-final-four-fy26-appropriations-bills-passage"
+            }
+          ]
+        },
+        {
+          "title": "Operation Epic Fury (Iran)",
+          "summary": "Issued a February 2026 statement supporting U.S. military operations against Iran, citing the regime's terrorism sponsorship and nuclear program.",
+          "sources": [
+            {
+              "title": "Rep. Rutherford official site: media (statement supporting Operation Epic Fury, Feb. 2026)",
+              "url": "https://rutherford.house.gov/media"
+            }
+          ]
+        },
+        {
+          "title": "DHS funding",
+          "summary": "Supported a continuing resolution to end a Department of Homeland Security shutdown and the FY25 Homeland Security appropriations bill.",
+          "sources": [
+            {
+              "title": "Rep. Rutherford press release: Statement on CR to End DHS Shutdown",
+              "url": "https://rutherford.house.gov/media/press-releases/rutherford-statement-cr-end-dhs-shutdown"
+            },
+            {
+              "title": "Rep. Rutherford press release: Statement on FY25 Homeland Security Appropriations Bill Passage",
+              "url": "https://rutherford.house.gov/media/press-releases/rutherford-statement-fy25-homeland-security-appropriations-bill-passage"
+            }
+          ]
+        },
+        {
+          "title": "Congressional reform",
+          "summary": "Maintains an official 'Congress' issue page on his site.",
+          "sources": [
+            {
+              "title": "Rep. Rutherford official site: Congress issue page",
+              "url": "https://rutherford.house.gov/issues/congress"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted for H.R. 1, the One Big Beautiful Bill Act (House passage May 22, 2025; final passage July 3, 2025, 218-214).",
+          "sources": [
+            {
+              "title": "Congress.gov: H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+            },
+            {
+              "title": "House Clerk: Roll Call 190 (July 3, 2025) - agreeing to Senate amendment to H.R. 1, 218-214",
+              "url": "https://clerk.house.gov/Votes/2025190"
+            },
+            {
+              "title": "Rep. Rutherford press release: Statement on Passing the One Big Beautiful Bill",
+              "url": "https://rutherford.house.gov/media/press-releases/rutherford-statement-passing-one-big-beautiful-bill"
+            },
+            {
+              "title": "Rep. Rutherford press release: Statement on House Passage of the One Big Beautiful Bill",
+              "url": "https://rutherford.house.gov/media/press-releases/rutherford-statement-house-passage-one-big-beautiful-bill"
+            }
+          ]
+        },
+        {
+          "item": "Voted for S. 5, the Laken Riley Act (House passage Jan. 22, 2025, 263-156).",
+          "sources": [
+            {
+              "title": "Congress.gov: S. 5 - Laken Riley Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+            },
+            {
+              "title": "House Clerk: Roll Call 23 (Jan. 22, 2025) - passage of S. 5, 263-156",
+              "url": "https://clerk.house.gov/Votes/202523"
+            }
+          ]
+        },
+        {
+          "item": "Voted for H.R. 22, the SAVE Act (April 10, 2025, 220-208).",
+          "sources": [
+            {
+              "title": "Congress.gov: H.R. 22 - SAVE Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+            },
+            {
+              "title": "House Clerk: Roll Call 102 (April 10, 2025) - passage of H.R. 22, 220-208",
+              "url": "https://clerk.house.gov/Votes/2025102"
+            }
+          ]
+        },
+        {
+          "item": "Rutherford was not among the 18 House Republicans listed as voting for the June 4, 2026 Ukraine aid and Russia sanctions bill, which passed 226-195 over the objections of House GOP leadership and the Trump administration (individual 'no' vs. 'not voting' status not confirmed in searches).",
+          "sources": [
+            {
+              "title": "Newsweek: House Passes Ukraine Aid Bill: Full List of Republicans Who Backed It",
+              "url": "https://www.newsweek.com/house-passes-ukraine-aid-bill-full-list-of-republicans-who-backed-it-12034949"
+            },
+            {
+              "title": "NBC News: House passes Ukraine aid bill in another GOP rebuke of Trump's foreign policy",
+              "url": "https://www.nbcnews.com/politics/congress/house-passes-ukraine-aid-bill-another-gop-rebuke-trumps-foreign-policy-rcna348589"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "President Donald Trump (2026)",
+          "sources": [
+            {
+              "title": "Florida's Voice: President Trump throws full weight behind seven Florida Republicans in early 2026 endorsements",
+              "url": "https://flvoicenews.com/president-trump-throws-full-weight-behind-seven-florida-republicans-in-early-2026-endorsements/"
+            },
+            {
+              "title": "USA Today Network via Yahoo: Florida primary election Trump endorsements for 2026: Who won",
+              "url": "https://www.yahoo.com/news/politics/articles/florida-primary-election-trump-endorsements-013004057.html"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "rachel_grage",
@@ -189,10 +431,10 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Rachel_Grage.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not found",
-      "residence": "Not found",
-      "background": "Rachel Grage won the Aug. 18, 2026 Democratic primary in the 5th District over Alexander Hazen, Mark Heggestad and Eli Johnson, per Action News Jax/AP. No further biographical information was found in searches run for this guide.",
+      "website": "https://rachelgrage.com/",
+      "occupation": "Biomedical engineer and grassroots activist (Ballotpedia)",
+      "residence": "Jacksonville area, Duval County (inferred from her 2024 Florida House District 16 campaign; not verified)",
+      "background": "Rachel Grage was born in Oswego, N.Y., and earned bachelor's and master's degrees in engineering from Tulane University; she has worked as a biomedical engineer researching biomechanics, cardiac interventions and therapies for children with cerebral palsy (Ballotpedia; campaign site). She ran for Florida House District 16 in 2024, losing 39% to 61%. She won the Aug. 18, 2026 Democratic primary over Alexander Hazen, Mark Heggestad and Eli Johnson after leading the field in fundraising, and faces Rep. John Rutherford in November. Her platform centers on affordability, health-care costs, Social Security and Medicare, reproductive rights and coastal resilience.",
       "primary_result": "Won Aug 18, 2026 Democratic primary over Alexander Hazen, Mark Heggestad and Eli Johnson; percentages not found (Action News Jax: https://www.actionnewsjax.com/news/local/7-pm-live-results-2026-florida-primary-election/3Q5GX2YDSZA3ZA4Y57MP36IDGY/)",
       "positions": {
         "taxes": {
@@ -224,18 +466,40 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Supports 'securing the border through smart, efficient enforcement' while maintaining 'a fair and humane immigration system that respects due process'; no position on large-scale deportation was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Ballotpedia: Rachel Grage",
+              "url": "https://ballotpedia.org/Rachel_Grage",
+              "date": null
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports protecting access to reproductive health care including abortion; Ballotpedia lists her as legislative chair of Jacksonville NOW, which backs allowing abortion before viability and exceptions to six-week bans. Florida Choice Tracker lists her as pro-choice.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Ballotpedia: Rachel Grage",
+              "url": "https://ballotpedia.org/Rachel_Grage",
+              "date": null
+            },
+            {
+              "title": "Florida Choice Tracker: Rachel Grage is Pro-Choice",
+              "url": "https://choicetracker.org/fl/people/rachel-grage/284950528",
+              "date": null
+            },
+            {
+              "title": "Rachel Grage for Congress: Issues",
+              "url": "https://www.rachelgrage.com/issues",
+              "date": null
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -245,18 +509,40 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says she will work to keep premiums and prescription costs affordable and 'maintain federal cost-sharing supports'; an explicit position on Medicaid expansion was not found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Rachel Grage for Congress: Issues",
+              "url": "https://www.rachelgrage.com/issues",
+              "date": null
+            },
+            {
+              "title": "Smarter.Vote: Rachel Grage - 2026 Florida's 5th Congressional District",
+              "url": "https://smarter.vote/races/fl-house-05-2026/rachel-grage/",
+              "date": null
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Platform highlights 'protecting Medicare and Social Security' and defending the programs so Americans are not priced out of basic care.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Rachel Grage for Congress: Issues",
+              "url": "https://www.rachelgrage.com/issues",
+              "date": null
+            },
+            {
+              "title": "Ballotpedia: Rachel Grage",
+              "url": "https://ballotpedia.org/Rachel_Grage",
+              "date": null
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -266,11 +552,22 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Campaign priorities include defending coastal ecosystems, disaster resilience and addressing climate impacts that she says leave families and seniors vulnerable.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Rachel Grage for Congress: Issues",
+              "url": "https://www.rachelgrage.com/issues",
+              "date": null
+            },
+            {
+              "title": "Ballotpedia: Rachel Grage",
+              "url": "https://ballotpedia.org/Rachel_Grage",
+              "date": null
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -343,8 +640,72 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Home insurance stabilization",
+          "summary": "Lists stabilizing home insurance among her affordability priorities.",
+          "sources": [
+            {
+              "title": "Rachel Grage for Congress: Issues",
+              "url": "https://www.rachelgrage.com/issues"
+            }
+          ]
+        },
+        {
+          "title": "Government accountability and campaign-finance transparency",
+          "summary": "Platform includes accountability and campaign-finance transparency; published a Substack post questioning Rep. Rutherford's answers at a Fleet Landing event.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Rachel Grage",
+              "url": "https://ballotpedia.org/Rachel_Grage"
+            },
+            {
+              "title": "Rachel Grage Substack: Questions Without Answers: Rutherford at Fleet Landing",
+              "url": "https://rachelgrage.substack.com/p/questions-without-answers-rutherford"
+            }
+          ]
+        },
+        {
+          "title": "Prescription drug costs",
+          "summary": "Would work to keep prescription costs affordable.",
+          "sources": [
+            {
+              "title": "Rachel Grage for Congress: Issues",
+              "url": "https://www.rachelgrage.com/issues"
+            }
+          ]
+        },
+        {
+          "title": "Equality under the law",
+          "summary": "Lists ensuring equality under the law among her focuses; affiliated with Equality Florida, Catholic Charities and the Democratic Women's Club of Florida.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Rachel Grage",
+              "url": "https://ballotpedia.org/Rachel_Grage"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Ran for Florida House District 16 in 2024, losing with 39% to Republican incumbent Kiyan Michael.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Rachel Grage",
+              "url": "https://ballotpedia.org/Rachel_Grage"
+            }
+          ]
+        },
+        {
+          "item": "Was the top Democratic fundraiser in the CD 5 primary with $272,423 raised through July 29, 2026.",
+          "sources": [
+            {
+              "title": "Florida Tributary: Rachel Grage wins Democratic primary in Florida's 5th District",
+              "url": "https://floridatrib.org/2026/08/18/rachel-grage-wins-democratic-primary-in-floridas-5th-district/"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

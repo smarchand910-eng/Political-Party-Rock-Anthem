@@ -17,8 +17,8 @@
     "Marion (part)"
   ],
   "what_it_does": "Represents Florida's 6th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
-  "verified_ballot_note": "News4Jax voter guide and Ballotpedia snippet: incumbent Randy Fine (R) and Eric Yonce (D) won their Aug. 18, 2026 primaries; Ballotpedia snippet also lists Christopher Manuel Alcantara and Amr Metwally as general-election candidates (party affiliation not shown in the snippet; recorded here as No Party Affiliation pending verification) (https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-floridas-6th-congressional-district/ ; https://ballotpedia.org/Florida's_6th_Congressional_District_election,_2026). Fine's primary vote share was not reliably found (one snippet's percentages appeared to reference a different race and were not used). Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide.",
+  "coverage": "partial",
+  "verified_ballot_note": "UPDATE (Sept 2026 research pass): Ballotpedia's general-election listing (search snippet) shows Christopher Manuel Alcantara and Amr Metwally both running with No Party Affiliation on Nov. 3, 2026 alongside Randy Fine (R) and Eric Yonce (D) (https://ballotpedia.org/Florida's_6th_Congressional_District_election,_2026). News4Jax voter guide and Ballotpedia snippet: incumbent Randy Fine (R) and Eric Yonce (D) won their Aug. 18, 2026 primaries; Ballotpedia snippet also lists Christopher Manuel Alcantara and Amr Metwally as general-election candidates (party affiliation not shown in the snippet; recorded here as No Party Affiliation pending verification) (https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-floridas-6th-congressional-district/ ; https://ballotpedia.org/Florida's_6th_Congressional_District_election,_2026). Fine's primary vote share was not reliably found (one snippet's percentages appeared to reference a different race and were not used). Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide.",
   "candidates": [
     {
       "id": "randy_fine",
@@ -27,18 +27,34 @@
       "incumbent": true,
       "photo_url": "https://www.congress.gov/img/member/f000481_200.jpg",
       "photo_source": "congress.gov member portrait (bioguide ID unverified)",
-      "website": null,
+      "website": "https://www.voterandyfine.com/",
       "occupation": "U.S. Representative (since April 2025); former Florida state senator",
       "residence": "Melbourne Beach/Palm Bay area, Brevard County (per prior reporting; not re-verified)",
-      "background": "Randy Fine, a former Florida state senator and representative, won the April 2025 special election to replace Michael Waltz in the 6th District. He won the Aug. 18, 2026 Republican primary over Ernest Audino, Charles Gambaro and Alexandra van Cleef and faces Democrat Eric Yonce in November.",
+      "background": "Randy Fine, described by FOX 35 as a Harvard graduate and business executive, served in the Florida House (2016-2024) and Florida Senate (2024-2025) before winning the April 1, 2025 special election to replace Michael Waltz in the 6th District, with President Trump's endorsement. In the Florida House he sponsored the 2023 universal school-voucher expansion. He won the Aug. 18, 2026 Republican primary over Ernest Audino, Charles Gambaro and Alexandra van Cleef (vote share not reliably found) and faces Democrat Eric Yonce plus two no-party candidates in November. In Congress he voted for the One Big Beautiful Bill Act and the SAVE Act and opposed the June 2026 Ukraine aid bill.",
       "primary_result": "Won Aug 18, 2026 Republican primary over Ernest Audino, Charles Gambaro and Alexandra van Cleef; vote share not reliably found (Ballotpedia roster: https://ballotpedia.org/Florida's_6th_Congressional_District_election,_2026_(August_18_Republican_primary) ; ClickOrlando results page: https://www.clickorlando.com/election-2026/2026/08/18/election-results-for-the-us-house-and-senate-races-in-the-florida-primary-on-aug-18-2026/)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for H.R. 1 (One Big Beautiful Bill Act) in 2025, which extended the 2017 individual tax cuts and created new deductions (tips, overtime) while reducing projected federal spending on Medicaid and SNAP. His campaign site says he voted yes on 'President Trump's Working Families Tax Cuts Act, which removes taxes on tips and Social Security.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Congress.gov: H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Clerk: Roll Call 190 (July 3, 2025) - agreeing to Senate amendment to H.R. 1, 218-214",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "Randy Fine for Congress (campaign site)",
+              "url": "https://www.voterandyfine.com/",
+              "date": null
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -62,46 +78,112 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "BallotReady's summary of his statements says he advocates expanding immigration enforcement operations and removing non-citizens he considers a security or cultural risk; voted for H.R. 1's border-enforcement funding.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "BallotReady: Randy Fine",
+              "url": "https://www.ballotready.org/people/randy-fine",
+              "date": null
+            },
+            {
+              "title": "Congress.gov: H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Clerk: Roll Call 190 (July 3, 2025) - agreeing to Senate amendment to H.R. 1, 218-214",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Says life begins at conception and that he will vote to restrict abortion when such bills come before him; as a state legislator he voted for and sponsored measures limiting abortion after 15 weeks (BallotReady summary). Reproductive Freedom for All's scorecard tracks his votes as opposing abortion access.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "BallotReady: Randy Fine",
+              "url": "https://www.ballotready.org/people/randy-fine",
+              "date": null
+            },
+            {
+              "title": "Reproductive Freedom for All: Randy Fine congressional scorecard",
+              "url": "https://reproductivefreedomforall.org/lawmaker/randy-fine/",
+              "date": null
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Campaign site cites an 'A' rating from the NRA for his efforts to protect the Second Amendment; President Trump's endorsement statement said he would 'Protect our always under siege Second Amendment.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Randy Fine for Congress (campaign site)",
+              "url": "https://www.voterandyfine.com/",
+              "date": null
+            },
+            {
+              "title": "American Presidency Project: Statement by President-elect Trump on Randy Fine's potential campaign for Congress",
+              "url": "https://www.presidency.ucsb.edu/documents/statement-president-elect-donald-j-trump-randy-fines-potential-campaign-for-congress",
+              "date": "2024-11"
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted for H.R. 1 (2025), which added Medicaid work-reporting requirements and other eligibility changes and did not extend the enhanced ACA premium subsidies; the vote is coded as leaning against expanding the federal role in coverage.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Congress.gov: H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Clerk: Roll Call 190 (July 3, 2025) - agreeing to Senate amendment to H.R. 1, 218-214",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Campaign site says he will 'PROTECT Social Security and Medicare' and cites his vote to remove taxes on Social Security benefits; a position on raising revenue for the programs was not found.",
+          "quote": "PROTECT Social Security and Medicare",
+          "sources": [
+            {
+              "title": "Randy Fine for Congress (campaign site)",
+              "url": "https://www.voterandyfine.com/",
+              "date": null
+            }
+          ]
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "As a Florida House member he sponsored the 2023 bill (HB 1) that made Florida's school-voucher program universal, which his campaign calls 'the largest school choice expansion in U.S. history.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Randy Fine for Congress: About",
+              "url": "https://www.voterandyfine.com/about",
+              "date": null
+            },
+            {
+              "title": "Florida Politics: House school choice bill clears final committee (Fine as sponsor)",
+              "url": "https://floridapolitics.com/archives/418750-house-school-choice-bill-clears-final-committee/",
+              "date": "2023"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -125,11 +207,22 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted for H.R. 22, the SAVE Act (April 2025), which would require documentary proof of citizenship to register to vote in federal elections; coded as supporting a new voting requirement rather than easing access.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Congress.gov: H.R. 22 - SAVE Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "House Clerk: Roll Call 102 (April 10, 2025) - passage of H.R. 22, 220-208",
+              "url": "https://clerk.house.gov/Votes/2025102",
+              "date": "2025-04-10"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -153,25 +246,68 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Campaign site says he supports an 'America First Trade Policy,' standing with President Trump 'to enforce reciprocal tariffs that keep cheap imports out and bring manufacturing jobs back.'",
+          "quote": "enforce reciprocal tariffs that keep cheap imports out and bring manufacturing jobs back",
+          "sources": [
+            {
+              "title": "Randy Fine for Congress (campaign site)",
+              "url": "https://www.voterandyfine.com/",
+              "date": null
+            },
+            {
+              "title": "BallotReady: Randy Fine",
+              "url": "https://www.ballotready.org/people/randy-fine",
+              "date": null
+            }
+          ]
         },
         "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Opposed the June 2026 House Ukraine aid bill, telling Fox News: 'This is about engaging in Trump Derangement Syndrome as President Trump tries to bring this [conflict] in for a landing.' He was not among the 18 Republicans who voted for it.",
+          "quote": "This is about engaging in Trump Derangement Syndrome as President Trump tries to bring this [conflict] in for a landing.",
+          "sources": [
+            {
+              "title": "Fox News: House passes Ukraine aid bill as Republicans cross party lines, defy Trump",
+              "url": "https://www.foxnews.com/politics/house-republicans-defy-trump-pass-ukraine-aid-package-headed-veto-fight.amp",
+              "date": "2026-06-04"
+            },
+            {
+              "title": "Newsweek: House Passes Ukraine Aid Bill: Full List of Republicans Who Backed It",
+              "url": "https://www.newsweek.com/house-passes-ukraine-aid-bill-full-list-of-republicans-who-backed-it-12034949",
+              "date": "2026-06-05"
+            }
+          ]
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Recruited and endorsed by President Trump, who called him a 'MAGA Warrior' and gave him a 'Complete and Total Endorsement'; his campaign site frames his votes as backing the President's agenda.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Florida Politics: Donald Trump backs 'MAGA Warrior' Randy Fine ahead of contested Primary in CD 6",
+              "url": "https://floridapolitics.com/archives/762299-donald-trump-backs-maga-warrior-randy-fine-ahead-of-contested-primary-in-cd-6/",
+              "date": "2025"
+            },
+            {
+              "title": "American Presidency Project: Statement by President-elect Trump on Randy Fine's potential campaign for Congress",
+              "url": "https://www.presidency.ucsb.edu/documents/statement-president-elect-donald-j-trump-randy-fines-potential-campaign-for-congress",
+              "date": "2024-11"
+            },
+            {
+              "title": "Florida's Voice: President Trump throws full weight behind seven Florida Republicans in early 2026 endorsements",
+              "url": "https://flvoicenews.com/president-trump-throws-full-weight-behind-seven-florida-republicans-in-early-2026-endorsements/",
+              "date": "2026"
+            },
+            {
+              "title": "Randy Fine for Congress (campaign site)",
+              "url": "https://www.voterandyfine.com/",
+              "date": null
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -181,9 +317,135 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "K-12 AI Literacy and Readiness Act of 2026",
+          "summary": "Introduced a bill to modernize K-12 education around artificial-intelligence literacy.",
+          "sources": [
+            {
+              "title": "Rep. Fine official site: press releases (K-12 AI Literacy and Readiness Act of 2026)",
+              "url": "https://fine.house.gov/news/documentquery.aspx?DocumentTypeID=27"
+            }
+          ]
+        },
+        {
+          "title": "Economy and inflation",
+          "summary": "Official 'Grow the Economy' page lists boosting job creation, countering inflation and lowering prices.",
+          "sources": [
+            {
+              "title": "Rep. Fine official site: Grow the Economy issue page",
+              "url": "https://fine.house.gov/issues/issue/?IssueID=14891"
+            }
+          ]
+        },
+        {
+          "title": "Flags on government property (state record)",
+          "summary": "As a state senator sponsored a bill to ban flags expressing a 'political viewpoint' from government sites.",
+          "sources": [
+            {
+              "title": "Florida Politics: Randy Fine's bill to ban flags with a 'political viewpoint' from government sites clears first committee stop",
+              "url": "https://floridapolitics.com/archives/720677-randy-fines-bill-to-ban-flags-with-a-political-viewpoint-from-government-sites-clears-first-committee-stop/"
+            }
+          ]
+        },
+        {
+          "title": "Reciprocal tariffs / America First trade",
+          "summary": "Supports enforcing reciprocal tariffs to bring manufacturing jobs back.",
+          "sources": [
+            {
+              "title": "Randy Fine for Congress (campaign site)",
+              "url": "https://www.voterandyfine.com/"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted for H.R. 1, the One Big Beautiful Bill Act (final passage July 3, 2025, 218-214).",
+          "sources": [
+            {
+              "title": "Congress.gov: H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+            },
+            {
+              "title": "House Clerk: Roll Call 190 (July 3, 2025) - agreeing to Senate amendment to H.R. 1, 218-214",
+              "url": "https://clerk.house.gov/Votes/2025190"
+            }
+          ]
+        },
+        {
+          "item": "Voted for H.R. 22, the SAVE Act (April 10, 2025, 220-208).",
+          "sources": [
+            {
+              "title": "Congress.gov: H.R. 22 - SAVE Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+            },
+            {
+              "title": "House Clerk: Roll Call 102 (April 10, 2025) - passage of H.R. 22, 220-208",
+              "url": "https://clerk.house.gov/Votes/2025102"
+            }
+          ]
+        },
+        {
+          "item": "Publicly opposed the June 4, 2026 House Ukraine aid and Russia sanctions bill and was not among the 18 Republicans who voted for it.",
+          "sources": [
+            {
+              "title": "Fox News: House passes Ukraine aid bill as Republicans cross party lines, defy Trump",
+              "url": "https://www.foxnews.com/politics/house-republicans-defy-trump-pass-ukraine-aid-package-headed-veto-fight.amp"
+            },
+            {
+              "title": "Newsweek: House Passes Ukraine Aid Bill: Full List of Republicans Who Backed It",
+              "url": "https://www.newsweek.com/house-passes-ukraine-aid-bill-full-list-of-republicans-who-backed-it-12034949"
+            }
+          ]
+        },
+        {
+          "item": "Sponsored Florida's 2023 universal school-choice expansion (HB 1) in the Florida House.",
+          "sources": [
+            {
+              "title": "Florida Politics: House school choice bill clears final committee (Fine as sponsor)",
+              "url": "https://floridapolitics.com/archives/418750-house-school-choice-bill-clears-final-committee/"
+            },
+            {
+              "title": "Randy Fine for Congress: About",
+              "url": "https://www.voterandyfine.com/about"
+            }
+          ]
+        },
+        {
+          "item": "Won the April 1, 2025 special election for FL-6 after a race polls showed within the margin of error.",
+          "sources": [
+            {
+              "title": "Florida Politics: Despite close polls and Democrat spending surge, Randy Fine wins CD 6 Special Election",
+              "url": "https://floridapolitics.com/archives/729518-despite-close-polls-and-democrat-spending-surge-randy-fine-wins-cd-6-special-election/"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "President Donald Trump ('Complete and Total Endorsement')",
+          "sources": [
+            {
+              "title": "Florida Politics: Donald Trump backs 'MAGA Warrior' Randy Fine ahead of contested Primary in CD 6",
+              "url": "https://floridapolitics.com/archives/762299-donald-trump-backs-maga-warrior-randy-fine-ahead-of-contested-primary-in-cd-6/"
+            },
+            {
+              "title": "Florida's Voice: President Trump throws full weight behind seven Florida Republicans in early 2026 endorsements",
+              "url": "https://flvoicenews.com/president-trump-throws-full-weight-behind-seven-florida-republicans-in-early-2026-endorsements/"
+            }
+          ]
+        },
+        {
+          "by": "NRA 'A' rating (per campaign site)",
+          "sources": [
+            {
+              "title": "Randy Fine for Congress (campaign site)",
+              "url": "https://www.voterandyfine.com/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "eric_yonce",
@@ -192,11 +454,11 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Eric_Yonce.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not found",
-      "residence": "Not found",
-      "background": "Eric Yonce won the Aug. 18, 2026 Democratic primary in the 6th District and faces Randy Fine in November. No further biographical information was found in searches run for this guide.",
-      "primary_result": "Won Aug 18, 2026 Democratic primary; opponents and percentages not found (News4Jax voter guide: https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-floridas-6th-congressional-district/)",
+      "website": "https://www.yonceforcongress.com/",
+      "occupation": "Real-estate professional and small-business owner (vintage Airstream remodeling); former big-box retail manager and former Ocala Police Department employee",
+      "residence": "Raised in Citra, Marion County (campaign site); current residence not verified",
+      "background": "Eric Yonce grew up in Citra in Marion County and graduated from North Marion High School; his father was an Ocala police officer. He worked for the Ocala Police Department, earned a business degree, spent more than 20 years managing big-box retail stores, and now works in real estate and runs a small business remodeling vintage Airstream trailers (Florida Politics; campaign site). He won the Aug. 18, 2026 Democratic primary with 32% over Ronnie Murchinson-Rivera, Steve Morgan and Rob Cooper and faces Rep. Randy Fine in November. His platform emphasizes coastal protection, affordable housing, health-care affordability and immigration reform.",
+      "primary_result": "Won Aug 18, 2026 Democratic primary with 32% over Ronnie Murchinson-Rivera (27%), Steve Morgan (23%) and Rob Cooper (18%) (Florida Politics: https://floridapolitics.com/archives/814935-eric-yonce-wins-democratic-nomination-to-take-on-randy-fine-in-november/)",
       "positions": {
         "taxes": {
           "stance": null,
@@ -220,25 +482,58 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports 'expanding affordable and workforce housing while protecting renters and homeowners' and prioritizing federal dollars for flood-hit communities.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Florida Politics: Eric Yonce wins Democratic nomination to take on Randy Fine in November",
+              "url": "https://floridapolitics.com/archives/814935-eric-yonce-wins-democratic-nomination-to-take-on-randy-fine-in-november/",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "Eric Yonce for Congress: Environment",
+              "url": "https://yonceforcongress.com/environment",
+              "date": null
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says immigration policy 'must prioritize human dignity, due process, and community security'; supports securing borders through technology and staffing and pathways to citizenship, and opposes 'punitive measures against families, students, and law-abiding residents.'",
+          "quote": "a secure, fair immigration system that respects human dignity",
+          "sources": [
+            {
+              "title": "BallotReady: Eric Yonce",
+              "url": "https://www.ballotready.org/people/eric-yonce",
+              "date": null
+            },
+            {
+              "title": "Florida Politics: Eric Yonce wins Democratic nomination to take on Randy Fine in November",
+              "url": "https://floridapolitics.com/archives/814935-eric-yonce-wins-democratic-nomination-to-take-on-randy-fine-in-november/",
+              "date": "2026-08-18"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports a woman's right to choose and bodily autonomy, saying personal medical decisions 'should remain between individuals and their healthcare providers, not politicians' (BallotReady summary of campaign statements).",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "BallotReady: Eric Yonce",
+              "url": "https://www.ballotready.org/people/eric-yonce",
+              "date": null
+            },
+            {
+              "title": "Eric Yonce for Congress (campaign site)",
+              "url": "https://www.yonceforcongress.com/",
+              "date": null
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -248,11 +543,22 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says he wants people 'to be able to afford healthcare' and would redirect overseas military spending toward health care; specifics on Medicaid expansion or ACA subsidies were not found.",
+          "quote": "I struggle to understand what is radical about wanting people to be able to afford healthcare, live with dignity, and have a fair opportunity to succeed",
+          "sources": [
+            {
+              "title": "Florida Politics (op-ed by Yonce): What critics call 'far left' is fighting for basic human needs and rights",
+              "url": "https://floridapolitics.com/archives/812257-eric-yonce-what-critics-call-far-left-is-fighting-for-basic-human-needs-and-rights/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Eric Yonce for Congress: Foreign policy",
+              "url": "https://yonceforcongress.com/foreign-poloicy",
+              "date": null
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -269,18 +575,40 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Campaign's environment page calls for protecting beaches, rivers, wetlands and inland neighborhoods from 'out-of-control development' and describes a climate crisis worsened by short-term profit-seeking.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Eric Yonce for Congress: Environment",
+              "url": "https://yonceforcongress.com/environment",
+              "date": null
+            },
+            {
+              "title": "Florida Politics: Eric Yonce wins Democratic nomination to take on Randy Fine in November",
+              "url": "https://floridapolitics.com/archives/814935-eric-yonce-wins-democratic-nomination-to-take-on-randy-fine-in-november/",
+              "date": "2026-08-18"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists 'protecting Florida against profit-driven development threatening the coastlines' as a key issue and would steer affordable housing away from flood-prone areas.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Florida Politics: Eric Yonce wins Democratic nomination to take on Randy Fine in November",
+              "url": "https://floridapolitics.com/archives/814935-eric-yonce-wins-democratic-nomination-to-take-on-randy-fine-in-november/",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "Eric Yonce for Congress: Environment",
+              "url": "https://yonceforcongress.com/environment",
+              "date": null
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -346,8 +674,49 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Flood resilience",
+          "summary": "Says affordable housing must not mean flood-prone housing and would prioritize federal funds for communities hit hardest by flooding.",
+          "sources": [
+            {
+              "title": "Eric Yonce for Congress: Environment",
+              "url": "https://yonceforcongress.com/environment"
+            }
+          ]
+        },
+        {
+          "title": "Redirecting overseas military spending",
+          "summary": "Foreign-policy page proposes shifting money from overseas military engagements to health care, veteran care and debt reduction.",
+          "sources": [
+            {
+              "title": "Eric Yonce for Congress: Foreign policy",
+              "url": "https://yonceforcongress.com/foreign-poloicy"
+            }
+          ]
+        },
+        {
+          "title": "Pathways to citizenship",
+          "summary": "Supports bipartisan immigration reform with pathways to citizenship.",
+          "sources": [
+            {
+              "title": "BallotReady: Eric Yonce",
+              "url": "https://www.ballotready.org/people/eric-yonce"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Top fundraiser in the CD 6 Democratic primary with about $325,000 reported.",
+          "sources": [
+            {
+              "title": "Florida Politics: Eric Yonce wins Democratic nomination to take on Randy Fine in November",
+              "url": "https://floridapolitics.com/archives/814935-eric-yonce-wins-democratic-nomination-to-take-on-randy-fine-in-november/"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -360,7 +729,7 @@
       "website": null,
       "occupation": "Not found",
       "residence": "Not found",
-      "background": "Listed by Ballotpedia as a Nov. 3, 2026 general-election candidate in the 6th District; party affiliation not shown in the snippet retrieved and should be verified.",
+      "background": "Listed by Ballotpedia as a Nov. 3, 2026 general-election candidate in the 6th District; Ballotpedia's 2026 general-election listing shows the candidate running with No Party Affiliation; no campaign website, biography or issue positions were found in searches run for this guide.",
       "primary_result": "No primary; listed for general election by Ballotpedia (https://ballotpedia.org/Florida's_6th_Congressional_District_election,_2026)",
       "positions": {
         "taxes": {
@@ -512,7 +881,17 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Listed by Ballotpedia as a No Party Affiliation candidate in the Nov. 3, 2026 general election for FL-6.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Florida's 6th Congressional District election, 2026",
+              "url": "https://ballotpedia.org/Florida's_6th_Congressional_District_election,_2026"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -525,7 +904,7 @@
       "website": null,
       "occupation": "Not found",
       "residence": "Not found",
-      "background": "Listed by Ballotpedia as a Nov. 3, 2026 general-election candidate in the 6th District; party affiliation not shown in the snippet retrieved and should be verified.",
+      "background": "Listed by Ballotpedia as a Nov. 3, 2026 general-election candidate in the 6th District; Ballotpedia's 2026 general-election listing shows the candidate running with No Party Affiliation; no campaign website, biography or issue positions were found in searches run for this guide.",
       "primary_result": "No primary; listed for general election by Ballotpedia (https://ballotpedia.org/Florida's_6th_Congressional_District_election,_2026)",
       "positions": {
         "taxes": {
@@ -677,7 +1056,17 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Listed by Ballotpedia as a No Party Affiliation candidate in the Nov. 3, 2026 general election for FL-6.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Florida's 6th Congressional District election, 2026",
+              "url": "https://ballotpedia.org/Florida's_6th_Congressional_District_election,_2026"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

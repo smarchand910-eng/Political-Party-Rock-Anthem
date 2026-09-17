@@ -13,7 +13,7 @@
     "Volusia (part)"
   ],
   "what_it_does": "Represents Florida's 7th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "AP/NPR/Roll Call (Aug 18, 2026) report Ryan Elijah defeated incumbent Cory Mills in the Republican primary; FOX 35 and a syndicated report state Elijah will face Democrat Bale Dalton in November (https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary ; https://www.fox35orlando.com/news/florida-primary-election-result-2026-cd7 ; https://www.yahoo.com/news/politics/articles/ryan-elijah-secures-primary-win-001611106.html). No incumbent is on the November ballot. NPA/write-in candidates not confirmed. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide.",
   "candidates": [
     {
@@ -23,18 +23,29 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Ryan_Elijah.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Former television news anchor/journalist",
-      "residence": "Not verified",
-      "background": "Ryan Elijah, a former television news anchor, won the Aug. 18, 2026 Republican primary in the 7th District, leading incumbent Rep. Cory Mills about 47% to 34% with more than 95% of votes counted, per AP. Mills, who had been endorsed by President Trump, was the subject of an ongoing House Ethics investigation.",
+      "website": "https://elijahforcongress.com/",
+      "occupation": "Former FOX 35 Orlando television news anchor (Emmy winner) and former NFL sideline reporter",
+      "residence": "Central Florida (Seminole/Volusia area); specific city not verified. Florida Politics reports he has lived in Florida about 20 years and ran for Congress in Indiana in 2010",
+      "background": "Ryan Elijah, a former television news anchor, won the Aug. 18, 2026 Republican primary in the 7th District, leading incumbent Rep. Cory Mills about 47% to 34% with more than 95% of votes counted, per AP. Mills, who had been endorsed by President Trump, was the subject of an ongoing House Ethics investigation. Elijah is an Emmy-winning former FOX 35 Orlando anchor and NFL sideline reporter who has lived in Florida about 20 years; he ran for Congress in Indiana in 2010 (Florida Politics). President Trump endorsed him after the primary. He says affordability would be his first priority and has said he has 'never been a fan' of tariffs (News 6).",
       "primary_result": "Won Aug 18, 2026 Republican primary ~47% to 34% over incumbent Cory Mills (also Michael Johnson and Sarah Ulrich on ballot) (Roll Call: https://rollcall.com/2026/08/18/florida-rep-cory-mills-loses-primary-as-wasserman-schultz-moskowitz-prevail/ ; NPR: https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says Congress 'must continue driving down costs for American families by keeping taxes low and achieving American energy independence.'",
+          "quote": "keeping taxes low and achieving American energy independence",
+          "sources": [
+            {
+              "title": "The Floridian: Ryan Elijah Affirms His Efforts To Tackle Affordability And Healthcare Priorities",
+              "url": "https://floridianpress.com/2026/06/ryan-elijah-affirms-his-efforts-to-tackle-affordability-and-healthcare-priorities/",
+              "date": "2026-06"
+            },
+            {
+              "title": "Ryan Elijah for Congress (campaign site)",
+              "url": "https://elijahforcongress.com/",
+              "date": null
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -58,11 +69,17 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Campaign site says 'America is a nation built by immigrants, however we must enforce the rule of law'; no statement on large-scale deportation was found.",
+          "quote": "America is a nation built by immigrants, however we must enforce the rule of law",
+          "sources": [
+            {
+              "title": "Ryan Elijah for Congress (campaign site)",
+              "url": "https://elijahforcongress.com/",
+              "date": null
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -128,11 +145,27 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Describes himself as 'a strong defender of law enforcement'; endorsed by the Volusia, Seminole and Highlands county sheriffs.",
+          "quote": "a strong defender of law enforcement",
+          "sources": [
+            {
+              "title": "Ryan Elijah for Congress (campaign site)",
+              "url": "https://elijahforcongress.com/",
+              "date": null
+            },
+            {
+              "title": "Florida's Voice: Ryan Elijah lands endorsements from Sen. Tom Wright, Volusia Sheriff Mike Chitwood",
+              "url": "https://flvoicenews.com/ryan-elijah-lands-endorsement-from-sen-tom-wright-in-floridas-7th-congressional-district-race/",
+              "date": "2026"
+            },
+            {
+              "title": "Florida's Voice: Highlands County Sheriff Paul Blackman endorses Ryan Elijah",
+              "url": "https://flvoicenews.com/highlands-county-sheriff-paul-blackman-endorses-ryan-elijah-in-floridas-7th-congressional-district-race/",
+              "date": "2026"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -149,11 +182,17 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Told News 6 that tariffs do not help affordability and that as 'a free-business person' he has 'never been a fan' of them, while noting possible benefits from manufacturing returning to Florida.",
+          "quote": "It doesn't help affordability... As a free-business person, I've never been a fan (of them)",
+          "sources": [
+            {
+              "title": "ClickOrlando/News 6: In Their Own Words: Elijah and Dalton on the issues facing Florida's 7th district",
+              "url": "https://www.clickorlando.com/news/local/2026/09/08/in-their-own-words-elijah-and-dalton-on-the-issues-facing-floridas-7th-district/",
+              "date": "2026-09-08"
+            }
+          ]
         },
         "ukraine": {
           "stance": null,
@@ -177,9 +216,128 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "Affordability first",
+          "summary": "Says affordability is the first issue he would tackle in Congress.",
+          "sources": [
+            {
+              "title": "ClickOrlando/News 6: In Their Own Words: Elijah and Dalton on the issues facing Florida's 7th district",
+              "url": "https://www.clickorlando.com/news/local/2026/09/08/in-their-own-words-elijah-and-dalton-on-the-issues-facing-floridas-7th-district/"
+            }
+          ]
+        },
+        {
+          "title": "Congressional stock trading",
+          "summary": "Says no member of Congress should be able to sit on a committee and trade stocks.",
+          "sources": [
+            {
+              "title": "ClickOrlando/News 6: In Their Own Words: Elijah and Dalton on the issues facing Florida's 7th district",
+              "url": "https://www.clickorlando.com/news/local/2026/09/08/in-their-own-words-elijah-and-dalton-on-the-issues-facing-floridas-7th-district/"
+            }
+          ]
+        },
+        {
+          "title": "Health-care costs and innovation",
+          "summary": "Says the federal government 'can do more to lower healthcare costs' and that the U.S. must lead in medical innovation; FOX 35 reports he favors expanding tax benefits for health care.",
+          "sources": [
+            {
+              "title": "The Floridian: Ryan Elijah Affirms His Efforts To Tackle Affordability And Healthcare Priorities",
+              "url": "https://floridianpress.com/2026/06/ryan-elijah-affirms-his-efforts-to-tackle-affordability-and-healthcare-priorities/"
+            },
+            {
+              "title": "FOX 35: Ryan Elijah secures primary win; facing Bale Dalton for District 7 seat",
+              "url": "https://www.fox35orlando.com/news/florida-congressional-district-7-election-results"
+            }
+          ]
+        },
+        {
+          "title": "Energy independence",
+          "summary": "Lists American energy independence as a way to lower costs.",
+          "sources": [
+            {
+              "title": "The Floridian: Ryan Elijah Affirms His Efforts To Tackle Affordability And Healthcare Priorities",
+              "url": "https://floridianpress.com/2026/06/ryan-elijah-affirms-his-efforts-to-tackle-affordability-and-healthcare-priorities/"
+            }
+          ]
+        },
+        {
+          "title": "Family values and faith",
+          "summary": "Campaign site says he is active in his church and believes in protecting family values.",
+          "sources": [
+            {
+              "title": "Ryan Elijah for Congress (campaign site)",
+              "url": "https://elijahforcongress.com/"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "An ethics complaint was filed in September 2026 alleging omissions in his financial disclosure, per Florida Politics.",
+          "sources": [
+            {
+              "title": "Florida Politics: Ethics complaint filed against Ryan Elijah over financial disclosure omissions",
+              "url": "https://floridapolitics.com/archives/818148-ethics-complaint-filed-against-ryan-elijah-over-financial-disclosure-omissions/"
+            }
+          ]
+        },
+        {
+          "item": "Ran for Congress in Indiana in 2010 before moving to Florida, per Florida Politics.",
+          "sources": [
+            {
+              "title": "Florida Politics: Ryan Elijah says he's lived in Florida for 20 years, but he ran for Congress in Indiana in 2010",
+              "url": "https://floridapolitics.com/archives/812276-ryan-elijah-says-hes-lived-in-florida-for-20-years-but-he-ran-for-congress-in-indiana-in-2010/"
+            }
+          ]
+        },
+        {
+          "item": "After defeating incumbent Cory Mills in the primary, traveled to Washington to seek support from House Republican leadership.",
+          "sources": [
+            {
+              "title": "Florida Politics: Ryan Elijah seeks support in Washington after unseating a member of his own party",
+              "url": "https://floridapolitics.com/archives/820307-ryan-elijah-seeks-support-in-washington-after-unseating-a-member-of-his-own-party/"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "President Donald Trump ('Complete and Total Endorsement', after the Aug. 18 primary)",
+          "sources": [
+            {
+              "title": "FOX 35: Trump endorses Ryan Elijah in race against Democrat Bale Dalton after Florida congressional primary win",
+              "url": "https://www.fox35orlando.com/news/trump-endorses-ryan-elijah-after-florida-congressional-primary-win"
+            },
+            {
+              "title": "Florida Politics: 'He wouldn't listen': Donald Trump endorses Ryan Elijah, says he encouraged Cory Mills to drop out",
+              "url": "https://floridapolitics.com/archives/815642-he-wouldnt-listen-donald-trump-endorses-ryan-elijah-says-he-encouraged-cory-mills-to-drop-out/"
+            }
+          ]
+        },
+        {
+          "by": "State Sen. Tom Wright; Volusia County Sheriff Mike Chitwood; Seminole County Sheriff Dennis Lemma",
+          "sources": [
+            {
+              "title": "Florida's Voice: Ryan Elijah lands endorsements from Sen. Tom Wright, Volusia Sheriff Mike Chitwood",
+              "url": "https://flvoicenews.com/ryan-elijah-lands-endorsement-from-sen-tom-wright-in-floridas-7th-congressional-district-race/"
+            },
+            {
+              "title": "FOX 35: Trump endorses Ryan Elijah in race against Democrat Bale Dalton after Florida congressional primary win",
+              "url": "https://www.fox35orlando.com/news/trump-endorses-ryan-elijah-after-florida-congressional-primary-win"
+            }
+          ]
+        },
+        {
+          "by": "Highlands County Sheriff Paul Blackman",
+          "sources": [
+            {
+              "title": "Florida's Voice: Highlands County Sheriff Paul Blackman endorses Ryan Elijah",
+              "url": "https://flvoicenews.com/highlands-county-sheriff-paul-blackman-endorses-ryan-elijah-in-floridas-7th-congressional-district-race/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "bale_dalton",
@@ -188,11 +346,11 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Bale_Dalton.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not found",
-      "residence": "Not found",
-      "background": "Bale Dalton won the Aug. 18, 2026 Democratic primary in the 7th District over former Rep. Alan Grayson and Marialana Kinter, per FOX 35 and a syndicated report. No further biographical information was found in searches run for this guide.",
-      "primary_result": "Won Aug 18, 2026 Democratic primary over Alan Grayson and Marialana Kinter; percentages not found (FOX 35: https://www.fox35orlando.com/news/florida-primary-election-result-2026-cd7 ; https://www.yahoo.com/news/politics/articles/ryan-elijah-secures-primary-win-001611106.html)",
+      "website": "https://baledalton.com/",
+      "occupation": "Retired U.S. Navy captain (24 years active and reserve); former NASA chief of staff; former State Department and U.S. Senate staffer",
+      "residence": "Central Florida (Seminole/Volusia area); specific city not verified",
+      "background": "Bale Dalton is a U.S. Naval Academy graduate who served 24 years in the Navy and Navy Reserve, including 13 on active duty, flying medevac missions in Kuwait, delivering relief after Hurricane Katrina and directing combat air support in Afghanistan (campaign site; Florida Politics). He later worked at the State Department and for Sen. Bill Nelson, and served as NASA's chief of staff. He won the Aug. 18, 2026 Democratic primary in the 7th District over former Rep. Alan Grayson and Marialana Kinter and faces Republican Ryan Elijah in November. His campaign centers on affordability, health-care costs and ACA subsidies, and veterans' issues.",
+      "primary_result": "Won Aug 18, 2026 Democratic primary over Alan Grayson and Marialana Kinter; led with more than 45% in Volusia County per Florida Politics; district-wide percentage not found (Florida Politics: https://floridapolitics.com/archives/814941-bale-dalton-officially-snags-democratic-nomination-in-battleground-cd-7/ ; FOX 35: https://www.fox35orlando.com/news/florida-primary-election-result-2026-cd7)",
       "positions": {
         "taxes": {
           "stance": null,
@@ -216,11 +374,22 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports restricting Wall Street investment in single-family housing to help affordability.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "FOX 35: Ryan Elijah secures primary win; facing Bale Dalton for District 7 seat",
+              "url": "https://www.fox35orlando.com/news/florida-congressional-district-7-election-results",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "Bale Dalton campaign: Priorities",
+              "url": "https://baledalton.com/priorities/",
+              "date": null
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -230,32 +399,66 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Opposes Florida's six-week abortion ban and supports writing the protections of Roe v. Wade into federal law (Smarter.Vote summary of his stated positions).",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Smarter.Vote: Bale Dalton - 2026 Florida's 7th Congressional District",
+              "url": "https://smarter.vote/races/fl-house-07-2026/bale-dalton/",
+              "date": null
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Describes the Second Amendment as a fundamental right for law-abiding citizens and identifies as a gun owner, while saying gun owners should be well-trained, violent criminals should not have access to firearms, and police should be adequately funded; no position on specific Florida gun laws was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Smarter.Vote: Bale Dalton - 2026 Florida's 7th Congressional District",
+              "url": "https://smarter.vote/races/fl-house-07-2026/bale-dalton/",
+              "date": null
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Told News 6 that Congress 'let the ACA subsidies expire,' leaving 45,000 people in the district uninsured and raising premiums for 150,000 families; supports expanding ACA protections and negotiating prescription prices, and lists reversing premium hikes as a first priority.",
+          "quote": "This Congress has let the ACA subsidies expire, which has left 45,000 people in this district alone without health care at all",
+          "sources": [
+            {
+              "title": "ClickOrlando/News 6: In Their Own Words: Elijah and Dalton on the issues facing Florida's 7th district",
+              "url": "https://www.clickorlando.com/news/local/2026/09/08/in-their-own-words-elijah-and-dalton-on-the-issues-facing-floridas-7th-district/",
+              "date": "2026-09-08"
+            },
+            {
+              "title": "Bale Dalton campaign: Priorities",
+              "url": "https://baledalton.com/priorities/",
+              "date": null
+            },
+            {
+              "title": "FOX 35: Ryan Elijah secures primary win; facing Bale Dalton for District 7 seat",
+              "url": "https://www.fox35orlando.com/news/florida-congressional-district-7-election-results",
+              "date": "2026-08-18"
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists 'protecting Social Security and Medicare' among his positions; no statement on revenue was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Smarter.Vote: Bale Dalton - 2026 Florida's 7th Congressional District",
+              "url": "https://smarter.vote/races/fl-house-07-2026/bale-dalton/",
+              "date": null
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -314,11 +517,17 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "His priorities page calls for reversing 'illegal, unpredictable tariffs' as part of making Florida affordable.",
+          "quote": "illegal, unpredictable tariffs",
+          "sources": [
+            {
+              "title": "Bale Dalton campaign: Priorities",
+              "url": "https://baledalton.com/priorities/",
+              "date": null
+            }
+          ]
         },
         "ukraine": {
           "stance": null,
@@ -328,11 +537,22 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Criticizes administration tariffs as 'illegal' and says Washington politicians have pursued 'policies that have made a mess of our economy.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Bale Dalton campaign: Priorities",
+              "url": "https://baledalton.com/priorities/",
+              "date": null
+            },
+            {
+              "title": "Florida Politics: Bale Dalton officially snags Democratic nomination in battleground CD 7",
+              "url": "https://floridapolitics.com/archives/814941-bale-dalton-officially-snags-democratic-nomination-in-battleground-cd-7/",
+              "date": "2026-08-18"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -342,9 +562,97 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "Wall Street ownership of single-family homes",
+          "summary": "Would restrict institutional investment in single-family housing.",
+          "sources": [
+            {
+              "title": "FOX 35: Ryan Elijah secures primary win; facing Bale Dalton for District 7 seat",
+              "url": "https://www.fox35orlando.com/news/florida-congressional-district-7-election-results"
+            }
+          ]
+        },
+        {
+          "title": "Prescription drug price negotiation",
+          "summary": "Supports negotiating prescription drug prices.",
+          "sources": [
+            {
+              "title": "FOX 35: Ryan Elijah secures primary win; facing Bale Dalton for District 7 seat",
+              "url": "https://www.fox35orlando.com/news/florida-congressional-district-7-election-results"
+            },
+            {
+              "title": "Smarter.Vote: Bale Dalton - 2026 Florida's 7th Congressional District",
+              "url": "https://smarter.vote/races/fl-house-07-2026/bale-dalton/"
+            }
+          ]
+        },
+        {
+          "title": "National and border security; overseas conflicts",
+          "summary": "Says he supports strong national and border security and opposes prolonged U.S. involvement in overseas conflicts without clear strategic goals.",
+          "sources": [
+            {
+              "title": "Smarter.Vote: Bale Dalton - 2026 Florida's 7th Congressional District",
+              "url": "https://smarter.vote/races/fl-house-07-2026/bale-dalton/"
+            }
+          ]
+        },
+        {
+          "title": "Veterans' benefits",
+          "summary": "Cites his work in Sen. Bill Nelson's office helping Florida veterans access earned care and benefits.",
+          "sources": [
+            {
+              "title": "Bale Dalton campaign: Priorities",
+              "url": "https://baledalton.com/priorities/"
+            },
+            {
+              "title": "Bale Dalton campaign: Navy Veteran and Former NASA Chief of Staff announces campaign",
+              "url": "https://baledalton.com/bale-dalton-navy-veteran-and-former-nasa-chief-of-staff-announces-campaign-for-congress-in-floridas-7th-district/"
+            }
+          ]
+        },
+        {
+          "title": "Congressional self-enrichment",
+          "summary": "Campaign message criticizes politicians 'enriching themselves while our families foot the bill.'",
+          "sources": [
+            {
+              "title": "Florida Politics: Bale Dalton officially snags Democratic nomination in battleground CD 7",
+              "url": "https://floridapolitics.com/archives/814941-bale-dalton-officially-snags-democratic-nomination-in-battleground-cd-7/"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Raised more than $340,000 in the first six weeks of his campaign, per his campaign.",
+          "sources": [
+            {
+              "title": "Bale Dalton campaign: Raises over $340,000 in six weeks",
+              "url": "https://baledalton.com/the-former-nasa-chief-of-staff-consolidates-support-against-rep-cory-mills-in-competitive-race-that-just-shifted-towards-dalton/"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Former U.S. Sen. Bill Nelson",
+          "sources": [
+            {
+              "title": "Bale Dalton campaign: Senator Bill Nelson endorses Bale Dalton",
+              "url": "https://baledalton.com/senator-bill-nelson-endorses-bale-dalton-in-floridas-7th-congressional-district/"
+            }
+          ]
+        },
+        {
+          "by": "314 Action Fund",
+          "sources": [
+            {
+              "title": "314 Action Fund congratulates Bale Dalton on Democratic primary win",
+              "url": "https://www.314action.org/news/press-releases/314-action-fund-congratulates-bale-dalton-on-win-in-democratic-primary-in-floridas-7th-congressional-district/"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

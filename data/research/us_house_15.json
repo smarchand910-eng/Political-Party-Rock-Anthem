@@ -15,7 +15,7 @@
     "Hillsborough (part)"
   ],
   "what_it_does": "Represents Florida's 15th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Roster from post-primary reporting: Citrus County Chronicle (Robert People wins Democratic primary; newly drawn CD 15) and Ballotpedia/NBC News District 15 results pages; incumbent Laurel Lee ran for re-election in CD 15 (Florida's Voice). No NPA or write-in candidate was identified in search snippets, but Ballotpedia/Division of Elections pages could not be fetched, so their absence is unconfirmed. Sources: https://www.chronicleonline.com/news/local/u-s-house-robert-people-wins-democratic-primary/article_c65c7af7-1895-56ef-8600-5fb28d5c76e7.html ; https://ballotpedia.org/Florida's_15th_Congressional_District_election,_2026 ; https://flvoicenews.com/rep-laurel-lee-to-seek-re-election-in-current-district-following-floridas-redistricting-overhaul/ Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts; county descriptions here reflect post-redistricting reporting where found (https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map).",
   "candidates": [
     {
@@ -23,20 +23,31 @@
       "name": "Laurel Lee",
       "party": "Republican",
       "incumbent": true,
-      "photo_url": "https://www.congress.gov/img/member/l000598_200.jpg",
-      "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
+      "photo_url": "https://www.congress.gov/img/member/l000597_200.jpg",
+      "photo_source": "congress.gov member portrait (bioguide ID L000597 confirmed via congress.gov member page)",
       "website": "https://votelaurel.com/",
       "occupation": "U.S. Representative (since 2023)",
       "residence": "Thonotosassa area, Hillsborough County (per prior reporting; not re-verified)",
-      "background": "Laurel Lee has represented Florida's 15th District since January 2023. She previously served as Florida Secretary of State (2019-2022) and as a circuit judge in Hillsborough County. After the 2026 redistricting she announced she would seek re-election in CD 15, which now takes in Citrus and Hernando counties and parts of Pasco and Hillsborough; she was the Republican candidate on the Aug. 18 primary ballot.",
+      "background": "Laurel Lee has represented Florida's 15th District since January 2023. She previously served as Florida Secretary of State (2019-2022) and as a circuit judge in Hillsborough County. After the 2026 redistricting she announced she would seek re-election in CD 15, which now takes in Citrus and Hernando counties and parts of Pasco and Hillsborough; she is the Republican nominee on the Nov. 3 ballot. House Democrats' campaign arm listed the seat as a 2026 target.",
       "primary_result": "Republican nominee for CD 15 (Ballotpedia; primary details not found in search snippets)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Lee voted for H.R. 1 (the One Big Beautiful Bill Act) on final passage in July 2025. The law made the 2017 individual tax-rate cuts permanent and added new deductions while reducing projected federal spending on Medicaid and SNAP.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -60,32 +71,101 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Lee voted for the Laken Riley Act (mandatory federal detention of unauthorized immigrants arrested for theft and certain other offenses) in January 2025 and for H.R. 1, which appropriated funds for border-wall construction, Border Patrol hiring and expanded immigration detention and removal operations. Her campaign site says she voted for legislation investing more than $46 billion to finish the border wall, expand the Border Patrol and support deportation operations; in office she has repeatedly called the Biden-era border situation a national-security and humanitarian crisis.",
+          "quote": "Border security is national security.",
+          "sources": [
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            },
+            {
+              "title": "House Roll Call 23 (S. 5, Laken Riley Act, Jan. 22, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "Laurel Lee, Republican Candidate for CD15 (campaign site)",
+              "url": "https://votelaurel.com/",
+              "date": null
+            },
+            {
+              "title": "Rep. Laurel Lee: Border Security is National Security (press release)",
+              "url": "https://laurellee.house.gov/media/press-releases/rep-laurel-lee-border-security-national-security",
+              "date": null
+            },
+            {
+              "title": "Rep. Laurel Lee's Statement on President Biden's Border Executive Order",
+              "url": "https://laurellee.house.gov/media/press-releases/rep-laurel-lees-statement-president-bidens-border-executive-order",
+              "date": "2024-06"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Lee describes herself as pro-life with exceptions for rape, incest and the life of the mother, supported the overturning of Roe v. Wade and says abortion regulation should be left to the states. In her 2022 campaign she voiced support for Florida's then-15-week limit; no statement on the state's six-week law was found. SBA Pro-Life America records her as voting consistently against taxpayer funding of abortion.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Candidates focus on abortion rights in race for Florida's 15th District (WFLA)",
+              "url": "https://www.wfla.com/news/politics/candidates-focus-on-abortion-rights-in-race-for-floridas-15th-district/",
+              "date": "2022"
+            },
+            {
+              "title": "Alan Cohn, Laurel Lee spar on abortion, immigration as accusations fly (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/565536-alan-cohn-laurel-lee-spar-on-abortion-immigration-as-accusations-fly/",
+              "date": "2022"
+            },
+            {
+              "title": "Rep. Laurel Lee - SBA Pro-Life America Scorecard",
+              "url": "https://sbaprolife.org/representative/laurel-lee",
+              "date": null
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Lee's House website says she is 'a strong supporter of the Second Amendment' and will fight efforts that might infringe on the right of law-abiding gun owners to keep and bear arms; she supported H.R. 1181 (Protecting Privacy in Purchases Act), which would bar special merchant codes for firearm and ammunition purchases. No statement on Florida's red-flag law or the 21 purchase age was found.",
+          "quote": "I will always fight to protect the constitutional rights of law-abiding gun owners.",
+          "sources": [
+            {
+              "title": "Second Amendment - Congresswoman Laurel Lee (house.gov)",
+              "url": "https://laurellee.house.gov/issues/second-amendment",
+              "date": null
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Lee voted for H.R. 1, which added work-reporting requirements and more frequent eligibility checks for Medicaid expansion enrollees and reduced projected federal Medicaid spending. No statement on expanding Medicaid in Florida or extending ACA subsidies was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -123,11 +203,27 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Lee voted for the SAVE Act (H.R. 22), which would require documentary proof of U.S. citizenship to register to vote in federal elections. No statement on mail voting or drop boxes was found. As former Florida Secretary of State she says she modernized election systems and strengthened cybersecurity, and in Congress advocates 'clear, consistent election laws that promote confidence in the process' (campaign site).",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "House Roll Call 102 (H.R. 22, SAVE Act, Apr. 10, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025102",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "Laurel Lee, Republican Candidate for CD15 (campaign site)",
+              "url": "https://votelaurel.com/",
+              "date": null
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -172,14 +268,65 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her campaign site says she is 'a strong advocate for the nation's veterans, servicemembers, and their families' and works to ensure they receive the support they have earned; specific VA-expansion proposals were not captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Laurel Lee, Republican Candidate for CD15 (campaign site)",
+              "url": "https://votelaurel.com/",
+              "date": null
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Border wall, Border Patrol and fentanyl interdiction funding",
+          "summary": "Campaign site highlights her vote for legislation putting more than $46 billion toward finishing the border wall, expanding the Border Patrol workforce, funding surveillance technology to stop fentanyl smuggling, and supporting deportation operations and local law-enforcement partnerships.",
+          "sources": [
+            {
+              "title": "Laurel Lee, Republican Candidate for CD15 (campaign site)",
+              "url": "https://votelaurel.com/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Election administration and cybersecurity",
+          "summary": "Cites her tenure as Florida Secretary of State (modernizing election systems, cybersecurity) and says she advocates clear, consistent election laws in Congress.",
+          "sources": [
+            {
+              "title": "Laurel Lee, Republican Candidate for CD15 (campaign site)",
+              "url": "https://votelaurel.com/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure, economic development and public safety for the district",
+          "summary": "Campaign site says she is 'championing infrastructure, economic development, and public safety priorities' and wants an economy that 'rewards work, empowers small businesses, and prepares the next generation of American workers.'",
+          "sources": [
+            {
+              "title": "Laurel Lee, Republican Candidate for CD15 (campaign site)",
+              "url": "https://votelaurel.com/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Firearm-purchase privacy (H.R. 1181)",
+          "summary": "Supported the Protecting Privacy in Purchases Act to stop creation of a special merchant-category code for firearm and ammunition retailers.",
+          "sources": [
+            {
+              "title": "Second Amendment - Congresswoman Laurel Lee (house.gov)",
+              "url": "https://laurellee.house.gov/issues/second-amendment",
+              "date": null
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Listed by House Democrats' campaign arm (DCCC) as a 2026 target.",
@@ -188,6 +335,61 @@
               "title": "House Democrats add Laurel Lee to list of targets in 2026 Midterms (Florida Politics)",
               "url": "https://floridapolitics.com/archives/769048-house-democrats-add-laurel-lee-to-list-of-targets-in-2026-midterms/",
               "date": null
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on final passage of H.R. 1, the One Big Beautiful Bill Act (July 3, 2025), which extended the 2017 tax cuts, funded border and immigration enforcement, and changed Medicaid and SNAP eligibility rules.",
+          "sources": [
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on S. 5, the Laken Riley Act (Jan. 22, 2025), requiring federal detention of unauthorized immigrants charged with theft-related and certain violent offenses.",
+          "sources": [
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            },
+            {
+              "title": "House Roll Call 23 (S. 5, Laken Riley Act, Jan. 22, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on H.R. 22, the SAVE Act (Apr. 10, 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+          "sources": [
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "House Roll Call 102 (H.R. 22, SAVE Act, Apr. 10, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025102",
+              "date": "2025-04-10"
+            }
+          ]
+        },
+        {
+          "item": "Reported raising an additional $679,000 for her 2026 re-election effort (Florida Politics).",
+          "sources": [
+            {
+              "title": "'Delivering results': Laurel Lee adds another $679K to re-election effort in CD 15 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/790687-delivering-results-laurel-lee-adds-another-679k-to-re-election-effort-in-cd-15/",
+              "date": "2026"
             }
           ]
         }
@@ -201,11 +403,11 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Robert_People.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Retired U.S. Army veteran (21 years); former proposal writer",
+      "website": "https://www.peopleforcongress.com/",
+      "occupation": "Retired U.S. Army veteran (21 years, three combat deployments); former proposal writer",
       "residence": "Not found (district includes Citrus, Hernando, parts of Pasco and Hillsborough)",
-      "background": "Robert People, 46, is a retired 21-year Army veteran and former proposal writer. He entered the CD 15 race in February 2025 and stayed in after the state redrew the district. He won the Aug. 18, 2026 Democratic primary over Jose Engell, Darren McAuley and Kimberly Overman; his campaign has emphasized affordability, housing, utility costs, health care and Social Security.",
-      "primary_result": "Won Aug 18, 2026 Democratic primary over Engell, McAuley and Overman (Citrus County Chronicle; NBC News results page); percentage not captured in search snippets",
+      "background": "Robert People, 46, was born in Baltimore in 1979 and is a retired 21-year Army veteran with three combat deployments; he later worked as a proposal writer. He entered the CD 15 race in February 2025 and stayed in after the state redrew the district to include all of Citrus and Hernando counties and parts of Pasco and Hillsborough. He won the Aug. 18, 2026 Democratic primary over Jose Engell, Darren McAuley and Kimberly Overman. His campaign emphasizes affordability, housing, utility costs, health care and Social Security.",
+      "primary_result": "Won Aug 18, 2026 Democratic primary over Jose Engell, Darren McAuley and Kimberly Overman (AP via Bay News 9; Citrus County Chronicle); percentage not captured in search snippets",
       "positions": {
         "taxes": {
           "stance": null,
@@ -222,32 +424,66 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "People told the Citrus County Chronicle he has heard from residents who left Florida because they could no longer afford insurance and said federal involvement may be necessary when local and state governments cannot provide solutions. He did not specify rate caps or other state-level mechanisms.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Our recommendations in the Aug. 18 primary (Citrus County Chronicle editorial; candidate interviews)",
+              "url": "https://www.chronicleonline.com/opinion/editorials/our-recommendations-in-the-aug-18-primary/article_9c50e94d-4ad9-57e3-bb0e-d093152fa69f.html",
+              "date": "2026-08"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His platform calls for measures addressing corporate purchases of existing homes and for affordable-housing development.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "U.S. House: Robert People wins Democratic primary (Citrus County Chronicle)",
+              "url": "https://www.chronicleonline.com/news/local/u-s-house-robert-people-wins-democratic-primary/article_c65c7af7-1895-56ef-8600-5fb28d5c76e7.html",
+              "date": "2026-08"
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "People lists 'Abolish ICE' among his top three priorities and says the immigration system needs reform that provides a clearer, faster path to citizenship while respecting due process.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Robert People (Florida) - Ballotpedia",
+              "url": "https://ballotpedia.org/Robert_People_(Florida)",
+              "date": null
+            },
+            {
+              "title": "People For Congress (campaign site)",
+              "url": "https://www.peopleforcongress.com/",
+              "date": null
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "People says he wants to reverse 'harmful policies in place, especially regarding abortion' and to protect women's ability to make their own health-care decisions.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Robert People (Florida) - Ballotpedia",
+              "url": "https://ballotpedia.org/Robert_People_(Florida)",
+              "date": null
+            },
+            {
+              "title": "People For Congress (campaign site)",
+              "url": "https://www.peopleforcongress.com/",
+              "date": null
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -257,11 +493,22 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "People lists 'Medicare for all' among his top three priorities and has emphasized health-care costs as a kitchen-table issue.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Robert People (Florida) - Ballotpedia",
+              "url": "https://ballotpedia.org/Robert_People_(Florida)",
+              "date": null
+            },
+            {
+              "title": "U.S. House: Robert People wins Democratic primary (Citrus County Chronicle)",
+              "url": "https://www.chronicleonline.com/news/local/u-s-house-robert-people-wins-democratic-primary/article_c65c7af7-1895-56ef-8600-5fb28d5c76e7.html",
+              "date": "2026-08"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -320,11 +567,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His platform calls for utility-rate reform and stronger assistance for households struggling with energy costs; no statement specific to renewable energy or fossil-fuel production was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "U.S. House: Robert People wins Democratic primary (Citrus County Chronicle)",
+              "url": "https://www.chronicleonline.com/news/local/u-s-house-robert-people-wins-democratic-primary/article_c65c7af7-1895-56ef-8600-5fb28d5c76e7.html",
+              "date": "2026-08"
+            }
+          ]
         },
         "tariffs": {
           "stance": null,
@@ -341,11 +594,17 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "People lists 'impeachment, conviction and removal of this administration' as his first priority.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Robert People (Florida) - Ballotpedia",
+              "url": "https://ballotpedia.org/Robert_People_(Florida)",
+              "date": null
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -363,6 +622,60 @@
             {
               "title": "U.S. House: Robert People wins Democratic primary (Citrus County Chronicle)",
               "url": "https://www.chronicleonline.com/news/local/u-s-house-robert-people-wins-democratic-primary/article_c65c7af7-1895-56ef-8600-5fb28d5c76e7.html",
+              "date": "2026-08"
+            },
+            {
+              "title": "Robert People - U.S. House of Representatives, District 15 (Citrus County Chronicle election profile)",
+              "url": "https://www.chronicleonline.com/news/elections/robert-people---u-s-house-of-representatives-district-15/article_3ad4917e-4a60-5ae7-8558-72577723dc48.html",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Abolish ICE / path to citizenship",
+          "summary": "Lists abolishing ICE as a top-three priority and proposes a clearer path to citizenship so immigrants 'doing the right thing' do not wait years.",
+          "sources": [
+            {
+              "title": "Robert People (Florida) - Ballotpedia",
+              "url": "https://ballotpedia.org/Robert_People_(Florida)",
+              "date": null
+            },
+            {
+              "title": "People For Congress (campaign site)",
+              "url": "https://www.peopleforcongress.com/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Teacher pay",
+          "summary": "Proposes increasing teacher salaries nationwide, starting with District 15, by shifting county school budgets away from what he calls wasteful spending.",
+          "sources": [
+            {
+              "title": "Robert People (Florida) - Ballotpedia",
+              "url": "https://ballotpedia.org/Robert_People_(Florida)",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Utility-rate reform and energy assistance",
+          "summary": "Platform calls for utility-rate reform and strengthening assistance for households struggling with energy costs.",
+          "sources": [
+            {
+              "title": "U.S. House: Robert People wins Democratic primary (Citrus County Chronicle)",
+              "url": "https://www.chronicleonline.com/news/local/u-s-house-robert-people-wins-democratic-primary/article_c65c7af7-1895-56ef-8600-5fb28d5c76e7.html",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "title": "Constituent offices in every county",
+          "summary": "Says representing the redrawn district will require a substantial constituent-service operation and he would like a congressional office in every county of the district.",
+          "sources": [
+            {
+              "title": "Our recommendations in the Aug. 18 primary (Citrus County Chronicle editorial; candidate interviews)",
+              "url": "https://www.chronicleonline.com/opinion/editorials/our-recommendations-in-the-aug-18-primary/article_9c50e94d-4ad9-57e3-bb0e-d093152fa69f.html",
               "date": "2026-08"
             }
           ]

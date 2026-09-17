@@ -12,8 +12,8 @@
     "Broward (part)"
   ],
   "what_it_does": "Represents Florida's 20th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
-  "verified_ballot_note": "Regular (full-term) election for the newly drawn CD 20. Roster from CBS Miami and WLRN: Debbie Wasserman Schultz (D) will face Republican nominee Brent Andersen and NPA candidate Kedner Maxime; Kevin McClellan filed as a write-in. The seat itself has been vacant since Rep. Sheila Cherfilus-McCormick resigned Apr. 21, 2026; a separate special election for the remainder of the term (under the old lines) was also scheduled with an Aug. 18 primary and Nov. 3 general, and its ballot could not be verified here, so voters in the old CD 20 may see two CD 20 contests. County makeup for the new district was not confirmed. Sources: https://www.cbsnews.com/miami/news/2026-florida-primary-district-20-democratic-debbie-wasserman-schultz/ ; https://www.wlrn.org/government-politics/2026-08-18/wasserman-schultz-wins-fla-s-20th-district-amid-outcry-over-black-representation-in-south-florida ; https://news.ballotpedia.org/2026/04/22/sheila-cherfilus-mccormicks-resignation-leaves-floridas-20th-congressional-district-vacant/ Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts; county descriptions here reflect post-redistricting reporting where found (https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map).",
+  "coverage": "partial",
+  "verified_ballot_note": "Regular (full-term) election for the newly drawn CD 20. Roster from CBS Miami, WSVN and WLRN: Debbie Wasserman Schultz (D) faces Republican nominee Brent Andersen and NPA candidate Kedner Maxime; Kevin McClellan filed as a write-in (CBS Miami; a Ballotpedia snippet lists him as NPA, so his ballot status should be checked against the county sample ballot). Special election: the seat has been vacant since Rep. Sheila Cherfilus-McCormick resigned Apr. 21, 2026. CBS Miami reported Gov. DeSantis scheduled a special primary for Aug. 18, 2026 with the winner advancing to the Nov. 3 general election, under the pre-2026 district lines; the special-election nominees were not identified in this research, so voters in the old CD 20 may see two CD 20 contests on Nov. 3. Sources: https://www.cbsnews.com/miami/news/2026-florida-primary-district-20-republican-brent-andersen/ ; https://wsvn.com/news/politics/wasserman-schultz-gop-brent-andersen-win-primary-in-redrawn-district-20/ ; https://www.cbsnews.com/miami/news/florida-district-20-sheila-cherfilus-mccormick-resignation-special-election-candidates/ ; https://cbs12.com/news/cbs12-news-i-team/florida-congressional-district-20-cherfilus-mccormick-resignation-redistricting-special-election-map-questions-future-cost-limbo-representation-contest ; https://ballotpedia.org/Florida's_20th_Congressional_District_election,_2026 . The new district covers central and western Broward County (portions of Fort Lauderdale, Lauderhill, Lauderdale Lakes, Tamarac, North Lauderdale, Plantation, Sunrise and Pompano Beach), per CBS Miami. Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts.",
   "candidates": [
     {
       "id": "debbie_wasserman_schultz",
@@ -29,11 +29,22 @@
       "primary_result": "Won Aug 18, 2026 Democratic primary with ~45% over Holness (~23%), Cherfilus-McCormick, Manley and Campbell (CBS Miami; WLRN)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Wasserman Schultz voted against H.R. 1 (the One Big Beautiful Bill Act), which made the 2017 tax cuts permanent while reducing projected Medicaid and SNAP spending. No standalone statement on tax cuts as a priority was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -64,11 +75,27 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for the Women's Health Protection Act (2022), which would have codified abortion access nationally; called the Florida Supreme Court ruling allowing the six-week law 'essentially a total abortion ban'; as ranking member on the Military Construction-VA appropriations subcommittee she opposed a provision blocking the VA from providing abortion services.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.8296 - Women's Health Protection Act of 2022 - Congress.gov",
+              "url": "https://www.congress.gov/bill/117th-congress/house-bill/8296",
+              "date": "2022-07-15"
+            },
+            {
+              "title": "Florida Supreme Court's ruling 'essentially a total abortion ban': Rep. Wasserman Schultz (NBC Meet the Press video)",
+              "url": "https://www.nbcnews.com/meet-the-press/video/florida-supreme-court-s-ruling-essentially-a-total-abortion-ban-rep-wasserman-schultz-208093765528",
+              "date": "2024-04"
+            },
+            {
+              "title": "Ranking Member Wasserman Schultz Statement at the Subcommittee Markup of the 2026 Military Construction, Veterans Affairs Bill (House Appropriations Democrats)",
+              "url": "https://democrats-appropriations.house.gov/news/statements/ranking-member-wasserman-schultz-statement-subcommittee-markup-2026-military",
+              "date": "2025"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -78,11 +105,22 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Voted against H.R. 1, which added Medicaid work-reporting requirements and reduced projected federal Medicaid spending. No 2026 statement on Medicaid expansion in Florida or ACA subsidies was captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -120,11 +158,22 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Voted against the SAVE Act (H.R. 22), which would require documentary proof of citizenship to register to vote in federal elections.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "House Roll Call 102 (H.R. 22, SAVE Act, Apr. 10, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025102",
+              "date": "2025-04-10"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -155,11 +204,27 @@
           "sources": []
         },
         "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for the April 2024 Ukraine Security Supplemental Appropriations Act and has said the U.S. should send a clear signal that it stands with NATO allies as Russia wages what she calls an illegal war in Ukraine.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 - Congress.gov",
+              "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035",
+              "date": "2024-04-24"
+            },
+            {
+              "title": "House Roll Call 151 (H.R. 8035, Apr. 20, 2024) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2024151",
+              "date": "2024-04-20"
+            },
+            {
+              "title": "Wasserman Schultz, Debbie - U.S. House - FL-25 vote profile (The Candidate)",
+              "url": "https://thecandidate.com/candidates/debbie-wasserman-schultz-fl-house-25",
+              "date": null
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -176,8 +241,139 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Israel and antisemitism",
+          "summary": "A prominent supporter of Israel; after defeating rivals critical of Israel she said district voters were focused on daily living costs ('nobody talked to me on the doors or the phones, about Israel').",
+          "sources": [
+            {
+              "title": "Wasserman Schultz defeats anti-Israel DSA-backed rivals in Florida race (Jerusalem Post)",
+              "url": "https://www.jpost.com/us-elections/article-905946",
+              "date": "2026-08"
+            },
+            {
+              "title": "Following primary victory, Wasserman Schultz credits her experience, rejects 'fringe left socialism' (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-08-19/following-primary-victory-wasserman-schultz-credits-her-experience-rejects-fringe-left-socialism",
+              "date": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "title": "Veterans and military-construction appropriations",
+          "summary": "Serves as ranking Democrat on the House Appropriations Subcommittee on Military Construction, Veterans Affairs and Related Agencies, where she has criticized Republican-written 2026 funding bills.",
+          "sources": [
+            {
+              "title": "Ranking Member Wasserman Schultz Statement at the Subcommittee Markup of the 2026 Military Construction, Veterans Affairs Bill (House Appropriations Democrats)",
+              "url": "https://democrats-appropriations.house.gov/news/statements/ranking-member-wasserman-schultz-statement-subcommittee-markup-2026-military",
+              "date": "2025"
+            },
+            {
+              "title": "Ranking Member Wasserman Schultz Floor Remarks on 2026 Military Construction, Veterans Affairs Bill",
+              "url": "https://democrats-appropriations.house.gov/news/statements/ranking-member-wasserman-schultz-floor-remarks-2026-military-construction-veterans",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "title": "Rejects 'fringe left socialism'",
+          "summary": "After her primary win she credited her experience and said the party should reject 'fringe left socialism.'",
+          "sources": [
+            {
+              "title": "Following primary victory, Wasserman Schultz credits her experience, rejects 'fringe left socialism' (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-08-19/following-primary-victory-wasserman-schultz-credits-her-experience-rejects-fringe-left-socialism",
+              "date": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "title": "Running in the redrawn 20th District",
+          "summary": "Moved from CD 25 to the new CD 20 after the 2026 map, a decision that drew criticism from some Democrats concerned about a majority-Black seat.",
+          "sources": [
+            {
+              "title": "Wasserman Schultz's reelection bid ignites tensions within Democratic Party (Jewish Insider)",
+              "url": "https://jewishinsider.com/2026/07/debbie-wasserman-schultz-florida-redistricting-black-jewish-alliance/",
+              "date": "2026-07"
+            },
+            {
+              "title": "Debbie Wasserman Schultz wins primary despite Democratic backlash (Florida Trib)",
+              "url": "https://floridatrib.org/2026/08/18/debbie-wasserman-schultz-wins-primary-despite-democratic-backlash/",
+              "date": "2026-08-18"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted no on final passage of H.R. 1, the One Big Beautiful Bill Act (July 3, 2025).",
+          "sources": [
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
+        },
+        {
+          "item": "Voted no on H.R. 22, the SAVE Act (Apr. 10, 2025).",
+          "sources": [
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "House Roll Call 102 (H.R. 22, SAVE Act, Apr. 10, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025102",
+              "date": "2025-04-10"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on H.R. 8035, the Ukraine Security Supplemental (Apr. 20, 2024).",
+          "sources": [
+            {
+              "title": "H.R.8035 - Ukraine Security Supplemental Appropriations Act, 2024 - Congress.gov",
+              "url": "https://www.congress.gov/bill/118th-congress/house-bill/8035",
+              "date": "2024-04-24"
+            },
+            {
+              "title": "House Roll Call 151 (H.R. 8035, Apr. 20, 2024) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2024151",
+              "date": "2024-04-20"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on the Women's Health Protection Act of 2022 (H.R. 8296).",
+          "sources": [
+            {
+              "title": "H.R.8296 - Women's Health Protection Act of 2022 - Congress.gov",
+              "url": "https://www.congress.gov/bill/117th-congress/house-bill/8296",
+              "date": "2022-07-15"
+            }
+          ]
+        },
+        {
+          "item": "Her decision to run in the majority-Black 20th District after redistricting drew criticism from some Democrats and Black community leaders (Jewish Insider; Florida Trib).",
+          "sources": [
+            {
+              "title": "Wasserman Schultz's reelection bid ignites tensions within Democratic Party (Jewish Insider)",
+              "url": "https://jewishinsider.com/2026/07/debbie-wasserman-schultz-florida-redistricting-black-jewish-alliance/",
+              "date": "2026-07"
+            },
+            {
+              "title": "Debbie Wasserman Schultz wins primary despite Democratic backlash (Florida Trib)",
+              "url": "https://floridatrib.org/2026/08/18/debbie-wasserman-schultz-wins-primary-despite-democratic-backlash/",
+              "date": "2026-08-18"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -187,11 +383,11 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Brent_Andersen.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not found",
+      "website": "https://brentandersenfl.com/",
+      "occupation": "Founder and president, Pilgrim Bay Insurance Agency",
       "residence": "Not found",
-      "background": "Brent Andersen is the Republican nominee for the new 20th District, per CBS Miami's report on the Democratic primary; details of the Republican primary were not captured in this research.",
-      "primary_result": "Republican nominee (CBS Miami); primary details not found",
+      "background": "Brent Andersen is the founder and president of Pilgrim Bay Insurance Agency, which focuses on construction, commercial real estate and high-net-worth clients. He won the Aug. 18, 2026 Republican primary for the redrawn 20th District over Army veteran Rod Joseph, Navy veteran Carla Spalding and Lateresa 'LA' Jones, and has campaigned on public safety, education and lowering insurance costs.",
+      "primary_result": "Won Aug 18, 2026 Republican primary over Rod Joseph, Carla Spalding and Lateresa 'LA' Jones (CBS Miami; WSVN); percentage not captured",
       "positions": {
         "taxes": {
           "stance": null,
@@ -210,9 +406,15 @@
         "insurance": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "Lowering insurance costs is one of his three stated campaign themes (he owns an insurance agency), but no specific position on state rate caps, Citizens or insurer regulation was found as of Sept 2026.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Brent Andersen wins Republican primary for Florida's Congressional District 20 (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-20-republican-brent-andersen/",
+              "date": "2026-08-18"
+            }
+          ]
         },
         "housing": {
           "stance": null,
@@ -222,11 +424,22 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Campaign says he will 'secure our borders and stand with law enforcement'; no statement on deportation scale was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet Brent - Brent Andersen for Congress (campaign site)",
+              "url": "https://brentandersenfl.com/meet-brent/",
+              "date": null
+            },
+            {
+              "title": "Brent Andersen - Putting People Before Politics (Local Candidates profile)",
+              "url": "https://www.localcandidates.org/politicians/brent-andersen/about/eace262b-872b-41c4-9368-c91ca28d52e9",
+              "date": null
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -292,11 +505,22 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Centered his campaign on public safety and says he will 'stand with law enforcement'; specific proposals on penalties or police funding were not captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Brent Andersen wins Republican primary for Florida's Congressional District 20 (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-20-republican-brent-andersen/",
+              "date": "2026-08-18"
+            },
+            {
+              "title": "Meet Brent - Brent Andersen for Congress (campaign site)",
+              "url": "https://brentandersenfl.com/meet-brent/",
+              "date": null
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -341,9 +565,59 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Public safety, education and lowering insurance costs",
+          "summary": "CBS Miami reports he centered his campaign on these three themes.",
+          "sources": [
+            {
+              "title": "Brent Andersen wins Republican primary for Florida's Congressional District 20 (CBS Miami)",
+              "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-20-republican-brent-andersen/",
+              "date": "2026-08-18"
+            }
+          ]
+        },
+        {
+          "title": "Lower costs and 'constitutional principles'",
+          "summary": "Campaign site says he is committed to lower costs, economic opportunity and constitutional principles, and to protecting taxpayers and small businesses.",
+          "sources": [
+            {
+              "title": "Meet Brent - Brent Andersen for Congress (campaign site)",
+              "url": "https://brentandersenfl.com/meet-brent/",
+              "date": null
+            },
+            {
+              "title": "Brent Andersen - Putting People Before Politics (Local Candidates profile)",
+              "url": "https://www.localcandidates.org/politicians/brent-andersen/about/eace262b-872b-41c4-9368-c91ca28d52e9",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Debate challenge",
+          "summary": "Challenged Wasserman Schultz to three debates.",
+          "sources": [
+            {
+              "title": "Andersen challenges Wasserman Schultz to three debates in Florida's 20th District (Florida's Voice)",
+              "url": "https://flvoicenews.com/andersen-challenges-wasserman-schultz-to-three-debates-in-floridas-20th-district/",
+              "date": "2026-08"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "State Rep. Chip LaMarca",
+          "sources": [
+            {
+              "title": "It takes one to know one: Chip LaMarca backs Republican Brent Andersen in CD 20 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/811909-it-takes-one-to-know-one-chip-lamarca-backs-republican-brent-andersen-in-cd-20/",
+              "date": "2026-08"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "kedner_maxime",
@@ -352,10 +626,10 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Kedner_Maxime.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not found",
-      "residence": "Not found",
-      "background": "Kedner Maxime is an independent (NPA) candidate on the Nov. 3 ballot for District 20, per CBS Miami and Ballotpedia.",
+      "website": "https://www.maximeforcongress.com/",
+      "occupation": "Tax accountant, immigration-services specialist and small-business owner",
+      "residence": "Oakland Park, Broward County",
+      "background": "Kedner Maxime is a Haitian American tax accountant, immigration-services specialist and small-business owner based in Oakland Park. He is running with no party affiliation and will appear on the Nov. 3 ballot for District 20, per CBS Miami and Ballotpedia.",
       "primary_result": "No primary (NPA candidate)",
       "positions": {
         "taxes": {
@@ -410,9 +684,20 @@
         "healthcare": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "Campaign lists affordable health care as a focus, but no specific position on Medicaid expansion or ACA subsidies was found as of Sept 2026.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Kedner Maxime Policy Positions for District 20 (campaign site)",
+              "url": "https://www.maximeforcongress.com/",
+              "date": null
+            },
+            {
+              "title": "Kedner Maxime About (Local Candidates profile)",
+              "url": "https://www.localcandidates.org/politicians/kedner-maxime/about",
+              "date": null
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -506,7 +791,35 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Affordable health care, economic security, housing and transparent government",
+          "summary": "Campaign lists these as its focus areas.",
+          "sources": [
+            {
+              "title": "Kedner Maxime Policy Positions for District 20 (campaign site)",
+              "url": "https://www.maximeforcongress.com/",
+              "date": null
+            },
+            {
+              "title": "Kedner Maxime About (Local Candidates profile)",
+              "url": "https://www.localcandidates.org/politicians/kedner-maxime/about",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Immigration services background",
+          "summary": "Says he has spent decades running an accounting and legal-immigration-services practice helping clients navigate the immigration system.",
+          "sources": [
+            {
+              "title": "Kedner Maxime About (Local Candidates profile)",
+              "url": "https://www.localcandidates.org/politicians/kedner-maxime/about",
+              "date": null
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     },

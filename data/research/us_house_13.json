@@ -12,7 +12,7 @@
     "Pinellas (part)"
   ],
   "what_it_does": "Represents Florida's 13th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "WUSF (Aug 18, 2026) and Florida Politics report Leela Gray (D) won the Democratic primary and faces incumbent Anna Paulina Luna (R) in November; Luna advanced without a contested Republican primary (Ballotpedia had listed Njallssen Amaro Lionheart as a primary filer) (https://www.wusf.org/politics-issues/2026-08-18/pinellas-primary-results-2026-leela-gray-wins-democratic-nomination-13th-congressional-district ; https://eciks.org/21795-luna-florida-primary-unopposed ; https://ballotpedia.org/Florida's_13th_Congressional_District_election,_2026_(August_18_Republican_primary)). NPA/write-in candidates not confirmed. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide.",
   "candidates": [
     {
@@ -25,15 +25,31 @@
       "website": null,
       "occupation": "U.S. Representative (since 2023)",
       "residence": "St. Petersburg area, Pinellas County (not re-verified)",
-      "background": "Anna Paulina Luna has represented the 13th District since 2023. She advanced to the 2026 general election without a contested Republican primary. The district's Cook Partisan Voter Index is R+5.",
+      "background": "Anna Paulina Luna, an Air Force veteran, has represented the 13th District since 2023 and is the first Mexican-American woman elected to Congress from Florida. She is a member of the House Freedom Caucus and the Congressional Second Amendment Caucus. She advanced to the 2026 general election without a contested Republican primary. The district's Cook Partisan Voter Index is R+5.",
       "primary_result": "Advanced without a contested Aug 18, 2026 Republican primary (https://eciks.org/21795-luna-florida-primary-unopposed ; Ballotpedia roster listed Njallssen Amaro Lionheart: https://ballotpedia.org/Florida's_13th_Congressional_District_election,_2026_(August_18_Republican_primary))",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Luna voted for H.R. 1 (the 2025 reconciliation law), which extended the 2017 individual tax cuts and added new deductions while reducing projected federal spending on Medicaid and SNAP. No separate statement on the tradeoff was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+              "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+              "date": "2025-07"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -57,32 +73,86 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her House website says she will fight to finish the border wall, end DACA, restore the 'Remain in Mexico' policy and 'crack down on criminal illegals,' and that she opposes amnesty; she voted for the Laken Riley Act (every House Republican voted yes).",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Immigration - Congresswoman Anna Paulina Luna",
+              "url": "https://luna.house.gov/resources/immigration",
+              "date": null
+            },
+            {
+              "title": "House Roll Call 6 on H.R. 29, Laken Riley Act (264-159)",
+              "url": "https://clerk.house.gov/Votes/20256",
+              "date": "2025-01-07"
+            },
+            {
+              "title": "Axios: House passes Laken Riley Act (all Republicans and 48 Democrats voted yes)",
+              "url": "https://www.axios.com/2025/01/07/house-passes-laken-riley-act-2025",
+              "date": "2025-01-07"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Luna has described herself as a 'pro-life extremist' and supported Florida's abortion ban, according to EMILY's List, which quotes her as telling Floridians who disagree with the state's policy to move; no statement supporting repeal of the six-week ban was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Anna Paulina Luna - EMILY's List 'On Notice' profile",
+              "url": "https://emilyslist.org/on-notice/anna-paulina-luna/",
+              "date": null
+            },
+            {
+              "title": "Anna Paulina Luna - Smarter.Vote",
+              "url": "https://smarter.vote/races/fl-house-13-2026/anna-paulina-luna/",
+              "date": null
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Luna wants to repeal red-flag orders and opposes assault-weapons bans, magazine limits and waiting periods, according to the Gun Owners of America endorsement announcement; she is a member of the Congressional Second Amendment Caucus and wore an AR-15 lapel pin in 2023.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Gun Owners of America Proudly Endorses Anna Paulina Luna",
+              "url": "https://www.gunowners.org/fl06222022/",
+              "date": "2022-06-22"
+            },
+            {
+              "title": "Anna Paulina Luna - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Anna_Paulina_Luna",
+              "date": null
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Luna voted for H.R. 1, which reduced projected federal Medicaid spending (including new work requirements) and did not extend the enhanced ACA premium subsidies. No statement supporting Medicaid expansion in Florida was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+              "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+              "date": "2025-07"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -155,11 +225,27 @@
           "sources": []
         },
         "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Luna voted against the $60 billion Ukraine aid package in April 2024, voted for a 2023 moratorium on Ukraine aid, wrote in February 2025 that she was 'glad there will be NO funding for Ukraine,' and in June 2025 said she was requesting $40 billion per year from Ukraine as 'budgetary support' for the U.S.",
+          "quote": "I'm glad there will be NO funding for Ukraine.",
+          "sources": [
+            {
+              "title": "Rep. Anna Paulina Luna on X (Feb. 2025)",
+              "url": "https://x.com/RepLuna/status/1895533179781726502",
+              "date": "2025-02"
+            },
+            {
+              "title": "Rep. Anna Paulina Luna on X (June 2025)",
+              "url": "https://x.com/RepLuna/status/1936239201688682640",
+              "date": "2025-06"
+            },
+            {
+              "title": "Anna Paulina Luna - Wikipedia (2023-2024 Ukraine votes)",
+              "url": "https://en.wikipedia.org/wiki/Anna_Paulina_Luna",
+              "date": null
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -176,9 +262,131 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "Proxy voting for new parents",
+          "summary": "Led a 2025 discharge petition to let new parents vote by proxy for up to 12 weeks; after leadership opposition she agreed to a deal with Speaker Johnson that replaced it with 'vote pairing.'",
+          "sources": [
+            {
+              "title": "House rejects proxy voting for new parents, chooses 'pairing' instead - Roll Call",
+              "url": "https://rollcall.com/2025/04/08/house-rejects-proxy-voting-for-new-parents-chooses-pairing-instead/",
+              "date": "2025-04-08"
+            },
+            {
+              "title": "With Rules maneuver, House GOP aims to kill parental proxy push - Roll Call",
+              "url": "https://rollcall.com/2025/04/01/with-rules-maneuver-house-gop-aims-to-kill-parental-proxy-push/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Congressional stock-trading ban",
+          "summary": "Filed a discharge petition in December 2025 to force a vote on banning stock trading by members of Congress.",
+          "sources": [
+            {
+              "title": "Luna files discharge petition in push to ban member stock trading - Roll Call",
+              "url": "https://rollcall.com/2025/12/02/luna-files-discharge-petition-member-stock-trading/",
+              "date": "2025-12-02"
+            }
+          ]
+        },
+        {
+          "title": "Codify the $6,000 Social Security tax deduction",
+          "summary": "With Rep. Bilirakis, introduced a February 2026 bill to make the senior deduction permanent.",
+          "sources": [
+            {
+              "title": "Gus Bilirakis and Anna Paulina Luna Introduce Bill Codifying Social Security Tax Cut - The Floridian",
+              "url": "https://floridianpress.com/2026/02/gus-bilirakis-and-anna-paulina-luna-introduce-bill-codifying-social-security-tax-cut/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Border and trafficking",
+          "summary": "Says she has visited the southern border three times and focuses on human and drug trafficking.",
+          "sources": [
+            {
+              "title": "Immigration - Congresswoman Anna Paulina Luna",
+              "url": "https://luna.house.gov/resources/immigration",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted for H.R. 1, the 2025 reconciliation law (July 3, 2025).",
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+              "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+              "date": "2025-07"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the Laken Riley Act (Jan. 2025).",
+          "sources": [
+            {
+              "title": "House Roll Call 6 on H.R. 29, Laken Riley Act (264-159)",
+              "url": "https://clerk.house.gov/Votes/20256",
+              "date": "2025-01-07"
+            },
+            {
+              "title": "Axios: House passes Laken Riley Act (all Republicans and 48 Democrats voted yes)",
+              "url": "https://www.axios.com/2025/01/07/house-passes-laken-riley-act-2025",
+              "date": "2025-01-07"
+            }
+          ]
+        },
+        {
+          "item": "Voted against the April 2024 $60 billion Ukraine military aid package and for a 2023 aid moratorium.",
+          "sources": [
+            {
+              "title": "Anna Paulina Luna - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Anna_Paulina_Luna",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Secured 218 signatures (207 Democrats, 11 Republicans) on a discharge petition for parental proxy voting, then withdrew it in a deal with Speaker Johnson.",
+          "sources": [
+            {
+              "title": "House rejects proxy voting for new parents, chooses 'pairing' instead - Roll Call",
+              "url": "https://rollcall.com/2025/04/08/house-rejects-proxy-voting-for-new-parents-chooses-pairing-instead/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Criticism: her challenger says Luna backed U.S. military action in Iran and Trump's tariffs, which the challenger says raised gas prices and costs.",
+          "sources": [
+            {
+              "title": "Leela Gray added to DCCC's Red to Blue program - Florida Politics",
+              "url": "https://floridapolitics.com/archives/815930-leela-gray-added-to-dcccs-red-to-blue-program/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Gun Owners of America (2022 primary endorsement)",
+          "sources": [
+            {
+              "title": "Gun Owners of America Proudly Endorses Anna Paulina Luna",
+              "url": "https://www.gunowners.org/fl06222022/",
+              "date": null
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "leela_gray",
@@ -187,10 +395,10 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Leela_Gray.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Retired U.S. Army brigadier general",
-      "residence": "Pinellas County (not verified)",
-      "background": "Leela Gray is a retired U.S. Army brigadier general. She won the Aug. 18, 2026 Democratic primary with 65.1% (32,033 votes) over Brandt Robinson (12,893) and John William Liccione (4,250).",
+      "website": "https://www.leelagray.com/",
+      "occupation": "Retired U.S. Army brigadier general; attorney assisting veterans with benefits; small-business owner",
+      "residence": "Tampa Bay area (Pinellas County per district; campaign says resident since 2003; city not verified)",
+      "background": "Leela Gray served 27 years in the U.S. Army, including more than 17 on active duty, commanded at the company, battalion and brigade levels, completed three deployments and a peacekeeping mission, led the 86th Training Division, and retired in 2018 as Deputy Commanding General of U.S. Army Central. She later advised U.S. Army Cyber Command, built a civilian career in technology and strategic communications, and earned a law degree to help veterans obtain health care and benefits. She has lived in the Tampa Bay area since 2003. She won the Aug. 18, 2026 Democratic primary with 65.1% and was added to the DCCC's Red to Blue program.",
       "primary_result": "Won Aug 18, 2026 Democratic primary with 65.1% (32,033 votes) over Brandt Robinson (12,893) and John William Liccione (4,250) (WUSF: https://www.wusf.org/politics-issues/2026-08-18/pinellas-primary-results-2026-leela-gray-wins-democratic-nomination-13th-congressional-district)",
       "positions": {
         "taxes": {
@@ -229,11 +437,22 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Gray is endorsed by EMILY's List, which backs Democratic women who support abortion rights, and is listed by WomenCount; the endorsement announcement describes her as supporting reproductive rights. (One aggregator site characterizes her differently; her campaign and endorsers describe her as pro-choice.)",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "EMILY's List Endorses Retired Brigadier General Leela Gray",
+              "url": "https://emilyslist.org/news/emilys-list-endorses-retired-brigadier-general-leela-gray-for-floridas-13th-congressional-district/",
+              "date": "2026"
+            },
+            {
+              "title": "Leela Gray, FL-13 - WomenCount",
+              "url": "https://womencount.org/candidate/leela-gray-fl-13/",
+              "date": null
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -243,11 +462,22 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Criticized H.R. 1 for its impact on Medicaid and SNAP and says she will 'protect health care' and lower costs; she has not endorsed specific expansions such as Medicare for All.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Leela Gray added to DCCC's Red to Blue program - Florida Politics",
+              "url": "https://floridapolitics.com/archives/815930-leela-gray-added-to-dcccs-red-to-blue-program/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Issues - Leela Gray",
+              "url": "https://www.leelagray.com/issues",
+              "date": null
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -313,11 +543,17 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Gray criticizes Rep. Luna for backing Trump's tariffs, which she says have raised costs for families.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Leela Gray added to DCCC's Red to Blue program - Florida Politics",
+              "url": "https://floridapolitics.com/archives/815930-leela-gray-added-to-dcccs-red-to-blue-program/",
+              "date": "2026-08"
+            }
+          ]
         },
         "ukraine": {
           "stance": null,
@@ -327,23 +563,157 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Gray criticizes the administration's tariffs and the military action in Iran that Luna supported, saying they raised gas prices and costs.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Leela Gray added to DCCC's Red to Blue program - Florida Politics",
+              "url": "https://floridapolitics.com/archives/815930-leela-gray-added-to-dcccs-red-to-blue-program/",
+              "date": "2026-08"
+            }
+          ]
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says she will 'deliver for veterans'; after retiring she earned a law degree to help veterans access health care and benefits.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "About - Leela Gray",
+              "url": "https://www.leelagray.com/about",
+              "date": null
+            },
+            {
+              "title": "Exclusive: Ret. Army Brig. Gen. Leela Gray Tries to Flip Florida District - Military.com",
+              "url": "https://www.military.com/exclusive-ret-army-brig-gen-leela-gray-would-be-first-ever-female-general-elected-congress-floridas-13th-district",
+              "date": null
+            }
+          ]
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "Anti-corruption agenda",
+          "summary": "Proposes overturning Citizens United, banning corporate PAC donations, banning stock trading by members of Congress, banning prediction markets and suspending congressional pay during shutdowns.",
+          "sources": [
+            {
+              "title": "Exclusive: Ret. Army Brig. Gen. Leela Gray Tries to Flip Florida District - Military.com",
+              "url": "https://www.military.com/exclusive-ret-army-brig-gen-leela-gray-would-be-first-ever-female-general-elected-congress-floridas-13th-district",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Cost of living",
+          "summary": "Says she will fight for families 'crushed by the high cost of insurance, housing, gas and groceries.'",
+          "sources": [
+            {
+              "title": "Leela Gray added to DCCC's Red to Blue program - Florida Politics",
+              "url": "https://floridapolitics.com/archives/815930-leela-gray-added-to-dcccs-red-to-blue-program/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Iran military action",
+          "summary": "Criticizes the U.S. military action in Iran that she says Luna backed.",
+          "sources": [
+            {
+              "title": "Leela Gray added to DCCC's Red to Blue program - Florida Politics",
+              "url": "https://floridapolitics.com/archives/815930-leela-gray-added-to-dcccs-red-to-blue-program/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Cyber and defense modernization",
+          "summary": "Cites her work advising U.S. Army Cyber Command on cyber policy.",
+          "sources": [
+            {
+              "title": "About - Leela Gray",
+              "url": "https://www.leelagray.com/about",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Retired 2018 as Deputy Commanding General of U.S. Army Central after 27 years of Army service.",
+          "sources": [
+            {
+              "title": "About - Leela Gray",
+              "url": "https://www.leelagray.com/about",
+              "date": null
+            },
+            {
+              "title": "Military.com profile",
+              "url": "https://www.military.com/exclusive-ret-army-brig-gen-leela-gray-would-be-first-ever-female-general-elected-congress-floridas-13th-district",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Raised $561,000 within months of launching; added to the DCCC's Red to Blue program in August 2026.",
+          "sources": [
+            {
+              "title": "Leela Gray hauls $561K - Florida Politics",
+              "url": "https://floridapolitics.com/archives/788669-leela-gray-hauls-561k-within-months-of-challenging-anna-paulina-luna-for-cd-13/",
+              "date": null
+            },
+            {
+              "title": "Leela Gray added to DCCC's Red to Blue program - Florida Politics",
+              "url": "https://floridapolitics.com/archives/815930-leela-gray-added-to-dcccs-red-to-blue-program/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "EMILY's List",
+          "sources": [
+            {
+              "title": "EMILY's List Endorses Retired Brigadier General Leela Gray",
+              "url": "https://emilyslist.org/news/emilys-list-endorses-retired-brigadier-general-leela-gray-for-floridas-13th-congressional-district/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "VoteVets",
+          "sources": [
+            {
+              "title": "Leela Gray - VoteVets",
+              "url": "https://votevets.org/candidates/leela-gray",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "New Politics",
+          "sources": [
+            {
+              "title": "Leela Gray - New Politics",
+              "url": "https://www.newpolitics.org/candidates/leela-gray",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "Rep. Ted Lieu (D-Calif.)",
+          "sources": [
+            {
+              "title": "Leela Gray adds Ted Lieu to her endorsement ranks - Florida Politics",
+              "url": "https://floridapolitics.com/archives/804021-leela-gray-adds-ted-lieu-to-her-endorsement-ranks-in-cd-13/",
+              "date": null
+            }
+          ]
+        }
+      ]
     }
   ]
 }

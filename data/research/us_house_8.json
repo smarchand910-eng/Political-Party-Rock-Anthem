@@ -10,31 +10,48 @@
   },
   "counties": [
     "Brevard",
+    "Indian River",
     "Orange (part)"
   ],
   "what_it_does": "Represents Florida's 8th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
-  "verified_ballot_note": "Ballotpedia snippet: 'Incumbent Mike Haridopolos and Paul Dellinger are running in the general election for U.S. House Florida District 8 on November 3, 2026' (https://ballotpedia.org/Florida's_8th_Congressional_District_election,_2026). Primary details and any NPA/write-in candidates were not found in searches run for this guide. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide.",
+  "coverage": "partial",
+  "verified_ballot_note": "CONFLICTING SOURCES ON THE DEMOCRATIC NOMINEE. A Ballotpedia snippet states 'Incumbent Mike Haridopolos and Paul Dellinger are running in the general election for U.S. House Florida District 8 on November 3, 2026' (https://ballotpedia.org/Florida's_8th_Congressional_District_election,_2026), and Ballotpedia's Democratic-primary page lists Dellinger (https://ballotpedia.org/Florida's_8th_Congressional_District_election,_2026_(August_18_Democratic_primary)). However, Inside Elections' 2026 Florida primary results page states the Trump-endorsed incumbent 'will face Democrat and former Brevard County school board member Jennifer Jenkins in November' (https://insideelections.com/2026-florida-primary-results/). Jenkins, who had been running for U.S. Senate and then CD 6, announced in May 2026 that she would run in CD 8 (https://floridaphoenix.com/2026/05/05/democrat-jennifer-jenkins-now-says-shell-run-for-cd-8-seat-in-brevard-county/; https://floridapolitics.com/archives/794822-redistricting-shuffle-jennifer-jenkins-turns-her-attention-to-mike-haridopolos-instead-of-randy-fine/) and released a poll against Haridopolos during the summer (https://floridapolitics.com/archives/810254-jennifer-jenkins-poll/). Ballotpedia, Inside Elections and NBC results pages could not be fetched from this sandbox, so which Democrat is on the Nov. 3 ballot is UNRESOLVED; verify against the Florida Division of Elections or Brevard Supervisor of Elections (https://www.votebrevard.gov/Candidate-Information/2026-Candidates) before publishing. Dellinger is retained here pending verification. NPA/write-in candidates not confirmed. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) A Ballotpedia snippet describes the district as including Brevard County, Indian River County and parts of east Orange County (https://ballotpedia.org/Florida's_8th_Congressional_District).",
   "candidates": [
     {
       "id": "mike_haridopolos",
       "name": "Mike Haridopolos",
       "party": "Republican",
       "incumbent": true,
-      "photo_url": "https://www.congress.gov/img/member/h001103_200.jpg",
-      "photo_source": "congress.gov member portrait (bioguide ID unverified)",
-      "website": null,
+      "photo_url": "https://www.congress.gov/img/member/h001099_200.jpg",
+      "photo_source": "congress.gov member portrait (bioguide H001099 per congress.gov member page)",
+      "website": "https://www.mike4congress.com/",
       "occupation": "U.S. Representative (since 2025); former Florida Senate President",
       "residence": "Brevard County (not re-verified)",
-      "background": "Mike Haridopolos, a former president of the Florida Senate, was first elected to the U.S. House in 2024. He is the Republican candidate for the 8th District in November 2026 per Ballotpedia.",
-      "primary_result": "Republican nominee per Ballotpedia general-election listing; primary details not found (https://ballotpedia.org/Florida's_8th_Congressional_District_election,_2026)",
+      "background": "Mike Haridopolos served in the Florida Senate and was Senate President from 2010 to 2012. After a 12-year absence from elected office he won the open 8th District seat in 2024 with about 62% of the vote. In Congress he sits on committees dealing with space policy and has sponsored the LEARN AI Act (July 2026). He was endorsed by Donald Trump and advanced from the Aug. 18, 2026 Republican primary; Inside Elections lists him as the Republican nominee for the redrawn district.",
+      "primary_result": "Republican nominee; Inside Elections' primary-results page lists the Trump-endorsed incumbent as advancing to November (percentage not confirmed; a '58%' figure in the snippet may refer to Trump's 2024 share in the district) (https://insideelections.com/2026-florida-primary-results/ ; Ballotpedia: https://ballotpedia.org/Florida's_8th_Congressional_District_election,_2026)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Haridopolos voted for H.R. 1 (the 2025 reconciliation law), which extended the 2017 individual tax cuts and added new deductions while reducing projected federal spending on Medicaid and SNAP. No separate statement on the tradeoff was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+              "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+              "date": "2025-07"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -58,18 +75,45 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His House website says the situation at the southern border 'threatened public safety and strained local communities' and that he is committed to securing the border and strengthening immigration enforcement, describing himself as a strong supporter of President Trump's measures to secure the border and remove 'dangerous illegal aliens.' He voted for the Laken Riley Act (every House Republican voted yes).",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Immigration - Congressman Mike Haridopolos",
+              "url": "https://haridopolos.house.gov/issues/immigration",
+              "date": null
+            },
+            {
+              "title": "House Roll Call 6 on H.R. 29, Laken Riley Act (264-159)",
+              "url": "https://clerk.house.gov/Votes/20256",
+              "date": "2025-01-07"
+            },
+            {
+              "title": "Axios: House passes Laken Riley Act (all Republicans and 48 Democrats voted yes)",
+              "url": "https://www.axios.com/2025/01/07/house-passes-laken-riley-act-2025",
+              "date": "2025-01-07"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "SBA Pro-Life America lists Haridopolos as a pro-life member who 'has consistently advocated for innocent babies, their mothers & the taxpayers,' and Reproductive Freedom for All's scorecard tracks his votes as opposing abortion rights. No statement specific to Florida's six-week ban was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Mike Haridopolos - SBA Pro-Life America",
+              "url": "https://sbaprolife.org/candidate/mike-haridopolos",
+              "date": null
+            },
+            {
+              "title": "Mike Haridopolos's Congressional Scorecard - Reproductive Freedom for All",
+              "url": "https://reproductivefreedomforall.org/lawmaker/mike-haridopolos/",
+              "date": null
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -79,18 +123,40 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Haridopolos voted for H.R. 1, which reduced projected federal Medicaid spending (including new work requirements) and did not extend the enhanced ACA premium subsidies. No statement supporting Medicaid expansion in Florida was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+              "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+              "date": "2025-07"
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In an op-ed posted on his House site he wrote that he does not support cuts to Social Security or Medicare and that he will 'fight the Democrats' reckless tax and spending agenda' to preserve the programs; he has not said he would raise revenue to do so.",
+          "quote": "I do not support cuts to Social Security or Medicare.",
+          "sources": [
+            {
+              "title": "U.S. Rep. Mike Haridopolos: Truth about Medicaid, Medicare and Social Security",
+              "url": "https://haridopolos.house.gov/media/in-the-news/us-rep-mike-haridopolos-truth-about-medicaid-medicare-and-social-security",
+              "date": null
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -149,25 +215,53 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In a 2026 podcast interview he defended reciprocal tariffs, saying every country should compete on a level playing field; separately his office says he secured federal intervention to shield about 1,000 Piper Aircraft jobs in Vero Beach from tariff effects.",
+          "quote": "All Trump has said is whatever you tax us, we're going to tax you.",
+          "sources": [
+            {
+              "title": "Profile of Republican Representative Haridopolos - The Nation's Leaders from Coast to Coast (podcast)",
+              "url": "https://podcasts.apple.com/us/podcast/profile-of-republican-representative-haridopolos/id1842738809?i=1000755115432",
+              "date": "2026"
+            }
+          ]
         },
         "ukraine": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "No clear public position found as of Sept 2026. In a 2026 podcast interview he described the Ukraine situation as a difficult diplomatic one and asked why Ukraine would not give the United States the same economic terms it offered European countries that helped it.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Profile of Republican Representative Haridopolos (podcast)",
+              "url": "https://podcasts.apple.com/us/podcast/profile-of-republican-representative-haridopolos/id1842738809?i=1000755115432",
+              "date": "2026"
+            }
+          ]
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Haridopolos is endorsed by Donald Trump, describes himself as a strong supporter of the President's immigration measures, and in a 2026 interview praised the administration's foreign policy and 'America First' agenda.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Immigration - Congressman Mike Haridopolos",
+              "url": "https://haridopolos.house.gov/issues/immigration",
+              "date": null
+            },
+            {
+              "title": "2026 Florida Primary Results - Inside Elections (Trump-endorsed incumbent)",
+              "url": "https://insideelections.com/2026-florida-primary-results/",
+              "date": "2026-08"
+            },
+            {
+              "title": "Profile of Republican Representative Haridopolos (podcast)",
+              "url": "https://podcasts.apple.com/us/podcast/profile-of-republican-representative-haridopolos/id1842738809?i=1000755115432",
+              "date": "2026"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -177,22 +271,134 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "Space program and NASA",
+          "summary": "Maintains a dedicated space-policy page; says he supports NASA's moon mission and the Space Coast launch industry.",
+          "sources": [
+            {
+              "title": "Space - Congressman Mike Haridopolos",
+              "url": "https://haridopolos.house.gov/issues/space",
+              "date": null
+            },
+            {
+              "title": "What does Congressman Mike Haridopolos think about NASA moon mission?",
+              "url": "https://haridopolos.house.gov/media/in-the-news/what-does-congressman-mike-haridopolos-think-about-nasa-moon-mission-i-asked",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Federal funding for Space Coast projects",
+          "summary": "His office reports securing federal funding for local Brevard projects in the appropriations process.",
+          "sources": [
+            {
+              "title": "Brevard U.S. Congressman Mike Haridopolos Secures Federal Funding for Key Space Coast Projects",
+              "url": "https://haridopolos.house.gov/media/in-the-news/brevard-us-congressman-mike-haridopolos-secures-federal-funding-key-space-coast",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Piper Aircraft tariff relief",
+          "summary": "Says he secured federal intervention to protect about 1,000 Piper Aircraft jobs in Vero Beach from the effect of international tariffs.",
+          "sources": [
+            {
+              "title": "Profile of Republican Representative Haridopolos (podcast)",
+              "url": "https://podcasts.apple.com/us/podcast/profile-of-republican-representative-haridopolos/id1842738809?i=1000755115432",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "LEARN AI Act",
+          "summary": "Sponsored the LEARN AI Act (July 2026), referred to the House Education and Workforce Committee.",
+          "sources": [
+            {
+              "title": "Mike Haridopolos - Congress.gov member page",
+              "url": "https://www.congress.gov/member/mike-haridopolos/H001099",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted for H.R. 1, the 2025 reconciliation law (final passage 218-214, July 3, 2025).",
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+              "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+              "date": "2025-07"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the Laken Riley Act (H.R. 29, Jan. 7, 2025; every House Republican voted yes).",
+          "sources": [
+            {
+              "title": "House Roll Call 6 on H.R. 29, Laken Riley Act (264-159)",
+              "url": "https://clerk.house.gov/Votes/20256",
+              "date": "2025-01-07"
+            },
+            {
+              "title": "Axios: House passes Laken Riley Act (all Republicans and 48 Democrats voted yes)",
+              "url": "https://www.axios.com/2025/01/07/house-passes-laken-riley-act-2025",
+              "date": "2025-01-07"
+            }
+          ]
+        },
+        {
+          "item": "Endorsed Dan Green in the 2026 CD 9 Republican primary.",
+          "sources": [
+            {
+              "title": "Air support: Jim Jordan, Mike Haridopolos back Dan Green in CD 9 - Florida Politics",
+              "url": "https://floridapolitics.com/archives/811670-air-support-jim-jordan-mike-haridopolos-back-dan-green-in-cd-9/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Elected to the House in 2024 with about 62% of the vote after serving as Florida Senate President (2010-2012).",
+          "sources": [
+            {
+              "title": "Mike Haridopolos - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Mike_Haridopolos",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Donald Trump",
+          "sources": [
+            {
+              "title": "2026 Florida Primary Results - Inside Elections",
+              "url": "https://insideelections.com/2026-florida-primary-results/",
+              "date": null
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "paul_dellinger",
-      "name": "Paul Dellinger",
+      "name": "Paul Lyal Dellinger",
       "party": "Democratic",
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Paul_Dellinger.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not found",
-      "residence": "Not found",
-      "background": "Paul Dellinger is the Democratic candidate for the 8th District in the Nov. 3, 2026 general election per Ballotpedia. No further biographical information was found in searches run for this guide.",
-      "primary_result": "Democratic nominee per Ballotpedia general-election listing; primary details not found (https://ballotpedia.org/Florida's_8th_Congressional_District_election,_2026)",
+      "website": "https://pldforcongress.com/",
+      "occupation": "Not found (campaign site describes a working-class background tied to Brevard's space industry)",
+      "residence": "Brevard County (per campaign site; city not found)",
+      "background": "Paul Lyal Dellinger's campaign site says he comes from a working-class background rooted in Brevard's space legacy. Ballotpedia lists him as the Democratic candidate in the Aug. 18, 2026 primary and in the Nov. 3 general election against Mike Haridopolos, but Inside Elections reports Jennifer Jenkins as the Democratic nominee (see race note). No news coverage with further biographical detail was found in searches run for this guide.",
+      "primary_result": "UNRESOLVED: Ballotpedia lists Dellinger as the Democratic general-election candidate (https://ballotpedia.org/Florida's_8th_Congressional_District_election,_2026); Inside Elections lists Jennifer Jenkins (https://insideelections.com/2026-florida-primary-results/). See race note.",
       "positions": {
         "taxes": {
           "stance": null,
@@ -216,11 +422,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His issues page proposes renter protections against 'unjust evictions and price gouging' and says he would expand rental assistance, veterans housing programs and community support services to keep families housed.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Issues - Paul Lyal Dellinger For Congress",
+              "url": "https://pldforcongress.com/issues/",
+              "date": null
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -244,11 +456,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His issues page says many part-time, gig and service workers get no employer coverage and accumulate medical debt, and promotes expanding access to telehealth, especially in rural areas. No specific position on Medicaid expansion or ACA subsidies was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Issues - Paul Lyal Dellinger For Congress",
+              "url": "https://pldforcongress.com/issues/",
+              "date": null
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -335,14 +553,54 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says he would expand veterans housing programs as part of his housing-stability plan.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Issues - Paul Lyal Dellinger For Congress",
+              "url": "https://pldforcongress.com/issues/",
+              "date": null
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Grocery price gouging",
+          "summary": "Pledges legislation applying anti-price-gouging rules to essential goods and groceries when markups rise above a set percentage without a supply justification.",
+          "sources": [
+            {
+              "title": "Issues - Paul Lyal Dellinger For Congress",
+              "url": "https://pldforcongress.com/issues/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Renter protections",
+          "summary": "Proposes protections against unjust evictions and rent price gouging, plus expanded rental assistance.",
+          "sources": [
+            {
+              "title": "Issues - Paul Lyal Dellinger For Congress",
+              "url": "https://pldforcongress.com/issues/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Telehealth access",
+          "summary": "Supports policies expanding telehealth, particularly in rural areas.",
+          "sources": [
+            {
+              "title": "Issues - Paul Lyal Dellinger For Congress",
+              "url": "https://pldforcongress.com/issues/",
+              "date": null
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

@@ -10,7 +10,7 @@
   },
   "counties": [],
   "what_it_does": "Represents Florida's 21th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Roster from CBS12 (James Martin wins Democratic primary; Mast unopposed) and Ballotpedia (Robert Ott, NPA, in general election). County makeup under the 2026 map was not captured in search snippets (the pre-2026 district covered Martin and St. Lucie counties and part of Palm Beach County). Sources: https://cbs12.com/news/election/florida-election-news-james-martin-wins-democratic-primary-will-face-brian-mast-in-florida-21-congressional-district-bernard-taylor-concedes-november-3-matchup ; https://ballotpedia.org/Florida's_21st_Congressional_District_election,_2026 Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts; county descriptions here reflect post-redistricting reporting where found (https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map).",
   "candidates": [
     {
@@ -27,11 +27,22 @@
       "primary_result": "Unopposed in Aug 18, 2026 Republican primary (CBS12)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Mast voted for H.R. 1 (the One Big Beautiful Bill Act) on final passage in July 2025. The law made the 2017 individual tax-rate cuts permanent and added new deductions while reducing projected federal spending on Medicaid and SNAP.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -55,39 +66,114 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Mast voted for the Laken Riley Act (mandatory federal detention of unauthorized immigrants arrested for theft and certain other offenses) in January 2025 and for H.R. 1, which appropriated funds for border-wall construction, Border Patrol hiring and expanded immigration detention and removal operations.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            },
+            {
+              "title": "House Roll Call 23 (S. 5, Laken Riley Act, Jan. 22, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Mast identifies as pro-life with exceptions for the life of the mother, rape and incest; he welcomed the overturning of Roe v. Wade and has supported bills barring taxpayer funding of abortion and protecting infants born alive after attempted abortions. No statement on Florida's six-week law was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Mast Statement on Draft Supreme Court Decision Overturning Roe v. Wade (house.gov)",
+              "url": "https://mast.house.gov/2022/5/mast-statement-on-draft-supreme-court-decision-overturning-roe-v-wade",
+              "date": "2022-05"
+            },
+            {
+              "title": "Brian Mast on Abortion (OnTheIssues)",
+              "url": "https://www.ontheissues.org/FL/Brian_Mast_Abortion.htm",
+              "date": null
+            },
+            {
+              "title": "Rep. Brian Mast | SBA Pro-Life America Scorecard",
+              "url": "https://sbaprolife.org/representative/brian-mast",
+              "date": null
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Mast's record is mixed relative to this statement. After the 2018 Parkland shooting he publicly supported defining and banning new sales of assault-style weapons, more comprehensive background checks, a bump-stock ban and raising the purchase age for certain firearms, while opposing confiscation of legally owned guns. He also describes himself as a strong Second Amendment supporter and is reported to carry an NRA-PVF 'AQ' rating and endorsement in 2026. No 2026 statement on Florida's red-flag law or the 21 purchase age was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CBS 12 Exclusive: Congressman Brian Mast supports assault weapon ban",
+              "url": "https://cbs12.com/news/local/cbs-12-exclusive-congressman-brian-mast-supports-assault-weapon-ban",
+              "date": "2018-02"
+            },
+            {
+              "title": "How one Florida Republican came to support a ban on assault weapons after the Parkland shooting (Washington Post)",
+              "url": "https://www.washingtonpost.com/powerpost/how-one-florida-republican-came-to-support-a-ban-on-assault-weapons-after-the-parkland-shooting/2018/02/27/ce2693c8-1b59-11e8-ae5a-16e60e4605f3_story.html",
+              "date": "2018-02-27"
+            },
+            {
+              "title": "GOP lawmaker calls for assault rifle ban (The Hill)",
+              "url": "https://thehill.com/homenews/house/375312-gop-rep-the-2nd-amendment-does-not-guarantee-that-every-civilian-can-bear-any/",
+              "date": "2018-02"
+            },
+            {
+              "title": "Brian Mast, Republican U.S. House Candidate 2026 (Battleground Vote; NRA-PVF 'AQ' rating noted)",
+              "url": "https://battlegroundvote.com/florida/brian-mast",
+              "date": "2026"
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Mast voted for H.R. 1, which added work-reporting requirements and more frequent eligibility checks for Medicaid expansion enrollees and reduced projected federal Medicaid spending. No statement on expanding Medicaid in Florida or extending ACA subsidies was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Mast's House website says he will not support changing Social Security for current retirees or workers near retirement; he has not addressed benefit changes for younger workers or new revenue.",
+          "quote": "I will not support changing Social Security for current retirees or for workers near retirement.",
+          "sources": [
+            {
+              "title": "Defending Seniors - Congressman Brian Mast (house.gov)",
+              "url": "https://mast.house.gov/seniors",
+              "date": null
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -118,11 +204,22 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Mast voted for the SAVE Act (H.R. 22), which would require documentary proof of U.S. citizenship to register to vote in federal elections. No statement on mail voting or drop boxes was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "House Roll Call 102 (H.R. 22, SAVE Act, Apr. 10, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025102",
+              "date": "2025-04-10"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -153,18 +250,45 @@
           "sources": []
         },
         "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "As House Foreign Affairs chairman, Mast said in May 2026 he does not expect another U.S. security supplemental for Ukraine 'for $6 billion, $60 billion, or any other amount,' that Europe should take more responsibility because the war is 'in their backyard,' while the U.S. would continue intelligence support and allow weapons sales and transfers; in June 2026 he called a House-passed Ukraine aid and Russia sanctions bill 'unserious' and 'a cudgel to fight against President Trump.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Top House Republican Says No New US Ukraine Supplemental Likely, Backs More Russia Sanctions (RFE/RL via GlobalSecurity)",
+              "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260516-rferl01.htm",
+              "date": "2026-05-16"
+            },
+            {
+              "title": "House passes bill to aid Ukraine and sanction Russia (Washington Times)",
+              "url": "https://www.washingtontimes.com/news/2026/jun/4/house-passes-bill-aid-ukraine-sanction-russia/",
+              "date": "2026-06-04"
+            },
+            {
+              "title": "House passes bill to provide more Ukraine aid and impose new sanctions on Russia (PBS News)",
+              "url": "https://www.pbs.org/newshour/politics/house-passes-bill-to-provide-more-ukraine-aid-and-impose-new-sanctions-on-russia",
+              "date": "2026-06"
+            }
+          ]
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Mast criticized a June 2026 Ukraine aid bill as 'a cudgel to fight against President Trump' and, as Foreign Affairs chairman, applauded the administration's U.S.-Ukraine minerals deal.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "House passes bill to aid Ukraine and sanction Russia (Washington Times)",
+              "url": "https://www.washingtontimes.com/news/2026/jun/4/house-passes-bill-aid-ukraine-sanction-russia/",
+              "date": "2026-06-04"
+            },
+            {
+              "title": "Chairman Mast Applauds US-Ukraine Minerals Deal (House Foreign Affairs Committee)",
+              "url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-applauds-us-ukraine-minerals-deal",
+              "date": "2025"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -174,8 +298,149 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "House Foreign Affairs Committee chairmanship",
+          "summary": "Chairs the committee; has backed additional Russia sanctions while opposing new large Ukraine aid packages, and praised the U.S.-Ukraine minerals agreement.",
+          "sources": [
+            {
+              "title": "Top House Republican Says No New US Ukraine Supplemental Likely, Backs More Russia Sanctions (RFE/RL via GlobalSecurity)",
+              "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260516-rferl01.htm",
+              "date": "2026-05-16"
+            },
+            {
+              "title": "Chairman Mast Applauds US-Ukraine Minerals Deal (House Foreign Affairs Committee)",
+              "url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-applauds-us-ukraine-minerals-deal",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "title": "Seniors and Social Security pledge",
+          "summary": "Pledges not to change Social Security for current retirees or workers near retirement.",
+          "sources": [
+            {
+              "title": "Defending Seniors - Congressman Brian Mast (house.gov)",
+              "url": "https://mast.house.gov/seniors",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Born-alive and taxpayer-funding abortion bills",
+          "summary": "Supported legislation to prohibit taxpayer funding of abortion and add protections for infants born alive after attempted abortion.",
+          "sources": [
+            {
+              "title": "Brian Mast on Abortion (OnTheIssues)",
+              "url": "https://www.ontheissues.org/FL/Brian_Mast_Abortion.htm",
+              "date": null
+            },
+            {
+              "title": "Rep. Brian Mast | SBA Pro-Life America Scorecard",
+              "url": "https://sbaprolife.org/representative/brian-mast",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "2018 assault-weapons position",
+          "summary": "After Parkland, wrote and said he would support a ban on new sales of assault-style weapons, a bump-stock ban and a higher purchase age.",
+          "sources": [
+            {
+              "title": "How one Florida Republican came to support a ban on assault weapons after the Parkland shooting (Washington Post)",
+              "url": "https://www.washingtonpost.com/powerpost/how-one-florida-republican-came-to-support-a-ban-on-assault-weapons-after-the-parkland-shooting/2018/02/27/ce2693c8-1b59-11e8-ae5a-16e60e4605f3_story.html",
+              "date": "2018-02-27"
+            },
+            {
+              "title": "GOP lawmaker calls for assault rifle ban (The Hill)",
+              "url": "https://thehill.com/homenews/house/375312-gop-rep-the-2nd-amendment-does-not-guarantee-that-every-civilian-can-bear-any/",
+              "date": "2018-02"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted yes on final passage of H.R. 1, the One Big Beautiful Bill Act (July 3, 2025), which extended the 2017 tax cuts, funded border and immigration enforcement, and changed Medicaid and SNAP eligibility rules.",
+          "sources": [
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on S. 5, the Laken Riley Act (Jan. 22, 2025), requiring federal detention of unauthorized immigrants charged with theft-related and certain violent offenses.",
+          "sources": [
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            },
+            {
+              "title": "House Roll Call 23 (S. 5, Laken Riley Act, Jan. 22, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on H.R. 22, the SAVE Act (Apr. 10, 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+          "sources": [
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "House Roll Call 102 (H.R. 22, SAVE Act, Apr. 10, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025102",
+              "date": "2025-04-10"
+            }
+          ]
+        },
+        {
+          "item": "In 2018, after the Parkland shooting, publicly supported a ban on new sales of assault-style weapons, a bump-stock ban, expanded background checks and raising the purchase age for certain firearms (CBS12; Washington Post; The Hill).",
+          "sources": [
+            {
+              "title": "CBS 12 Exclusive: Congressman Brian Mast supports assault weapon ban",
+              "url": "https://cbs12.com/news/local/cbs-12-exclusive-congressman-brian-mast-supports-assault-weapon-ban",
+              "date": "2018-02"
+            },
+            {
+              "title": "How one Florida Republican came to support a ban on assault weapons after the Parkland shooting (Washington Post)",
+              "url": "https://www.washingtonpost.com/powerpost/how-one-florida-republican-came-to-support-a-ban-on-assault-weapons-after-the-parkland-shooting/2018/02/27/ce2693c8-1b59-11e8-ae5a-16e60e4605f3_story.html",
+              "date": "2018-02-27"
+            },
+            {
+              "title": "GOP lawmaker calls for assault rifle ban (The Hill)",
+              "url": "https://thehill.com/homenews/house/375312-gop-rep-the-2nd-amendment-does-not-guarantee-that-every-civilian-can-bear-any/",
+              "date": "2018-02"
+            }
+          ]
+        },
+        {
+          "item": "Said in May 2026 he does not expect Congress to pass another Ukraine security supplemental and called a June 2026 House Ukraine aid/sanctions bill 'unserious.'",
+          "sources": [
+            {
+              "title": "Top House Republican Says No New US Ukraine Supplemental Likely, Backs More Russia Sanctions (RFE/RL via GlobalSecurity)",
+              "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260516-rferl01.htm",
+              "date": "2026-05-16"
+            },
+            {
+              "title": "House passes bill to aid Ukraine and sanction Russia (Washington Times)",
+              "url": "https://www.washingtontimes.com/news/2026/jun/4/house-passes-bill-aid-ukraine-sanction-russia/",
+              "date": "2026-06-04"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -185,11 +450,11 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/James_Martin.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not found",
+      "website": "https://www.jamesmartinforflorida.com/",
+      "occupation": "Former White House national security aide (chief of staff for national security affairs and executive secretary, Office of the Vice President); U.S. Coast Guard veteran",
       "residence": "Not found",
-      "background": "James Martin won the closely contested Aug. 18, 2026 Democratic primary, called by the Associated Press, over firefighter Bernard Taylor, who conceded.",
-      "primary_result": "Won Aug 18, 2026 Democratic primary over Bernard Taylor (AP call; CBS12); percentages not captured",
+      "background": "James Martin, 33, is a fourth-generation Floridian, U.S. Coast Guard veteran and former White House national security aide who served as chief of staff for national security affairs and executive secretary in the Office of the Vice President during the Biden-Harris administration. He launched his campaign against Rep. Brian Mast in 2025 and won the Aug. 18, 2026 Democratic primary by 359 votes (50.4% to 49.6%) over firefighter Bernard Taylor, who conceded after the AP called the race. He was endorsed by Kamala Harris.",
+      "primary_result": "Won Aug 18, 2026 Democratic primary 50.4%-49.6% (359 votes out of nearly 48,000) over Bernard Taylor (Florida Politics; AP call reported by CBS12)",
       "positions": {
         "taxes": {
           "stance": null,
@@ -220,11 +485,22 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Martin says the immigration system should be overhauled to be 'safe, fair, transparent, and humane': investing in immigration judges to clear asylum backlogs, ending the use of enforcement 'as a political weapon,' creating a workable path to legal status for long-term residents and fixing the visa system.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "James Martin, Bernard Taylor compete for the chance to unseat Brian Mast in CD 21 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/811386-james-martin-bernard-taylor-compete-for-the-chance-to-unseat-brian-mast-in-cd-21/",
+              "date": "2026-08"
+            },
+            {
+              "title": "James Martin on Immigration, Data Centers & the Future of CD-21 | Full Interview (YouTube)",
+              "url": "https://www.youtube.com/watch?v=XyPdrE2B2Nw",
+              "date": "2026"
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -241,18 +517,40 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would restore Affordable Care Act subsidies and create a public health-insurance option to increase competition and expand access.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "James Martin Outlines Campaign Priorities in Florida's 21st Congressional District Democratic Primary (yourNEWS)",
+              "url": "https://yournews.com/2026/08/06/7144926/james-martin-outlines-campaign-priorities-in-floridas-21st-congressional-district/",
+              "date": "2026-08-06"
+            },
+            {
+              "title": "James Martin, Bernard Taylor compete for the chance to unseat Brian Mast in CD 21 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/811386-james-martin-bernard-taylor-compete-for-the-chance-to-unseat-brian-mast-in-cd-21/",
+              "date": "2026-08"
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Pledges he 'will never vote to cut Social Security, Medicare, or veterans' benefits.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "James Martin Outlines Campaign Priorities in Florida's 21st Congressional District Democratic Primary (yourNEWS)",
+              "url": "https://yournews.com/2026/08/06/7144926/james-martin-outlines-campaign-priorities-in-floridas-21st-congressional-district/",
+              "date": "2026-08-06"
+            },
+            {
+              "title": "James Martin For Florida | Candidate for Congress 2026 (campaign site)",
+              "url": "https://www.jamesmartinforflorida.com/",
+              "date": null
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -262,11 +560,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Names clean water one of his two top priorities alongside cost of living.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "James Martin says cost of living, clean water top priorities in challenge to Brian Mast (CBS12)",
+              "url": "https://cbs12.com/news/election/james-martin-says-cost-of-living-clean-water-top-priorities-in-challenge-to-brian-mast",
+              "date": "2026"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -311,11 +615,22 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Says he would push to repeal tariffs he believes are raising consumer prices.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "James Martin Outlines Campaign Priorities in Florida's 21st Congressional District Democratic Primary (yourNEWS)",
+              "url": "https://yournews.com/2026/08/06/7144926/james-martin-outlines-campaign-priorities-in-floridas-21st-congressional-district/",
+              "date": "2026-08-06"
+            },
+            {
+              "title": "James Martin, Bernard Taylor compete for the chance to unseat Brian Mast in CD 21 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/811386-james-martin-bernard-taylor-compete-for-the-chance-to-unseat-brian-mast-in-cd-21/",
+              "date": "2026-08"
+            }
+          ]
         },
         "ukraine": {
           "stance": null,
@@ -332,16 +647,119 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "A Coast Guard veteran, he pledges never to vote to cut veterans' benefits; specific VA-expansion proposals were not captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "James Martin Outlines Campaign Priorities in Florida's 21st Congressional District Democratic Primary (yourNEWS)",
+              "url": "https://yournews.com/2026/08/06/7144926/james-martin-outlines-campaign-priorities-in-floridas-21st-congressional-district/",
+              "date": "2026-08-06"
+            },
+            {
+              "title": "Meet James - James Martin For Congress (campaign site)",
+              "url": "https://www.jamesmartinforflorida.com/about",
+              "date": null
+            }
+          ]
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "Cost of living",
+          "summary": "Says rising costs are the top issue and that Washington has failed to deliver on pocketbook issues; would repeal tariffs he says raise prices.",
+          "sources": [
+            {
+              "title": "James Martin says cost of living, clean water top priorities in challenge to Brian Mast (CBS12)",
+              "url": "https://cbs12.com/news/election/james-martin-says-cost-of-living-clean-water-top-priorities-in-challenge-to-brian-mast",
+              "date": "2026"
+            },
+            {
+              "title": "James Martin Outlines Campaign Priorities in Florida's 21st Congressional District Democratic Primary (yourNEWS)",
+              "url": "https://yournews.com/2026/08/06/7144926/james-martin-outlines-campaign-priorities-in-floridas-21st-congressional-district/",
+              "date": "2026-08-06"
+            }
+          ]
+        },
+        {
+          "title": "Clean water",
+          "summary": "Lists clean-water concerns as a top priority for the Treasure Coast district.",
+          "sources": [
+            {
+              "title": "James Martin says cost of living, clean water top priorities in challenge to Brian Mast (CBS12)",
+              "url": "https://cbs12.com/news/election/james-martin-says-cost-of-living-clean-water-top-priorities-in-challenge-to-brian-mast",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Data centers",
+          "summary": "Discussed data-center development and its local impacts in a long-form campaign interview.",
+          "sources": [
+            {
+              "title": "James Martin on Immigration, Data Centers & the Future of CD-21 | Full Interview (YouTube)",
+              "url": "https://www.youtube.com/watch?v=XyPdrE2B2Nw",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Accountable representation / democracy",
+          "summary": "Argues the incumbent has 'turned a blind eye to attacks on democracy at home' and presents himself as a pragmatic Democrat who can win independents and Republicans.",
+          "sources": [
+            {
+              "title": "James Martin says cost of living, clean water top priorities in challenge to Brian Mast (CBS12)",
+              "url": "https://cbs12.com/news/election/james-martin-says-cost-of-living-clean-water-top-priorities-in-challenge-to-brian-mast",
+              "date": "2026"
+            },
+            {
+              "title": "James Martin, Bernard Taylor compete for the chance to unseat Brian Mast in CD 21 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/811386-james-martin-bernard-taylor-compete-for-the-chance-to-unseat-brian-mast-in-cd-21/",
+              "date": "2026-08"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Won the Democratic primary by 359 votes out of nearly 48,000 cast (50.4% to 49.6%) over Bernard Taylor; the AP called the race and Taylor conceded.",
+          "sources": [
+            {
+              "title": "James Martin edges out Bernard Taylor for Democratic nomination in CD 21 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/814669-james-martin-edges-out-bernard-taylor-for-democratic-nomination-in-cd-21/",
+              "date": "2026-08"
+            },
+            {
+              "title": "James Martin wins Democratic primary, will face Brian Mast (CBS12)",
+              "url": "https://cbs12.com/news/election/florida-election-news-james-martin-wins-democratic-primary-will-face-brian-mast-in-florida-21-congressional-district-bernard-taylor-concedes-november-3-matchup",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "item": "Reported raising $150,000 on his first day as a candidate.",
+          "sources": [
+            {
+              "title": "James Martin launches bid to unseat 'out of touch' Brian Mast in CD 21, raises $150K in first day (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/758992-james-martin-launches-bid-to-unseat-out-of-touch-brian-mast-in-cd-21-raises-150k-in-first-day/",
+              "date": "2025"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Former Vice President Kamala Harris",
+          "sources": [
+            {
+              "title": "'Ready to deliver': Kamala Harris endorses 'patriot' James Martin in race to flip CD 21 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/810087-ready-to-deliver-kamala-harris-endorses-patriot-james-martin-in-race-to-flip-cd-21/",
+              "date": "2026-08"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "robert_ott",
@@ -350,10 +768,10 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Robert_Ott.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not found",
+      "website": "https://www.robertottforcongress.com/",
+      "occupation": "Educator (PhD) and author; former mortgage loan officer and bank assistant vice president",
       "residence": "Not found",
-      "background": "Robert Ott is a no-party-affiliation candidate listed by Ballotpedia as running in the Nov. 3, 2026 general election for District 21.",
+      "background": "Robert Ott is an educator with a doctorate, an author, and a former mortgage loan officer and assistant vice president at The Bank of New York and Citigroup, with more than 20 years in finance and public education. He launched a no-party-affiliation bid for the 21st District promising 'real, workable solutions' and is listed by Ballotpedia on the Nov. 3, 2026 ballot.",
       "primary_result": "No primary (NPA candidate; Ballotpedia)",
       "positions": {
         "taxes": {
@@ -378,11 +796,22 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Ott supports curbing institutional real-estate speculation, increasing transparency in property ownership, and ensuring teachers, nurses, first responders and first-time homebuyers have fair access to housing.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Psychologist, educator Robert Ott launches independent CD 21 bid, promises 'real, workable solutions' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/780558-psychologist-educator-robert-ott-launches-independent-cd-21-bid-promises-real-workable-solutions/",
+              "date": "2026"
+            },
+            {
+              "title": "Robert Ott for Congress | Florida District 21 (campaign site)",
+              "url": "https://www.robertottforcongress.com/",
+              "date": null
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -408,9 +837,15 @@
         "healthcare": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "Lists health-care access among his priorities, but no specific position on Medicaid expansion or ACA subsidies was found as of Sept 2026.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Psychologist, educator Robert Ott launches independent CD 21 bid, promises 'real, workable solutions' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/780558-psychologist-educator-robert-ott-launches-independent-cd-21-bid-promises-real-workable-solutions/",
+              "date": "2026"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -504,8 +939,47 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Housing affordability and institutional speculation",
+          "summary": "Wants to curb institutional real-estate speculation and increase transparency in property ownership.",
+          "sources": [
+            {
+              "title": "Psychologist, educator Robert Ott launches independent CD 21 bid, promises 'real, workable solutions' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/780558-psychologist-educator-robert-ott-launches-independent-cd-21-bid-promises-real-workable-solutions/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Economic fairness and constitutional governance",
+          "summary": "Campaign frames its platform around working families, seniors and small-business owners with 'practical, independent leadership.'",
+          "sources": [
+            {
+              "title": "Psychologist, educator Robert Ott launches independent CD 21 bid, promises 'real, workable solutions' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/780558-psychologist-educator-robert-ott-launches-independent-cd-21-bid-promises-real-workable-solutions/",
+              "date": "2026"
+            },
+            {
+              "title": "Robert Ott for Congress | Florida District 21 (campaign site)",
+              "url": "https://www.robertottforcongress.com/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "State voter records show he was registered with the Independent Party of Florida as recently as 2025, was a registered Republican from 2021 to 2023, and had no party affiliation before that (Florida Politics).",
+          "sources": [
+            {
+              "title": "Psychologist, educator Robert Ott launches independent CD 21 bid, promises 'real, workable solutions' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/780558-psychologist-educator-robert-ott-launches-independent-cd-21-bid-promises-real-workable-solutions/",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

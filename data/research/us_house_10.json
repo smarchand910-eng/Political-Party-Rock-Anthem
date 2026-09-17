@@ -1,184 +1,343 @@
 {
-  "race_id": "us_house_10",
-  "title": "U.S. House, District 10",
-  "level": "federal",
-  "office_group": "Federal",
-  "term": "2 years",
-  "jurisdiction": {
-    "type": "cd",
-    "id": 10
-  },
-  "counties": [
-    "Orange (part)"
-  ],
-  "what_it_does": "Represents Florida's 10th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "partial",
-  "verified_ballot_note": "CONFLICTING SOURCES. A ClickOrlando report at the close of candidate qualifying (June 12, 2026) is headlined 'Qualifying ends in Florida: Maxwell Frost reelected, others face crowded primaries' with URL slug 'maxwell-frost-appears-unopposed' (https://www.clickorlando.com/election-2026/2026/06/12/candidate-qualifying-ends-in-florida-maxwell-frost-appears-unopposed-others-face-crowded-primaries/), which would mean Frost had no qualified opponent and is elected without appearing on the Nov. 3 ballot. A Ballotpedia snippet, however, lists Stuart Farber, Willie Montague, Angela Marie Walls-Windhauser and Vibert White in an Aug. 18 Republican primary (https://ballotpedia.org/Florida's_10th_Congressional_District_election,_2026), and no result for that primary was found. The roster below lists only Frost; whether a Republican or NPA opponent appears on the ballot must be verified before publication. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide. Coverage set to 'partial' because the general-election opponent, if any, could not be confirmed.",
-  "candidates": [
-    {
-      "id": "maxwell_frost",
-      "name": "Maxwell Alejandro Frost",
-      "party": "Democratic",
-      "incumbent": true,
-      "photo_url": "https://www.congress.gov/img/member/f000476_200.jpg",
-      "photo_source": "congress.gov member portrait",
-      "website": "https://www.frostforcongress.com/",
-      "occupation": "U.S. Representative (since 2023)",
-      "residence": "Orlando, Orange County (not re-verified)",
-      "background": "Maxwell Alejandro Frost has represented the 10th District since 2023, when he was elected at age 25 as one of the first Gen Z members of Congress. Ballotpedia lists him as the only Democratic candidate in the Aug. 18, 2026 primary, and ClickOrlando reported at the end of qualifying that he appeared to be unopposed.",
-      "primary_result": "Uncontested in Aug 18, 2026 Democratic primary (Ballotpedia: https://ballotpedia.org/Maxwell_Alejandro_Frost); general-election opposition unconfirmed (see race note)",
-      "positions": {
-        "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "marijuana": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        }
+ "race_id": "us_house_10",
+ "title": "U.S. House, District 10",
+ "level": "federal",
+ "office_group": "Federal",
+ "term": "2 years",
+ "jurisdiction": {
+  "type": "cd",
+  "id": 10
+ },
+ "counties": [
+  "Orange (part)"
+ ],
+ "what_it_does": "Represents Florida's 10th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
+ "coverage": "partial",
+ "verified_ballot_note": "RESOLVED: Maxwell Frost has no November opponent. Florida Politics reported at the June 2026 close of qualifying that Frost 'secures another term in Congress unopposed' (https://floridapolitics.com/archives/801710-maxwell-frost-effectively-secures-another-term-in-congress/); a syndicated report says no Republican qualified and a prospective write-in, Brent Lawhon, failed to qualify (https://www.yahoo.com/news/politics/articles/maxwell-frost-technically-already-won-130649671.html; https://www.miamitimesonline.com/news/florida/maxwell-frost-secures-another-term-in-congress-unopposed/article_a9e9073f-b810-426f-a337-422f7ae9377f.html). ClickOrlando likewise reported him unopposed at the end of qualifying (https://www.clickorlando.com/election-2026/2026/06/12/candidate-qualifying-ends-in-florida-maxwell-frost-appears-unopposed-others-face-crowded-primaries/). The earlier Ballotpedia snippet listing Stuart Farber, Willie Montague and Angela Marie Walls-Windhaus appears to reflect pre-qualifying filings. Under Florida law an unopposed candidate is deemed elected and the race does not appear on the ballot, so voters in the 10th District should not expect to see this contest on Nov. 3; confirm with the Orange County Supervisor of Elections sample ballot. Florida's Legislature passed a new congressional map in the April 2026 special session and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026).",
+ "candidates": [
+  {
+   "id": "maxwell_frost",
+   "name": "Maxwell Alejandro Frost",
+   "party": "Democratic",
+   "incumbent": true,
+   "photo_url": "https://www.congress.gov/img/member/f000476_200.jpg",
+   "photo_source": "congress.gov member portrait",
+   "website": "https://www.frostforcongress.com/",
+   "occupation": "U.S. Representative (since 2023)",
+   "residence": "Orlando, Orange County (not re-verified)",
+   "background": "Maxwell Alejandro Frost, a former organizer with March For Our Lives, has represented the 10th District since 2023, when he was elected at age 25 as one of the first Gen Z members of Congress. He was the only Democrat to qualify in 2026, no Republican qualified, and a prospective write-in candidate failed to qualify, so he was unopposed for re-election when qualifying closed in June 2026.",
+   "primary_result": "Unopposed in both the Aug. 18, 2026 Democratic primary and the Nov. 3 general election; effectively re-elected at the close of qualifying (Florida Politics: https://floridapolitics.com/archives/801710-maxwell-frost-effectively-secures-another-term-in-congress/)",
+   "positions": {
+    "taxes": {
+     "stance": -1,
+     "confidence": "record",
+     "summary": "Frost voted against H.R. 1 (the 2025 reconciliation law), which paired extended tax cuts with reductions in projected Medicaid and SNAP spending. All House Democrats voted no.",
+     "quote": null,
+     "sources": [
+      {
+       "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+       "url": "https://clerk.house.gov/Votes/2025190",
+       "date": "2025-07-03"
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      {
+       "title": "H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+       "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+       "date": "2025-07-04"
+      },
+      {
+       "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+       "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+       "date": "2025-07"
+      }
+     ]
+    },
+    "property_tax": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "insurance": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "housing": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "In March 2026 Frost introduced the PRO Manufactured Home Communities Act to help residents buy and own their mobile-home parks, and co-introduced the bipartisan Fair Future Act (H.R. 7765) to repeal a 1988 provision that permanently bars people with certain prior drug convictions from some rental housing.",
+     "quote": null,
+     "sources": [
+      {
+       "title": "Press Releases - Congressman Maxwell Frost",
+       "url": "https://frost.house.gov/media/press-releases?page=3",
+       "date": "2026-03"
+      }
+     ]
+    },
+    "immigration": {
+     "stance": -2,
+     "confidence": "record",
+     "summary": "Frost voted against the Laken Riley Act in January 2025, and in a January 2026 statement criticized the administration for 'sending ICE to neighborhoods.'",
+     "quote": null,
+     "sources": [
+      {
+       "title": "House Roll Call 6 on H.R. 29, Laken Riley Act (264-159)",
+       "url": "https://clerk.house.gov/Votes/20256",
+       "date": "2025-01-07"
+      },
+      {
+       "title": "S. 5 - Laken Riley Act (119th Congress), enacted",
+       "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+       "date": "2025-01-29"
+      },
+      {
+       "title": "Florida's Voice: Six Florida Democrats vote against Laken Riley Act (Castor, Cherfilus-McCormick, Frankel, Frost, Soto, Wasserman Schultz)",
+       "url": "https://flvoicenews.com/six-florida-democrats-vote-against-laken-riley-act-meant-to-target-illegal-alien-criminals-nationwide/",
+       "date": "2025-01"
+      },
+      {
+       "title": "Maxwell Frost statement on national security and foreign policy (Congressional Record, Jan. 2026)",
+       "url": "https://www.moderatepoliticians.com/issues/national-security-and-counterterrorism/2026-01-04/statement/F000476-CREC-2026-01-08-0-foreign%20policy",
+       "date": "2026-01"
+      }
+     ]
+    },
+    "abortion": {
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "His official biography says he has 'championed abortion rights for Floridians.'",
+     "quote": null,
+     "sources": [
+      {
+       "title": "About - Congressman Maxwell Frost",
+       "url": "https://frost.house.gov/about",
+       "date": null
+      }
+     ]
+    },
+    "guns": {
+     "stance": 2,
+     "confidence": "stated",
+     "summary": "Before Congress he worked with March For Our Lives, which his biography describes as fighting 'for comprehensive gun safety laws.'",
+     "quote": null,
+     "sources": [
+      {
+       "title": "About - Congressman Maxwell Frost",
+       "url": "https://frost.house.gov/about",
+       "date": null
+      }
+     ]
+    },
+    "healthcare": {
+     "stance": 2,
+     "confidence": "record",
+     "summary": "Frost voted against H.R. 1 (all House Democrats voted no) and in January 2026 criticized the President for 'ripping away healthcare.'",
+     "quote": null,
+     "sources": [
+      {
+       "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+       "url": "https://clerk.house.gov/Votes/2025190",
+       "date": "2025-07-03"
+      },
+      {
+       "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+       "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+       "date": "2025-07"
+      },
+      {
+       "title": "Maxwell Frost statement (Congressional Record, Jan. 2026)",
+       "url": "https://www.moderatepoliticians.com/issues/national-security-and-counterterrorism/2026-01-04/statement/F000476-CREC-2026-01-08-0-foreign%20policy",
+       "date": "2026-01"
+      }
+     ]
+    },
+    "social_security": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "education_choice": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "environment": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "growth": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "marijuana": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "elections": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "crime": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "lgbtq": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "energy": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "tariffs": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "ukraine": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
+    },
+    "trump": {
+     "stance": -2,
+     "confidence": "stated",
+     "summary": "In a January 2026 floor statement Frost criticized President Trump for 'ripping away healthcare, sending ICE to neighborhoods, deploying soldiers to new global conflicts, and flooding billionaires and megacorporations with free money.'",
+     "quote": null,
+     "sources": [
+      {
+       "title": "Maxwell Frost statement (Congressional Record, Jan. 2026)",
+       "url": "https://www.moderatepoliticians.com/issues/national-security-and-counterterrorism/2026-01-04/statement/F000476-CREC-2026-01-08-0-foreign%20policy",
+       "date": "2026-01"
+      }
+     ]
+    },
+    "veterans": {
+     "stance": null,
+     "confidence": "unknown",
+     "summary": "No public position found as of Sept 2026.",
+     "quote": null,
+     "sources": []
     }
-  ]
+   },
+   "other_issues": [
+    {
+     "title": "Manufactured-home community ownership",
+     "summary": "Introduced the PRO Manufactured Home Communities Act (March 2026) to help residents purchase their parks from investors.",
+     "sources": [
+      {
+       "title": "Press Releases - Congressman Maxwell Frost",
+       "url": "https://frost.house.gov/media/press-releases?page=3",
+       "date": null
+      }
+     ]
+    },
+    {
+     "title": "Fair Future Act (H.R. 7765)",
+     "summary": "Bipartisan bill with Rep. Ryan Mackenzie to end the permanent rental-housing ban for people with prior drug convictions.",
+     "sources": [
+      {
+       "title": "Press Releases - Congressman Maxwell Frost",
+       "url": "https://frost.house.gov/media/press-releases?page=3",
+       "date": null
+      }
+     ]
+    },
+    {
+     "title": "Supporting other progressive candidates",
+     "summary": "With no 2026 opponent, Frost has said he is using his time to help other progressive candidates.",
+     "sources": [
+      {
+       "title": "Maxwell Frost Has 'Technically' Already Won Reelection - Now He's Helping Other Progressives",
+       "url": "https://www.yahoo.com/news/politics/articles/maxwell-frost-technically-already-won-130649671.html",
+       "date": null
+      }
+     ]
+    }
+   ],
+   "record": [
+    {
+     "item": "Voted against H.R. 1, the 2025 reconciliation law (all House Democrats voted no).",
+     "sources": [
+      {
+       "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+       "url": "https://clerk.house.gov/Votes/2025190",
+       "date": "2025-07-03"
+      },
+      {
+       "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+       "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+       "date": "2025-07"
+      }
+     ]
+    },
+    {
+     "item": "Voted against the Laken Riley Act (Jan. 2025); the Republican Party of Florida ran ads criticizing him and Rep. Soto over the vote.",
+     "sources": [
+      {
+       "title": "House Roll Call 6 on H.R. 29, Laken Riley Act (264-159)",
+       "url": "https://clerk.house.gov/Votes/20256",
+       "date": "2025-01-07"
+      },
+      {
+       "title": "Florida's Voice: Six Florida Democrats vote against Laken Riley Act (Castor, Cherfilus-McCormick, Frankel, Frost, Soto, Wasserman Schultz)",
+       "url": "https://flvoicenews.com/six-florida-democrats-vote-against-laken-riley-act-meant-to-target-illegal-alien-criminals-nationwide/",
+       "date": "2025-01"
+      },
+      {
+       "title": "Florida GOP runs ad slamming Reps. Maxwell Frost, Darren Soto for opposing Laken Riley Act",
+       "url": "https://flvoicenews.com/florida-gop-runs-ad-slamming-reps-maxwell-frost-darren-soto-for-opposing-laken-riley-act/",
+       "date": null
+      }
+     ]
+    },
+    {
+     "item": "Re-elected without opposition in 2026 after no Republican qualified.",
+     "sources": [
+      {
+       "title": "Maxwell Frost secures another term in Congress unopposed - Florida Politics",
+       "url": "https://floridapolitics.com/archives/801710-maxwell-frost-effectively-secures-another-term-in-congress/",
+       "date": null
+      }
+     ]
+    }
+   ],
+   "endorsements": []
+  }
+ ],
+ "on_november_ballot": false,
+ "decided_note": "No Republican qualified and the lone write-in candidate failed to qualify, so Rep. Maxwell Frost is re-elected without appearing on the November ballot (Florida Politics, ClickOrlando)."
 }

@@ -15,8 +15,8 @@
     "Hillsborough (part, per 2026 reporting on redrawn district)"
   ],
   "what_it_does": "Represents Florida's 12th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
-  "verified_ballot_note": "WUSF (Aug 12 and Aug 18, 2026) and Florida Politics report the November ballot is incumbent Gus Bilirakis (R), Democratic primary winner Kimberly Overman and no-party candidate Branden Schivener (https://www.wusf.org/politics-issues/2026-08-18/pasco-primary-results-2026-kimberly-overman-wins-primary-setting-up-face-off-against-us-rep-gus-bilirakis ; https://www.wusf.org/politics-issues/2026-08-12/democrats-face-uphill-battle-quest-to-wrest-the-seat-held-by-congressman-gus-bilirakis ; https://floridapolitics.com/archives/815521-despite-financial-disadvantage-kimberly-overman-wins-democratic-primary-to-face-gus-bilirakis-in-cd-12/). Write-in candidates not confirmed. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide.",
+  "coverage": "partial",
+  "verified_ballot_note": "WUSF (Aug 12 and Aug 18, 2026) and Florida Politics report the November ballot is incumbent Gus Bilirakis (R), Democratic primary winner Kimberly Overman and no-party candidate Branden Schivener (https://www.wusf.org/politics-issues/2026-08-18/pasco-primary-results-2026-kimberly-overman-wins-primary-setting-up-face-off-against-us-rep-gus-bilirakis ; https://www.wusf.org/politics-issues/2026-08-12/democrats-face-uphill-battle-quest-to-wrest-the-seat-held-by-congressman-gus-bilirakis ; https://floridapolitics.com/archives/815521-despite-financial-disadvantage-kimberly-overman-wins-democratic-primary-to-face-gus-bilirakis-in-cd-12/). Write-in candidates not confirmed. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide. NOTE ON NAME SPELLING: the no-party candidate's own campaign site (https://brandenscrivenerfl.info/) and Ballotpedia (https://ballotpedia.org/Florida's_12th_Congressional_District_election,_2026) spell his name 'Branden Scrivener'; WUSF's report used 'Schivener'. Confirm the ballot spelling with the Division of Elections.",
   "candidates": [
     {
       "id": "gus_bilirakis",
@@ -28,15 +28,36 @@
       "website": null,
       "occupation": "U.S. Representative (since 2007)",
       "residence": "Palm Harbor, Pinellas County (per prior reporting; not re-verified)",
-      "background": "Gus Bilirakis has served in the U.S. House since 2007. He had no Republican primary opponent in 2026 and advanced directly to the November general election in the redrawn 12th District, per WUSF.",
+      "background": "Gus Bilirakis, an attorney and former state House member, has served in the U.S. House since 2007, succeeding his father Michael Bilirakis. He sits on the Energy and Commerce Committee, where he leads the consumer-protection subcommittee and serves on the health and communications subcommittees. He had no Republican primary opponent in 2026 and advanced directly to the November general election in the redrawn 12th District, seeking an 11th term.",
       "primary_result": "No Republican primary; advanced automatically to Nov 3 general election (WUSF: https://www.wusf.org/politics-issues/2026-08-12/democrats-face-uphill-battle-quest-to-wrest-the-seat-held-by-congressman-gus-bilirakis)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Bilirakis voted for H.R. 1 (the 2025 reconciliation law), which extended the 2017 individual tax cuts and added new deductions while reducing projected federal spending on Medicaid and SNAP. No separate statement on the tradeoff was found. He has also backed eliminating or reducing taxes on overtime, tips and Social Security benefits.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+              "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+              "date": "2025-07"
+            },
+            {
+              "title": "Bilirakis Leads the Charge to Preserve Medicare and Social Security Programs",
+              "url": "https://bilirakis.house.gov/media/press-releases/bilirakis-leads-charge-preserve-medicare-and-social-security-programs",
+              "date": "2026-06-02"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -60,18 +81,55 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Bilirakis voted for the Laken Riley Act (H.R. 29, Jan. 7, 2025), which requires federal detention of people in the country illegally who are charged with theft and certain other crimes; every House Republican voted yes. In a statement he said 'criminal illegal immigrants who re-enter our country will be punished' and that cities protecting them 'will no longer be ignored'; he has visited the border and described the situation there as untenable.",
+          "quote": "My first duty is keeping my constituents and the American people safe. We are a nation of laws.",
+          "sources": [
+            {
+              "title": "House Roll Call 6 on H.R. 29, Laken Riley Act (264-159)",
+              "url": "https://clerk.house.gov/Votes/20256",
+              "date": "2025-01-07"
+            },
+            {
+              "title": "S. 5 - Laken Riley Act (119th Congress), enacted",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            },
+            {
+              "title": "Axios: House passes Laken Riley Act (all Republicans and 48 Democrats voted yes)",
+              "url": "https://www.axios.com/2025/01/07/house-passes-laken-riley-act-2025",
+              "date": "2025-01-07"
+            },
+            {
+              "title": "Bilirakis Statement on House Passage of Immigration Bills",
+              "url": "https://bilirakis.house.gov/media/press-releases/bilirakis-statement-house-passage-immigration-bills",
+              "date": "2025-01"
+            },
+            {
+              "title": "Rep. Gus Bilirakis - Member Accountability (Immigration Accountability Project)",
+              "url": "https://iaproject.org/accountability/members/B001257/",
+              "date": null
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Bilirakis describes himself as pro-life, applauded the Supreme Court's decision overturning Roe v. Wade, and voted against the Women's Health Protection Act, the Right to Contraception Act and the Ensuring Women's Right to Reproductive Freedom Act.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Gus Bilirakis's Congressional Scorecard - Reproductive Freedom for All",
+              "url": "https://reproductivefreedomforall.org/lawmaker/gus-bilirakis/",
+              "date": null
+            },
+            {
+              "title": "Gus Bilirakis - Ballotpedia",
+              "url": "https://ballotpedia.org/Gus_Bilirakis",
+              "date": null
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -81,18 +139,45 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Bilirakis voted for H.R. 1, which reduced projected federal Medicaid spending (including new work requirements) and did not extend the enhanced ACA premium subsidies. No statement supporting Medicaid expansion in Florida was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+              "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+              "date": "2025-07"
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Bilirakis says he wants to 'preserve' Medicare and Social Security and in June 2026 reintroduced the Commission on Sustaining Medicare and Social Security Act, which would create a bipartisan commission to recommend solutions to the programs' projected insolvency; the bill does not itself rule cuts in or out. He also co-sponsored codifying the $6,000 Social Security tax deduction.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Bilirakis Leads the Charge to Preserve Medicare and Social Security Programs",
+              "url": "https://bilirakis.house.gov/media/press-releases/bilirakis-leads-charge-preserve-medicare-and-social-security-programs",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Gus Bilirakis and Anna Paulina Luna Introduce Bill Codifying Social Security Tax Cut - The Floridian",
+              "url": "https://floridianpress.com/2026/02/gus-bilirakis-and-anna-paulina-luna-introduce-bill-codifying-social-security-tax-cut/",
+              "date": "2026-02"
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -144,11 +229,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Bilirakis joined more than 80 House Republicans in a letter demanding an end to what they called the Biden administration's 'assault on American energy' and maintains an issue page emphasizing domestic energy production. No statement supporting renewable mandates or utility-rate oversight was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Environment, Energy Production, and Infrastructure - Congressman Gus Bilirakis",
+              "url": "https://bilirakis.house.gov/issue/environment-energy-production-and-infrastructure",
+              "date": null
+            }
+          ]
         },
         "tariffs": {
           "stance": null,
@@ -158,11 +249,32 @@
           "sources": []
         },
         "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 0,
+          "confidence": "record",
+          "summary": "Mixed record: Bilirakis issued a release lauding passage of Russia sanctions and aid to Ukraine earlier in the war, but is reported to have voted no on H.R. 2913, the Ukraine Support Act (June 4, 2026), which authorized up to $8 billion in loans for military assistance and new Russia sanctions.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Bilirakis Lauds Passage of Russian Sanctions and Aid to Ukraine",
+              "url": "https://bilirakis.house.gov/media/press-releases/bilirakis-lauds-passage-russian-sanctions-and-aid-ukraine",
+              "date": null
+            },
+            {
+              "title": "House Defies White House, Advances Ukraine Aid Bill - Legis1 (reports Bilirakis 'No')",
+              "url": "https://legis1.com/news/ukraine-aid-bill-house-vote-defies-trump-white",
+              "date": "2026-06"
+            },
+            {
+              "title": "House Roll Call 207 on H.R. 2913, Ukraine Support Act",
+              "url": "https://clerk.house.gov/Votes/2026207",
+              "date": "2026-06-04"
+            },
+            {
+              "title": "H.R. 2913 - Ukraine Support Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/2913",
+              "date": "2026-06"
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -172,15 +284,133 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Introduced the Restore Veterans' Compensation Act of 2026 and lists veterans' issues among his priorities.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Press Releases - Congressman Gus Bilirakis",
+              "url": "https://bilirakis.house.gov/media/press-releases?page=1",
+              "date": "2026"
+            }
+          ]
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Commission on Sustaining Medicare and Social Security Act",
+          "summary": "Reintroduced June 2026; would create a bipartisan commission to recommend ways to keep both programs solvent.",
+          "sources": [
+            {
+              "title": "Bilirakis Leads the Charge to Preserve Medicare and Social Security Programs",
+              "url": "https://bilirakis.house.gov/media/press-releases/bilirakis-leads-charge-preserve-medicare-and-social-security-programs",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Codify the $6,000 Social Security tax deduction",
+          "summary": "With Rep. Luna, introduced a bill in February 2026 to make permanent the senior deduction enacted in 2025.",
+          "sources": [
+            {
+              "title": "Gus Bilirakis and Anna Paulina Luna Introduce Bill Codifying Social Security Tax Cut - The Floridian",
+              "url": "https://floridianpress.com/2026/02/gus-bilirakis-and-anna-paulina-luna-introduce-bill-codifying-social-security-tax-cut/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Promoting Fairness for Medicare Providers Act",
+          "summary": "Reintroduced legislation aimed at protecting seniors' access to Medicare providers.",
+          "sources": [
+            {
+              "title": "Health Care - Congressman Gus Bilirakis",
+              "url": "https://bilirakis.house.gov/issue/health-care",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Restore Veterans' Compensation Act of 2026",
+          "summary": "Introduced in 2026 to address veterans' compensation.",
+          "sources": [
+            {
+              "title": "Press Releases - Congressman Gus Bilirakis",
+              "url": "https://bilirakis.house.gov/media/press-releases?page=1",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Domestic energy production",
+          "summary": "Signed a House Republican letter calling for reversal of policies restricting U.S. energy production.",
+          "sources": [
+            {
+              "title": "Environment, Energy Production, and Infrastructure - Congressman Gus Bilirakis",
+              "url": "https://bilirakis.house.gov/issue/environment-energy-production-and-infrastructure",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted for H.R. 1, the 2025 reconciliation law (July 3, 2025).",
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+              "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+              "date": "2025-07"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the Laken Riley Act (Jan. 2025) and related immigration enforcement bills.",
+          "sources": [
+            {
+              "title": "House Roll Call 6 on H.R. 29, Laken Riley Act (264-159)",
+              "url": "https://clerk.house.gov/Votes/20256",
+              "date": "2025-01-07"
+            },
+            {
+              "title": "Rep. Gus Bilirakis - Member Accountability",
+              "url": "https://iaproject.org/accountability/members/B001257/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Reported to have voted no on H.R. 2913, the Ukraine Support Act (June 4, 2026; passed 226-195).",
+          "sources": [
+            {
+              "title": "House Defies White House, Advances Ukraine Aid Bill - Legis1",
+              "url": "https://legis1.com/news/ukraine-aid-bill-house-vote-defies-trump-white",
+              "date": null
+            },
+            {
+              "title": "House Roll Call 207 on H.R. 2913, Ukraine Support Act",
+              "url": "https://clerk.house.gov/Votes/2026207",
+              "date": "2026-06-04"
+            }
+          ]
+        },
+        {
+          "item": "Serves on the House Energy and Commerce Committee (consumer protection, health, and communications subcommittees).",
+          "sources": [
+            {
+              "title": "Gus Bilirakis - House Committee on Energy and Commerce",
+              "url": "https://energycommerce.house.gov/representatives/bilirakis",
+              "date": null
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -190,10 +420,10 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Kimberly_Overman.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
+      "website": "https://kimberlyoverman.com/",
       "occupation": "Certified financial planner; former Hillsborough County commissioner",
       "residence": "Tampa area, Hillsborough County (per Hoodline; not re-verified)",
-      "background": "Kimberly Overman is a certified financial planner and former Hillsborough County commissioner. She won the Aug. 18, 2026 Democratic primary with 52.7% over Darren McAuley, a physician and Florida Air National Guard state air surgeon who spent nearly four times as much on the race.",
+      "background": "Kimberly Overman is a certified financial planner and small-business owner who served on the Hillsborough County Commission from 2018 to 2022. She says her approach is grounded in decades of public service and the realities of working-class life, including a period of housing insecurity. She won the Aug. 18, 2026 Democratic primary with 52.7% over Darren McAuley, a physician and Florida Air National Guard state air surgeon who spent nearly four times as much on the race.",
       "primary_result": "Won Aug 18, 2026 Democratic primary with 52.7% over Darren McAuley (WUSF: https://www.wusf.org/politics-issues/2026-08-18/pasco-primary-results-2026-kimberly-overman-wins-primary-setting-up-face-off-against-us-rep-gus-bilirakis ; Florida Politics: https://floridapolitics.com/archives/815521-despite-financial-disadvantage-kimberly-overman-wins-democratic-primary-to-face-gus-bilirakis-in-cd-12/)",
       "positions": {
         "taxes": {
@@ -218,11 +448,22 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists affordable housing among her top priorities and cites her own experience navigating housing insecurity; specific federal proposals were not found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Kimberly Overman for Congress - The Issues",
+              "url": "https://kimberlyoverman.com/issues/",
+              "date": null
+            },
+            {
+              "title": "Kimberly Overman for Congress - Meet Kimberly",
+              "url": "https://kimberlyoverman.com/meet-kimberly/",
+              "date": null
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -232,11 +473,17 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her issues page says she will 'fight to restore and protect the right to abortion and access to reproductive care.'",
+          "quote": "These decisions belong to individuals, not politicians.",
+          "sources": [
+            {
+              "title": "Kimberly Overman for Congress - The Issues",
+              "url": "https://kimberlyoverman.com/issues/",
+              "date": null
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -246,18 +493,35 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports lowering prescription drug costs, expanding coverage with an emphasis on mental health, and making care affordable so people 'do not have to choose between medical care and basic needs.' She names healthcare access as one of the district's biggest challenges.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Kimberly Overman for Congress - The Issues",
+              "url": "https://kimberlyoverman.com/issues/",
+              "date": null
+            },
+            {
+              "title": "Kimberly Overman wants to leverage economics background to ease affordability in CD 12 - Florida Politics",
+              "url": "https://floridapolitics.com/archives/810756-meet-the-cd-12-democratic-candidates-kimberly-overman/",
+              "date": null
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says Congress should focus on 'safeguarding Social Security and Medicare' along with lowering costs; no detail on financing was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Kimberly Overman wants to leverage economics background to ease affordability in CD 12 - Florida Politics",
+              "url": "https://floridapolitics.com/archives/810756-meet-the-cd-12-democratic-candidates-kimberly-overman/",
+              "date": null
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -267,11 +531,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says she will fight for resilient infrastructure, protection of the Florida Wildlife Corridor and environmental justice for hard-hit communities.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Kimberly Overman for Congress - The Issues",
+              "url": "https://kimberlyoverman.com/issues/",
+              "date": null
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -309,11 +579,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports transitioning to renewable energy, opposed converting local power infrastructure to additional fossil-fuel use, and advocates investment in solar and other clean energy.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Kimberly Overman for Congress - The Issues",
+              "url": "https://kimberlyoverman.com/issues/",
+              "date": null
+            }
+          ]
         },
         "tariffs": {
           "stance": null,
@@ -344,21 +620,98 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "Prescription drug costs",
+          "summary": "Supports lowering prescription drug prices.",
+          "sources": [
+            {
+              "title": "Kimberly Overman for Congress - The Issues",
+              "url": "https://kimberlyoverman.com/issues/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Government accountability",
+          "summary": "Names government accountability as one of the district's three biggest challenges.",
+          "sources": [
+            {
+              "title": "Kimberly Overman wants to leverage economics background - Florida Politics",
+              "url": "https://floridapolitics.com/archives/810756-meet-the-cd-12-democratic-candidates-kimberly-overman/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Florida Wildlife Corridor",
+          "summary": "Pledges to protect the Florida Wildlife Corridor.",
+          "sources": [
+            {
+              "title": "Kimberly Overman for Congress - The Issues",
+              "url": "https://kimberlyoverman.com/issues/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Mental health coverage",
+          "summary": "Emphasizes expanding coverage for mental health care.",
+          "sources": [
+            {
+              "title": "Kimberly Overman for Congress - The Issues",
+              "url": "https://kimberlyoverman.com/issues/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Served on the Hillsborough County Commission, 2018-2022.",
+          "sources": [
+            {
+              "title": "Kimberly Overman - Ballotpedia",
+              "url": "https://ballotpedia.org/Kimberly_Overman",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Won the Aug. 18, 2026 Democratic primary (52.7%) despite being outspent nearly 4-to-1.",
+          "sources": [
+            {
+              "title": "Despite financial disadvantage, Kimberly Overman wins Democratic primary - Florida Politics",
+              "url": "https://floridapolitics.com/archives/815521-despite-financial-disadvantage-kimberly-overman-wins-democratic-primary-to-face-gus-bilirakis-in-cd-12/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Emgage Action",
+          "sources": [
+            {
+              "title": "Emgage Action Endorses Kimberly Overman - campaign site",
+              "url": "https://kimberlyoverman.com/news-and-events/endorsements/endorsements-emgage-action-endorses-kimberly-overman-for-floridas-12th-congressional-district/",
+              "date": null
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "branden_schivener",
-      "name": "Branden Schivener",
+      "name": "Branden Scrivener",
       "party": "No Party Affiliation",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Branden_Schivener.jpg",
+      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Branden_Scrivener.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
+      "website": "https://brandenscrivenerfl.info/",
       "occupation": "Medicare case manager",
       "residence": "Not found",
-      "background": "Branden Schivener, 27, a Medicare case manager, qualified as a no-party candidate for the Nov. 3, 2026 general election in the 12th District, per WUSF.",
+      "background": "Branden Scrivener (spelled 'Schivener' in a WUSF report), 27, is a Medicare case manager and father of two with a bachelor's degree in human services; his site cites internships with Catholic Charities, Tampa Crossroads, the Department of Child Services and the Flagler Education Foundation and more than three years in healthcare. He qualified as a no-party candidate for the Nov. 3, 2026 general election in the 12th District. No issue positions were found in searches run for this guide.",
       "primary_result": "No primary (NPA candidate); listed for Nov 3 ballot by WUSF (https://www.wusf.org/politics-issues/2026-08-12/democrats-face-uphill-battle-quest-to-wrest-the-seat-held-by-congressman-gus-bilirakis)",
       "positions": {
         "taxes": {
@@ -510,7 +863,23 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Registered with the FEC as a no-party candidate for FL-12.",
+          "sources": [
+            {
+              "title": "FEC candidate page",
+              "url": "https://www.fec.gov/data/candidate/H6FL12231",
+              "date": null
+            },
+            {
+              "title": "Federal Congressional District 12, No Party Affiliation Candidate - campaign site",
+              "url": "https://brandenscrivenerfl.info/",
+              "date": null
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

@@ -14,7 +14,7 @@
     "Lee (part, incl. more of Fort Myers)"
   ],
   "what_it_does": "Represents Florida's 17th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Roster from WSLR (Matt Montavon wins Congressional District 17 primary; Steube unopposed in GOP primary) and Ballotpedia. No NPA or write-in candidate was identified in snippets; absence unconfirmed. Sources: https://wslr.org/matt-montavon-wins-congressional-district-17-primary/ ; https://ballotpedia.org/Florida's_17th_Congressional_District_election,_2026 ; district changes per WUSF map breakdown. Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts; county descriptions here reflect post-redistricting reporting where found (https://www.wusf.org/politics-issues/2026-05-06/breakdown-changes-for-florida-new-congressional-map).",
   "candidates": [
     {
@@ -27,15 +27,26 @@
       "website": null,
       "occupation": "U.S. Representative (since 2019)",
       "residence": "Sarasota County",
-      "background": "Greg Steube has represented Florida's 17th District since January 2019 and previously served in the Florida House and Senate. He was unopposed in the Aug. 18, 2026 Republican primary. Under the 2026 map the district gives up inland eastern Sarasota County and takes in more of Fort Myers in Lee County.",
+      "background": "Greg Steube has represented Florida's 17th District since January 2019 and previously served in the Florida House and Senate; he sits on the House Ways and Means Committee. He was unopposed in the Aug. 18, 2026 Republican primary. Under the 2026 map the district gives up inland eastern Sarasota County and takes in more of Fort Myers in Lee County.",
       "primary_result": "Unopposed in Aug 18, 2026 Republican primary (WSLR)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Steube voted for H.R. 1 (the One Big Beautiful Bill Act) on final passage in July 2025. The law made the 2017 individual tax-rate cuts permanent and added new deductions while reducing projected federal spending on Medicaid and SNAP.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -59,18 +70,45 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Steube voted for the Laken Riley Act (mandatory federal detention of unauthorized immigrants arrested for theft and certain other offenses) in January 2025 and for H.R. 1, which appropriated funds for border-wall construction, Border Patrol hiring and expanded immigration detention and removal operations.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            },
+            {
+              "title": "House Roll Call 23 (S. 5, Laken Riley Act, Jan. 22, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            },
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Steube's House website calls him 'a staunch defender of the right to life,' says taxpayer dollars should not fund abortion in any circumstance, supports keeping the Hyde Amendment in spending bills, and describes his SHIELD Act, which would require schools to notify parents before distributing abortion-related information to students.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Life & Values - Congressman Steube (house.gov issues page)",
+              "url": "https://steube.house.gov/issues/life-values/",
+              "date": null
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -80,11 +118,22 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Steube voted for H.R. 1, which added work-reporting requirements and more frequent eligibility checks for Medicaid expansion enrollees and reduced projected federal Medicaid spending. No statement on expanding Medicaid in Florida or extending ACA subsidies was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -117,16 +166,33 @@
         "marijuana": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "summary": "Steube sponsors H.R. 4963 to move marijuana from Schedule I to Schedule III within 60 days of enactment and has urged the House to act after President Trump's rescheduling order; rescheduling is not legalization, and no position on recreational legalization for adults was found as of Sept 2026.",
+          "quote": "Now is the time to reclassify marijuana, and the Drug Enforcement Administration must open the door for scientific research into the plant's medicinal value.",
+          "sources": [
+            {
+              "title": "Greg Steube urges House to consider his marijuana rescheduling bill in wake of Donald Trump announcement (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/770388-steube-marijuana-rescheduling/",
+              "date": "2025"
+            }
+          ]
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Steube voted for the SAVE Act (H.R. 22), which would require documentary proof of U.S. citizenship to register to vote in federal elections. No statement on mail voting or drop boxes was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "House Roll Call 102 (H.R. 22, SAVE Act, Apr. 10, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025102",
+              "date": "2025-04-10"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -150,25 +216,48 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Steube has said the president should be free to use tariffs as he sees fit and that the House should support him; no statement on tariffs' overall economic effect was found.",
+          "quote": "I think the president should use tariffs however he sees fit. And I think that the House should support the president however he wants to do that.",
+          "sources": [
+            {
+              "title": "Greg Steube - Ballotpedia",
+              "url": "https://ballotpedia.org/Greg_Steube",
+              "date": null
+            }
+          ]
         },
         "ukraine": {
           "stance": null,
           "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "summary": "Steube's House website has a page titled 'US Aid to Ukraine?' and he reaffirmed support for Ukraine in an earlier radio interview, but no current (2025-26) statement on continuing U.S. military aid was found as of Sept 2026.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "US Aid to Ukraine? - Congressman Steube (house.gov)",
+              "url": "https://steube.house.gov/us-aid-to-ukraine/",
+              "date": null
+            }
+          ]
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Steube has said the House should support the president on tariffs 'however he wants to do that' and has pressed for House action following President Trump's marijuana-rescheduling order.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Greg Steube - Ballotpedia",
+              "url": "https://ballotpedia.org/Greg_Steube",
+              "date": null
+            },
+            {
+              "title": "Greg Steube urges House to consider his marijuana rescheduling bill in wake of Donald Trump announcement (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/770388-steube-marijuana-rescheduling/",
+              "date": "2025"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -178,8 +267,99 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Marijuana rescheduling (H.R. 4963)",
+          "summary": "Sponsors a bill to reclassify marijuana from Schedule I to Schedule III within 60 days of enactment to allow medical research.",
+          "sources": [
+            {
+              "title": "Greg Steube urges House to consider his marijuana rescheduling bill in wake of Donald Trump announcement (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/770388-steube-marijuana-rescheduling/",
+              "date": "2025"
+            }
+          ]
+        },
+        {
+          "title": "SHIELD Act (parental notification on abortion information in schools)",
+          "summary": "Introduced legislation requiring local education agencies to notify parents before distributing abortion-related information to students and barring abortion providers from distributing such material on school grounds.",
+          "sources": [
+            {
+              "title": "Life & Values - Congressman Steube (house.gov issues page)",
+              "url": "https://steube.house.gov/issues/life-values/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Hyde Amendment",
+          "summary": "Supports including the Hyde Amendment (no federal funding of abortion) in spending legislation and opposed Biden-era Defense Department abortion-travel policies.",
+          "sources": [
+            {
+              "title": "Life & Values - Congressman Steube (house.gov issues page)",
+              "url": "https://steube.house.gov/issues/life-values/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Ways and Means Committee work",
+          "summary": "Serves on the House Ways and Means Committee, which handles tax, trade, Social Security and Medicare policy.",
+          "sources": [
+            {
+              "title": "Ways & Means - Congressman Steube (house.gov)",
+              "url": "https://steube.house.gov/issues/ways-means/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted yes on final passage of H.R. 1, the One Big Beautiful Bill Act (July 3, 2025), which extended the 2017 tax cuts, funded border and immigration enforcement, and changed Medicaid and SNAP eligibility rules.",
+          "sources": [
+            {
+              "title": "H.R.1 - One Big Beautiful Bill Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "House Roll Call 190 (final passage of H.R. 1, July 3, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on S. 5, the Laken Riley Act (Jan. 22, 2025), requiring federal detention of unauthorized immigrants charged with theft-related and certain violent offenses.",
+          "sources": [
+            {
+              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            },
+            {
+              "title": "House Roll Call 23 (S. 5, Laken Riley Act, Jan. 22, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/202523",
+              "date": "2025-01-22"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on H.R. 22, the SAVE Act (Apr. 10, 2025), which would require documentary proof of citizenship to register to vote in federal elections.",
+          "sources": [
+            {
+              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "House Roll Call 102 (H.R. 22, SAVE Act, Apr. 10, 2025) - Clerk of the House",
+              "url": "https://clerk.house.gov/Votes/2025102",
+              "date": "2025-04-10"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -189,10 +369,10 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Matthew_Montavon.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Not found",
-      "residence": "Not found",
-      "background": "Matthew (Matt) Montavon won the Aug. 18, 2026 Democratic primary with nearly 55% of the vote, defeating Allen Spence by roughly 5,000 votes, and will face incumbent Greg Steube in November.",
+      "website": "https://www.montavon4congress.com/",
+      "occupation": "Retired; former United Nations Food and Agriculture Organization official (27 years); former local-government planner; Peace Corps volunteer",
+      "residence": "Suburban Sarasota, Sarasota County",
+      "background": "Matthew (Matt) Montavon grew up in Indiana, served two years in the Peace Corps and spent 27 years with the United Nations Food and Agriculture Organization in Rome, where he helped run a department with a $50 million budget; he also worked in local-government planning. Now retired in suburban Sarasota, he has been active in the local Democratic Party and co-founded the Suncoast Immigration Justice Coalition. He won the Aug. 18, 2026 Democratic primary with nearly 55% of the vote, defeating Allen Spence by roughly 5,000 votes, and faces incumbent Greg Steube in November.",
       "primary_result": "Won Aug 18, 2026 Democratic primary with ~55% over Allen Spence (WSLR)",
       "positions": {
         "taxes": {
@@ -217,46 +397,117 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Platform includes addressing affordable housing and disaster recovery; says affordability is his top priority, citing that 47% of district residents cannot meet daily living expenses.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "District 17 U.S. House seat: Matt Montavon (WSLR+Fogartyville)",
+              "url": "https://wslr.org/the-race-for-the-district-17-u-s-house-seat/",
+              "date": "2026"
+            },
+            {
+              "title": "Matthew Montavon for Congress | District 17 Florida (campaign site)",
+              "url": "https://www.montavon4congress.com/",
+              "date": null
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says 'some enforcement at the border' is needed but opposes deporting people, including children, who have lived in the U.S. for a long time; supports a comprehensive pathway to citizenship, limits on enforcement abuses and reform of ICE detention practices. He co-founded the Suncoast Immigration Justice Coalition.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Issues - Montavon For Congress (campaign site)",
+              "url": "https://www.montavonforcongress.com/new-page",
+              "date": null
+            },
+            {
+              "title": "District 17 U.S. House seat: Matt Montavon (WSLR+Fogartyville)",
+              "url": "https://wslr.org/the-race-for-the-district-17-u-s-house-seat/",
+              "date": "2026"
+            },
+            {
+              "title": "Meet Matthew Montavon, 1 of 2 Dems running in U.S. District 17 primary (Herald-Tribune via AOL)",
+              "url": "https://www.aol.com/articles/meet-matthew-montavon-1-2-090416000.html",
+              "date": "2026"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Montavon's issues page says reproductive-health decisions should be between a woman and her medical provider and that Congress should ensure birth control, abortion and comprehensive reproductive care are accessible and affordable.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Issues - Montavon For Congress (campaign site)",
+              "url": "https://www.montavonforcongress.com/new-page",
+              "date": null
+            },
+            {
+              "title": "Matthew Montavon - Ballotpedia",
+              "url": "https://ballotpedia.org/Matthew_Montavon",
+              "date": null
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls for banning civilian use of assault weapons, universal background checks, state licensing, and enforcing and expanding red-flag laws, while saying hunters and sportsmen should still be able to buy guns.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Issues - Montavon For Congress (campaign site)",
+              "url": "https://www.montavonforcongress.com/new-page",
+              "date": null
+            },
+            {
+              "title": "Matthew Montavon - Ballotpedia",
+              "url": "https://ballotpedia.org/Matthew_Montavon",
+              "date": null
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports universal health care and says he would prefer a government-supported single-payer system but is open to private options.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet Matthew Montavon, 1 of 2 Dems running in U.S. District 17 primary (Herald-Tribune via AOL)",
+              "url": "https://www.aol.com/articles/meet-matthew-montavon-1-2-090416000.html",
+              "date": "2026"
+            },
+            {
+              "title": "District 17 U.S. House seat: Matt Montavon (WSLR+Fogartyville)",
+              "url": "https://wslr.org/the-race-for-the-district-17-u-s-house-seat/",
+              "date": "2026"
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists 'protecting Social Security and Medicare' among his platform planks; financing details were not captured.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Matthew Montavon for Congress | District 17 Florida (campaign site)",
+              "url": "https://www.montavon4congress.com/",
+              "date": null
+            },
+            {
+              "title": "District 17 U.S. House seat: Matt Montavon (WSLR+Fogartyville)",
+              "url": "https://wslr.org/the-race-for-the-district-17-u-s-house-seat/",
+              "date": "2026"
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -266,11 +517,22 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists the environment as a platform priority alongside disaster recovery.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Matthew Montavon for Congress | District 17 Florida (campaign site)",
+              "url": "https://www.montavon4congress.com/",
+              "date": null
+            },
+            {
+              "title": "District 17 U.S. House seat: Matt Montavon (WSLR+Fogartyville)",
+              "url": "https://wslr.org/the-race-for-the-district-17-u-s-house-seat/",
+              "date": "2026"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -315,11 +577,17 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "At a WSLR-covered forum Montavon said President Trump is implementing tariffs that are hurting businesses.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Democratic Steube challengers face off at forum (WSLR)",
+              "url": "https://wslr.org/democratic-steube-challengers-face-off-at-forum/",
+              "date": "2026"
+            }
+          ]
         },
         "ukraine": {
           "stance": null,
@@ -329,11 +597,17 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "At a candidate forum Montavon blamed the Trump administration for a military conflict he said Congress did not want and called for funding cuts to address executive overreach; he also criticized the administration's tariffs.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Democratic Steube challengers face off at forum (WSLR)",
+              "url": "https://wslr.org/democratic-steube-challengers-face-off-at-forum/",
+              "date": "2026"
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -343,7 +617,62 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Affordability as top priority",
+          "summary": "Says 47% of district residents are not making enough to meet daily living expenses and puts affordability first.",
+          "sources": [
+            {
+              "title": "District 17 U.S. House seat: Matt Montavon (WSLR+Fogartyville)",
+              "url": "https://wslr.org/the-race-for-the-district-17-u-s-house-seat/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Disaster recovery",
+          "summary": "Platform pairs affordable housing with faster disaster recovery for the hurricane-prone district.",
+          "sources": [
+            {
+              "title": "Matthew Montavon for Congress | District 17 Florida (campaign site)",
+              "url": "https://www.montavon4congress.com/",
+              "date": null
+            },
+            {
+              "title": "District 17 U.S. House seat: Matt Montavon (WSLR+Fogartyville)",
+              "url": "https://wslr.org/the-race-for-the-district-17-u-s-house-seat/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Immigrant advocacy",
+          "summary": "Co-founded the Suncoast Immigration Justice Coalition and is active in the local Democratic Hispanic Caucus.",
+          "sources": [
+            {
+              "title": "District 17 U.S. House seat: Matt Montavon (WSLR+Fogartyville)",
+              "url": "https://wslr.org/the-race-for-the-district-17-u-s-house-seat/",
+              "date": "2026"
+            },
+            {
+              "title": "Meet Matthew Montavon, 1 of 2 Dems running in U.S. District 17 primary (Herald-Tribune via AOL)",
+              "url": "https://www.aol.com/articles/meet-matthew-montavon-1-2-090416000.html",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Executive overreach / war powers",
+          "summary": "Called for Congress to use funding cuts to check what he described as executive overreach in military action.",
+          "sources": [
+            {
+              "title": "Democratic Steube challengers face off at forum (WSLR)",
+              "url": "https://wslr.org/democratic-steube-challengers-face-off-at-forum/",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

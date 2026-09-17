@@ -22,8 +22,8 @@
     "Gadsden (part)"
   ],
   "what_it_does": "Represents Florida's 2nd Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
-  "verified_ballot_note": "Open seat (Rep. Neal Dunn retiring). Republican nominee Austin Rogers confirmed by WFSU, Florida Politics and Florida's Voice (Aug 18-19, 2026); Democratic nominee Yen Bailey per Ballotpedia snippet ('advanced from the Democratic primary without appearing on the ballot') and Florida Politics. NPA/write-in candidates not confirmed; Ballotpedia page https://ballotpedia.org/Florida's_2nd_Congressional_District_election,_2026 could not be fetched. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide.",
+  "coverage": "partial",
+  "verified_ballot_note": "CORRECTION (Sept 2026 research pass): the Democratic nominee is Amanda Marie Green, not Yen Bailey. WFSU, Florida Politics and AP report Green won the Aug. 18, 2026 four-way Democratic primary over Yen Bailey, Nicholas Zateslo and Brice Barnes and faces Republican Austin Rogers on Nov. 3 (https://news.wfsu.org/state-news/2026-08-18/amanda-marie-green-wins-the-democrat-nod-and-advances-to-november-for-cd2 ; https://floridapolitics.com/archives/814725-amanda-marie-green-wins-democratic-nomination-in-cd-2/ ; https://wtop.com/news/2026/08/amanda-green-wins-democratic-nomination-for-u-s-house-in-floridas-2nd-congressional-district/). Open seat (Rep. Neal Dunn retiring). Republican nominee Austin Rogers confirmed by WFSU, Florida Politics and Florida's Voice (Aug 18-19, 2026); Democratic nominee Yen Bailey per Ballotpedia snippet ('advanced from the Democratic primary without appearing on the ballot') and Florida Politics. NPA/write-in candidates not confirmed; Ballotpedia page https://ballotpedia.org/Florida's_2nd_Congressional_District_election,_2026 could not be fetched. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide.",
   "candidates": [
     {
       "id": "austin_rogers",
@@ -32,10 +32,10 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Austin_Rogers.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
-      "occupation": "Attorney; former staff counsel to U.S. Sen. Rick Scott",
-      "residence": "Tallahassee area (not verified)",
-      "background": "Austin Rogers, a former staff counsel to Sen. Rick Scott, won the Aug. 18, 2026 Republican primary in the open 2nd District with 30.47% of the vote in a large field, ahead of attorney Keith Gross (16.39%), Republican Party of Florida Chair Evan Power (15.78%) and Luke Murphy (15.36%).",
+      "website": "https://rogersforflorida.com/",
+      "occupation": "Attorney; former general counsel to U.S. Sen. Rick Scott and former chief counsel to Senate Judiciary Committee Republicans",
+      "residence": "Bay County (Panama City area) per campaign; Florida Politics has questioned whether his family still lives in Washington, D.C.",
+      "background": "Austin Rogers graduated from Mosley High School in Bay County, played college soccer, and earned a law degree from Duke University as well as theology degrees from Duke and Wheaton College (Florida Politics). He served as chief counsel for Senate Judiciary Committee Republicans and as general counsel to Sen. Rick Scott (The Hill; Florida Politics). He won the Aug. 18, 2026 Republican primary in the open 2nd District with 30.47% of the vote in a large field, ahead of Keith Gross (16.39%), Republican Party of Florida Chair Evan Power (15.78%) and Luke Murphy (15.36%), and faces Democrat Amanda Marie Green in November.",
       "primary_result": "Won Aug 18, 2026 Republican primary with 30.47% over Keith Gross (16.39%), Evan Power (15.78%), Luke Murphy (15.36%) and others (WFSU: https://news.wfsu.org/2026-election-coverage/2026-08-18/austin-rogers-secures-republican-nomination-for-district-two-congressional-seat ; Florida Politics: https://floridapolitics.com/archives/814735-austin-rogers-emerges-as-republican-nominee-to-succeed-neal-dunn-in-congress/ ; Florida's Voice: https://flvoicenews.com/austin-rogers-wins-republican-nomination-for-floridas-2nd-congressional-district/)",
       "positions": {
         "taxes": {
@@ -67,11 +67,17 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His issues page calls President Trump's early-2025 border actions 'one of the administration's most important victories' and says he will work 'to codify strong border security policies into law.'",
+          "quote": "codify strong border security policies into law so that our border remains secure",
+          "sources": [
+            {
+              "title": "Austin Rogers for Florida: Issues",
+              "url": "https://rogersforflorida.com/issues/",
+              "date": null
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -81,11 +87,17 @@
           "sources": []
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Says every American has a constitutional right to keep and bear arms and that he will be 'a strong and unwavering defender of the Second Amendment in Congress.'",
+          "quote": "a strong and unwavering defender of the Second Amendment",
+          "sources": [
+            {
+              "title": "Austin Rogers for Florida: Issues",
+              "url": "https://rogersforflorida.com/issues/",
+              "date": null
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -172,36 +184,143 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His announcement says he is running 'to be a strong, reliable vote for President Donald Trump's America First agenda.'",
+          "quote": "a strong, reliable vote for President Donald Trump's America First agenda",
+          "sources": [
+            {
+              "title": "Austin Rogers for Florida: Announces Run for Congress in Florida's 2nd District",
+              "url": "https://rogersforflorida.com/press-release/austin-rogers-announces-run-for-congress-in-floridas-2nd-district/",
+              "date": "2025"
+            },
+            {
+              "title": "Austin Rogers for Florida: Issues",
+              "url": "https://rogersforflorida.com/issues/",
+              "date": null
+            }
+          ]
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says veterans 'gave much to protect our country' and that he will fight to ensure service members receive the funding, equipment and support they need; specifics on VA benefits were not found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Austin Rogers for Florida: Issues",
+              "url": "https://rogersforflorida.com/issues/",
+              "date": null
+            }
+          ]
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "Support for military and law enforcement",
+          "summary": "Lists fighting 'for our military and law enforcement' among his core campaign planks; his father is a retired Air Force fighter pilot who trains at Tyndall AFB.",
+          "sources": [
+            {
+              "title": "Austin Rogers for Florida: Issues",
+              "url": "https://rogersforflorida.com/issues/"
+            },
+            {
+              "title": "Florida Politics: Austin Rogers brings local roots, knowledge of the Hill to CD 2 contest",
+              "url": "https://floridapolitics.com/archives/785165-austin-rogers-brings-local-roots-knowledge-of-the-hill-to-cd-2-contest/"
+            }
+          ]
+        },
+        {
+          "title": "Business and economy",
+          "summary": "Says he will work to 'strengthen American businesses' and put 'Florida families and America first.'",
+          "sources": [
+            {
+              "title": "Austin Rogers for Florida: Issues",
+              "url": "https://rogersforflorida.com/issues/"
+            }
+          ]
+        },
+        {
+          "title": "Values and faith",
+          "summary": "Campaign says it will 'stop the radical left's assault on our values'; aired a Panhandle TV ad focused on his faith.",
+          "sources": [
+            {
+              "title": "Austin Rogers for Florida: Issues",
+              "url": "https://rogersforflorida.com/issues/"
+            },
+            {
+              "title": "Florida Politics: Austin Rogers ad on faith to air in markets across Panhandle",
+              "url": "https://floridapolitics.com/archives/803839-austin-rogers-ad-on-faith-to-air-in-markets-across-panhandle/"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Florida Politics reported questions in September 2026 about whether his family still lives in Washington, D.C., where he worked as a Senate staffer.",
+          "sources": [
+            {
+              "title": "Florida Politics: Austin Rogers wants to represent CD 2, but is his family still living in Washington, D.C.?",
+              "url": "https://floridapolitics.com/archives/819969-austin-rogers-wants-to-represent-cd-2-but-is-his-family-still-living-in-washington-d-c/"
+            }
+          ]
+        },
+        {
+          "item": "Raised more than $550,000 within two weeks of launching his campaign, per his campaign.",
+          "sources": [
+            {
+              "title": "Austin Rogers for Florida press release: Raises Over $550,000",
+              "url": "https://rogersforflorida.com/press-release/austin-rogers-raises-over-550000-just-two-weeks-after-launching-campaign-for-floridas-2nd-district/"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "House Majority Leader Steve Scalise",
+          "sources": [
+            {
+              "title": "Florida's Voice: House Majority Leader Steve Scalise endorses Austin Rogers",
+              "url": "https://flvoicenews.com/house-majority-leader-steve-scalise-endorses-austin-rogers-in-floridas-2nd-congressional-district-race/"
+            }
+          ]
+        },
+        {
+          "by": "House Majority Whip Tom Emmer; Chief Deputy Whip Guy Reschenthaler; Rep. Jim Jordan; Rep. Greg Steube",
+          "sources": [
+            {
+              "title": "Florida Politics: Washington leaders line up behind Austin Rogers in open CD 2 Primary",
+              "url": "https://floridapolitics.com/archives/811531-washington-leaders-line-up-behind-austin-rogers-in-open-cd-2-primary/"
+            },
+            {
+              "title": "Florida's Voice: House Majority Leader Steve Scalise endorses Austin Rogers",
+              "url": "https://flvoicenews.com/house-majority-leader-steve-scalise-endorses-austin-rogers-in-floridas-2nd-congressional-district-race/"
+            }
+          ]
+        },
+        {
+          "by": "A Bay County clerk and a retired three-star general (per Florida Politics)",
+          "sources": [
+            {
+              "title": "Florida Politics: Austin Rogers picks up a clerk and a three-star in CD 2",
+              "url": "https://floridapolitics.com/archives/802472-austin-rogers-picks-up-a-clerk-and-a-three-star-in-cd-2/"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "yen_bailey",
-      "name": "Yen Bailey",
+      "id": "amanda_green",
+      "name": "Amanda Marie Green",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Yen_Bailey.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": "https://yenbaileyforcongress.com/",
-      "occupation": "Attorney",
-      "residence": "Not verified",
-      "background": "Yen Bailey, an attorney, was the 2024 Democratic nominee in the 2nd District, losing to Neal Dunn. She is the 2026 Democratic nominee; a Ballotpedia snippet states she advanced from the Aug. 18 Democratic primary without appearing on the ballot (other filed Democrats included Amanda Green, Nicholas Zateslo and Brice Barnes per earlier reporting).",
-      "primary_result": "Advanced from Aug 18, 2026 Democratic primary without appearing on the ballot per Ballotpedia snippet (https://ballotpedia.org/Florida's_2nd_Congressional_District_election,_2026 ; https://floridapolitics.com/archives/801721-a-dozen-candidates-file-to-succeed-retiring-neal-dunn-in-cd-2/)",
+      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Amanda_Green_(Florida).jpg",
+      "photo_source": "Ballotpedia candidate photo (URL pattern unverified); campaign site https://www.amgforcongress.com/ is an alternative",
+      "website": "https://www.amgforcongress.com/",
+      "occupation": "Former employee of a USAID subsidiary/contractor (campaign site); described by her campaign as an expert in cutting waste",
+      "residence": "Tallahassee area, Leon County (not verified; endorsed by Leon County Sheriff)",
+      "background": "Amanda Marie Green is a two-time Florida State University graduate who, according to her campaign, worked for a subsidiary of the U.S. Agency for International Development until the agency was cut after President Trump returned to office in 2025. She won the Aug. 18, 2026 Democratic primary in the open 2nd District over Yen Bailey, Nicholas Zateslo and Brice Barnes (percentages not found in searches) and faces Republican Austin Rogers in November. Her campaign reported passing $500,000 in fundraising in September 2026 and has emphasized the cost of gas, groceries, housing and insurance in North Florida.",
+      "primary_result": "Won Aug 18, 2026 four-way Democratic primary over Yen Bailey, Nicholas Zateslo and Brice Barnes; percentages not found (WFSU: https://news.wfsu.org/state-news/2026-08-18/amanda-marie-green-wins-the-democrat-nod-and-advances-to-november-for-cd2 ; Florida Politics: https://floridapolitics.com/archives/814725-amanda-marie-green-wins-democratic-nomination-in-cd-2/)",
       "positions": {
         "taxes": {
           "stance": null,
@@ -225,25 +344,48 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says she will work to expand access to affordable housing and take on corporate price-gouging to lower basic living costs.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Amanda Marie Green for Congress: Top Priorities",
+              "url": "https://www.amgforcongress.com/top-priorities",
+              "date": null
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Ballotpedia's summary of her positions says she supports welcoming immigrants and opposes local cooperation with federal immigration enforcement, calling for clarifying or challenging 287(g) agreements.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Ballotpedia: Amanda Green (Florida)",
+              "url": "https://ballotpedia.org/Amanda_Green_(Florida)",
+              "date": null
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Ballotpedia's summary of her stated positions says government should not interfere in private lives and that health-care decisions should remain between patients and their doctors; she is backed by June Piscitelli, a recruiter of pro-choice Democratic women candidates. An explicit statement on Florida's six-week ban was not found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Ballotpedia: Amanda Green (Florida)",
+              "url": "https://ballotpedia.org/Amanda_Green_(Florida)",
+              "date": null
+            },
+            {
+              "title": "Florida Politics: A doyenne of Democratic women's politics lines up behind Amanda Marie Green in CD 2",
+              "url": "https://floridapolitics.com/archives/802680-a-doyenne-of-democratic-womens-politics-lines-up-behind-amanda-marie-green-in-cd-2/",
+              "date": "2026"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -253,18 +395,40 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her priorities page says she will fight to expand access to affordable health care providing 'a basic standard of care to ALL Americans,' protect and strengthen Medicare and Medicaid, and 'reverse cuts that gutted rural healthcare.' Florida Politics describes her platform as 'universal, free-at-the-point-of-service healthcare.'",
+          "quote": "reverse cuts that gutted rural healthcare",
+          "sources": [
+            {
+              "title": "Amanda Marie Green for Congress: Top Priorities",
+              "url": "https://www.amgforcongress.com/top-priorities",
+              "date": null
+            },
+            {
+              "title": "Florida Politics: Amanda Marie Green wins Democratic nomination in CD 2",
+              "url": "https://floridapolitics.com/archives/814725-amanda-marie-green-wins-democratic-nomination-in-cd-2/",
+              "date": "2026-08-18"
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says she will 'shore up Social Security by removing the cap on contributions so that everyone pays their fair share into the program,' and lists 'preserving and expanding social security' as a priority.",
+          "quote": "removing the cap on contributions so that everyone pays their fair share",
+          "sources": [
+            {
+              "title": "Amanda Marie Green for Congress: Top Priorities",
+              "url": "https://www.amgforcongress.com/top-priorities",
+              "date": null
+            },
+            {
+              "title": "Florida Politics: Amanda Marie Green wins Democratic nomination in CD 2",
+              "url": "https://floridapolitics.com/archives/814725-amanda-marie-green-wins-democratic-nomination-in-cd-2/",
+              "date": "2026-08-18"
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -323,11 +487,17 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Her priorities page says she will lower living costs in part by 'fighting illegal tariff taxes.'",
+          "quote": "fighting illegal tariff taxes",
+          "sources": [
+            {
+              "title": "Amanda Marie Green for Congress: Top Priorities",
+              "url": "https://www.amgforcongress.com/top-priorities",
+              "date": null
+            }
+          ]
         },
         "ukraine": {
           "stance": null,
@@ -337,11 +507,22 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Criticizes administration policies including tariffs (which she calls 'illegal tariff taxes') and cuts she says 'gutted rural healthcare'; her campaign notes her USAID-related job ended when the agency was cut in 2025.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Amanda Marie Green for Congress: Top Priorities",
+              "url": "https://www.amgforcongress.com/top-priorities",
+              "date": null
+            },
+            {
+              "title": "Amanda Marie Green for Congress: About AMG",
+              "url": "https://www.amgforcongress.com/about",
+              "date": null
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -351,19 +532,110 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [
+      "other_issues": [
         {
-          "item": "2024 Democratic nominee for FL-2; lost to Neal Dunn.",
+          "title": "Corporate price-gouging",
+          "summary": "Says she will take on corporate price-gouging to lower the cost of basic living expenses.",
           "sources": [
             {
-              "title": "AOL/Tallahassee Democrat: Neal Dunn wins U.S. House District 2 race against Yen Bailey",
-              "url": "https://www.aol.com/neal-dunn-wins-u-house-020849606.html"
+              "title": "Amanda Marie Green for Congress: Top Priorities",
+              "url": "https://www.amgforcongress.com/top-priorities"
+            }
+          ]
+        },
+        {
+          "title": "Higher wages and food access",
+          "summary": "Lists higher wages and access to food among the issues that matter most to working families.",
+          "sources": [
+            {
+              "title": "Florida Politics: Amanda Marie Green wins Democratic nomination in CD 2",
+              "url": "https://floridapolitics.com/archives/814725-amanda-marie-green-wins-democratic-nomination-in-cd-2/"
+            }
+          ]
+        },
+        {
+          "title": "Rural health care",
+          "summary": "Pledges to reverse federal cuts she says gutted rural health care.",
+          "sources": [
+            {
+              "title": "Amanda Marie Green for Congress: Top Priorities",
+              "url": "https://www.amgforcongress.com/top-priorities"
+            }
+          ]
+        },
+        {
+          "title": "Government waste",
+          "summary": "Campaign describes her as an 'expert in cutting waste' based on her foreign-aid career.",
+          "sources": [
+            {
+              "title": "Amanda Marie Green for Congress: About AMG",
+              "url": "https://www.amgforcongress.com/about"
+            },
+            {
+              "title": "WFSU: Amanda Marie Green wins the Democrat nod and advances to November for CD2",
+              "url": "https://news.wfsu.org/state-news/2026-08-18/amanda-marie-green-wins-the-democrat-nod-and-advances-to-november-for-cd2"
             }
           ]
         }
       ],
-      "endorsements": []
+      "record": [
+        {
+          "item": "Reported more than $500,000 raised in the CD 2 race as of September 2026.",
+          "sources": [
+            {
+              "title": "Florida Politics: Amanda Marie Green hits $500K in fundraising in CD 2 race",
+              "url": "https://floridapolitics.com/archives/819074-amanda-marie-green-hits-500k-in-fundraising-in-cd-2-race/"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Florida AFL-CIO",
+          "sources": [
+            {
+              "title": "Florida Politics: Florida AFL-CIO backs Amanda Green for CD 2",
+              "url": "https://floridapolitics.com/archives/802451-florida-afl-cio-backs-amanda-green-for-cd-2/"
+            }
+          ]
+        },
+        {
+          "by": "Former U.S. Rep. Allen Boyd",
+          "sources": [
+            {
+              "title": "Florida Politics: Florida AFL-CIO backs Amanda Green for CD 2",
+              "url": "https://floridapolitics.com/archives/802451-florida-afl-cio-backs-amanda-green-for-cd-2/"
+            }
+          ]
+        },
+        {
+          "by": "Leon County Sheriff Walt McNeil",
+          "sources": [
+            {
+              "title": "Florida Politics: Florida AFL-CIO backs Amanda Green for CD 2",
+              "url": "https://floridapolitics.com/archives/802451-florida-afl-cio-backs-amanda-green-for-cd-2/"
+            }
+          ]
+        },
+        {
+          "by": "June Piscitelli (Democratic women's political recruiter)",
+          "sources": [
+            {
+              "title": "Florida Politics: A doyenne of Democratic women's politics lines up behind Amanda Marie Green in CD 2",
+              "url": "https://floridapolitics.com/archives/802680-a-doyenne-of-democratic-womens-politics-lines-up-behind-amanda-marie-green-in-cd-2/"
+            }
+          ]
+        },
+        {
+          "by": "Alliance 4 American Leadership PAC",
+          "sources": [
+            {
+              "title": "Alliance 4 American Leadership PAC endorses Amanda Green for CD 2",
+              "url": "https://a4al.org/articles/alliance-4-american-leadership-pac-endorses-amanda-green-for-cd-2"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

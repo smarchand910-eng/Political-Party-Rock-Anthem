@@ -18,7 +18,7 @@
     "Polk (part)"
   ],
   "what_it_does": "Represents Florida's 9th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "FOX 35, Florida Politics and CBS News (Aug 18-20, 2026) report Dan Green (R) won the Republican primary (AP call Aug 20) and faces incumbent Darren Soto (D), who was unopposed in the Democratic primary (https://www.fox35orlando.com/news/florida-congressional-district-9-election-results ; https://floridapolitics.com/archives/815103-dan-green-emerges-as-gop-nominee-who-will-face-darren-soto-in-cd-9/ ; https://www.cbsnews.com/news/florida-9th-congressional-district-primary-results-darren-soto-redistricting/). County list is from 2026 reporting on the redrawn district (FOX 35). NPA/write-in candidates not confirmed. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide.",
   "candidates": [
     {
@@ -28,18 +28,34 @@
       "incumbent": true,
       "photo_url": "https://www.congress.gov/img/member/s001200_200.jpg",
       "photo_source": "congress.gov member portrait",
-      "website": null,
+      "website": "https://www.darrensoto.com/",
       "occupation": "U.S. Representative (since 2017)",
       "residence": "Kissimmee, Osceola County (not re-verified)",
-      "background": "Darren Soto has represented the 9th District since 2017. He was unopposed in the Aug. 18, 2026 Democratic primary. The April 2026 map redrew his district, which had been a Hispanic-majority seat protected under the Voting Rights Act, into one where about 58% of voters backed Donald Trump in 2024; Cook, Sabato and Inside Elections rated the new district Likely Republican as of August 2026.",
+      "background": "Darren Soto, an attorney, served in the Florida House and Senate before winning the 9th District seat in 2016; he has represented it since 2017 and was unopposed in the Aug. 18, 2026 Democratic primary. The April 2026 map redrew his district, which had been a Hispanic-majority seat protected under the Voting Rights Act, into one where about 58% of voters backed Donald Trump in 2024; Cook, Sabato and Inside Elections rated the new district Likely Republican as of August 2026.",
       "primary_result": "Unopposed in Aug 18, 2026 Democratic primary (CBS News: https://www.cbsnews.com/news/florida-9th-congressional-district-primary-results-darren-soto-redistricting/)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Soto voted against H.R. 1 (the 2025 reconciliation law), which paired extended tax cuts with reductions in projected Medicaid and SNAP spending. All House Democrats voted no.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "H.R. 1 - One Big Beautiful Bill Act (119th Congress)",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
+              "date": "2025-07-04"
+            },
+            {
+              "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+              "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+              "date": "2025-07"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -63,32 +79,91 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Soto voted against the Laken Riley Act in January 2025 and explained his opposition in an interview with the Florida Phoenix; the Republican Party of Florida ran ads criticizing the vote.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "House Roll Call 6 on H.R. 29, Laken Riley Act (264-159)",
+              "url": "https://clerk.house.gov/Votes/20256",
+              "date": "2025-01-07"
+            },
+            {
+              "title": "S. 5 - Laken Riley Act (119th Congress), enacted",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            },
+            {
+              "title": "Central Florida Dem Rep. Darren Soto on why he can't support the Laken Riley Act - Florida Phoenix",
+              "url": "https://floridaphoenix.com/2025/01/21/central-florida-dem-rep-darren-soto-on-why-he-cant-support-the-laken-riley-act/",
+              "date": "2025-01-21"
+            },
+            {
+              "title": "Florida's Voice: Six Florida Democrats vote against Laken Riley Act (Castor, Cherfilus-McCormick, Frankel, Frost, Soto, Wasserman Schultz)",
+              "url": "https://flvoicenews.com/six-florida-democrats-vote-against-laken-riley-act-meant-to-target-illegal-alien-criminals-nationwide/",
+              "date": "2025-01"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "With the Florida Democratic delegation, Soto called the state's six-week ban 'draconian' and 'a blow to Floridians' reproductive freedom,' saying the decision to seek an abortion should remain private and not be put in the hands of politicians.",
+          "quote": "The decision to seek an abortion is a personal decision that should remain private, not be put in the hands of politicians.",
+          "sources": [
+            {
+              "title": "Soto, Florida Democratic Delegation Statement on Florida's Six-Week Abortion Ban",
+              "url": "https://soto.house.gov/media/press-releases/soto-florida-democratic-delegation-statement-floridas-six-week-abortion-ban",
+              "date": "2024-05"
+            },
+            {
+              "title": "Women - Congressman Darren Soto",
+              "url": "https://soto.house.gov/issues/women",
+              "date": null
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His campaign site has a gun-safety-reform page and he has said he is 'committed to remaining in the fight for common sense gun safety reforms' while respecting Second Amendment rights; he has discussed state and federal gun-safety measures at town halls.",
+          "quote": "We can respect Second Amendment rights while keeping guns out of dangerous hands.",
+          "sources": [
+            {
+              "title": "Gun Safety Reform - Darren Soto campaign",
+              "url": "https://www.darrensoto.com/gunsafetyreform",
+              "date": null
+            },
+            {
+              "title": "Lawmaker talks state, federal gun safety at St. Cloud town hall",
+              "url": "https://soto.house.gov/media/in-the-news/lawmaker-talks-state-federal-gun-safety-st-cloud-town-hall",
+              "date": null
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Soto voted against H.R. 1 and, during committee consideration, displayed photos of children on Medicaid, saying half the children in his district are on Medicaid or KidCare and that the bill's Medicaid reductions would affect them.",
+          "quote": "You can't cut $715 billion from Medicaid, and then not have this affect our kids.",
+          "sources": [
+            {
+              "title": "Delegation for 5.16.25 - Florida Politics",
+              "url": "https://floridapolitics.com/archives/738528-delegation-for-5-16-25-big-beautiful-bill-taxing-moon-shot-blacklist-librarian/",
+              "date": "2025-05-16"
+            },
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+              "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+              "date": "2025-07"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -168,11 +243,22 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "His office's 2025 end-of-year report describes 'holding the Trump Administration accountable' as a priority, and he joined members seeking an inspector-general probe into the administration's delay of Puerto Rico disaster funds.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Congressman Darren Soto - official site (2025 end-of-year report)",
+              "url": "https://soto.house.gov/",
+              "date": null
+            },
+            {
+              "title": "Soto, Members Seek Probe into Whether Trump Administration's Delay of Puerto Rico Disaster Recovery Funds Violated Same Law as Delay of Ukraine Security Aid",
+              "url": "https://soto.house.gov/media/press-releases/soto-members-seek-probe-whether-trump-administrations-delay-puerto-rico",
+              "date": null
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -182,8 +268,98 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Puerto Rico recovery and drinking water",
+          "summary": "Maintains a Puerto Rico issue page and 'recovery blueprint'; in August 2026 led a letter urging the EPA to address a drinking-water emergency on the island.",
+          "sources": [
+            {
+              "title": "Puerto Rico - Congressman Darren Soto",
+              "url": "https://soto.house.gov/issues/puerto-rico",
+              "date": null
+            },
+            {
+              "title": "Press Releases - Congressman Darren Soto",
+              "url": "https://soto.house.gov/media/press-releases?page=1",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Children's Medicaid and KidCare",
+          "summary": "Says half of the children in his district rely on Medicaid or KidCare and has opposed federal Medicaid reductions.",
+          "sources": [
+            {
+              "title": "Delegation for 5.16.25 - Florida Politics",
+              "url": "https://floridapolitics.com/archives/738528-delegation-for-5-16-25-big-beautiful-bill-taxing-moon-shot-blacklist-librarian/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Impoundment of appropriated funds",
+          "summary": "Sought an inspector-general inquiry into whether delaying Puerto Rico disaster funds violated the Impoundment Control Act.",
+          "sources": [
+            {
+              "title": "Soto, Members Seek Probe - press release",
+              "url": "https://soto.house.gov/media/press-releases/soto-members-seek-probe-whether-trump-administrations-delay-puerto-rico",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted against H.R. 1, the 2025 reconciliation law (all House Democrats voted no); the NRCC criticized the vote as jeopardizing benefits for Floridians.",
+          "sources": [
+            {
+              "title": "House Roll Call 190 on H.R. 1 (final passage, 218-214)",
+              "url": "https://clerk.house.gov/Votes/2025190",
+              "date": "2025-07-03"
+            },
+            {
+              "title": "One Big Beautiful Bill Act - Ballotpedia (all House Democrats voted no; all Republicans except Massie and Fitzpatrick voted yes)",
+              "url": "https://ballotpedia.org/One_Big_Beautiful_Bill_Act",
+              "date": "2025-07"
+            },
+            {
+              "title": "NRCC: Darren Soto voted to hike taxes, jeopardize benefits for Floridians",
+              "url": "https://www.nrcc.org/2025/07/21/darren-soto-voted-to-hike-taxes-jeopardize-benefits-for-floridians/",
+              "date": "2025-07-21"
+            }
+          ]
+        },
+        {
+          "item": "Voted against the Laken Riley Act (Jan. 2025); the Republican Party of Florida ran ads criticizing him and Rep. Frost over the vote.",
+          "sources": [
+            {
+              "title": "House Roll Call 6 on H.R. 29, Laken Riley Act (264-159)",
+              "url": "https://clerk.house.gov/Votes/20256",
+              "date": "2025-01-07"
+            },
+            {
+              "title": "Florida's Voice: Six Florida Democrats vote against Laken Riley Act (Castor, Cherfilus-McCormick, Frankel, Frost, Soto, Wasserman Schultz)",
+              "url": "https://flvoicenews.com/six-florida-democrats-vote-against-laken-riley-act-meant-to-target-illegal-alien-criminals-nationwide/",
+              "date": "2025-01"
+            },
+            {
+              "title": "Florida GOP runs ad slamming Reps. Maxwell Frost, Darren Soto for opposing Laken Riley Act",
+              "url": "https://flvoicenews.com/florida-gop-runs-ad-slamming-reps-maxwell-frost-darren-soto-for-opposing-laken-riley-act/",
+              "date": "2025-03"
+            }
+          ]
+        },
+        {
+          "item": "Led an August 2026 letter to the EPA on Puerto Rico's drinking-water emergency.",
+          "sources": [
+            {
+              "title": "Press Releases - Congressman Darren Soto",
+              "url": "https://soto.house.gov/media/press-releases?page=1",
+              "date": null
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -193,10 +369,10 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Dan_Green_(Florida).jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
+      "website": "https://dangreenfl.com/",
       "occupation": "U.S. Navy Reserve captain; former Deputy Assistant Secretary of Defense for Strategy and Force Development (2019-21)",
       "residence": "Vero Beach, Indian River County",
-      "background": "Dan Green, 50, of Vero Beach, worked at the U.S. Departments of Defense and State from 2001 to 2009 and served as Deputy Assistant Secretary of Defense for Strategy and Force Development from 2019 to 2021, an appointment he attributes to President Trump. He is a captain in the U.S. Navy Reserve with 23 years of service and five deployments to Iraq and Afghanistan. He won the Aug. 18, 2026 Republican primary with about 25.4%, narrowly ahead of rancher Ben Butler (24.4%).",
+      "background": "Dan Green, 50, of Vero Beach, grew up in Indian River County, attended American University, Florida State University and George Washington University, and worked at the U.S. Departments of Defense and State from 2001 to 2009. He served as Deputy Assistant Secretary of Defense for Strategy and Force Development from 2019 to 2021 under President Trump and has been a research fellow at the Heritage Foundation. He is a captain in the U.S. Navy Reserve with 23 years of service and five deployments to Iraq and Afghanistan. He launched his campaign with $1 million of his own money and won the Aug. 18, 2026 Republican primary with about 25.4%, narrowly ahead of rancher Ben Butler (24.4%).",
       "primary_result": "Won Aug 18, 2026 Republican primary with ~25.4% over Ben Butler (~24.4%), Thomas Chalifoux (~20%), Jorge Martinez (~19%), Marcus Carter and Justin Story (~4% each) and Steve Rance (~2%); AP call came Aug 20 (FOX 35: https://www.fox35orlando.com/news/florida-congressional-district-9-election-results ; Florida Politics: https://floridapolitics.com/archives/815103-dan-green-emerges-as-gop-nominee-who-will-face-darren-soto-in-cd-9/ ; Vero News: http://veronews.com/2026/08/27/hopeful-of-victory-dan-green-striving-to-be-first-vero-beach-resident-to-be-sworn-in-as-congressman/)",
       "positions": {
         "taxes": {
@@ -228,32 +404,66 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Green says he supports immigration for those who follow legal methods and says he will push for stronger borders; he supports requiring proof of citizenship and ID for federal elections. No explicit statement on large-scale deportation was found.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+              "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
+              "date": null
+            },
+            {
+              "title": "Navy veteran Dan Green courts Indian River voters in District 9 primary - Sebastian Daily",
+              "url": "https://www.sebastiandaily.com/business/navy-veteran-dan-green-courts-indian-river-voters-in-district-9-primary-94900/",
+              "date": null
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In a voter-guide questionnaire Green said human life deserves legal protection from conception until natural death and that he supports enforcing the Comstock Act, which bars interstate shipment of abortion-inducing drugs.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+              "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
+              "date": null
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Green says he will 'never allow Second Amendment Rights to be infringed' and describes himself as an NRA lifetime member with the group's highest rating.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet Dan - Dan Green for Congress",
+              "url": "https://dangreenfl.com/meet-dan/",
+              "date": null
+            },
+            {
+              "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+              "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
+              "date": null
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Green says private insurance should be the primary means by which Americans get health coverage and that government should provide relief 'in a fiscally responsible manner.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+              "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
+              "date": null
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -277,11 +487,17 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His campaign says he focuses on 'finding real solutions to overdevelopment in Florida to protect the way of life.'",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Dan Green for Congress - campaign site",
+              "url": "https://dangreenfl.com/",
+              "date": null
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -291,11 +507,17 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Supports requiring proof of citizenship and identification to vote in federal elections.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+              "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
+              "date": null
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -333,11 +555,22 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Green, a Trump-era Pentagon appointee, says he will stand with President Trump's agenda on national security, fiscal restraint and constitutional limits on government, and has positioned his campaign as a conduit for the 'America First' agenda.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Dan Green launches CD 9 campaign with $1M and distinguished Navy resume - Florida Politics",
+              "url": "https://floridapolitics.com/archives/800518-dan-green-launches-cd-9-campaign-with-1m-and-distinguished-navy-resume/",
+              "date": null
+            },
+            {
+              "title": "Former Trump defense official Dan Green outlines congressional bid, policy priorities - Florida's Voice",
+              "url": "https://flvoicenews.com/former-trump-defense-official-dan-green-outlines-congressional-bid-policy-priorities/",
+              "date": null
+            }
+          ]
         },
         "veterans": {
           "stance": null,
@@ -347,9 +580,132 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "other_issues": [
+        {
+          "title": "Property insurance costs",
+          "summary": "Says Florida homeowners are hurt by rising insurance rates and that he will 'take their fight to Washington'; no specific federal mechanism described.",
+          "sources": [
+            {
+              "title": "Dan Green for Congress - campaign site",
+              "url": "https://dangreenfl.com/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Overdevelopment",
+          "summary": "Pledges to find solutions to overdevelopment in Florida.",
+          "sources": [
+            {
+              "title": "Dan Green for Congress - campaign site",
+              "url": "https://dangreenfl.com/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Proof of citizenship to vote",
+          "summary": "Supports requiring proof of citizenship and ID for federal elections.",
+          "sources": [
+            {
+              "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+              "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "National security and fiscal restraint",
+          "summary": "Cites his counterterrorism and Pentagon experience; says he supports fiscal restraint and constitutional limits on government.",
+          "sources": [
+            {
+              "title": "Former Trump defense official Dan Green outlines congressional bid - Florida's Voice",
+              "url": "https://flvoicenews.com/former-trump-defense-official-dan-green-outlines-congressional-bid-policy-priorities/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "title": "Comstock Act enforcement",
+          "summary": "Supports enforcing the Comstock Act's restrictions on mailing abortion-inducing drugs.",
+          "sources": [
+            {
+              "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+              "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Served as Deputy Assistant Secretary of Defense for Strategy and Force Development, 2019-2021; Navy Reserve captain with five deployments.",
+          "sources": [
+            {
+              "title": "Dan Green launches CD 9 campaign - Florida Politics",
+              "url": "https://floridapolitics.com/archives/800518-dan-green-launches-cd-9-campaign-with-1m-and-distinguished-navy-resume/",
+              "date": null
+            },
+            {
+              "title": "Hopeful of victory, Dan Green striving to be first Vero Beach resident sworn in as congressman - Vero News",
+              "url": "http://veronews.com/2026/08/27/hopeful-of-victory-dan-green-striving-to-be-first-vero-beach-resident-to-be-sworn-in-as-congressman/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "Put $1 million of his own money into the campaign at launch.",
+          "sources": [
+            {
+              "title": "Dan Green launches CD 9 campaign - Florida Politics",
+              "url": "https://floridapolitics.com/archives/800518-dan-green-launches-cd-9-campaign-with-1m-and-distinguished-navy-resume/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "item": "The DCCC has published an opposition-research page, 'The Case Against Dan Green.'",
+          "sources": [
+            {
+              "title": "The Case Against Dan Green - DCCC",
+              "url": "https://dccc.org/the-case-against-dan-green/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Rep. Jim Jordan (R-Ohio)",
+          "sources": [
+            {
+              "title": "Air support: Jim Jordan, Mike Haridopolos back Dan Green in CD 9 - Florida Politics",
+              "url": "https://floridapolitics.com/archives/811670-air-support-jim-jordan-mike-haridopolos-back-dan-green-in-cd-9/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "Rep. Mike Haridopolos (R-Fla.)",
+          "sources": [
+            {
+              "title": "Air support: Jim Jordan, Mike Haridopolos back Dan Green in CD 9 - Florida Politics",
+              "url": "https://floridapolitics.com/archives/811670-air-support-jim-jordan-mike-haridopolos-back-dan-green-in-cd-9/",
+              "date": null
+            }
+          ]
+        },
+        {
+          "by": "Additional endorsements listed on campaign site",
+          "sources": [
+            {
+              "title": "Endorsements - Dan Green for Congress",
+              "url": "https://dangreenfl.com/endorsements/",
+              "date": null
+            }
+          ]
+        }
+      ]
     }
   ]
 }
