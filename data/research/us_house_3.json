@@ -462,13 +462,13 @@
         "taxes": {
           "stance": -2,
           "confidence": "stated",
-          "summary": "His 'Reagan Redux' proposal would restore a higher corporate tax rate to raise 'hundreds of billions in revenue' for Social Security, education, health care and veterans services, the opposite of prioritizing tax cuts.",
-          "quote": null,
+          "summary": "Would restore the corporate tax rate to 26 percent and close loopholes.",
+          "quote": "Restore the corporate tax rate",
           "sources": [
             {
-              "title": "Seth Harp for Congress: Issues",
+              "title": "Seth Harp for Congress - Issues",
               "url": "https://www.sethharpforcongress.com/issues",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
@@ -487,11 +487,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Proposes escalating taxes on large corporate home acquisitions and incentives for affordable construction.",
+          "quote": "Pass the H.E.A.R.T. Act (Housing Equity & Affordable Residential Titles)",
+          "sources": [
+            {
+              "title": "Seth Harp for Congress - Issues",
+              "url": "https://www.sethharpforcongress.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -521,33 +527,28 @@
           "sources": []
         },
         "healthcare": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Harp's platform calls for 'guaranteeing affordable healthcare'; specifics on Medicaid expansion or ACA subsidies were not found.",
-          "quote": null,
+          "summary": "Would guarantee affordable health care for every American.",
+          "quote": "Guarantee affordable health care for every American",
           "sources": [
             {
-              "title": "FOX 35: Seth Harp to challenge Kat Cammack",
-              "url": "https://www.fox35orlando.com/news/florida-congressional-district-3-election-results",
-              "date": "2026-08"
+              "title": "Seth Harp for Congress - Issues",
+              "url": "https://www.sethharpforcongress.com/issues",
+              "date": "2026-09-18"
             }
           ]
         },
         "social_security": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Platform calls for 'protecting and strengthening' Social Security and would direct new corporate-tax revenue to the program.",
-          "quote": null,
+          "summary": "Would raise the payroll-tax cap to $250,000 to secure benefits without cutting payments.",
+          "quote": "Protect and strengthen Social Security by raising the payroll tax cap to $250,000",
           "sources": [
             {
-              "title": "Seth Harp for Congress: Issues",
+              "title": "Seth Harp for Congress - Issues",
               "url": "https://www.sethharpforcongress.com/issues",
-              "date": null
-            },
-            {
-              "title": "FOX 35: Seth Harp to challenge Kat Cammack for Florida's 3rd Congressional District",
-              "url": "https://www.fox35orlando.com/news/florida-congressional-district-3-election-results",
-              "date": "2026-08"
+              "date": "2026-09-18"
             }
           ]
         },
@@ -559,11 +560,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would invest in water conservation, filtration and lead-pipe replacement.",
+          "quote": "The L.I.F.E. Line invests in water conservation, filtration infrastructure, lead pipe replacement.",
+          "sources": [
+            {
+              "title": "Seth Harp for Congress - Issues",
+              "url": "https://www.sethharpforcongress.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -629,15 +636,15 @@
           "sources": []
         },
         "veterans": {
-          "stance": 2,
+          "stance": 1,
           "confidence": "stated",
-          "summary": "Supports the M.A.K.E. Act to provide comprehensive dental coverage through the VA and would invest new revenue in veterans services.",
-          "quote": null,
+          "summary": "Would provide comprehensive dental coverage through the VA.",
+          "quote": "The M.A.K.E. Act provides comprehensive dental coverage through the VA system.",
           "sources": [
             {
-              "title": "Seth Harp for Congress: Issues",
+              "title": "Seth Harp for Congress - Issues",
               "url": "https://www.sethharpforcongress.com/issues",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         }

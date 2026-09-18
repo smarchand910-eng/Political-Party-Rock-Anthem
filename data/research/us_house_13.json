@@ -416,18 +416,30 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would lower insurance costs, crack down on corporate fraud and restore transparency to the industry.",
+          "quote": "We must lower insurance costs, crack down on corporate fraud, and restore transparency and stability to a broken industry.",
+          "sources": [
+            {
+              "title": "Leela Gray for Congress - Tackling the Cost of Living Crisis",
+              "url": "https://www.leelagray.com/issues/issue-1",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says housing must be made affordable for all Pinellas residents.",
+          "quote": "We must make housing affordable for all Pinellas residents.",
+          "sources": [
+            {
+              "title": "Leela Gray for Congress - Tackling the Cost of Living Crisis",
+              "url": "https://www.leelagray.com/issues/issue-1",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -464,27 +476,28 @@
         "healthcare": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Criticized H.R. 1 for its impact on Medicaid and SNAP and says she will 'protect health care' and lower costs; she has not endorsed specific expansions such as Medicare for All.",
-          "quote": null,
+          "summary": "Wants affordable, quality, dependable care for every resident of the district.",
+          "quote": "We must make affordable, quality, dependable care a reality for every resident of the 13th District.",
           "sources": [
             {
-              "title": "Leela Gray added to DCCC's Red to Blue program - Florida Politics",
-              "url": "https://floridapolitics.com/archives/815930-leela-gray-added-to-dcccs-red-to-blue-program/",
-              "date": "2026-08"
-            },
-            {
-              "title": "Issues - Leela Gray",
-              "url": "https://www.leelagray.com/issues",
-              "date": null
+              "title": "Leela Gray for Congress - Tackling the Cost of Living Crisis",
+              "url": "https://www.leelagray.com/issues/issue-1",
+              "date": "2026-09-18"
             }
           ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would protect and strengthen Social Security and Medicare.",
+          "quote": "We must protect and strengthen Social Security and Medicare to ensure every senior can age with dignity.",
+          "sources": [
+            {
+              "title": "Leela Gray for Congress - Fighting for Our Most Vulnerable",
+              "url": "https://www.leelagray.com/issues/fighting-for-our-most-vulnerable",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -543,15 +556,15 @@
           "sources": []
         },
         "tariffs": {
-          "stance": -1,
+          "stance": -2,
           "confidence": "stated",
-          "summary": "Gray criticizes Rep. Luna for backing Trump's tariffs, which she says have raised costs for families.",
-          "quote": null,
+          "summary": "Calls the tariffs illegal and a driver of inflation; would end them.",
+          "quote": "We must end illegal tariffs, and cut red tape and regulatory burdens that drain capital from our entrepreneurs",
           "sources": [
             {
-              "title": "Leela Gray added to DCCC's Red to Blue program - Florida Politics",
-              "url": "https://floridapolitics.com/archives/815930-leela-gray-added-to-dcccs-red-to-blue-program/",
-              "date": "2026-08"
+              "title": "Leela Gray for Congress - Growing Economic Opportunities",
+              "url": "https://www.leelagray.com/issues/issue-2",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -576,20 +589,15 @@
           ]
         },
         "veterans": {
-          "stance": 2,
+          "stance": 1,
           "confidence": "stated",
-          "summary": "Says she will 'deliver for veterans'; after retiring she earned a law degree to help veterans access health care and benefits.",
-          "quote": null,
+          "summary": "Says veterans face bureaucratic red tape to access earned benefits.",
+          "quote": "Our veterans served on the front lines, yet return home to a web of bureaucratic red tape to access their earned benefits.",
           "sources": [
             {
-              "title": "About - Leela Gray",
-              "url": "https://www.leelagray.com/about",
-              "date": null
-            },
-            {
-              "title": "Exclusive: Ret. Army Brig. Gen. Leela Gray Tries to Flip Florida District - Military.com",
-              "url": "https://www.military.com/exclusive-ret-army-brig-gen-leela-gray-would-be-first-ever-female-general-elected-congress-floridas-13th-district",
-              "date": null
+              "title": "Leela Gray for Congress - Fighting for Our Most Vulnerable",
+              "url": "https://www.leelagray.com/issues/fighting-for-our-most-vulnerable",
+              "date": "2026-09-18"
             }
           ]
         }

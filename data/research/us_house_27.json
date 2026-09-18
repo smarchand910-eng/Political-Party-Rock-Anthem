@@ -492,18 +492,24 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Eliott_Rodriguez.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
+      "website": "https://eliottrodriguez.com/",
       "occupation": "Retired broadcast journalist (former CBS News Miami anchor)",
       "residence": "Miami-Dade County",
       "background": "Eliott Rodriguez, 69, is a retired broadcast journalist who anchored at CBS News Miami for 25 years after nearly five decades in journalism; he was born in New York to Cuban immigrant parents. He left the station and announced his candidacy in March 2026, reported raising $312,000 in his first 21 days, and won the Aug. 18 Democratic primary with about 53.5% over former homicide prosecutor Robin Peguero. His campaign centers on affordability, protecting Social Security and Medicare, restoring health-care subsidies, opposing tariffs and opposing the Trump administration's immigration enforcement.",
       "primary_result": "Won Aug 18, 2026 Democratic primary with ~53.5% over Robin Peguero (CBS Miami; WLRN)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Would ask the wealthiest Americans to contribute more to keep Social Security strong.",
+          "quote": "Ask the wealthiest Americans to contribute more of their income so Social Security remains strong",
+          "sources": [
+            {
+              "title": "Eliott Rodriguez for Congress - Issues",
+              "url": "https://eliottrodriguez.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -513,44 +519,41 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would pursue a federal backstop for Florida's catastrophic homeowners-insurance market.",
+          "quote": "Pursuing a federal backstop to help stabilize Florida's catastrophic homeowners-insurance market",
+          "sources": [
+            {
+              "title": "Eliott Rodriguez for Congress - Issues",
+              "url": "https://eliottrodriguez.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would convert underused federal land to affordable housing and expand workforce-housing incentives.",
+          "quote": "Identifying underused federal land and converting it into affordable mixed-use housing",
+          "sources": [
+            {
+              "title": "Eliott Rodriguez for Congress - Issues",
+              "url": "https://eliottrodriguez.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "Rodriguez campaigns against the Trump administration's deportation crackdown, saying in a January 2026 ad that 'secure borders matter, but so does due process and our constitution.' He also argues Salazar's Dignity Act fails to provide permanent legal pathways for Venezuelans, Haitians and Cubans.",
-          "quote": "Yes, secure borders matter, but so does due process and our constitution.",
+          "summary": "Supports a secure border and removal of genuine threats while protecting Dreamers and long-rooted families.",
+          "quote": "Protecting Dreamers and providing fair treatment for families with deep roots in America",
           "sources": [
             {
-              "title": "Ex-TV anchor Eliott Rodriguez wins the Democratic nod in Florida's 27th (WLRN)",
-              "url": "https://www.wlrn.org/government-politics/2026-08-18/ex-tv-anchor-eliott-rodriguez-27-district",
-              "date": "2026-08-18"
-            },
-            {
-              "title": "Eliott Rodriguez wins Democratic primary for Florida's 27th Congressional District (CBS Miami)",
-              "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-27-eliott-rodriguez/",
-              "date": "2026-08-18"
-            },
-            {
-              "title": "Maria Salazar slams Trump's immigration tactics (The Hill)",
-              "url": "https://thehill.com/homenews/campaign/6095767-maria-salazar-trump-immigration-ad/",
-              "date": "2026-09"
-            },
-            {
-              "title": "Cost of living, immigration and Cuba: Eliott Rodriguez debates with Voz News anchor (Voz)",
-              "url": "https://voz.us/en/politics/260904/38847/cost-of-living-immigration-and-cuba-elliot-rodriguez-debates-with-voz-news-anchor-karina-yapor.html",
-              "date": "2026-09-04"
+              "title": "Eliott Rodriguez for Congress - Issues",
+              "url": "https://eliottrodriguez.com/issues",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -568,55 +571,41 @@
           ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would restore the assault-weapons ban and require universal background checks and safe storage.",
+          "quote": "Restore the federal ban on assault weapons and high-capacity magazines",
+          "sources": [
+            {
+              "title": "Eliott Rodriguez for Congress - Issues",
+              "url": "https://eliottrodriguez.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "healthcare": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Rodriguez says he would fight to restore expired Affordable Care Act subsidies, which he says Salazar voted to remove, and to lower prescription drug costs.",
-          "quote": null,
+          "summary": "Would protect Medicaid and ACA coverage and let people 55 to 64 buy into Medicare.",
+          "quote": "Allow Americans between 55 and 64 to buy into Medicare voluntarily",
           "sources": [
             {
-              "title": "Former CBS-4 anchor Eliott Rodriguez cites deep local roots in bid to win seat in Congress (WLRN)",
-              "url": "https://www.wlrn.org/government-politics/2026-07-13/former-cbs-4-anchor-eliott-rodriguez-cites-deep-local-roots-in-bid-to-win-seat-in-congress",
-              "date": "2026-07-13"
-            },
-            {
-              "title": "Robin Peguero, Eliott Rodriguez battle for a shot at Maria Elvira Salazar (Florida Politics)",
-              "url": "https://floridapolitics.com/archives/811888-robin-peguero-eliott-rodriguez-battle-for-a-shot-at-maria-elvira-salazar/",
-              "date": "2026-08"
-            },
-            {
-              "title": "Cost of living, immigration and Cuba: Eliott Rodriguez debates with Voz News anchor (Voz)",
-              "url": "https://voz.us/en/politics/260904/38847/cost-of-living-immigration-and-cuba-elliot-rodriguez-debates-with-voz-news-anchor-karina-yapor.html",
-              "date": "2026-09-04"
+              "title": "Eliott Rodriguez for Congress - Issues",
+              "url": "https://eliottrodriguez.com/issues",
+              "date": "2026-09-18"
             }
           ]
         },
         "social_security": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Rodriguez identifies protecting Social Security and Medicare as key priorities and has tied Salazar to efforts to cut the programs; his position on additional revenue was not captured.",
-          "quote": null,
+          "summary": "Opposes privatization, benefit cuts and raising the retirement age.",
+          "quote": "Oppose efforts to privatize them, cut benefits, raise the retirement age",
           "sources": [
             {
-              "title": "Robin Peguero, Eliott Rodriguez battle for a shot at Maria Elvira Salazar (Florida Politics)",
-              "url": "https://floridapolitics.com/archives/811888-robin-peguero-eliott-rodriguez-battle-for-a-shot-at-maria-elvira-salazar/",
-              "date": "2026-08"
-            },
-            {
-              "title": "Former CBS-4 anchor Eliott Rodriguez cites deep local roots in bid to win seat in Congress (WLRN)",
-              "url": "https://www.wlrn.org/government-politics/2026-07-13/former-cbs-4-anchor-eliott-rodriguez-cites-deep-local-roots-in-bid-to-win-seat-in-congress",
-              "date": "2026-07-13"
-            },
-            {
-              "title": "Candidate Profile: Eliott Rodriguez, Florida's 27th Congressional District (South Dade News Leader)",
-              "url": "https://www.southdadenewsleader.com/news/candidate-profile-eliott-rodriguez-floridas-27th-congressional-district/article_9763913c-deeb-40b3-94a4-ca844eacdcd0.html",
-              "date": "2026"
+              "title": "Eliott Rodriguez for Congress - Issues",
+              "url": "https://eliottrodriguez.com/issues",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -660,11 +649,17 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would defend free and fair elections and voting rights.",
+          "quote": "Defend free and fair elections, voting rights, an independent judiciary",
+          "sources": [
+            {
+              "title": "Eliott Rodriguez for Congress - Issues",
+              "url": "https://eliottrodriguez.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -681,11 +676,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would expand cleaner energy while protecting affordability and reliability.",
+          "quote": "Expand cleaner energy while protecting affordability, reliability, and good-paying American jobs",
+          "sources": [
+            {
+              "title": "Eliott Rodriguez for Congress - Issues",
+              "url": "https://eliottrodriguez.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "tariffs": {
           "stance": -2,

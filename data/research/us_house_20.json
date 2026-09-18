@@ -68,11 +68,22 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted against the Laken Riley Act (S. 5, Jan. 22, 2025), which requires federal detention of unauthorized immigrants charged with theft or violent crimes.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Roll call 23, 119th Congress (S. 5, Laken Riley Act) - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll023.xml",
+              "date": "2025-01-22"
+            },
+            {
+              "title": "S. 5 - Laken Riley Act - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+              "date": "2025-01-29"
+            }
+          ]
         },
         "abortion": {
           "stance": 2,
@@ -158,19 +169,19 @@
           "sources": []
         },
         "elections": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "record",
-          "summary": "Voted against the SAVE Act (H.R. 22), which would require documentary proof of citizenship to register to vote in federal elections.",
+          "summary": "Voted against the SAVE Act (H.R. 22, April 10, 2025), which would require documentary proof of citizenship to register to vote.",
           "quote": null,
           "sources": [
             {
-              "title": "H.R.22 - SAVE Act (119th Congress) - Congress.gov",
-              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "title": "Roll call 102, 119th Congress (H.R. 22, SAVE Act) - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll102.xml",
               "date": "2025-04-10"
             },
             {
-              "title": "House Roll Call 102 (H.R. 22, SAVE Act, Apr. 10, 2025) - Clerk of the House",
-              "url": "https://clerk.house.gov/Votes/2025102",
+              "title": "H.R. 22 - SAVE Act - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
               "date": "2025-04-10"
             }
           ]
@@ -370,6 +381,33 @@
               "title": "Debbie Wasserman Schultz wins primary despite Democratic backlash (Florida Trib)",
               "url": "https://floridatrib.org/2026/08/18/debbie-wasserman-schultz-wins-primary-despite-democratic-backlash/",
               "date": "2026-08-18"
+            }
+          ]
+        },
+        {
+          "item": "Voted against the Laken Riley Act (S. 5), Jan. 22, 2025.",
+          "sources": [
+            {
+              "title": "Roll call 23 - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+            }
+          ]
+        },
+        {
+          "item": "Voted against the SAVE Act (H.R. 22), April 10, 2025.",
+          "sources": [
+            {
+              "title": "Roll call 102 - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+            }
+          ]
+        },
+        {
+          "item": "Voted against final passage of the One Big Beautiful Bill Act (H.R. 1), July 3, 2025.",
+          "sources": [
+            {
+              "title": "Roll call 190 - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll190.xml"
             }
           ]
         }

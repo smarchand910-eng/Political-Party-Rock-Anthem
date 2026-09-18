@@ -487,18 +487,13 @@
         "immigration": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "Martin says the immigration system should be overhauled to be 'safe, fair, transparent, and humane': investing in immigration judges to clear asylum backlogs, ending the use of enforcement 'as a political weapon,' creating a workable path to legal status for long-term residents and fixing the visa system.",
-          "quote": null,
+          "summary": "Wants a safe, fair, transparent and humane immigration overhaul with more judges to clear asylum backlogs.",
+          "quote": "we need to overhaul the immigration system: one that is safe, fair, transparent, and humane",
           "sources": [
             {
-              "title": "James Martin, Bernard Taylor compete for the chance to unseat Brian Mast in CD 21 (Florida Politics)",
-              "url": "https://floridapolitics.com/archives/811386-james-martin-bernard-taylor-compete-for-the-chance-to-unseat-brian-mast-in-cd-21/",
-              "date": "2026-08"
-            },
-            {
-              "title": "James Martin on Immigration, Data Centers & the Future of CD-21 | Full Interview (YouTube)",
-              "url": "https://www.youtube.com/watch?v=XyPdrE2B2Nw",
-              "date": "2026"
+              "title": "James Martin for Florida - Home",
+              "url": "https://www.jamesmartinforflorida.com/",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -519,36 +514,26 @@
         "healthcare": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Would restore Affordable Care Act subsidies and create a public health-insurance option to increase competition and expand access.",
-          "quote": null,
+          "summary": "Says health care is a human right and supports a public option.",
+          "quote": "a public option: a pathway to quality, affordable healthcare for every American who wants it",
           "sources": [
             {
-              "title": "James Martin Outlines Campaign Priorities in Florida's 21st Congressional District Democratic Primary (yourNEWS)",
-              "url": "https://yournews.com/2026/08/06/7144926/james-martin-outlines-campaign-priorities-in-floridas-21st-congressional-district/",
-              "date": "2026-08-06"
-            },
-            {
-              "title": "James Martin, Bernard Taylor compete for the chance to unseat Brian Mast in CD 21 (Florida Politics)",
-              "url": "https://floridapolitics.com/archives/811386-james-martin-bernard-taylor-compete-for-the-chance-to-unseat-brian-mast-in-cd-21/",
-              "date": "2026-08"
+              "title": "James Martin for Florida - Home",
+              "url": "https://www.jamesmartinforflorida.com/",
+              "date": "2026-09-18"
             }
           ]
         },
         "social_security": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Pledges he 'will never vote to cut Social Security, Medicare, or veterans' benefits.'",
-          "quote": null,
+          "summary": "Will never vote to cut Social Security, Medicare or veterans' benefits, raise the retirement age or privatize.",
+          "quote": "He will never vote to cut Social Security, Medicare, or veterans' benefits.",
           "sources": [
             {
-              "title": "James Martin Outlines Campaign Priorities in Florida's 21st Congressional District Democratic Primary (yourNEWS)",
-              "url": "https://yournews.com/2026/08/06/7144926/james-martin-outlines-campaign-priorities-in-floridas-21st-congressional-district/",
-              "date": "2026-08-06"
-            },
-            {
-              "title": "James Martin For Florida | Candidate for Congress 2026 (campaign site)",
+              "title": "James Martin for Florida - Home",
               "url": "https://www.jamesmartinforflorida.com/",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
@@ -560,15 +545,15 @@
           "sources": []
         },
         "environment": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Names clean water one of his two top priorities alongside cost of living.",
-          "quote": null,
+          "summary": "Wants Everglades restoration completed, Lake Okeechobee cleaned up and toxic discharges to the estuaries stopped.",
+          "quote": "completing Everglades restoration, cleaning up Lake Okeechobee, stopping toxic discharges to the St. Lucie Estuary and Indian River Lagoon",
           "sources": [
             {
-              "title": "James Martin says cost of living, clean water top priorities in challenge to Brian Mast (CBS12)",
-              "url": "https://cbs12.com/news/election/james-martin-says-cost-of-living-clean-water-top-priorities-in-challenge-to-brian-mast",
-              "date": "2026"
+              "title": "James Martin for Florida - Home",
+              "url": "https://www.jamesmartinforflorida.com/",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -617,18 +602,13 @@
         "tariffs": {
           "stance": -2,
           "confidence": "stated",
-          "summary": "Says he would push to repeal tariffs he believes are raising consumer prices.",
-          "quote": null,
+          "summary": "Calls for ending 'reckless tariffs driving up the price of groceries'.",
+          "quote": "ending reckless tariffs driving up the price of groceries",
           "sources": [
             {
-              "title": "James Martin Outlines Campaign Priorities in Florida's 21st Congressional District Democratic Primary (yourNEWS)",
-              "url": "https://yournews.com/2026/08/06/7144926/james-martin-outlines-campaign-priorities-in-floridas-21st-congressional-district/",
-              "date": "2026-08-06"
-            },
-            {
-              "title": "James Martin, Bernard Taylor compete for the chance to unseat Brian Mast in CD 21 (Florida Politics)",
-              "url": "https://floridapolitics.com/archives/811386-james-martin-bernard-taylor-compete-for-the-chance-to-unseat-brian-mast-in-cd-21/",
-              "date": "2026-08"
+              "title": "James Martin for Florida - Home",
+              "url": "https://www.jamesmartinforflorida.com/",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -649,18 +629,13 @@
         "veterans": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "A Coast Guard veteran, he pledges never to vote to cut veterans' benefits; specific VA-expansion proposals were not captured.",
-          "quote": null,
+          "summary": "Would never vote to cut veterans' benefits.",
+          "quote": "never vote to cut Social Security, Medicare, or veterans' benefits",
           "sources": [
             {
-              "title": "James Martin Outlines Campaign Priorities in Florida's 21st Congressional District Democratic Primary (yourNEWS)",
-              "url": "https://yournews.com/2026/08/06/7144926/james-martin-outlines-campaign-priorities-in-floridas-21st-congressional-district/",
-              "date": "2026-08-06"
-            },
-            {
-              "title": "Meet James - James Martin For Congress (campaign site)",
-              "url": "https://www.jamesmartinforflorida.com/about",
-              "date": null
+              "title": "James Martin for Florida - Home",
+              "url": "https://www.jamesmartinforflorida.com/",
+              "date": "2026-09-18"
             }
           ]
         }

@@ -508,11 +508,17 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would confront insurers charging enormous premiums and protect renters from extreme increases.",
+          "quote": "protect renters from extreme increases",
+          "sources": [
+            {
+              "title": "Locklin for Congress - Home",
+              "url": "https://locklinforcongress.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "housing": {
           "stance": 1,
@@ -561,18 +567,30 @@
           ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would restore abortion rights nationwide and protect contraception and fertility care.",
+          "quote": "fight to restore abortion rights nationwide and protect access to contraception, fertility treatment, and emergency reproductive care",
+          "sources": [
+            {
+              "title": "Locklin for Congress - Home",
+              "url": "https://locklinforcongress.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports universal background checks and safe storage.",
+          "quote": "universal background checks, safe firearm storage",
+          "sources": [
+            {
+              "title": "Locklin for Congress - Home",
+              "url": "https://locklinforcongress.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "healthcare": {
           "stance": 2,
@@ -593,11 +611,17 @@
           ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Opposes benefit cuts, privatization and raising the retirement age.",
+          "quote": "oppose benefit cuts, privatization, and attempts to raise the retirement age",
+          "sources": [
+            {
+              "title": "Locklin for Congress - Home",
+              "url": "https://locklinforcongress.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -641,11 +665,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Supports accountable policing, mental-health services and community violence prevention.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Locklin for Congress - Home",
+              "url": "https://locklinforcongress.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,

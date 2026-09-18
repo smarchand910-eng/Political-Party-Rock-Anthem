@@ -34,18 +34,13 @@
         "taxes": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Askar's campaign site says Washington's problem is spending, not insufficient taxation; his stated priorities include lowering taxes and regulations and reducing federal spending.",
-          "quote": "Washington's problem is not that it taxes too little, but that it spends too much",
+          "summary": "Would slash 'overburdening taxes and regulations'.",
+          "quote": "slash overburdening taxes and regulations",
           "sources": [
             {
-              "title": "Casey Askar for Congress (campaign site)",
+              "title": "Casey Askar for Congress - Home",
               "url": "https://www.caseyaskar.com/",
-              "date": null
-            },
-            {
-              "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
-              "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
-              "date": "2026-08-04"
+              "date": "2026-09-18"
             }
           ]
         },
@@ -71,25 +66,15 @@
           "sources": []
         },
         "immigration": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Askar says President Trump's 'merit-based America First immigration policy needs to be kept in place' and lists securing the border among his priorities. A specific position on large-scale deportation was not found.",
-          "quote": "President Trump's merit-based America First immigration policy needs to be kept in place",
+          "summary": "Would keep deporting 'criminal illegal aliens' and secure the borders and ports of entry.",
+          "quote": "We must continue to deport criminal illegal aliens and secure our borders, and all Points of Entry into the U.S.",
           "sources": [
             {
-              "title": "Casey Askar - US House Candidate: Record & Positions (Decode the Vote)",
-              "url": "https://www.decodethevote.com/candidate/cand-sos-fl-casey-askar",
-              "date": "2026"
-            },
-            {
-              "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
-              "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
-              "date": "2026-08-04"
-            },
-            {
-              "title": "Casey Askar for Congress (campaign site)",
+              "title": "Casey Askar for Congress - Home",
               "url": "https://www.caseyaskar.com/",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
@@ -130,11 +115,17 @@
           ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Would end Obamacare and replace it, while cutting waste to preserve Medicare and Medicaid.",
+          "quote": "End Obamacare once and for all, and replace it with a vehicle that works for all Americans.",
+          "sources": [
+            {
+              "title": "Casey Askar for Congress - Home",
+              "url": "https://www.caseyaskar.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -150,11 +141,17 @@
           ]
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says parents should ultimately decide how to educate their children.",
+          "quote": "Parents should ultimately decide how to educate their children.",
+          "sources": [
+            {
+              "title": "Casey Askar for Congress - Home",
+              "url": "https://www.caseyaskar.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -180,18 +177,13 @@
         "elections": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "Askar supports mandatory Real ID and immigration-status verification to vote 'so that only American citizens can vote,' which would add a new registration/voting requirement.",
-          "quote": "so that only American citizens can vote",
+          "summary": "Supports Real ID requirements for voting.",
+          "quote": null,
           "sources": [
             {
-              "title": "Casey Askar - US House Candidate: Record & Positions (Decode the Vote)",
-              "url": "https://www.decodethevote.com/candidate/cand-sos-fl-casey-askar",
-              "date": "2026"
-            },
-            {
-              "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
-              "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
-              "date": "2026-08-04"
+              "title": "Casey Askar for Congress - Home",
+              "url": "https://www.caseyaskar.com/",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -214,32 +206,28 @@
           ]
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "energy": {
-          "stance": -1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Askar supports 'unleashing' U.S. domestic energy production to reduce reliance on foreign oil; no statement on renewable energy or utility-rate oversight was found.",
-          "quote": null,
+          "summary": "Says 'biological boys do not belong in girl's bathrooms' and opposes 'divisive' education reforms.",
+          "quote": "Biological boys do not belong in girl's bathrooms.",
           "sources": [
             {
-              "title": "Casey Askar for Congress (campaign site)",
+              "title": "Casey Askar for Congress - Home",
               "url": "https://www.caseyaskar.com/",
-              "date": null
-            },
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "energy": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Wants to expand oil, natural gas, nuclear and clean-coal production.",
+          "quote": "Let's expand oil, natural gas, nuclear, and clean coal production",
+          "sources": [
             {
-              "title": "Casey Askar's Issue Positions / Political Courage Test (Vote Smart)",
-              "url": "https://justfacts.votesmart.org/candidate/political-courage-test/191402/casey-askar",
-              "date": "2026"
-            },
-            {
-              "title": "Florida Congressional District 22 Voting Guide: Meet the 2026 Candidates (Hy-Lo News)",
-              "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
-              "date": "2026-08-04"
+              "title": "Casey Askar for Congress - Home",
+              "url": "https://www.caseyaskar.com/",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -260,23 +248,13 @@
         "trump": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Askar's campaign describes him as 'backing Trump agenda'; President Trump endorsed him in September 2026 and the NRCC placed him in its 'MAGA Majority' program.",
-          "quote": "backing Trump agenda",
+          "summary": "Pledges to work alongside President Trump on an America First agenda.",
+          "quote": "work alongside President Donald Trump",
           "sources": [
             {
-              "title": "Casey Askar for Congress (campaign site)",
+              "title": "Casey Askar for Congress - Home",
               "url": "https://www.caseyaskar.com/",
-              "date": null
-            },
-            {
-              "title": "President Trump endorses Republican congressional candidate Casey Askar for Florida's 22nd district (WLRN)",
-              "url": "https://www.wlrn.org/government-politics/2026-09-03/president-trump-endorses-republican-congressional-candidate-casey-askar-for-floridas-22nd-district",
-              "date": "2026-09-03"
-            },
-            {
-              "title": "NRCC Announces Casey Askar to MAGA Majority Program (NRCC)",
-              "url": "https://nrcc.org/2026/09/08/nrcc-announces-casey-askar-to-maga-majority-program/",
-              "date": "2026-09-08"
+              "date": "2026-09-18"
             }
           ]
         },
@@ -465,11 +443,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would take on housing, insurance and everyday costs squeezing South Florida families.",
+          "quote": "Take on the housing, insurance, and everyday costs squeezing South Florida families.",
+          "sources": [
+            {
+              "title": "Pia Dandiya for Congress - Home",
+              "url": "https://piaforcongress.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -511,36 +495,26 @@
         "healthcare": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Dandiya says she is running to lower health-care costs; her launch agenda includes 'reducing health care costs.' A specific position on Medicaid expansion or ACA subsidies was not found.",
-          "quote": null,
+          "summary": "Would protect Medicaid coverage.",
+          "quote": "Protect Social Security, Medicare, Medicaid",
           "sources": [
             {
-              "title": "Meet Pia Dandiya (campaign site)",
-              "url": "https://piaforcongress.com/about",
-              "date": null
-            },
-            {
-              "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
-              "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
-              "date": "2025"
+              "title": "Pia Dandiya for Congress - Home",
+              "url": "https://piaforcongress.com/",
+              "date": "2026-09-18"
             }
           ]
         },
         "social_security": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Dandiya lists protecting Social Security and Medicare as one of her main reasons for running; how she would fund the programs (e.g., additional revenue) was not specified in sources found.",
-          "quote": null,
+          "summary": "Pledges to protect Social Security, Medicare and Medicaid.",
+          "quote": "Protect Social Security, Medicare, Medicaid, and the veterans who served us.",
           "sources": [
             {
-              "title": "Meet Pia Dandiya (campaign site)",
-              "url": "https://piaforcongress.com/about",
-              "date": null
-            },
-            {
-              "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
-              "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
-              "date": "2025"
+              "title": "Pia Dandiya for Congress - Home",
+              "url": "https://piaforcongress.com/",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -622,11 +596,17 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists protecting veterans among her priorities.",
+          "quote": "the veterans who served us",
+          "sources": [
+            {
+              "title": "Pia Dandiya for Congress - Home",
+              "url": "https://piaforcongress.com/",
+              "date": "2026-09-18"
+            }
+          ]
         }
       },
       "other_issues": [

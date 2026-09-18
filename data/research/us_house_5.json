@@ -511,18 +511,13 @@
         "healthcare": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Says she will work to keep premiums and prescription costs affordable and 'maintain federal cost-sharing supports'; an explicit position on Medicaid expansion was not found.",
-          "quote": null,
+          "summary": "Pledges to use her health-care background to fight for lower insurance costs and expanded access and coverage.",
+          "quote": "fighting for lower insurance costs and expanded access and coverage",
           "sources": [
             {
-              "title": "Rachel Grage for Congress: Issues",
-              "url": "https://www.rachelgrage.com/issues",
-              "date": null
-            },
-            {
-              "title": "Smarter.Vote: Rachel Grage - 2026 Florida's 5th Congressional District",
-              "url": "https://smarter.vote/races/fl-house-05-2026/rachel-grage/",
-              "date": null
+              "title": "Rachel Grage for Congress - Home",
+              "url": "https://rachelgrage.com/",
+              "date": "2026-09-18"
             }
           ]
         },

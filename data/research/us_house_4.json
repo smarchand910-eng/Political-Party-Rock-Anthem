@@ -460,13 +460,13 @@
         "housing": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Supports lowering rent, increasing housing supply and making homeownership achievable for working families, with safe housing for seniors and veterans.",
+          "summary": "Would lower rent, increase housing supply and make homeownership achievable.",
           "quote": null,
           "sources": [
             {
-              "title": "Holloway for Congress: United We Win (platform)",
+              "title": "Holloway for Congress - Platform",
               "url": "https://www.hollowayforcongress.com/platform",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
@@ -494,31 +494,26 @@
         "healthcare": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Platform says affordable health care 'should mean lower premiums, lower prescription drug costs, expanding Medicare coverage, and guaranteeing every American access to quality care as a basic right.'",
+          "summary": "Calls quality care a basic human right and would expand Medicare coverage and lower premiums.",
           "quote": "guaranteeing every American access to quality care as a basic right",
           "sources": [
             {
-              "title": "Holloway for Congress: United We Win (platform)",
+              "title": "Holloway for Congress - Platform",
               "url": "https://www.hollowayforcongress.com/platform",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
         "social_security": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Says Social Security 'must be protected and strengthened, so seniors and people with disabilities can retire with dignity'; Ballotpedia notes Social Security expansion was among the issues that drew her into her first run in 2016.",
-          "quote": "must be protected and strengthened",
+          "summary": "Says Social Security must be protected and strengthened.",
+          "quote": "Social Security must be protected and strengthened, so seniors and people with disabilities can retire with dignity.",
           "sources": [
             {
-              "title": "Holloway for Congress: United We Win (platform)",
+              "title": "Holloway for Congress - Platform",
               "url": "https://www.hollowayforcongress.com/platform",
-              "date": null
-            },
-            {
-              "title": "Ballotpedia: L.J. Holloway",
-              "url": "https://ballotpedia.org/L.J._Holloway",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
@@ -553,13 +548,13 @@
         "elections": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Says protecting voting rights ensures 'every eligible citizen can vote freely, securely, and without barriers.'",
-          "quote": "vote freely, securely, and without barriers",
+          "summary": "Wants every eligible citizen able to vote freely and without barriers.",
+          "quote": "every eligible citizen can vote freely, securely, and without barriers",
           "sources": [
             {
-              "title": "Holloway for Congress: United We Win (platform)",
+              "title": "Holloway for Congress - Platform",
               "url": "https://www.hollowayforcongress.com/platform",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
@@ -578,11 +573,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would invest in American clean energy.",
+          "quote": "investing in American clean energy, strengthening domestic supply chains",
+          "sources": [
+            {
+              "title": "Holloway for Congress - Platform",
+              "url": "https://www.hollowayforcongress.com/platform",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "tariffs": {
           "stance": null,

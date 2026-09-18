@@ -415,18 +415,13 @@
         "taxes": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "His campaign says he 'delivered real relief' in the Legislature through sales-tax holidays and 'the largest tax cut in Florida history,' and blames federal spending, subsidies and regulation for rising costs of food, education, health care, housing and energy.",
-          "quote": null,
+          "summary": "Cites delivering 'the largest tax cut in Florida history' and pledges to cut wasteful spending and 'keep your money in your pocket'.",
+          "quote": "In Congress, Mike will cut the wasteful spending that drives prices up and keep your money in your pocket.",
           "sources": [
             {
-              "title": "Platform - Mike Beltran for Congress",
-              "url": "https://beltranforcongress.com/platform/",
-              "date": null
-            },
-            {
-              "title": "Mike Beltran jumps into CD 14 race to challenge Kathy Castor - Florida Politics",
-              "url": "https://floridapolitics.com/archives/797010-mike-beltran-jumps-into-cd-14-race-to-challenge-kathy-castor/",
-              "date": null
+              "title": "Mike Beltran for Congress - Platform",
+              "url": "https://beltranforcongress.com/platform",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -438,79 +433,92 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+              "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+              "date": "2022-12"
+            },
+            {
+              "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+              "date": "2022-12"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted against CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+              "date": "2023-03-24"
+            },
+            {
+              "title": "CS/SB 102 (2023) roll-call vote (House)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+              "date": "2023-03-24"
+            }
+          ]
         },
         "immigration": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Says he stands '100% with President Trump on immigration' and calls for finishing the wall, deporting 'the criminals and fraudsters' and restoring law and order at the southern border; he also proposes cracking down on 'birth tourism.'",
-          "quote": null,
+          "summary": "Stands '100% with President Trump on immigration': finish the wall and deport criminals and fraudsters.",
+          "quote": "Mike stands 100% with President Trump on immigration. We need to finish the wall, deport the criminals and fraudsters",
           "sources": [
             {
-              "title": "Platform - Mike Beltran for Congress",
-              "url": "https://beltranforcongress.com/platform/",
-              "date": null
-            },
-            {
-              "title": "Mike Beltran wants to crack down on birth tourism and Big Pharma 'price discrimination' - Florida Politics",
-              "url": "https://floridapolitics.com/archives/814074-mike-beltran-wants-to-crack-down-on-birth-tourism-and-big-pharma-price-discrimination/",
-              "date": "2026-08"
+              "title": "Mike Beltran for Congress - Platform",
+              "url": "https://beltranforcongress.com/platform",
+              "date": "2026-09-18"
             }
           ]
         },
         "abortion": {
           "stance": -2,
-          "confidence": "record",
-          "summary": "As a state representative Beltran voted for Florida's 15-week (2022) and six-week (2023) abortion laws and sponsored legislation to prohibit most abortions with narrow medical-emergency exceptions; he was endorsed by pro-life organizations at his campaign launch.",
-          "quote": null,
+          "confidence": "stated",
+          "summary": "Says Dobbs was correctly decided and states should set abortion policy with exceptions for rape, incest and the life of the mother.",
+          "quote": "He believes Dobbs was correctly decided and that states, not Washington bureaucrats, judges, or politicians, should set their own policies",
           "sources": [
             {
-              "title": "Mike Beltran - Florida Choice Tracker",
-              "url": "https://choicetracker.org/fl/people/mike-beltran/195166208",
-              "date": null
-            },
-            {
-              "title": "Mike Beltran - Florida House of Representatives member page",
-              "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4747",
-              "date": null
-            },
-            {
-              "title": "Mike Beltran jumps into CD 14 race - Florida Politics",
-              "url": "https://floridapolitics.com/archives/797010-mike-beltran-jumps-into-cd-14-race-to-challenge-kathy-castor/",
-              "date": null
+              "title": "Mike Beltran for Congress - Platform",
+              "url": "https://beltranforcongress.com/platform",
+              "date": "2026-09-18"
             }
           ]
         },
         "guns": {
           "stance": -2,
           "confidence": "stated",
-          "summary": "Supported Florida's 2023 permitless-carry law, saying gun owners should not be 'at the mercy of the government to issue you a permit,' and has backed open-carry and looser concealed-carry measures.",
-          "quote": "You shouldn't be at the mercy of the government to issue you a permit.",
+          "summary": "Claims a perfect pro-gun record: no red-flag laws, no magazine bans.",
+          "quote": "No red flag laws, no magazine bans, no compromise. The Second Amendment is absolute",
           "sources": [
             {
-              "title": "The Florida House passes the permitless carry bill - WUSF",
-              "url": "https://www.wusf.org/politics-issues/2023-03-26/florida-house-backs-concealed-weapons-change",
-              "date": "2023-03-26"
+              "title": "Mike Beltran for Congress - Platform",
+              "url": "https://beltranforcongress.com/platform",
+              "date": "2026-09-18"
             }
           ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Approach is breaking up health-care bureaucracies and expanding telehealth rather than expanding public coverage.",
+          "quote": "Mike broke up healthcare bureaucracies that blocked new clinics from opening and expanded telehealth access",
+          "sources": [
+            {
+              "title": "Mike Beltran for Congress - Platform",
+              "url": "https://beltranforcongress.com/platform",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -520,11 +528,17 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Championed school choice in Tallahassee and would bring that fight to Washington.",
+          "quote": "Mike championed school choice in Tallahassee, giving families the freedom to choose the school and education that works for them.",
+          "sources": [
+            {
+              "title": "Mike Beltran for Congress - Platform",
+              "url": "https://beltranforcongress.com/platform",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -548,25 +562,48 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Backs the SAVE America Act, photo ID and purging noncitizens from voter rolls.",
+          "quote": "We need to pass the SAVE America Act to ensure only American citizens vote in our elections, mandate photo ID, and purge noncitizens from voter rolls.",
+          "sources": [
+            {
+              "title": "Mike Beltran for Congress - Platform",
+              "url": "https://beltranforcongress.com/platform",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Stands behind law enforcement and opposes efforts to defund police.",
+          "quote": "Mike stands firmly behind law enforcement and will oppose any effort to defund, undermine, or politicize",
+          "sources": [
+            {
+              "title": "Mike Beltran for Congress - Platform",
+              "url": "https://beltranforcongress.com/platform",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "SB 254 (2023) bill page - The Florida Senate",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+              "date": "2023-05-04"
+            },
+            {
+              "title": "SB 254 (2023) roll-call vote (House)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+              "date": "2023-05-04"
+            }
+          ]
         },
         "energy": {
           "stance": null,
@@ -598,32 +635,28 @@
         "trump": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Calls himself 'MAGA Mike,' says he has supported Donald Trump since 2015 and that he stands '100% with President Trump' on immigration.",
-          "quote": null,
+          "summary": "Says he stands 100 percent with President Trump on immigration.",
+          "quote": "Mike stands 100% with President Trump on immigration.",
           "sources": [
             {
-              "title": "Beltran and Castor trade attacks in race for Florida's 14th District - WTSP",
-              "url": "https://www.wtsp.com/article/news/politics/elections/florida-14th-district-race-election-kathy-castor-mike-beltran/67-5dc518b3-d6ba-4cec-baec-99e4ea76abf5",
-              "date": null
-            },
-            {
-              "title": "Mike Beltran - Wikipedia",
-              "url": "https://en.wikipedia.org/wiki/Mike_Beltran",
-              "date": null
-            },
-            {
-              "title": "Platform - Mike Beltran for Congress",
-              "url": "https://beltranforcongress.com/platform/",
-              "date": null
+              "title": "Mike Beltran for Congress - Platform",
+              "url": "https://beltranforcongress.com/platform",
+              "date": "2026-09-18"
             }
           ]
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges veterans the care, resources and respect they deserve.",
+          "quote": "Mike will fight to ensure our veterans receive the care, resources, and respect they deserve.",
+          "sources": [
+            {
+              "title": "Mike Beltran for Congress - Platform",
+              "url": "https://beltranforcongress.com/platform",
+              "date": "2026-09-18"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -705,6 +738,136 @@
               "title": "Mike Beltran emerges victorious in CD 14 - Florida Politics",
               "url": "https://floridapolitics.com/archives/814008-mike-beltran-emerges-victorious-in-cd-14-after-crowded-gop-primary-to-take-on-kathy-castor/",
               "date": null
+            }
+          ]
+        },
+        {
+          "item": "Voted against CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted for HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted for HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF"
             }
           ]
         }
