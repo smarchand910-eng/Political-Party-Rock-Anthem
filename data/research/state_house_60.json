@@ -1,0 +1,72 @@
+{
+  "race_id": "state_house_60",
+  "title": "Florida House, District 60",
+  "level": "state",
+  "office_group": "State",
+  "term": "2 years",
+  "jurisdiction": {
+    "type": "hd",
+    "id": 60
+  },
+  "counties": [
+    "Pinellas"
+  ],
+  "counties_verified": true,
+  "what_it_does": "Represents District 60 (Part of Pinellas) in the Florida House; votes on state laws and the state budget.",
+  "on_november_ballot": true,
+  "decided_note": null,
+  "coverage": "roster",
+  "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
+  "candidates": [
+    {
+      "id": "melissa_rutland",
+      "name": "Melissa Rutland",
+      "party": "Republican",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "primary_result": null,
+      "ballot_status": "verified",
+      "roster_sources": [
+        {
+          "title": "Florida Division of Elections, 2026 general election candidate list",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-09-18"
+        }
+      ],
+      "positions": {},
+      "other_issues": [],
+      "record": [],
+      "endorsements": []
+    },
+    {
+      "id": "lindsay_polega_quigley",
+      "name": "Lindsay Polega-Quigley",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "primary_result": null,
+      "ballot_status": "verified",
+      "roster_sources": [
+        {
+          "title": "Florida Division of Elections, 2026 general election candidate list",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-09-18"
+        }
+      ],
+      "positions": {},
+      "other_issues": [],
+      "record": [],
+      "endorsements": []
+    }
+  ]
+}

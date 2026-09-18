@@ -1,0 +1,97 @@
+{
+  "race_id": "state_house_113",
+  "title": "Florida House, District 113",
+  "level": "state",
+  "office_group": "State",
+  "term": "2 years",
+  "jurisdiction": {
+    "type": "hd",
+    "id": 113
+  },
+  "counties": [
+    "Miami-Dade"
+  ],
+  "counties_verified": true,
+  "what_it_does": "Represents District 113 (Part of Miami-Dade) in the Florida House; votes on state laws and the state budget.",
+  "on_november_ballot": true,
+  "decided_note": null,
+  "coverage": "roster",
+  "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
+  "candidates": [
+    {
+      "id": "bruno_barreiro",
+      "name": "Bruno Barreiro",
+      "party": "Republican",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "primary_result": null,
+      "ballot_status": "verified",
+      "roster_sources": [
+        {
+          "title": "Florida Division of Elections, 2026 general election candidate list",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-09-18"
+        }
+      ],
+      "positions": {},
+      "other_issues": [],
+      "record": [],
+      "endorsements": []
+    },
+    {
+      "id": "gloria_romero_roses",
+      "name": "Gloria Romero Roses",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "primary_result": null,
+      "ballot_status": "verified",
+      "roster_sources": [
+        {
+          "title": "Florida Division of Elections, 2026 general election candidate list",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-09-18"
+        }
+      ],
+      "positions": {},
+      "other_issues": [],
+      "record": [],
+      "endorsements": []
+    },
+    {
+      "id": "paola_vazquez_del_mercado",
+      "name": "Paola Vazquez del Mercado",
+      "party": "Write-in",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
+      "residence": null,
+      "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "primary_result": null,
+      "ballot_status": "verified",
+      "roster_sources": [
+        {
+          "title": "Florida Division of Elections, 2026 general election candidate list",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-09-18"
+        }
+      ],
+      "positions": {},
+      "other_issues": [],
+      "record": [],
+      "endorsements": []
+    }
+  ]
+}
