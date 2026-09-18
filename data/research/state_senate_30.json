@@ -472,8 +472,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.electriverafl.com/",
+      "occupation": "Real-estate broker and loan consultant, Coral Springs",
       "residence": null,
       "background": "Rivera emerged from the Aug. 18, 2026 Republican primary (which also included Jerusa Zitta) as the GOP nominee against Book in SD 30; Florida Politics described the GOP primary as low-funded. No further background found.",
       "primary_result": "Won Aug. 18, 2026 Republican primary (Florida Politics); percentage not captured.",
@@ -501,18 +501,30 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says SB 2-A fell short; proposes policyholder-owned reciprocal exchanges, requiring carriers with state reinsurance to pass on measurable rate cuts, and barring claim denials during declared emergencies.",
+          "quote": "Require any carrier receiving state reinsurance backing to pass savings to policyholders as measurable rate reductions",
+          "sources": [
+            {
+              "title": "Hector Rivera for Florida State Senate - Priorities and Q&A",
+              "url": "https://www.electriverafl.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Prefers self-funded public-private workforce-housing partnerships that reduce reliance on taxpayer subsidies and a 'Landlord Loan Act' for seller financing.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Hector Rivera for Florida State Senate - Priorities and Q&A",
+              "url": "https://www.electriverafl.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -536,11 +548,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Wants lower costs 'without higher taxes' through self-funding models, state-negotiated drug prices, telehealth and targeted subsidies, and would redirect Medicaid administrative savings toward coverage expansion; a mixed position.",
+          "quote": "Lower costs without higher taxes is the goal",
+          "sources": [
+            {
+              "title": "Hector Rivera for Florida State Senate - Priorities and Q&A",
+              "url": "https://www.electriverafl.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -564,11 +582,17 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Proposes a 'Density Ceiling' so state preemption under the Live Local Act cannot override municipal master plans, and says local laws are best decided locally.",
+          "quote": "Establish a \"Density Ceiling\" that prevents state preemption from overriding municipal master plans",
+          "sources": [
+            {
+              "title": "Hector Rivera for Florida State Senate - Priorities and Q&A",
+              "url": "https://www.electriverafl.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,

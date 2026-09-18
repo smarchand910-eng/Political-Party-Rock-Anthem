@@ -25,8 +25,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.darlingforfl.com/",
+      "occupation": "Community-engagement professional; former legislative aide, St. Petersburg City Council",
       "residence": null,
       "background": "Democratic nominee for the open HD 62 seat (south St. Petersburg and part of Hillsborough County) after defeating former Rep. Wengay Newton in the Aug. 18, 2026 primary.",
       "primary_result": "Won Aug. 18, 2026 Democratic primary over Wengay Newton (Tampa Bay Times)",
@@ -53,11 +53,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls for more funding for affordable housing.",
+          "quote": "More funding for affordable housing that meets the needs of real people",
+          "sources": [
+            {
+              "title": "Kyandra Darling - Issues",
+              "url": "https://www.darlingforfl.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -67,25 +73,43 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would protect access to comprehensive reproductive care.",
+          "quote": "Protect access to comprehensive reproductive care and champion women's rights",
+          "sources": [
+            {
+              "title": "Kyandra Darling - Issues",
+              "url": "https://www.darlingforfl.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports universal background checks and barring domestic abusers and violent criminals from owning firearms.",
+          "quote": "universal background checks on all gun purchases",
+          "sources": [
+            {
+              "title": "Kyandra Darling - Issues",
+              "url": "https://www.darlingforfl.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says every Floridian deserves affordable care and faults Florida for refusing to expand Medicaid; would lower drug costs and expand mental-health coverage.",
+          "quote": "every Floridian deserves access to quality, affordable healthcare—no exceptions",
+          "sources": [
+            {
+              "title": "Kyandra Darling - Issues",
+              "url": "https://www.darlingforfl.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -102,11 +126,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would hold polluters accountable and expand urban tree canopy and green space.",
+          "quote": "Hold polluters accountable and increase transparency around environmental risks",
+          "sources": [
+            {
+              "title": "Kyandra Darling - Issues",
+              "url": "https://www.darlingforfl.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "growth": {
           "stance": null,

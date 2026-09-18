@@ -218,8 +218,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://marklbaker.com/",
+      "occupation": "Sign-shop owner, Crystal River; former head of the Citrus Coffee Coalition",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -231,7 +231,125 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Opposes the current property-tax-cut proposals, which he calls 'Property Tax Voodoo', saying they lack transparency and shift the burden onto renters, workers and small businesses.",
+          "quote": "Property Tax Voodoo ... shift burden onto renters, workers, and small businesses.",
+          "sources": [
+            {
+              "title": "Mark Baker for Florida House District 23 - Platform",
+              "url": "https://marklbaker.com/platform",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Platform calls for utility-rate fairness so families can keep the lights on.",
+          "quote": "Fight for utility rate fairness so families can keep the lights on.",
+          "sources": [
+            {
+              "title": "Mark Baker for Florida House District 23 - Platform",
+              "url": "https://marklbaker.com/platform",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Platform calls for expanding Medicaid to cover Floridians in the coverage gap and lowering prescription-drug costs.",
+          "quote": "Expand Medicaid to cover the hundreds of thousands of Floridians who fall in the coverage gap.",
+          "sources": [
+            {
+              "title": "Mark Baker for Florida House District 23 - Platform",
+              "url": "https://marklbaker.com/platform",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Platform calls for expanding access to affordable housing for working families, seniors and first-time homebuyers.",
+          "quote": "Expand access to affordable housing for working families, seniors, and first-time homebuyers.",
+          "sources": [
+            {
+              "title": "Mark Baker for Florida House District 23 - Platform",
+              "url": "https://marklbaker.com/platform",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Opposes voucher programs, saying they divert resources from public education; supports fully funding public schools.",
+          "quote": "Oppose voucher programs that divert resources from public education.",
+          "sources": [
+            {
+              "title": "Mark Baker for Florida House District 23 - Platform",
+              "url": "https://marklbaker.com/platform",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Platform calls for repealing Florida's abortion ban and protecting access to reproductive health care and IVF.",
+          "quote": "Repeal Florida's extreme abortion ban that puts women's lives at risk.",
+          "sources": [
+            {
+              "title": "Mark Baker for Florida House District 23 - Platform",
+              "url": "https://marklbaker.com/platform",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Platform opposes voter-suppression laws and calls for protecting early voting and vote-by-mail access.",
+          "quote": "Oppose voter suppression laws ... protect early voting and vote-by-mail access.",
+          "sources": [
+            {
+              "title": "Mark Baker for Florida House District 23 - Platform",
+              "url": "https://marklbaker.com/platform",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Platform pairs funding and training for local law enforcement with investment in mental-health crisis response to reduce use of force; a mixed position on the statement.",
+          "quote": "Fund and support local law enforcement with proper training and resources. Invest in mental health crisis response to reduce unnecessary use of force.",
+          "sources": [
+            {
+              "title": "Mark Baker for Florida House District 23 - Platform",
+              "url": "https://marklbaker.com/platform",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Platform calls for protecting the Crystal River, Kings Bay, springs, rivers and coastline from pollution and overdevelopment.",
+          "quote": "Protect the Crystal River and Kings Bay from pollution and overdevelopment.",
+          "sources": [
+            {
+              "title": "Mark Baker for Florida House District 23 - Platform",
+              "url": "https://marklbaker.com/platform",
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []

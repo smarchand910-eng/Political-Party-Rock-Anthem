@@ -394,8 +394,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://jenkinsforfl.com/",
+      "occupation": "Speech-language pathologist; Brevard County School Board member 2020-2024",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -407,7 +407,34 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "social_security": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Lists protecting Medicare and Social Security as one of her three top priorities.",
+          "quote": "bringing down the cost of living, protecting Medicare and Social Security, and supporting strong public schools",
+          "sources": [
+            {
+              "title": "2026 Candidate Questionnaire: Jennifer Jenkins - The Space Coast Rocket",
+              "url": "https://thespacecoastrocket.com/2026-candidate-questionnaire-jennifer-jenkins-u-s-congress-fl-district-8/",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Calls the homeowners-insurance crisis the biggest local problem and proposes a multi-state catastrophe pool and a federal reinsurance program to spread risk.",
+          "quote": "We need a serious, bipartisan approach that recognizes Florida's unique challenges, including a multi-state catastrophe pool and federal reinsurance program to help spread the risk.",
+          "sources": [
+            {
+              "title": "2026 Candidate Questionnaire: Jennifer Jenkins - The Space Coast Rocket",
+              "url": "https://thespacecoastrocket.com/2026-candidate-questionnaire-jennifer-jenkins-u-s-congress-fl-district-8/",
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []

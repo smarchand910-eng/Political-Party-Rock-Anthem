@@ -499,8 +499,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.baldiformanatee.com/",
+      "occupation": "Retired advertising, real-estate, financial-services and banking executive; Indivisible Manatee organizer",
       "residence": null,
       "background": "Baldi ran in the Aug. 18, 2026 Democratic primary for SD 20 against John Houman and was recommended by The Bradenton Times editorial board. Primary result not verified.",
       "primary_result": "Ran in Aug. 18, 2026 Democratic primary vs. John Houman; result NOT verified.",
@@ -589,18 +589,35 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Puts clean drinking water and protecting coastlines, reefs, wetlands and wildlife at the top of his platform.",
+          "quote": "Safeguarding our coastlines, reefs, wetlands, and wildlife.",
+          "sources": [
+            {
+              "title": "Gerald Baldi for Florida Senate - Home",
+              "url": "https://www.baldiformanatee.com/",
+              "date": "2026-09-18"
+            },
+            {
+              "title": "Manatee Chamber of Commerce candidate questionnaire - Gerald Baldi",
+              "url": "https://www.manateechamber.com/gerald-baldi/",
+              "date": "2026-08"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would require impact studies and approval from surrounding communities, with infrastructure built first, before new construction is allowed.",
+          "quote": "Pass new law which requires impact studies and approval from Districts and surrounding communities then approved Infrastructure first before any construction allowed",
+          "sources": [
+            {
+              "title": "Manatee Chamber of Commerce candidate questionnaire - Gerald Baldi",
+              "url": "https://www.manateechamber.com/gerald-baldi/",
+              "date": "2026-08"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -631,11 +648,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Platform calls for helping families lower costs and increase energy independence through affordable solar.",
+          "quote": "Helping families lower costs and increase energy independence.",
+          "sources": [
+            {
+              "title": "Gerald Baldi for Florida Senate - Home",
+              "url": "https://www.baldiformanatee.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "trump": {
           "stance": null,

@@ -435,8 +435,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://karlakempforcongress.com/",
+      "occupation": "St. Petersburg; moved her campaign from the CD 13 race to SD 18 in June 2026",
       "residence": null,
       "background": "Kemp won the Aug. 18, 2026 Democratic primary for SD 18 with 60% of the vote (WFLA). No further biographical information was found in search results.",
       "primary_result": "Won Aug. 18, 2026 Democratic primary with 60% (WFLA).",
@@ -450,11 +450,17 @@
       ],
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Calls for a progressive tax system where 'those who benefit most pay their fair share', ending tax breaks for the wealthy and restoring higher historical rates.",
+          "quote": "Adopt a progressive tax system where those who benefit most pay their fair share.",
+          "sources": [
+            {
+              "title": "Karla Kemp for FL Senate District 18 - Issues",
+              "url": "https://karlakempforcongress.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -464,18 +470,30 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would mandate prompt payment of all valid claims and ban stock buybacks and hurricane exemptions that shift risk to homeowners.",
+          "quote": "Reform property insurance by mandating that all valid claims are paid promptly.",
+          "sources": [
+            {
+              "title": "Karla Kemp for FL Senate District 18 - Issues",
+              "url": "https://karlakempforcongress.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would ban corporate ownership of residential housing, create government-backed loans and redirect law-enforcement funds into housing and social services.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Karla Kemp for FL Senate District 18 - Issues",
+              "url": "https://karlakempforcongress.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -485,11 +503,17 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Lists 'complete women's healthcare (including abortion & IVF)' as guaranteed under her universal health-care plan.",
+          "quote": "Complete women's healthcare (including abortion & IVF)",
+          "sources": [
+            {
+              "title": "Karla Kemp for FL Senate District 18 - Issues",
+              "url": "https://karlakempforcongress.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -499,11 +523,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Wants a universal, service-based health-care system and Medicaid 'for all'.",
+          "quote": "Establish a universal, service-based healthcare system that prioritizes care over profit.",
+          "sources": [
+            {
+              "title": "Karla Kemp for FL Senate District 18 - Issues",
+              "url": "https://karlakempforcongress.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -520,11 +550,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would ban herbicide, pesticide and petroleum contamination of waterways and hold corporations accountable for cleanup.",
+          "quote": "Ban herbicides, pesticides, and petroleum contamination of waterways.",
+          "sources": [
+            {
+              "title": "Karla Kemp for FL Senate District 18 - Issues",
+              "url": "https://karlakempforcongress.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -548,11 +584,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Would redirect law-enforcement funds into housing and social services.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Karla Kemp for FL Senate District 18 - Issues",
+              "url": "https://karlakempforcongress.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -562,11 +604,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would return utility monopolies to community-owned cooperatives, accelerate the renewable transition and regulate natural-gas exports.",
+          "quote": "Return utility monopolies to community-owned cooperatives to ensure local control.",
+          "sources": [
+            {
+              "title": "Karla Kemp for FL Senate District 18 - Issues",
+              "url": "https://karlakempforcongress.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "trump": {
           "stance": null,

@@ -24,8 +24,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.samuelforflorida.com/",
+      "occupation": "Former Orange County Democratic Party chair; Princeton and Oxford graduate",
       "residence": null,
       "background": "Orange County Democratic Party chair; endorsed by outgoing Rep. Johanna López for HD 43. Ran in the Aug. 18, 2026 Democratic primary; result unverified.",
       "primary_result": null,
@@ -38,32 +38,56 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Named expanded homestead exemptions, along with toll reduction, as areas where he could work with Republicans.",
+          "quote": "I do think there's an opportunity to work together on issues that are less, you know, polarizing.",
+          "sources": [
+            {
+              "title": "Former Orange County Democratic Party chair hosts campaign kickoff for Florida House seat - Orlando Weekly",
+              "url": "https://www.orlandoweekly.com/news/elections/former-orange-county-democratic-party-chair-hosts-campaign-kickoff-for-florida-house-seat/",
+              "date": "2026-03-23"
+            }
+          ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants to lower property-insurance costs by holding insurers accountable and expanding My Safe Florida Home grants.",
+          "quote": "Lower property insurance costs by holding insurers accountable and expanding My Safe Florida Home grants",
+          "sources": [
+            {
+              "title": "Samuel Vilchez Santiago - Samuel's Priorities",
+              "url": "https://www.samuelforflorida.com/samuelspriorities",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls for fully funding housing-affordability programs and restoring local control to cities.",
+          "quote": "Fully fund housing affordability programs and restore local control to cities",
+          "sources": [
+            {
+              "title": "Samuel Vilchez Santiago - Samuel's Priorities",
+              "url": "https://www.samuelforflorida.com/samuelspriorities",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Would block state cooperation with mass-deportation efforts, restore in-state tuition for Dreamers and TPS holders, and repeal SB 1718 and the TRUMP Act.",
+          "quote": "Block state cooperation with mass deportation efforts",
+          "sources": [
+            {
+              "title": "Samuel Vilchez Santiago - Samuel's Priorities",
+              "url": "https://www.samuelforflorida.com/samuelspriorities",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -80,11 +104,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Priorities page calls for expanding Medicaid and lowering prescription-drug prices.",
+          "quote": "Expand Medicaid and lower prescription drug prices",
+          "sources": [
+            {
+              "title": "Samuel Vilchez Santiago - Samuel's Priorities",
+              "url": "https://www.samuelforflorida.com/samuelspriorities",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -94,11 +124,17 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Calls for fully funding public education and improving oversight of voucher programs, without proposing to end them.",
+          "quote": "Improve oversight of voucher programs",
+          "sources": [
+            {
+              "title": "Samuel Vilchez Santiago - Samuel's Priorities",
+              "url": "https://www.samuelforflorida.com/samuelspriorities",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -122,11 +158,17 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls for expanding early voting and vote-by-mail, fighting voter suppression and opposing partisan gerrymandering.",
+          "quote": "Expand early voting and vote-by-mail access",
+          "sources": [
+            {
+              "title": "Samuel Vilchez Santiago - Samuel's Priorities",
+              "url": "https://www.samuelforflorida.com/samuelspriorities",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -187,8 +229,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://voteforjorgemalavet.com/",
+      "occupation": "Retired U.S. Navy Supply Corps officer (1988-2008); former USCIS/DHS official; attorney",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -200,7 +242,86 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Policies page calls for cutting waste and lowering taxes.",
+          "quote": "cut waste, lower taxes",
+          "sources": [
+            {
+              "title": "Jorge Malavet for State Representative - Policies",
+              "url": "https://voteforjorgemalavet.com/policies.html",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "housing": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Would expand affordable housing through the private sector rather than government programs.",
+          "quote": "expand affordable housing through the private sector",
+          "sources": [
+            {
+              "title": "Jorge Malavet for State Representative - Policies",
+              "url": "https://voteforjorgemalavet.com/policies.html",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Calls for a safe and orderly border and merit-based immigration reform; does not address deportations.",
+          "quote": "a safe and orderly border ... merit-based immigration reform",
+          "sources": [
+            {
+              "title": "Jorge Malavet for State Representative - Policies",
+              "url": "https://voteforjorgemalavet.com/policies.html",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants to strengthen schools with 'real choice' and give parents the final say in their children's education.",
+          "quote": "strengthen schools with real choice and job-ready training",
+          "sources": [
+            {
+              "title": "Jorge Malavet for State Representative - Policies",
+              "url": "https://voteforjorgemalavet.com/policies.html",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to stand behind law enforcement and first responders with the resources they need.",
+          "quote": "stand behind law enforcement and first responders by providing the resources they need to keep Orlando neighborhoods safe",
+          "sources": [
+            {
+              "title": "Jorge Malavet for State Representative - Policies",
+              "url": "https://voteforjorgemalavet.com/policies.html",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Pledges to expand veterans' health-care access and career paths for those leaving the military.",
+          "quote": "expand veterans' healthcare access and unlock meaningful career paths for those transitioning to civilian life",
+          "sources": [
+            {
+              "title": "Jorge Malavet for State Representative - Policies",
+              "url": "https://voteforjorgemalavet.com/policies.html",
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []

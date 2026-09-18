@@ -430,8 +430,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.reynoldsforflorida.com/",
+      "occupation": "Law-studies professor, Auburndale; former investigative journalist in Haiti; U.S. Army Reserve veteran",
       "residence": "Auburndale, Polk County",
       "background": "Reynolds, an Auburndale Democrat, opened a campaign account to run against Burton in SD 12 (News Service of Florida). Qualification and further background not verified.",
       "primary_result": "Qualification not verified.",
@@ -466,11 +466,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Cites rent control elsewhere as a model and asks why Florida cannot do the same for retirees and seniors; supports laws to improve affordability for lower-income residents.",
+          "quote": "Why can't we do the same in Florida, which is a state where many retirees and seniors are preferring to move in.",
+          "sources": [
+            {
+              "title": "Reynolds for Florida - District 12",
+              "url": "https://www.reynoldsforflorida.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -578,7 +584,20 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "topic": "Community policing and mental health",
+          "summary": "Wants police trained 'to be compassionate' and engaged with the community, more coordinated youth mental-health services, and rapid transit.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Reynolds for Florida - District 12",
+              "url": "https://www.reynoldsforflorida.com/",
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }
