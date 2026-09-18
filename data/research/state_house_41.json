@@ -398,8 +398,8 @@
       ]
     },
     {
-      "id": "lincoln_mccreight_first_name_not_found",
-      "name": "Lincoln-McCreight (first name not found)",
+      "id": "michael_lincoln_mccreight",
+      "name": "Michael Lincoln-McCreight",
       "party": "Republican",
       "incumbent": false,
       "photo_url": null,
@@ -553,7 +553,8 @@
           "url": "https://www.clickorlando.com/election-2026/2026/02/24/florida-house-candidate-from-viral-n-word-video-seeks-to-unseat-rep-bruce-antone/",
           "date": "2026-02-24"
         }
-      ]
+      ],
+      "withdrawn": "Did not qualify (Florida Division of Elections, 2026 general election candidate list)"
     }
   ]
 }

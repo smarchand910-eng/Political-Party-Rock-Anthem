@@ -10,182 +10,57 @@
   },
   "what_it_does": "County commissioners set the county budget and property-tax (millage) rate, adopt land-use and zoning rules, and oversee county services such as roads, parks, libraries, fire/EMS and utilities.",
   "coverage": "partial",
-  "verified_ballot_note": "Incumbent Carl Zalak sought a fifth term (Ballotpedia/Grokipedia snippets). WCJB reported two commission primaries decided Aug 18, but the District 4 result and any November opponent could not be read from snippets.",
+  "verified_ballot_note": "Incumbent Carl Zalak did not seek re-election after 16 years (WCJB, June 4, 2026, https://www.wcjb.com/2026/06/04/marion-county-commission-chairman-carl-zalak-not-seeking-reelection-after-16-years-board/). Four Republicans ran in the Aug. 18 primary (WCJB, Aug. 2, 2026); the Florida Division of Elections candidate list shows Jeff Bairstow as the qualified Republican and Randall Alvord, Wanda Lasher and Sherri Meadows as defeated, with write-in Leonard Michael Racioppi qualified for November (https://dos.elections.myflorida.com/candidates/CanList.asp).",
   "candidates": [
     {
-      "id": "carl_zalak",
-      "name": "Carl Zalak",
+      "id": "jeff_bairstow",
+      "name": "Jeff Bairstow",
       "party": "Republican",
-      "incumbent": true,
+      "incumbent": false,
       "photo_url": null,
       "photo_source": null,
       "website": null,
       "occupation": null,
       "residence": null,
-      "background": "Commission chair; sought a fifth term in 2026.",
+      "background": "Won the Aug. 18, 2026 Republican primary for the open District 4 seat (WCJB, Aug. 2, 2026, https://www.wcjb.com/2026/08/02/4-republicans-vie-open-marion-county-commission-seat/). Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
-      "positions": {
-        "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "marijuana": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+      "ballot_status": "verified",
+      "roster_sources": [
+        {
+          "title": "Florida Division of Elections, 2026 general election candidate list",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-09-18"
         }
-      },
+      ],
+      "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": [],
-      "sources": [
+      "endorsements": []
+    },
+    {
+      "id": "leonard_michael_racioppi",
+      "name": "Leonard Michael Racioppi",
+      "party": "Write-in",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
+      "residence": null,
+      "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "primary_result": null,
+      "ballot_status": "verified",
+      "roster_sources": [
         {
-          "title": "Marion County, Florida, elections, 2026",
-          "url": "https://ballotpedia.org/Marion_County,_Florida,_elections,_2026"
-        },
-        {
-          "title": "Who's Running: Marion District 4",
-          "url": "https://www.whosrunning.app/races/board-of-county-commissioners-2026-marion-county-district-4"
+          "title": "Florida Division of Elections, 2026 general election candidate list",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-09-18"
         }
-      ]
+      ],
+      "positions": {},
+      "other_issues": [],
+      "record": [],
+      "endorsements": []
     }
   ]
 }

@@ -388,219 +388,27 @@
       ]
     },
     {
-      "id": "paul_dellinger",
-      "name": "Paul Lyal Dellinger",
+      "id": "jennifer_jenkins",
+      "name": "Jennifer Jenkins",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Paul_Dellinger.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": "https://pldforcongress.com/",
-      "occupation": "Not found (campaign site describes a working-class background tied to Brevard's space industry)",
-      "residence": "Brevard County (per campaign site; city not found)",
-      "background": "Paul Lyal Dellinger's campaign site says he comes from a working-class background rooted in Brevard's space legacy. Ballotpedia lists him as the Democratic candidate in the Aug. 18, 2026 primary and in the Nov. 3 general election against Mike Haridopolos, but Inside Elections reports Jennifer Jenkins as the Democratic nominee (see race note). No news coverage with further biographical detail was found in searches run for this guide.",
-      "primary_result": "UNRESOLVED: Ballotpedia lists Dellinger as the Democratic general-election candidate (https://ballotpedia.org/Florida's_8th_Congressional_District_election,_2026); Inside Elections lists Jennifer Jenkins (https://insideelections.com/2026-florida-primary-results/). See race note.",
-      "positions": {
-        "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "housing": {
-          "stance": 2,
-          "confidence": "stated",
-          "summary": "His issues page proposes renter protections against 'unjust evictions and price gouging' and says he would expand rental assistance, veterans housing programs and community support services to keep families housed.",
-          "quote": null,
-          "sources": [
-            {
-              "title": "Issues - Paul Lyal Dellinger For Congress",
-              "url": "https://pldforcongress.com/issues/",
-              "date": null
-            }
-          ]
-        },
-        "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "healthcare": {
-          "stance": 1,
-          "confidence": "stated",
-          "summary": "His issues page says many part-time, gig and service workers get no employer coverage and accumulate medical debt, and promotes expanding access to telehealth, especially in rural areas. No specific position on Medicaid expansion or ACA subsidies was found.",
-          "quote": null,
-          "sources": [
-            {
-              "title": "Issues - Paul Lyal Dellinger For Congress",
-              "url": "https://pldforcongress.com/issues/",
-              "date": null
-            }
-          ]
-        },
-        "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "marijuana": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "veterans": {
-          "stance": 1,
-          "confidence": "stated",
-          "summary": "Says he would expand veterans housing programs as part of his housing-stability plan.",
-          "quote": null,
-          "sources": [
-            {
-              "title": "Issues - Paul Lyal Dellinger For Congress",
-              "url": "https://pldforcongress.com/issues/",
-              "date": null
-            }
-          ]
-        }
-      },
-      "other_issues": [
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "primary_result": null,
+      "ballot_status": "verified",
+      "roster_sources": [
         {
-          "title": "Grocery price gouging",
-          "summary": "Pledges legislation applying anti-price-gouging rules to essential goods and groceries when markups rise above a set percentage without a supply justification.",
-          "sources": [
-            {
-              "title": "Issues - Paul Lyal Dellinger For Congress",
-              "url": "https://pldforcongress.com/issues/",
-              "date": null
-            }
-          ]
-        },
-        {
-          "title": "Renter protections",
-          "summary": "Proposes protections against unjust evictions and rent price gouging, plus expanded rental assistance.",
-          "sources": [
-            {
-              "title": "Issues - Paul Lyal Dellinger For Congress",
-              "url": "https://pldforcongress.com/issues/",
-              "date": null
-            }
-          ]
-        },
-        {
-          "title": "Telehealth access",
-          "summary": "Supports policies expanding telehealth, particularly in rural areas.",
-          "sources": [
-            {
-              "title": "Issues - Paul Lyal Dellinger For Congress",
-              "url": "https://pldforcongress.com/issues/",
-              "date": null
-            }
-          ]
+          "title": "Florida Division of Elections, 2026 general election candidate list",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-09-18"
         }
       ],
+      "positions": {},
+      "other_issues": [],
       "record": [],
       "endorsements": []
     }
