@@ -13,13 +13,13 @@ files = {p: open(p, encoding='utf-8').read() for p in glob.glob('data/research/*
 swapped, none = 0, []
 for u in dead:
     snap = None
-    for attempt in range(3):   # archive.org rate-limits bursts; back off and retry
-        r = subprocess.run(['curl', '-s', '--max-time', '30', '-A', 'flvotersguide-linkcheck', 'https://archive.org/wayback/available?url=' + u], capture_output=True, text=True)
-        try: snap = json.loads(r.stdout)['archived_snapshots']['closest']['url']; break
-        except Exception:
-            if '429' in r.stdout: time.sleep(20 * (attempt + 1)); continue
-            break
-    time.sleep(4)
+    # The CDX index answers where the "available" API rate-limits: newest 200-status capture of this exact URL.
+    r = subprocess.run(['curl', '-s', '--max-time', '30', '-A', 'flvotersguide-linkcheck', 'https://web.archive.org/cdx/search/cdx?url=' + u + '&output=json&filter=statuscode:200&limit=-1&fl=timestamp'], capture_output=True, text=True)
+    try:
+        rows = json.loads(r.stdout)
+        if len(rows) > 1: snap = f'https://web.archive.org/web/{rows[-1][0]}/{u}'
+    except Exception: pass
+    time.sleep(2)
     if not snap: none.append(u); continue
     snap = snap.replace('http://web.archive.org', 'https://web.archive.org')
     for p, s in files.items():
