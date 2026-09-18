@@ -1,0 +1,22 @@
+{
+  "race_id": "county_sarasota_school_millage_referendum",
+  "kind": "measure",
+  "title": "Sarasota County School District Referendum: Renewal of the One-Mill Levy",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "full",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Sarasota"
+  },
+  "counties": [
+    "Sarasota"
+  ],
+  "what_it_does": "School-district ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Continues Funding for Teachers, Workforce Training, Student Achievement Through Renewal of Ad Valorem Millage Referendum. Shall the Sarasota County School District continue the 1 mill per year ad valorem millage to retain and recruit quality teachers; provide workforce training; improve school safety and security; preserve the arts; upgrade technology and classroom resources; fund other education programs and school operational needs; beginning July 1, 2026 and ending June 30, 2030; and sharing funds with charter schools proportionate with student enrollment, with oversight of all funds by an independent committee of citizens?",
+  "what_yes_means": "A YES vote continues the one-mill school levy, in place since 2002, for 2026 through 2030; the district estimates about $114 million a year.",
+  "what_no_means": "A NO vote lets the levy expire, removing that funding for teacher pay, workforce training, arts, security and technology.",
+  "verified_ballot_note": "Ballot language from the Better Schools for Sarasota County committee's posting of the resolution (https://yesforsarasotacountyschools.com/ballot-language/); the School Board placed the renewal on the Nov. 3, 2026 ballot. Confirm on the Sarasota sample ballot.",
+  "candidates": []
+}

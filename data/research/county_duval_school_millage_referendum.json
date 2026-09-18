@@ -1,0 +1,22 @@
+{
+  "race_id": "county_duval_school_millage_referendum",
+  "kind": "measure",
+  "title": "Duval County Referendum: Continue the One-Mill School Levy",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "partial",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Duval"
+  },
+  "counties": [
+    "Duval"
+  ],
+  "what_it_does": "School-district ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Duval County voters will decide whether to continue the existing one-mill property tax (about $1 per $1,000 of taxable value) that supplements funding for Duval County Public Schools teacher and staff pay, the arts and athletics, for an additional four years beginning July 1, 2027. Voters first approved the levy in 2022.",
+  "what_yes_means": "A YES vote continues the one-mill supplement for four more years starting July 1, 2027; the district uses it mainly for teacher and staff compensation (including a bonus reported at about $8,600 per teacher), arts and athletics.",
+  "what_no_means": "A NO vote lets the levy expire after the 2026-27 school year, ending the supplemental pay and program funding it supports.",
+  "verified_ballot_note": "Summary based on Jacksonville City Council Ordinance 2026-0387 calling the referendum and on News4JAX reporting (https://www.news4jax.com/news/local/2026/08/24/duval-county-public-schools-launches-website-ahead-of-november-millage-vote/ ; https://www.news4jax.com/news/local/2026/09/05/duval-county-voters-to-decide-fate-of-8600-teacher-bonus-in-november/). The exact ballot wording is on the district's site (https://www.duvalschools.org/o/dcps/page/vote), which could not be read here; verify on the Duval sample ballot.",
+  "candidates": []
+}

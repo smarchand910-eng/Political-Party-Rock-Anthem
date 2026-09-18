@@ -1,0 +1,22 @@
+{
+  "race_id": "county_miami_dade_charter_referendum_5",
+  "kind": "measure",
+  "title": "Miami-Dade County Referendum 5: Technical Charter Changes",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "full",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Miami-Dade"
+  },
+  "counties": [
+    "Miami-Dade"
+  ],
+  "what_it_does": "County ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Charter Amendment Miscellaneous Matters and Technical Changes. Shall the Home Rule Charter be amended to make certain technical changes, including updating certain listed County locations to current name, allowing for additional methods of public notice and participation when otherwise allowed by state law, and ensuring consistent stylistic conventions for numbering, gender, capitalization, and grammar?",
+  "what_yes_means": "A YES vote makes housekeeping changes to the charter: current place names, additional notice and participation methods allowed by state law, and consistent style.",
+  "what_no_means": "A NO vote leaves the charter text as it is.",
+  "verified_ballot_note": "Official wording copied from the Miami-Dade County Supervisor of Elections' final General Election master ballot (https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf, fetched Sept. 18, 2026).",
+  "candidates": []
+}

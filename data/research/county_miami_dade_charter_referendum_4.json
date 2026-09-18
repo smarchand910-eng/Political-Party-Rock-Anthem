@@ -1,0 +1,22 @@
+{
+  "race_id": "county_miami_dade_charter_referendum_4",
+  "kind": "measure",
+  "title": "Miami-Dade County Referendum 4: Charter Changes for the Elected Constitutional Offices",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "full",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Miami-Dade"
+  },
+  "counties": [
+    "Miami-Dade"
+  ],
+  "what_it_does": "County ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Charter Amendment Revisions Due to Reestablishment of Elected County Constitutional Offices. Shall the Home Rule Charter be amended to make certain changes that (1) address the reestablishment of the elected County Constitutional Offices of Sheriff, Tax Collector, Property Appraiser, and Supervisor of Elections, (2) clarify the respective duties of Clerk and County with respect to finance and budget, and (3) require County employees to take leave of absence when running for an elected constitutional office?",
+  "what_yes_means": "A YES vote updates the charter for the elected Sheriff, Tax Collector, Property Appraiser and Supervisor of Elections restored in 2024, clarifies the Clerk's and County's finance and budget duties, and requires county employees to take leave when running for one of those offices.",
+  "what_no_means": "A NO vote leaves the charter's existing language, which predates the return of the elected constitutional offices, unchanged.",
+  "verified_ballot_note": "Official wording copied from the Miami-Dade County Supervisor of Elections' final General Election master ballot (https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf, fetched Sept. 18, 2026).",
+  "candidates": []
+}

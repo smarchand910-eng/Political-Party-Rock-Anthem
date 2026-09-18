@@ -1,0 +1,22 @@
+{
+  "race_id": "county_lee_charter_single_member_districts_referendum",
+  "kind": "measure",
+  "title": "Lee County Charter Referendum: Single-Member Commission Districts",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "full",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Lee"
+  },
+  "counties": [
+    "Lee"
+  ],
+  "what_it_does": "County ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Shall Chapter 2025-222, Laws of Florida, which amends the Lee County Home Rule Charter to provide that, beginning with the 2028 general election, the Board of County Commissioners shall be composed of five members elected in single-member districts, become effective?",
+  "what_yes_means": "A YES vote means that starting in 2028 each of the five county commissioners is elected only by voters in his or her district, instead of countywide.",
+  "what_no_means": "A NO vote keeps countywide (at-large) elections for all five commission seats.",
+  "verified_ballot_note": "Ballot language from Chapter 2025-222, Laws of Florida (CS/HB 4001), which requires this referendum at the 2026 general election (https://laws.flrules.org/2025/222); listed on the Lee County Supervisor of Elections' proposed ballot measures page (https://www.lee.vote/244/Proposed-Ballot-Measures).",
+  "candidates": []
+}
