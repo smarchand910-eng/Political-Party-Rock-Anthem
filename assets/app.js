@@ -369,7 +369,7 @@
   function raceCard(r) {
     const cands = r.candidates || [];
     return `<div class="card race-card">
-      <div><a class="tag tag-level tag-link" href="#/races/group/${encodeURIComponent(r.office_group || '')}" title="Show all ${esc(r.office_group)} races">${esc(r.office_group)}</a> <a class="tag tag-link" href="#/races/jur/${encodeURIComponent(jurKey(r))}" title="Show all races for ${esc(jurLabel(r))}">${esc(jurLabel(r))}</a>${r.coverage && r.coverage !== 'full' ? `<span class="tag" style="color:var(--warn)">${r.coverage === 'roster' ? 'Candidate list only' : r.coverage === 'partial' ? 'Partly verified' : 'No data yet'}</span>` : ''}${r.on_november_ballot === false ? '<span class="tag">Not on Nov. ballot</span>' : ''}</div>
+      <div>${jurKey(r) !== 'statewide' ? `<span class="tag">${esc(jurLabel(r))}</span>` : ''}${r.coverage && r.coverage !== 'full' ? `<span class="tag" style="color:var(--warn)">${r.coverage === 'roster' ? 'Candidate list only' : r.coverage === 'partial' ? 'Partly verified' : 'No data yet'}</span>` : ''}${r.on_november_ballot === false ? '<span class="tag">Not on Nov. ballot</span>' : ''}</div>
       <h3><a href="#/race/${esc(r.id)}">${esc(r.title)}</a></h3>
       ${r.kind === 'measure' ? `<p class="muted">${esc(truncate(r.ballot_summary || 'Local ballot question.', 180))}</p><div><a class="btn btn-sm" href="#/race/${esc(r.id)}">Read the question →</a></div>` : `<div class="cand-row">${cands.map(c => `<a class="cand-chip" href="#/candidate/${esc(c.id)}">${avatar(c, 'sm')}${esc(c.name)} <small>(${esc(partyShort(c.party))})</small></a>`).join('') || '<span class="empty">No candidate data yet</span>'}</div>
       <div><a class="btn btn-sm" href="#/race/${esc(r.id)}">${cands.length ? 'Compare positions →' : 'Details →'}</a></div>`}
@@ -421,7 +421,7 @@
     const issues = issuesForLevel(r.level);
     if (r.kind === 'measure') return `<div class="breadcrumb"><a href="#/races">Races</a> › ${esc(r.title)}</div><span class="tag tag-level">${esc(jurLabel(r))}</span><h1>${esc(r.title)}</h1>${r.ballot_summary ? `<div class="card"><h3>Ballot summary</h3><p>${esc(r.ballot_summary)}</p><div class="grid grid-2"><div><h3>A "Yes" vote means</h3><p>${esc(r.what_yes_means || '')}</p></div><div><h3>A "No" vote means</h3><p>${esc(r.what_no_means || '')}</p></div></div></div>` : ''}${r.verified_ballot_note ? `<p class="muted"><small>${esc(r.verified_ballot_note)}</small></p>` : ''}`;
     return `<div class="breadcrumb"><a href="#/races">Races</a> › ${esc(r.title)}</div>
-      <a class="tag tag-level tag-link" href="#/races/group/${encodeURIComponent(r.office_group || '')}">${esc(r.office_group)}</a> <a class="tag tag-link" href="#/races/jur/${encodeURIComponent(jurKey(r))}">${esc(jurLabel(r))}</a>${(r.counties || []).length ? `<span class="tag">${esc(r.counties.join(', '))}</span>` : ''}
+      ${jurKey(r) !== 'statewide' ? `<span class="tag">${esc(jurLabel(r))}</span>` : ''}${(r.counties || []).length ? `<span class="tag">${esc(r.counties.join(', '))}</span>` : ''}
       <h1>${esc(r.title)}</h1>
       <p class="lead muted">${esc(r.what_it_does || '')} ${r.term ? `<strong>Term:</strong> ${esc(r.term)}.` : ''}</p>
       ${r.on_november_ballot === false ? `<p class="notice"><strong>Not on the November ballot.</strong> ${esc(r.decided_note || 'This seat was decided before the general election.')}</p>` : ''}
