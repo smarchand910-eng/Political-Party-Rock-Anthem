@@ -334,5 +334,5 @@ a.tag-link { text-decoration: none; cursor: pointer; }
 a.tag-link:hover, a.tag-link:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
 .filter-bar { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }
 
-.lang-toggle{background:transparent;border:1px solid var(--border);color:var(--text);border-radius:999px;padding:4px 12px;font:inherit;font-size:.9rem;cursor:pointer;margin-left:6px}
-.lang-toggle:hover{background:var(--surface-2)}
+.lang-toggle{background:var(--surface-2);border:2px solid var(--accent);color:var(--accent);border-radius:999px;padding:8px 18px;font:inherit;font-size:1.05rem;font-weight:700;cursor:pointer;margin-right:8px;line-height:1.2}
+.lang-toggle:hover{background:var(--accent-soft)}
