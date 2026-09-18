@@ -66,11 +66,22 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted against HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "HB 5 (2022) bill page - The Florida Senate",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5",
+              "date": "2022-03"
+            },
+            {
+              "title": "HB 5 (2022) roll-call vote (Senate)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF",
+              "date": "2022-03"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -122,25 +133,58 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted against SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "SB 90 (2021) bill page - The Florida Senate",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90",
+              "date": "2021-04-29"
+            },
+            {
+              "title": "SB 90 (2021) roll-call vote (Senate)",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF",
+              "date": "2021-04-29"
+            }
+          ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted against HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "HB 1 (2021) bill page - The Florida Senate",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+              "date": "2021-04"
+            },
+            {
+              "title": "HB 1 (2021) roll-call vote (Senate)",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF",
+              "date": "2021-04"
+            }
+          ]
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted against HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "HB 1557 (2022) bill page - The Florida Senate",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/1557",
+              "date": "2022-03"
+            },
+            {
+              "title": "HB 1557 (2022) roll-call vote (Senate)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF",
+              "date": "2022-03"
+            }
+          ]
         },
         "energy": {
           "stance": null,
@@ -165,7 +209,60 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted against HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted against HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted against HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted against SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "sources": [
         {

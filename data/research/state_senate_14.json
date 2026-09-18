@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 14 in the Florida Senate; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Ballotpedia and Florida Politics report Democrat Brian Nathan won the March 24, 2026 special general election for SD 14 (vacated when Jay Collins became Lt. Governor) over Republican Josie Tomkow, who pledged a rematch in the Nov. 3, 2026 general election (https://ballotpedia.org/Florida_State_Senate_District_14; https://floridapolitics.com/archives/786775-brian-nathan-edges-out-josie-tomkow-in-sd-14-as-she-pledges-a-rematch-in-november/). Whether either faced a primary or any NPA candidate qualified was not verified. County (Hillsborough) from general knowledge; not verified by snippet. Research limitation (Sept 2026): Ballotpedia, Wikipedia, dos.fl.gov, floridaelectionwatch.gov, Florida Politics and all news sites were blocked for fetching in this sandbox and the WebSearch budget was capped, so the roster is built only from search-result snippets; write-in/NPA qualifiers could not be checked. Positions are null because no snippet contained an explicit issue statement.",
   "candidates": [
     {
@@ -57,11 +57,22 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+              "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "CS/HJR 1-F (2026) roll-call vote (Senate)",
+              "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF",
+              "date": "2026-06-02"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -184,7 +195,21 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
