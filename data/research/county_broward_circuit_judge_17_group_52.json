@@ -1,0 +1,72 @@
+{
+  "race_id": "county_broward_circuit_judge_17_group_52",
+  "title": "Circuit Judge, 17th Judicial Circuit, Group 52",
+  "level": "county",
+  "office_group": "County",
+  "term": "6 years",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Broward"
+  },
+  "counties": [
+    "Broward"
+  ],
+  "counties_verified": true,
+  "what_it_does": "Circuit judges hear felony criminal cases, major civil suits, family and probate matters. This seat is elected by voters across the 17th Circuit (Broward). Nonpartisan; a candidate needs a majority, and this contest was not decided in August.",
+  "on_november_ballot": true,
+  "decided_note": null,
+  "coverage": "roster",
+  "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
+  "candidates": [
+    {
+      "id": "david_fry",
+      "name": "David Fry",
+      "party": "Nonpartisan",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "primary_result": null,
+      "ballot_status": "verified",
+      "roster_sources": [
+        {
+          "title": "Florida Division of Elections, 2026 general election candidate list",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-09-18"
+        }
+      ],
+      "positions": {},
+      "other_issues": [],
+      "record": [],
+      "endorsements": []
+    },
+    {
+      "id": "tamar_hamilton",
+      "name": "Tamar Hamilton",
+      "party": "Nonpartisan",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "primary_result": null,
+      "ballot_status": "verified",
+      "roster_sources": [
+        {
+          "title": "Florida Division of Elections, 2026 general election candidate list",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-09-18"
+        }
+      ],
+      "positions": {},
+      "other_issues": [],
+      "record": [],
+      "endorsements": []
+    }
+  ]
+}
