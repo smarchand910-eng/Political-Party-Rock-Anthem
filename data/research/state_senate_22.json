@@ -497,8 +497,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://martinhydeforsenate.com/",
+      "occupation": "Sarasota activist; 2022 Republican congressional candidate, now No Party Affiliation",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -510,7 +510,34 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says the Live Local Act and SB 180 are bad for the community because they remove home rule over development and zoning, and would modify them.",
+          "quote": "Live local and SB-180 are bad for our community because they remove Home Rule on development and zoning.",
+          "sources": [
+            {
+              "title": "Manatee Chamber of Commerce candidate questionnaire - Martin Hyde",
+              "url": "https://www.manateechamber.com/martin-hyde/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants government out of anything it does not need to be in, no tax increases and fees rolled back.",
+          "quote": "No tax increases and rolling back of fees for everyone.",
+          "sources": [
+            {
+              "title": "Manatee Chamber of Commerce candidate questionnaire - Martin Hyde",
+              "url": "https://www.manateechamber.com/martin-hyde/",
+              "date": "2026-08"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []
@@ -523,7 +550,7 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Democratic nominee, SD 22",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -535,7 +562,60 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Proposes oversight systems for insurers, a public catastrophe layer to cut reinsurance costs, home hardening and higher penalties for insurer and contractor abuse.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Manatee Chamber of Commerce candidate questionnaire - Lew Wasserman",
+              "url": "https://www.manateechamber.com/lew-wasserman/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Opposes Amendment 3, warning it would shift $4.95 billion to $11.86 billion in costs onto local governments.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Manatee Chamber of Commerce candidate questionnaire - Lew Wasserman",
+              "url": "https://www.manateechamber.com/lew-wasserman/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Wants developers to fund roads and schools through impact fees and local control over zoning and environmental rules restored.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Manatee Chamber of Commerce candidate questionnaire - Lew Wasserman",
+              "url": "https://www.manateechamber.com/lew-wasserman/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Proposes public-private partnerships for power-line burial and renewable generators.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Manatee Chamber of Commerce candidate questionnaire - Lew Wasserman",
+              "url": "https://www.manateechamber.com/lew-wasserman/",
+              "date": "2026-08"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []

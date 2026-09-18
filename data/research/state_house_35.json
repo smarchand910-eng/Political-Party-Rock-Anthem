@@ -242,18 +242,24 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.ericgrayforflorida.com/",
+      "occupation": "Executive director, Christian Service Center; Orange County Planning & Zoning Commission member",
       "residence": null,
       "background": "Democratic nominee for HD 35; Florida Politics reported in 2025 that he planned to challenge Booth.",
       "primary_result": null,
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Supports renewing the local half-penny sales tax for schools and infrastructure and criticizes tax revenue going to corporations rather than the community.",
+          "quote": "renewing the half-penny sales tax to fund new schools and upgrade existing infrastructure",
+          "sources": [
+            {
+              "title": "Eric Gray for State Representative - Issues",
+              "url": "https://www.ericgrayforflorida.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -270,11 +276,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Wants to reform single-purpose zoning to allow multi-family housing and backs 'bold policies' to build homes affordable at $30,000 to $70,000 incomes.",
+          "quote": "reform single-purpose zoning laws to promote multi-family housing that works for all",
+          "sources": [
+            {
+              "title": "Eric Gray for State Representative - Issues",
+              "url": "https://www.ericgrayforflorida.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -284,11 +296,17 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports a woman's right to choose and pledges to vote to restore reproductive rights under the Roe v. Wade framework.",
+          "quote": "a woman's right to choose",
+          "sources": [
+            {
+              "title": "Eric Gray for State Representative - Issues",
+              "url": "https://www.ericgrayforflorida.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -319,11 +337,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Committed to preserving green spaces, lakes and rivers and phasing out septic systems.",
+          "quote": "preserving our green spaces, lakes, and rivers",
+          "sources": [
+            {
+              "title": "Eric Gray for State Representative - Issues",
+              "url": "https://www.ericgrayforflorida.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -340,18 +364,30 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Pledges to fight for fair voter access, clear paths to rights restoration for formerly incarcerated people, and against voter suppression.",
+          "quote": "fight for fair voter access and clear paths to rights restoration, especially for formerly incarcerated individuals",
+          "sources": [
+            {
+              "title": "Eric Gray for State Representative - Issues",
+              "url": "https://www.ericgrayforflorida.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Opposes criminalizing homelessness (he entered the race in response to HB 1365 of 2024) and says community safety begins with rehabilitation programs.",
+          "quote": "crime prevention and community safety begin with aggressive contemporary rehabilitation programs",
+          "sources": [
+            {
+              "title": "Eric Gray for State Representative - Issues",
+              "url": "https://www.ericgrayforflorida.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,

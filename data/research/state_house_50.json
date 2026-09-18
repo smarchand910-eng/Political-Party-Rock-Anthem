@@ -582,8 +582,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.rickyfor50.com/",
+      "occupation": "Youth sports coach, Lakeland",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -595,7 +595,65 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "immigration": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Calls for humane immigration policies and protection for immigrant families, oversight of detention centers, and an end to racial profiling; criticizes detentions 'by masked agents, without warrants'.",
+          "quote": "People are being detained by masked agents, without warrants",
+          "sources": [
+            {
+              "title": "Ricky Santiago for Florida House District 50 - Home",
+              "url": "https://www.rickyfor50.com/",
+              "date": "2026-09-18"
+            },
+            {
+              "title": "Ricky Santiago for Florida House District 50 - On the Issues",
+              "url": "https://www.rickyfor50.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to address the affordable-housing and rent crisis.",
+          "quote": "Address the affordable housing and rent crisis.",
+          "sources": [
+            {
+              "title": "Ricky Santiago for Florida House District 50 - On the Issues",
+              "url": "https://www.rickyfor50.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says insurance companies take advantage of families with no consequences.",
+          "quote": "insurance companies take advantage of everyday families with no consequences",
+          "sources": [
+            {
+              "title": "Ricky Santiago for Florida House District 50 - Home",
+              "url": "https://www.rickyfor50.com/",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would protect Florida's water resources, promote conservation and safeguard public lands.",
+          "quote": "Protect Florida's water resources and promote conservation.",
+          "sources": [
+            {
+              "title": "Ricky Santiago for Florida House District 50 - On the Issues",
+              "url": "https://www.rickyfor50.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []

@@ -9,7 +9,7 @@
     "id": "Manatee"
   },
   "what_it_does": "County commissioners set the county budget and property-tax (millage) rate, adopt land-use and zoning rules, and oversee county services such as roads, parks, libraries, fire/EMS and utilities.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "November lineup per Suncoast News Network and Pulse of Manatee.",
   "candidates": [
     {
@@ -201,11 +201,17 @@
       "primary_result": null,
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Supports a new dedicated stormwater utility fee based on impervious surface, and says the county must plan for lost revenue if the property-tax amendment passes.",
+          "quote": "I support a dedicated stormwater utility fee structured equitably around impervious surface",
+          "sources": [
+            {
+              "title": "Manatee Chamber of Commerce candidate questionnaire - Sari Lindroos-Valimaki",
+              "url": "https://www.manateechamber.com/sari-lindroos-valimaki/",
+              "date": "2026-08"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -278,11 +284,17 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says the county must stop approving growth and then figuring out how to move everyone afterward; growth should pay its share and data-center rules should be set before applications arrive.",
+          "quote": "We need to stop approving growth and then trying to figure out how to move everyone afterward.",
+          "sources": [
+            {
+              "title": "Manatee Chamber of Commerce candidate questionnaire - Sari Lindroos-Valimaki",
+              "url": "https://www.manateechamber.com/sari-lindroos-valimaki/",
+              "date": "2026-08"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,

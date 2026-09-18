@@ -386,8 +386,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://silverberg4florida.com/",
+      "occupation": "Retired journalist; founder of The Paradise Progressive; former managing editor of The Hill",
       "residence": null,
       "background": "Silverberg is the Democratic candidate for SD 28 (Collier County election guide). No further biographical information was found in search results.",
       "primary_result": "Democratic nominee (Collier guide); primary details not verified.",
@@ -413,18 +413,30 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Opposes the push to end property taxes, calling it an assault on home rule and local governments.",
+          "quote": "another assault on home rule and Florida's local governments",
+          "sources": [
+            {
+              "title": "Why I want to keep Florida's local governments strong - The Paradise Progressive",
+              "url": "https://www.theparadiseprogressive.com/blog-the-paradise-progressive/why-i-want-to-keep-floridas-local-governments-strong",
+              "date": "2026-04-13"
+            }
+          ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Calls for close scrutiny of insurers' rates, premiums and payouts and climate resilience so rates can come down.",
+          "quote": "close scrutiny of the insurance industry and its rates, premiums and payouts",
+          "sources": [
+            {
+              "title": "Why I want to make Florida affordable again - The Paradise Progressive",
+              "url": "https://www.theparadiseprogressive.com/blog-the-paradise-progressive/why-i-want-to-make-florida-affordable-again",
+              "date": "2026-04-08"
+            }
+          ]
         },
         "housing": {
           "stance": null,
@@ -434,11 +446,17 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Says the first bill he would file would close the Alligator Alcatraz detention site, which he calls a concentration camp, and calls for 'ending the war on immigrants and labor'.",
+          "quote": "If elected, the very first bill I will introduce to the Florida Senate will close Alligator Alcatraz.",
+          "sources": [
+            {
+              "title": "Why I want to end Alligator Alcatraz - The Paradise Progressive",
+              "url": "https://www.theparadiseprogressive.com/blog-the-paradise-progressive/why-i-want-to-end-alligator-alcatraz",
+              "date": "2026-04-09"
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -476,18 +494,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says Florida must face the reality of climate change and build in resilience.",
+          "quote": "facing the reality of climate change and helping Florida families and businesses build in resilience",
+          "sources": [
+            {
+              "title": "Why I want to make Florida affordable again - The Paradise Progressive",
+              "url": "https://www.theparadiseprogressive.com/blog-the-paradise-progressive/why-i-want-to-make-florida-affordable-again",
+              "date": "2026-04-08"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to fight state preemption of local governments wherever he sees it.",
+          "quote": "I'll be on the look out for it. I'll fight it any time that I see it.",
+          "sources": [
+            {
+              "title": "Why I want to keep Florida's local governments strong - The Paradise Progressive",
+              "url": "https://www.theparadiseprogressive.com/blog-the-paradise-progressive/why-i-want-to-keep-floridas-local-governments-strong",
+              "date": "2026-04-13"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -525,11 +555,17 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Pledges to resist what he calls Donald Trump's 'crazy and destructive decisions'.",
+          "quote": "resisting Donald Trump's crazy and destructive decisions and tendencies",
+          "sources": [
+            {
+              "title": "Why I want to make Florida affordable again - The Paradise Progressive",
+              "url": "https://www.theparadiseprogressive.com/blog-the-paradise-progressive/why-i-want-to-make-florida-affordable-again",
+              "date": "2026-04-08"
+            }
+          ]
         },
         "veterans": {
           "stance": null,

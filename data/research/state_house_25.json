@@ -428,8 +428,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://bankshelfrich.com/",
+      "occupation": "Small farmer and sustainability teacher, south Lake County",
       "residence": null,
       "background": "Democratic nominee for HD 25 in the Nov. 3, 2026 general election.",
       "primary_result": null,
@@ -449,11 +449,17 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Proposes limiting Citizens Property Insurance to wind and hurricane coverage, letting private insurers cover the rest, with the state covering catastrophic costs; a mix of a narrower Citizens and a bigger state backstop.",
+          "quote": "The high cost of property insurance has skyrocketed in the past five years.",
+          "sources": [
+            {
+              "title": "Banks Helfrich for Florida House - Issues",
+              "url": "https://bankshelfrich.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "housing": {
           "stance": null,
@@ -505,18 +511,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says conservation comes first: incentives for farmers to keep native land, required conservation areas in new developments, and water-preservation models.",
+          "quote": "We begin by conserving and preserving our natural resources.",
+          "sources": [
+            {
+              "title": "Banks Helfrich for Florida House - Issues",
+              "url": "https://bankshelfrich.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists 'Curbing Excessive Development' as a core issue.",
+          "quote": "Curbing Excessive Development",
+          "sources": [
+            {
+              "title": "Banks Helfrich for Florida House - Home",
+              "url": "https://bankshelfrich.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,

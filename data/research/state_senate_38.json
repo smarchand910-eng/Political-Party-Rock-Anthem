@@ -440,8 +440,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://richard.vote/",
+      "occupation": "Co-founder of the sustainability company Ecofi",
       "residence": null,
       "background": "Florida Politics describes Calatayud's Nov. 3 opponent as a credible, well-funded Democratic entrepreneur surnamed Lamondin. Full name and background not captured in search snippets.",
       "primary_result": "Democratic nominee (Florida Politics); details not verified.",
@@ -476,11 +476,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would treat housing as critical infrastructure and expand first-time-homebuyer credits and housing vouchers.",
+          "quote": "treat housing as critical infrastructure, just like roads and bridges",
+          "sources": [
+            {
+              "title": "Richard Lamondin for State Senate",
+              "url": "https://richard.vote/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -504,11 +510,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Wants every family to have access to an affordable public option, capped out-of-pocket costs and expanded mental-health services.",
+          "quote": "ensuring every family has access to an affordable public option",
+          "sources": [
+            {
+              "title": "Richard Lamondin for State Senate",
+              "url": "https://richard.vote/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -588,7 +600,20 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "topic": "Cost of living",
+          "summary": "Says his own preschool bills rival rent and his insurance premiums have nearly tripled; campaign focuses on insurance costs, health-care access and public-school funding.",
+          "quote": "I pay preschool bills that rival rent...insurance premiums have nearly tripled.",
+          "sources": [
+            {
+              "title": "Democrat Richard Lamondin leaves congressional race to enter State Senate race - WLRN",
+              "url": "https://www.wlrn.org/government-politics/2026-04-07/democrat-richard-lamondin-leaves-congressional-race-to-enter-state-senate-race-against-gop-incumbent",
+              "date": "2026-04-07"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     },

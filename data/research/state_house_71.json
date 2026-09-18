@@ -517,8 +517,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://voteforvarnadore.com/",
+      "occupation": "Marketing professional and musician",
       "residence": null,
       "background": "Republican candidate in the Aug. 18, 2026 HD 71 Republican primary (result unverified).",
       "primary_result": null,
@@ -566,11 +566,17 @@
           "sources": []
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Describes himself as a staunch supporter of the Second Amendment and individual liberty.",
+          "quote": "staunch supporter of the Second Amendment and individual liberty",
+          "sources": [
+            {
+              "title": "Jordan Varnadore for State House",
+              "url": "https://voteforvarnadore.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -659,7 +665,13 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "name": "Donald Trump",
+          "type": "person",
+          "source": "https://voteforvarnadore.com/"
+        }
+      ],
       "sources": [
         {
           "title": "Florida House of Representatives District 71 (Ballotpedia)",
@@ -680,8 +692,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.oceanforflorida.com/",
+      "occupation": "Public policy and administration student, St. Petersburg College; Palmetto",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -693,7 +705,190 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says health care is a human right, supports expanding Medicaid and moving toward universal coverage.",
+          "quote": "I believe healthcare is a human right, support expanding Medicaid",
+          "sources": [
+            {
+              "title": "Ocean for Florida - Full platform",
+              "url": "https://www.oceanforflorida.com/issues-1",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Backs mixed-use and infill housing, stronger affordable-housing requirements on major developments and limits on corporate home purchases.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Ocean for Florida - Full platform",
+              "url": "https://www.oceanforflorida.com/issues-1",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants enforceable claim timelines, home-hardening grants and properly funded insurance oversight agencies.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Ocean for Florida - Full platform",
+              "url": "https://www.oceanforflorida.com/issues-1",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports clean energy and a much bigger role for solar, and disclosure rules for large data centers.",
+          "quote": "support clean energy and a much bigger role for solar",
+          "sources": [
+            {
+              "title": "Ocean for Florida - Full platform",
+              "url": "https://www.oceanforflorida.com/issues-1",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Supports fairer immigration pathways and separating civil immigration enforcement from ordinary policing.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Ocean for Florida - Full platform",
+              "url": "https://www.oceanforflorida.com/issues-1",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Opposes Florida's six-week restriction; says the decision belongs to patients and providers.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Ocean for Florida - Full platform",
+              "url": "https://www.oceanforflorida.com/issues-1",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "guns": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports universal background checks, waiting periods, safe storage, magazine and assault-weapon limits, and repealing permitless carry.",
+          "quote": "universal background checks, waiting periods, safe-storage requirements",
+          "sources": [
+            {
+              "title": "Ocean for Florida - Full platform",
+              "url": "https://www.oceanforflorida.com/issues-1",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Opposes expanding private-school vouchers with public dollars and wants accountability standards for charters.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Ocean for Florida - Full platform",
+              "url": "https://www.oceanforflorida.com/issues-1",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Backs Fair Districts, restoring voting rights after sentences are completed, and closing the write-in loophole.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Ocean for Florida - Full platform",
+              "url": "https://www.oceanforflorida.com/issues-1",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "crime": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Supports civilian oversight of police, opposes police militarization and the death penalty, and wants trained responders rather than armed officers for many calls.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Ocean for Florida - Full platform",
+              "url": "https://www.oceanforflorida.com/issues-1",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Supports medically appropriate transgender health care, inclusive schools and a ban on conversion therapy.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Ocean for Florida - Full platform",
+              "url": "https://www.oceanforflorida.com/issues-1",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "marijuana": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports legalizing recreational cannabis alongside medical use.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Ocean for Florida - Full platform",
+              "url": "https://www.oceanforflorida.com/issues-1",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Opposes fracking and expanded drilling, wants phosphate-mining oversight, wetland protection and stronger flood-resilience investment.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Ocean for Florida - Full platform",
+              "url": "https://www.oceanforflorida.com/issues-1",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Opposes SB 180's limits on local land-use authority and wants growth that funds infrastructure first.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Ocean for Florida - Full platform",
+              "url": "https://www.oceanforflorida.com/issues-1",
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []

@@ -26,8 +26,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": "https://www.facebook.com/JakeForFlorida",
-      "occupation": null,
+      "website": "https://www.jakeforflorida.com/",
+      "occupation": "Retired Navy captain; former Port Orange city manager; Volusia County Council member",
       "residence": null,
       "background": "Johansson, a Volusia County resident and retired Navy officer who previously ran for Volusia County Council, announced in 2024 for the open SD 8 seat and drew endorsements from Senate Republican leadership, AIF and the Florida Chamber.",
       "primary_result": "Ran in Aug. 18, 2026 Republican primary; result NOT verified in search snippets.",
@@ -154,11 +154,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says public safety must be the state's number-one priority.",
+          "quote": "Ensure Floridians are safe by ensuring public safety is our number 1 priority.",
+          "sources": [
+            {
+              "title": "Jake for Florida - Home",
+              "url": "https://www.jakeforflorida.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -182,14 +188,33 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists supporting veterans and first responders among his platform planks.",
+          "quote": "Support our veterans and first responders",
+          "sources": [
+            {
+              "title": "Jake for Florida - Home",
+              "url": "https://www.jakeforflorida.com/",
+              "date": "2026-09-18"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "topic": "Government and economy",
+          "summary": "Calls for leaner, more affordable government, workforce development, better-paying jobs and affordable housing, and describes free enterprise as worth defending.",
+          "quote": "As a small business owner and veteran, I know free enterprise is worth defending, whether on battlefields abroad or within government at home.",
+          "sources": [
+            {
+              "title": "Florida Chamber of Commerce endorsement release",
+              "url": "https://www.flchamber.com/florida-chamber-of-commerce-endorses-jake-johansson-in-senate-district-8-for-the-2026-election/",
+              "date": "2025-12-03"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [
         {

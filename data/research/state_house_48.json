@@ -237,7 +237,7 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Dundee town commissioner",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -249,7 +249,60 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports expanding workforce-housing programs, incentives for affordable and mixed-income construction, tenant protections, rental assistance and down-payment help for first-time buyers.",
+          "quote": "expanding workforce housing programs, incentivizing the construction of affordable and mixed-income housing",
+          "sources": [
+            {
+              "title": "VOTE411 candidate questionnaire - State Representative 48",
+              "url": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72690917",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports abortion access in cases of rape, incest, threats to the life or health of the mother, severe fetal abnormalities, and other circumstances a woman and her physician decide are medically best.",
+          "quote": "I support access to abortion in cases of rape, incest, threats to the life or health of the mother, severe fetal abnormalities, and other circumstances where a woman, in consultation with her physician, determines it is the best medical decision.",
+          "sources": [
+            {
+              "title": "VOTE411 candidate questionnaire - State Representative 48",
+              "url": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72690917",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would protect Medicaid coverage, expand preventive care and strengthen community health centers; does not call for Medicaid expansion.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "VOTE411 candidate questionnaire - State Representative 48",
+              "url": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72690917",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says state and local governments should be partners and wants local decision-making restored on housing, transportation and development.",
+          "quote": "Florida's state and local governments should be partners, not competitors.",
+          "sources": [
+            {
+              "title": "VOTE411 candidate questionnaire - State Representative 48",
+              "url": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72690917",
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []

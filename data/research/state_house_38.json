@@ -24,25 +24,42 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.emilydudabuckley.com/",
+      "occupation": "Duda Farm Fresh Foods family; foster and adoptive parent; Guardian ad Litem",
       "residence": "Oviedo, Seminole County",
       "background": "Republican candidate for HD 38 associated with Duda Farm Fresh Foods Inc. in Oviedo; ran in the Aug. 18, 2026 Republican primary against Marcus Hyatt (result unverified).",
       "primary_result": null,
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Describes herself as a free-market conservative who would lower costs by reducing taxes and regulations, and says government should live within its means.",
+          "quote": "As a free-market conservative, I firmly believe we can fuel prosperity and lower costs for families by empowering job creators, reducing taxes, and eliminating burdensome regulations.",
+          "sources": [
+            {
+              "title": "Florida Chamber of Commerce endorsement release",
+              "url": "https://www.flchamber.com/florida-chamber-of-commerce-endorses-emily-duda-buckley-in-house-district-38-for-the-2026-election/",
+              "date": "2025-08-14"
+            },
+            {
+              "title": "Emily Duda Buckley for Florida House - Home",
+              "url": "https://www.emilydudabuckley.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to cut property taxes so families and seniors can stay in their communities; does not call for eliminating them.",
+          "quote": "cut property taxes so families and seniors can afford to stay in the communities they built",
+          "sources": [
+            {
+              "title": "Emily Duda Buckley for Florida House - Home",
+              "url": "https://www.emilydudabuckley.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -101,18 +118,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to protect Central Florida's land and water by standing up to big developers and data centers.",
+          "quote": "protect Central Florida's land and water by standing up to the big developers and data centers",
+          "sources": [
+            {
+              "title": "Emily Duda Buckley for Florida House - Home",
+              "url": "https://www.emilydudabuckley.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Frames standing up to big developers and data centers as a core priority.",
+          "quote": "standing up to the big developers and data centers",
+          "sources": [
+            {
+              "title": "Emily Duda Buckley for Florida House - Home",
+              "url": "https://www.emilydudabuckley.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -501,9 +530,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Attorney, Seminole County",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Nikolas 'Nik' Dean, a Seminole County attorney, was chosen by Democratic leaders on Aug. 31, 2026 to replace Michelle DeJesus, who withdrew, as the Democratic nominee for HD 38 (Florida Democratic Party release; Florida Politics). His launch statement focuses on lowering everyday costs, raising wages and safety; no issue-by-issue positions were published as of Sept. 18, 2026.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -514,7 +543,20 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "topic": "Cost of living",
+          "summary": "Says hard work alone is not enough when groceries, gas, housing, health care and insurance outpace wages, and pledges practical solutions that lower everyday costs and raise wages.",
+          "quote": "Hard work alone is not enough when costs of everyday items like groceries, gas, housing, healthcare, and insurance continue to outpace the workers in our state's wages.",
+          "sources": [
+            {
+              "title": "Nik Dean launches campaign for House District 38 - Florida Democratic Party",
+              "url": "https://floridadems.org/2026/08/nik-dean-launches-campaign-for-house-district-38/",
+              "date": "2026-08-31"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

@@ -504,8 +504,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.takingbackflorida.org/",
+      "occupation": "Academic technology staff, University of Florida; IBEW Local 1205 recording secretary; former solar installer",
       "residence": null,
       "background": "Bellamy-Fults is the sole Democratic candidate for SD 6 (News4Jax voter guide). No further biographical information was found in search results.",
       "primary_result": "Sole Democrat; no primary.",
@@ -568,11 +568,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says the Legislature has refused billions in federal Medicaid-expansion dollars that would cover over a million Floridians, and calls for comprehensive, affordable care for all.",
+          "quote": "the Florida legislature has refused to accept billions of federal Medicaid expansion dollars that would offer over a million Floridians access to comprehensive health care",
+          "sources": [
+            {
+              "title": "Taking Back Florida - Healthcare",
+              "url": "https://www.takingbackflorida.org/healthcare",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -596,11 +602,22 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants state preemptions that override local decisions stopped and home rule respected.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Taking Back Florida - Home",
+              "url": "https://www.takingbackflorida.org/",
+              "date": "2026-09-18"
+            },
+            {
+              "title": "2026 Voter's Guide: Florida Senate District 6 - News4JAX",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-senate-district-6/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -631,11 +648,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says bills are high because monopoly utilities are allowed too high a rate of return; would protect net metering, expand distributed solar and demand real oversight by the Public Service Commission.",
+          "quote": "Floridians' electric bills are too expensive because we allow the monopoly utilities too high a rate of return",
+          "sources": [
+            {
+              "title": "Taking Back Florida - Energy policy",
+              "url": "https://www.takingbackflorida.org/energy-policy",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -663,8 +686,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://thorntonforhumandignity.com/",
+      "occupation": "Retired academic psychiatrist, University of Florida College of Medicine",
       "residence": null,
       "background": "Thornton qualified as the American Solidarity Party candidate for SD 6 (News4Jax voter guide). No further biographical information was found.",
       "primary_result": "Minor-party candidate; no primary.",
@@ -706,11 +729,17 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Proposes oversight and dignity protections for immigration detainees (public reporting, no family separation, access to medical care) without opposing enforcement itself.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Thornton for Human Dignity - Dignified Immigration Management",
+              "url": "https://thorntonforhumandignity.com/legislation-proposed/dignified-immigration-management/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -776,11 +805,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Stands firmly against the death penalty and proposes legislation to abolish it.",
+          "quote": "stands firmly against the death penalty",
+          "sources": [
+            {
+              "title": "Thornton for Human Dignity - Home",
+              "url": "https://thorntonforhumandignity.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,

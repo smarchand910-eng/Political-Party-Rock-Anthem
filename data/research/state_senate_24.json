@@ -243,8 +243,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.votejackiegreen.com/",
+      "occupation": "Navy veteran; teacher and school counselor with an education doctorate",
       "residence": null,
       "background": "Green opened a campaign account as a Republican to run against Bernard in SD 24 (News Service of Florida). Qualification and further background not verified.",
       "primary_result": "Qualification not verified.",
@@ -258,11 +258,17 @@
       ],
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Believes in less government and lower taxes for working families.",
+          "quote": "Jackie believes in less government and lower taxes for working families.",
+          "sources": [
+            {
+              "title": "Jackie Green for Florida Senate - Home",
+              "url": "https://www.votejackiegreen.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -356,11 +362,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would champion legislation that supports and protects law enforcement.",
+          "quote": "She will champion legislation that supports and protects those who keep our communities safe.",
+          "sources": [
+            {
+              "title": "Jackie Green for Florida Senate - Home",
+              "url": "https://www.votejackiegreen.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -384,11 +396,17 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Describes herself as pro-veterans and pledges to fight for better health care, housing and support.",
+          "quote": "She is pro-veterans and will fight for better healthcare, housing, and support.",
+          "sources": [
+            {
+              "title": "Jackie Green for Florida Senate - Home",
+              "url": "https://www.votejackiegreen.com/",
+              "date": "2026-09-18"
+            }
+          ]
         }
       },
       "other_issues": [],

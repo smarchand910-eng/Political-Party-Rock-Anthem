@@ -495,7 +495,7 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Mayor of Maitland since 2021; attorney (local government, utilities, land use)",
       "residence": "Maitland, Orange County",
       "background": "Lowndes, of Maitland, won the Democratic nomination for SD 10 with 71% of the vote over H. Alexander Duncan in the Aug. 18, 2026 primary.",
       "primary_result": "Won Aug. 18, 2026 Democratic primary with 71% over H. Alexander Duncan (Florida Politics).",
@@ -647,7 +647,20 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "topic": "Cost of living",
+          "summary": "Says working families and seniors are struggling with insurance premiums, housing, groceries, health care and utility rates, and that he is running to lower costs; no issue-by-issue positions published as of Sept. 18, 2026 (his campaign site was password-protected at launch).",
+          "quote": "Working families and seniors are struggling with rising insurance premiums, housing costs, grocery bills, healthcare expenses, and utility rates while politicians in Tallahassee pick partisan political fights instead of finding practical solutions.",
+          "sources": [
+            {
+              "title": "Maitland mayor to challenge GOP Sen. Jason Brodeur for his Florida Senate seat - Orlando Weekly",
+              "url": "https://www.orlandoweekly.com/news/orlando-area-news/maitland-mayor-to-challenge-gop-sen-jason-brodeur-for-his-florida-senate-seat/",
+              "date": "2026-06-01"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }
