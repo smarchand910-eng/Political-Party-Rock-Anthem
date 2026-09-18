@@ -15,12 +15,12 @@
     {
       "id": "cody_davis",
       "name": "Cody Davis",
-      "party": null,
+      "party": "Jeffersonian Party of Florida",
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://codyforcollier.com/",
+      "occupation": "Historian and election-law researcher; founder of the Jeffersonian Party of Florida",
       "residence": null,
       "background": "Qualified candidate for County Commission District 2 on the Nov. 3, 2026 ballot.",
       "primary_result": null,
@@ -47,11 +47,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says developers' affordable-housing commitments must actually be delivered and opposes reducing those obligations without accountability.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Cody Davis for Collier County Commissioner - Issues",
+              "url": "https://codyforcollier.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -96,18 +102,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would restore Conservation Collier funds diverted in 2023 and put the program in the county charter so changes need voter approval.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Cody Davis for Collier County Commissioner - Issues",
+              "url": "https://codyforcollier.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says development should be a partnership with the community and opposes 'chaotic and unsustainable overdevelopment' and favoritism in land-use decisions.",
+          "quote": "Development should be a partnership with the community, not an extraction from it",
+          "sources": [
+            {
+              "title": "Cody Davis for Collier County Commissioner - Issues",
+              "url": "https://codyforcollier.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -187,13 +205,13 @@
       "id": "chris_hall",
       "name": "Chris Hall",
       "party": "Republican",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.chrishallnaples.com/",
+      "occupation": "Collier County commissioner since 2022 and current chairman; real-estate investor",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Republican incumbent elected in 2022 with more than 70 percent of the vote. His campaign lists fiscal responsibility, workforce housing, constitutional rights, transparency, education and law enforcement as issues and cites priority-based budgeting he says saved the county over $100 million (Sparker's Soapbox candidate summary, 2026). He initially said he would not run again, then changed his mind.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [

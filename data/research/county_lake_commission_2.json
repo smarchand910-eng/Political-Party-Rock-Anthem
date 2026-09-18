@@ -19,18 +19,24 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://voteforsean.com/",
+      "occupation": "Lake County commissioner since 2010; certified planner with environmental-science and engineering-management degrees",
       "residence": null,
       "background": "Sitting District 2 county commissioner and board vice-chairman; qualified Republican candidate in 2026.",
       "primary_result": null,
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says Lake County's property-tax rate is the lowest in the region and he intends to keep it that way.",
+          "quote": "Lake County's property tax rate is the lowest in the region, and I intend to keep it that way.",
+          "sources": [
+            {
+              "title": "Re-Elect Sean Parks for Lake County Commissioner",
+              "url": "https://voteforsean.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -96,18 +102,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Pledges to stop projects that threaten lakes, rural land and open spaces; calls himself a 'Teddy Roosevelt Republican'.",
+          "quote": "I will stop projects that threaten our lakes, rural land, and the open spaces that made most of us choose to live here.",
+          "sources": [
+            {
+              "title": "Re-Elect Sean Parks for Lake County Commissioner",
+              "url": "https://voteforsean.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Wants roads, schools and utilities in place before projects are approved, opposes 'housing sprawl for its own sake' and would push back on state mandates that strip local say.",
+          "quote": "Roads, schools, and utilities need to be in place before new projects get approved, not years after families have already moved in.",
+          "sources": [
+            {
+              "title": "Re-Elect Sean Parks for Lake County Commissioner",
+              "url": "https://voteforsean.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -124,11 +142,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges funding, training and equipment for deputies, firefighters and EMS.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Re-Elect Sean Parks for Lake County Commissioner",
+              "url": "https://voteforsean.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,

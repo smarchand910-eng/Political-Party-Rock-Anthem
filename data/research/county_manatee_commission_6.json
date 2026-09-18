@@ -19,18 +19,24 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.tarapoulton.com/",
+      "occupation": "District chief of staff to U.S. Rep. Vern Buchanan; Lakewood Ranch",
       "residence": null,
       "background": "Won the four-way Republican primary for the countywide District 6 seat.",
       "primary_result": "First in Aug 18 GOP primary with 38.27% (16,328)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says her focus is holding the line on government spending so county decisions do not add to families' financial pressure.",
+          "quote": "holding the line on government spending and ensuring county decisions do not add to the financial pressure families are already facing",
+          "sources": [
+            {
+              "title": "Tara Poulton for Manatee County Commission",
+              "url": "https://www.tarapoulton.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -96,18 +102,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would protect the coastline, strengthen environmental safeguards and preserve local waters and fisheries; opposes the proposed cruise terminal over its impact on the ecosystem.",
+          "quote": "protect our pristine coastline, strengthen environmental safeguards, and preserve local waters and fisheries",
+          "sources": [
+            {
+              "title": "Tara Poulton for Manatee County Commission",
+              "url": "https://www.tarapoulton.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Campaigns on 'responsible growth' and opposes the proposed Manatee County cruise terminal.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Tara Poulton for Manatee County Commission",
+              "url": "https://www.tarapoulton.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -194,8 +212,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://reggiebellamy.com/",
+      "occupation": "Executive director, Palmetto Youth Center; Manatee County commissioner (District 2) 2018-2022; veteran",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -207,7 +225,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Campaigns on 'infrastructure first, growth second', says developers should pay their fair share, and opposes hyperscale data centers in Manatee County.",
+          "quote": "Fix what's failing. Infrastructure first. Growth second.",
+          "sources": [
+            {
+              "title": "Reggie Bellamy for Manatee County Commission",
+              "url": "https://reggiebellamy.com/",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Committed to protecting agricultural and rural lands and the environment.",
+          "quote": "protecting our agricultural and rural lands",
+          "sources": [
+            {
+              "title": "Reggie Bellamy for Manatee County Commission",
+              "url": "https://reggiebellamy.com/",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports zero-based budgeting: 'Every dollar should have a purpose. Cut waste. Demand accountability.'",
+          "quote": "Every dollar should have a purpose.",
+          "sources": [
+            {
+              "title": "Reggie Bellamy for Manatee County Commission",
+              "url": "https://reggiebellamy.com/",
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []

@@ -19,8 +19,8 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://amandaballard2026.com/",
+      "occupation": "Manatee County commissioner since 2022",
       "residence": null,
       "background": "Incumbent District 2 commissioner.",
       "primary_result": "Won Aug 18 GOP primary with 67.45% (3,036)",
@@ -33,11 +33,17 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says she is dedicated to continuing to lower the millage rate and give families property-tax relief.",
+          "quote": "dedicated to continuing to lower the millage rate and give families property tax relief",
+          "sources": [
+            {
+              "title": "Amanda Ballard for Manatee County Commission - Issues",
+              "url": "https://amandaballard2026.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -47,11 +53,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Prioritizes affordable housing for seniors in District 2 and backed the Tunnel to Towers project of 122 homes for homeless and disabled veterans.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Amanda Ballard for Manatee County Commission - Issues",
+              "url": "https://amandaballard2026.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -103,11 +115,17 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Spearheaded the county's purchase of Mixon Fruit Farms to keep it from development and wants to preserve agricultural land.",
+          "quote": "spearheaded the purchase of the historic Mixon Fruit Farms, saving the site from development",
+          "sources": [
+            {
+              "title": "Amanda Ballard for Manatee County Commission - Issues",
+              "url": "https://amandaballard2026.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -124,11 +142,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Treats homelessness as a public-safety issue: supports enforcing anti-camping and loitering laws, a juvenile curfew and a ban on unregulated designer drugs, alongside free treatment programs.",
+          "quote": "a juvenile curfew with sensible exceptions",
+          "sources": [
+            {
+              "title": "Amanda Ballard for Manatee County Commission - Issues",
+              "url": "https://amandaballard2026.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -166,11 +190,17 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Highlights the Tunnel to Towers veterans' housing project and the Valor Commons veterans' services initiative.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Amanda Ballard for Manatee County Commission - Home",
+              "url": "https://amandaballard2026.com/",
+              "date": "2026-09-18"
+            }
+          ]
         }
       },
       "other_issues": [],
