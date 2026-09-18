@@ -465,23 +465,13 @@
         "abortion": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Dandiya says she supports codifying and protecting reproductive rights and defends access to abortion and contraception, arguing that personal health-care and family decisions should be free from government interference.",
-          "quote": null,
+          "summary": "Supports reproductive rights.",
+          "quote": "supports reproductive rights",
           "sources": [
             {
-              "title": "Pia Dandiya for Congress (campaign site)",
-              "url": "https://piaforcongress.com/",
-              "date": null
-            },
-            {
-              "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
-              "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
-              "date": "2025"
-            },
-            {
-              "title": "Pia Dandiya - EMILYs List",
-              "url": "https://emilyslist.org/candidate/pia-dandiya/",
-              "date": "2026"
+              "title": "Florida Congressional District 22 Voting Guide - Hy-Lo News",
+              "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+              "date": "2026-08-04"
             }
           ]
         },
@@ -526,11 +516,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports Everglades restoration.",
+          "quote": "Everglades restoration",
+          "sources": [
+            {
+              "title": "Florida Congressional District 22 Voting Guide - Hy-Lo News",
+              "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+              "date": "2026-08-04"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -561,11 +557,17 @@
           "sources": []
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Supports LGBTQ+ equality.",
+          "quote": "supports reproductive rights, LGBTQ+ equality",
+          "sources": [
+            {
+              "title": "Florida Congressional District 22 Voting Guide - Hy-Lo News",
+              "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+              "date": "2026-08-04"
+            }
+          ]
         },
         "energy": {
           "stance": null,

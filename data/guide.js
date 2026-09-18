@@ -13356,63 +13356,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -13426,6 +13370,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -13433,21 +13419,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -13461,7 +13440,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -13482,21 +13496,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -13555,56 +13555,7 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -13618,6 +13569,41 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -13625,21 +13611,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -13653,7 +13625,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -13674,14 +13681,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -14309,63 +14309,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -14379,6 +14323,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -14386,21 +14372,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -14414,7 +14393,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -14435,21 +14449,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -14904,63 +14904,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -14974,6 +14918,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -14981,21 +14967,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -15009,7 +14988,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -15030,21 +15044,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -16105,63 +16105,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -16175,6 +16119,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -16182,21 +16168,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -16210,7 +16189,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -16231,21 +16245,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -16278,63 +16278,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -16348,6 +16292,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -16355,21 +16341,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -16383,7 +16362,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -16404,21 +16418,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -17987,63 +17987,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -18057,6 +18001,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -18064,21 +18050,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -18092,7 +18071,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -18113,21 +18127,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -18617,63 +18617,7 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -18687,6 +18631,41 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -18694,14 +18673,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -18715,7 +18687,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -18736,7 +18736,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -19188,63 +19188,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -19258,6 +19202,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -19265,21 +19251,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -19293,7 +19272,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -19314,21 +19328,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -19361,63 +19361,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -19431,6 +19375,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -19438,21 +19424,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -19466,7 +19445,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -19487,21 +19501,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21036,56 +21036,7 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21099,7 +21050,28 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "social_security": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21113,7 +21085,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22237,56 +22237,7 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22300,6 +22251,41 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -22307,14 +22293,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22328,7 +22314,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22349,21 +22363,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28028,63 +28028,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28098,6 +28042,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -28105,21 +28091,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28133,7 +28112,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28154,21 +28168,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29165,27 +29165,6 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
        "stance": null,
        "confidence": "unknown",
@@ -29200,7 +29179,28 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29214,7 +29214,21 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29229,20 +29243,6 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30469,63 +30469,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30539,6 +30483,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -30546,21 +30532,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30574,7 +30553,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30595,21 +30609,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32471,63 +32471,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32541,6 +32485,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -32548,21 +32534,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32576,7 +32555,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32597,21 +32611,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33532,63 +33532,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33602,6 +33546,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -33609,21 +33595,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33637,7 +33616,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33658,21 +33672,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35019,7 +35019,14 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "marijuana": {
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35033,35 +35040,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35075,14 +35054,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35096,7 +35068,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35117,7 +35117,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35848,56 +35848,7 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35911,7 +35862,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35925,7 +35918,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "guns": {
+      "trump": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35939,7 +35932,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "energy": {
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35960,7 +35960,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36674,63 +36674,7 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36744,21 +36688,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
+      "education_choice": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36772,7 +36702,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "social_security": {
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36786,7 +36744,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36819,63 +36819,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36889,6 +36833,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -36896,21 +36882,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36924,7 +36903,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36945,21 +36959,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38485,63 +38485,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38555,6 +38499,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -38562,21 +38548,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38590,7 +38569,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38611,21 +38625,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -40039,21 +40039,7 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -40067,14 +40053,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
+      "property_tax": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -40082,6 +40061,27 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -40114,63 +40114,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -40184,6 +40128,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -40191,21 +40177,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -40219,7 +40198,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -40240,21 +40254,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -46543,63 +46543,7 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -46613,6 +46557,41 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -46620,21 +46599,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -46648,7 +46613,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -46669,7 +46669,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -46754,56 +46754,7 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -46817,28 +46768,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "education_choice": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -46852,7 +46782,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "social_security": {
+      "lgbtq": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -46866,7 +46796,77 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -49949,63 +49949,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -50019,6 +49963,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -50026,21 +50012,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -50054,7 +50033,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -50075,21 +50089,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -52116,63 +52116,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -52186,6 +52130,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -52193,21 +52179,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -52221,7 +52200,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -52242,21 +52256,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -53455,63 +53455,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -53525,6 +53469,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -53532,21 +53518,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -53560,7 +53539,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -53581,21 +53595,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -53628,63 +53628,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -53698,6 +53642,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -53705,21 +53691,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -53733,7 +53712,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -53754,21 +53768,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -55639,63 +55639,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -55709,6 +55653,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -55716,21 +55702,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -55744,7 +55723,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -55765,21 +55779,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -55812,63 +55812,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -55882,6 +55826,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -55889,21 +55875,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -55917,7 +55896,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -55938,21 +55952,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -58731,11 +58731,17 @@ window.GUIDE_DATA = {
      "primary_result": "Won Aug 18, 2026 Democratic primary with 65.1% (32,033 votes) over Brandt Robinson (12,893) and John William Liccione (4,250) (WUSF: https://www.wusf.org/politics-issues/2026-08-18/pinellas-primary-results-2026-leela-gray-wins-democratic-nomination-13th-congressional-district)",
      "positions": {
       "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Supports a middle-class tax cut and taking on insurance monopolies.",
+       "quote": "a middle-class tax cut",
+       "sources": [
+        {
+         "title": "Leela Gray wins Democratic nomination in Florida's 13th Congressional District - WUSF",
+         "url": "https://www.wusf.org/politics-issues/2026-08-18/pinellas-primary-results-2026-leela-gray-wins-democratic-nomination-13th-congressional-district",
+         "date": "2026-08-18"
+        }
+       ]
       },
       "property_tax": {
        "stance": null,
@@ -59073,63 +59079,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -59143,6 +59093,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -59150,21 +59142,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -59178,7 +59163,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -59199,21 +59219,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60178,63 +60184,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60248,6 +60198,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -60255,21 +60247,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60283,7 +60268,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60304,21 +60324,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60351,63 +60357,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60421,6 +60371,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -60428,21 +60420,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60456,7 +60441,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60477,21 +60497,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60524,63 +60530,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60594,6 +60544,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -60601,21 +60593,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60629,7 +60614,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60650,21 +60670,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -61425,63 +61431,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -61495,6 +61445,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -61502,21 +61494,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -61530,7 +61515,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -61551,21 +61571,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -61667,20 +61673,15 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "Lists housing costs among her six legislative priorities and says she wants to keep homeownership within reach, but no specific proposal (subsidies, zoning, rent measures) was found as of Sept 2026.",
-       "quote": null,
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Wants to prevent large investors from buying up starter homes and to curb overdevelopment.",
+       "quote": "preventing these huge investors from coming in and buying these starter homes",
        "sources": [
         {
-         "title": "Sydney Gruters, RNC chair's wife, launches Florida House bid (The Hill)",
-         "url": "https://thehill.com/homenews/5812771-sydney-gruters-congress-campaign/",
-         "date": "2026"
-        },
-        {
-         "title": "Sydney Gruters For Congress (campaign site)",
-         "url": "https://grutersforcongress.com/",
-         "date": null
+         "title": "District 16 congressional race: Sydney Gruters - WSLR+Fogartyville",
+         "url": "https://wslr.org/district-16-congressional-race-sydney-gruters/",
+         "date": "2026-08-10"
         }
        ]
       },
@@ -63221,63 +63222,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -63291,6 +63236,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -63298,21 +63285,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -63326,7 +63306,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -63347,21 +63362,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -64905,63 +64906,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -64975,6 +64920,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -64982,21 +64969,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -65010,7 +64990,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -65031,21 +65046,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -65078,63 +65079,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -65148,6 +65093,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -65155,21 +65142,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -65183,7 +65163,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -65204,21 +65219,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -67493,11 +67494,17 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Supports legislation to stop investors competing against individual homebuyers.",
+       "quote": "There is housing in Florida, but it is not attainable.",
+       "sources": [
+        {
+         "title": "2 Democrats vie to unseat Brian Mast - Stet News",
+         "url": "https://stetnews.org/2026/08/10/2-democrats-vie-to-unseat-brian-mast/",
+         "date": "2026-08-10"
+        }
+       ]
       },
       "immigration": {
        "stance": -1,
@@ -67628,11 +67635,17 @@ window.GUIDE_DATA = {
        ]
       },
       "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Says supporting Ukraine is in the national interest.",
+       "quote": "I believe supporting Ukraine is in our national interests. The way of the world cannot be taking borders by force.",
+       "sources": [
+        {
+         "title": "2 Democrats vie to unseat Brian Mast - Stet News",
+         "url": "https://stetnews.org/2026/08/10/2-democrats-vie-to-unseat-brian-mast/",
+         "date": "2026-08-10"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -67994,63 +68007,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -68064,6 +68021,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -68071,21 +68070,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -68099,7 +68091,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -68120,21 +68147,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -68167,63 +68180,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -68237,6 +68194,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -68244,21 +68243,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -68272,7 +68264,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -68293,21 +68320,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -68813,23 +68826,13 @@ window.GUIDE_DATA = {
       "abortion": {
        "stance": 2,
        "confidence": "stated",
-       "summary": "Dandiya says she supports codifying and protecting reproductive rights and defends access to abortion and contraception, arguing that personal health-care and family decisions should be free from government interference.",
-       "quote": null,
+       "summary": "Supports reproductive rights.",
+       "quote": "supports reproductive rights",
        "sources": [
         {
-         "title": "Pia Dandiya for Congress (campaign site)",
-         "url": "https://piaforcongress.com/",
-         "date": null
-        },
-        {
-         "title": "'Floridians deserve better': Pia Dandiya launches campaign to flip Brian Mast's seat in CD 21 (Florida Politics)",
-         "url": "https://floridapolitics.com/archives/740914-floridians-deserve-better-pia-dandiya-launches-campaign-to-flip-brian-masts-seat-in-cd-21/",
-         "date": "2025"
-        },
-        {
-         "title": "Pia Dandiya - EMILYs List",
-         "url": "https://emilyslist.org/candidate/pia-dandiya/",
-         "date": "2026"
+         "title": "Florida Congressional District 22 Voting Guide - Hy-Lo News",
+         "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+         "date": "2026-08-04"
         }
        ]
       },
@@ -68874,11 +68877,17 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 1,
+       "confidence": "stated",
+       "summary": "Supports Everglades restoration.",
+       "quote": "Everglades restoration",
+       "sources": [
+        {
+         "title": "Florida Congressional District 22 Voting Guide - Hy-Lo News",
+         "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+         "date": "2026-08-04"
+        }
+       ]
       },
       "growth": {
        "stance": null,
@@ -68909,11 +68918,17 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Supports LGBTQ+ equality.",
+       "quote": "supports reproductive rights, LGBTQ+ equality",
+       "sources": [
+        {
+         "title": "Florida Congressional District 22 Voting Guide - Hy-Lo News",
+         "url": "https://hylonewsmiami.com/2026/08/04/district-22-voting-guide-meet-the-2026-congressional-candidates/",
+         "date": "2026-08-04"
+        }
+       ]
       },
       "energy": {
        "stance": null,
@@ -70528,63 +70543,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -70598,6 +70557,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -70605,21 +70606,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -70633,7 +70627,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -70654,21 +70683,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -71615,63 +71630,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -71685,6 +71644,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -71692,21 +71693,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -71720,7 +71714,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -71741,21 +71770,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -71788,63 +71803,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -71858,6 +71817,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -71865,21 +71866,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -71893,7 +71887,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -71914,21 +71943,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -74535,11 +74550,17 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "stated",
+       "summary": "Opposes the Schools of Hope amendment, saying charter operators would compete with and recruit from public schools.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Dem Phil Ehr running for Congress in 28th District - Keys News",
+         "url": "https://www.keysnews.com/news/local/dem-phil-ehr-running-for-congress-in-28th-district/article_0914d6a3-3611-4a92-90eb-c7de2fc001ab.html",
+         "date": "2026-02-26"
+        }
+       ]
       },
       "environment": {
        "stance": 2,
@@ -74605,18 +74626,13 @@ window.GUIDE_DATA = {
       "tariffs": {
        "stance": -1,
        "confidence": "stated",
-       "summary": "Ehr says the administration's 'trade wars' and 'reckless tariffs' raised prices on construction materials and groceries; he supports trade policies that protect U.S. jobs 'without sabotaging American consumers or our allies.'",
+       "summary": "Criticizes the administration's trade wars for driving up prices.",
        "quote": null,
        "sources": [
         {
-         "title": "Dem Phil Ehr running for Congress in 28th District (Keys News)",
+         "title": "Dem Phil Ehr running for Congress in 28th District - Keys News",
          "url": "https://www.keysnews.com/news/local/dem-phil-ehr-running-for-congress-in-28th-district/article_0914d6a3-3611-4a92-90eb-c7de2fc001ab.html",
-         "date": "2026"
-        },
-        {
-         "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
-         "url": "https://ehrforcongress.us/",
-         "date": null
+         "date": "2026-02-26"
         }
        ]
       },
@@ -75729,63 +75745,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -75799,6 +75759,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -75806,21 +75808,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -75834,7 +75829,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -75855,21 +75885,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -76624,63 +76640,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -76694,6 +76654,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -76701,21 +76703,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -76729,7 +76724,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -76750,21 +76780,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -76797,63 +76813,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -76867,6 +76827,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -76874,21 +76876,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -76902,7 +76897,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -76923,21 +76953,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -77733,63 +77749,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -77803,6 +77763,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -77810,21 +77812,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -77838,7 +77833,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -77859,21 +77889,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -79039,63 +79055,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -79109,6 +79069,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -79116,21 +79118,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -79144,7 +79139,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -79165,21 +79195,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -79212,63 +79228,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -79282,6 +79242,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -79289,21 +79291,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -79317,7 +79312,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -79338,21 +79368,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -80097,63 +80113,7 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -80167,6 +80127,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -80174,21 +80176,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "immigration": {
+      "housing": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -80202,7 +80197,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "healthcare": {
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -80223,21 +80253,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -80755,63 +80771,7 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "veterans": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -80825,35 +80785,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
+      "education_choice": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -80867,7 +80799,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "growth": {
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -80881,7 +80820,84 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -81311,11 +81327,17 @@ window.GUIDE_DATA = {
      "primary_result": "Won Aug 18, 2026 Republican primary with ~25.4% over Ben Butler (~24.4%), Thomas Chalifoux (~20%), Jorge Martinez (~19%), Marcus Carter and Justin Story (~4% each) and Steve Rance (~2%); AP call came Aug 20 (FOX 35: https://www.fox35orlando.com/news/florida-congressional-district-9-election-results ; Florida Politics: https://floridapolitics.com/archives/815103-dan-green-emerges-as-gop-nominee-who-will-face-darren-soto-in-cd-9/ ; Vero News: http://veronews.com/2026/08/27/hopeful-of-victory-dan-green-striving-to-be-first-vero-beach-resident-to-be-sworn-in-as-congressman/)",
      "positions": {
       "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
+       "stance": 2,
+       "confidence": "stated",
+       "summary": "Disagrees that people who can afford more should pay more; says government should cut spending rather than raise taxes.",
+       "quote": "I don't think we should be raising taxes. The government should cut spending in order to reduce the national debt.",
+       "sources": [
+        {
+         "title": "iVoterGuide candidate profile - Dan Green, U.S. Rep. Dist. 9",
+         "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
+         "date": "2026-09-18"
+        }
+       ]
       },
       "property_tax": {
        "stance": null,
@@ -81341,62 +81363,52 @@ window.GUIDE_DATA = {
       "immigration": {
        "stance": 1,
        "confidence": "stated",
-       "summary": "Green says he supports immigration for those who follow legal methods and says he will push for stronger borders; he supports requiring proof of citizenship and ID for federal elections. No explicit statement on large-scale deportation was found.",
-       "quote": null,
+       "summary": "Would admit those who follow legal immigration methods and opposes sanctuary cities.",
+       "quote": "Those who follow the legal methods of immigrating to the United States",
        "sources": [
         {
-         "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+         "title": "iVoterGuide candidate profile - Dan Green, U.S. Rep. Dist. 9",
          "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
-         "date": null
-        },
-        {
-         "title": "Navy veteran Dan Green courts Indian River voters in District 9 primary - Sebastian Daily",
-         "url": "https://www.sebastiandaily.com/business/navy-veteran-dan-green-courts-indian-river-voters-in-district-9-primary-94900/",
-         "date": null
+         "date": "2026-09-18"
         }
        ]
       },
       "abortion": {
        "stance": -2,
        "confidence": "stated",
-       "summary": "In a voter-guide questionnaire Green said human life deserves legal protection from conception until natural death and that he supports enforcing the Comstock Act, which bars interstate shipment of abortion-inducing drugs.",
-       "quote": null,
+       "summary": "Strongly agrees human life should be protected from conception; would allow abortion only for rape, incest and the life of the mother.",
+       "quote": "In case of rape, incest, and life of the mother",
        "sources": [
         {
-         "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+         "title": "iVoterGuide candidate profile - Dan Green, U.S. Rep. Dist. 9",
          "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
-         "date": null
+         "date": "2026-09-18"
         }
        ]
       },
       "guns": {
        "stance": -2,
        "confidence": "stated",
-       "summary": "Green says he will 'never allow Second Amendment Rights to be infringed' and describes himself as an NRA lifetime member with the group's highest rating.",
-       "quote": null,
+       "summary": "Says there are too many gun restrictions.",
+       "quote": "We have too many restrictions",
        "sources": [
         {
-         "title": "Meet Dan - Dan Green for Congress",
-         "url": "https://dangreenfl.com/meet-dan/",
-         "date": null
-        },
-        {
-         "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+         "title": "iVoterGuide candidate profile - Dan Green, U.S. Rep. Dist. 9",
          "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
-         "date": null
+         "date": "2026-09-18"
         }
        ]
       },
       "healthcare": {
-       "stance": -1,
+       "stance": -2,
        "confidence": "stated",
-       "summary": "Green says private insurance should be the primary means by which Americans get health coverage and that government should provide relief 'in a fiscally responsible manner.'",
-       "quote": null,
+       "summary": "Says taxpayer-funded health care should be abolished and private insurance should be the primary means of coverage.",
+       "quote": "Taxpayer funded health care should be abolished in all forms",
        "sources": [
         {
-         "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+         "title": "iVoterGuide candidate profile - Dan Green, U.S. Rep. Dist. 9",
          "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
-         "date": null
+         "date": "2026-09-18"
         }
        ]
       },
@@ -81442,15 +81454,15 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": -1,
+       "stance": -2,
        "confidence": "stated",
-       "summary": "Supports requiring proof of citizenship and identification to vote in federal elections.",
+       "summary": "Opposes voting without photo ID.",
        "quote": null,
        "sources": [
         {
-         "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+         "title": "iVoterGuide candidate profile - Dan Green, U.S. Rep. Dist. 9",
          "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
-         "date": null
+         "date": "2026-09-18"
         }
        ]
       },

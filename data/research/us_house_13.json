@@ -402,11 +402,17 @@
       "primary_result": "Won Aug 18, 2026 Democratic primary with 65.1% (32,033 votes) over Brandt Robinson (12,893) and John William Liccione (4,250) (WUSF: https://www.wusf.org/politics-issues/2026-08-18/pinellas-primary-results-2026-leela-gray-wins-democratic-nomination-13th-congressional-district)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports a middle-class tax cut and taking on insurance monopolies.",
+          "quote": "a middle-class tax cut",
+          "sources": [
+            {
+              "title": "Leela Gray wins Democratic nomination in Florida's 13th Congressional District - WUSF",
+              "url": "https://www.wusf.org/politics-issues/2026-08-18/pinellas-primary-results-2026-leela-gray-wins-democratic-nomination-13th-congressional-district",
+              "date": "2026-08-18"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,

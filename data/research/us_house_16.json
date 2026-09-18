@@ -61,20 +61,15 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "Lists housing costs among her six legislative priorities and says she wants to keep homeownership within reach, but no specific proposal (subsidies, zoning, rent measures) was found as of Sept 2026.",
-          "quote": null,
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants to prevent large investors from buying up starter homes and to curb overdevelopment.",
+          "quote": "preventing these huge investors from coming in and buying these starter homes",
           "sources": [
             {
-              "title": "Sydney Gruters, RNC chair's wife, launches Florida House bid (The Hill)",
-              "url": "https://thehill.com/homenews/5812771-sydney-gruters-congress-campaign/",
-              "date": "2026"
-            },
-            {
-              "title": "Sydney Gruters For Congress (campaign site)",
-              "url": "https://grutersforcongress.com/",
-              "date": null
+              "title": "District 16 congressional race: Sydney Gruters - WSLR+Fogartyville",
+              "url": "https://wslr.org/district-16-congressional-race-sydney-gruters/",
+              "date": "2026-08-10"
             }
           ]
         },
