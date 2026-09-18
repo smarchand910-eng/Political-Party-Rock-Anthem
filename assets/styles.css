@@ -328,3 +328,8 @@ tr.highlight td { background: var(--accent-soft); }
 .map-legend { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 8px; font-size: .9rem; }
 .map-legend span { display: inline-flex; align-items: center; gap: 6px; }
 .map-legend i { display: inline-block; width: 14px; height: 14px; border-radius: 50%; border: 2px solid var(--surface); box-shadow: 0 0 0 1px var(--border); }
+
+/* Clickable tags (office group / jurisdiction) and the filter bar on the Races page */
+a.tag-link { text-decoration: none; cursor: pointer; }
+a.tag-link:hover, a.tag-link:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.filter-bar { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }

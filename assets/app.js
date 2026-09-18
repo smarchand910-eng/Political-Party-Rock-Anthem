@@ -119,6 +119,7 @@
     return false;
   }
   function ballotRaces(prof) { return RACES.filter(r => raceOnBallot(r, prof)); }
+  function jurKey(r) { const j = r.jurisdiction || {}; return j.type === 'statewide' || !j.type ? 'statewide' : `${j.type}-${j.id}`; }
   function jurLabel(r) { const j = r.jurisdiction || {}; return j.type === 'statewide' ? 'Statewide' : j.type === 'cd' ? `Congressional District ${j.id}` : j.type === 'sd' ? `Senate District ${j.id}` : j.type === 'hd' ? `House District ${j.id}` : j.type === 'county' ? `${j.id} County` : ''; }
   function dcaFor(county) { const c = county && FL.counties && FL.counties[county]; return c ? c.dca : null; }
   function profileSummary(prof) {
@@ -366,24 +367,27 @@
   function raceCard(r) {
     const cands = r.candidates || [];
     return `<div class="card race-card">
-      <div><span class="tag tag-level">${esc(r.office_group)}</span> <span class="tag">${esc(jurLabel(r))}</span>${r.coverage && r.coverage !== 'full' ? `<span class="tag" style="color:var(--warn)">${r.coverage === 'roster' ? 'Candidate list only' : r.coverage === 'partial' ? 'Partly verified' : 'No data yet'}</span>` : ''}${r.on_november_ballot === false ? '<span class="tag">Not on Nov. ballot</span>' : ''}</div>
+      <div><a class="tag tag-level tag-link" href="#/races/group/${encodeURIComponent(r.office_group || '')}" title="Show all ${esc(r.office_group)} races">${esc(r.office_group)}</a> <a class="tag tag-link" href="#/races/jur/${encodeURIComponent(jurKey(r))}" title="Show all races for ${esc(jurLabel(r))}">${esc(jurLabel(r))}</a>${r.coverage && r.coverage !== 'full' ? `<span class="tag" style="color:var(--warn)">${r.coverage === 'roster' ? 'Candidate list only' : r.coverage === 'partial' ? 'Partly verified' : 'No data yet'}</span>` : ''}${r.on_november_ballot === false ? '<span class="tag">Not on Nov. ballot</span>' : ''}</div>
       <h3><a href="#/race/${esc(r.id)}">${esc(r.title)}</a></h3>
       ${r.kind === 'measure' ? `<p class="muted">${esc(truncate(r.ballot_summary || 'Local ballot question.', 180))}</p><div><a class="btn btn-sm" href="#/race/${esc(r.id)}">Read the question →</a></div>` : `<div class="cand-row">${cands.map(c => `<a class="cand-chip" href="#/candidate/${esc(c.id)}">${avatar(c, 'sm')}${esc(c.name)} <small>(${esc(partyShort(c.party))})</small></a>`).join('') || '<span class="empty">No candidate data yet</span>'}</div>
       <div><a class="btn btn-sm" href="#/race/${esc(r.id)}">${cands.length ? 'Compare positions →' : 'Details →'}</a></div>`}
     </div>`;
   }
 
-  function viewRaces() {
+  function viewRaces(filter) {
     const prof = loadProfile();
-    const mine = ballotRaces(prof);
+    const match = r => !filter ? true : filter.kind === 'group' ? (r.office_group || '') === filter.value : jurKey(r) === filter.value;
+    const mine = ballotRaces(prof).filter(match);
     const mineIds = new Set(mine.map(r => r.id));
-    const others = RACES.filter(r => !mineIds.has(r.id));
+    const others = RACES.filter(r => !mineIds.has(r.id) && match(r));
+    const filterLabel = !filter ? '' : filter.kind === 'group' ? `${filter.value} races` : (filter.value === 'statewide' ? 'Statewide races' : (RACES.find(r => jurKey(r) === filter.value) ? jurLabel(RACES.find(r => jurKey(r) === filter.value)) : filter.value));
     const groupBy = list => { const g = {}; list.forEach(r => { const k = r.jurisdiction && r.jurisdiction.type === 'cd' ? 'U.S. House' : r.jurisdiction && r.jurisdiction.type === 'sd' ? 'Florida Senate' : r.jurisdiction && r.jurisdiction.type === 'hd' ? 'Florida House' : r.jurisdiction && r.jurisdiction.type === 'county' ? 'County & local' : r.office_group; (g[k] = g[k] || []).push(r); }); return g; };
     const gm = groupBy(mine), go = groupBy(others);
     const other = DATA.other_races || {};
     const sb = DATA.school_board || {};
     const isSumter = prof && /^sumter$/i.test(prof.county || '');
     return `<h1>Races on the ballot</h1>
+      ${filter ? `<div class="card filter-bar"><span>Showing <strong>${esc(filterLabel)}</strong> (${mine.length + others.length})</span> <a class="btn btn-sm" href="#/races">Show all races</a></div>` : ''}
       ${addressPanel(!!prof)}
       ${prof ? `<h2 class="section">On your ballot</h2>` : `<h2 class="section">Statewide races</h2><p class="muted">Every Florida voter sees these. Enter your address above to add your district and county races.</p>`}
       ${Object.keys(gm).map(g => `<section class="section" style="margin-top:20px"><h3>${esc(g)}</h3><div class="grid grid-2">${gm[g].map(raceCard).join('')}</div></section>`).join('')}
@@ -415,7 +419,7 @@
     const issues = issuesForLevel(r.level);
     if (r.kind === 'measure') return `<div class="breadcrumb"><a href="#/races">Races</a> › ${esc(r.title)}</div><span class="tag tag-level">${esc(jurLabel(r))}</span><h1>${esc(r.title)}</h1>${r.ballot_summary ? `<div class="card"><h3>Ballot summary</h3><p>${esc(r.ballot_summary)}</p><div class="grid grid-2"><div><h3>A "Yes" vote means</h3><p>${esc(r.what_yes_means || '')}</p></div><div><h3>A "No" vote means</h3><p>${esc(r.what_no_means || '')}</p></div></div></div>` : ''}${r.verified_ballot_note ? `<p class="muted"><small>${esc(r.verified_ballot_note)}</small></p>` : ''}`;
     return `<div class="breadcrumb"><a href="#/races">Races</a> › ${esc(r.title)}</div>
-      <span class="tag tag-level">${esc(r.office_group)}</span> <span class="tag">${esc(jurLabel(r))}</span>${(r.counties || []).length ? `<span class="tag">${esc(r.counties.join(', '))}</span>` : ''}
+      <a class="tag tag-level tag-link" href="#/races/group/${encodeURIComponent(r.office_group || '')}">${esc(r.office_group)}</a> <a class="tag tag-link" href="#/races/jur/${encodeURIComponent(jurKey(r))}">${esc(jurLabel(r))}</a>${(r.counties || []).length ? `<span class="tag">${esc(r.counties.join(', '))}</span>` : ''}
       <h1>${esc(r.title)}</h1>
       <p class="lead muted">${esc(r.what_it_does || '')} ${r.term ? `<strong>Term:</strong> ${esc(r.term)}.` : ''}</p>
       ${r.on_november_ballot === false ? `<p class="notice"><strong>Not on the November ballot.</strong> ${esc(r.decided_note || 'This seat was decided before the general election.')}</p>` : ''}
@@ -831,7 +835,7 @@
     const main = $('#main');
     let html = '', nav = 'home', after = null;
     if (parts.length === 0) { html = viewHome(); }
-    else if (parts[0] === 'races') { html = viewRaces(); nav = 'races'; }
+    else if (parts[0] === 'races') { const f = parts[1] === 'group' && parts[2] ? { kind: 'group', value: decodeURIComponent(parts[2]) } : parts[1] === 'jur' && parts[2] ? { kind: 'jur', value: decodeURIComponent(parts[2]) } : null; html = viewRaces(f); nav = 'races'; }
     else if (parts[0] === 'race' && parts[1]) { html = viewRace(decodeURIComponent(parts[1])); nav = 'races'; after = r => { bindHeat(r); bindMap(r); }; }
     else if (parts[0] === 'candidate' && parts[1]) { html = viewCandidate(decodeURIComponent(parts[1])); nav = 'races'; }
     else if (parts[0] === 'match' && parts[1] === 'results') { html = viewResults(); nav = 'match'; after = r => { const p = r.querySelector('[data-print]'); if (p) p.addEventListener('click', () => window.print()); bindMap(r); const f = r.querySelector('[data-mapfilter]'); if (f) f.querySelectorAll('button').forEach(b => b.addEventListener('click', () => { f.querySelectorAll('button').forEach(x => x.classList.toggle('selected', x === b)); const id = b.dataset.race; const cands = (id === 'all' ? ballotRaces(loadProfile()).flatMap(r => r.candidates || []) : (RACE_BY_ID[id].candidates || [])).filter(c => !c.withdrawn); r.querySelector('[data-mapcard]').innerHTML = landscapeMap(cands, { you: userPoint(loadAnswers()) }); bindMap(r); })); }; }
