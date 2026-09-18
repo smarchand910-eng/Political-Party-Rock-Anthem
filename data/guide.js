@@ -13404,6 +13404,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -13411,28 +13432,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -13453,48 +13481,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -13502,35 +13488,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -13544,7 +13502,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -13603,6 +13603,27 @@ window.GUIDE_DATA = {
         }
        ]
       },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -13610,28 +13631,28 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -13652,48 +13673,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -13701,21 +13680,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -13729,7 +13694,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -14357,6 +14357,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -14364,28 +14385,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -14406,48 +14434,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -14455,35 +14441,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -14497,7 +14455,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -14952,6 +14952,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -14959,28 +14980,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -15001,48 +15029,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -15050,35 +15036,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -15092,7 +15050,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -16153,6 +16153,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -16160,28 +16181,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -16202,48 +16230,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -16251,35 +16237,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -16293,7 +16251,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -16326,6 +16326,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -16333,28 +16354,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -16375,48 +16403,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -16424,35 +16410,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -16466,7 +16424,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -18035,6 +18035,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -18042,28 +18063,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -18084,48 +18112,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -18133,35 +18119,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -18175,7 +18133,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -18665,6 +18665,27 @@ window.GUIDE_DATA = {
         }
        ]
       },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -18672,21 +18693,28 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -18707,41 +18735,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -18749,28 +18742,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -18784,7 +18756,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -19236,6 +19236,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -19243,28 +19264,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -19285,48 +19313,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -19334,35 +19320,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -19376,7 +19334,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -19409,6 +19409,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -19416,28 +19437,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -19458,48 +19486,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -19507,35 +19493,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -19549,7 +19507,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21091,14 +21091,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21119,21 +21119,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "social_security": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -21147,21 +21140,28 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22285,6 +22285,27 @@ window.GUIDE_DATA = {
         }
        ]
       },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -22292,28 +22313,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22334,41 +22362,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -22376,28 +22369,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22411,7 +22383,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28076,6 +28076,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -28083,28 +28104,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28125,48 +28153,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -28174,35 +28160,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28216,7 +28174,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29213,6 +29213,20 @@ window.GUIDE_DATA = {
         }
        ]
       },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -29220,14 +29234,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
+      "growth": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29241,7 +29248,28 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29262,35 +29290,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "ukraine": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "veterans": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30517,6 +30517,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -30524,28 +30545,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30566,48 +30594,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -30615,35 +30601,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30657,7 +30615,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32519,6 +32519,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -32526,28 +32547,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32568,48 +32596,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -32617,35 +32603,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32659,7 +32617,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33580,6 +33580,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -33587,28 +33608,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33629,48 +33657,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -33678,35 +33664,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33720,7 +33678,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35067,28 +35067,7 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "healthcare": {
+      "energy": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35102,56 +35081,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "social_security": {
+      "trump": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35165,7 +35102,70 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35896,84 +35896,7 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
+      "veterans": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35987,14 +35910,56 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "property_tax": {
+      "insurance": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "marijuana": {
+      "trump": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "immigration": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36008,7 +35973,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36722,77 +36722,7 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "trump": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "healthcare": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "elections": {
+      "veterans": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36806,14 +36736,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "property_tax": {
+      "trump": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "marijuana": {
+      "abortion": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36827,6 +36757,48 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "healthcare": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "lgbtq": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "tariffs": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "ukraine": {
        "stance": null,
        "confidence": "unknown",
@@ -36834,7 +36806,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36867,6 +36867,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -36874,28 +36895,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36916,48 +36944,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -36965,35 +36951,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37007,7 +36965,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38533,6 +38533,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -38540,28 +38561,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38582,48 +38610,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -38631,35 +38617,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38673,7 +38631,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -40087,14 +40087,14 @@ window.GUIDE_DATA = {
         }
        ]
       },
-      "trump": {
+      "veterans": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "taxes": {
+      "trump": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -40108,7 +40108,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "social_security": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -40122,14 +40122,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "taxes": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "social_security": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -40162,6 +40162,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -40169,28 +40190,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -40211,48 +40239,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -40260,35 +40246,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -40302,7 +40260,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -46591,6 +46591,27 @@ window.GUIDE_DATA = {
         }
        ]
       },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -46598,21 +46619,28 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -46633,48 +46661,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -46682,28 +46668,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -46717,7 +46682,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -46802,6 +46802,13 @@ window.GUIDE_DATA = {
         }
        ]
       },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -46809,28 +46816,28 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -46851,41 +46858,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -46893,14 +46865,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -46914,7 +46879,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -49997,6 +49997,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -50004,28 +50025,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -50046,48 +50074,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -50095,35 +50081,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -50137,7 +50095,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -52164,6 +52164,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -52171,28 +52192,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -52213,48 +52241,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -52262,35 +52248,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -52304,7 +52262,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -53503,6 +53503,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -53510,28 +53531,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -53552,48 +53580,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -53601,35 +53587,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -53643,7 +53601,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -53676,6 +53676,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -53683,28 +53704,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -53725,48 +53753,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -53774,35 +53760,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -53816,7 +53774,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -55687,6 +55687,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -55694,28 +55715,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -55736,48 +55764,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -55785,35 +55771,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -55827,7 +55785,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -55860,6 +55860,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -55867,28 +55888,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -55909,48 +55937,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -55958,35 +55944,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -56000,7 +55958,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -56251,11 +56251,22 @@ window.GUIDE_DATA = {
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
       },
       "lgbtq": {
        "stance": null,
@@ -56451,6 +56462,58 @@ window.GUIDE_DATA = {
         {
          "title": "NBC News: House passes Ukraine aid bill in another GOP rebuke of Trump's foreign policy",
          "url": "https://www.nbcnews.com/politics/congress/house-passes-ukraine-aid-bill-another-gop-rebuke-trumps-foreign-policy-rcna348589"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
         }
        ]
       },
@@ -57154,11 +57217,22 @@ window.GUIDE_DATA = {
        ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Social Security Fairness Act (H.R. 82) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82",
+         "date": "2024-11-12"
+        },
+        {
+         "title": "House roll call 456 (2024) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml",
+         "date": "2024-11-12"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -57189,35 +57263,74 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SAVE Act (H.R. 22) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "House roll call 102 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml",
+         "date": "2025-04-10"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
       },
       "energy": {
        "stance": 1,
        "confidence": "record",
-       "summary": "Voted against H.R. 1 (2025), which repealed most clean-energy tax credits.",
+       "summary": "Voted against the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+         "date": "2025-02-07"
+        },
+        {
+         "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+         "date": "2025-02-07"
         }
        ]
       },
@@ -57334,6 +57447,123 @@ window.GUIDE_DATA = {
          "title": "Maxwell Frost secures another term in Congress unopposed - Florida Politics",
          "url": "https://floridapolitics.com/archives/801710-maxwell-frost-effectively-secures-another-term-in-congress/",
          "date": null
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       }
@@ -57596,18 +57826,40 @@ window.GUIDE_DATA = {
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
       },
       "energy": {
        "stance": -1,
@@ -57815,6 +58067,123 @@ window.GUIDE_DATA = {
         {
          "title": "Roll call 190 - Clerk of the U.S. House",
          "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       },
@@ -58517,11 +58886,22 @@ window.GUIDE_DATA = {
        ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Social Security Fairness Act (H.R. 82) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82",
+         "date": "2024-11-12"
+        },
+        {
+         "title": "House roll call 456 (2024) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml",
+         "date": "2024-11-12"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -58552,25 +58932,58 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SAVE Act (H.R. 22) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "House roll call 102 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml",
+         "date": "2025-04-10"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
       },
       "energy": {
        "stance": -2,
@@ -58738,6 +59151,110 @@ window.GUIDE_DATA = {
          "title": "Leela Gray added to DCCC's Red to Blue program - Florida Politics",
          "url": "https://floridapolitics.com/archives/815930-leela-gray-added-to-dcccs-red-to-blue-program/",
          "date": null
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       },
@@ -59127,6 +59644,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -59134,28 +59672,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -59176,48 +59721,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -59225,35 +59728,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -59267,7 +59742,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -59476,11 +59993,22 @@ window.GUIDE_DATA = {
        ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Social Security Fairness Act (H.R. 82) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82",
+         "date": "2024-11-12"
+        },
+        {
+         "title": "House roll call 456 (2024) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml",
+         "date": "2024-11-12"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -59522,25 +60050,58 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SAVE Act (H.R. 22) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "House roll call 102 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml",
+         "date": "2025-04-10"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
       },
       "energy": {
        "stance": 2,
@@ -59709,6 +60270,123 @@ window.GUIDE_DATA = {
          "title": "Kathy Castor - Wikipedia",
          "url": "https://en.wikipedia.org/wiki/Kathy_Castor",
          "date": null
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       }
@@ -60232,6 +60910,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -60239,28 +60938,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60281,48 +60987,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -60330,35 +60994,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60372,7 +61008,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60405,6 +61083,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -60412,28 +61111,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60454,48 +61160,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -60503,35 +61167,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60545,7 +61181,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60578,6 +61256,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -60585,28 +61284,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60627,48 +61333,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -60676,35 +61340,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60718,7 +61354,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -60927,11 +61605,22 @@ window.GUIDE_DATA = {
        ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Social Security Fairness Act (H.R. 82) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82",
+         "date": "2024-11-12"
+        },
+        {
+         "title": "House roll call 456 (2024) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml",
+         "date": "2024-11-12"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -60992,21 +61681,38 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": -2,
+       "stance": 1,
        "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+       "summary": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
+      },
+      "energy": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+         "date": "2025-02-07"
+        },
+        {
+         "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+         "date": "2025-02-07"
         }
        ]
       },
@@ -61154,6 +61860,110 @@ window.GUIDE_DATA = {
          "title": "'Delivering results': Laurel Lee adds another $679K to re-election effort in CD 15 (Florida Politics)",
          "url": "https://floridapolitics.com/archives/790687-delivering-results-laurel-lee-adds-another-679k-to-re-election-effort-in-cd-15/",
          "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       },
@@ -61479,6 +62289,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -61486,28 +62317,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -61528,48 +62366,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -61577,35 +62373,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -61619,7 +62387,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -62694,11 +63504,22 @@ window.GUIDE_DATA = {
        ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Social Security Fairness Act (H.R. 82) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82",
+         "date": "2024-11-12"
+        },
+        {
+         "title": "House roll call 456 (2024) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml",
+         "date": "2024-11-12"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -62753,28 +63574,56 @@ window.GUIDE_DATA = {
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": -2,
+       "stance": 1,
        "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+       "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
+      },
+      "lgbtq": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
+      },
+      "energy": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+         "date": "2025-02-07"
+        },
+        {
+         "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+         "date": "2025-02-07"
         }
        ]
       },
@@ -62919,6 +63768,123 @@ window.GUIDE_DATA = {
          "title": "House Roll Call 102 (H.R. 22, SAVE Act, Apr. 10, 2025) - Clerk of the House",
          "url": "https://clerk.house.gov/Votes/2025102",
          "date": "2025-04-10"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       },
@@ -63270,6 +64236,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -63277,28 +64264,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -63319,48 +64313,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -63368,35 +64320,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -63410,7 +64334,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -63595,11 +64561,22 @@ window.GUIDE_DATA = {
        ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Social Security Fairness Act (H.R. 82) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82",
+         "date": "2024-11-12"
+        },
+        {
+         "title": "House roll call 456 (2024) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml",
+         "date": "2024-11-12"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -63648,28 +64625,56 @@ window.GUIDE_DATA = {
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": -2,
+       "stance": 1,
        "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+       "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
+      },
+      "lgbtq": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
+      },
+      "energy": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+         "date": "2025-02-07"
+        },
+        {
+         "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+         "date": "2025-02-07"
         }
        ]
       },
@@ -63815,6 +64820,123 @@ window.GUIDE_DATA = {
          "title": "Scott Franklin - Ballotpedia",
          "url": "https://ballotpedia.org/Scott_Franklin",
          "date": null
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       },
@@ -64960,6 +66082,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -64967,28 +66110,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -65009,48 +66159,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -65058,35 +66166,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -65100,7 +66180,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -65133,6 +66255,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -65140,28 +66283,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -65182,48 +66332,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -65231,35 +66339,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -65273,7 +66353,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -66131,11 +67253,22 @@ window.GUIDE_DATA = {
        ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Social Security Fairness Act (H.R. 82) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82",
+         "date": "2024-11-12"
+        },
+        {
+         "title": "House roll call 456 (2024) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml",
+         "date": "2024-11-12"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -66184,28 +67317,56 @@ window.GUIDE_DATA = {
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
       },
       "energy": {
        "stance": 1,
        "confidence": "record",
-       "summary": "Voted against H.R. 1 (2025), which repealed most clean-energy tax credits.",
+       "summary": "Voted against the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+         "date": "2025-02-07"
+        },
+        {
+         "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+         "date": "2025-02-07"
         }
        ]
       },
@@ -66410,6 +67571,123 @@ window.GUIDE_DATA = {
         {
          "title": "Roll call 190 - Clerk of the U.S. House",
          "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       }
@@ -67289,28 +68567,56 @@ window.GUIDE_DATA = {
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": -2,
+       "stance": 1,
        "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+       "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
+      },
+      "lgbtq": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
+      },
+      "energy": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+         "date": "2025-02-07"
+        },
+        {
+         "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+         "date": "2025-02-07"
         }
        ]
       },
@@ -67509,6 +68815,123 @@ window.GUIDE_DATA = {
          "title": "House passes bill to aid Ukraine and sanction Russia (Washington Times)",
          "url": "https://www.washingtontimes.com/news/2026/jun/4/house-passes-bill-aid-ukraine-sanction-russia/",
          "date": "2026-06-04"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       },
@@ -68073,6 +69496,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -68080,28 +69524,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -68122,48 +69573,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -68171,35 +69580,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -68213,7 +69594,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -68246,6 +69669,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -68253,28 +69697,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -68295,48 +69746,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -68344,35 +69753,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -68386,7 +69767,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -69261,15 +70684,20 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "Frankel names 'reforming immigration' as a top priority (Florida Politics, Aug. 2026), but the specific enforcement/deportation positions needed to code this statement were not captured; her individual Laken Riley Act vote was not confirmed in sources found.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
        "quote": null,
        "sources": [
         {
-         "title": "Seeking eighth term, Lois Frankel says protecting entitlements, reforming immigration are her top priorities (Florida Politics)",
-         "url": "https://floridapolitics.com/archives/814326-frankel-priorities/",
-         "date": "2026-08"
+         "title": "Laken Riley Act (S. 5) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
+         "date": "2025-01-22"
+        },
+        {
+         "title": "House roll call 23 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml",
+         "date": "2025-01-22"
         }
        ]
       },
@@ -69402,28 +70830,56 @@ window.GUIDE_DATA = {
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
       },
       "energy": {
        "stance": 1,
        "confidence": "record",
-       "summary": "Voted against H.R. 1 (2025), which repealed most clean-energy tax credits.",
+       "summary": "Voted against the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+         "date": "2025-02-07"
+        },
+        {
+         "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+         "date": "2025-02-07"
         }
        ]
       },
@@ -69622,6 +71078,123 @@ window.GUIDE_DATA = {
          "title": "Ranking Member Frankel statement at full committee markup of the 2026 State, Foreign Operations funding bill (House Appropriations Democrats)",
          "url": "https://democrats-appropriations.house.gov/news/statements/ranking-member-frankel-statement-full-committee-markup-2026-state-foreign",
          "date": "2025"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       }
@@ -70609,6 +72182,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -70616,28 +72210,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -70658,48 +72259,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -70707,35 +72266,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -70749,7 +72280,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -71382,28 +72955,56 @@ window.GUIDE_DATA = {
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
       },
       "energy": {
        "stance": 1,
        "confidence": "record",
-       "summary": "Voted against H.R. 1 (2025), which repealed most clean-energy tax credits.",
+       "summary": "Voted against the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+         "date": "2025-02-07"
+        },
+        {
+         "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+         "date": "2025-02-07"
         }
        ]
       },
@@ -71671,6 +73272,123 @@ window.GUIDE_DATA = {
          "date": "2026"
         }
        ]
+      },
+      {
+       "item": "Voted for the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
+        }
+       ]
       }
      ],
      "endorsements": []
@@ -71696,6 +73414,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -71703,28 +73442,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -71745,48 +73491,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -71794,35 +73498,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -71836,7 +73512,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -71869,6 +73587,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -71876,28 +73615,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -71918,48 +73664,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -71967,35 +73671,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -72009,7 +73685,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -72214,11 +73932,22 @@ window.GUIDE_DATA = {
        ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Social Security Fairness Act (H.R. 82) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82",
+         "date": "2024-11-12"
+        },
+        {
+         "title": "House roll call 456 (2024) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml",
+         "date": "2024-11-12"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -72279,11 +74008,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
       },
       "energy": {
        "stance": -1,
@@ -72513,6 +74253,110 @@ window.GUIDE_DATA = {
          "title": "Diaz-Balart Delivers Stronger National Security, Less Waste with Passage of FY26 Appropriations Minibus (mariodiazbalart.house.gov)",
          "url": "https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-delivers-stronger-national-security-less-waste-passage-fy26",
          "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       },
@@ -73220,15 +75064,20 @@ window.GUIDE_DATA = {
        ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No explicit statement captured as of Sept 2026; scorecards from Reproductive Freedom for All and SBA Pro-Life America exist but their contents were not retrieved.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
        "quote": null,
        "sources": [
         {
-         "title": "Maria Elvira Salazar's Congressional Scorecard (Reproductive Freedom for All)",
-         "url": "https://reproductivefreedomforall.org/lawmaker/maria-elvira-salazar/",
-         "date": null
+         "title": "Born-Alive Abortion Survivors Protection Act (H.R. 21) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21",
+         "date": "2025-01-23"
+        },
+        {
+         "title": "House roll call 27 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml",
+         "date": "2025-01-23"
         }
        ]
       },
@@ -73269,11 +75118,22 @@ window.GUIDE_DATA = {
        ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Social Security Fairness Act (H.R. 82) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82",
+         "date": "2024-11-12"
+        },
+        {
+         "title": "House roll call 456 (2024) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml",
+         "date": "2024-11-12"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -73322,28 +75182,56 @@ window.GUIDE_DATA = {
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": -2,
+       "stance": 1,
        "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+       "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
+      },
+      "lgbtq": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
+      },
+      "energy": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+         "date": "2025-02-07"
+        },
+        {
+         "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+         "date": "2025-02-07"
         }
        ]
       },
@@ -73572,6 +75460,123 @@ window.GUIDE_DATA = {
          "title": "Test for Salazar? Dems say her vote on Trump tax cut bill would remove Medicaid, Medicare for 99k in her district (Key Biscayne Independent)",
          "url": "https://kbindependent.org/2025/07/03/test-for-salazar-dems-say-her-vote-on-trump-tax-cut-bill-would-remove-medicaid-medicare-for-99k-in-her-district/",
          "date": "2025-07-03"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       },
@@ -74164,11 +76169,22 @@ window.GUIDE_DATA = {
        ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Social Security Fairness Act (H.R. 82) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82",
+         "date": "2024-11-12"
+        },
+        {
+         "title": "House roll call 456 (2024) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml",
+         "date": "2024-11-12"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -74217,28 +76233,56 @@ window.GUIDE_DATA = {
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": -2,
+       "stance": 1,
        "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+       "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
+      },
+      "lgbtq": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
+      },
+      "energy": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+         "date": "2025-02-07"
+        },
+        {
+         "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+         "date": "2025-02-07"
         }
        ]
       },
@@ -74489,6 +76533,123 @@ window.GUIDE_DATA = {
          "title": "Carlos Gimenez - Ballotpedia",
          "url": "https://ballotpedia.org/Carlos_Gimenez",
          "date": "2026"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       },
@@ -75218,11 +77379,22 @@ window.GUIDE_DATA = {
        ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Social Security Fairness Act (H.R. 82) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82",
+         "date": "2024-11-12"
+        },
+        {
+         "title": "House roll call 456 (2024) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml",
+         "date": "2024-11-12"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -75271,28 +77443,56 @@ window.GUIDE_DATA = {
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": -2,
+       "stance": 1,
        "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+       "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
+      },
+      "lgbtq": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
+      },
+      "energy": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+         "date": "2025-02-07"
+        },
+        {
+         "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+         "date": "2025-02-07"
         }
        ]
       },
@@ -75492,6 +77692,123 @@ window.GUIDE_DATA = {
         {
          "title": "NBC News: House passes Ukraine aid bill in another GOP rebuke of Trump's foreign policy",
          "url": "https://www.nbcnews.com/politics/congress/house-passes-ukraine-aid-bill-another-gop-rebuke-trumps-foreign-policy-rcna348589"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       },
@@ -75811,6 +78128,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -75818,28 +78156,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -75860,48 +78205,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -75909,35 +78212,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -75951,7 +78226,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -76206,28 +78523,56 @@ window.GUIDE_DATA = {
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": -2,
+       "stance": 1,
        "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+       "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
+      },
+      "lgbtq": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
+      },
+      "energy": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+         "date": "2025-02-07"
+        },
+        {
+         "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+         "date": "2025-02-07"
         }
        ]
       },
@@ -76404,6 +78749,123 @@ window.GUIDE_DATA = {
         {
          "title": "Florida Politics: Up big in CD 4 Dem poll, LJ Holloway is way down in fundraising",
          "url": "https://floridapolitics.com/archives/808358-up-big-in-cd-4-dem-poll-lj-holloway-is-way-down-in-fundraising/"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       },
@@ -76706,6 +79168,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -76713,28 +79196,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -76755,48 +79245,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -76804,35 +79252,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -76846,7 +79266,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -76879,6 +79341,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -76886,28 +79369,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -76928,48 +79418,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -76977,35 +79425,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -77019,7 +79439,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -77242,11 +79704,22 @@ window.GUIDE_DATA = {
        ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Social Security Fairness Act (H.R. 82) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82",
+         "date": "2024-11-12"
+        },
+        {
+         "title": "House roll call 456 (2024) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml",
+         "date": "2024-11-12"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -77295,28 +79768,56 @@ window.GUIDE_DATA = {
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": -2,
+       "stance": 1,
        "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+       "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
+      },
+      "lgbtq": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
+      },
+      "energy": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+         "date": "2025-02-07"
+        },
+        {
+         "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+         "date": "2025-02-07"
         }
        ]
       },
@@ -77485,6 +79986,123 @@ window.GUIDE_DATA = {
         {
          "title": "NBC News: House passes Ukraine aid bill in another GOP rebuke of Trump's foreign policy",
          "url": "https://www.nbcnews.com/politics/congress/house-passes-ukraine-aid-bill-another-gop-rebuke-trumps-foreign-policy-rcna348589"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       },
@@ -77815,6 +80433,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -77822,28 +80461,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -77864,48 +80510,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -77913,35 +80517,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -77955,7 +80531,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -78229,11 +80847,22 @@ window.GUIDE_DATA = {
        ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
       },
       "lgbtq": {
        "stance": null,
@@ -78427,6 +81056,58 @@ window.GUIDE_DATA = {
         {
          "title": "Florida Politics: Despite close polls and Democrat spending surge, Randy Fine wins CD 6 Special Election",
          "url": "https://floridapolitics.com/archives/729518-despite-close-polls-and-democrat-spending-surge-randy-fine-wins-cd-6-special-election/"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
         }
        ]
       },
@@ -79121,6 +81802,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -79128,28 +81830,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -79170,48 +81879,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -79219,35 +81886,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -79261,7 +81900,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -79294,6 +81975,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -79301,28 +82003,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -79343,48 +82052,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -79392,35 +82059,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -79434,7 +82073,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -80179,6 +82860,27 @@ window.GUIDE_DATA = {
       }
      ],
      "positions": {
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "insurance": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -80186,28 +82888,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -80228,48 +82937,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -80277,35 +82944,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -80319,7 +82958,49 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "social_security": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -80575,35 +83256,74 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
        "stance": -2,
        "confidence": "record",
-       "summary": "Voted for H.R. 1 (2025), which phased out most Inflation Reduction Act clean-energy tax credits and expanded oil and gas leasing.",
+       "summary": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "SAVE Act (H.R. 22) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "House roll call 102 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml",
+         "date": "2025-04-10"
+        }
+       ]
+      },
+      "crime": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
+      },
+      "lgbtq": {
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
+      },
+      "energy": {
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "quote": null,
+       "sources": [
+        {
+         "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+         "date": "2025-02-07"
+        },
+        {
+         "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+         "date": "2025-02-07"
         }
        ]
       },
@@ -80767,6 +83487,110 @@ window.GUIDE_DATA = {
        ]
       },
       {
+       "item": "Voted for the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
        "item": "Voted for H.R. 1 (2025), the budget reconciliation law that extended the 2017 tax cuts, added Medicaid work requirements, reduced clean-energy tax credits and funded expanded immigration enforcement.",
        "sources": [
         {
@@ -80837,6 +83661,20 @@ window.GUIDE_DATA = {
         }
        ]
       },
+      "veterans": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "energy": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
       "trump": {
        "stance": null,
        "confidence": "unknown",
@@ -80844,28 +83682,35 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "taxes": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "tariffs": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "abortion": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "growth": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "education_choice": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "elections": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "crime": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -80886,34 +83731,6 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "environment": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
       "lgbtq": {
        "stance": null,
        "confidence": "unknown",
@@ -80921,35 +83738,7 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "marijuana": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
-       "quote": null,
-       "sources": []
-      },
-      "growth": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -80963,7 +83752,42 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "veterans": {
+      "property_tax": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "taxes": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "housing": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "environment": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "guns": {
+       "stance": null,
+       "confidence": "unknown",
+       "summary": "No public position found as of Sept 2026.",
+       "quote": null,
+       "sources": []
+      },
+      "marijuana": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -81178,11 +84002,22 @@ window.GUIDE_DATA = {
        ]
       },
       "social_security": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Social Security Fairness Act (H.R. 82) - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82",
+         "date": "2024-11-12"
+        },
+        {
+         "title": "House roll call 456 (2024) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml",
+         "date": "2024-11-12"
+        }
+       ]
       },
       "education_choice": {
        "stance": null,
@@ -81213,35 +84048,74 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SAVE Act (H.R. 22) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+         "date": "2025-04-10"
+        },
+        {
+         "title": "House roll call 102 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml",
+         "date": "2025-04-10"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+         "date": "2025-06-10"
+        },
+        {
+         "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+         "date": "2025-06-10"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+         "date": "2025-01-14"
+        },
+        {
+         "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+         "date": "2025-01-14"
+        }
+       ]
       },
       "energy": {
        "stance": 1,
        "confidence": "record",
-       "summary": "Voted against H.R. 1 (2025), which repealed most clean-energy tax credits.",
+       "summary": "Voted against the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "quote": null,
        "sources": [
         {
-         "title": "H.R.1, 119th Congress (One Big Beautiful Bill Act): actions and roll-call votes",
-         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1",
-         "date": "2025-07"
+         "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+         "date": "2025-02-07"
+        },
+        {
+         "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+         "date": "2025-02-07"
         }
        ]
       },
@@ -81373,6 +84247,123 @@ window.GUIDE_DATA = {
          "title": "Press Releases - Congressman Darren Soto",
          "url": "https://soto.house.gov/media/press-releases?page=1",
          "date": null
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted against the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+        }
+       ]
+      },
+      {
+       "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+       "sources": [
+        {
+         "title": "Bill page - Congress.gov",
+         "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+        },
+        {
+         "title": "Roll-call vote - Clerk of the U.S. House",
+         "url": "https://clerk.house.gov/evs/2024/roll456.xml"
         }
        ]
       }

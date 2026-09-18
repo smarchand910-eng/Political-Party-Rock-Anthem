@@ -194,11 +194,22 @@
           ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+              "date": "2025-06-10"
+            },
+            {
+              "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+              "date": "2025-06-10"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -389,6 +400,58 @@
             {
               "title": "NBC News: House passes Ukraine aid bill in another GOP rebuke of Trump's foreign policy",
               "url": "https://www.nbcnews.com/politics/congress/house-passes-ukraine-aid-bill-another-gop-rebuke-trumps-foreign-policy-rcna348589"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+          "sources": [
+            {
+              "title": "Bill page - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+            },
+            {
+              "title": "Roll-call vote - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+          "sources": [
+            {
+              "title": "Bill page - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+            },
+            {
+              "title": "Roll-call vote - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+          "sources": [
+            {
+              "title": "Bill page - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+            },
+            {
+              "title": "Roll-call vote - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+          "sources": [
+            {
+              "title": "Bill page - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+            },
+            {
+              "title": "Roll-call vote - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll162.xml"
             }
           ]
         }
