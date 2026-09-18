@@ -303,7 +303,8 @@ tr.highlight td { background: var(--accent-soft); }
 
 /* County pages */
 .county-picker { display: flex; flex-direction: column; gap: 6px; }
-.county-picker select { font: inherit; padding: 10px 12px; border: 1px solid var(--border, #cbd5e1); border-radius: var(--radius-sm, 8px); background: var(--card, #fff); color: inherit; max-width: 420px; }
+.county-picker select { font: inherit; padding: 10px 12px; border: 1px solid var(--border); border-radius: var(--radius-sm, 8px); background: var(--surface); color: var(--text); color-scheme: light dark; max-width: 420px; }
+.county-picker select option { background: var(--surface); color: var(--text); }
 .county-home { display: flex; flex-direction: column; gap: 8px; }
 .county-card h3 { margin: 0 0 4px; }
 .sw-cands { list-style: none; padding: 0; margin: 8px 0 0; }
