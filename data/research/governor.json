@@ -844,8 +844,8 @@
    "party": "Democratic",
    "incumbent": false,
    "running_mate": "Gwen Graham (former U.S. Representative)",
-   "photo_url": "https://www.congress.gov/img/member/j000296_200.jpg",
-   "photo_source": "congress.gov official member portrait from his House service (bioguide J000296)",
+   "photo_url": "assets/photos/david_jolly.jpg",
+   "photo_source": "Official congressional portrait (unitedstates.github.io mirror of the Congressional Pictorial Directory; downloaded copy in assets/photos)",
    "website": "https://davidjolly.com/",
    "occupation": "Attorney; former U.S. Representative; political commentator",
    "residence": "Pinellas County (Tampa Bay area)",
@@ -1990,6 +1990,12 @@
       }
      ]
     }
+   ],
+   "links": [
+    {
+     "title": "Ballotpedia profile",
+     "url": "https://ballotpedia.org/Scott_Eckhard_Jewett"
+    }
    ]
   },
   {
@@ -2234,7 +2240,13 @@
      ]
     }
    ],
-   "endorsements": []
+   "endorsements": [],
+   "links": [
+    {
+     "title": "Ballotpedia profile",
+     "url": "https://ballotpedia.org/Dean_Ocean_Abrams"
+    }
+   ]
   },
   {
    "id": "charles_burkett",
@@ -2594,7 +2606,13 @@
      ]
     }
    ],
-   "endorsements": []
+   "endorsements": [],
+   "links": [
+    {
+     "title": "Ballotpedia profile",
+     "url": "https://ballotpedia.org/Charles_Burkett_%28Florida%29"
+    }
+   ]
   },
   {
    "id": "jeff_datto",
@@ -2776,7 +2794,13 @@
      ]
     }
    ],
-   "endorsements": []
+   "endorsements": [],
+   "links": [
+    {
+     "title": "Ballotpedia profile",
+     "url": "https://ballotpedia.org/Jeffrey_Peter_Datto"
+    }
+   ]
   },
   {
    "id": "moe_dimanche",
@@ -3053,7 +3077,13 @@
      ]
     }
    ],
-   "endorsements": []
+   "endorsements": [],
+   "links": [
+    {
+     "title": "Ballotpedia profile",
+     "url": "https://ballotpedia.org/Moliere_Dimanche"
+    }
+   ]
   },
   {
    "id": "desmond_meade",
@@ -3061,8 +3091,8 @@
    "party": "No Party Affiliation",
    "incumbent": false,
    "running_mate": null,
-   "photo_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Desmond_Meade.jpg",
-   "photo_source": "Wikimedia Commons (file name unverified)",
+   "photo_url": null,
+   "photo_source": null,
    "website": "https://desmondmeade.com/",
    "occupation": "President, Florida Rights Restoration Coalition",
    "residence": "Orlando, Orange County",
@@ -3573,7 +3603,13 @@
     }
    ],
    "record": [],
-   "endorsements": []
+   "endorsements": [],
+   "links": [
+    {
+     "title": "Ballotpedia profile",
+     "url": "https://ballotpedia.org/Frank_J._Russo"
+    }
+   ]
   }
  ]
 }

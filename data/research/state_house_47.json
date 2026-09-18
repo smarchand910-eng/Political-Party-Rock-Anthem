@@ -182,9 +182,9 @@
       "name": "Anthony Nieves",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/anthony_nieves.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://nievesforflorida.com/",
       "occupation": null,
       "residence": null,
       "background": "Democratic candidate in the HD 47 universal primary on Aug. 18, 2026 (result unverified).",
@@ -332,6 +332,12 @@
           "title": "2026 Voter's Guide - Florida House District 47, Universal primary (ClickOrlando)",
           "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-47-universal-primary/",
           "date": "2026-07-31"
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Anthony_Nieves"
         }
       ]
     }

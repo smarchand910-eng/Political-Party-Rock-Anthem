@@ -25,7 +25,7 @@
       "incumbent": true,
       "photo_url": "https://www.flsenate.gov/Senators/s36",
       "photo_source": "Florida Senate member page (portrait image URL not verified; site blocked in sandbox)",
-      "website": null,
+      "website": "https://ileanagarcia.com",
       "occupation": "State Senator",
       "residence": "Miami, Miami-Dade County",
       "background": "Garcia, a Miami Republican first elected to the Senate in 2020 and re-elected in SD 36 in 2022, is seeking another term; AIF listed her among its 2026 legislative endorsements.",
@@ -463,6 +463,12 @@
             }
           ]
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Ileana_Garcia"
+        }
       ]
     },
     {
@@ -472,7 +478,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://votegeorgelavin.com/",
       "occupation": null,
       "residence": "West Miami, Miami-Dade County",
       "background": "Lavin, a West Miami Democrat, filed to run against Garcia in SD 36 one day before the June 2026 qualifying deadline (Florida Politics). No further background found.",
@@ -622,7 +628,13 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/George_Lavin"
+        }
+      ]
     }
   ]
 }

@@ -18,9 +18,9 @@
       "name": "Brian Mast",
       "party": "Republican",
       "incumbent": true,
-      "photo_url": "https://www.congress.gov/img/member/m001199_200.jpg",
-      "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
-      "website": null,
+      "photo_url": "assets/photos/brian_mast.jpg",
+      "photo_source": "Official congressional portrait (unitedstates.github.io mirror of the Congressional Pictorial Directory; downloaded copy in assets/photos)",
+      "website": "https://mastforcongress.com",
       "occupation": "U.S. Representative (since 2017); chair, House Foreign Affairs Committee",
       "residence": "Stuart area, Martin County (not re-verified)",
       "background": "Brian Mast, an Army veteran who lost both legs in Afghanistan, has served in the U.S. House since 2017 (first in the 18th District, then the 21st after 2022 redistricting) and chairs the House Foreign Affairs Committee. He was unopposed in the Aug. 18, 2026 Republican primary.",
@@ -591,15 +591,21 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Brian_Mast"
+        }
+      ]
     },
     {
       "id": "james_martin",
       "name": "James Martin",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/James_Martin.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": "assets/photos/james_martin.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.jamesmartinforflorida.com/",
       "occupation": "Former White House national security aide (chief of staff for national security affairs and executive secretary, Office of the Vice President); U.S. Coast Guard veteran",
       "residence": "Not found",
@@ -896,6 +902,12 @@
             }
           ]
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/James_Martin_%28Florida%29"
+        }
       ]
     },
     {
@@ -903,8 +915,8 @@
       "name": "Robert Ott",
       "party": "No Party Affiliation",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Robert_Ott.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": "assets/photos/robert_ott.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.robertottforcongress.com/",
       "occupation": "Educator (PhD) and author; former mortgage loan officer and bank assistant vice president",
       "residence": "Not found",
@@ -1125,9 +1137,9 @@
       "name": "Alexander Cooke",
       "party": "No Party Affiliation",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/alexander_cooke.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://alexcookeforcongress.com/",
       "occupation": null,
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
@@ -1143,16 +1155,22 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Alexander_Cooke"
+        }
+      ]
     },
     {
       "id": "david_fabrikant",
       "name": "David Fabrikant",
       "party": "Write-in",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/david_fabrikant.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://www.electdavidfabrikant.com/",
       "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
       "residence": null,
       "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
@@ -1168,7 +1186,13 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/David_Fabrikant"
+        }
+      ]
     }
   ]
 }

@@ -17,9 +17,9 @@
       "name": "Tiffany Moore Russell",
       "party": "Nonpartisan",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/tiffany_moore_russell.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://TiffanyForMayor.com",
       "occupation": "Clerk of Courts",
       "residence": null,
       "background": "Orange County Clerk of Courts. Finished first in the four-way Aug. 18 nonpartisan primary.",
@@ -185,6 +185,12 @@
           "title": "2026 Orange County, Florida mayoral election",
           "url": "https://en.wikipedia.org/wiki/2026_Orange_County,_Florida_mayoral_election"
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Tiffany_Moore_Russell"
+        }
       ]
     },
     {
@@ -192,9 +198,9 @@
       "name": "Chris Messina",
       "party": "Nonpartisan",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/chris_messina.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://www.chrismessina.com/",
       "occupation": "Entrepreneur",
       "residence": null,
       "background": "Tech entrepreneur. Finished second in the four-way primary ahead of former U.S. Rep. Stephanie Murphy (26%) and Commissioner Mayra Uribe (15%).",
@@ -359,6 +365,12 @@
         {
           "title": "Moore Russell, Messina will compete for Orange County mayor in November runoff",
           "url": "https://www.cfpublic.org/politics/2026-08-18/moore-russell-messina-orange-county-mayor-november-runoff"
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Chris_Messina"
         }
       ]
     }

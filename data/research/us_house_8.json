@@ -22,8 +22,8 @@
       "name": "Mike Haridopolos",
       "party": "Republican",
       "incumbent": true,
-      "photo_url": "https://www.congress.gov/img/member/h001099_200.jpg",
-      "photo_source": "congress.gov member portrait (bioguide H001099 per congress.gov member page)",
+      "photo_url": "assets/photos/mike_haridopolos.jpg",
+      "photo_source": "Official congressional portrait (unitedstates.github.io mirror of the Congressional Pictorial Directory; downloaded copy in assets/photos)",
       "website": "https://www.mike4congress.com/",
       "occupation": "U.S. Representative (since 2025); former Florida Senate President",
       "residence": "Brevard County (not re-verified)",
@@ -540,8 +540,8 @@
       "name": "Jennifer Jenkins",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
+      "photo_url": "assets/photos/jennifer_jenkins.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://jenkinsforfl.com/",
       "occupation": "Speech-language pathologist; Brevard County School Board member 2020-2024",
       "residence": null,
@@ -585,7 +585,13 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Jennifer_Jenkins"
+        }
+      ]
     }
   ]
 }

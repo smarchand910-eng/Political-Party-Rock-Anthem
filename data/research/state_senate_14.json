@@ -25,7 +25,7 @@
       "incumbent": true,
       "photo_url": "https://www.flsenate.gov/Senators/s14",
       "photo_source": "Florida Senate member page (portrait image URL not verified; site blocked in sandbox)",
-      "website": null,
+      "website": "https://brianforfl.com/",
       "occupation": "State Senator",
       "residence": "Hillsborough County",
       "background": "Nathan won the March 24, 2026 special general election for SD 14 after the seat was vacated by Jay Collins (R), who resigned Aug. 12, 2025 on becoming Lieutenant Governor; he is seeking a full term in November.",
@@ -210,16 +210,22 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Brian_Nathan"
+        }
+      ]
     },
     {
       "id": "josie_tomkow",
       "name": "Josie Tomkow",
       "party": "Republican",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/josie_tomkow.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://www.votejosietomkow.com/",
       "occupation": null,
       "residence": "Polk City",
       "background": "Tomkow, a Republican state representative from Polk City, lost the March 2026 SD 14 special election to Nathan and is running again for the seat in November.",
@@ -654,7 +660,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Josie_Tomkow"
+        }
+      ]
     }
   ]
 }

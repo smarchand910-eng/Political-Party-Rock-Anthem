@@ -17,9 +17,9 @@
       "name": "Kate Wallace",
       "party": "Nonpartisan",
       "incumbent": true,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/kate_wallace.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://kateforkids.com",
       "occupation": null,
       "residence": null,
       "background": "Appointed by Gov. Ron DeSantis in November 2025 to fill the vacancy created by the death of board member Rick Nolte.",
@@ -185,6 +185,12 @@
           "title": "Kate Wallace to seek Polk County School Board seat",
           "url": "https://floridapolitics.com/archives/790450-kate-wallace-to-seek-polk-county-school-board-seat-vows-quality-school-choice/"
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Kate_Wallace"
+        }
       ]
     },
     {
@@ -192,9 +198,9 @@
       "name": "Victor Sims",
       "party": "Nonpartisan",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/victor_sims.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://www.simsforpolk.com/",
       "occupation": null,
       "residence": null,
       "background": "Advanced to the runoff as runner-up in the District 3 primary.",
@@ -359,6 +365,12 @@
         {
           "title": "Meet the candidates for Polk County School Board District 3",
           "url": "https://wusf.org/text/politics-issues/2026-07-28/meet-the-candidates-for-polk-county-school-board-district-3"
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Victor_Sims"
         }
       ]
     }

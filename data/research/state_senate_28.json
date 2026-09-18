@@ -25,9 +25,9 @@
       "name": "Lauren Melo",
       "party": "Republican",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/lauren_melo.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://www.laurenmelo.com/",
       "occupation": "State Representative; real-estate broker",
       "residence": "Naples, Collier County",
       "background": "Melo, a Naples Republican state representative and real-estate broker, won the Aug. 18, 2026 Republican primary for the open SD 28 seat over fellow Rep. Bob Rommel.",
@@ -377,15 +377,21 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Lauren_Melo"
+        }
+      ]
     },
     {
       "id": "david_silverberg",
       "name": "David Silverberg",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
+      "photo_url": "assets/photos/david_silverberg.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://silverberg4florida.com/",
       "occupation": "Retired journalist; founder of The Paradise Progressive; former managing editor of The Hill",
       "residence": null,
@@ -577,7 +583,13 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/David_Silverberg"
+        }
+      ]
     }
   ]
 }

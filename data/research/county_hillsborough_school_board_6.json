@@ -17,9 +17,9 @@
       "name": "Karen Perez",
       "party": "Nonpartisan",
       "incumbent": true,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/karen_perez.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://KeepKarenPerez.com",
       "occupation": null,
       "residence": null,
       "background": "Incumbent District 6 (countywide) board member; advanced to runoff.",
@@ -185,6 +185,12 @@
           "title": "Hillsborough County primary results: judges, commission, more (Tampa Bay Times)",
           "url": "https://www.tampabay.com/news/florida-politics/elections/2026/08/18/hillsborough-county-primary-election-results/"
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Karen_Perez"
+        }
       ]
     },
     {
@@ -194,7 +200,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://votekennethgay.com/",
       "occupation": null,
       "residence": null,
       "background": "Advanced to the Nov. 3 runoff for the countywide District 6 seat.",
@@ -359,6 +365,12 @@
         {
           "title": "Hillsborough County primary results: judges, commission, more (Tampa Bay Times)",
           "url": "https://www.tampabay.com/news/florida-politics/elections/2026/08/18/hillsborough-county-primary-election-results/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Kenneth_Gay"
         }
       ]
     }

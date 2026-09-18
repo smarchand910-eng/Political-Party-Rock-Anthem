@@ -25,8 +25,8 @@
       "name": "Sydney Gruters",
       "party": "Republican",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Sydney_Gruters.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": "assets/photos/sydney_gruters.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://grutersforcongress.com/",
       "occupation": "Former district director for U.S. Rep. Greg Steube (2019-2023); has cited experience at foundations and at the U.S. Department of Agriculture",
       "residence": "Sarasota area, Sarasota County (not verified)",
@@ -351,8 +351,8 @@
       "name": "Kelly Kirschner",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Kelly_Kirschner.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": "assets/photos/kelly_kirschner.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://kellykirschner.com/",
       "occupation": "Former Sarasota mayor and city commissioner; former Eckerd College administrator; co-founder of the nonprofit UnidosNow",
       "residence": "Sarasota, Sarasota County (former Sarasota mayor; residence not independently verified)",
@@ -685,9 +685,9 @@
       "name": "Mark Davis",
       "party": "No Party Affiliation",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Mark_Davis.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
+      "photo_url": null,
+      "photo_source": null,
+      "website": "https://markdavisforcongress.com/",
       "occupation": "Business owner; U.S. Air Force veteran (2005-2013)",
       "residence": "Not found",
       "background": "Mark Davis served in the U.S. Air Force from 2005 to 2013 and works as a business owner; Ballotpedia lists a high-school diploma from Western High School. He qualified as a no-party-affiliation candidate for the open 16th District and says he is running to offer a moderate, fiscally responsible alternative. Local outlets reported he was arrested in Parrish in July 2026.",
@@ -871,7 +871,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Mark_Davis_%28Florida%29"
+        }
+      ]
     }
   ]
 }

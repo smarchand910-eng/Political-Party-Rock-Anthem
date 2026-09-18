@@ -22,9 +22,9 @@
       "name": "Daryl Campbell",
       "party": "Democratic",
       "incumbent": true,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/daryl_campbell.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://darylcampbell.org/",
       "occupation": null,
       "residence": null,
       "background": "Incumbent Democratic state representative for HD 99 (part of Broward: Fort Lauderdale, Lauderhill, Plantation, Wilton Manors). Reported unopposed as of June 8, 2026.",
@@ -415,6 +415,12 @@
           "title": "With qualifying days away, 4 competitive House seats remain unchallenged (Florida Politics)",
           "url": "https://floridapolitics.com/archives/800374-with-qualifying-days-away-5-competitive-house-seats-remain-unchallenged/",
           "date": "2026-06-08"
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Daryl_Campbell_%28Florida%29"
         }
       ]
     }

@@ -23,7 +23,7 @@
       "incumbent": true,
       "photo_url": "https://www.congress.gov/img/member/f000472_200.jpg",
       "photo_source": "congress.gov member portrait (bioguide ID F000472 confirmed via congress.gov member page)",
-      "website": null,
+      "website": "https://www.votescottfranklin.com",
       "occupation": "U.S. Representative (since 2021)",
       "residence": "Lakeland, Polk County",
       "background": "Scott Franklin has represented the district since January 2021 (first elected in the old 15th, then the 18th after 2022 redistricting). He served in the U.S. Navy from 1986 to 2000 and the Navy Reserve from 2000 to 2012, worked in business, and was a Lakeland city commissioner. He is the Republican nominee on the Nov. 3, 2026 ballot; under the 2026 map the district is centered on Polk County with part of Osceola County.",
@@ -520,15 +520,21 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Scott_Franklin"
+        }
+      ]
     },
     {
       "id": "curtis_gibson",
       "name": "Curtis Gibson",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Curtis_Gibson.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": "assets/photos/curtis_gibson.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://votecurtisgibson.com/",
       "occupation": "Former Lake Wales city commissioner; former mall manager; small-business owner",
       "residence": "Lake Wales, Polk County (campaign describes him as a lifelong Lake Wales resident)",
@@ -758,15 +764,21 @@
         }
       ],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Curtis_Gibson"
+        }
+      ]
     },
     {
       "id": "deva_simmons",
       "name": "Deva Simmons",
       "party": "No Party Affiliation",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Deva_Simmons.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": "assets/photos/deva_simmons.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.devasimmons.com/en",
       "occupation": "Educator (more than 20 years teaching and mentoring)",
       "residence": "Polk County (campaign says she settled in Polk County in 2002)",
@@ -970,7 +982,13 @@
         }
       ],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Deva_Simmons"
+        }
+      ]
     }
   ]
 }

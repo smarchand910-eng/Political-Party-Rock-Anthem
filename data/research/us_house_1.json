@@ -23,9 +23,9 @@
       "name": "Jimmy Patronis",
       "party": "Republican",
       "incumbent": true,
-      "photo_url": "https://www.congress.gov/img/member/p000621_200.jpg",
-      "photo_source": "congress.gov member portrait (bioguide ID unverified)",
-      "website": null,
+      "photo_url": "assets/photos/jimmy_patronis.jpg",
+      "photo_source": "Official congressional portrait (unitedstates.github.io mirror of the Congressional Pictorial Directory; downloaded copy in assets/photos)",
+      "website": "https://joinjimmy.com/",
       "occupation": "U.S. Representative (since April 2025); former Florida Chief Financial Officer",
       "residence": "Panama City, Bay County (per prior reporting; not re-verified)",
       "background": "Jimmy Patronis served as Florida's Chief Financial Officer before winning the April 1, 2025 special election to replace Matt Gaetz in the 1st District, defeating Gay Valimont 57% to 42%. He won the Aug. 18, 2026 Republican primary over Douglas Chico and John Frankman with roughly 72-75% of the vote (unofficial), setting up a November rematch with Valimont. He was endorsed by President Trump for the 2026 race. In the House he voted for the One Big Beautiful Bill Act and the SAVE Act (Florida's Voice; congress.gov).",
@@ -470,6 +470,12 @@
             }
           ]
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Jimmy_Patronis"
+        }
       ]
     },
     {
@@ -477,8 +483,8 @@
       "name": "Gay Valimont",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Gay_Valimont.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": "assets/photos/gay_valimont.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.gayforcongress.com/",
       "occupation": "Gun-violence-prevention activist (Ballotpedia); Democratic nominee for FL-1 in 2024, the April 2025 special election and 2026",
       "residence": "Pensacola, Escambia County (Ballotpedia)",
@@ -751,15 +757,21 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Gay_Valimont"
+        }
+      ]
     },
     {
       "id": "tyler_davis",
       "name": "Tyler Davis",
       "party": "No Party Affiliation",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Tyler_Davis.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": null,
+      "photo_source": null,
       "website": "https://www.tylerdavisforcongress.com/",
       "occupation": "Panhandle resident; campaign focused on education, jobs and 'sustainable innovation'",
       "residence": "Pensacola, Escambia County (Ballotpedia)",
@@ -950,7 +962,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Tyler_Davis_%28Florida%29"
+        }
+      ]
     }
   ]
 }

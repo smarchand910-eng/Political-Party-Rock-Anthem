@@ -227,6 +227,12 @@
           "url": "https://ballotpedia.org/Jon_Albert",
           "date": null
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Jon_Albert"
+        }
       ]
     },
     {
@@ -236,7 +242,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://aletheafordistrict48.com/",
       "occupation": "Dundee town commissioner",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
@@ -305,7 +311,13 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Alethea_Pugh"
+        }
+      ]
     }
   ]
 }

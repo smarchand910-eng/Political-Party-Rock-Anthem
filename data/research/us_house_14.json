@@ -22,7 +22,7 @@
       "incumbent": true,
       "photo_url": "https://www.congress.gov/img/member/c001066_200.jpg",
       "photo_source": "congress.gov member portrait",
-      "website": null,
+      "website": "https://www.castorforcongress.com/",
       "occupation": "U.S. Representative (since 2007)",
       "residence": "Tampa, Hillsborough County (not re-verified)",
       "background": "Kathy Castor, an attorney and former Hillsborough County commissioner, has represented the Tampa-based 14th District since 2007. She chaired the House Select Committee on the Climate Crisis (2019-2023) and sits on the Energy and Commerce Committee. She advanced to the 2026 general election without appearing on the Democratic primary ballot (Ballotpedia had listed Juan Arauz as a filer). The April 2026 map removed the district's cross-bay portion, leaving it entirely within eastern and southern Hillsborough County.",
@@ -558,15 +558,21 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Kathy_Castor"
+        }
+      ]
     },
     {
       "id": "mike_beltran",
       "name": "Mike Beltran",
       "party": "Republican",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Mike_Beltran.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": "assets/photos/mike_beltran.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://beltranforcongress.com/",
       "occupation": "Attorney; former Florida state representative (2018-2024)",
       "residence": "Lithia, Hillsborough County",
@@ -1079,16 +1085,22 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Salomon_Hernandez"
+        }
+      ]
     },
     {
       "id": "brian_lambert",
       "name": "Brian Lambert",
       "party": "Libertarian",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/brian_lambert.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://www.brianlambertforcongress.com/",
       "occupation": null,
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
@@ -1104,7 +1116,13 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Brian_Lambert"
+        }
+      ]
     },
     {
       "id": "keith_varian",
@@ -1113,7 +1131,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://votevarian2026.com/",
       "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
       "residence": null,
       "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
@@ -1129,7 +1147,13 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Keith_Varian"
+        }
+      ]
     }
   ]
 }

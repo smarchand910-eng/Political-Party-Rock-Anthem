@@ -23,7 +23,7 @@
       "incumbent": true,
       "photo_url": "https://www.congress.gov/img/member/g000593_200.jpg",
       "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
-      "website": null,
+      "website": "https://carlosgimenezforcongress.com",
       "occupation": "U.S. Representative (since 2021); former Miami-Dade County Mayor",
       "residence": "Miami-Dade County",
       "background": "Carlos Gimenez, a former Miami fire chief and Miami-Dade County mayor (2011-2020), has represented the 28th District since January 2021 (elected in the old 26th). He was unopposed in the Aug. 18, 2026 Republican primary. In 2026 he has publicly urged the administration to change its ICE enforcement strategy and to 'normalize' longtime immigrants, while supporting the administration's tax bill and tariff proposals.",
@@ -661,7 +661,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Carlos_Gimenez"
+        }
+      ]
     },
     {
       "id": "phil_ehr",
@@ -1012,7 +1018,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://www.eddyrojas.com/",
       "occupation": "Business owner",
       "residence": "Not found",
       "background": "Eddy Rojas is an independent (no party affiliation) candidate on the Nov. 3, 2026 ballot for District 28, making it a three-way race with Gimenez and Ehr. Ballotpedia says he was born in Cuba, immigrated to Miami, began his career as a valet and later established several companies; his platform says he plans to bring his business experience to Congress. No issue-specific positions were found.",
@@ -1184,7 +1190,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Eddy_Rojas"
+        }
+      ]
     }
   ]
 }

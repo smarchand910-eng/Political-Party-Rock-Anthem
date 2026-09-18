@@ -17,8 +17,8 @@
       "name": "Kamia Brown",
       "party": "Nonpartisan",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
+      "photo_url": "assets/photos/kamia_brown.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
       "occupation": null,
       "residence": null,
@@ -185,6 +185,12 @@
           "title": "Kamia Brown - Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Kamia_Brown"
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Kamia_Brown"
+        }
       ]
     },
     {
@@ -194,7 +200,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://ilikemikecrabb.com/",
       "occupation": null,
       "residence": null,
       "background": "Advanced to the runoff as runner-up in the District 2 primary (other candidates: George Oliver III, Marsha Summersill, Wes Hodge).",
@@ -359,6 +365,12 @@
         {
           "title": "2026 Voter's Guide - Orange County Commission District 2",
           "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-commission-district-2/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Mike_Crabb"
         }
       ]
     }

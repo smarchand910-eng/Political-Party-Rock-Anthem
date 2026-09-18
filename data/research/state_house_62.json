@@ -23,8 +23,8 @@
       "name": "Kyandra Darling",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
+      "photo_url": "assets/photos/kyandra_darling.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.darlingforfl.com/",
       "occupation": "Community-engagement professional; former legislative aide, St. Petersburg City Council",
       "residence": null,
@@ -203,6 +203,12 @@
           "title": "Who won Florida House, Senate primary races in Tampa Bay? (Tampa Bay Times)",
           "url": "https://www.tampabay.com/news/florida-politics/elections/2026/08/18/florida-legislature-house-senate-legislative-results-primary-2026/",
           "date": "2026-08-18"
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Kyandra_Darling"
         }
       ]
     }

@@ -24,7 +24,7 @@
       "incumbent": true,
       "photo_url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=4882",
       "photo_source": "Florida House member page (MemberId=4882); image URL not verified",
-      "website": null,
+      "website": "https://www.yeagerforflorida.com/",
       "occupation": null,
       "residence": null,
       "background": "Incumbent Republican state representative for HD 56 (coastal Pasco County including New Port Richey), first elected 2022. Faced Jessica Naioti in the Aug. 18, 2026 Republican primary.",
@@ -376,6 +376,12 @@
           "url": "https://www.cbsnews.com/miami/news/florida-house-senate-primary-election-results-2026/",
           "date": "2026-08-19"
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Brad_Yeager"
+        }
       ]
     },
     {
@@ -401,7 +407,13 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Jose_Freites"
+        }
+      ]
     }
   ]
 }

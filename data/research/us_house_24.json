@@ -21,8 +21,8 @@
       "name": "Oliver Gilbert",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Oliver_Gilbert.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": null,
+      "photo_source": null,
       "website": "https://olivergilbert.vote/",
       "occupation": "Attorney and former prosecutor; Miami-Dade County Commissioner, District 1 (elected 2020; commission chair 2020-2024); former Mayor of Miami Gardens (2012-2020)",
       "residence": "Miami Gardens, Miami-Dade County",
@@ -371,6 +371,12 @@
             }
           ]
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Oliver_Gilbert"
+        }
       ]
     },
     {
@@ -378,8 +384,8 @@
       "name": "Te Mayonna Brown",
       "party": "Republican",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Te_Brown.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": "assets/photos/te_brown.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://tebrownforflorida.com/",
       "occupation": "Real-estate developer, small-business owner and homeschooling mother",
       "residence": "Not found",
@@ -612,7 +618,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://patriciaforcongress.com",
       "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
       "residence": null,
       "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
@@ -628,7 +634,13 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Patricia_Gonzalez_%28Florida%29"
+        }
+      ]
     }
   ]
 }

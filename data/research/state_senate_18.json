@@ -25,7 +25,7 @@
       "incumbent": true,
       "photo_url": "https://www.flsenate.gov/Senators/s18",
       "photo_source": "Florida Senate member page (portrait image URL not verified; site blocked in sandbox)",
-      "website": null,
+      "website": "https://nickdiceglie.com",
       "occupation": "State Senator",
       "residence": "Indian Rocks Beach, Pinellas County",
       "background": "DiCeglie, an Indian Rocks Beach Republican and former state representative, has represented SD 18 since 2022 and is seeking a second term.",
@@ -426,7 +426,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Nick_DiCeglie"
+        }
+      ]
     },
     {
       "id": "karla_kemp",

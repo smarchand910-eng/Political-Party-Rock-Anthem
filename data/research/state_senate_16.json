@@ -26,7 +26,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://fentriceforflorida.com",
       "occupation": "State Representative; attorney",
       "residence": "Tampa, Hillsborough County",
       "background": "Driskell, a Tampa attorney and Florida House Democratic Leader, won the Aug. 18, 2026 Democratic primary for the open SD 16 seat over Rep. Michele Rayner, receiving over 54% in Pinellas and nearly 63% in Hillsborough; with no Republican in the race, the result effectively decides the seat.",
@@ -485,7 +485,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Fentrice_Driskell"
+        }
+      ]
     }
   ]
 }

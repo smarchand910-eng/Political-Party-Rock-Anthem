@@ -1,0 +1,34 @@
+name: Weekly source link check
+on:
+  schedule:
+    - cron: '0 13 * * 1'
+  workflow_dispatch:
+permissions:
+  issues: write
+  contents: read
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check every source link
+        id: chk
+        run: |
+          set +e
+          python3 scripts/check_links.py /tmp/links.md
+          echo "dead=$?" >> "$GITHUB_OUTPUT"
+          head -c 60000 /tmp/links.md
+      - uses: actions/upload-artifact@v4
+        with:
+          name: link-check-report
+          path: /tmp/links.md
+      - name: Open an issue when dead links were found
+        if: steps.chk.outputs.dead == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          head -c 60000 /tmp/links.md > /tmp/body.md
+          gh issue create --title "Dead source links found $(date -u +%Y-%m-%d)" --body-file /tmp/body.md --label "link-check" || gh issue create --title "Dead source links found $(date -u +%Y-%m-%d)" --body-file /tmp/body.md

@@ -35,7 +35,7 @@
       "incumbent": true,
       "photo_url": "https://www.congress.gov/img/member/c001039_200.jpg",
       "photo_source": "congress.gov member portrait",
-      "website": null,
+      "website": "https://katforcongress.com",
       "occupation": "U.S. Representative (since 2021)",
       "residence": "Gainesville area, Alachua County (not re-verified)",
       "background": "Kat Cammack has represented the 3rd District since 2021. She was unopposed in the Aug. 18, 2026 Republican primary. Her campaign highlights her legislative record on small business, military families and agriculture in the district (FOX 35). She was endorsed by President Trump for 2026. In the 119th Congress she voted for the One Big Beautiful Bill Act, the Laken Riley Act and the SAVE Act, and sponsored the Dismemberment Abortion Ban Act of 2026 (congress.gov).",
@@ -605,6 +605,12 @@
             }
           ]
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Kat_Cammack"
+        }
       ]
     },
     {
@@ -882,7 +888,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://mikeklein4congress.com/",
       "occupation": null,
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
@@ -898,7 +904,13 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Mike_Klein_%28Florida%29"
+        }
+      ]
     }
   ]
 }

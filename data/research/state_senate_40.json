@@ -485,7 +485,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Ana_Maria_Rodriguez"
+        }
+      ]
     },
     {
       "id": "ramiro_orta",
@@ -510,15 +516,21 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Ramiro_Orta"
+        }
+      ]
     },
     {
       "id": "jose_stoute",
       "name": "Jose Stoute",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
+      "photo_url": "assets/photos/jose_stoute.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
       "occupation": null,
       "residence": null,
@@ -535,7 +547,13 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Jose_Stoute"
+        }
+      ]
     }
   ]
 }

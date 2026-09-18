@@ -23,9 +23,9 @@
       "name": "Jacquelyn \"Jackie\" Randall",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/jacquelyn_jackie_randall.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://jackieforflorida.com/",
       "occupation": null,
       "residence": "Hawthorne, Alachua County",
       "background": "Former mayor of Hawthorne. Led/won the five-way Aug. 18, 2026 Democratic universal primary for the open HD 21 seat (southeast Alachua County and northwest Marion County), which decided the seat because no Republican qualified.",
@@ -188,6 +188,12 @@
           "title": "Q&A: Florida House District 21 candidates react to 2026 Legislative Session (Mainstreet Daily News)",
           "url": "https://www.mainstreetdailynews.com/govt-politics/florida-district-21-candidates-2026",
           "date": "2026"
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Jacquelyn_Randall"
         }
       ]
     }

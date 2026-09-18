@@ -24,9 +24,9 @@
       "name": "Ashley Gantt",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/ashley_gantt.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://ashley.vote/",
       "occupation": "State Representative; attorney",
       "residence": "Miami, Miami-Dade County",
       "background": "Gantt, a Miami Democratic state representative and attorney, won the Aug. 18, 2026 Democratic primary for the open SD 34 seat with roughly 63% in a three-way race, campaigning on continuity, affordability and education.",
@@ -450,6 +450,12 @@
             }
           ]
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Ashley_Gantt"
+        }
       ]
     },
     {
@@ -457,8 +463,8 @@
       "name": "Elizabeth Jeanty",
       "party": "Republican",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
+      "photo_url": "assets/photos/elizabeth_jeanty.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
       "occupation": null,
       "residence": null,
@@ -609,7 +615,13 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Elizabeth_Jeanty"
+        }
+      ]
     }
   ]
 }

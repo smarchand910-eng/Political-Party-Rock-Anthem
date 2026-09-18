@@ -23,8 +23,8 @@
       "name": "Nan Cobb",
       "party": "Republican",
       "incumbent": true,
-      "photo_url": null,
-      "photo_source": null,
+      "photo_url": "assets/photos/nan_cobb.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
       "occupation": null,
       "residence": null,
@@ -41,7 +41,13 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Nan_Cobb"
+        }
+      ]
     },
     {
       "id": "robyn_lawrence",

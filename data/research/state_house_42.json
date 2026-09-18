@@ -22,9 +22,9 @@
       "name": "Felipe Sousa Lazaballet",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/felipe_sousa_lazaballet.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://www.felipeforflorida.com/",
       "occupation": null,
       "residence": null,
       "background": "Democratic nominee for the open HD 42 seat (Orlando area) in the Nov. 3, 2026 general election.",
@@ -173,6 +173,12 @@
           "url": "https://ballotpedia.org/Florida_House_of_Representatives_District_42",
           "date": null
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Felipe_Sousa_Lazaballet"
+        }
       ]
     },
     {
@@ -180,9 +186,9 @@
       "name": "Bonnie Jackson",
       "party": "Republican",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/bonnie_jackson.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://www.jacksonforflorida.com",
       "occupation": null,
       "residence": null,
       "background": "Republican nominee for the open HD 42 seat (Orlando area) in the Nov. 3, 2026 general election.",
@@ -330,6 +336,12 @@
           "title": "Florida House of Representatives District 42 (Ballotpedia)",
           "url": "https://ballotpedia.org/Florida_House_of_Representatives_District_42",
           "date": null
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Bonnie_Jackson_%28Florida%29"
         }
       ]
     }

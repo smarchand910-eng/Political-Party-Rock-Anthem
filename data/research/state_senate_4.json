@@ -26,7 +26,7 @@
       "incumbent": true,
       "photo_url": "https://www.flsenate.gov/Senators/s4",
       "photo_source": "Florida Senate member page (portrait image URL not verified; site blocked in sandbox)",
-      "website": null,
+      "website": "https://clayyarborough.com",
       "occupation": "State Senator",
       "residence": "Jacksonville, Duval County",
       "background": "Yarborough, a Jacksonville Republican, has represented Senate District 4 since 2022 and previously served in the Florida House and on the Jacksonville City Council, including as its president. He declared for the Aug. 18, 2026 Republican primary.",
@@ -422,7 +422,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Clay_Yarborough"
+        }
+      ]
     },
     {
       "id": "sharmin_turner",
