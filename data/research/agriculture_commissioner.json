@@ -706,11 +706,17 @@
       "primary_result": "Won Aug. 18, 2026 Democratic primary with 60.3% over Donald A. 'Don' Prichard, 39.7% (Florida Politics; WUWF).",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would suspend the state gas tax as a consumer-relief measure.",
+          "quote": "Suspend the state gas tax",
+          "sources": [
+            {
+              "title": "Joey for Florida - Home",
+              "url": "https://www.joeyforflorida.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -991,6 +997,18 @@
               "title": "Joey Mendoza Atkins for Florida Agriculture Commissioner - campaign website",
               "url": "https://www.joeyforflorida.com/",
               "date": "2026"
+            }
+          ]
+        },
+        {
+          "topic": "Farmworkers and conservation",
+          "summary": "Cites his legal-aid work for migrant farmworkers and DACA recipients as shaping his view that agriculture 'is about people', and says conservation should be judged by public benefit such as water quality rather than acres placed in easement.",
+          "quote": "Conservation shouldn't be measured by the number of acres put into easement. It should be measured by the public benefit.",
+          "sources": [
+            {
+              "title": "Election 2026: Florida's primary races for commissioner of agriculture - WLRN",
+              "url": "https://www.wlrn.org/government-politics/2026-08-10/election-2026-floridas-primary-races-for-commissioner-of-agriculture",
+              "date": "2026-08-10"
             }
           ]
         }
