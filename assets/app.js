@@ -14,6 +14,24 @@
   // Nothing is persisted on the visitor's device: quiz answers and the where-do-you-vote profile live in memory
   // for the current page load only, and values saved by earlier versions are removed at startup.
   try { localStorage.removeItem(STORAGE_KEY); localStorage.removeItem(PROFILE_KEY); localStorage.removeItem('flguide.county'); } catch (e) { /* ignore */ }
+  /* ---------- Language (English / Español) ---------- */
+  let LANG = 'en';
+  try { LANG = localStorage.getItem('flguide.lang') === 'es' ? 'es' : 'en'; } catch (e) { /* ignore */ }
+  function T(en, es) { return LANG === 'es' && es != null ? es : en; }
+  function iLabel(i) { return T(i.label, i.label_es); }
+  function iStmt(i) { return T(i.statement, i.statement_es); }
+  function setLang(l) { LANG = l === 'es' ? 'es' : 'en'; try { localStorage.setItem('flguide.lang', LANG); } catch (e) { /* ignore */ } applyChrome(); render(); }
+  const NAV_ES = { home: 'Inicio', races: 'Contiendas', match: 'Compárame', amendments: 'Enmiendas', judges: 'Jueces', vote: 'Cómo votar', counties: 'Condados', about: 'Metodología' };
+  const NAV_EN = { home: 'Home', races: 'Races', match: 'Match me', amendments: 'Amendments', judges: 'Judges', vote: 'How to vote', counties: 'All counties', about: 'Methodology' };
+  function applyChrome() {
+    document.documentElement.lang = LANG;
+    document.querySelectorAll('[data-nav]').forEach(a => { const k = a.getAttribute('data-nav'); if ((LANG === 'es' ? NAV_ES : NAV_EN)[k]) a.textContent = (LANG === 'es' ? NAV_ES : NAV_EN)[k]; });
+    const sub = document.querySelector('.brand-sub'); if (sub) sub.textContent = T('November 3, 2026 General Election', 'Elección General · 3 de noviembre de 2026');
+    const btn = document.getElementById('lang-toggle'); if (btn) btn.textContent = LANG === 'es' ? 'English' : 'Español';
+    const f1 = document.getElementById('footer-independent'); if (f1) f1.innerHTML = T(f1.dataset.en, f1.dataset.es);
+    const f2 = document.getElementById('footer-reviewed'); if (f2) f2.innerHTML = T(f2.dataset.en, f2.dataset.es).replace('{date}', `<span id="data-date">${(window.GUIDE_DATA || {}).generated_at || ''}</span>`);
+  }
+  const ES_NOTE = '<p class="notice">Las preguntas, la navegación y las explicaciones están en español; los resúmenes de las posiciones de cada candidato y las fuentes citadas están en inglés, tal como aparecen en los documentos originales.</p>';
   let ANSWERS = {};
   let PROFILE = null;
   const FL = DATA.florida || { counties: {}, dca_names: {} };
@@ -23,7 +41,7 @@
   const STANCE_LABEL = { '2': 'Strongly agrees', '1': 'Leans agree', '0': 'Mixed / neutral', '-1': 'Leans disagree', '-2': 'Strongly disagrees', 'null': 'No public position found' };
   const CONF_LABEL = { stated: 'stated position', record: 'based on record', unknown: 'unknown' };
   const USER_SCALE = [
-    { v: 2, label: 'Strongly agree' }, { v: 1, label: 'Agree' }, { v: 0, label: 'Neutral / unsure' }, { v: -1, label: 'Disagree' }, { v: -2, label: 'Strongly disagree' }
+    { v: 2, label: 'Strongly agree', es: 'Muy de acuerdo' }, { v: 1, label: 'Agree', es: 'De acuerdo' }, { v: 0, label: 'Neutral / unsure', es: 'Neutral / no sé' }, { v: -1, label: 'Disagree', es: 'En desacuerdo' }, { v: -2, label: 'Strongly disagree', es: 'Muy en desacuerdo' }
   ];
 
   /* ---------- helpers ---------- */
@@ -78,7 +96,7 @@
   function withdrawnLabel(c) { const w = c.withdrawn; if (w === true || !w) return 'Withdrew'; const s = String(w).replace(/\s*\((Florida Division of Elections|VoterFocus)[^)]*\)\s*$/, ''); return /^(Withdrew|Defeated|Did not|Removed|Deceased|Not )/.test(s) ? s : 'Withdrew ' + s; }
 
   const REPO_ISSUES = 'https://github.com/smarchand910-eng/Political-Party-Rock-Anthem/issues/new';
-  function reportLink(what) { return `<a href="${REPO_ISSUES}?title=${encodeURIComponent('Correction: ' + what)}&body=${encodeURIComponent('Page: ' + location.href + '\n\nWhat is wrong, and a source that shows the correct information:\n')}" target="_blank" rel="noopener">Report an error ↗</a>`; }
+  function reportLink(what) { return `<a href="${REPO_ISSUES}?title=${encodeURIComponent('Correction: ' + what)}&body=${encodeURIComponent('Page: ' + location.href + '\n\nWhat is wrong, and a source that shows the correct information:\n')}" target="_blank" rel="noopener">${T('Report an error ↗', 'Reportar un error ↗')}</a>`; }
   function money(n) { return n == null ? '' : '$' + Math.round(n).toLocaleString('en-US'); }
   function financeHtml(c, r) {
     const f = c.finance;
@@ -349,29 +367,29 @@
     mine.forEach(r => { (groups[r.office_group] = groups[r.office_group] || []).push(r); });
     return `
       <section class="hero">
-        <div class="eyebrow">Florida · General Election · November 3, 2026</div>
-        <h1>Know every race on your ballot. Decide on the facts.</h1>
-        <p class="lead">A nonpartisan, source-cited guide to the candidates and questions on Florida ballots this November, filtered to your address, plus a tool that matches your own views to each candidate's documented positions.</p>
+        <div class="eyebrow">${T('Florida · General Election · November 3, 2026', 'Florida · Elección General · 3 de noviembre de 2026')}</div>
+        <h1>${T('Know every race on your ballot. Decide on the facts.', 'Conozca cada contienda en su boleta. Decida con los hechos.')}</h1>
+        <p class="lead">${T("A nonpartisan, source-cited guide to the candidates and questions on Florida ballots this November, filtered to your address, plus a tool that matches your own views to each candidate's documented positions.", 'Una guía no partidista, con fuentes citadas, de los candidatos y las preguntas en las boletas de Florida este noviembre, filtrada según su dirección, más una herramienta que compara sus opiniones con las posiciones documentadas de cada candidato.')}</p>${LANG === 'es' ? ES_NOTE : ''}
         <div class="hero-cta">
-          <a class="btn btn-primary btn-hero" href="#/match"><span class="btn-hero-main">Take the 2-minute quiz</span><span class="btn-hero-sub">Answer 21 statements and see which candidates match your views →</span></a>
+          <a class="btn btn-primary btn-hero" href="#/match"><span class="btn-hero-main">${T('Take the 2-minute quiz', 'Haga el cuestionario de 2 minutos')}</span><span class="btn-hero-sub">${T('Answer 21 statements and see which candidates match your views →', 'Responda 21 afirmaciones y vea qué candidatos coinciden con usted →')}</span></a>
         </div>
         <div class="btn-row">
-          <a class="btn" href="#/races">Browse races</a>
-          <a class="btn" href="#/counties">All 67 counties</a>
-          <a class="btn" href="#/vote">How &amp; where to vote</a>
+          <a class="btn" href="#/races">${T('Browse races', 'Ver contiendas')}</a>
+          <a class="btn" href="#/counties">${T('All 67 counties', 'Los 67 condados')}</a>
+          <a class="btn" href="#/vote">${T('How &amp; where to vote', 'Cómo y dónde votar')}</a>
         </div>
       </section>
       <section class="section">${addressPanel(!!prof)}</section>
       <section class="section">${countdown()}</section>
       <section class="section">
-        <div class="section-head"><h2>${prof ? 'Races on your ballot' : 'Statewide races (every Florida voter)'}</h2><a href="#/races">See all →</a></div>
-        ${!prof ? '<p class="muted">Enter your address above to add your congressional, state legislative and county races, or <a href="#/counties">pick your county</a> to see the official line-up for every contest.</p>' : ''}
+        <div class="section-head"><h2>${prof ? T('Races on your ballot', 'Contiendas en su boleta') : T('Statewide races (every Florida voter)', 'Contiendas estatales (todos los votantes de Florida)')}</h2><a href="#/races">${T('See all →', 'Ver todas →')}</a></div>
+        ${!prof ? `<p class="muted">${T('Enter your address above to add your congressional, state legislative and county races, or <a href="#/counties">pick your county</a> to see the official line-up for every contest.', 'Ingrese su dirección arriba para añadir sus contiendas del Congreso, la Legislatura y el condado, o <a href="#/counties">elija su condado</a> para ver la lista oficial de cada contienda.')}</p>` : ''}
         ${Object.keys(groups).map(g => `<h3 style="margin-top:14px">${esc(g)}</h3><div class="grid grid-2">${groups[g].map(raceCard).join('')}</div>`).join('')}
       </section>
       <section class="section grid grid-3">
-        <div class="card"><div class="eyebrow">Ballot questions</div><h3><a href="#/amendments">${(DATA.amendments || []).length || 3} constitutional amendments</a></h3><p class="muted">Official ballot language, what a Yes or No vote does, fiscal impact, and the arguments each side is making, attributed to who is making them.</p></div>
-        <div class="card"><div class="eyebrow">Judicial retention</div><h3><a href="#/judges">Should these judges keep their seats?</a></h3><p class="muted">Background on the Supreme Court justice and the appellate judges on your county's ballot.</p></div>
-        <div class="card"><div class="eyebrow">How this guide works</div><h3><a href="#/about">Methodology &amp; neutrality rules</a></h3><p class="muted">How positions are coded, why some are marked unknown, and how the match score is calculated.</p></div>
+        <div class="card"><div class="eyebrow">${T('Ballot questions', 'Preguntas en la boleta')}</div><h3><a href="#/amendments">${(DATA.amendments || []).length || 3} ${T('constitutional amendments', 'enmiendas constitucionales')}</a></h3><p class="muted">${T('Official ballot language, what a Yes or No vote does, fiscal impact, and the arguments each side is making, attributed to who is making them.', 'Texto oficial de la boleta, qué significa votar Sí o No, impacto fiscal y los argumentos de cada lado, con su fuente.')}</p></div>
+        <div class="card"><div class="eyebrow">${T('Judicial retention', 'Retención de jueces')}</div><h3><a href="#/judges">${T('Should these judges keep their seats?', '¿Deben estos jueces conservar su cargo?')}</a></h3><p class="muted">${T("Background on the Supreme Court justice and the appellate judges on your county's ballot.", 'Antecedentes del magistrado de la Corte Suprema y de los jueces de apelación en la boleta de su condado.')}</p></div>
+        <div class="card"><div class="eyebrow">${T('How this guide works', 'Cómo funciona esta guía')}</div><h3><a href="#/about">${T('Methodology &amp; neutrality rules', 'Metodología y reglas de neutralidad')}</a></h3><p class="muted">${T('How positions are coded, why some are marked unknown, and how the match score is calculated.', 'Cómo se codifican las posiciones, por qué algunas se marcan como desconocidas y cómo se calcula el puntaje de coincidencia.')}</p></div>
       </section>`;
   }
 
@@ -380,8 +398,8 @@
     return `<div class="card race-card">
       <div>${jurKey(r) !== 'statewide' ? `<span class="tag">${esc(jurLabel(r))}</span>` : ''}${r.coverage && r.coverage !== 'full' ? `<span class="tag" style="color:var(--warn)">${r.coverage === 'roster' ? 'Candidate list only' : r.coverage === 'partial' ? 'Partly verified' : 'No data yet'}</span>` : ''}${r.on_november_ballot === false ? '<span class="tag">Not on Nov. ballot</span>' : ''}</div>
       <h3><a href="#/race/${esc(r.id)}">${esc(r.title)}</a></h3>
-      ${r.kind === 'measure' ? `<p class="muted">${esc(truncate(r.ballot_summary || 'Local ballot question.', 180))}</p><div><a class="btn btn-sm" href="#/race/${esc(r.id)}">Read the question →</a></div>` : `<div class="cand-row">${cands.map(c => `<a class="cand-chip" href="#/candidate/${esc(c.id)}">${avatar(c, 'sm')}${esc(c.name)} <small>(${esc(partyShort(c.party))})</small></a>`).join('') || '<span class="empty">No candidate data yet</span>'}</div>
-      <div><a class="btn btn-sm" href="#/race/${esc(r.id)}">${cands.length ? 'Compare positions →' : 'Details →'}</a></div>`}
+      ${r.kind === 'measure' ? `<p class="muted">${esc(truncate(r.ballot_summary || 'Local ballot question.', 180))}</p><div><a class="btn btn-sm" href="#/race/${esc(r.id)}">${T('Read the question →', 'Leer la pregunta →')}</a></div>` : `<div class="cand-row">${cands.map(c => `<a class="cand-chip" href="#/candidate/${esc(c.id)}">${avatar(c, 'sm')}${esc(c.name)} <small>(${esc(partyShort(c.party))})</small></a>`).join('') || `<span class="empty">${T('No candidate data yet', 'Aún no hay datos de candidatos')}</span>`}</div>
+      <div><a class="btn btn-sm" href="#/race/${esc(r.id)}">${cands.length ? T('Compare positions →', 'Comparar posiciones →') : T('Details →', 'Detalles →')}</a></div>`}
     </div>`;
   }
 
@@ -437,7 +455,7 @@
       ${coverageNote(r)}
       ${r.verified_ballot_note ? `<details class="notice" style="border-radius:0 var(--radius-sm) var(--radius-sm) 0"><summary>How we verified who is on the ballot</summary><p style="margin:8px 0 0">${esc(r.verified_ballot_note)}</p>${sourcesHtml(r.verified_ballot_sources)}</details>` : ''}
       <div class="btn-row"><a class="btn btn-primary" href="#/match">See how you match in this race →</a></div>
-      <section class="section"><div class="section-head"><h2>Candidates</h2><small>${reportLink(r.title)}</small></div>${cands.some(c => c.withdrawn) ? '<p class="notice notice-warn">Candidates marked "Withdrew", "Defeated in the primary" or "Did not qualify" are not running in November, according to the Florida Division of Elections candidate list. A name may still be printed on the ballot if the withdrawal came late; such votes are not counted. They are excluded from match results.</p>' : ''}<div class="stack">${cands.map(c => candidateCard(c)).join('')}</div></section>
+      <section class="section"><div class="section-head"><h2>${T('Candidates', 'Candidatos')}</h2><small>${reportLink(r.title)}</small></div>${cands.some(c => c.withdrawn) ? '<p class="notice notice-warn">Candidates marked "Withdrew", "Defeated in the primary" or "Did not qualify" are not running in November, according to the Florida Division of Elections candidate list. A name may still be printed on the ballot if the withdrawal came late; such votes are not counted. They are excluded from match results.</p>' : ''}<div class="stack">${cands.map(c => candidateCard(c)).join('')}</div></section>
       <section class="section">
         <div class="section-head"><h2>Side-by-side on the major issues</h2></div>
         ${heatStrip(r, cands, issues)}
@@ -491,8 +509,8 @@
     const unknown = issues.filter(i => !(c.positions && c.positions[i.id] && c.positions[i.id].stance != null));
     const allOther = ISSUES.filter(i => !issues.includes(i) && c.positions && c.positions[i.id] && c.positions[i.id].stance != null);
     const posBlock = i => { const p = c.positions[i.id]; return `<div class="issue-block" id="issue-${esc(i.id)}">
-        <h4>${esc(i.label)} ${stanceChip(p)}</h4>
-        <div class="issue-statement">Statement: "${esc(i.statement)}"</div>
+        <h4>${esc(iLabel(i))} ${stanceChip(p)}</h4>
+        <div class="issue-statement">${T('Statement', 'Afirmación')}: "${esc(iStmt(i))}"</div>
         ${p.summary ? `<p class="issue-summary">${esc(p.summary)}</p>` : ''}
         ${p.quote ? `<blockquote>"${esc(p.quote)}"</blockquote>` : ''}
         ${sourcesHtml(p.sources)}
@@ -507,22 +525,22 @@
           <div class="cand-meta">${partyTag(c)}${c.incumbent ? '<span class="tag badge-incumbent">Incumbent</span>' : ''}${c.withdrawn ? `<span class="tag" style="color:var(--danger)">${esc(withdrawnLabel(c))}</span>` : ''}${c.occupation ? `<span class="tag">${esc(c.occupation)}</span>` : ''}${c.residence ? `<span class="tag">${esc(c.residence)}</span>` : ''}</div>
           <p>${esc(c.background || '')}</p>
           ${c.primary_result ? `<p><strong>How they got on the ballot:</strong> ${esc(c.primary_result)}</p>` : ''}
-          <div class="profile-links">${c.website ? `<a href="${esc(c.website)}" target="_blank" rel="noopener">Campaign website ↗</a>` : ''}${(c.links || []).map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.title)} ↗</a>`).join('')}</div>
+          <div class="profile-links">${c.website ? `<a href="${esc(c.website)}" target="_blank" rel="noopener">${T('Campaign website ↗', 'Sitio de campaña ↗')}</a>` : ''}${(c.links || []).map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.title)} ↗</a>`).join('')}</div>
           ${financeHtml(c, r)}
-          <p class="muted"><small>${c.last_checked ? `Sources last checked ${esc(c.last_checked)}. ` : ''}${reportLink(c.name)}</small></p>
+          <p class="muted"><small>${c.last_checked ? `${T('Sources last checked', 'Fuentes revisadas por última vez el')} ${esc(c.last_checked)}. ` : ''}${reportLink(c.name)}</small></p>
         </div>
       </div>
       <section class="section">
-        <div class="section-head"><h2>Positions on the major issues</h2><a href="#/race/${esc(r.id)}">Compare with opponents →</a></div>
+        <div class="section-head"><h2>${T('Positions on the major issues', 'Posiciones sobre los temas principales')}</h2><a href="#/race/${esc(r.id)}">${T('Compare with opponents →', 'Comparar con los oponentes →')}</a></div>
         <p class="muted">Each entry describes what the candidate has said or done, and what they say they will do, in neutral terms with sources. The chip shows how that relates to the statement voters rate in the matching tool.</p>
         <div class="card">${known.length ? known.map(posBlock).join('') : '<p class="empty">No public positions on the major issues were found.</p>'}</div>
         ${unknown.length ? `<details style="margin-top:12px"><summary>No public position found on ${unknown.length} issue${unknown.length > 1 ? 's' : ''}</summary><p class="muted" style="margin-top:8px">We searched campaign sites, questionnaires, interviews, votes and official actions and did not find a clear stance on: ${unknown.map(i => esc(i.label)).join(', ')}. This is reported as unknown rather than guessed from party affiliation; these issues are excluded from this candidate's match score.</p>${unknown.filter(i => c.positions && c.positions[i.id] && c.positions[i.id].summary && !/No public position found/i.test(c.positions[i.id].summary)).map(i => `<p><strong>${esc(i.label)}:</strong> ${esc(c.positions[i.id].summary)}${sourcesHtml(c.positions[i.id].sources)}</p>`).join('')}</details>` : ''}
         ${allOther.length ? `<details style="margin-top:12px"><summary>Positions on issues outside this office's scope (${allOther.length})</summary><div style="margin-top:8px">${allOther.map(posBlock).join('')}</div></details>` : ''}
       </section>
-      <section class="section"><h2>Other issues this candidate has raised</h2><div class="card">${otherIssuesHtml(c)}</div></section>
-      ${(c.record || []).length ? `<section class="section"><h2>Record: votes, actions and documented facts</h2><div class="card"><ul>${c.record.map(x => `<li>${esc(x.item)}${sourcesHtml(x.sources)}</li>`).join('')}</ul></div></section>` : ''}
-      ${(c.endorsements || []).length ? `<section class="section"><h2>Endorsements (as reported)</h2><div class="card"><ul>${c.endorsements.map(x => `<li>${esc(x.by)}${sourcesHtml(x.sources)}</li>`).join('')}</ul></div></section>` : ''}
-      <div class="btn-row"><a class="btn btn-primary" href="#/match">See how you match with ${esc(c.name.split(' ')[0])} →</a><a class="btn" href="#/race/${esc(r.id)}">Back to race</a></div>`;
+      <section class="section"><h2>${T('Other issues this candidate has raised', 'Otros temas que este candidato ha planteado')}</h2><div class="card">${otherIssuesHtml(c)}</div></section>
+      ${(c.record || []).length ? `<section class="section"><h2>${T('Record: votes, actions and documented facts', 'Historial: votos, acciones y hechos documentados')}</h2><div class="card"><ul>${c.record.map(x => `<li>${esc(x.item)}${sourcesHtml(x.sources)}</li>`).join('')}</ul></div></section>` : ''}
+      ${(c.endorsements || []).length ? `<section class="section"><h2>${T('Endorsements (as reported)', 'Respaldos (según se informa)')}</h2><div class="card"><ul>${c.endorsements.map(x => `<li>${esc(x.by)}${sourcesHtml(x.sources)}</li>`).join('')}</ul></div></section>` : ''}
+      <div class="btn-row"><a class="btn btn-primary" href="#/match">${T('See how you match with', 'Vea su coincidencia con')} ${esc(c.name.split(' ')[0])} →</a><a class="btn" href="#/race/${esc(r.id)}">${T('Back to race', 'Volver a la contienda')}</a></div>`;
   }
 
   /* ---------- Match quiz (swipe cards + live leaderboard) ---------- */
@@ -536,35 +554,35 @@
     const issue = ISSUES[i];
     const a = answers[issue.id] || {};
     const applies = (issue.levels || []).map(l => ({ federal: 'federal', state: 'state', county: 'county' }[l])).join(', ');
-    return `<h1>Match me to the candidates</h1>
-      <p class="lead muted">Swipe right to agree, left to disagree (or use the buttons). The leaderboard updates after every answer. Answers stay in your browser only.</p>
+    return `<h1>${T('Match me to the candidates', 'Compárame con los candidatos')}</h1>
+      <p class="lead muted">${T('Swipe right to agree, left to disagree (or use the buttons). The leaderboard updates after every answer. Answers stay in your browser only.', 'Deslice a la derecha para estar de acuerdo, a la izquierda para estar en desacuerdo (o use los botones). La tabla se actualiza con cada respuesta. Sus respuestas se quedan solo en su navegador.')}</p>${LANG === 'es' ? ES_NOTE : ''}
       <div class="quiz-progress" aria-hidden="true"><span style="width:${Math.round(100 * answered / total)}%"></span></div>
       <div class="quiz-layout">
         <div>
           <div class="swipe-stage">
             ${i < total - 1 ? '<div class="stack-peek" aria-hidden="true"></div>' : ''}
-            <div class="swipe-card" id="swipe-card" tabindex="0" aria-label="Statement ${i + 1} of ${total}">
-              <div class="swipe-stamp stamp-agree">Agree</div><div class="swipe-stamp stamp-disagree">Disagree</div>
-              <div class="eyebrow">${i + 1} of ${total} · ${esc(issue.label)} <span class="muted">· ${esc(applies)} races</span></div>
-              <div class="q-statement">"${esc(issue.statement)}"</div>
-              <div class="importance"><span class="muted">Matters a lot to me?</span>
-                <span class="toggle"><button type="button" data-imp="0" class="${!a.important ? 'selected' : ''}">Normal</button><button type="button" data-imp="1" class="${a.important ? 'selected' : ''}">Double weight</button></span>
+            <div class="swipe-card" id="swipe-card" tabindex="0" aria-label="${T('Statement', 'Afirmación')} ${i + 1} ${T('of', 'de')} ${total}">
+              <div class="swipe-stamp stamp-agree">${T('Agree', 'De acuerdo')}</div><div class="swipe-stamp stamp-disagree">${T('Disagree', 'En desacuerdo')}</div>
+              <div class="eyebrow">${i + 1} ${T('of', 'de')} ${total} · ${esc(iLabel(issue))} <span class="muted">· ${T(esc(applies) + ' races', 'contiendas: ' + esc(applies))}</span></div>
+              <div class="q-statement">"${esc(iStmt(issue))}"</div>
+              <div class="importance"><span class="muted">${T('Matters a lot to me?', '¿Me importa mucho?')}</span>
+                <span class="toggle"><button type="button" data-imp="0" class="${!a.important ? 'selected' : ''}">${T('Normal', 'Normal')}</button><button type="button" data-imp="1" class="${a.important ? 'selected' : ''}">${T('Double weight', 'Doble peso')}</button></span>
               </div>
             </div>
           </div>
-          <div class="swipe-buttons" role="group" aria-label="Your answer">${USER_SCALE.slice().reverse().map(s => `<button type="button" data-answer="${s.v}" class="${a.value === s.v ? 'selected' : ''}">${esc(s.label)}</button>`).join('')}</div>
-          <div class="swipe-hint">Drag the card, press ← / → (hold Shift for "strongly"), or tap a button. Space or ↓ skips.</div>
+          <div class="swipe-buttons" role="group" aria-label="${T('Your answer', 'Su respuesta')}">${USER_SCALE.slice().reverse().map(s => `<button type="button" data-answer="${s.v}" class="${a.value === s.v ? 'selected' : ''}">${esc(T(s.label, s.es))}</button>`).join('')}</div>
+          <div class="swipe-hint">${T('Drag the card, press ← / → (hold Shift for "strongly"), or tap a button. Space or ↓ skips.', 'Arrastre la tarjeta, pulse ← / → (Shift para "muy"), o toque un botón. Espacio o ↓ salta.')}</div>
           <div class="q-nav">
-            <button type="button" class="btn" data-prev="1" ${i === 0 ? 'disabled' : ''}>← Back</button>
-            <div><button type="button" class="btn btn-sm" data-skip="1">Skip</button> <a class="btn btn-primary" href="#/match/results">See full results (${answered})</a></div>
+            <button type="button" class="btn" data-prev="1" ${i === 0 ? 'disabled' : ''}>${T('← Back', '← Atrás')}</button>
+            <div><button type="button" class="btn btn-sm" data-skip="1">${T('Skip', 'Saltar')}</button> <a class="btn btn-primary" href="#/match/results">${T('See full results', 'Ver resultados completos')} (${answered})</a></div>
           </div>
-          <p class="muted" style="margin-top:12px"><button type="button" class="btn btn-sm" data-reset="1">Clear my answers</button></p>
+          <p class="muted" style="margin-top:12px"><button type="button" class="btn btn-sm" data-reset="1">${T('Clear my answers', 'Borrar mis respuestas')}</button></p>
         </div>
         <aside class="leaderboard card" aria-live="polite">
-          <div class="eyebrow">Live leaderboard</div>
+          <div class="eyebrow">${T('Live leaderboard', 'Tabla en vivo')}</div>
           <select class="lb-race" data-lbrace aria-label="Race to show">${lbRaces().map(r => `<option value="${esc(r.id)}" ${(lbRace || lbRaces()[0].id) === r.id ? 'selected' : ''}>${esc(r.title)}</option>`).join('')}</select>
           <div data-lbrows>${leaderboardRows(lbRace || lbRaces()[0].id, answers)}</div>
-          <p class="lb-sub" style="margin-top:10px">Scores use only issues that apply to this office and that the candidate has a documented position on. "—" means fewer than three scorable issues so far.</p>
+          <p class="lb-sub" style="margin-top:10px">${T('Scores use only issues that apply to this office and that the candidate has a documented position on. "—" means fewer than three scorable issues so far.', 'Los puntajes usan solo los temas que aplican a este cargo y sobre los que el candidato tiene una posición documentada. "—" significa menos de tres temas puntuables hasta ahora.')}</p>
         </aside>
       </div>`;
   }
@@ -616,7 +634,7 @@
   function viewResults() {
     const answers = loadAnswers();
     const answered = Object.values(answers).filter(a => a && a.value != null).length;
-    if (!answered) return `<h1>Your matches</h1><p class="notice">You have not answered any statements yet.</p><div class="btn-row"><a class="btn btn-primary" href="#/match">Start the questionnaire →</a></div>`;
+    if (!answered) return `<h1>${T('Your matches', 'Sus coincidencias')}</h1><p class="notice">${T('You have not answered any statements yet.', 'Todavía no ha respondido ninguna afirmación.')}</p><div class="btn-row"><a class="btn btn-primary" href="#/match">${T('Start the questionnaire →', 'Comenzar el cuestionario →')}</a></div>`;
     const prof = loadProfile();
     const scope = ballotRaces(prof).filter(r => (r.candidates || []).some(c => !c.withdrawn));
     const sections = scope.map(r => {
@@ -629,15 +647,15 @@
           ${avatar(s.cand)}
           <div>
             <div><a href="#/candidate/${esc(s.cand.id)}"><strong>${esc(s.cand.name)}</strong></a> ${partyTag(s.cand)}</div>
-            ${s.pct == null || s.used < 3 ? `<div class="match-detail">Not enough documented positions to score (${s.used} of the ${answeredHere} statements you answered for this office).</div>` : `<div class="match-bar"><span style="width:${s.pct}%"></span></div><div class="match-detail">Based on ${s.used} of ${answeredHere} statements you answered that apply to this office.${s.used < answeredHere ? ' Issues without a documented position are left out.' : ''}</div>
-            <div class="pill-row">${s.agree.slice(0, 6).map(i => `<span class="pill agree">✓ ${esc(i.label)}</span>`).join('')}${s.disagree.slice(0, 6).map(i => `<span class="pill disagree">✕ ${esc(i.label)}</span>`).join('')}</div>`}
+            ${s.pct == null || s.used < 3 ? `<div class="match-detail">${T(`Not enough documented positions to score (${s.used} of the ${answeredHere} statements you answered for this office).`, `No hay suficientes posiciones documentadas para puntuar (${s.used} de las ${answeredHere} afirmaciones que respondió para este cargo).`)}</div>` : `<div class="match-bar"><span style="width:${s.pct}%"></span></div><div class="match-detail">${T(`Based on ${s.used} of ${answeredHere} statements you answered that apply to this office.`, `Basado en ${s.used} de las ${answeredHere} afirmaciones que respondió y que aplican a este cargo.`)}${s.used < answeredHere ? T(' Issues without a documented position are left out.', ' Se omiten los temas sin posición documentada.') : ''}</div>
+            <div class="pill-row">${s.agree.slice(0, 6).map(i => `<span class="pill agree">✓ ${esc(iLabel(i))}</span>`).join('')}${s.disagree.slice(0, 6).map(i => `<span class="pill disagree">✕ ${esc(iLabel(i))}</span>`).join('')}</div>`}
           </div>
           <div class="match-pct">${s.pct == null || s.used < 3 ? '—' : s.pct + '%'}</div>
         </div>`).join('')}
       </div>`;
     });
-    return `<h1>Your matches</h1>
-      <p class="lead muted">Higher percentages mean a candidate's documented positions are closer to your answers on the issues that apply to that office. Percentages are only as good as the public record: a candidate who has said little will match on fewer issues, and that is shown under each name. Read the full profiles before deciding.</p>
+    return `<h1>${T('Your matches', 'Sus coincidencias')}</h1>
+      <p class="lead muted">${T("Higher percentages mean a candidate's documented positions are closer to your answers on the issues that apply to that office. Percentages are only as good as the public record: a candidate who has said little will match on fewer issues, and that is shown under each name. Read the full profiles before deciding.", 'Un porcentaje más alto significa que las posiciones documentadas del candidato están más cerca de sus respuestas en los temas que aplican a ese cargo. Los porcentajes valen tanto como el registro público: un candidato que ha dicho poco coincidirá en menos temas, y eso se muestra bajo cada nombre. Lea los perfiles completos antes de decidir.')}</p>${LANG === 'es' ? ES_NOTE : ''}
       ${prof ? `<p class="muted"><small>Scored for ${esc(profileSummary(prof))}. <a href="#/where">Change where you vote</a></small></p>` : `<p class="notice">Showing statewide races only. <a href="#/where">Enter where you vote</a> to score your congressional, legislative and county races too.</p>`}
       <div class="btn-row"><a class="btn" href="#/match">Change my answers</a><button type="button" class="btn" data-print="1">Print or save as PDF</button></div>
       <section class="section"><h2>You on the map</h2><p class="muted">Your star is placed from your answers using the same formula as the candidates. Use the buttons to show one race at a time.</p>
@@ -875,6 +893,8 @@
   document.addEventListener('DOMContentLoaded', () => {
     $('#nav-toggle').addEventListener('click', () => { const n = $('#site-nav'); const open = n.classList.toggle('open'); $('#nav-toggle').setAttribute('aria-expanded', String(open)); });
     const dd = $('#data-date'); if (dd) dd.textContent = DATA.generated_at || 'September 2026';
+    applyChrome();
+    const lt = document.getElementById('lang-toggle'); if (lt) lt.addEventListener('click', () => setLang(LANG === 'es' ? 'en' : 'es'));
     lastHash = location.hash; route();
   });
 })();
