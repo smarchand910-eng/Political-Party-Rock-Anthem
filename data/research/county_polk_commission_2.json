@@ -352,7 +352,10 @@
           "title": "Polk County Sample Ballot 2026",
           "url": "https://theballotbrief.com/state/florida/polk-county"
         }
-      ]
+      ],
+      "withdrawn": "Defeated in the Aug. 18, 2026 primary (Florida Division of Elections, 2026 general election candidate list)"
     }
-  ]
+  ],
+  "on_november_ballot": false,
+  "decided_note": "Rick Wilson (R) is listed as unopposed by the Florida Division of Elections after defeating Kelly Quinn in the Aug. 18 Republican primary; he is elected without appearing on the November ballot. Source: https://dos.elections.myflorida.com/candidates/CanList.asp"
 }

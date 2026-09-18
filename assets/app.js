@@ -75,6 +75,8 @@
     return `<span class="stance stance-${key}">${STANCE_LABEL[key]}${conf}</span>`;
   }
   function issuesForLevel(level) { return ISSUES.filter(i => (i.levels || []).includes(level)); }
+  function withdrawnLabel(c) { const w = c.withdrawn; if (w === true || !w) return 'Withdrew'; const s = String(w).replace(/\s*\((Florida Division of Elections|VoterFocus)[^)]*\)\s*$/, ''); return /^(Withdrew|Defeated|Did not|Removed|Deceased|Not )/.test(s) ? s : 'Withdrew ' + s; }
+
   function partyTag(c) { return `<span class="tag tag-party ${partyClass(c.party)}">${esc(c.party || 'No Party Affiliation')}</span>`; }
 
   /* ---------- storage ---------- */
@@ -426,7 +428,7 @@
       ${coverageNote(r)}
       ${r.verified_ballot_note ? `<details class="notice" style="border-radius:0 var(--radius-sm) var(--radius-sm) 0"><summary>How we verified who is on the ballot</summary><p style="margin:8px 0 0">${esc(r.verified_ballot_note)}</p>${sourcesHtml(r.verified_ballot_sources)}</details>` : ''}
       <div class="btn-row"><a class="btn btn-primary" href="#/match">See how you match in this race →</a></div>
-      <section class="section"><h2>Candidates</h2>${cands.some(c => c.withdrawn) ? '<p class="notice notice-warn">A candidate marked "Withdrew" ended their campaign after qualifying. Their name may still be printed on the ballot; votes for a withdrawn candidate are not counted. They are excluded from match results.</p>' : ''}<div class="stack">${cands.map(c => candidateCard(c)).join('')}</div></section>
+      <section class="section"><h2>Candidates</h2>${cands.some(c => c.withdrawn) ? '<p class="notice notice-warn">Candidates marked "Withdrew", "Defeated in the primary" or "Did not qualify" are not running in November, according to the Florida Division of Elections candidate list. A name may still be printed on the ballot if the withdrawal came late; such votes are not counted. They are excluded from match results.</p>' : ''}<div class="stack">${cands.map(c => candidateCard(c)).join('')}</div></section>
       <section class="section">
         <div class="section-head"><h2>Side-by-side on the major issues</h2></div>
         ${heatStrip(r, cands, issues)}
@@ -458,7 +460,7 @@
       <a href="#/candidate/${esc(c.id)}" aria-label="${esc(c.name)} profile">${avatar(c, 'lg')}</a>
       <div>
         <h3><a href="#/candidate/${esc(c.id)}">${esc(c.name)}</a>${c.running_mate ? ` <small class="muted">with ${esc(c.running_mate)}</small>` : ''}</h3>
-        <div class="cand-meta">${partyTag(c)}${c.incumbent ? '<span class="tag badge-incumbent">Incumbent</span>' : ''}${c.withdrawn ? `<span class="tag" style="color:var(--danger)">Withdrew ${esc(c.withdrawn === true ? '' : c.withdrawn)}</span>` : ''}${coverage(c)}${c.occupation ? `<span class="muted">${esc(c.occupation)}</span>` : ''}</div>
+        <div class="cand-meta">${partyTag(c)}${c.incumbent ? '<span class="tag badge-incumbent">Incumbent</span>' : ''}${c.withdrawn ? `<span class="tag" style="color:var(--danger)">${esc(withdrawnLabel(c))}</span>` : ''}${coverage(c)}${c.occupation ? `<span class="muted">${esc(c.occupation)}</span>` : ''}</div>
         <p>${esc(truncate(c.background || '', 320))}</p>
         <div class="btn-row" style="margin-top:8px"><a class="btn btn-sm" href="#/candidate/${esc(c.id)}">Full profile</a>${c.website ? `<a class="btn btn-sm" href="${esc(c.website)}" target="_blank" rel="noopener">Campaign site ↗</a>` : ''}</div>
       </div>
@@ -493,7 +495,7 @@
           <span class="tag tag-level">${esc(r.title)}</span>
           <h1 style="margin-top:8px">${esc(c.name)}</h1>
           ${c.running_mate ? `<p class="muted">Running mate: ${esc(c.running_mate)}</p>` : ''}
-          <div class="cand-meta">${partyTag(c)}${c.incumbent ? '<span class="tag badge-incumbent">Incumbent</span>' : ''}${c.withdrawn ? `<span class="tag" style="color:var(--danger)">Withdrew ${esc(c.withdrawn === true ? '' : c.withdrawn)}</span>` : ''}${c.occupation ? `<span class="tag">${esc(c.occupation)}</span>` : ''}${c.residence ? `<span class="tag">${esc(c.residence)}</span>` : ''}</div>
+          <div class="cand-meta">${partyTag(c)}${c.incumbent ? '<span class="tag badge-incumbent">Incumbent</span>' : ''}${c.withdrawn ? `<span class="tag" style="color:var(--danger)">${esc(withdrawnLabel(c))}</span>` : ''}${c.occupation ? `<span class="tag">${esc(c.occupation)}</span>` : ''}${c.residence ? `<span class="tag">${esc(c.residence)}</span>` : ''}</div>
           <p>${esc(c.background || '')}</p>
           ${c.primary_result ? `<p><strong>How they got on the ballot:</strong> ${esc(c.primary_result)}</p>` : ''}
           <div class="profile-links">${c.website ? `<a href="${esc(c.website)}" target="_blank" rel="noopener">Campaign website ↗</a>` : ''}${(c.links || []).map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.title)} ↗</a>`).join('')}</div>

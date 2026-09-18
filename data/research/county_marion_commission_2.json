@@ -360,7 +360,10 @@
           "title": "Marion County Commission District 2 race update",
           "url": "https://www.ocalagazette.com/marion-county-commission-district-2-race-update/"
         }
-      ]
+      ],
+      "withdrawn": "Withdrew after qualifying (Florida Division of Elections, 2026 general election candidate list)"
     }
-  ]
+  ],
+  "on_november_ballot": false,
+  "decided_note": "Mike Crimi (R) won the Aug. 18 Republican primary and is listed as unopposed by the Florida Division of Elections after write-in candidate Mark Okus withdrew; he is elected without appearing on the November ballot. Source: https://dos.elections.myflorida.com/candidates/CanList.asp"
 }

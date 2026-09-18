@@ -186,6 +186,31 @@
           "url": "https://www.rnews.news/story/2026/08/17/news/hernando-county-primary-results-champion-edges-duval-by-3-votes-holcomb-prevails/1343.html"
         }
       ]
+    },
+    {
+      "id": "donald_bigelow",
+      "name": "Donald Bigelow",
+      "party": "Write-in",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
+      "residence": null,
+      "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "primary_result": null,
+      "ballot_status": "verified",
+      "roster_sources": [
+        {
+          "title": "Florida Division of Elections, 2026 general election candidate list",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-09-18"
+        }
+      ],
+      "positions": {},
+      "other_issues": [],
+      "record": [],
+      "endorsements": []
     }
   ]
 }

@@ -331,7 +331,8 @@
           "url": "https://oviedocommunitynews.org/2026/06/17/whos-on-the-seminole-county-primary-ballot-for-2026/",
           "date": "2026-06-17"
         }
-      ]
+      ],
+      "withdrawn": "Defeated in the Aug. 18, 2026 primary (Florida Division of Elections, 2026 general election candidate list)"
     },
     {
       "id": "michelle_dejesus",
@@ -489,7 +490,33 @@
           "url": "https://oviedocommunitynews.org/2026/06/17/whos-on-the-seminole-county-primary-ballot-for-2026/",
           "date": "2026-06-17"
         }
-      ]
+      ],
+      "withdrawn": "Withdrew after qualifying (Florida Division of Elections, 2026 general election candidate list)"
+    },
+    {
+      "id": "nik_dean",
+      "name": "Nik Dean",
+      "party": "Democratic",
+      "incumbent": false,
+      "photo_url": null,
+      "photo_source": null,
+      "website": null,
+      "occupation": null,
+      "residence": null,
+      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "primary_result": null,
+      "ballot_status": "verified",
+      "roster_sources": [
+        {
+          "title": "Florida Division of Elections, 2026 general election candidate list",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-09-18"
+        }
+      ],
+      "positions": {},
+      "other_issues": [],
+      "record": [],
+      "endorsements": []
     }
   ]
 }

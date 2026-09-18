@@ -356,7 +356,10 @@
           "title": "2026 Voter's Guide - Brevard County Commission District 4 Republican primary",
           "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-commission-district-4-republican-primary/"
         }
-      ]
+      ],
+      "withdrawn": "Withdrew after qualifying (Florida Division of Elections, 2026 general election candidate list)"
     }
-  ]
+  ],
+  "on_november_ballot": false,
+  "decided_note": "Rob Feltner (R) is listed as unopposed by the Florida Division of Elections after write-in candidate Cheyenne Brady-Mogle withdrew; an unopposed candidate is elected without appearing on the ballot. Source: https://dos.elections.myflorida.com/candidates/CanList.asp"
 }
