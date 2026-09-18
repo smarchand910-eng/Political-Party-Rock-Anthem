@@ -23,6 +23,15 @@ jobs:
           python3 scripts/check_ballot_changes.py /tmp/new_extract.json > /tmp/report.md
           echo "changed=$?" >> "$GITHUB_OUTPUT"
           cat /tmp/report.md
+      - name: Build county line-ups (needed for the early-voting check)
+        run: python3 scripts/build_statewide.py
+      - name: Collect each county's early-voting page for review
+        run: python3 scripts/fetch_early_voting.py /tmp/early_voting_review.json || true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: early-voting-review
+          path: /tmp/early_voting_review.json
+          if-no-files-found: ignore
       - name: Open an issue when statuses changed
         if: steps.cmp.outputs.changed == '1'
         env:

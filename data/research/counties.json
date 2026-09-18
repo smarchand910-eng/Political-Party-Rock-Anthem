@@ -2,7 +2,8 @@
   "_meta": {
     "generated": "2026-09-17",
     "method": "Compiled from WebSearch snippets only (direct fetch of dos.fl.gov and county sites blocked). Supervisor names come from snippets of the state directory and may be dated.",
-    "directory_url": "https://dos.fl.gov/elections/contacts/supervisor-of-elections/"
+    "directory_url": "https://dos.fl.gov/elections/contacts/supervisor-of-elections/",
+    "early_voting_note": "early_voting fields: dates/hours/sites_url read from each county Supervisor of Elections early-voting page (scripts/fetch_early_voting.py produces a review file; entries were checked by hand against the page text on Sept. 18, 2026). The Division of Elections posts the statewide list after Oct. 4, 2026."
   },
   "counties": {
     "Alachua": {
@@ -10,63 +11,117 @@
       "soe_url": "https://www.votealachua.gov/",
       "sample_ballot_url": null,
       "county_seat": "Gainesville",
-      "notes": "URL seen in search result (votealachua.gov/325/File-to-Run-in-2026). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (votealachua.gov/325/File-to-Run-in-2026). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "9 a.m.–6 p.m. daily",
+        "sites_url": "https://www.votealachua.gov/213/Early-Voting",
+        "note": "From the Alachua County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Baker": {
       "soe_name": "Baker County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Macclenny",
-      "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://votebakerfl.gov/early-voting/",
+        "note": "General Election early-voting dates and hours had not been posted on the Baker County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "Bay": {
       "soe_name": "Bay County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Panama City",
-      "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": null,
+        "sites_url": "https://www.bayvotesfl.gov/voters/vote-early/",
+        "note": "From the Bay County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go. Daily hours were not yet posted when checked."
+      }
     },
     "Bradford": {
       "soe_name": "Bradford County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Starke",
-      "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "9 a.m.–6 p.m.",
+        "sites_url": "https://www.votebradfordfl.gov/election/early_voting.php",
+        "note": "From the Bradford County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Brevard": {
       "soe_name": "Brevard County Supervisor of Elections",
       "soe_url": "https://www.votebrevard.gov/",
       "sample_ballot_url": null,
       "county_seat": "Titusville",
-      "notes": "URL seen in search result (votebrevard.gov/Candidate-Information/2026-Candidates). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (votebrevard.gov/Candidate-Information/2026-Candidates). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": "Mon–Fri 8 a.m.–6 p.m.; Sat–Sun 8 a.m.–4 p.m.",
+        "sites_url": "https://www.votebrevard.gov/Election-Information/Early-Voting",
+        "note": "From the Brevard County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Broward": {
       "soe_name": "Broward County Supervisor of Elections",
       "soe_url": "https://browardvotes.gov/",
       "sample_ballot_url": null,
       "county_seat": "Fort Lauderdale",
-      "notes": "URL seen in search result (browardvotes.gov/candidates). Supervisor: Joe Scott (Axios, Aug 2026). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (browardvotes.gov/candidates). Supervisor: Joe Scott (Axios, Aug 2026). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "7 a.m.–7 p.m.",
+        "sites_url": "https://browardvotes.gov/voters/early-voting-ballot-return",
+        "note": "From the Broward County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Calhoun": {
       "soe_name": "Calhoun County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Blountstown",
-      "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://votecalhounfl.gov/ways-to-vote/early-voting/",
+        "note": "General Election early-voting dates and hours had not been posted on the Calhoun County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "Charlotte": {
       "soe_name": "Charlotte County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Punta Gorda",
-      "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": "7 a.m.–7 p.m.",
+        "sites_url": "https://www.soecharlottecountyfl.gov/Calendar.aspx?EID=338",
+        "note": "From the Charlotte County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Citrus": {
       "soe_name": "Citrus County Supervisor of Elections",
       "soe_url": "https://www.votecitrus.gov/",
       "sample_ballot_url": null,
       "county_seat": "Inverness",
-      "notes": "URL seen in search result (votecitrus.gov). 2026 offices page: https://www.votecitrus.gov/188/2026-Offices-Up-for-Election Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (votecitrus.gov). 2026 offices page: https://www.votecitrus.gov/188/2026-Offices-Up-for-Election Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Thu Oct 22 – Sat Oct 31, 2026 (includes weekends)",
+        "hours": "9 a.m.–6 p.m.",
+        "sites_url": "https://www.votecitrus.gov/238/2026-Early-Voting-Sites-Schedule",
+        "note": "From the Citrus County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Clay": {
       "soe_name": "Clay County Supervisor of Elections",
@@ -76,9 +131,9 @@
       "notes": "Domain ClayElections.gov listed in a search snippet of the state directory; not independently verified. Supervisor: Chris H. Chambless. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Fri Oct 23 – Sat Oct 31, 2026",
-        "hours": "9 a.m.–6 p.m. daily at all seven sites",
-        "sites_url": "https://clayelections.gov/event/early-voting-for-the-general-election-2/",
-        "note": "From the Clay County Supervisor of Elections calendar (Sept. 2026); confirm sites before you go."
+        "hours": "9 a.m.–6 p.m. daily at all 7 sites",
+        "sites_url": "https://clayelections.gov/election-information/early-voting-sites/",
+        "note": "From the Clay County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
       }
     },
     "Collier": {
@@ -86,28 +141,52 @@
       "soe_url": "https://www.colliervotes.gov/",
       "sample_ballot_url": null,
       "county_seat": "Naples (East Naples)",
-      "notes": "URL seen in search result (colliervotes.gov/m/newsflash/home/detail/105). Supervisor: Melissa Blazier. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (colliervotes.gov/m/newsflash/home/detail/105). Supervisor: Melissa Blazier. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Thu Oct 22 – Sat Oct 31, 2026",
+        "hours": "9 a.m.–6 p.m.",
+        "sites_url": "https://www.colliervotes.gov/202/Vote-Early",
+        "note": "From the Collier County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Columbia": {
       "soe_name": "Columbia County Supervisor of Elections",
       "soe_url": "https://www.votecolumbiafl.gov/",
       "sample_ballot_url": null,
       "county_seat": "Lake City",
-      "notes": "Domain VoteColumbiaFL.gov listed in a search snippet of the state directory; not independently verified. Supervisor: Tomi Stinson Brown. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "Domain VoteColumbiaFL.gov listed in a search snippet of the state directory; not independently verified. Supervisor: Tomi Stinson Brown. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": "8:30 a.m.–6:30 p.m. (6 p.m. in Fort White)",
+        "sites_url": "https://www.votecolumbiafl.gov/voter_information/early_voting.php",
+        "note": "From the Columbia County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "DeSoto": {
       "soe_name": "DeSoto County Supervisor of Elections",
       "soe_url": "https://www.votedesoto.com/",
       "sample_ballot_url": null,
       "county_seat": "Arcadia",
-      "notes": "Domain VoteDeSoto.com listed in a search snippet of the state directory; not independently verified. Supervisor: Debbie Wertz. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "Domain VoteDeSoto.com listed in a search snippet of the state directory; not independently verified. Supervisor: Debbie Wertz. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Thu Oct 22 – Sat Oct 31, 2026",
+        "hours": "8 a.m.–5 p.m.",
+        "sites_url": "https://votedesotofl.gov/voter-information/how-to-vote/early-voting/",
+        "note": "From the DeSoto County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Dixie": {
       "soe_name": "Dixie County Supervisor of Elections",
       "soe_url": "https://www.dixievotes.com/",
       "sample_ballot_url": null,
       "county_seat": "Cross City",
-      "notes": "Domain DixieVotes.com listed in a search snippet of the state directory; not independently verified. Supervisor: Darbi Chaires. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "Domain DixieVotes.com listed in a search snippet of the state directory; not independently verified. Supervisor: Darbi Chaires. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Thu Oct 22 – Sat Oct 31, 2026",
+        "hours": "Mon–Sat 8 a.m.–6 p.m.; Sun 8 a.m.–4 p.m.",
+        "sites_url": "https://dixievotes.gov/election-information/early-voting/",
+        "note": "From the Dixie County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Duval": {
       "soe_name": "Duval County Supervisor of Elections",
@@ -116,10 +195,10 @@
       "county_seat": "Jacksonville",
       "notes": "Snippet listed 'DuvalElections.com'; current domain uncertain (may be duvalelections.gov) so left null. Supervisor: Jerry Holland. Duval is consolidated with the City of Jacksonville (no county commission; City Council instead). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Sat Oct 24 – Sun Nov 1, 2026",
-        "hours": "Oct 24–25 and Oct 31–Nov 1: 9 a.m.–5 p.m.; Oct 26–30: 7 a.m.–7 p.m.",
+        "dates": "Tue Oct 20 – Sun Nov 1, 2026",
+        "hours": "Oct 20–23: 8 a.m.–6 p.m.; Oct 24–25 and Oct 31–Nov 1: 9 a.m.–5 p.m.; Oct 26–30: 7 a.m.–7 p.m.",
         "sites_url": "https://www.duvalelections.gov/236/Early-Voting",
-        "note": "From the Duval County Supervisor of Elections early-voting page (Sept. 2026); confirm sites before you go."
+        "note": "From the Duval County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
       }
     },
     "Escambia": {
@@ -127,14 +206,26 @@
       "soe_url": "https://www.escambiavotes.gov/",
       "sample_ballot_url": null,
       "county_seat": "Pensacola",
-      "notes": "Domain EscambiaVotes.gov listed in a search snippet of the state directory; not independently verified. Supervisor: Robert Bender. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "Domain EscambiaVotes.gov listed in a search snippet of the state directory; not independently verified. Supervisor: Robert Bender. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": "8 a.m.–6 p.m.",
+        "sites_url": "https://escambiavotes.gov/early-voting-locations",
+        "note": "From the Escambia County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Flagler": {
       "soe_name": "Flagler County Supervisor of Elections",
       "soe_url": "https://www.flaglerelections.com/",
       "sample_ballot_url": null,
       "county_seat": "Bunnell",
-      "notes": "Domain FlaglerElections.com listed in a search snippet of the state directory; not independently verified. Supervisor: Kaiti Lenhart. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "Domain FlaglerElections.com listed in a search snippet of the state directory; not independently verified. Supervisor: Kaiti Lenhart. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://www.flaglerelections.gov/Voters/Early-Voting",
+        "note": "General Election early-voting dates and hours had not been posted on the Flagler County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "Franklin": {
       "soe_name": "Franklin County Supervisor of Elections",
@@ -148,133 +239,247 @@
       "soe_url": "https://votegadsdenfl.gov/",
       "sample_ballot_url": null,
       "county_seat": "Quincy",
-      "notes": "URL seen in search result (votegadsdenfl.gov). Supervisor: Kenya Williams. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (votegadsdenfl.gov). Supervisor: Kenya Williams. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": null,
+        "sites_url": "https://votegadsdenfl.gov/election-info/early-voting/",
+        "note": "From the Gadsden County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go. Daily hours were not yet posted when checked."
+      }
     },
     "Gilchrist": {
       "soe_name": "Gilchrist County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Trenton",
-      "notes": "An older directory snippet listed votegilchrist.com; not confident it is current. Supervisor: Lisa Darus. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "An older directory snippet listed votegilchrist.com; not confident it is current. Supervisor: Lisa Darus. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://www.votegilchrist.com/information_for_voters/early_voting.php",
+        "note": "General Election early-voting dates and hours had not been posted on the Gilchrist County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "Glades": {
       "soe_name": "Glades County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Moore Haven",
-      "notes": "An older directory snippet listed voteglades.com; not confident it is current. Supervisor: Aletris Farnam. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "An older directory snippet listed voteglades.com; not confident it is current. Supervisor: Aletris Farnam. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": "8:30 a.m.–4:30 p.m.",
+        "sites_url": "https://voteglades.gov/voting-info/early-voting/",
+        "note": "From the Glades County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Gulf": {
       "soe_name": "Gulf County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Port St. Joe",
-      "notes": "An older directory snippet listed votegulf.com; not confident it is current. Supervisor: Rhonda Pierce. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "An older directory snippet listed votegulf.com; not confident it is current. Supervisor: Rhonda Pierce. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": null,
+        "sites_url": "https://votegulf.gov/voters/early-voting/",
+        "note": "From the Gulf County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go. Daily hours were not yet posted when checked."
+      }
     },
     "Hamilton": {
       "soe_name": "Hamilton County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Jasper",
-      "notes": "An older directory snippet listed hamiltonvotes.com; not confident it is current. Supervisor: Laura Hutto. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "An older directory snippet listed hamiltonvotes.com; not confident it is current. Supervisor: Laura Hutto. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": "9 a.m.–5 p.m.",
+        "sites_url": "https://www.hamiltonvotesFL.gov/voters/vote-early/",
+        "note": "From the Hamilton County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Hardee": {
       "soe_name": "Hardee County Supervisor of Elections",
       "soe_url": "https://hardeeflvotes.gov/",
       "sample_ballot_url": null,
       "county_seat": "Wauchula",
-      "notes": "URL seen in search result (hardeeflvotes.gov). Supervisor: Diane Smith. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (hardeeflvotes.gov). Supervisor: Diane Smith. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://hardeeflvotes.gov/",
+        "note": "General Election early-voting dates and hours had not been posted on the Hardee County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "Hendry": {
       "soe_name": "Hendry County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "LaBelle",
-      "notes": "An older directory snippet listed hendryelections.org; not confident it is current. Supervisor: Sherry Taylor. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "An older directory snippet listed hendryelections.org; not confident it is current. Supervisor: Sherry Taylor. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": "9 a.m.–6 p.m. daily",
+        "sites_url": "https://www.hendryelections.gov/elections/early_voting.php",
+        "note": "From the Hendry County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Hernando": {
       "soe_name": "Hernando County Supervisor of Elections",
       "soe_url": "https://www.hernandovotes.gov/",
       "sample_ballot_url": null,
       "county_seat": "Brooksville",
-      "notes": "URL seen in search result (hernandovotes.gov). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (hernandovotes.gov). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://www.hernandovotes.gov/Voters/Early-Voting",
+        "note": "General Election early-voting dates and hours had not been posted on the Hernando County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "Highlands": {
       "soe_name": "Highlands County Supervisor of Elections",
       "soe_url": "https://www.votehighlands.gov/",
       "sample_ballot_url": null,
       "county_seat": "Sebring",
-      "notes": "URL listed in search snippet. Supervisor: Karen Healy. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL listed in search snippet. Supervisor: Karen Healy. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://www.votehighlands.gov/early-voting",
+        "note": "General Election early-voting dates and hours had not been posted on the Highlands County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "Hillsborough": {
       "soe_name": "Hillsborough County Supervisor of Elections",
       "soe_url": "https://www.votehillsborough.gov/",
       "sample_ballot_url": null,
       "county_seat": "Tampa",
-      "notes": "URL seen in search result (votehillsborough.gov). Supervisor: Craig Latimer. 'On the Ballot' page: https://www.votehillsborough.gov/180/On-the-Ballot Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (votehillsborough.gov). Supervisor: Craig Latimer. 'On the Ballot' page: https://www.votehillsborough.gov/180/On-the-Ballot Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://www.votehillsborough.gov/VOTERS/Early-Voting",
+        "note": "General Election early-voting dates and hours had not been posted on the Hillsborough County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "Holmes": {
       "soe_name": "Holmes County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Bonifay",
-      "notes": "No SOE URL seen in search results. Supervisor: H. Russell 'Rusty' Williams. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Supervisor: H. Russell 'Rusty' Williams. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": "8 a.m.–4 p.m.",
+        "sites_url": "https://holmeselectionsfl.gov/voter-information/3-ways-to-vote/#early",
+        "note": "From the Holmes County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Indian River": {
       "soe_name": "Indian River County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Vero Beach",
-      "notes": "No SOE URL seen in search results. Supervisor: Leslie Rossway Swan. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Supervisor: Leslie Rossway Swan. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": "8 a.m.–4 p.m. (Thursdays to 6 p.m.)",
+        "sites_url": "https://www.voteindianriver.gov/election_information/early_voting_information.php",
+        "note": "From the Indian River County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Jackson": {
       "soe_name": "Jackson County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Marianna",
-      "notes": "No SOE URL seen in search results. Supervisor: Carol A. Dunaway. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Supervisor: Carol A. Dunaway. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Thu Oct 22 – Sat Oct 31, 2026",
+        "hours": "8 a.m.–5:30 p.m.",
+        "sites_url": "https://votejacksonfl.gov/event/early-voting-for-general-election/",
+        "note": "From the Jackson County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Jefferson": {
       "soe_name": "Jefferson County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Monticello",
-      "notes": "No SOE URL seen in search results. Supervisor: Michelle Milligan. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Supervisor: Michelle Milligan. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": "8 a.m.–5 p.m.",
+        "sites_url": "https://jeffersonvotesfl.gov/vote-early/",
+        "note": "From the Jefferson County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Lafayette": {
       "soe_name": "Lafayette County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Mayo",
-      "notes": "No SOE URL seen in search results. Supervisor: Travis Hart. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Supervisor: Travis Hart. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": "8:30 a.m.–4:30 p.m.",
+        "sites_url": "https://lafayettevotes.net/early-voting/",
+        "note": "From the Lafayette County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Lake": {
       "soe_name": "Lake County Supervisor of Elections",
       "soe_url": "https://www.lakevotes.gov/",
       "sample_ballot_url": null,
       "county_seat": "Tavares",
-      "notes": "URL seen in search result (lakevotes.gov). Supervisor: Alan Hays. Candidates page: https://www.lakevotes.gov/190/Current-County-Candidates-Committees Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (lakevotes.gov). Supervisor: Alan Hays. Candidates page: https://www.lakevotes.gov/190/Current-County-Candidates-Committees Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://www.lakevotes.gov/Voters/Early-Voting",
+        "note": "General Election early-voting dates and hours had not been posted on the Lake County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "Lee": {
       "soe_name": "Lee County Supervisor of Elections",
       "soe_url": "https://www.lee.vote/",
       "sample_ballot_url": null,
       "county_seat": "Fort Myers",
-      "notes": "URL seen in search result (lee.vote/246/Offices-to-Be-Elected). Supervisor: Jenna Persons-Mulicka. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (lee.vote/246/Offices-to-Be-Elected). Supervisor: Jenna Persons-Mulicka. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": "10 a.m.–6 p.m. daily",
+        "sites_url": "https://www.lee.vote/229/Early-Voting-Dates-and-Locations",
+        "note": "From the Lee County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Leon": {
       "soe_name": "Leon County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Tallahassee",
-      "notes": "No SOE URL seen in search results. Supervisor: Mark Earley. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Supervisor: Mark Earley. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://www.leonvotes.gov/Voters/Early-Voting",
+        "note": "General Election early-voting dates and hours had not been posted on the Leon County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "Levy": {
       "soe_name": "Levy County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Bronson",
-      "notes": "No SOE URL seen in search results. Supervisor: Tammy Jones. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Supervisor: Tammy Jones. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Thu Oct 22 – Sun Nov 1, 2026",
+        "hours": "8 a.m.–5 p.m. daily",
+        "sites_url": "https://www.votelevy.gov/voters/vote-early/",
+        "note": "From the Levy County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Liberty": {
       "soe_name": "Liberty County Supervisor of Elections",
@@ -288,28 +493,52 @@
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Madison",
-      "notes": "No SOE URL seen in search results. Supervisor: Heath Driggers. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Supervisor: Heath Driggers. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": "Mon–Fri 8 a.m.–6 p.m.; Sat–Sun 7 a.m.–3 p.m.",
+        "sites_url": "https://www.votemadison.com/vote-early/",
+        "note": "From the Madison County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Manatee": {
       "soe_name": "Manatee County Supervisor of Elections",
       "soe_url": "https://www.votemanatee.gov/",
       "sample_ballot_url": null,
       "county_seat": "Bradenton",
-      "notes": "URL seen in search result (votemanatee.gov). Supervisor: Scott Farrington. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (votemanatee.gov). Supervisor: Scott Farrington. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "8:30 a.m.–6 p.m. daily",
+        "sites_url": "https://www.votemanatee.gov/early-voting/",
+        "note": "From the Manatee County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Marion": {
       "soe_name": "Marion County Supervisor of Elections",
       "soe_url": "https://www.votemarion.gov/",
       "sample_ballot_url": null,
       "county_seat": "Ocala",
-      "notes": "URL seen in search result (votemarion.gov). Candidates page: https://www.votemarion.gov/210/Candidates Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (votemarion.gov). Candidates page: https://www.votemarion.gov/210/Candidates Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Thu Oct 22 – Sat Oct 31, 2026",
+        "hours": "8 a.m.–6 p.m.",
+        "sites_url": "https://www.votemarion.gov/317/Vote-Early",
+        "note": "From the Marion County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Martin": {
       "soe_name": "Martin County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Stuart",
-      "notes": "No SOE URL seen in search results. Supervisor: Vicki Davis. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Supervisor: Vicki Davis. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Wed Oct 21 – Sat Oct 31, 2026",
+        "hours": "8 a.m.–5 p.m. daily",
+        "sites_url": "https://www.martinvotes.gov/election-information/early-voting/",
+        "note": "From the Martin County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Miami-Dade": {
       "soe_name": "Miami-Dade County Supervisor of Elections",
@@ -330,28 +559,52 @@
       "soe_url": "https://www.votenassaufl.gov/",
       "sample_ballot_url": null,
       "county_seat": "Fernandina Beach",
-      "notes": "Domain VoteNassauFL.gov listed in search snippet; not independently verified. Supervisor: Janet H. Adkins. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "Domain VoteNassauFL.gov listed in search snippet; not independently verified. Supervisor: Janet H. Adkins. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Thu Oct 22 – Sat Oct 31, 2026",
+        "hours": "9 a.m.–6 p.m.",
+        "sites_url": "https://www.votenassaufl.gov/early-voting",
+        "note": "From the Nassau County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Okaloosa": {
       "soe_name": "Okaloosa County Supervisor of Elections",
       "soe_url": "https://www.voteokaloosa.gov/",
       "sample_ballot_url": null,
       "county_seat": "Crestview",
-      "notes": "URL seen in search result (voteokaloosa.gov). Supervisor: Paul A. Lux. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (voteokaloosa.gov). Supervisor: Paul A. Lux. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": "7 a.m.–7 p.m. daily",
+        "sites_url": "https://www.voteokaloosa.gov/voters/vote-early/",
+        "note": "From the Okaloosa County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Okeechobee": {
       "soe_name": "Okeechobee County Supervisor of Elections",
       "soe_url": "https://www.voteokeechobee.gov/",
       "sample_ballot_url": null,
       "county_seat": "Okeechobee",
-      "notes": "Domain VoteOkeechobee.gov listed in search snippet; not independently verified. Supervisor: David May. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "Domain VoteOkeechobee.gov listed in search snippet; not independently verified. Supervisor: David May. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://voteokeechobee.gov/voter-education/early-voting/",
+        "note": "General Election early-voting dates and hours had not been posted on the Okeechobee County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "Orange": {
       "soe_name": "Orange County Supervisor of Elections",
       "soe_url": "https://voteorangefl.gov/",
       "sample_ballot_url": null,
       "county_seat": "Orlando",
-      "notes": "URL seen in search result (voteorangefl.gov). Supervisor: Karen Castor Dentel. Candidate list: https://voteorangefl.gov/current-candidates/candidate-list/ Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (voteorangefl.gov). Supervisor: Karen Castor Dentel. Candidate list: https://voteorangefl.gov/current-candidates/candidate-list/ Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "8 a.m.–8 p.m.",
+        "sites_url": "https://voteorangefl.gov/event/early-voting-general-election/",
+        "note": "From the Orange County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Osceola": {
       "soe_name": "Osceola County Supervisor of Elections",
@@ -365,35 +618,65 @@
       "soe_url": "https://www.votepalmbeach.gov/",
       "sample_ballot_url": null,
       "county_seat": "West Palm Beach",
-      "notes": "URL seen in search result (votepalmbeach.gov). Supervisor: Wendy Sartory Link. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (votepalmbeach.gov). Supervisor: Wendy Sartory Link. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "7 a.m.–7 p.m.",
+        "sites_url": "https://www.votepalmbeach.gov/167/Early-Voting",
+        "note": "From the Palm Beach County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Pasco": {
       "soe_name": "Pasco County Supervisor of Elections",
       "soe_url": "https://www.pascovotes.gov/",
       "sample_ballot_url": null,
       "county_seat": "Dade City",
-      "notes": "URL seen in search result (pascovotes.gov/candidates). Supervisor: Brian E. Corley. Notice of General Election PDF: https://www.pascovotes.gov/Documents/News/2026_nge_pas_english.pdf Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (pascovotes.gov/candidates). Supervisor: Brian E. Corley. Notice of General Election PDF: https://www.pascovotes.gov/Documents/News/2026_nge_pas_english.pdf Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": "7 a.m.–7 p.m.",
+        "sites_url": "https://www.pascovotes.gov/elections/early_voting/early_voting_schedule.php",
+        "note": "From the Pasco County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Pinellas": {
       "soe_name": "Pinellas County Supervisor of Elections",
       "soe_url": "https://www.votepinellas.gov/",
       "sample_ballot_url": null,
       "county_seat": "Clearwater",
-      "notes": "URL seen in search result (votepinellas.gov). Supervisor: Julie Marcus. Nov 3, 2026 info page: https://www.votepinellas.gov/382/November-3-2026-General-Election-Informa Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (votepinellas.gov). Supervisor: Julie Marcus. Nov 3, 2026 info page: https://www.votepinellas.gov/382/November-3-2026-General-Election-Informa Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://www.votepinellas.gov/200/Early-Voting",
+        "note": "General Election early-voting dates and hours had not been posted on the Pinellas County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "Polk": {
       "soe_name": "Polk County Supervisor of Elections",
       "soe_url": "https://www.polkelections.gov/",
       "sample_ballot_url": null,
       "county_seat": "Bartow",
-      "notes": "URL seen in search result (polkelections.gov/31/Candidates). Supervisor: Melony Bell. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (polkelections.gov/31/Candidates). Supervisor: Melony Bell. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://www.polkelections.gov/Voters/Early-Voting",
+        "note": "General Election early-voting dates and hours had not been posted on the Polk County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "Putnam": {
       "soe_name": "Putnam County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Palatka",
-      "notes": "No SOE URL seen in search results. Supervisor: Charles Overturf. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Supervisor: Charles Overturf. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://www.voteputnamflorida.gov/election_information/early_voting.php",
+        "note": "General Election early-voting dates and hours had not been posted on the Putnam County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "St. Johns": {
       "soe_name": "St. Johns County Supervisor of Elections",
@@ -407,28 +690,52 @@
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Fort Pierce",
-      "notes": "No SOE URL seen in search results. Supervisor: Gertrude Walker. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Supervisor: Gertrude Walker. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": "10 a.m.–6 p.m. daily, including Sun Oct 25",
+        "sites_url": "https://www.stlucievotes.gov/public_records/public_notices/early_voting_election_dates.php",
+        "note": "From the St. Lucie County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Santa Rosa": {
       "soe_name": "Santa Rosa County Supervisor of Elections",
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Milton",
-      "notes": "No SOE URL seen in search results. Supervisor: Tappie A. Villane. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Supervisor: Tappie A. Villane. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://votesantarosa.gov/voter-information/how-to-vote/early-voting/",
+        "note": "General Election early-voting dates and hours had not been posted on the Santa Rosa County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "Sarasota": {
       "soe_name": "Sarasota County Supervisor of Elections",
       "soe_url": "https://www.sarasotavotes.gov/",
       "sample_ballot_url": null,
       "county_seat": "Sarasota",
-      "notes": "URL seen in search result (sarasotavotes.gov). Supervisor: Ron Turner. Offices up for election: https://www.sarasotavotes.gov/181/Offices-up-for-Election Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (sarasotavotes.gov). Supervisor: Ron Turner. Offices up for election: https://www.sarasotavotes.gov/181/Offices-up-for-Election Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "8:30 a.m.–6:30 p.m. daily",
+        "sites_url": "https://www.sarasotavotes.gov/171/Early-Voting",
+        "note": "From the Sarasota County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Seminole": {
       "soe_name": "Seminole County Supervisor of Elections",
       "soe_url": "https://voteseminole.gov/",
       "sample_ballot_url": null,
       "county_seat": "Sanford",
-      "notes": "URL seen in search result (voteseminole.gov/elections/upcoming-elections/). Supervisor: Amy Pennock. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (voteseminole.gov/elections/upcoming-elections/). Supervisor: Amy Pennock. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "7 a.m.–7 p.m.",
+        "sites_url": "https://voteseminole.gov/how-to-vote/early-voting/",
+        "note": "From the Seminole County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Sumter": {
       "soe_name": "Sumter County Supervisor of Elections",
@@ -440,7 +747,7 @@
         "dates": "Sat Oct 24 – Sat Oct 31, 2026",
         "hours": "10 a.m.–6 p.m. daily",
         "sites_url": "https://elections.sumtercountyfl.gov/",
-        "note": "From the Sumter County Supervisor of Elections (Sept. 2026)."
+        "note": "From the Sumter County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
       }
     },
     "Suwannee": {
@@ -448,49 +755,91 @@
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Live Oak",
-      "notes": "Snippet listed 'SuwaneeVotes.com' (spelling uncertain), so left null. Supervisor: Jennifer Musgrove Kinsey. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "Snippet listed 'SuwaneeVotes.com' (spelling uncertain), so left null. Supervisor: Jennifer Musgrove Kinsey. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": "8:30 a.m.–5 p.m.",
+        "sites_url": "https://www.suwanneevotes.com/vote-early/",
+        "note": "From the Suwannee County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Taylor": {
       "soe_name": "Taylor County Supervisor of Elections",
       "soe_url": "https://www.taylorelectionsfl.gov/",
       "sample_ballot_url": null,
       "county_seat": "Perry",
-      "notes": "URL seen in search result (taylorelectionsfl.gov). Supervisor: Dana Southerland. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (taylorelectionsfl.gov). Supervisor: Dana Southerland. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": "8 a.m.–5 p.m.",
+        "sites_url": "https://www.taylorelectionsfl.gov/early-voting/",
+        "note": "From the Taylor County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Union": {
       "soe_name": "Union County Supervisor of Elections",
       "soe_url": "https://www.unionflvotes.com/",
       "sample_ballot_url": null,
       "county_seat": "Lake Butler",
-      "notes": "Domain UnionFLVotes.com listed in search snippet; not independently verified. Supervisor: Deborah K. Osborne. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "Domain UnionFLVotes.com listed in search snippet; not independently verified. Supervisor: Deborah K. Osborne. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": null,
+        "sites_url": "https://unionflvotes.com/voters/vote-early/",
+        "note": "From the Union County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go. Daily hours were not yet posted when checked."
+      }
     },
     "Volusia": {
       "soe_name": "Volusia County Supervisor of Elections",
       "soe_url": "https://www.volusiaelections.gov/",
       "sample_ballot_url": null,
       "county_seat": "DeLand",
-      "notes": "URL seen in search result (volusiaelections.gov). Supervisor: Lisa Lewis. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (volusiaelections.gov). Supervisor: Lisa Lewis. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": "8 a.m.–6 p.m.",
+        "sites_url": "https://www.volusiaelections.gov/elections/early-voting.stml",
+        "note": "From the Volusia County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Wakulla": {
       "soe_name": "Wakulla County Supervisor of Elections",
       "soe_url": "https://wakullavotes.gov/",
       "sample_ballot_url": null,
       "county_seat": "Crawfordville",
-      "notes": "URL seen in search result (wakullavotes.gov). Supervisor: Joseph 'Joe' Morgan. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (wakullavotes.gov). Supervisor: Joseph 'Joe' Morgan. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": null,
+        "hours": null,
+        "sites_url": "https://vls.vrswebapps.com/#county=wakulla",
+        "note": "General Election early-voting dates and hours had not been posted on the Wakulla County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+      }
     },
     "Walton": {
       "soe_name": "Walton County Supervisor of Elections",
       "soe_url": "https://www.votewalton.gov/",
       "sample_ballot_url": null,
       "county_seat": "DeFuniak Springs",
-      "notes": "Domain VoteWalton.gov listed in search snippet; not independently verified. Supervisor: Ryan Messer. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "Domain VoteWalton.gov listed in search snippet; not independently verified. Supervisor: Ryan Messer. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": "Mon–Sat 8:30 a.m.–4:30 p.m.; Sun Oct 25 1–9 p.m.",
+        "sites_url": "https://votewalton.gov/ways-to-vote/#vearly",
+        "note": "From the Walton County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     },
     "Washington": {
       "soe_name": "Washington County Supervisor of Elections",
       "soe_url": "https://wcsoe.gov/",
       "sample_ballot_url": null,
       "county_seat": "Chipley",
-      "notes": "URL seen in search result (wcsoe.gov). Supervisor: Deidra Pettis. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (wcsoe.gov). Supervisor: Deidra Pettis. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": "Mon–Sat 8:30 a.m.–4:30 p.m.; Sun 9 a.m.–4 p.m.",
+        "sites_url": "https://wcsoe.gov/early-voting/",
+        "note": "From the Washington County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+      }
     }
   }
 }
