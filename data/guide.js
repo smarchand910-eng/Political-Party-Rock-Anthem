@@ -11788,14 +11788,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -12267,14 +12267,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -12625,14 +12625,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -13083,14 +13083,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22275,46 +22275,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -22331,11 +22397,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -22359,32 +22436,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -22400,14 +22521,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22416,7 +22537,190 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -22479,46 +22783,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -22535,11 +22905,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -22563,32 +22944,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -22604,14 +23029,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22620,7 +23045,190 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -22684,46 +23292,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -22740,11 +23414,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -22768,32 +23453,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -22809,14 +23538,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -22825,7 +23554,190 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -22889,46 +23801,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -22945,11 +23923,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -22973,32 +23962,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -23014,14 +24047,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -23030,7 +24063,190 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -23094,46 +24310,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -23150,11 +24432,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -23178,32 +24471,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -23219,14 +24556,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -23235,7 +24572,190 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -23424,14 +24944,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -23602,14 +25122,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -23709,11 +25229,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 5 (2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5",
+         "date": "2022-03"
+        },
+        {
+         "title": "HB 5 (2022) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF",
+         "date": "2022-03"
+        }
+       ]
       },
       "guns": {
        "stance": null,
@@ -23765,25 +25296,58 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 90 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90",
+         "date": "2021-04-29"
+        },
+        {
+         "title": "SB 90 (2021) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF",
+         "date": "2021-04-29"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1557 (2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557",
+         "date": "2022-03"
+        },
+        {
+         "title": "HB 1557 (2022) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF",
+         "date": "2022-03"
+        }
+       ]
       },
       "energy": {
        "stance": null,
@@ -23806,14 +25370,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -23822,7 +25386,60 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted against HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -23855,7 +25472,7 @@ window.GUIDE_DATA = {
    "counties": [
     "Duval"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": false,
    "decided_note": "Decided Aug. 18, 2026: Democratic Rep. Kimberly Daniels defeated her primary challenger and has no November opponent, so she is re-elected.",
    "kind": "race",
@@ -23898,25 +25515,58 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
        "stance": null,
@@ -23926,11 +25576,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -23947,11 +25608,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -23975,11 +25647,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -23996,11 +25679,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -24016,14 +25710,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -24032,7 +25726,99 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -24231,14 +26017,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -24330,11 +26116,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
        "stance": null,
@@ -24455,14 +26252,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -24471,7 +26268,21 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -24508,7 +26319,7 @@ window.GUIDE_DATA = {
    "counties": [
     "Marion"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": false,
    "decided_note": "Decided Aug. 18, 2026: incumbent Republican Ryan Chamberlin won the universal primary (open to all voters because only Republicans qualified) with about 62% over Scott Wilkins.",
    "kind": "race",
@@ -24548,11 +26359,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
        "stance": null,
@@ -24569,11 +26391,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
        "stance": null,
@@ -24653,11 +26486,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -24673,14 +26517,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -24689,7 +26533,47 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -24733,7 +26617,7 @@ window.GUIDE_DATA = {
    "counties": [
     "Lake"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": true,
    "decided_note": "Incumbent Republican Taylor Yarkosky won the Aug. 18, 2026 Republican primary and faces Democrat Farmer Banks Helfrich on Nov. 3.",
    "kind": "race",
@@ -24769,46 +26653,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -24825,11 +26775,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -24853,11 +26814,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -24867,18 +26839,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -24894,14 +26888,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -24910,7 +26904,138 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -25071,14 +27196,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -25152,11 +27277,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
        "stance": null,
@@ -25173,11 +27309,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
        "stance": null,
@@ -25277,14 +27424,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -25293,7 +27440,34 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -25482,14 +27656,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -25654,14 +27828,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -25708,7 +27882,7 @@ window.GUIDE_DATA = {
     "Orange",
     "Osceola"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": true,
    "decided_note": "Incumbent Republican Erika Booth faces Democrat Eric Gray on Nov. 3, 2026.",
    "kind": "race",
@@ -25744,11 +27918,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
        "stance": null,
@@ -25765,11 +27950,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
        "stance": null,
@@ -25869,14 +28065,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -25885,7 +28081,34 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -26058,14 +28281,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -26271,14 +28494,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -26443,14 +28666,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -26647,14 +28870,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -26819,14 +29042,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -26991,14 +29214,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -27035,7 +29258,7 @@ window.GUIDE_DATA = {
     "Orange",
     "Seminole"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": true,
    "decided_note": "Incumbent Republican Doug Bankson won the Aug. 18, 2026 Republican primary over Carlos F. Johary Sr. and faces Democrat Jarod Fox on Nov. 3.",
    "kind": "race",
@@ -27075,46 +29298,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -27131,11 +29420,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -27159,11 +29459,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -27173,18 +29484,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -27200,14 +29533,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -27216,7 +29549,138 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -27378,14 +29842,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -27462,11 +29926,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
        "stance": null,
@@ -27587,14 +30062,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -27603,7 +30078,21 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -27666,11 +30155,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
        "stance": null,
@@ -27680,32 +30180,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -27722,11 +30266,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -27750,11 +30305,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -27764,18 +30330,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -27791,14 +30379,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -27807,7 +30395,125 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -27974,14 +30680,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28178,14 +30884,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28350,14 +31056,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28558,14 +31264,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28768,14 +31474,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -28940,14 +31646,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29023,11 +31729,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
        "stance": null,
@@ -29044,11 +31761,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
        "stance": null,
@@ -29148,14 +31876,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29164,7 +31892,34 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -29238,46 +31993,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -29294,11 +32115,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -29322,11 +32154,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -29336,18 +32179,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -29363,14 +32228,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29379,7 +32244,138 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -29541,14 +32537,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29750,14 +32746,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -29937,14 +32933,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30109,14 +33105,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30188,46 +33184,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -30244,11 +33306,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -30272,32 +33345,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -30313,14 +33430,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30329,7 +33446,190 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -30403,39 +33703,94 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -30452,11 +33807,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -30494,18 +33860,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -30521,14 +33909,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30537,7 +33925,112 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -30742,14 +34235,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -30946,14 +34439,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31155,14 +34648,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31332,14 +34825,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31509,14 +35002,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31686,14 +35179,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31770,46 +35263,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -31826,11 +35385,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -31854,11 +35424,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -31868,18 +35449,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -31895,14 +35498,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -31911,7 +35514,138 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -31974,46 +35708,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -32030,11 +35830,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -32072,18 +35883,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -32099,14 +35932,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32115,7 +35948,151 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "sources": [
       {
@@ -32143,7 +36120,7 @@ window.GUIDE_DATA = {
     "Seminole",
     "Orange (part)"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": true,
    "decided_note": null,
    "kind": "race",
@@ -32192,46 +36169,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -32248,11 +36291,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -32276,32 +36330,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -32317,14 +36415,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32333,7 +36431,190 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -32501,14 +36782,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32586,46 +36867,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -32642,11 +36989,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -32670,11 +37028,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -32684,18 +37053,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -32711,14 +37102,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32727,7 +37118,138 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -32890,14 +37412,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -32926,7 +37448,7 @@ window.GUIDE_DATA = {
    "counties": [
     "Hillsborough (part)"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": true,
    "decided_note": null,
    "kind": "race",
@@ -32984,11 +37506,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
        "stance": null,
@@ -33109,14 +37642,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33125,7 +37658,21 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -33293,14 +37840,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33330,7 +37877,7 @@ window.GUIDE_DATA = {
     "Hillsborough (part)",
     "Pinellas (part)"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": false,
    "decided_note": "Decided in the Aug. 18, 2026 Democratic primary: with no Republican in the race, Fentrice Driskell's primary win over Michele Rayner effectively decided the seat (Florida Politics). Whether a write-in closed the primary or Driskell was elected outright could not be verified; no NPA/write-in candidate was found in snippets.",
    "kind": "race",
@@ -33379,46 +37926,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -33435,11 +38048,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -33463,32 +38087,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -33504,14 +38172,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33520,7 +38188,190 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": []
     }
    ]
@@ -33540,7 +38391,7 @@ window.GUIDE_DATA = {
    "counties": [
     "Pinellas (part)"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": true,
    "decided_note": null,
    "kind": "race",
@@ -33594,46 +38445,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -33650,11 +38567,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -33678,11 +38606,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -33692,18 +38631,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -33719,14 +38680,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33735,7 +38696,138 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -33898,14 +38990,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -33938,7 +39030,7 @@ window.GUIDE_DATA = {
     "Washington",
     "Okaloosa (part)"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": true,
    "decided_note": null,
    "kind": "race",
@@ -33996,46 +39088,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -34052,11 +39210,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -34080,11 +39249,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -34094,18 +39274,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -34121,14 +39323,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -34137,7 +39339,138 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -34300,14 +39633,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -34395,46 +39728,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -34451,11 +39850,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -34479,32 +39889,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -34520,14 +39974,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -34536,7 +39990,190 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -34704,14 +40341,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -34882,14 +40519,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -34973,46 +40610,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -35029,11 +40732,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -35057,32 +40771,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 90 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90",
+         "date": "2021-04-29"
+        },
+        {
+         "title": "SB 90 (2021) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF",
+         "date": "2021-04-29"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -35098,14 +40856,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35114,7 +40872,177 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [
       {
        "by": "Florida Senate Republican leadership",
@@ -35203,11 +41131,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
        "stance": null,
@@ -35224,11 +41163,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
        "stance": null,
@@ -35328,14 +41278,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35344,7 +41294,34 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -35507,14 +41484,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35608,11 +41585,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
        "stance": null,
@@ -35629,11 +41617,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
        "stance": null,
@@ -35657,11 +41656,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -35685,32 +41695,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -35726,14 +41780,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35742,7 +41796,138 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": []
     },
     {
@@ -35786,11 +41971,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
        "stance": null,
@@ -35807,11 +42003,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
        "stance": null,
@@ -35835,11 +42042,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -35863,32 +42081,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -35904,14 +42166,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -35920,7 +42182,138 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": []
     }
    ]
@@ -35942,7 +42335,7 @@ window.GUIDE_DATA = {
     "Hendry",
     "Lee (part)"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": true,
    "decided_note": null,
    "kind": "race",
@@ -35995,18 +42388,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
        "stance": null,
@@ -36016,18 +42431,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
        "stance": null,
@@ -36079,25 +42516,58 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 90 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90",
+         "date": "2021-04-29"
+        },
+        {
+         "title": "SB 90 (2021) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF",
+         "date": "2021-04-29"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
        "stance": null,
@@ -36120,14 +42590,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36136,7 +42606,125 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": []
     },
     {
@@ -36298,14 +42886,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36335,7 +42923,7 @@ window.GUIDE_DATA = {
     "Broward (part)",
     "Palm Beach (part)"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": true,
    "decided_note": null,
    "kind": "race",
@@ -36396,18 +42984,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
        "stance": null,
@@ -36417,18 +43027,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -36445,11 +43077,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -36473,32 +43116,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -36514,14 +43201,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36530,7 +43217,164 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [
       {
        "by": "Sen. Tina Scott Polsky, Sen. Lori Berman, Sen. Mack Bernard",
@@ -36708,14 +43552,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36793,46 +43637,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -36849,11 +43759,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -36877,11 +43798,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -36891,18 +43823,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -36918,14 +43872,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -36934,7 +43888,138 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -36961,7 +44046,7 @@ window.GUIDE_DATA = {
     "Miami-Dade (part)",
     "Broward (part) - unverified"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": true,
    "decided_note": null,
    "kind": "race",
@@ -37015,46 +44100,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted against CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -37071,11 +44222,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -37099,11 +44261,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -37113,18 +44286,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -37140,14 +44335,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37168,7 +44363,138 @@ window.GUIDE_DATA = {
        ]
       }
      ],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/HouseVote_s00254e1482.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/HouseVote_s07050e1320.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/HouseVote_s00102e1044.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [
       {
        "by": "Miami-Dade Mayor-elect/Commissioner Eileen Higgins",
@@ -37336,14 +44662,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37372,7 +44698,7 @@ window.GUIDE_DATA = {
    "counties": [
     "Miami-Dade (part)"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": true,
    "decided_note": null,
    "kind": "race",
@@ -37426,46 +44752,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -37510,32 +44902,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -37551,14 +44987,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37567,7 +45003,164 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [
       {
        "by": "Associated Industries of Florida",
@@ -37741,14 +45334,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37840,46 +45433,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -37896,11 +45555,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -37924,11 +45594,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -37938,18 +45619,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -37965,14 +45668,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -37981,7 +45684,138 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -38144,14 +45978,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38181,7 +46015,7 @@ window.GUIDE_DATA = {
     "Nassau",
     "Duval (part)"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": true,
    "decided_note": null,
    "kind": "race",
@@ -38234,46 +46068,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -38290,11 +46190,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -38318,11 +46229,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
        "stance": null,
@@ -38332,18 +46254,40 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -38359,14 +46303,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38375,7 +46319,138 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -38543,14 +46618,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38633,46 +46708,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -38689,11 +46830,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -38717,32 +46869,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -38758,14 +46954,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -38774,7 +46970,190 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -38806,7 +47185,7 @@ window.GUIDE_DATA = {
     "Union",
     "Alachua (part)"
    ],
-   "coverage": "roster",
+   "coverage": "partial",
    "on_november_ballot": true,
    "decided_note": null,
    "kind": "race",
@@ -38860,46 +47239,112 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "property_tax": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+         "date": "2026-06-02"
+        },
+        {
+         "title": "CS/HJR 1-F (2026) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF",
+         "date": "2026-06-02"
+        }
+       ]
       },
       "insurance": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
+         "date": "2022-12"
+        },
+        {
+         "title": "SB 2-A (Dec. 2022) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF",
+         "date": "2022-12"
+        }
+       ]
       },
       "housing": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 1,
+       "confidence": "record",
+       "summary": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/SB 102 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102",
+         "date": "2023-03-24"
+        },
+        {
+         "title": "CS/SB 102 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF",
+         "date": "2023-03-24"
+        }
+       ]
       },
       "immigration": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 2-C (2025) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+         "date": "2025-02-13"
+        },
+        {
+         "title": "SB 2-C (2025) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF",
+         "date": "2025-02-13"
+        }
+       ]
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 300 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 300 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "guns": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 543 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 543 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "healthcare": {
        "stance": null,
@@ -38916,11 +47361,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "education_choice": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1",
+         "date": "2023-03"
+        },
+        {
+         "title": "HB 1 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF",
+         "date": "2023-03"
+        }
+       ]
       },
       "environment": {
        "stance": null,
@@ -38944,32 +47400,76 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 7050 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050",
+         "date": "2023-04"
+        },
+        {
+         "title": "SB 7050 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF",
+         "date": "2023-04"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 254 (2023) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254",
+         "date": "2023-05-04"
+        },
+        {
+         "title": "SB 254 (2023) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF",
+         "date": "2023-05-04"
+        }
+       ]
       },
       "energy": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -1,
+       "confidence": "record",
+       "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+         "date": "2024-03-07"
+        },
+        {
+         "title": "CS/CS/HB 1645 (2024) roll-call vote (Senate)",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF",
+         "date": "2024-03-07"
+        }
+       ]
       },
       "trump": {
        "stance": null,
@@ -38985,14 +47485,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -39001,7 +47501,190 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/SenateVote_s00002C__004.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/SenateVote_s00300e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 543 (2023), the 2023 law allowing adults to carry a concealed firearm without a permit.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/SenateVote_h00543e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2023), the 2023 law that made every Florida student eligible for a state-funded scholarship usable at private schools or for home education.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/SenateVote_h00001c4002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 254 (2023), the 2023 law barring gender-affirming medical treatment for minors and restricting it for adults.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/254/Vote/SenateVote_s00254e1018.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 7050 (2023), the 2023 elections law that raised penalties and shortened deadlines for third-party voter-registration groups and changed vote-by-mail and voter-roll procedures.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/7050/Vote/SenateVote_s07050c1010.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/SenateVote_s00002A__008.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/SenateVote_h00001e1002.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/SenateVote_h00005c1028.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted against HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/SenateVote_h01557e1003.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/SenateVote_s00090e1042.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/SenateVote_h01645e1039.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for CS/SB 102 (2023), the 2023 Live Local Act that put $711 million into state housing programs, required local governments to allow multifamily housing in commercial areas when at least 40 percent of units are affordable, and created property-tax exemptions for affordable developments; a vote for it is coded as leaning toward more government action on housing.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2023/102/Vote/SenateVote_s00102c1010.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": [],
      "links": [
       {
@@ -39164,14 +47847,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -39337,14 +48020,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -39558,14 +48241,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -39675,11 +48358,22 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "abortion": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 5 (2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5",
+         "date": "2022-03"
+        },
+        {
+         "title": "HB 5 (2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF",
+         "date": "2022-03"
+        }
+       ]
       },
       "guns": {
        "stance": null,
@@ -39731,25 +48425,58 @@ window.GUIDE_DATA = {
        "sources": []
       },
       "elections": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": -2,
+       "confidence": "record",
+       "summary": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "SB 90 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90",
+         "date": "2021-04-29"
+        },
+        {
+         "title": "SB 90 (2021) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF",
+         "date": "2021-04-29"
+        }
+       ]
       },
       "crime": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1 (2021) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1",
+         "date": "2021-04"
+        },
+        {
+         "title": "HB 1 (2021) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF",
+         "date": "2021-04"
+        }
+       ]
       },
       "lgbtq": {
-       "stance": null,
-       "confidence": "unknown",
-       "summary": "No public position found as of Sept 2026.",
+       "stance": 2,
+       "confidence": "record",
+       "summary": "Voted for HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
        "quote": null,
-       "sources": []
+       "sources": [
+        {
+         "title": "HB 1557 (2022) bill page - The Florida Senate",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557",
+         "date": "2022-03"
+        },
+        {
+         "title": "HB 1557 (2022) roll-call vote (House)",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF",
+         "date": "2022-03"
+        }
+       ]
       },
       "energy": {
        "stance": null,
@@ -39772,14 +48499,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -39788,7 +48515,60 @@ window.GUIDE_DATA = {
       }
      },
      "other_issues": [],
-     "record": [],
+     "record": [
+      {
+       "item": "Voted for HB 1 (2021), the 2021 Combating Public Disorder law that created new riot-related offenses and penalties and let the state override local cuts to police budgets.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 5 (2022), the 2022 law limiting most abortions to 15 weeks.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for HB 1557 (2022), the 2022 Parental Rights in Education law restricting classroom instruction on sexual orientation and gender identity.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF"
+        }
+       ]
+      },
+      {
+       "item": "Voted for SB 90 (2021), the 2021 elections law that added identification requirements for mail-ballot requests and limited drop-box hours.",
+       "sources": [
+        {
+         "title": "Bill page",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90"
+        },
+        {
+         "title": "Roll-call vote",
+         "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF"
+        }
+       ]
+      }
+     ],
      "endorsements": []
     },
     {
@@ -39955,14 +48735,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
@@ -40138,14 +48918,14 @@ window.GUIDE_DATA = {
        "quote": null,
        "sources": []
       },
-      "tariffs": {
+      "ukraine": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",
        "quote": null,
        "sources": []
       },
-      "ukraine": {
+      "tariffs": {
        "stance": null,
        "confidence": "unknown",
        "summary": "No public position found as of Sept 2026.",

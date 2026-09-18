@@ -39,11 +39,22 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+              "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+              "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+              "date": "2026-06-02"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -166,7 +177,21 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "sources": [
         {

@@ -14,7 +14,7 @@
   "what_it_does": "Represents District 24 in the Florida House of Representatives; votes on state laws and the state budget.",
   "on_november_ballot": false,
   "decided_note": "Decided Aug. 18, 2026: incumbent Republican Ryan Chamberlin won the universal primary (open to all voters because only Republicans qualified) with about 62% over Scott Wilkins.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "ClickOrlando's voter guide identifies HD 24 as a universal primary between Ryan Chamberlin and Scott Wilkins (https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-24-universal-primary/); Central Florida Public Media and 352today reported Chamberlin won outright with about 62% (https://www.cfpublic.org/live-updates/live-updates-primary-election-day-in-central-florida). Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -38,11 +38,22 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
+              "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "CS/HJR 1-F (2026) roll-call vote (House)",
+              "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
+              "date": "2026-06-02"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -59,11 +70,22 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "SB 2-C (2025) bill page - The Florida Senate",
+              "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "SB 2-C (2025) roll-call vote (House)",
+              "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+              "date": "2025-02-13"
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -143,11 +165,22 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "CS/CS/HB 1645 (2024) bill page - The Florida Senate",
+              "url": "https://www.flsenate.gov/Session/Bill/2024/1645",
+              "date": "2024-03-07"
+            },
+            {
+              "title": "CS/CS/HB 1645 (2024) roll-call vote (House)",
+              "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF",
+              "date": "2024-03-07"
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -165,7 +198,47 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2026F/1F"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted for SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2024/1645"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "sources": [
         {
