@@ -19,8 +19,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.micahloydcampaign.com/",
+      "occupation": "Canaveral Port Authority commissioner since 2016; state-certified general contractor",
       "residence": null,
       "background": "Won the four-way Republican primary (Pam Avery 26.06%, Stel Bailey 24.12%, Rick Heffelfinger 12.62%).",
       "primary_result": "First in Aug 18 GOP primary with 37.20% (4,732)",
@@ -96,18 +96,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Calls the Indian River Lagoon part of North Brevard's identity and economy and supports 'practical planning and responsible decisions' to protect it.",
+          "quote": "The Indian River Lagoon is part of North Brevard's identity, economy, and future.",
+          "sources": [
+            {
+              "title": "Micah Loyd for Brevard County Commission District 1",
+              "url": "https://www.micahloydcampaign.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports 'healthy growth' that strengthens the economy while protecting neighborhoods, infrastructure and natural resources, and says residents should be heard before major decisions.",
+          "quote": "healthy growth that strengthens the local economy while protecting neighborhoods, infrastructure, natural resources, and quality of life",
+          "sources": [
+            {
+              "title": "Micah Loyd for Brevard County Commission District 1",
+              "url": "https://www.micahloydcampaign.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -198,10 +210,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://voteabookhardt.com/",
       "occupation": null,
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Democratic candidate for Brevard County Commission District 1. His campaign is built on 'Rights, Resources, and Responsibility': taxpayers have a right to see county resources at work in their neighborhood, with commissioners holding department heads accountable for potholes, drainage ditches and easements, plus 'rights to clean water'. No positions on the guide's county issues were stated as of Sept. 18, 2026 (campaign site).",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -223,8 +235,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.nathanslusher.com/",
+      "occupation": "Small-business owner (NRAYS LLC); chair, Libertarian Party of Brevard County",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -236,7 +248,34 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says he would vote no on all new development until the surrounding infrastructure is repaired, and makes repairing storm drains, potholes, canals and sewer pipes his top reason for running.",
+          "quote": "Vote No on all new development, until the surrounding infrastructure is repaired",
+          "sources": [
+            {
+              "title": "Nathan Slusher for County Commission",
+              "url": "https://www.nathanslusher.com/",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Libertarian Party profile says he is working on a plan to remove property taxes while still funding the county.",
+          "quote": "working to create a plan to remove property taxes while still funding the county",
+          "sources": [
+            {
+              "title": "Nathan Slusher - LPedia (Libertarian Party wiki)",
+              "url": "https://lpedia.org/wiki/Nathan_Slusher",
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []

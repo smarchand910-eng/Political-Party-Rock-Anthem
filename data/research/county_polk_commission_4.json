@@ -15,22 +15,28 @@
     {
       "id": "omar_arroyo",
       "name": "Omar Arroyo",
-      "party": null,
+      "party": "Republican",
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://electomararroyo.com/",
+      "occupation": "Former Haines City mayor and commissioner",
       "residence": null,
       "background": "Appears on the Nov. 3, 2026 ballot for District 4.",
       "primary_result": null,
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists 'Lower Taxes' among what he stands for.",
+          "quote": "Lower Taxes",
+          "sources": [
+            {
+              "title": "Omar Arroyo for Polk County Commission District 4",
+              "url": "https://electomararroyo.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -47,11 +53,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists affordable housing among his priorities.",
+          "quote": "Affordable Housing",
+          "sources": [
+            {
+              "title": "Omar Arroyo for Polk County Commission District 4",
+              "url": "https://electomararroyo.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -103,11 +115,17 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Campaigns on responsible growth with infrastructure investment.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Omar Arroyo for Polk County Commission District 4",
+              "url": "https://electomararroyo.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -124,11 +142,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Describes himself as a loyal supporter of law enforcement.",
+          "quote": "Loyal Supporter of Law Enforcement & Veterans",
+          "sources": [
+            {
+              "title": "Omar Arroyo for Polk County Commission District 4",
+              "url": "https://electomararroyo.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -166,11 +190,17 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists support for veterans among his priorities.",
+          "quote": "Loyal Supporter of Law Enforcement & Veterans",
+          "sources": [
+            {
+              "title": "Omar Arroyo for Polk County Commission District 4",
+              "url": "https://electomararroyo.com/",
+              "date": "2026-09-18"
+            }
+          ]
         }
       },
       "other_issues": [],

@@ -103,11 +103,17 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Would raise revenue without raising taxes through 'vertical land development' and more tourism, reinvesting the proceeds in transit, parks, libraries and housing.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Meet the candidates: Questionnaire for Pinellas County Board of County Commissioners D-6 - Tampa Bay 28",
+              "url": "https://www.tampabay28.com/news/local-news/meet-the-candidates-questionnaire-for-pinellas-county-board-of-county-commissioners-d-6",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -187,11 +193,11 @@
       "id": "kathleen_peters",
       "name": "Kathleen Peters",
       "party": "Republican",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Pinellas County commissioner; former state representative",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -203,7 +209,34 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Cites rolling back property-tax rates in four of five years, returning over $100 million to taxpayers.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Meet the candidates: Questionnaire for Pinellas County Board of County Commissioners D-6 - Tampa Bay 28",
+              "url": "https://www.tampabay28.com/news/local-news/meet-the-candidates-questionnaire-for-pinellas-county-board-of-county-commissioners-d-6",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Committed to advancing coastal-resiliency investments.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "Meet the candidates: Questionnaire for Pinellas County Board of County Commissioners D-6 - Tampa Bay 28",
+              "url": "https://www.tampabay28.com/news/local-news/meet-the-candidates-questionnaire-for-pinellas-county-board-of-county-commissioners-d-6",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []
