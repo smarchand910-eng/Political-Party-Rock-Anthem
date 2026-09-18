@@ -77,6 +77,15 @@
   function issuesForLevel(level) { return ISSUES.filter(i => (i.levels || []).includes(level)); }
   function withdrawnLabel(c) { const w = c.withdrawn; if (w === true || !w) return 'Withdrew'; const s = String(w).replace(/\s*\((Florida Division of Elections|VoterFocus)[^)]*\)\s*$/, ''); return /^(Withdrew|Defeated|Did not|Removed|Deceased|Not )/.test(s) ? s : 'Withdrew ' + s; }
 
+  const REPO_ISSUES = 'https://github.com/smarchand910-eng/Political-Party-Rock-Anthem/issues/new';
+  function reportLink(what) { return `<a href="${REPO_ISSUES}?title=${encodeURIComponent('Correction: ' + what)}&body=${encodeURIComponent('Page: ' + location.href + '\n\nWhat is wrong, and a source that shows the correct information:\n')}" target="_blank" rel="noopener">Report an error ↗</a>`; }
+  function money(n) { return n == null ? '' : '$' + Math.round(n).toLocaleString('en-US'); }
+  function financeHtml(c, r) {
+    const f = c.finance;
+    if (f && f.source === 'FEC') return `<p class="muted"><strong>Campaign finance</strong> (FEC filings through ${esc(f.through)}): raised ${money(f.receipts)}, spent ${money(f.disbursements)}, cash on hand ${money(f.cash_on_hand)}${f.individual ? `; ${money(f.individual)} from individual donors` : ''}${f.pac ? `, ${money(f.pac)} from PACs` : ''}${f.self ? `, ${money(f.self)} from the candidate` : ''}. <a href="${esc(f.url)}" target="_blank" rel="noopener">FEC filings ↗</a></p>`;
+    if (r.level === 'federal') return '';
+    return `<p class="muted"><strong>Campaign finance:</strong> state and county candidates file with the Florida Division of Elections or the county Supervisor of Elections. <a href="https://dos.elections.myflorida.com/campaign-finance/contributions/" target="_blank" rel="noopener">Search contributions ↗</a></p>`;
+  }
   function partyTag(c) { return `<span class="tag tag-party ${partyClass(c.party)}">${esc(c.party || 'No Party Affiliation')}</span>`; }
 
   /* ---------- storage ---------- */
@@ -428,7 +437,7 @@
       ${coverageNote(r)}
       ${r.verified_ballot_note ? `<details class="notice" style="border-radius:0 var(--radius-sm) var(--radius-sm) 0"><summary>How we verified who is on the ballot</summary><p style="margin:8px 0 0">${esc(r.verified_ballot_note)}</p>${sourcesHtml(r.verified_ballot_sources)}</details>` : ''}
       <div class="btn-row"><a class="btn btn-primary" href="#/match">See how you match in this race →</a></div>
-      <section class="section"><h2>Candidates</h2>${cands.some(c => c.withdrawn) ? '<p class="notice notice-warn">Candidates marked "Withdrew", "Defeated in the primary" or "Did not qualify" are not running in November, according to the Florida Division of Elections candidate list. A name may still be printed on the ballot if the withdrawal came late; such votes are not counted. They are excluded from match results.</p>' : ''}<div class="stack">${cands.map(c => candidateCard(c)).join('')}</div></section>
+      <section class="section"><div class="section-head"><h2>Candidates</h2><small>${reportLink(r.title)}</small></div>${cands.some(c => c.withdrawn) ? '<p class="notice notice-warn">Candidates marked "Withdrew", "Defeated in the primary" or "Did not qualify" are not running in November, according to the Florida Division of Elections candidate list. A name may still be printed on the ballot if the withdrawal came late; such votes are not counted. They are excluded from match results.</p>' : ''}<div class="stack">${cands.map(c => candidateCard(c)).join('')}</div></section>
       <section class="section">
         <div class="section-head"><h2>Side-by-side on the major issues</h2></div>
         ${heatStrip(r, cands, issues)}
@@ -499,6 +508,8 @@
           <p>${esc(c.background || '')}</p>
           ${c.primary_result ? `<p><strong>How they got on the ballot:</strong> ${esc(c.primary_result)}</p>` : ''}
           <div class="profile-links">${c.website ? `<a href="${esc(c.website)}" target="_blank" rel="noopener">Campaign website ↗</a>` : ''}${(c.links || []).map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.title)} ↗</a>`).join('')}</div>
+          ${financeHtml(c, r)}
+          <p class="muted"><small>${c.last_checked ? `Sources last checked ${esc(c.last_checked)}. ` : ''}${reportLink(c.name)}</small></p>
         </div>
       </div>
       <section class="section">
@@ -823,6 +834,7 @@
       </div></section>
       <section class="section"><h2>${esc(c.name)} County offices</h2>${localBlocks ? `<div class="grid grid-2">${localBlocks}</div>` : '<p class="muted">No county office appears in the state list for this county in 2026.</p>'}<p class="muted"><small>"Elected without opposition" seats do not appear on the ballot. Seats decided in the August primary are not listed. City and town elections and local referendums are run by each county and are not in the state candidate list: check your county's sample ballot.</small></p>${specialBlocks}</section>
       <section class="section"><h2>${esc(c.name)} County Supervisor of Elections</h2><div class="card"><dl class="kv"><dt>Supervisor</dt><dd>${esc(soe.supervisor || '')}</dd><dt>Phone</dt><dd>${esc(soe.phone || '')}</dd><dt>Address</dt><dd>${esc(soe.address || '')}</dd></dl>${soe.website ? `<p><a class="btn btn-primary" href="${esc(soe.website)}" target="_blank" rel="noopener">Sample ballot, early voting and mail ballots ↗</a></p>` : ''}<p class="muted"><small>Statewide deadlines: register by Oct. 5, 2026; request a mail ballot by 5 p.m. Oct. 22; mandatory early voting Oct. 24–31 (counties may add days); polls open 7 a.m.–7 p.m. on Nov. 3.</small></p></div></section>
+      <section class="section"><h2>Early voting in ${esc(c.name)} County</h2><div class="card">${(() => { const ev = (DATA.counties && DATA.counties[c.name] && DATA.counties[c.name].early_voting) || null; return ev ? `<p><strong>Dates:</strong> ${esc(ev.dates || '')}${ev.hours ? ` · <strong>Hours:</strong> ${esc(ev.hours)}` : ''}</p>${ev.sites_url ? `<p><a class="btn" href="${esc(ev.sites_url)}" target="_blank" rel="noopener">Early voting sites and hours ↗</a></p>` : ''}${ev.note ? `<p class="muted"><small>${esc(ev.note)}</small></p>` : ''}` : `<p>Florida law requires every county to offer early voting at least <strong>Saturday, Oct. 24 through Saturday, Oct. 31</strong>, for 8 to 12 hours a day; counties may start as early as Oct. 19 and run through Nov. 1. ${esc(c.name)} County's site list and hours are published by the Supervisor of Elections in October (the state posts the statewide list after Oct. 4).</p>${soe.website ? `<p><a class="btn" href="${esc(soe.website)}" target="_blank" rel="noopener">${esc(c.name)} County early voting sites ↗</a></p>` : ''}`; })()}<p class="muted"><small>Any early-voting site in your county can be used; on Election Day you must vote at your assigned precinct. Mail ballots can be returned to secure intake stations at early-voting sites during voting hours.</small></p></div></section>
       <section class="section"><details><summary class="muted">Sources for this page</summary><ul class="muted"><li>${esc(SW.sources.candidates)}</li><li>${esc(SW.sources.congressional)}</li><li>${esc(SW.sources.legislative)}</li><li>${esc(SW.sources.judicial)}</li><li>${esc(SW.sources.supervisors)}</li></ul></details></section>`;
   }
 
