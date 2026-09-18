@@ -449,25 +449,15 @@
       "primary_result": "Won Aug 18, 2026 Republican primary with ~74% over Paola Branda (Florida Politics)",
       "positions": {
         "taxes": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Adeimy says 'Americans know how to spend their earned income better than Government' and campaigns on tax relief and reducing regulations; she has not addressed the trade-off with government services in sources found.",
+          "summary": "Says Americans spend their earned income better than government and opposes IRS income targeting.",
           "quote": "Americans know how to spend their earned income better than Government",
           "sources": [
             {
-              "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
-              "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
-              "date": "2026"
-            },
-            {
-              "title": "Deborah Adeimy for US Congress (campaign site)",
-              "url": "https://debadeimy4congress.com/",
-              "date": null
-            },
-            {
-              "title": "Lois Frankel to face Republican challenger Deborah Adeimy for control of new CD 23 seat (Florida Politics)",
-              "url": "https://floridapolitics.com/archives/814105-lois-frankel-to-face-republican-challenger-deborah-adeimy-for-control-of-new-cd-23-seat/",
-              "date": "2026-08-18"
+              "title": "Deborah Adeimy for Congress - Issues",
+              "url": "https://debadeimy4congress.com/issues/",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -495,18 +485,13 @@
         "immigration": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Adeimy says immigration should be about joining and strengthening America but opposes illegal and 'forced entry,' and campaigns on border security. A position on large-scale deportation was not found.",
-          "quote": null,
+          "summary": "Opposes open-border policies, citing strain on welfare, hospitals, schools and safety.",
+          "quote": "immigration to America is to join and give and strengthen NOT divide and take and weaken",
           "sources": [
             {
-              "title": "iVoterGuide candidate profile - Deborah Adeimy (FL U.S. Rep., Dist. 23)",
-              "url": "https://ivoterguide.com/candidate/64909/race/28532/election/1431",
-              "date": "2026"
-            },
-            {
-              "title": "Deborah Adeimy - Ballotpedia",
-              "url": "https://ballotpedia.org/Deborah_Adeimy",
-              "date": "2026"
+              "title": "Deborah Adeimy for Congress - Issues",
+              "url": "https://debadeimy4congress.com/issues/",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -531,27 +516,28 @@
         "guns": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "Adeimy says she backs Second Amendment rights; no position on specific measures such as red-flag laws was found.",
+          "summary": "Lists support for the Second Amendment.",
           "quote": null,
           "sources": [
             {
-              "title": "Deborah Adeimy - Issue Positions (OpenCampaign)",
-              "url": "https://www.opencampaign.com/politicians-in-united-states/188995/deborah-adeimy/issue-positions",
-              "date": "2026"
-            },
-            {
-              "title": "Deborah Adeimy (R) - Local Candidates",
-              "url": "https://www.localcandidates.org/politicians/deborah-adeimy",
-              "date": "2026"
+              "title": "Deborah Adeimy for Congress - Home",
+              "url": "https://debadeimy4congress.com/",
+              "date": "2026-09-18"
             }
           ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says affordable care is possible when insurers and drug makers work together; backs pharmaceutical research investment.",
+          "quote": "it is possible to provide affordable healthcare to Americans when insurance companies and drug manufacturers work together",
+          "sources": [
+            {
+              "title": "Deborah Adeimy for Congress - Issues",
+              "url": "https://debadeimy4congress.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -607,11 +593,17 @@
           ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists support for law enforcement.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Deborah Adeimy for Congress - Home",
+              "url": "https://debadeimy4congress.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -639,11 +631,17 @@
           ]
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Points to tariffs as the historic way the government paid its bills and opposes income and capital-gains taxation.",
+          "quote": "The External Revenue Service aka tariffs, paid Government's bills",
+          "sources": [
+            {
+              "title": "Deborah Adeimy for Congress - Issues",
+              "url": "https://debadeimy4congress.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "ukraine": {
           "stance": null,

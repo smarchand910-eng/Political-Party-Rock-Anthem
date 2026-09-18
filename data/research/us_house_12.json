@@ -83,33 +83,18 @@
         "immigration": {
           "stance": 2,
           "confidence": "record",
-          "summary": "Bilirakis voted for the Laken Riley Act (H.R. 29, Jan. 7, 2025), which requires federal detention of people in the country illegally who are charged with theft and certain other crimes; every House Republican voted yes. In a statement he said 'criminal illegal immigrants who re-enter our country will be punished' and that cities protecting them 'will no longer be ignored'; he has visited the border and described the situation there as untenable.",
-          "quote": "My first duty is keeping my constituents and the American people safe. We are a nation of laws.",
+          "summary": "Voted for the Laken Riley Act (S. 5, Jan. 22, 2025), which requires federal detention of unauthorized immigrants charged with theft or violent crimes and lets states sue over immigration enforcement.",
+          "quote": null,
           "sources": [
             {
-              "title": "House Roll Call 6 on H.R. 29, Laken Riley Act (264-159)",
-              "url": "https://clerk.house.gov/Votes/20256",
-              "date": "2025-01-07"
+              "title": "Roll call 23, 119th Congress (S. 5, Laken Riley Act) - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll023.xml",
+              "date": "2025-01-22"
             },
             {
-              "title": "S. 5 - Laken Riley Act (119th Congress), enacted",
+              "title": "S. 5 - Laken Riley Act - Congress.gov",
               "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
               "date": "2025-01-29"
-            },
-            {
-              "title": "Axios: House passes Laken Riley Act (all Republicans and 48 Democrats voted yes)",
-              "url": "https://www.axios.com/2025/01/07/house-passes-laken-riley-act-2025",
-              "date": "2025-01-07"
-            },
-            {
-              "title": "Bilirakis Statement on House Passage of Immigration Bills",
-              "url": "https://bilirakis.house.gov/media/press-releases/bilirakis-statement-house-passage-immigration-bills",
-              "date": "2025-01"
-            },
-            {
-              "title": "Rep. Gus Bilirakis - Member Accountability (Immigration Accountability Project)",
-              "url": "https://iaproject.org/accountability/members/B001257/",
-              "date": null
             }
           ]
         },
@@ -208,11 +193,22 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for the SAVE Act (H.R. 22, April 10, 2025), which would require documentary proof of citizenship to register to vote.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Roll call 102, 119th Congress (H.R. 22, SAVE Act) - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll102.xml",
+              "date": "2025-04-10"
+            },
+            {
+              "title": "H.R. 22 - SAVE Act - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+              "date": "2025-04-10"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -409,6 +405,33 @@
               "date": null
             }
           ]
+        },
+        {
+          "item": "Voted for the Laken Riley Act (S. 5), Jan. 22, 2025.",
+          "sources": [
+            {
+              "title": "Roll call 23 - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the SAVE Act (H.R. 22), April 10, 2025.",
+          "sources": [
+            {
+              "title": "Roll call 102 - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+            }
+          ]
+        },
+        {
+          "item": "Voted for final passage of the One Big Beautiful Bill Act (H.R. 1), July 3, 2025.",
+          "sources": [
+            {
+              "title": "Roll call 190 - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+            }
+          ]
         }
       ],
       "endorsements": []
@@ -448,20 +471,15 @@
           "sources": []
         },
         "housing": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Lists affordable housing among her top priorities and cites her own experience navigating housing insecurity; specific federal proposals were not found.",
-          "quote": null,
+          "summary": "Calls for increased investment in affordable housing and transportation.",
+          "quote": "fight for increased investment in affordable housing, expanded transportation options, and stronger support for working families",
           "sources": [
             {
-              "title": "Kimberly Overman for Congress - The Issues",
+              "title": "Kimberly Overman for Congress - Issues",
               "url": "https://kimberlyoverman.com/issues/",
-              "date": null
-            },
-            {
-              "title": "Kimberly Overman for Congress - Meet Kimberly",
-              "url": "https://kimberlyoverman.com/meet-kimberly/",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
@@ -475,13 +493,13 @@
         "abortion": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Her issues page says she will 'fight to restore and protect the right to abortion and access to reproductive care.'",
-          "quote": "These decisions belong to individuals, not politicians.",
+          "summary": "Pledges to restore and protect the right to abortion and reproductive care.",
+          "quote": "fight to restore and protect the right to abortion and access to reproductive care—because these decisions belong to individuals, not politicians",
           "sources": [
             {
-              "title": "Kimberly Overman for Congress - The Issues",
+              "title": "Kimberly Overman for Congress - Issues",
               "url": "https://kimberlyoverman.com/issues/",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
@@ -533,13 +551,13 @@
         "environment": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Says she will fight for resilient infrastructure, protection of the Florida Wildlife Corridor and environmental justice for hard-hit communities.",
-          "quote": null,
+          "summary": "Wants resilient infrastructure, protection of the Florida Wildlife Corridor and environmental justice.",
+          "quote": "fight for resilient infrastructure, protection of the Florida Wildlife Corridor, and environmental justice",
           "sources": [
             {
-              "title": "Kimberly Overman for Congress - The Issues",
+              "title": "Kimberly Overman for Congress - Issues",
               "url": "https://kimberlyoverman.com/issues/",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
@@ -558,18 +576,30 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Committed to protecting voting rights.",
+          "quote": "committed to protecting voting rights, restoring trust in government",
+          "sources": [
+            {
+              "title": "Kimberly Overman for Congress - Home",
+              "url": "https://kimberlyoverman.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Pairs strong law enforcement with investment in mental health, youth engagement and community-led prevention; a mixed position.",
+          "quote": "strong law enforcement paired with investments in mental health services, youth engagement, and community-led crime prevention",
+          "sources": [
+            {
+              "title": "Kimberly Overman for Congress - Issues",
+              "url": "https://kimberlyoverman.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -613,11 +643,17 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would improve access to VA care, mental-health services and job training for veterans.",
+          "quote": "improve access to VA care, mental health services, job training, and transitional support for returning veterans",
+          "sources": [
+            {
+              "title": "Kimberly Overman for Congress - Issues",
+              "url": "https://kimberlyoverman.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         }
       },
       "other_issues": [

@@ -400,20 +400,15 @@
           ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "Lists 'Property Insurance Stability' as a headline priority, but no specific position on rate caps, Citizens expansion or insurer regulation was found as of Sept 2026.",
-          "quote": null,
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would push for a federal reinsurance backstop to stabilize the property-insurance market.",
+          "quote": "push for a federal reinsurance backstop to help stabilize the market, lower risk",
           "sources": [
             {
-              "title": "Curtis Gibson | The Heartland's Voice (campaign site)",
-              "url": "https://votecurtisgibson.com/",
-              "date": null
-            },
-            {
-              "title": "Curtis Gibson - The Heartland's Voice (Local Candidates profile)",
-              "url": "https://www.localcandidates.org/politicians/curtis-gibson/about/74fdc787-bbca-49d8-9325-647008416006",
-              "date": null
+              "title": "Curtis Gibson for Congress - Issues",
+              "url": "https://votecurtisgibson.com/issues",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -539,18 +534,13 @@
         "veterans": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Lists 'Veterans' Healthcare Access' as a headline priority and says veterans return home 'only to be met with red tape instead of results.'",
-          "quote": null,
+          "summary": "Would cut red tape so Heartland veterans can get timely local care.",
+          "quote": "fight to cut through the red tape and make sure veterans in the Heartland can access timely, local medical care",
           "sources": [
             {
-              "title": "Curtis Gibson | The Heartland's Voice (campaign site)",
-              "url": "https://votecurtisgibson.com/",
-              "date": null
-            },
-            {
-              "title": "Curtis Gibson - The Heartland's Voice (Local Candidates profile)",
-              "url": "https://www.localcandidates.org/politicians/curtis-gibson/about/74fdc787-bbca-49d8-9325-647008416006",
-              "date": null
+              "title": "Curtis Gibson for Congress - Issues",
+              "url": "https://votecurtisgibson.com/issues",
+              "date": "2026-09-18"
             }
           ]
         }

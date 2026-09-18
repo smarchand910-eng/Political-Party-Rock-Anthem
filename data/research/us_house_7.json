@@ -32,18 +32,13 @@
         "taxes": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Says Congress 'must continue driving down costs for American families by keeping taxes low and achieving American energy independence.'",
-          "quote": "keeping taxes low and achieving American energy independence",
+          "summary": "Supports keeping taxes low and less regulation.",
+          "quote": "keeping taxes low",
           "sources": [
             {
-              "title": "The Floridian: Ryan Elijah Affirms His Efforts To Tackle Affordability And Healthcare Priorities",
-              "url": "https://floridianpress.com/2026/06/ryan-elijah-affirms-his-efforts-to-tackle-affordability-and-healthcare-priorities/",
-              "date": "2026-06"
-            },
-            {
-              "title": "Ryan Elijah for Congress (campaign site)",
-              "url": "https://elijahforcongress.com/",
-              "date": null
+              "title": "Ryan Elijah for Congress - Issues",
+              "url": "https://elijahforcongress.com/issues.html",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -71,36 +66,54 @@
         "immigration": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Campaign site says 'America is a nation built by immigrants, however we must enforce the rule of law'; no statement on large-scale deportation was found.",
-          "quote": "America is a nation built by immigrants, however we must enforce the rule of law",
+          "summary": "Says the rule of law must be enforced and borders secured.",
+          "quote": "enforce the rule of law",
           "sources": [
             {
-              "title": "Ryan Elijah for Congress (campaign site)",
-              "url": "https://elijahforcongress.com/",
-              "date": null
+              "title": "Ryan Elijah for Congress - Issues",
+              "url": "https://elijahforcongress.com/issues.html",
+              "date": "2026-09-18"
             }
           ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Describes himself as pro-life.",
+          "quote": "pro-life and believes every life is a sacred gift from God",
+          "sources": [
+            {
+              "title": "Ryan Elijah for Congress - Issues",
+              "url": "https://elijahforcongress.com/issues.html",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Describes himself as a staunch Second Amendment supporter with an NRA 'A' rating.",
+          "quote": "staunch supporter of the Second Amendment",
+          "sources": [
+            {
+              "title": "Ryan Elijah for Congress - Issues",
+              "url": "https://elijahforcongress.com/issues.html",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Favors patient-centered options, expanded health savings accounts and price transparency.",
+          "quote": "expanded Health Savings Accounts",
+          "sources": [
+            {
+              "title": "Ryan Elijah for Congress - Issues",
+              "url": "https://elijahforcongress.com/issues.html",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -110,11 +123,17 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Champions parental rights and school choice.",
+          "quote": "parental rights and school choice",
+          "sources": [
+            {
+              "title": "Ryan Elijah for Congress - Issues",
+              "url": "https://elijahforcongress.com/issues.html",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -138,32 +157,28 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Backs the Save America Act so only citizens can vote.",
+          "quote": "Save America Act, which ensures only American citizens can vote",
+          "sources": [
+            {
+              "title": "Ryan Elijah for Congress - Issues",
+              "url": "https://elijahforcongress.com/issues.html",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "crime": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Describes himself as 'a strong defender of law enforcement'; endorsed by the Volusia, Seminole and Highlands county sheriffs.",
-          "quote": "a strong defender of law enforcement",
+          "summary": "Describes himself as a strong defender of law enforcement.",
+          "quote": "Ryan is a strong defender of law enforcement",
           "sources": [
             {
-              "title": "Ryan Elijah for Congress (campaign site)",
+              "title": "Ryan Elijah for Congress - Home",
               "url": "https://elijahforcongress.com/",
-              "date": null
-            },
-            {
-              "title": "Florida's Voice: Ryan Elijah lands endorsements from Sen. Tom Wright, Volusia Sheriff Mike Chitwood",
-              "url": "https://flvoicenews.com/ryan-elijah-lands-endorsement-from-sen-tom-wright-in-floridas-7th-congressional-district-race/",
-              "date": "2026"
-            },
-            {
-              "title": "Florida's Voice: Highlands County Sheriff Paul Blackman endorses Ryan Elijah",
-              "url": "https://flvoicenews.com/highlands-county-sheriff-paul-blackman-endorses-ryan-elijah-in-floridas-7th-congressional-district-race/",
-              "date": "2026"
+              "date": "2026-09-18"
             }
           ]
         },
@@ -175,11 +190,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Calls lower gas prices critical and backs American energy independence.",
+          "quote": "Lower gas prices are critical to our economy",
+          "sources": [
+            {
+              "title": "Ryan Elijah for Congress - Issues",
+              "url": "https://elijahforcongress.com/issues.html",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "tariffs": {
           "stance": -1,

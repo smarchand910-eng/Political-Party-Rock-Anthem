@@ -461,11 +461,17 @@
       "primary_result": "Won Aug 18, 2026 Democratic primary with 32% over Ronnie Murchinson-Rivera (27%), Steve Morgan (23%) and Rob Cooper (18%) (Florida Politics: https://floridapolitics.com/archives/814935-eric-yonce-wins-democratic-nomination-to-take-on-randy-fine-in-november/)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Would ask the wealthiest Americans to contribute a fairer share to fund benefits.",
+          "quote": "Ask the wealthiest Americans to contribute a fairer share.",
+          "sources": [
+            {
+              "title": "Eric Yonce for Congress - Top Issues",
+              "url": "https://www.yonceforcongress.com/top-issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -475,72 +481,69 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would stabilize insurance through resilience investment and federal reinsurance.",
+          "quote": "Stabilize insurance through resilience investments and federal reinsurance.",
+          "sources": [
+            {
+              "title": "Eric Yonce for Congress - Top Issues",
+              "url": "https://www.yonceforcongress.com/top-issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "housing": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Supports 'expanding affordable and workforce housing while protecting renters and homeowners' and prioritizing federal dollars for flood-hit communities.",
-          "quote": null,
+          "summary": "Would expand affordable and workforce housing while protecting renters and homeowners.",
+          "quote": "Expand affordable and workforce housing while protecting renters and homeowners.",
           "sources": [
             {
-              "title": "Florida Politics: Eric Yonce wins Democratic nomination to take on Randy Fine in November",
-              "url": "https://floridapolitics.com/archives/814935-eric-yonce-wins-democratic-nomination-to-take-on-randy-fine-in-november/",
-              "date": "2026-08-18"
-            },
-            {
-              "title": "Eric Yonce for Congress: Environment",
-              "url": "https://yonceforcongress.com/environment",
-              "date": null
+              "title": "Eric Yonce for Congress - Top Issues",
+              "url": "https://www.yonceforcongress.com/top-issues",
+              "date": "2026-09-18"
             }
           ]
         },
         "immigration": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "Says immigration policy 'must prioritize human dignity, due process, and community security'; supports securing borders through technology and staffing and pathways to citizenship, and opposes 'punitive measures against families, students, and law-abiding residents.'",
-          "quote": "a secure, fair immigration system that respects human dignity",
+          "summary": "Would secure borders with technology, focus enforcement on real threats rather than families and students, and create pathways to citizenship.",
+          "quote": "Focus enforcement on real public-safety threats, not contributing families and students.",
           "sources": [
             {
-              "title": "BallotReady: Eric Yonce",
-              "url": "https://www.ballotready.org/people/eric-yonce",
-              "date": null
-            },
-            {
-              "title": "Florida Politics: Eric Yonce wins Democratic nomination to take on Randy Fine in November",
-              "url": "https://floridapolitics.com/archives/814935-eric-yonce-wins-democratic-nomination-to-take-on-randy-fine-in-november/",
-              "date": "2026-08-18"
+              "title": "Eric Yonce for Congress - Top Issues",
+              "url": "https://www.yonceforcongress.com/top-issues",
+              "date": "2026-09-18"
             }
           ]
         },
         "abortion": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Supports a woman's right to choose and bodily autonomy, saying personal medical decisions 'should remain between individuals and their healthcare providers, not politicians' (BallotReady summary of campaign statements).",
-          "quote": null,
+          "summary": "Would protect reproductive freedom and keep health decisions between patients and providers.",
+          "quote": "Protect reproductive freedom and personal medical privacy.",
           "sources": [
             {
-              "title": "BallotReady: Eric Yonce",
-              "url": "https://www.ballotready.org/people/eric-yonce",
-              "date": null
-            },
-            {
-              "title": "Eric Yonce for Congress (campaign site)",
-              "url": "https://www.yonceforcongress.com/",
-              "date": null
+              "title": "Eric Yonce for Congress - Top Issues",
+              "url": "https://www.yonceforcongress.com/top-issues",
+              "date": "2026-09-18"
             }
           ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would require safety training for new purchases and strengthen background checks.",
+          "quote": "Require safety training and competency standards for new purchases.",
+          "sources": [
+            {
+              "title": "Eric Yonce for Congress - Top Issues",
+              "url": "https://www.yonceforcongress.com/top-issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "healthcare": {
           "stance": 1,
@@ -561,11 +564,17 @@
           ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would protect benefits and ask the wealthiest Americans to contribute a fairer share.",
+          "quote": "Ask the wealthiest Americans to contribute a fairer share.",
+          "sources": [
+            {
+              "title": "Eric Yonce for Congress - Top Issues",
+              "url": "https://www.yonceforcongress.com/top-issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -577,18 +586,13 @@
         "environment": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Campaign's environment page calls for protecting beaches, rivers, wetlands and inland neighborhoods from 'out-of-control development' and describes a climate crisis worsened by short-term profit-seeking.",
-          "quote": null,
+          "summary": "Would discourage development in floodplains and wetlands and expand resilience grants.",
+          "quote": "Discourage reckless development in floodplains, wetlands, and vulnerable coastal zones.",
           "sources": [
             {
-              "title": "Eric Yonce for Congress: Environment",
-              "url": "https://yonceforcongress.com/environment",
-              "date": null
-            },
-            {
-              "title": "Florida Politics: Eric Yonce wins Democratic nomination to take on Randy Fine in November",
-              "url": "https://floridapolitics.com/archives/814935-eric-yonce-wins-democratic-nomination-to-take-on-randy-fine-in-november/",
-              "date": "2026-08-18"
+              "title": "Eric Yonce for Congress - Top Issues",
+              "url": "https://www.yonceforcongress.com/top-issues",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -667,11 +671,17 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would expand VA care, transitional housing and suicide prevention.",
+          "quote": "Expand VA care, transitional housing, and suicide-prevention services.",
+          "sources": [
+            {
+              "title": "Eric Yonce for Congress - Top Issues",
+              "url": "https://www.yonceforcongress.com/top-issues",
+              "date": "2026-09-18"
+            }
+          ]
         }
       },
       "other_issues": [

@@ -437,31 +437,43 @@
           "sources": []
         },
         "insurance": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Says Florida homeowners pay the highest insurance rates in the country and that she would push for federal legislation to cut rates by at least 25%; this is a federal proposal rather than a position on state-level regulation.",
-          "quote": null,
+          "summary": "Would push federal legislation to cut homeowners-insurance rates by at least 25 percent.",
+          "quote": "Lower Homeowners Insurance",
           "sources": [
             {
-              "title": "Gay Valimont for Congress: Priorities",
+              "title": "Gay Valimont for Congress - Priorities",
               "url": "https://www.gayforcongress.com/issues",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports the bipartisan ROAD to Housing Act and stopping large Wall Street investors from buying up homes.",
+          "quote": "Expand Affordable Housing",
+          "sources": [
+            {
+              "title": "Gay Valimont for Congress - Priorities",
+              "url": "https://www.gayforcongress.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Would secure the border with technology and more judges while creating a clear legal path to citizenship.",
+          "quote": "a clear, legal path to citizenship",
+          "sources": [
+            {
+              "title": "Gay Valimont for Congress - Priorities",
+              "url": "https://www.gayforcongress.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "abortion": {
           "stance": 2,
@@ -484,49 +496,39 @@
         "guns": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "A gun-violence-prevention activist by occupation, she says she is 'fighting for commonsense gun safety.'",
-          "quote": "commonsense gun safety",
+          "summary": "Supports universal background checks and federal red-flag laws.",
+          "quote": "universal background checks and federal red flag laws",
           "sources": [
             {
-              "title": "Gay Valimont for Congress: Priorities",
+              "title": "Gay Valimont for Congress - Priorities",
               "url": "https://www.gayforcongress.com/issues",
-              "date": null
-            },
-            {
-              "title": "Ballotpedia: Gay Valimont",
-              "url": "https://ballotpedia.org/Gay_Valimont",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
         "healthcare": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Says she will focus on 'lowering insurance costs, expanding healthcare access' and protecting VA health care; specific positions on Medicaid expansion or ACA subsidies were not found.",
-          "quote": "lowering insurance costs, expanding healthcare access",
+          "summary": "Would fight for universal, affordable, quality health care and reinstate the $35 insulin cap.",
+          "quote": "fight for universal, affordable, quality healthcare",
           "sources": [
             {
-              "title": "Gay Valimont for Congress: Priorities",
+              "title": "Gay Valimont for Congress - Priorities",
               "url": "https://www.gayforcongress.com/issues",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
         "social_security": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Her priorities page says she will oppose 'any cuts to Social Security, Medicare, and VA benefits'; Ballotpedia notes she has criticized Sen. Rick Scott's proposals affecting those programs.",
-          "quote": "opposing any cuts to Social Security, Medicare, and VA benefits",
+          "summary": "No cuts and no privatization of Social Security and Medicare.",
+          "quote": "No cuts, no privatization",
           "sources": [
             {
-              "title": "Gay Valimont for Congress: Priorities",
+              "title": "Gay Valimont for Congress - Priorities",
               "url": "https://www.gayforcongress.com/issues",
-              "date": null
-            },
-            {
-              "title": "Ballotpedia: Gay Valimont",
-              "url": "https://ballotpedia.org/Gay_Valimont",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
@@ -559,18 +561,30 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would strengthen the John Lewis Voting Rights Act.",
+          "quote": "Strengthen the John Lewis Voting Rights Act",
+          "sources": [
+            {
+              "title": "Gay Valimont for Congress - Priorities",
+              "url": "https://www.gayforcongress.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Supports funding for both law enforcement and community programs, plus federal money for opioid treatment; a mixed position.",
+          "quote": "funding for both law enforcement and community programs",
+          "sources": [
+            {
+              "title": "Gay Valimont for Congress - Priorities",
+              "url": "https://www.gayforcongress.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -610,13 +624,13 @@
         "veterans": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Calls for a full-service VA hospital in Northwest Florida, full VA funding, clearing the claims backlog and expanded Tricare coverage.",
-          "quote": "Northwest Florida's veterans deserve top-tier healthcare close to home",
+          "summary": "Wants a full-service VA hospital in Northwest Florida and full funding to cut the VA backlog.",
+          "quote": "Build a Full-Service VA Hospital",
           "sources": [
             {
-              "title": "Gay Valimont for Congress: Priorities",
+              "title": "Gay Valimont for Congress - Priorities",
               "url": "https://www.gayforcongress.com/issues",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         }

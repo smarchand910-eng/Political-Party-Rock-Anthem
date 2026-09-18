@@ -69,13 +69,13 @@
         "immigration": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "His issues page calls President Trump's early-2025 border actions 'one of the administration's most important victories' and says he will work 'to codify strong border security policies into law.'",
-          "quote": "codify strong border security policies into law so that our border remains secure",
+          "summary": "Pledges to secure the border.",
+          "quote": "secure the border",
           "sources": [
             {
-              "title": "Austin Rogers for Florida: Issues",
-              "url": "https://rogersforflorida.com/issues/",
-              "date": null
+              "title": "Rogers for Florida - Home",
+              "url": "https://rogersforflorida.com/",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -149,11 +149,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to back law enforcement and the military.",
+          "quote": "back law enforcement and the military",
+          "sources": [
+            {
+              "title": "Rogers for Florida - Home",
+              "url": "https://rogersforflorida.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -186,18 +192,13 @@
         "trump": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "His announcement says he is running 'to be a strong, reliable vote for President Donald Trump's America First agenda.'",
+          "summary": "Promises to be a strong, reliable vote for President Trump's America First agenda.",
           "quote": "a strong, reliable vote for President Donald Trump's America First agenda",
           "sources": [
             {
-              "title": "Austin Rogers for Florida: Announces Run for Congress in Florida's 2nd District",
-              "url": "https://rogersforflorida.com/press-release/austin-rogers-announces-run-for-congress-in-floridas-2nd-district/",
-              "date": "2025"
-            },
-            {
-              "title": "Austin Rogers for Florida: Issues",
-              "url": "https://rogersforflorida.com/issues/",
-              "date": null
+              "title": "Rogers for Florida - Home",
+              "url": "https://rogersforflorida.com/",
+              "date": "2026-09-18"
             }
           ]
         },

@@ -34,20 +34,15 @@
       "primary_result": "Won Aug 18, 2026 Republican primary with ~63.5% over Eddie Speir and Ed Pope (Florida's Voice; Florida Politics)",
       "positions": {
         "taxes": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Gruters says she will fight rising prices 'with conservative solutions that help families keep more of what they earn' and told WSLR that controlling inflation comes down to balancing the federal budget.",
-          "quote": "You have to balance the budget. 49 of the 50 states do it. It's not impossible.",
+          "summary": "Pledges to cut taxes and regulations so families keep more of what they earn.",
+          "quote": "cut taxes and fight rising costs so working families can afford gas, groceries, and everyday essentials",
           "sources": [
             {
-              "title": "Sydney Gruters For Congress (campaign site)",
+              "title": "Gruters for Congress - Home",
               "url": "https://grutersforcongress.com/",
-              "date": null
-            },
-            {
-              "title": "District 16 congressional race: Sydney Gruters (WSLR+Fogartyville interview)",
-              "url": "https://wslr.org/district-16-congressional-race-sydney-gruters/",
-              "date": "2026"
+              "date": "2026-09-18"
             }
           ]
         },
@@ -84,20 +79,15 @@
           ]
         },
         "immigration": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Lists 'a secure border' among six legislative priorities and says she will 'work with President Trump and ICE to keep our families safe from violent criminals entering our country illegally.' No statement on large-scale deportation beyond people with criminal records was found.",
-          "quote": null,
+          "summary": "Would work with President Trump and ICE against 'violent criminals entering our country illegally'.",
+          "quote": "work with President Trump and ICE to keep our families safe from violent criminals entering our country illegally",
           "sources": [
             {
-              "title": "Sydney Gruters For Congress (campaign site)",
+              "title": "Gruters for Congress - Home",
               "url": "https://grutersforcongress.com/",
-              "date": null
-            },
-            {
-              "title": "Sydney Gruters, RNC chair's wife, launches Florida House bid (The Hill)",
-              "url": "https://thehill.com/homenews/5812771-sydney-gruters-congress-campaign/",
-              "date": "2026"
+              "date": "2026-09-18"
             }
           ]
         },
@@ -134,15 +124,15 @@
           "sources": []
         },
         "social_security": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Campaign site says she will 'protect Social Security and Medicare so seniors and those who served can retire with security.' No statement on how to finance the programs was found.",
-          "quote": null,
+          "summary": "Would protect Social Security and Medicare.",
+          "quote": "strengthen veterans' benefits and protect Social Security and Medicare",
           "sources": [
             {
-              "title": "Sydney Gruters For Congress (campaign site)",
+              "title": "Gruters for Congress - Home",
               "url": "https://grutersforcongress.com/",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
@@ -181,15 +171,15 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "Lists 'election security' among her six legislative priorities; no specific position on mail voting, drop boxes or new requirements was found as of Sept 2026.",
-          "quote": null,
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Would stand with President Trump to ensure elections are secure.",
+          "quote": "fight for Democracy and stand with President Trump to ensure our elections are secure",
           "sources": [
             {
-              "title": "Sydney Gruters, RNC chair's wife, launches Florida House bid (The Hill)",
-              "url": "https://thehill.com/homenews/5812771-sydney-gruters-congress-campaign/",
-              "date": "2026"
+              "title": "Gruters for Congress - Home",
+              "url": "https://grutersforcongress.com/",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -229,38 +219,28 @@
           "sources": []
         },
         "trump": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Gruters was endorsed by President Trump in the primary and says she will work with President Trump and ICE on border enforcement; her husband, Joe Gruters, chairs the Republican National Committee.",
-          "quote": null,
+          "summary": "Repeatedly pledges to work with and stand with President Trump.",
+          "quote": "stand with President Trump",
           "sources": [
             {
-              "title": "Sydney Gruters For Congress (campaign site)",
+              "title": "Gruters for Congress - Home",
               "url": "https://grutersforcongress.com/",
-              "date": null
-            },
-            {
-              "title": "Sydney Gruters, RNC chair's wife, launches Florida House bid (The Hill)",
-              "url": "https://thehill.com/homenews/5812771-sydney-gruters-congress-campaign/",
-              "date": "2026"
+              "date": "2026-09-18"
             }
           ]
         },
         "veterans": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Says she will 'strengthen veterans' benefits'; lists seniors and veterans among her six legislative priorities.",
-          "quote": null,
+          "summary": "Would strengthen veterans' benefits.",
+          "quote": "strengthen veterans' benefits",
           "sources": [
             {
-              "title": "Sydney Gruters For Congress (campaign site)",
+              "title": "Gruters for Congress - Home",
               "url": "https://grutersforcongress.com/",
-              "date": null
-            },
-            {
-              "title": "Sydney Gruters, RNC chair's wife, launches Florida House bid (The Hill)",
-              "url": "https://thehill.com/homenews/5812771-sydney-gruters-congress-campaign/",
-              "date": "2026"
+              "date": "2026-09-18"
             }
           ]
         }
