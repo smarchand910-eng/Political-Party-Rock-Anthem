@@ -23,7 +23,7 @@
       "incumbent": false,
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Jim_Schwartzel.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
-      "website": null,
+      "website": "https://www.jimforcongress.com/",
       "occupation": "Businessman; president of Sun Broadcasting",
       "residence": "Southwest Florida (Lee County area; not verified)",
       "background": "Jim Schwartzel is a Southwest Florida media executive and president of Sun Broadcasting. He won the ten-candidate Aug. 18, 2026 Republican primary with 29.39% (26,140 votes), finishing more than 6,000 votes ahead of Trump-endorsed Catalina Lauf (about 22%). The seat opened when Rep. Byron Donalds ran for governor.",
@@ -179,22 +179,28 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
-        },
-        "lgbtq": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Says he will defend every American's rights 'while protecting girls' sports and keeping adult content away from kids'; no statement specifically on Florida's gender-affirming-care or classroom-instruction laws was found.",
-          "quote": null,
+          "summary": "Pledges to restore law and order.",
+          "quote": "restore law and order",
           "sources": [
             {
-              "title": "Meet Congressional District 19 hopeful Jim Schwartzel before election (News-Press Q&A via Yahoo)",
-              "url": "https://www.yahoo.com/news/politics/articles/meet-congressional-district-19-hopeful-133744647.html",
-              "date": "2026"
+              "title": "Jim Schwartzel for Congress - Priorities",
+              "url": "https://www.jimforcongress.com/issues",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Opposes what he calls the push to force gender ideology into schools, sports and workplaces, and stands against biological men competing in women's sports.",
+          "quote": "firmly against biological men competing in women's sports",
+          "sources": [
+            {
+              "title": "Jim Schwartzel for Congress - Priorities",
+              "url": "https://www.jimforcongress.com/issues",
+              "date": "2026-09-18"
             }
           ]
         },

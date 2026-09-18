@@ -3321,32 +3321,56 @@
    "primary_result": "No primary; qualified as NPA candidate for the Nov. 3 general election (LiveNOW from FOX; WUWF, June 2026)",
    "positions": {
     "taxes": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
+     "stance": -1,
+     "confidence": "stated",
+     "summary": "Proposes a 9.9 percent consumption tax on annual spending above $1 million to fund housing, teachers, health-care workers and skilled trades.",
      "quote": null,
-     "sources": []
+     "sources": [
+      {
+       "title": "Russo-Rodriguez 2026 - Affordability",
+       "url": "https://russo2026.com/en/priorities/affordability",
+       "date": "2026-09-18"
+      }
+     ]
     },
     "property_tax": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "Supports 'responsible' property-tax relief while protecting schools and public safety, paired with eliminating waste.",
+     "quote": "You shouldn't be taxed out of a home you've worked your entire life to own.",
+     "sources": [
+      {
+       "title": "Russo-Rodriguez 2026 - Affordability",
+       "url": "https://russo2026.com/en/priorities/affordability",
+       "date": "2026-09-18"
+      }
+     ]
     },
     "insurance": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "Says he will 'stabilize insurance'; as an insurance executive he has not, in available coverage, specified whether through state intervention or market reforms.",
-     "quote": null,
-     "sources": []
+     "stance": 0,
+     "confidence": "stated",
+     "summary": "Promises more accountability, competition and stability in the insurance market, drawing on 30 years in the industry; a mixed position between regulation and market reform.",
+     "quote": "Florida homeowners should not have to wonder whether the next insurance renewal will make their home unaffordable.",
+     "sources": [
+      {
+       "title": "Russo-Rodriguez 2026 - Affordability",
+       "url": "https://russo2026.com/en/priorities/affordability",
+       "date": "2026-09-18"
+      }
+     ]
     },
     "housing": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "Says his campaign will 'expand housing' and 'restore affordability' but no specific policy mechanism was found.",
-     "quote": null,
-     "sources": []
+     "stance": 1,
+     "confidence": "stated",
+     "summary": "Says Florida needs more housing working people can afford and wants measurable affordability returns when public incentives support development.",
+     "quote": "Florida needs more housing that working people can actually afford.",
+     "sources": [
+      {
+       "title": "Russo-Rodriguez 2026 - Affordability",
+       "url": "https://russo2026.com/en/priorities/affordability",
+       "date": "2026-09-18"
+      }
+     ]
     },
     "immigration": {
      "stance": 0,
@@ -3376,11 +3400,17 @@
      "sources": []
     },
     "healthcare": {
-     "stance": null,
-     "confidence": "unknown",
-     "summary": "No public position found as of Sept 2026.",
-     "quote": null,
-     "sources": []
+     "stance": 0,
+     "confidence": "stated",
+     "summary": "Frames health policy as 'medical freedom': decisions made by patients with providers, informed consent and transparency, without proposals on Medicaid or coverage; a mixed position.",
+     "quote": "lawful medical decisions should be made by Floridians in consultation with their healthcare providers—not dictated by government",
+     "sources": [
+      {
+       "title": "Russo-Rodriguez 2026 - Medical Freedom",
+       "url": "https://russo2026.com/en/priorities/medical-freedom",
+       "date": "2026-09-18"
+      }
+     ]
     },
     "social_security": {
      "stance": null,
