@@ -22,3 +22,15 @@ python3 scripts/reconcile_ballot.py --write    # apply status changes, review co
 python3 scripts/code_state_rollcalls.py        # after adding a legislator to the matrix
 python3 scripts/build_data.py && node scripts/audit_placement.js
 ```
+
+## fetch_early_voting.py
+`python3 scripts/fetch_early_voting.py review.json` follows the "Early Voting" link on every county Supervisor of Elections
+homepage and lists the General Election dates and hours it finds, with the surrounding text, for review. Update the
+`early_voting` entries in `data/research/counties.json` by hand from that file (many sites still show the primary
+schedule, and some block automated requests). The weekly `ballot-check` workflow runs it and attaches the review file.
+
+## fetch_ballotpedia.py
+`python3 scripts/fetch_ballotpedia.py needs.json out.json --photos` looks each candidate up on Ballotpedia (name, then
+first + last, then with a "(Florida)" suffix), accepts the page only if it is a person infobox mentioning Florida, 2026 and
+the district or county, and records the campaign website, the profile link and (with `--photos`) a downloaded portrait
+in `assets/photos/`. `scripts/apply_ballotpedia.py out.json` writes the results into the research files.

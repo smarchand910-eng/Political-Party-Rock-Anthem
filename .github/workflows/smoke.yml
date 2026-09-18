@@ -1,0 +1,30 @@
+name: Smoke test (render every page)
+on:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Build data files
+        run: |
+          python3 scripts/build_data.py
+          python3 scripts/build_statewide.py
+      - name: Check JavaScript syntax
+        run: node -e "require('vm').createScript(require('fs').readFileSync('assets/app.js','utf8'))"
+      - name: Install Playwright
+        run: |
+          npm init -y >/dev/null
+          npm install --no-audit --no-fund playwright@1
+          npx playwright install --with-deps chromium
+      - name: Render every route in both languages
+        run: node scripts/smoke_test.js

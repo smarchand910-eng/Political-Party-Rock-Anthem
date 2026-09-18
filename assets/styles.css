@@ -336,3 +336,29 @@ a.tag-link:hover, a.tag-link:focus-visible { outline: 2px solid var(--accent); o
 
 .lang-toggle{background:var(--surface-2);border:2px solid var(--accent);color:var(--accent);border-radius:999px;padding:8px 18px;font:inherit;font-size:1.05rem;font-weight:700;cursor:pointer;margin-right:8px;line-height:1.2}
 .lang-toggle:hover{background:var(--accent-soft)}
+
+/* ---------- Printable ballot cheat sheet ---------- */
+.cheatsheet .cs-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; flex-wrap: wrap; }
+.cheatsheet h2 { margin: 22px 0 8px; font-size: 1.1rem; border-bottom: 2px solid var(--border); padding-bottom: 4px; }
+.cs-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 10px; }
+.cs-race { border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 10px 12px; break-inside: avoid; background: var(--surface); }
+.cs-race h3 { margin: 0 0 6px; font-size: .95rem; }
+.cs-list { list-style: none; margin: 0; padding: 0; }
+.cs-list li { display: flex; align-items: center; gap: 8px; padding: 3px 0; font-size: .92rem; }
+.cs-box { display: inline-block; width: 14px; height: 14px; border: 1.5px solid var(--text); border-radius: 3px; flex: none; }
+.cs-name { flex: 1; }
+.cs-pct { font-variant-numeric: tabular-nums; font-weight: 600; min-width: 38px; text-align: right; }
+.cs-best { font-size: .7rem; text-transform: uppercase; letter-spacing: .04em; color: var(--accent); border: 1px solid var(--accent); border-radius: 999px; padding: 1px 6px; white-space: nowrap; }
+.cs-yesno { display: flex; gap: 18px; }
+.cs-foot ul { margin: 0; padding-left: 18px; font-size: .9rem; }
+.small { font-size: .85rem; }
+@media print {
+  .no-print { display: none !important; }
+  .cheatsheet { font-size: 11px; }
+  .cheatsheet h1 { font-size: 18px; margin: 0; }
+  .cheatsheet h2 { font-size: 13px; margin: 12px 0 6px; }
+  .cs-grid { grid-template-columns: repeat(2, 1fr); gap: 6px; }
+  .cs-race { padding: 6px 8px; }
+  .cs-list li { font-size: 11px; padding: 1px 0; }
+  .container { max-width: none; padding: 0; }
+}
