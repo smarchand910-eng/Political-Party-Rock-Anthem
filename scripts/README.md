@@ -34,3 +34,15 @@ schedule, and some block automated requests). The weekly `ballot-check` workflow
 first + last, then with a "(Florida)" suffix), accepts the page only if it is a person infobox mentioning Florida, 2026 and
 the district or county, and records the campaign website, the profile link and (with `--photos`) a downloaded portrait
 in `assets/photos/`. `scripts/apply_ballotpedia.py out.json` writes the results into the research files.
+
+## smoke_test.js
+`node scripts/smoke_test.js` serves the site from a local port and renders every route (all races, candidates and
+counties) in English and Spanish in headless Chromium, exercising the manual address form and the quiz; it fails on any
+JavaScript error or empty page. `.github/workflows/smoke.yml` runs it on every pull request.
+
+## check_links.py, archive_dead_links.py, fix_photos.py
+`python3 scripts/check_links.py report.md` probes every source link in the research files and lists the ones that are
+definitely gone (404/410/no DNS) separately from the ones that only block automated requests; the weekly `link-check`
+workflow opens an issue for dead links. `python3 scripts/archive_dead_links.py report.md` swaps dead article links for
+Wayback Machine copies. `python3 scripts/fix_photos.py` replaces portrait URLs that return 404 with a local copy from
+Ballotpedia or the unitedstates.github.io congressional portrait mirror.
