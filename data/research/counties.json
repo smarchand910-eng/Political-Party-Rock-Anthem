@@ -73,7 +73,13 @@
       "soe_url": "https://www.clayelections.gov/",
       "sample_ballot_url": null,
       "county_seat": "Green Cove Springs",
-      "notes": "Domain ClayElections.gov listed in a search snippet of the state directory; not independently verified. Supervisor: Chris H. Chambless. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "Domain ClayElections.gov listed in a search snippet of the state directory; not independently verified. Supervisor: Chris H. Chambless. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Fri Oct 23 – Sat Oct 31, 2026",
+        "hours": "9 a.m.–6 p.m. daily at all seven sites",
+        "sites_url": "https://clayelections.gov/event/early-voting-for-the-general-election-2/",
+        "note": "From the Clay County Supervisor of Elections calendar (Sept. 2026); confirm sites before you go."
+      }
     },
     "Collier": {
       "soe_name": "Collier County Supervisor of Elections",
@@ -108,7 +114,13 @@
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Jacksonville",
-      "notes": "Snippet listed 'DuvalElections.com'; current domain uncertain (may be duvalelections.gov) so left null. Supervisor: Jerry Holland. Duval is consolidated with the City of Jacksonville (no county commission; City Council instead). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "Snippet listed 'DuvalElections.com'; current domain uncertain (may be duvalelections.gov) so left null. Supervisor: Jerry Holland. Duval is consolidated with the City of Jacksonville (no county commission; City Council instead). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Sat Oct 24 – Sun Nov 1, 2026",
+        "hours": "Oct 24–25 and Oct 31–Nov 1: 9 a.m.–5 p.m.; Oct 26–30: 7 a.m.–7 p.m.",
+        "sites_url": "https://www.duvalelections.gov/236/Early-Voting",
+        "note": "From the Duval County Supervisor of Elections early-voting page (Sept. 2026); confirm sites before you go."
+      }
     },
     "Escambia": {
       "soe_name": "Escambia County Supervisor of Elections",
@@ -423,7 +435,13 @@
       "soe_url": "https://elections.sumtercountyfl.gov/",
       "sample_ballot_url": null,
       "county_seat": "Bushnell",
-      "notes": "URL seen in search result. Supervisor: William 'Bill' Keen. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result. Supervisor: William 'Bill' Keen. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": "10 a.m.–6 p.m. daily",
+        "sites_url": "https://elections.sumtercountyfl.gov/",
+        "note": "From the Sumter County Supervisor of Elections (Sept. 2026)."
+      }
     },
     "Suwannee": {
       "soe_name": "Suwannee County Supervisor of Elections",

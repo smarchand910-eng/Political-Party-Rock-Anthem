@@ -18,8 +18,37 @@ def load(path, default=None):
     except FileNotFoundError:
         return default
 
+def norm_name(s):
+    import unicodedata
+    s = re.sub(r'\b(jr|sr|ii|iii|iv)\.?$', '', (s or '').strip(), flags=re.I)
+    return re.sub(r'[^a-z]', '', unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode().lower())
+
+def fec_lookup(fec_rows, cand, race_id):
+    """Match a federal candidate to an FEC summary row by last name and district."""
+    if race_id == 'us_senate_special': dist = '00'
+    elif race_id.startswith('us_house_'): dist = race_id.split('_')[-1].zfill(2)
+    else: return None
+    last = norm_name(cand['name'].split()[-1]); first = norm_name(cand['name'].split()[0])[:3]
+    hits = [r for r in fec_rows if r['district'] == dist and norm_name(r['name'].split(',')[0].split()[-1]) == last]
+    if len(hits) > 1: hits = [r for r in hits if norm_name(r['name'].split(',')[1] if ',' in r['name'] else '')[:3] == first] or hits
+    if not hits: return None
+    hits.sort(key=lambda r: (r['through'][-4:] + r['through'][:2] + r['through'][3:5], r['receipts']), reverse=True)
+    r = hits[0]
+    return {'source': 'FEC', 'fec_id': r['fec_id'], 'receipts': r['receipts'], 'disbursements': r['disbursements'], 'cash_on_hand': r['cash_on_hand'], 'individual': r['individual'], 'pac': r['pac'], 'self': r['self'], 'through': r['through'], 'url': f"https://www.fec.gov/data/candidate/{r['fec_id']}/"}
+
+def last_checked(c):
+    dates = []
+    for p in (c.get('positions') or {}).values():
+        for src in (p.get('sources') or []): dates.append(str(src.get('date') or ''))
+    for key in ('roster_sources', 'sources'):
+        for src in (c.get(key) or []):
+            if isinstance(src, dict): dates.append(str(src.get('date') or ''))
+    dates = [d for d in dates if re.match(r'^\d{4}(-\d{2})?(-\d{2})?$', d)]
+    return max(dates) if dates else None
+
 def main():
     issues = load(os.path.join(DATA, 'issues.json'))['issues']
+    fec_rows = (load(os.path.join(DATA, 'finance', 'fec_fl_2026.json'), {}) or {}).get('candidates', [])
     issue_ids = {i['id'] for i in issues}
     races_meta = load(os.path.join(DATA, 'races.json'))['races']
     known_ids = {m['id'] for m in races_meta}
@@ -86,6 +115,10 @@ def main():
                     c['photo_local'] = f"assets/photos/{c.get('id')}.{ext}"
                     c['photo_source'] = 'Ballotpedia candidate photo (downloaded copy in assets/photos)'
                     break
+            fin = fec_lookup(fec_rows, c, meta['id'])
+            if fin: c['finance'] = fin
+            lc = last_checked(c)
+            if lc: c['last_checked'] = lc
             for iid in issue_ids:
                 p = positions.get(iid)
                 if not p:
