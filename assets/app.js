@@ -305,7 +305,7 @@
       ${bubbles}${you}
     </svg><div class="map-tip" role="tooltip"></div></div>
     <div class="map-legend" aria-label="Bubble colors by party">${(() => { const seen = new Map(); cands.forEach(c => { const k = partyClass(c.party); if (!seen.has(k)) seen.set(k, c.party || 'No Party Affiliation'); }); return [...seen.entries()].map(([k, label]) => `<span><i class="${k}"></i>${esc(label)}</span>`).join(''); })()}<span class="muted">· photo or initials inside each bubble · hover or tap for details</span></div>
-    ${tray.length ? `<div class="map-tray">Not enough documented positions to place: ${tray.map(c => `<a class="cand-chip" href="#/candidate/${esc(c.id)}">${avatar(c, 'sm')}${esc(c.name)}</a>`).join('')}</div>` : ''}
+    ${tray.length ? `<div class="map-tray">${T('Not enough documented positions to place:', 'Sin suficientes posiciones documentadas para ubicar:')} ${tray.map(c => `<a class="cand-chip" href="#/candidate/${esc(c.id)}">${avatar(c, 'sm')}${esc(c.name)}</a>`).join('')}</div>` : ''}
     <details style="margin-top:10px"><summary>How the axes are computed</summary><p class="muted" style="margin-top:8px">Each axis is the average of a candidate's coded stances (+2 to −2) on a fixed set of statements, so it comes straight from the documented positions and nothing else. A candidate needs at least three documented statements on an axis to be placed.</p>
       <p><strong>${esc(AXES.x.label)}</strong> (toward "${esc(AXES.x.pos)}"): ${Object.entries(AXES.x.parts).map(([k, v]) => `${esc(ISSUE_BY_ID[k] ? ISSUE_BY_ID[k].label : k)} (${v > 0 ? 'agree' : 'disagree'})`).join(', ')}.</p>
       <p><strong>${esc(AXES.y.label)}</strong> (toward "${esc(AXES.y.pos)}"): ${Object.entries(AXES.y.parts).map(([k, v]) => `${esc(ISSUE_BY_ID[k] ? ISSUE_BY_ID[k].label : k)} (${v > 0 ? 'agree' : 'disagree'})`).join(', ')}.</p>
@@ -346,6 +346,12 @@
       <div class="heat" role="group" aria-label="${T('Where the candidates split, by issue', 'Dónde se dividen los candidatos, por tema')}">${cells}</div>
       <div class="heat-labels">${issues.map(i => `<span title="${esc(iLabel(i))}">${esc(iLabel(i))}</span>`).join('')}</div>
       <div class="heat-tip muted" aria-live="polite">${T('Where the candidates in this race split, issue by issue.', 'Dónde se dividen los candidatos de esta contienda, tema por tema.')}</div>`;
+  }
+  function bindColumns(root) {
+    const pick = root.querySelector('[data-colpicker]'); if (!pick) return;
+    const apply = () => { pick.querySelectorAll('[data-colcand]').forEach(cb => { root.querySelectorAll(`.compare [data-cand="${cb.dataset.colcand}"]`).forEach(cell => cell.classList.toggle('col-hidden', !cb.checked)); }); };
+    pick.querySelectorAll('[data-colcand]').forEach(cb => cb.addEventListener('change', apply));
+    const all = pick.querySelector('[data-colall]'); if (all) all.addEventListener('click', () => { pick.querySelectorAll('[data-colcand]').forEach(cb => { cb.checked = true; }); apply(); });
   }
   function bindHeat(root) {
     const tip = root.querySelector('.heat-tip'); if (!tip) return;
@@ -465,11 +471,12 @@
         ${heatStrip(r, cands, issues)}
         <div class="legend" style="margin-top:14px"><span class="stance stance-2">${stanceLabel('2')}</span><span class="stance stance-1">${stanceLabel('1')}</span><span class="stance stance-0">${stanceLabel('0')}</span><span class="stance stance--1">${stanceLabel('-1')}</span><span class="stance stance--2">${stanceLabel('-2')}</span><span class="stance stance-null">${stanceLabel('null')}</span></div>
         <p class="muted">${T('Each row is a statement. The chips show how each candidate\'s stated positions or record relate to that statement. Expand a row to read the evidence and sources. "No public position found" means we could not find a statement or record on the topic, not that the candidate has none.', 'Cada fila es una afirmación. Las etiquetas muestran cómo se relacionan con ella las posiciones declaradas o el historial de cada candidato. Abra una fila para leer la evidencia y las fuentes. "No se encontró una posición pública" significa que no encontramos una declaración ni un registro sobre el tema, no que el candidato no tenga posición.')}</p>
+        ${cands.length > 2 ? `<div class="col-picker" data-colpicker><span class="muted">${T('Show:', 'Mostrar:')}</span>${cands.map(c => `<label><input type="checkbox" checked data-colcand="${esc(c.id)}"> ${esc(c.name.split(' ').slice(-1)[0])}</label>`).join('')}<button type="button" class="btn btn-sm" data-colall>${T('All', 'Todos')}</button></div>` : ''}
         <div class="table-wrap"><table class="compare">
-          <thead><tr><th>${T('Issue', 'Tema')}</th>${cands.map(c => `<th class="cand-col"><a href="#/candidate/${esc(c.id)}">${esc(c.name)}</a><br>${partyTag(c)}</th>`).join('')}</tr></thead>
+          <thead><tr><th>${T('Issue', 'Tema')}</th>${cands.map(c => `<th class="cand-col" data-cand="${esc(c.id)}"><a href="#/candidate/${esc(c.id)}">${esc(c.name)}</a><br>${partyTag(c)}</th>`).join('')}</tr></thead>
           <tbody>${issues.map(issue => `<tr data-issue="${esc(issue.id)}">
             <td class="issue-cell">${esc(iLabel(issue))}<small>${esc(iStmt(issue))}</small></td>
-            ${cands.map(c => { const p = (c.positions || {})[issue.id]; return `<td>${stanceChip(p)}${p && p.summary && p.stance != null ? `<div class="cell-summary">${esc(p.summary)}${sourcesHtml(p.sources)}</div>` : ''}</td>`; }).join('')}
+            ${cands.map(c => { const p = (c.positions || {})[issue.id]; return `<td data-cand="${esc(c.id)}">${stanceChip(p)}${p && p.summary && p.stance != null ? `<div class="cell-summary">${esc(p.summary)}${sourcesHtml(p.sources)}</div>` : ''}</td>`; }).join('')}
           </tr>`).join('')}</tbody>
         </table></div>
       </section>
@@ -917,7 +924,7 @@
     let html = '', nav = 'home', after = null;
     if (parts.length === 0) { html = viewHome(); }
     else if (parts[0] === 'races') { const f = parts[1] === 'group' && parts[2] ? { kind: 'group', value: decodeURIComponent(parts[2]) } : parts[1] === 'jur' && parts[2] ? { kind: 'jur', value: decodeURIComponent(parts[2]) } : null; html = viewRaces(f); nav = 'races'; }
-    else if (parts[0] === 'race' && parts[1]) { html = viewRace(decodeURIComponent(parts[1])); nav = 'races'; after = r => { bindHeat(r); bindMap(r); }; }
+    else if (parts[0] === 'race' && parts[1]) { html = viewRace(decodeURIComponent(parts[1])); nav = 'races'; after = r => { bindHeat(r); bindMap(r); bindColumns(r); }; }
     else if (parts[0] === 'candidate' && parts[1]) { html = viewCandidate(decodeURIComponent(parts[1])); nav = 'races'; }
     else if (parts[0] === 'match' && parts[1] === 'cheatsheet') { html = viewCheatsheet(); nav = 'match'; after = r => { const p = r.querySelector('[data-print]'); if (p) p.addEventListener('click', () => window.print()); }; }
     else if (parts[0] === 'match' && parts[1] === 'results') { html = viewResults(); nav = 'match'; after = r => { const p = r.querySelector('[data-print]'); if (p) p.addEventListener('click', () => window.print()); bindMap(r); const f = r.querySelector('[data-mapfilter]'); if (f) f.querySelectorAll('button').forEach(b => b.addEventListener('click', () => { f.querySelectorAll('button').forEach(x => x.classList.toggle('selected', x === b)); const id = b.dataset.race; const cands = (id === 'all' ? ballotRaces(loadProfile()).flatMap(r => r.candidates || []) : (RACE_BY_ID[id].candidates || [])).filter(c => !c.withdrawn); r.querySelector('[data-mapcard]').innerHTML = landscapeMap(cands, { you: userPoint(loadAnswers()) }); bindMap(r); })); }; }

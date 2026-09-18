@@ -595,8 +595,8 @@
       "name": "Deborah Adeimy",
       "party": "Republican",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Deborah_Adeimy.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": null,
+      "photo_source": null,
       "website": "https://debadeimy4congress.com/",
       "occupation": "Financial advisor / fiduciary (prior roles at Citigroup Global Markets, Merrill Lynch, Morgan Stanley, Wells Fargo Advisors and J.P. Morgan)",
       "residence": "West Palm Beach, Palm Beach County",
@@ -914,7 +914,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Deborah_Adeimy"
+        }
+      ]
     }
   ]
 }

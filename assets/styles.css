@@ -14,8 +14,8 @@
   --danger: #a8323e;
   --rep: #b3261e;
   --dem: #1a56a8;
-  --lib: #b08400;
-  --npa: #0a8f9c;
+  --lib: #8a6800;
+  --npa: #077680;
   --wri: #8a4fb5; /* party palette validated with the dataviz checker (light) */
   --shadow: 0 1px 2px rgba(16, 32, 43, .06), 0 4px 16px rgba(16, 32, 43, .06);
   --radius: 14px;
@@ -152,7 +152,7 @@ th { font-size: .82rem; text-transform: uppercase; letter-spacing: .05em; color:
 .stance--1 { background: color-mix(in srgb, var(--danger) 9%, var(--surface)); color: var(--danger); }
 .stance--2 { background: color-mix(in srgb, var(--danger) 18%, var(--surface)); color: var(--danger); border-color: color-mix(in srgb, var(--danger) 40%, var(--border)); }
 .stance-null { background: transparent; color: var(--text-muted); border-style: dashed; }
-.conf { font-size: .72rem; color: var(--text-muted); font-weight: 500; }
+.conf { font-size: .72rem; color: inherit; font-weight: 500; }
 .issue-block { padding: 14px 0; border-bottom: 1px solid var(--border); }
 .issue-block:last-child { border-bottom: 0; }
 .issue-block h4 { margin: 0 0 4px; font-size: 1rem; }
@@ -273,7 +273,7 @@ p, li, dd, .background, .issue-summary, .cell-summary, .sources, .notice, .brand
 .map-filters button { padding: 5px 12px; border-radius: 999px; border: 1px solid var(--border); background: var(--surface); cursor: pointer; font-size: .85rem; font-weight: 600; color: var(--text); }
 .map-filters button.selected { background: var(--accent-soft); color: var(--accent); border-color: transparent; }
 .map-tray { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 10px; font-size: .85rem; color: var(--text-muted); }
-.map-tray .cand-chip { opacity: .8; }
+.map-tray .cand-chip { border: 1px dashed var(--border); }
 
 /* ---------- Heat strip ---------- */
 .heat { display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: 3px; margin: 10px 0 6px; }
@@ -362,3 +362,17 @@ a.tag-link:hover, a.tag-link:focus-visible { outline: 2px solid var(--accent); o
   .cs-list li { font-size: 11px; padding: 1px 0; }
   .container { max-width: none; padding: 0; }
 }
+
+/* Column picker on race comparison tables */
+.col-picker { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; margin: 10px 0; font-size: .9rem; }
+.col-picker label { display: inline-flex; align-items: center; gap: 4px; cursor: pointer; }
+.compare .col-hidden { display: none; }
+
+/* ---------- Accessibility: WCAG AA contrast and link affordance ---------- */
+:root { --success-text: #176641; --danger-text: #a12a3a; --avatar-text: #4d5866; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --success-text: var(--success); --danger-text: var(--danger); --avatar-text: var(--text-muted); } }
+:root[data-theme="dark"] { --success-text: var(--success); --danger-text: var(--danger); --avatar-text: var(--text-muted); }
+.stance-2, .stance-1 { color: var(--success-text); }
+.stance--2, .stance--1 { color: var(--danger-text); }
+.avatar { color: var(--avatar-text); }
+p a:not(.btn), li a:not(.btn), dd a, small a, .sources a, .notice a, .lead a, .muted a, td a, th a, .breadcrumb a, .section-head a, .profile-links a, .map-tray a, .map-note a, .card p a, .cand-card h3 a { text-decoration: underline; text-underline-offset: 2px; text-decoration-thickness: 1px; }

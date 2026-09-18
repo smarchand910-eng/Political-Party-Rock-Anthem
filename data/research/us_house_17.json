@@ -24,7 +24,7 @@
       "incumbent": true,
       "photo_url": "https://www.congress.gov/img/member/s001214_200.jpg",
       "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
-      "website": null,
+      "website": "https://www.electgregsteube.com/",
       "occupation": "U.S. Representative (since 2019)",
       "residence": "Sarasota County",
       "background": "Greg Steube has represented Florida's 17th District since January 2019 and previously served in the Florida House and Senate; he sits on the House Ways and Means Committee. He was unopposed in the Aug. 18, 2026 Republican primary. Under the 2026 map the district gives up inland eastern Sarasota County and takes in more of Fort Myers in Lee County.",
@@ -521,7 +521,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Greg_Steube"
+        }
+      ]
     },
     {
       "id": "matthew_montavon",
@@ -860,7 +866,13 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Michael_Quirk"
+        }
+      ]
     }
   ]
 }

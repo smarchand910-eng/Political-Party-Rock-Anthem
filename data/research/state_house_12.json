@@ -22,9 +22,9 @@
       "name": "Terrance Freeman",
       "party": "Republican",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/terrance_freeman.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://terrancefreeman.com/",
       "occupation": null,
       "residence": null,
       "background": "Republican candidate for the open HD 12 seat vacated by term-limited Rep. Wyman Duggan; Florida's Voice reported his campaign launch.",
@@ -177,6 +177,12 @@
           "title": "Terrance Freeman launches bid for Florida House District 12 (Florida's Voice)",
           "url": "https://flvoicenews.com/terrance-freeman-launches-bid-for-florida-house-district-12/",
           "date": null
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Terrance_Freeman"
         }
       ]
     },
@@ -335,6 +341,12 @@
           "title": "2026 Voter's Guide: Florida House District 12 (News4JAX)",
           "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-12/",
           "date": "2026-07-31"
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Benjamin_Sandlin"
         }
       ]
     }

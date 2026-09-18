@@ -31,7 +31,7 @@
       "incumbent": true,
       "photo_url": "https://www.flsenate.gov/Senators/s6",
       "photo_source": "Florida Senate member page (portrait image URL not verified; site blocked in sandbox)",
-      "website": null,
+      "website": "https://votejenniferbradley.com",
       "occupation": "State Senator; attorney",
       "residence": "Fleming Island, Clay County",
       "background": "Bradley, a Fleming Island attorney, was first elected to the Senate in 2020 and re-elected in 2022; she is seeking another term in 2026 with no primary opposition.",
@@ -495,15 +495,21 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Jennifer_Bradley"
+        }
+      ]
     },
     {
       "id": "jason_bellamy_fults",
       "name": "Jason Bellamy-Fults",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
+      "photo_url": "assets/photos/jason_bellamy_fults.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.takingbackflorida.org/",
       "occupation": "Academic technology staff, University of Florida; IBEW Local 1205 recording secretary; former solar installer",
       "residence": null,
@@ -677,7 +683,13 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Jason_Bellamy-Fults"
+        }
+      ]
     },
     {
       "id": "joseph_thornton",
@@ -848,7 +860,13 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Joseph_Thornton"
+        }
+      ]
     }
   ]
 }

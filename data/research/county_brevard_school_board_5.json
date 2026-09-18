@@ -23,9 +23,9 @@
       "name": "Tammy Dennis",
       "party": "Nonpartisan",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/tammy_dennis.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://tammyforstudents.com",
       "occupation": null,
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
@@ -41,16 +41,22 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Tammy_Dennis_%28Florida%29"
+        }
+      ]
     },
     {
       "id": "michele_mccormack",
       "name": "Michele McCormack",
       "party": "Nonpartisan",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/michele_mccormack.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://www.electmichelemccormack.com/",
       "occupation": null,
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
@@ -66,7 +72,13 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Michele_McCormack"
+        }
+      ]
     }
   ]
 }

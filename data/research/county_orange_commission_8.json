@@ -17,9 +17,9 @@
       "name": "Victor Torres",
       "party": "Nonpartisan",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/victor_torres.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://www.electvictorres.com/",
       "occupation": null,
       "residence": null,
       "background": "Former state senator. Led the primary for the newly created District 8.",
@@ -181,6 +181,12 @@
           "title": "Crowded Orange County Commission races get whittled down to runoffs",
           "url": "https://floridapolitics.com/archives/814394-crowded-orange-county-commission-races-get-whittled-down-to-runoffs/"
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Victor_Torres_%28Florida%29"
+        }
       ]
     },
     {
@@ -190,7 +196,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://www.jeannette2026.com/",
       "occupation": null,
       "residence": null,
       "background": "Advanced to the runoff as runner-up in the District 8 primary.",
@@ -351,6 +357,12 @@
         {
           "title": "Crowded Orange County Commission races get whittled down to runoffs",
           "url": "https://floridapolitics.com/archives/814394-crowded-orange-county-commission-races-get-whittled-down-to-runoffs/"
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Jeannette_Quinones_Hernandez"
         }
       ]
     }

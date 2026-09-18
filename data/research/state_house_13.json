@@ -22,8 +22,8 @@
       "name": "Audrey Gibson",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
+      "photo_url": "assets/photos/audrey_gibson.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
       "occupation": null,
       "residence": null,
@@ -275,6 +275,12 @@
           "url": "https://en.wikipedia.org/wiki/2026_Florida_House_of_Representatives_election",
           "date": null
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Audrey_Gibson"
+        }
       ]
     },
     {
@@ -300,7 +306,13 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Brice_Gaillard"
+        }
+      ]
     }
   ]
 }

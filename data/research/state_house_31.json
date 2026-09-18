@@ -22,9 +22,9 @@
       "name": "Matt Woodside",
       "party": "Republican",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/matt_woodside.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://www.woodsideforflorida.com/",
       "occupation": null,
       "residence": null,
       "background": "Republican nominee for HD 31 (Brevard County) after winning the Aug. 18, 2026 Republican primary.",
@@ -172,6 +172,12 @@
           "title": "Live updates: Key Primary Election results in Central Florida (Central Florida Public Media)",
           "url": "https://www.cfpublic.org/live-updates/live-updates-primary-election-day-in-central-florida",
           "date": "2026-08-18"
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Matt_Woodside"
         }
       ]
     },

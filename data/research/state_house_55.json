@@ -25,7 +25,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://www.walterforflorida.com/",
       "occupation": null,
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
@@ -41,15 +41,21 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Walter_Price_%28Florida%29"
+        }
+      ]
     },
     {
       "id": "zach_funkhouser",
       "name": "Zach Funkhouser",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
+      "photo_url": "assets/photos/zach_funkhouser.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
       "occupation": null,
       "residence": null,
@@ -66,7 +72,13 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Zach_Funkhouser"
+        }
+      ]
     }
   ]
 }

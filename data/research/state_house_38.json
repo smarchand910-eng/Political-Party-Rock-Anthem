@@ -202,6 +202,12 @@
           "url": "https://oviedocommunitynews.org/2026/06/17/whos-on-the-seminole-county-primary-ballot-for-2026/",
           "date": "2026-06-17"
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Emily_Duda_Buckley"
+        }
       ]
     },
     {
@@ -558,7 +564,13 @@
         }
       ],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Nik_Dean"
+        }
+      ]
     }
   ]
 }

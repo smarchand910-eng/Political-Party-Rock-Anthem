@@ -25,8 +25,8 @@
       "name": "Randy Fine",
       "party": "Republican",
       "incumbent": true,
-      "photo_url": "https://www.congress.gov/img/member/f000481_200.jpg",
-      "photo_source": "congress.gov member portrait (bioguide ID unverified)",
+      "photo_url": "assets/photos/randy_fine.jpg",
+      "photo_source": "Official congressional portrait (unitedstates.github.io mirror of the Congressional Pictorial Directory; downloaded copy in assets/photos)",
       "website": "https://www.voterandyfine.com/",
       "occupation": "U.S. Representative (since April 2025); former Florida state senator",
       "residence": "Melbourne Beach/Palm Bay area, Brevard County (per prior reporting; not re-verified)",
@@ -515,8 +515,8 @@
       "name": "Eric Yonce",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Eric_Yonce.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": "assets/photos/eric_yonce.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.yonceforcongress.com/",
       "occupation": "Real-estate professional and small-business owner (vintage Airstream remodeling); former big-box retail manager and former Ocala Police Department employee",
       "residence": "Raised in Citra, Marion County (campaign site); current residence not verified",
@@ -790,15 +790,21 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Eric_Yonce"
+        }
+      ]
     },
     {
       "id": "christopher_alcantara",
       "name": "Christopher Manuel Alcantara",
       "party": "No Party Affiliation",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Christopher_Manuel_Alcantara.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": null,
+      "photo_source": null,
       "website": null,
       "occupation": "Not found",
       "residence": "Not found",
@@ -973,8 +979,8 @@
       "name": "Amr Metwally",
       "party": "No Party Affiliation",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Amr_Metwally.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": "assets/photos/amr_metwally.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
       "occupation": "Not found",
       "residence": "Not found",
@@ -1142,16 +1148,22 @@
         }
       ],
       "endorsements": [],
-      "withdrawn": "Withdrew after qualifying (Florida Division of Elections, 2026 general election candidate list)"
+      "withdrawn": "Withdrew after qualifying (Florida Division of Elections, 2026 general election candidate list)",
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Amr_Metwally"
+        }
+      ]
     },
     {
       "id": "andrew_parrott",
       "name": "Andrew Parrott",
       "party": "Libertarian",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/andrew_parrott.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://www.andrewparrottforcongress.com/",
       "occupation": null,
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
@@ -1167,16 +1179,22 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Andrew_Parrott"
+        }
+      ]
     },
     {
       "id": "alec_pavlik",
       "name": "Alec Pavlik",
       "party": "Write-in",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/alec_pavlik.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://www.alecpavlik.com",
       "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
       "residence": null,
       "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
@@ -1192,7 +1210,13 @@
       "positions": {},
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Alec_Pavlik"
+        }
+      ]
     }
   ]
 }

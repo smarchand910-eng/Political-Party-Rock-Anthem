@@ -427,6 +427,12 @@
             }
           ]
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Samantha_Scott"
+        }
       ]
     },
     {
@@ -739,7 +745,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Pamala_Bivins"
+        }
+      ]
     }
   ]
 }

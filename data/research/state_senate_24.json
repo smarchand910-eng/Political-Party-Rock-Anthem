@@ -25,7 +25,7 @@
       "incumbent": true,
       "photo_url": "https://www.flsenate.gov/Senators/s24",
       "photo_source": "Florida Senate member page (portrait image URL not verified; site blocked in sandbox)",
-      "website": null,
+      "website": "https://www.mackbernard.com",
       "occupation": "State Senator",
       "residence": "West Palm Beach, Palm Beach County",
       "background": "Bernard, a West Palm Beach Democrat and former Palm Beach County commissioner and state representative, won SD 24 unopposed in 2022 and is seeking re-election.",
@@ -234,7 +234,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Mack_Bernard"
+        }
+      ]
     },
     {
       "id": "jackie_green",

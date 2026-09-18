@@ -22,7 +22,7 @@
       "incumbent": true,
       "photo_url": "https://www.congress.gov/img/member/w000797_200.jpg",
       "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
-      "website": null,
+      "website": "https://debbiewassermanschultz.com",
       "occupation": "U.S. Representative (since 2005; currently represents CD 25)",
       "residence": "Weston, Broward County",
       "background": "Debbie Wasserman Schultz has served in the U.S. House since 2005 and currently represents Florida's 25th District; after the 2026 map moved her home out of that district she ran in the new 20th. She won the Aug. 18, 2026 Democratic primary with about 45% (more than 30,000 votes), defeating former Broward Mayor Dale Holness (about 23%), former Rep. Sheila Cherfilus-McCormick, teacher Elijah Manley and Luther Campbell. Note: she is a sitting member of Congress but not the incumbent for the CD 20 seat, which is vacant.",
@@ -573,15 +573,21 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Debbie_Wasserman_Schultz"
+        }
+      ]
     },
     {
       "id": "brent_andersen",
       "name": "Brent Andersen",
       "party": "Republican",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Brent_Andersen.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": "assets/photos/brent_andersen.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://brentandersenfl.com/",
       "occupation": "Founder and president, Pilgrim Bay Insurance Agency",
       "residence": "Not found",
@@ -835,8 +841,8 @@
       "name": "Kedner Maxime",
       "party": "No Party Affiliation",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Kedner_Maxime.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": null,
+      "photo_source": null,
       "website": "https://www.maximeforcongress.com/",
       "occupation": "Tax accountant, immigration-services specialist and small-business owner",
       "residence": "Oakland Park, Broward County",
@@ -1033,7 +1039,13 @@
         }
       ],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Kedner_Maxime"
+        }
+      ]
     },
     {
       "id": "kevin_mcclellan",

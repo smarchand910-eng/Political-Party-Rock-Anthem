@@ -25,7 +25,7 @@
       "incumbent": true,
       "photo_url": "https://www.congress.gov/img/member/b001257_200.jpg",
       "photo_source": "congress.gov member portrait",
-      "website": null,
+      "website": "https://bilirakisforcongress.com/",
       "occupation": "U.S. Representative (since 2007)",
       "residence": "Palm Harbor, Pinellas County (per prior reporting; not re-verified)",
       "background": "Gus Bilirakis, an attorney and former state House member, has served in the U.S. House since 2007, succeeding his father Michael Bilirakis. He sits on the Energy and Commerce Committee, where he leads the consumer-protection subcommittee and serves on the health and communications subcommittees. He had no Republican primary opponent in 2026 and advanced directly to the November general election in the redrawn 12th District, seeking an 11th term.",
@@ -573,15 +573,21 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Gus_Bilirakis"
+        }
+      ]
     },
     {
       "id": "kimberly_overman",
       "name": "Kimberly Overman",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Kimberly_Overman.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": "assets/photos/kimberly_overman.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://kimberlyoverman.com/",
       "occupation": "Certified financial planner; former Hillsborough County commissioner",
       "residence": "Tampa area, Hillsborough County (per Hoodline; not re-verified)",
@@ -874,6 +880,12 @@
             }
           ]
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Kimberly_Overman"
+        }
       ]
     },
     {
@@ -881,8 +893,8 @@
       "name": "Branden Scrivener",
       "party": "No Party Affiliation",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Branden_Scrivener.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": "assets/photos/branden_schivener.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://brandenscrivenerfl.info/",
       "occupation": "Health-care insurance-authorization worker; father of two, Land O' Lakes",
       "residence": "Not found",

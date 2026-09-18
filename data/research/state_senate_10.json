@@ -26,7 +26,7 @@
       "incumbent": true,
       "photo_url": "https://www.flsenate.gov/Senators/s10",
       "photo_source": "Florida Senate member page (portrait image URL not verified; site blocked in sandbox)",
-      "website": null,
+      "website": "https://jasonbrodeur.com",
       "occupation": "State Senator",
       "residence": "Sanford, Seminole County",
       "background": "Brodeur, of Sanford, has represented SD 10 (formerly SD 9) in the Senate since 2020 after serving in the Florida House; he declared for the Aug. 18, 2026 Republican primary.",
@@ -485,16 +485,22 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Jason_Brodeur"
+        }
+      ]
     },
     {
       "id": "john_lowndes",
       "name": "John Lowndes",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/john_lowndes.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://www.johnlowndesforflorida.com/",
       "occupation": "Mayor of Maitland since 2021; attorney (local government, utilities, land use)",
       "residence": "Maitland, Orange County",
       "background": "Lowndes, of Maitland, won the Democratic nomination for SD 10 with 71% of the vote over H. Alexander Duncan in the Aug. 18, 2026 primary.",
@@ -662,7 +668,13 @@
         }
       ],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/John_Lowndes"
+        }
+      ]
     }
   ]
 }

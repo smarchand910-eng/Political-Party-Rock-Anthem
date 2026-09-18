@@ -25,7 +25,7 @@
       "incumbent": true,
       "photo_url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4914",
       "photo_source": "Florida House member page (MemberId=4914); image URL not verified",
-      "website": null,
+      "website": "https://erikaboothfl.com",
       "occupation": null,
       "residence": null,
       "background": "Incumbent Republican state representative for HD 35 (parts of Orange and Osceola counties), first elected in a January 2024 special election and re-elected in November 2024.",
@@ -233,6 +233,12 @@
           "url": "https://en.wikipedia.org/wiki/2026_Florida_House_of_Representatives_election",
           "date": null
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Erika_Booth"
+        }
       ]
     },
     {
@@ -240,8 +246,8 @@
       "name": "Eric Gray",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
+      "photo_url": "assets/photos/eric_gray.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.ericgrayforflorida.com/",
       "occupation": "Executive director, Christian Service Center; Orange County Planning & Zoning Commission member",
       "residence": null,
@@ -431,6 +437,12 @@
           "title": "Eric Gray plans to challenge Erika Booth in HD 35 (Florida Politics)",
           "url": "https://floridapolitics.com/archives/759013-eric-gray-plans-to-challenge-erika-booth-in-hd-35/",
           "date": "2025"
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Eric_Gray_%28Florida%29"
         }
       ]
     }

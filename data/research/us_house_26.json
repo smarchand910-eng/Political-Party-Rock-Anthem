@@ -22,7 +22,7 @@
       "incumbent": true,
       "photo_url": "https://www.congress.gov/img/member/d000600_200.jpg",
       "photo_source": "congress.gov member portrait (bioguide ID from memory, unverified)",
-      "website": null,
+      "website": "https://mariodiazbalart.org",
       "occupation": "U.S. Representative (since 2003)",
       "residence": "Hialeah area, Miami-Dade County (not re-verified)",
       "background": "Mario Diaz-Balart has served in the U.S. House since 2003 and previously served in the Florida Legislature. He chairs the House Appropriations subcommittee on National Security, Department of State and Related Programs. He was unopposed in the Aug. 18, 2026 Republican primary for the 26th District. Local coverage describes the redrawn district as including southwest Broward communities such as Miramar and Pembroke Pines.",
@@ -593,7 +593,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Mario_Diaz-Balart"
+        }
+      ]
     },
     {
       "id": "nicole_locklin",
@@ -952,7 +958,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Nicole_Locklin"
+        }
+      ]
     },
     {
       "id": "deborah_meidinger_hosey",
@@ -1138,7 +1150,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Deborah_Meidinger_Hosey"
+        }
+      ]
     }
   ]
 }

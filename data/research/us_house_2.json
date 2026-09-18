@@ -30,8 +30,8 @@
       "name": "Austin Rogers",
       "party": "Republican",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Austin_Rogers.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
+      "photo_url": "assets/photos/austin_rogers.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://rogersforflorida.com/",
       "occupation": "Attorney; former general counsel to U.S. Sen. Rick Scott and former chief counsel to Senate Judiciary Committee Republicans",
       "residence": "Bay County (Panama City area) per campaign; Florida Politics has questioned whether his family still lives in Washington, D.C.",
@@ -308,6 +308,12 @@
             }
           ]
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Austin_Rogers"
+        }
       ]
     },
     {
@@ -315,8 +321,8 @@
       "name": "Amanda Marie Green",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Amanda_Green_(Florida).jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified); campaign site https://www.amgforcongress.com/ is an alternative",
+      "photo_url": "assets/photos/amanda_green.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.amgforcongress.com/",
       "occupation": "Former employee of a USAID subsidiary/contractor (campaign site); described by her campaign as an expert in cutting waste",
       "residence": "Tallahassee area, Leon County (not verified; endorsed by Leon County Sheriff)",

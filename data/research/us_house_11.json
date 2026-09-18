@@ -7,8 +7,8 @@
       "name": "Joe Strada",
       "party": "Republican",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Joe_Strada.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified; campaign site votestrada.com also has portraits)",
+      "photo_url": "assets/photos/joe_strada.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://votestrada.com/",
       "occupation": "Founder, owner and executive chairman of Strada Services (air conditioning, electrical, plumbing and security contractor)",
       "residence": "Sanford, Seminole County (per LinkedIn and Seminole County property records cited by an opposing campaign; outside CD 11 — not independently verified)",
@@ -733,8 +733,8 @@
       "name": "James Pericola",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/James_Pericola.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified); campaign site jamespericola.com also carries a portrait",
+      "photo_url": "assets/photos/james_pericola.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://jamespericola.com/",
       "occupation": "Attorney and government-relations consultant; founder of Seward Square Group (government relations and consulting firm, est. 2009)",
       "residence": "Orlando, Orange County (per Florida Politics; campaign launch events held in Sumter County)",
@@ -1349,8 +1349,8 @@
       "name": "Ralph Groves",
       "party": "Libertarian",
       "incumbent": false,
-      "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Ralph_Groves.jpg",
-      "photo_source": "Ballotpedia candidate photo (URL pattern unverified; campaign site grovesforcongress.com also has a portrait)",
+      "photo_url": "assets/photos/ralph_groves.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.grovesforcongress.com/",
       "occupation": "Retired U.S. Army major; former Department of Defense analyst",
       "residence": "Ocoee, Orange County",
@@ -1838,7 +1838,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Ralph_Groves"
+        }
+      ]
     }
   ]
 }

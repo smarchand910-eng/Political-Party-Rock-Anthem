@@ -25,7 +25,7 @@
       "incumbent": true,
       "photo_url": "https://www.flsenate.gov/Senators/s12",
       "photo_source": "Florida Senate member page (portrait image URL not verified; site blocked in sandbox)",
-      "website": null,
+      "website": "https://www.colleenburton.com/",
       "occupation": "State Senator",
       "residence": "Lakeland, Polk County",
       "background": "Burton, of Lakeland, served in the Florida House (2014-2022) before winning SD 12 in 2022 over Democrat Veysel Dokur; she is seeking a second Senate term.",
@@ -421,15 +421,21 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Colleen_Burton_%28Florida%29"
+        }
+      ]
     },
     {
       "id": "alfred_reynolds",
       "name": "Alfred Reynolds",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
+      "photo_url": "assets/photos/alfred_reynolds.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.reynoldsforflorida.com/",
       "occupation": "Law-studies professor, Auburndale; former investigative journalist in Haiti; U.S. Army Reserve veteran",
       "residence": "Auburndale, Polk County",
@@ -599,7 +605,13 @@
         }
       ],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Alfred_Reynolds_%28Florida%29"
+        }
+      ]
     }
   ]
 }

@@ -25,7 +25,7 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://www.votejjgrow.com",
       "occupation": null,
       "residence": null,
       "background": "Incumbent Republican state representative for HD 23 (Citrus County and the Dunnellon area of Marion County). Won the Aug. 18, 2026 Republican primary over Tod Cloud with about 73%.",
@@ -209,6 +209,12 @@
           "url": "https://ballotpedia.org/J.J._Grow",
           "date": null
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/J.J._Grow"
+        }
       ]
     },
     {
@@ -352,7 +358,13 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Mark_Baker_%28Florida%29"
+        }
+      ]
     }
   ]
 }

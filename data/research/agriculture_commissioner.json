@@ -697,8 +697,8 @@
       "name": "Joey Mendoza Atkins",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": "No public portrait URL located; campaign Instagram is @joeyforflorida (https://www.instagram.com/joeyforflorida/)",
+      "photo_url": "assets/photos/joey_atkins.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.joeyforflorida.com/",
       "occupation": "Attorney and sports agent",
       "residence": "South Florida / Tampa Bay (reported as Miami by Florida Politics and as Tampa by WMNF)",
@@ -1040,6 +1040,12 @@
               "date": "2026"
             }
           ]
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Joey_Mendoza_Atkins"
         }
       ]
     }

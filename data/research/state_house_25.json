@@ -24,7 +24,7 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://www.tayloryarkosky.com",
       "occupation": null,
       "residence": null,
       "background": "Incumbent Republican state representative for HD 25 (Lake County), first elected in 2022. Won the Aug. 18, 2026 Republican primary.",
@@ -418,6 +418,12 @@
           "title": "2026 Florida House of Representatives election (Wikipedia)",
           "url": "https://en.wikipedia.org/wiki/2026_Florida_House_of_Representatives_election",
           "date": null
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Taylor_Yarkosky"
         }
       ]
     },

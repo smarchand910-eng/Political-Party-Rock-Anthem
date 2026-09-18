@@ -189,6 +189,12 @@
           "url": "https://www.tampabaybeacons.com/2026/07/13/hawkins-resigns-from-county-commission-campbell-wont-seek-re-election/",
           "date": "2026-07-13"
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Brian_Hawkins_%28Florida%29"
+        }
       ]
     },
     {
@@ -198,7 +204,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://claudeforhd53.squarespace.com/",
       "occupation": null,
       "residence": null,
       "background": "Democratic nominee for HD 53; an Air Force veteran, per Hernando Sun.",
@@ -347,6 +353,12 @@
           "url": "https://www.hernandosun.com/2026/07/30/state-house-dist-53-candidates/",
           "date": "2026-07-30"
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Tony_Claude"
+        }
       ]
     },
     {
@@ -356,7 +368,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://christopheranger.com/",
       "occupation": null,
       "residence": null,
       "background": "Constitution Party of Florida candidate for HD 53, per Hernando Sun.",
@@ -504,6 +516,12 @@
           "title": "State House Dist. 53 Candidates (Hernando Sun)",
           "url": "https://www.hernandosun.com/2026/07/30/state-house-dist-53-candidates/",
           "date": "2026-07-30"
+        }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Christopher_Anger"
         }
       ]
     }

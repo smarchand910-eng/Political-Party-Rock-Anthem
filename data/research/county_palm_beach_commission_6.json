@@ -193,6 +193,12 @@
           "title": "Florida Primary election results for Aug. 18, 2026 (WPTV)",
           "url": "https://www.wptv.com/election-results/florida-primary-election-results-for-aug-18-2026"
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Sara_Baxter"
+        }
       ]
     },
     {
@@ -481,7 +487,13 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Katherine_Waldron"
+        }
+      ]
     }
   ]
 }

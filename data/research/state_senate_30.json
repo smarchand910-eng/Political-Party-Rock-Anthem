@@ -24,9 +24,9 @@
       "name": "Lauren Book",
       "party": "Democratic",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
-      "website": null,
+      "photo_url": "assets/photos/lauren_book.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
+      "website": "https://laurenbook.com/",
       "occupation": "Former State Senator; child-safety advocate",
       "residence": "Broward County",
       "background": "Book, a child-safety advocate from Broward County, served in the Senate from 2016 to 2024 (including as Senate Democratic Leader) and launched a 2026 campaign for SD 30 with the backing of outgoing Sen. Polsky, Sen. Lori Berman and Sen. Mack Bernard; she reported raising about $1.3 million.",
@@ -463,6 +463,12 @@
             }
           ]
         }
+      ],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Lauren_Book"
+        }
       ]
     },
     {
@@ -470,8 +476,8 @@
       "name": "Hector Rivera",
       "party": "Republican",
       "incumbent": false,
-      "photo_url": null,
-      "photo_source": null,
+      "photo_url": "assets/photos/hector_rivera.jpg",
+      "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.electriverafl.com/",
       "occupation": "Real-estate broker and loan consultant, Coral Springs",
       "residence": null,
@@ -646,7 +652,13 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [],
+      "links": [
+        {
+          "title": "Ballotpedia profile",
+          "url": "https://ballotpedia.org/Hector_Rivera_%28Florida%29"
+        }
+      ]
     }
   ]
 }
