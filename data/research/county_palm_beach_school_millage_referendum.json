@@ -1,0 +1,22 @@
+{
+  "race_id": "county_palm_beach_school_millage_referendum",
+  "kind": "measure",
+  "title": "Palm Beach School District Referendum: Continue the 1.00-Mill Levy for School Safety, Teachers and Operations",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "full",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Palm Beach"
+  },
+  "counties": [
+    "Palm Beach"
+  ],
+  "what_it_does": "School-district ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Referendum to Continue Ad Valorem Levy for School Safety, Teachers, and Operational Needs. Shall the School District of Palm Beach County have continued authority to levy 1.00 mills of ad valorem millage for operational needs of public schools dedicated to funding school safety; school police; mental health services; arts, music, physical education, career and choice program teachers; and improved teacher pay beginning July 1, 2027 and automatically ending June 30, 2031, with oversight of all funds by an independent committee of citizens and experts?",
+  "what_yes_means": "A YES vote renews the one-mill school property tax from July 2027 through June 2031; the district says half funds teacher pay supplements, a quarter funds arts, music, PE and career-academy teachers, and a quarter funds school police, security and mental-health staff.",
+  "what_no_means": "A NO vote lets the levy end June 30, 2027, removing that funding stream, which the district has collected since 2019.",
+  "verified_ballot_note": "Ballot language and allocation from the School District of Palm Beach County's referendum page (https://www.palmbeachschools.org/about-us/2026-school-referendum, fetched Sept. 18, 2026). Confirm final wording on the Palm Beach County sample ballot.",
+  "candidates": []
+}

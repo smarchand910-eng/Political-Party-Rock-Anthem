@@ -1,0 +1,22 @@
+{
+  "race_id": "county_manatee_environmental_lands_referendum",
+  "kind": "measure",
+  "title": "Manatee County Referendum: Environmental Lands Bonds and 0.16-Mill Levy",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "partial",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Manatee"
+  },
+  "counties": [
+    "Manatee"
+  ],
+  "what_it_does": "County ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Water quality protection, overdevelopment prevention, natural lands preservation and public preserves general obligation bonds referendum. Manatee County asks voters to authorize up to $75 million in general obligation bonds, repaid by an additional property tax of up to 0.16 mill, to acquire, improve and maintain environmentally sensitive lands, protect drinking-water sources, water quality and wildlife habitat, and provide public preserves.",
+  "what_yes_means": "A YES vote authorizes up to $75 million in bonds and an added 0.16-mill tax (about $47 a year on a home with $300,000 taxable value, per county estimates) for conservation-land purchases, easements and preserves, building on the 2020 program.",
+  "what_no_means": "A NO vote means no new bonds or added levy; the county's existing 2020 environmental-lands program continues but without the additional funding.",
+  "verified_ballot_note": "Ballot title and details as reported by the Bradenton Times (https://thebradentontimes.com/stories/commissioners-approve-an-environmental-lands-funding-referendum-for-the-november-ballot,207005) and Tampa Bay Beacons (https://www.tampabaybeacons.com/2026/07/28/land-preservation-referendum-will-be-on-nov-3-ballot-in-manatee/), July 2026; the County Commission voted 6-0 to place it on the ballot. Confirm the final wording on the Manatee sample ballot.",
+  "candidates": []
+}

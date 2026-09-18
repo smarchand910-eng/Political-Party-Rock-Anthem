@@ -1,0 +1,22 @@
+{
+  "race_id": "county_lee_charter_term_limits_referendum",
+  "kind": "measure",
+  "title": "Lee County Charter Referendum: Term Limits for Constitutional Officers",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "partial",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Lee"
+  },
+  "counties": [
+    "Lee"
+  ],
+  "what_it_does": "County ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "County Charter Revision Relating to Setting the Number of Consecutive Terms of Elected Constitutional Officers. Lee County voters will decide whether to amend the county charter to limit the Sheriff, Clerk of Courts, Property Appraiser, Tax Collector and Supervisor of Elections to three consecutive four-year terms, matching the limit that applies to county commissioners.",
+  "what_yes_means": "A YES vote caps the five constitutional officers at three consecutive four-year terms.",
+  "what_no_means": "A NO vote leaves those offices without a term limit.",
+  "verified_ballot_note": "Title from the Lee County Supervisor of Elections' proposed ballot measures page (https://www.lee.vote/244/Proposed-Ballot-Measures); description from Gulfshore Business (https://www.gulfshorebusiness.com/lee/charter-amendment-would-cap-terms-of-constitutional-officers/article_9ed8ab32-f2f0-49c7-b592-8f58a804128c.html). Exact ballot question not yet published; confirm on the sample ballot.",
+  "candidates": []
+}

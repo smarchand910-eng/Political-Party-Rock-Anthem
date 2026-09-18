@@ -1,0 +1,22 @@
+{
+  "race_id": "county_volusia_charter_amendments_referendum",
+  "kind": "measure",
+  "title": "Volusia County Charter Amendments 1 to 5",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "partial",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Volusia"
+  },
+  "counties": [
+    "Volusia"
+  ],
+  "what_it_does": "County ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Five county charter amendments are on the Volusia ballot: (1) make the County Council Chair a position chosen annually by the council rather than elected countywide, with an eight-consecutive-year limit for council members; (2) remove the charter's limits on council expense reimbursement and leave the subject to ordinance; (3) align the charter with the 2018 state constitutional amendment on the Sheriff, Tax Collector, Supervisor of Elections and Clerk; (4) remove detailed personnel-administration provisions and require a merit system by ordinance; (5) create a register of county conservation lands that requires a majority-plus-one vote and 30 days' public notice to add or remove property.",
+  "what_yes_means": "A YES vote on any amendment adopts that change to the county charter; each amendment is voted on separately.",
+  "what_no_means": "A NO vote leaves the current charter language in place for that amendment.",
+  "verified_ballot_note": "Descriptions from the Ormond Beach Observer (https://www.observerlocalnews.com/news/2026/jun/17/five-charter-amendments-including-a-register-of-conservation-lands-to-be-placed-on-november-ballot/) and 93.1 Coast Country (https://931coast.com/5-volusia-charter-amendments-headed-to-ballot/), June 2026. Official ballot language will appear on the Volusia sample ballot.",
+  "candidates": []
+}

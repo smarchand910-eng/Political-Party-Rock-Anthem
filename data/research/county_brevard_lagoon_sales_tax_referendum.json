@@ -1,0 +1,22 @@
+{
+  "race_id": "county_brevard_lagoon_sales_tax_referendum",
+  "kind": "measure",
+  "title": "Brevard County Referendum: Renew the Save Our Indian River Lagoon Half-Cent Sales Tax",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "partial",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Brevard"
+  },
+  "counties": [
+    "Brevard"
+  ],
+  "what_it_does": "County ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "To restore the Indian River Lagoon through infrastructure, capital improvements, and programs… shall Brevard County renew the existing Save Our Indian River Lagoon half-cent sales tax for ten years?",
+  "what_yes_means": "A YES vote extends the existing half-cent sales tax for ten more years to fund lagoon restoration: septic-to-sewer conversions, muck removal, stormwater treatment and habitat projects; the county estimates roughly $800 million over the renewal period.",
+  "what_no_means": "A NO vote lets the half-cent lagoon tax, first approved in 2016, expire at the end of its current term, ending that dedicated funding.",
+  "verified_ballot_note": "Ballot question as reported by WFIT (https://www.wfit.org/podcast/coastal-connection/2026-07-14/irl-sales-tax-referendum-on-the-november-ballot-2026) and Central Florida Public Media (https://www.cfpublic.org/environment/2026-05-19/lagoon-tax-another-ten-years-brevard-voters-decide); the county's program page is https://www.brevardfl.gov/SaveOurIndianRiverLagoon. Confirm the final wording on the Brevard sample ballot.",
+  "candidates": []
+}

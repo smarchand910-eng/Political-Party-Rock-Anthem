@@ -1,0 +1,22 @@
+{
+  "race_id": "county_sarasota_environmental_lands_referendum",
+  "kind": "measure",
+  "title": "Sarasota County Referendum: Extend the Environmentally Sensitive Lands and Parkland Levy to 2049",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "partial",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Sarasota"
+  },
+  "counties": [
+    "Sarasota"
+  ],
+  "what_it_does": "County ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Sarasota County asks voters to continue the Environmentally Sensitive Lands Protection and Parkland Program property tax of up to 0.25 mill for 20 more years, through 2049, and to authorize up to $250 million in bonds backed by that levy to acquire and manage conservation land and parks.",
+  "what_yes_means": "A YES vote extends the up-to-0.25-mill levy through 2049 and allows up to $250 million in borrowing for land purchases and management; the program has protected about 42,000 acres since 1999.",
+  "what_no_means": "A NO vote lets the program's taxing authority lapse in 2029.",
+  "verified_ballot_note": "Details from WSLR (https://wslr.org/voter-approved-preserves-and-parks-will-be-on-the-november-26-ballot/), Suncoast Searchlight (https://suncoastsearchlight.org/sarasota-referendum-environmentally-sensitive-lands-protection/) and Tampa Bay Business & Wealth (https://tbbwmag.com/2026/04/06/sarasota-land-tax-referendum-2049/); the County Commission voted unanimously to place it on the Nov. 3, 2026 ballot. Official ballot language to be confirmed on the sample ballot.",
+  "candidates": []
+}

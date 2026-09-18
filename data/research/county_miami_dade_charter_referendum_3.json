@@ -1,0 +1,22 @@
+{
+  "race_id": "county_miami_dade_charter_referendum_3",
+  "kind": "measure",
+  "title": "Miami-Dade County Referendum 3: Timing of Vacancy Elections and Municipal Qualifying Standards",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "full",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Miami-Dade"
+  },
+  "counties": [
+    "Miami-Dade"
+  ],
+  "what_it_does": "County ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Charter Amendment Allow Vacancy Election to Sync Up with Other Election; Establish Municipal Qualifying Standards. Shall the Charter be amended to allow the Board to align the timing of special elections to fill vacancies in the offices of Mayor or County Commissioner with other scheduled elections when such vacancies are caused by resignations to run for other offices, and to establish minimum standards for municipal candidate qualifying periods?",
+  "what_yes_means": "A YES vote lets the County Commission schedule a special election for a mayor or commissioner vacancy (caused by a resignation to run for another office) on the same date as another scheduled election, and sets minimum standards for city candidate qualifying periods.",
+  "what_no_means": "A NO vote keeps the current charter timing rules for vacancy elections and leaves municipal qualifying periods to the cities.",
+  "verified_ballot_note": "Official wording copied from the Miami-Dade County Supervisor of Elections' final General Election master ballot (https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf, fetched Sept. 18, 2026).",
+  "candidates": []
+}

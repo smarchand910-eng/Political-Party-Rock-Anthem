@@ -1,0 +1,22 @@
+{
+  "race_id": "county_broward_school_millage_referendum",
+  "kind": "measure",
+  "title": "Broward School Board Question 1: Continue the One-Mill Levy for Employee Pay, Safety and Mental Health",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "full",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Broward"
+  },
+  "counties": [
+    "Broward"
+  ],
+  "what_it_does": "School-district ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Fund School Employee Pay, Safety, and Mental Health through a One-Mill Property Tax Levy. To enhance school safety and mental health services, recruit and retain highly qualified teachers and essential employees, improve student achievement, and support critical school operations, shall the School Board of Broward County continue to levy a one-mill ad valorem property tax from January 1, 2027, through December 31, 2030, to fund school safety personnel, mental health services, increased compensation for teachers, and school-based support staff for public and charter schools?",
+  "what_yes_means": "A YES vote continues the one-mill school property tax through 2030; the district says about 90 percent goes to teacher and staff pay supplements and up to 10 percent to school safety and mental-health staff, roughly $358 million a year including the charter-school share.",
+  "what_no_means": "A NO vote ends the levy after the 2026-27 school year, and the district would have to cut or replace the pay supplements and safety spending it funds.",
+  "verified_ballot_note": "Ballot language and funding split from Broward County Public Schools' referendum page (https://www.browardschools.com/school-board/referendum-2026, fetched Sept. 18, 2026). Confirm the final wording on the Broward Supervisor of Elections sample ballot.",
+  "candidates": []
+}

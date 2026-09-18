@@ -1,0 +1,22 @@
+{
+  "race_id": "county_collier_tourist_tax_referendum",
+  "kind": "measure",
+  "title": "Collier County Referendum: Additional 1% Tourist Development Tax",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "partial",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Collier"
+  },
+  "counties": [
+    "Collier"
+  ],
+  "what_it_does": "County ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Shall Collier County Ordinance No. 2025-33 be approved authorizing Collier County to levy and collect an additional one percent Tourist Development Tax from all short-term rentals in Collier County to fund tourism-related capital projects, promotion and related uses permitted by state law?",
+  "what_yes_means": "A YES vote raises the tourist tax on hotel and short-term rental stays by one percentage point; the county projects roughly $9.7 million to $10 million a year, primarily to complete the Paradise Coast Sports Complex.",
+  "what_no_means": "A NO vote keeps the tourist development tax at its current rate.",
+  "verified_ballot_note": "Question and revenue estimate from Sparker's Soapbox's review of Ordinance 2025-33 (https://www.sparkers-soapbox.com/collier-county-tourist-development-tax-referendum-2026/, Aug. 20, 2026, updated Sept. 6); the ballot wording beyond the opening clause is paraphrased here and should be confirmed on the Collier sample ballot.",
+  "candidates": []
+}

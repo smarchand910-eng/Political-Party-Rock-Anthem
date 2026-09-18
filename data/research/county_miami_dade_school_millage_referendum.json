@@ -1,0 +1,22 @@
+{
+  "race_id": "county_miami_dade_school_millage_referendum",
+  "kind": "measure",
+  "title": "Miami-Dade School Board Referendum: Renewal of the One-Mill Levy for Teachers and School Safety",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "full",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Miami-Dade"
+  },
+  "counties": [
+    "Miami-Dade"
+  ],
+  "what_it_does": "School-district ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Referendum Renewal of Existing Ad Valorem Levy for Teachers, Instructional Personnel, Student Safety and Security. Shall the School Board of Miami-Dade County, Florida, maintain the existing one (1) mill ad valorem tax levy exclusively for school operational purposes at Miami-Dade County Public Schools, including public charter schools, to continue improving compensation for teachers and instructional personnel and to improve student safety and school security with oversight by a Citizen Advisory Committee beginning July 1, 2027, and ending June 30, 2031?",
+  "what_yes_means": "A YES vote continues the existing one-mill school property tax ($1 per $1,000 of taxable value) for four more years, July 2027 through June 2031, for teacher and instructional pay and school security, shared with charter schools and overseen by a citizen committee.",
+  "what_no_means": "A NO vote lets the one-mill levy expire after June 30, 2027, ending that revenue for pay supplements and security unless replaced from other sources.",
+  "verified_ballot_note": "Official wording copied from the Miami-Dade County Supervisor of Elections' final General Election master ballot (https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf, fetched Sept. 18, 2026). Miami-Dade voters first approved the levy in 2018 and renewed it in 2022.",
+  "candidates": []
+}

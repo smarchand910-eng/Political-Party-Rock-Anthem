@@ -1,0 +1,22 @@
+{
+  "race_id": "county_marion_school_millage_referendum",
+  "kind": "measure",
+  "title": "Marion County School District Referendum: Renew the One-Mill Levy",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "partial",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Marion"
+  },
+  "counties": [
+    "Marion"
+  ],
+  "what_it_does": "School-district ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Marion County voters will decide whether to renew the school district's one-mill operating levy for four more years, July 1, 2027 through June 30, 2031, for safe schools, reading, physical education, art, music, early learning, library/media and vocational programs, class-size requirements and retaining certified teachers, with an independent citizens' oversight committee. Voters first approved the levy in 2014 and renewed it in 2018 and 2022.",
+  "what_yes_means": "A YES vote continues the one-mill levy, which raises about $41 million a year, through June 2031.",
+  "what_no_means": "A NO vote lets it expire June 30, 2027.",
+  "verified_ballot_note": "Summary from Marion County Public Schools' Funding Referendum Oversight Committee page (https://www.marionschools.net/school_board/funding_referendum_oversight_committee) and Ballotpedia's measure page (https://ballotpedia.org/Marion_County_One_Mill_School_Funding_Referendum). Exact 2026 ballot wording to be confirmed on the Marion sample ballot.",
+  "candidates": []
+}

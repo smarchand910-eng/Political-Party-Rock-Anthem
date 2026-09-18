@@ -1,0 +1,22 @@
+{
+  "race_id": "county_miami_dade_charter_referendum_2",
+  "kind": "measure",
+  "title": "Miami-Dade County Referendum 2: One-Year District Residency to Run for County Commission",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "full",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Miami-Dade"
+  },
+  "counties": [
+    "Miami-Dade"
+  ],
+  "what_it_does": "County ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Charter Amendment Increase Length of District Residency to Run for County Commissioner. Shall the Charter be amended to change the residency requirement for Commission members, increasing the minimum time a candidate must reside within their district from six months to one year before the start of the qualifying period?",
+  "what_yes_means": "A YES vote requires county commission candidates to have lived in their district for at least one year before qualifying begins, instead of six months.",
+  "what_no_means": "A NO vote keeps the six-month district residency requirement.",
+  "verified_ballot_note": "Official wording copied from the Miami-Dade County Supervisor of Elections' final General Election master ballot (https://www.miamidade.gov/elections/library/2026-11-03-general-election-master-ballot.pdf, fetched Sept. 18, 2026).",
+  "candidates": []
+}

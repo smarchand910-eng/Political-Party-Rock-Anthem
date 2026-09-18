@@ -1,0 +1,22 @@
+{
+  "race_id": "county_martin_school_millage_referendum",
+  "kind": "measure",
+  "title": "Martin County School District Referendum: Continue the Half-Mill Levy",
+  "level": "county",
+  "office_group": "County",
+  "term": "",
+  "coverage": "full",
+  "jurisdiction": {
+    "type": "county",
+    "id": "Martin"
+  },
+  "counties": [
+    "Martin"
+  ],
+  "what_it_does": "School-district ballot question (Yes / No). Passes with a simple majority of votes cast on the question.",
+  "ballot_summary": "Shall the Martin County School District continue the existing ad valorem millage up to one-half mill per year beginning July 1, 2026, and ending June 30, 2030, for essential operating expenses (School Safety and Security, Mental Health Programs, Recruiting and Retaining Qualified Teachers and Support Staff, Professional Development, Academic Initiatives); providing charter school funds proportionate to student enrollment as required by law; with annual reporting to citizens?",
+  "what_yes_means": "A YES vote continues the district's half-mill operating levy for 2026 through 2030 for safety, mental health, teacher and staff pay and academic programs, shared with charter schools.",
+  "what_no_means": "A NO vote lets the half-mill levy expire.",
+  "verified_ballot_note": "Ballot language as published by BallotReady (https://www.ballotready.org/measures/question-2-ec8b707d-533d-424e-be5f-ba68d3663faa); the district's information page is https://www.martinschools.org/o/mcsd/page/millage-referendum-renewal. Confirm on the Martin County sample ballot.",
+  "candidates": []
+}
