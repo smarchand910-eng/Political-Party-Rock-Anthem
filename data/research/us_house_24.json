@@ -381,7 +381,7 @@
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Te_Brown.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
       "website": "https://tebrownforflorida.com/",
-      "occupation": "Businesswoman, educator and real-estate developer (self-described)",
+      "occupation": "Real-estate developer, small-business owner and homeschooling mother",
       "residence": "Not found",
       "background": "Te Mayonna (Te) Brown describes herself as a businesswoman, educator and real-estate developer. She was the only Republican to file for District 24, so the primary was canceled and she advanced to the November general election against Democrat Oliver Gilbert in a district that leans heavily Democratic. The Bulwark reported that she also lost a Republican U.S. House primary in Illinois earlier in 2026 and appears to be under indictment for felony wire fraud; her campaign reported raising about $313,000 to the FEC.",
       "primary_result": "Unopposed for Republican nomination (NBC6; WLRN)",
@@ -408,18 +408,35 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Would redirect federal housing dollars from long-term rental subsidies toward helping low-income families buy a first home; a mixed position on the statement.",
+          "quote": "redirecting federal housing dollars away from lifelong rental subsidies and toward helping low-income families...buy their first home",
+          "sources": [
+            {
+              "title": "Te Brown for Congress - Issues",
+              "url": "https://tebrownforflorida.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Platform headline is 'Mass Deportations and No Amnesty'; calls for securing the southern border and enforcing immigration laws, while supporting an earned path for Haitian TPS holders with clean records.",
+          "quote": "Mass Deportations and No Amnesty",
+          "sources": [
+            {
+              "title": "Te Brown for Congress - Issues",
+              "url": "https://tebrownforflorida.com/issues/",
+              "date": "2026-09-18"
+            },
+            {
+              "title": "Te Brown for Congress - Home",
+              "url": "https://tebrownforflorida.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -429,11 +446,17 @@
           "sources": []
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Lists defending the Second Amendment among her values.",
+          "quote": "Religious liberty, parental rights, the Second Amendment, and the Constitution",
+          "sources": [
+            {
+              "title": "Te Brown for Congress - Issues",
+              "url": "https://tebrownforflorida.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -450,15 +473,15 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No codable position found as of Sept 2026; a Local Candidates page lists a school-choice/charter-school entry for her, but its content was not captured.",
-          "quote": null,
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports 'funding students, not systems' so parents can choose public, charter, private or home school.",
+          "quote": "funding students, not systems",
           "sources": [
             {
-              "title": "Te Brown on School Choice & Charter Schools (Local Candidates)",
-              "url": "https://www.localcandidates.org/politicians/te-brown/positions/3b967849-a90b-4c96-b93f-89041f5cb268",
-              "date": "2026"
+              "title": "Te Brown for Congress - Issues",
+              "url": "https://tebrownforflorida.com/issues/",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -526,18 +549,30 @@
           "sources": []
         },
         "trump": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Describes herself as a 'pro-MAGA, pro-Constitution conservative'.",
+          "quote": "a pro-MAGA, pro-Constitution conservative who isn't afraid to stand up for what's right",
+          "sources": [
+            {
+              "title": "Te Brown for Congress - Home",
+              "url": "https://tebrownforflorida.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls for faster VA care, real mental-health support and full accountability at the VA.",
+          "quote": "Faster care, real mental health support, and full accountability at the VA",
+          "sources": [
+            {
+              "title": "Te Brown for Congress - Issues",
+              "url": "https://tebrownforflorida.com/issues/",
+              "date": "2026-09-18"
+            }
+          ]
         }
       },
       "other_issues": [],
