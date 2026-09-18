@@ -478,11 +478,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports legislation to stop investors competing against individual homebuyers.",
+          "quote": "There is housing in Florida, but it is not attainable.",
+          "sources": [
+            {
+              "title": "2 Democrats vie to unseat Brian Mast - Stet News",
+              "url": "https://stetnews.org/2026/08/10/2-democrats-vie-to-unseat-brian-mast/",
+              "date": "2026-08-10"
+            }
+          ]
         },
         "immigration": {
           "stance": -1,
@@ -613,11 +619,17 @@
           ]
         },
         "ukraine": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says supporting Ukraine is in the national interest.",
+          "quote": "I believe supporting Ukraine is in our national interests. The way of the world cannot be taking borders by force.",
+          "sources": [
+            {
+              "title": "2 Democrats vie to unseat Brian Mast - Stet News",
+              "url": "https://stetnews.org/2026/08/10/2-democrats-vie-to-unseat-brian-mast/",
+              "date": "2026-08-10"
+            }
+          ]
         },
         "trump": {
           "stance": null,

@@ -376,11 +376,17 @@
       "primary_result": "Won Aug 18, 2026 Republican primary with ~25.4% over Ben Butler (~24.4%), Thomas Chalifoux (~20%), Jorge Martinez (~19%), Marcus Carter and Justin Story (~4% each) and Steve Rance (~2%); AP call came Aug 20 (FOX 35: https://www.fox35orlando.com/news/florida-congressional-district-9-election-results ; Florida Politics: https://floridapolitics.com/archives/815103-dan-green-emerges-as-gop-nominee-who-will-face-darren-soto-in-cd-9/ ; Vero News: http://veronews.com/2026/08/27/hopeful-of-victory-dan-green-striving-to-be-first-vero-beach-resident-to-be-sworn-in-as-congressman/)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Disagrees that people who can afford more should pay more; says government should cut spending rather than raise taxes.",
+          "quote": "I don't think we should be raising taxes. The government should cut spending in order to reduce the national debt.",
+          "sources": [
+            {
+              "title": "iVoterGuide candidate profile - Dan Green, U.S. Rep. Dist. 9",
+              "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -406,62 +412,52 @@
         "immigration": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Green says he supports immigration for those who follow legal methods and says he will push for stronger borders; he supports requiring proof of citizenship and ID for federal elections. No explicit statement on large-scale deportation was found.",
-          "quote": null,
+          "summary": "Would admit those who follow legal immigration methods and opposes sanctuary cities.",
+          "quote": "Those who follow the legal methods of immigrating to the United States",
           "sources": [
             {
-              "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+              "title": "iVoterGuide candidate profile - Dan Green, U.S. Rep. Dist. 9",
               "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
-              "date": null
-            },
-            {
-              "title": "Navy veteran Dan Green courts Indian River voters in District 9 primary - Sebastian Daily",
-              "url": "https://www.sebastiandaily.com/business/navy-veteran-dan-green-courts-indian-river-voters-in-district-9-primary-94900/",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
         "abortion": {
           "stance": -2,
           "confidence": "stated",
-          "summary": "In a voter-guide questionnaire Green said human life deserves legal protection from conception until natural death and that he supports enforcing the Comstock Act, which bars interstate shipment of abortion-inducing drugs.",
-          "quote": null,
+          "summary": "Strongly agrees human life should be protected from conception; would allow abortion only for rape, incest and the life of the mother.",
+          "quote": "In case of rape, incest, and life of the mother",
           "sources": [
             {
-              "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+              "title": "iVoterGuide candidate profile - Dan Green, U.S. Rep. Dist. 9",
               "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
         "guns": {
           "stance": -2,
           "confidence": "stated",
-          "summary": "Green says he will 'never allow Second Amendment Rights to be infringed' and describes himself as an NRA lifetime member with the group's highest rating.",
-          "quote": null,
+          "summary": "Says there are too many gun restrictions.",
+          "quote": "We have too many restrictions",
           "sources": [
             {
-              "title": "Meet Dan - Dan Green for Congress",
-              "url": "https://dangreenfl.com/meet-dan/",
-              "date": null
-            },
-            {
-              "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+              "title": "iVoterGuide candidate profile - Dan Green, U.S. Rep. Dist. 9",
               "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
         "healthcare": {
-          "stance": -1,
+          "stance": -2,
           "confidence": "stated",
-          "summary": "Green says private insurance should be the primary means by which Americans get health coverage and that government should provide relief 'in a fiscally responsible manner.'",
-          "quote": null,
+          "summary": "Says taxpayer-funded health care should be abolished and private insurance should be the primary means of coverage.",
+          "quote": "Taxpayer funded health care should be abolished in all forms",
           "sources": [
             {
-              "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+              "title": "iVoterGuide candidate profile - Dan Green, U.S. Rep. Dist. 9",
               "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },
@@ -507,15 +503,15 @@
           "sources": []
         },
         "elections": {
-          "stance": -1,
+          "stance": -2,
           "confidence": "stated",
-          "summary": "Supports requiring proof of citizenship and identification to vote in federal elections.",
+          "summary": "Opposes voting without photo ID.",
           "quote": null,
           "sources": [
             {
-              "title": "Voter Guide Profile - Dan Green - iVoterGuide",
+              "title": "iVoterGuide candidate profile - Dan Green, U.S. Rep. Dist. 9",
               "url": "https://ivoterguide.com/candidate/77073/race/28518/election/1431",
-              "date": null
+              "date": "2026-09-18"
             }
           ]
         },

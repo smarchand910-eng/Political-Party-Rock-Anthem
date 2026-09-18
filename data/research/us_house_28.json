@@ -613,11 +613,17 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Opposes the Schools of Hope amendment, saying charter operators would compete with and recruit from public schools.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Dem Phil Ehr running for Congress in 28th District - Keys News",
+              "url": "https://www.keysnews.com/news/local/dem-phil-ehr-running-for-congress-in-28th-district/article_0914d6a3-3611-4a92-90eb-c7de2fc001ab.html",
+              "date": "2026-02-26"
+            }
+          ]
         },
         "environment": {
           "stance": 2,
@@ -683,18 +689,13 @@
         "tariffs": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "Ehr says the administration's 'trade wars' and 'reckless tariffs' raised prices on construction materials and groceries; he supports trade policies that protect U.S. jobs 'without sabotaging American consumers or our allies.'",
+          "summary": "Criticizes the administration's trade wars for driving up prices.",
           "quote": null,
           "sources": [
             {
-              "title": "Dem Phil Ehr running for Congress in 28th District (Keys News)",
+              "title": "Dem Phil Ehr running for Congress in 28th District - Keys News",
               "url": "https://www.keysnews.com/news/local/dem-phil-ehr-running-for-congress-in-28th-district/article_0914d6a3-3611-4a92-90eb-c7de2fc001ab.html",
-              "date": "2026"
-            },
-            {
-              "title": "Vote Phil Ehr for U.S. House of Representatives (campaign site)",
-              "url": "https://ehrforcongress.us/",
-              "date": null
+              "date": "2026-02-26"
             }
           ]
         },
