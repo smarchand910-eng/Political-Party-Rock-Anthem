@@ -684,7 +684,7 @@
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Tyler_Davis.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
       "website": "https://www.tylerdavisforcongress.com/",
-      "occupation": "Not found",
+      "occupation": "Panhandle resident; campaign focused on education, jobs and 'sustainable innovation'",
       "residence": "Pensacola, Escambia County (Ballotpedia)",
       "background": "Tyler L. Davis is a Pensacola resident who qualified by petition as a no-party-affiliation candidate for the Nov. 3, 2026 general election in the 1st District. He previously sought the seat as a write-in in the 2025 special election but was disqualified, per Ballotpedia. His campaign website and X account exist, but no issue positions could be retrieved in searches run for this guide.",
       "primary_result": "No primary (NPA candidate); listed for Nov 3 ballot by WEAR-TV (https://weartv.com/news/local/patronis-wins-florida-district-1-primary-sets-up-rematch-with-valimont)",
@@ -739,18 +739,30 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says Medicaid should provide quality care, not the minimum, and wants more providers participating through less administrative burden and better reimbursement.",
+          "quote": "quality healthcare—not simply the minimum level of care available",
+          "sources": [
+            {
+              "title": "Tyler L. Davis for Congress - How I'll Work For You",
+              "url": "https://www.tylerdavisforcongress.com/how-ill-work-for-you",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would protect benefits for current retirees while improving the long-term sustainability of the trust fund.",
+          "quote": "Protecting benefits for current retirees",
+          "sources": [
+            {
+              "title": "Tyler L. Davis for Congress - How I'll Work For You",
+              "url": "https://www.tylerdavisforcongress.com/how-ill-work-for-you",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -802,11 +814,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Backs an 'all-of-the-above' energy strategy while holding utilities accountable for rates and reliability; a mixed position.",
+          "quote": "an all-of-the-above energy strategy",
+          "sources": [
+            {
+              "title": "Tyler L. Davis for Congress - How I'll Work For You",
+              "url": "https://www.tylerdavisforcongress.com/how-ill-work-for-you",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "tariffs": {
           "stance": null,
@@ -830,11 +848,17 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Lists a comprehensive veterans and military plan: better access to health and mental-health care and expanded employment and retraining.",
+          "quote": "Expand employment and retraining opportunities",
+          "sources": [
+            {
+              "title": "Tyler L. Davis for Congress - How I'll Work For You",
+              "url": "https://www.tylerdavisforcongress.com/how-ill-work-for-you",
+              "date": "2026-09-18"
+            }
+          ]
         }
       },
       "other_issues": [],

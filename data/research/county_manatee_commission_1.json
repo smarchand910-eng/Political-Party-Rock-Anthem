@@ -19,18 +19,24 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://votelizarnold.com/",
+      "occupation": "Retired utility finance director (Florida Power Corporation); Parrish",
       "residence": null,
       "background": "Won the six-candidate Republican primary.",
       "primary_result": "First in Aug 18 GOP primary with 27.96% (3,401)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would reduce taxes where possible, saying the county should not be so flush with reserves that it takes money from residents, and would stop wasteful spending.",
+          "quote": "we shouldn't be so flush with reserves that we are taking money away from our residents",
+          "sources": [
+            {
+              "title": "Vote Elizabeth Arnold for Manatee County Commissioner",
+              "url": "https://votelizarnold.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -96,18 +102,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says wetlands should be 'Protected. Period', would protect the Myakka River watershed and canopy roads, and opposes cruise ports off Terra Ceia Bay.",
+          "quote": "Protected. Period",
+          "sources": [
+            {
+              "title": "Vote Elizabeth Arnold for Manatee County Commissioner",
+              "url": "https://votelizarnold.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Wants infrastructure fixed before growth, full impact fees collected so development pays for itself, and rural areas kept rural.",
+          "quote": "Development is supposed to pay for itself. But that cannot happen if we do not collect the appropriate amount of impact fees",
+          "sources": [
+            {
+              "title": "Vote Elizabeth Arnold for Manatee County Commissioner",
+              "url": "https://votelizarnold.com/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,

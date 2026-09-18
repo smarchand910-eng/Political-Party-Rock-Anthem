@@ -672,15 +672,15 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "Campaign says she is 'fighting for affordable healthcare,' but no specific position on Medicaid expansion or ACA subsidies was found as of Sept 2026.",
-          "quote": null,
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Platform calls for protecting and expanding the Affordable Care Act and lowering drug costs for seniors.",
+          "quote": "Protecting and expanding the Affordable Care Act",
           "sources": [
             {
-              "title": "Deva Simmons for Congress | Florida District 18 (campaign site)",
-              "url": "https://www.devasimmons.com/en",
-              "date": null
+              "title": "Deva Simmons for Congress - Issues",
+              "url": "https://www.devasimmons.com/en/issues",
+              "date": "2026-09-18"
             }
           ]
         },
@@ -692,11 +692,17 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Platform calls for protecting public schools from defunding and raising teacher pay.",
+          "quote": "Protecting public schools from defunding",
+          "sources": [
+            {
+              "title": "Deva Simmons for Congress - Issues",
+              "url": "https://www.devasimmons.com/en/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -720,11 +726,17 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Platform calls for protecting voting rights for all citizens and fighting gerrymandering.",
+          "quote": "Protecting voting rights for all citizens",
+          "sources": [
+            {
+              "title": "Deva Simmons for Congress - Issues",
+              "url": "https://www.devasimmons.com/en/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -741,11 +753,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants to create good-paying jobs in clean energy.",
+          "quote": "Creating good-paying jobs in clean energy",
+          "sources": [
+            {
+              "title": "Deva Simmons for Congress - Issues",
+              "url": "https://www.devasimmons.com/en/issues",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "tariffs": {
           "stance": null,

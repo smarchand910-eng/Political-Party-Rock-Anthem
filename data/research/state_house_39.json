@@ -429,10 +429,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://foxforfl.com/",
+      "occupation": "Infectious-disease physician, Orlando Health; Winter Garden",
       "residence": null,
-      "background": "Democratic nominee for HD 39 in the Nov. 3, 2026 general election.",
+      "background": "Dr. Jarod Fox, an Orlando Health infectious-disease specialist, is the Democratic nominee against Rep. Doug Bankson. His campaign says it prioritizes lowering health-care costs, funding public education and investing in small businesses (The Apopka Chief, April 8, 2026). His campaign site's priorities page could not be read for this guide because it sits behind a bot-check, so no issue positions are coded; endorsements reported include 314 Action Fund, the Florida Education Association, the Florida AFL-CIO and U.S. Rep. Maxwell Frost.",
       "primary_result": null,
       "positions": {
         "taxes": {
@@ -569,7 +569,20 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "topic": "Health-care costs",
+          "summary": "Says patients are forced to choose between medical care, groceries and rent, and that many end up hospitalized because they cannot afford medications.",
+          "quote": "With costs out of control, Floridians are often forced to decide between medical care, groceries, and rent.",
+          "sources": [
+            {
+              "title": "Orlando Health physician joins race for House District 39 - The Apopka Chief",
+              "url": "https://theapopkachief.com/orlando-health-physician-joins-race-for-house-district-39/",
+              "date": "2026-04-08"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [

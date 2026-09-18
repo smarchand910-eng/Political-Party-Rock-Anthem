@@ -709,7 +709,7 @@
       "photo_url": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/200/Branden_Scrivener.jpg",
       "photo_source": "Ballotpedia candidate photo (URL pattern unverified)",
       "website": "https://brandenscrivenerfl.info/",
-      "occupation": "Medicare case manager",
+      "occupation": "Health-care insurance-authorization worker; father of two, Land O' Lakes",
       "residence": "Not found",
       "background": "Branden Scrivener (spelled 'Schivener' in a WUSF report), 27, is a Medicare case manager and father of two with a bachelor's degree in human services; his site cites internships with Catholic Charities, Tampa Crossroads, the Department of Child Services and the Flagler Education Foundation and more than three years in healthcare. He qualified as a no-party candidate for the Nov. 3, 2026 general election in the 12th District. No issue positions were found in searches run for this guide.",
       "primary_result": "No primary (NPA candidate); listed for Nov 3 ballot by WUSF (https://www.wusf.org/politics-issues/2026-08-12/democrats-face-uphill-battle-quest-to-wrest-the-seat-held-by-congressman-gus-bilirakis)",
@@ -778,11 +778,17 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says he believes in parent choice but that public-school funding should not be diverted to charter and third-party school programs.",
+          "quote": "Funding for public education should not be diverted to these programs.",
+          "sources": [
+            {
+              "title": "Branden Scrivener for Congress - Key Issues",
+              "url": "https://brandenscrivenerfl.info/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -806,11 +812,17 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would advocate open primaries so independents can participate, plus term limits and campaign-finance limits.",
+          "quote": "I will advocate for open primaries to allow all voters to participate in the election process.",
+          "sources": [
+            {
+              "title": "Branden Scrivener for Congress - Key Issues",
+              "url": "https://brandenscrivenerfl.info/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "crime": {
           "stance": null,

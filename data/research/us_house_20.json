@@ -661,11 +661,17 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Combines secure borders and deportation of those who commit crimes with a pathway to citizenship for those who contribute; a mixed position.",
+          "quote": "We are a nation of laws and a nation of compassion.",
+          "sources": [
+            {
+              "title": "Maxime for Congress - Immigration",
+              "url": "https://www.maximeforcongress.com/immigration",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -682,20 +688,15 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "Campaign lists affordable health care as a focus, but no specific position on Medicaid expansion or ACA subsidies was found as of Sept 2026.",
-          "quote": null,
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says health care is a right; would expand access to affordable care for working families and the self-employed and protect pre-existing-condition coverage, without naming Medicaid or ACA changes.",
+          "quote": "Healthcare is not a luxury. It's a right.",
           "sources": [
             {
-              "title": "Kedner Maxime Policy Positions for District 20 (campaign site)",
-              "url": "https://www.maximeforcongress.com/",
-              "date": null
-            },
-            {
-              "title": "Kedner Maxime About (Local Candidates profile)",
-              "url": "https://www.localcandidates.org/politicians/kedner-maxime/about",
-              "date": null
+              "title": "Maxime for Congress - Healthcare",
+              "url": "https://www.maximeforcongress.com/healthcare",
+              "date": "2026-09-18"
             }
           ]
         },
