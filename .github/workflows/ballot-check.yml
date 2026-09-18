@@ -1,0 +1,31 @@
+name: Weekly ballot status check
+on:
+  schedule:
+    - cron: '0 12 * * 1'
+  workflow_dispatch:
+permissions:
+  issues: write
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Download fresh candidate extract
+        run: python3 scripts/fetch_doe_extract.py --out /tmp/new_extract.json
+      - name: Compare with committed extract
+        id: cmp
+        run: |
+          set +e
+          python3 scripts/check_ballot_changes.py /tmp/new_extract.json > /tmp/report.md
+          echo "changed=$?" >> "$GITHUB_OUTPUT"
+          cat /tmp/report.md
+      - name: Open an issue when statuses changed
+        if: steps.cmp.outputs.changed == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --title "Ballot status changes detected $(date -u +%Y-%m-%d)" --body-file /tmp/report.md --label "ballot-check" || gh issue create --title "Ballot status changes detected $(date -u +%Y-%m-%d)" --body-file /tmp/report.md

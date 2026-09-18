@@ -222,25 +222,58 @@
           ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Protecting Our Nation's Capital Emergency Act (H.R. 2096) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096",
+              "date": "2025-06-10"
+            },
+            {
+              "title": "House roll call 162 (2025) - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll162.xml",
+              "date": "2025-06-10"
+            }
+          ]
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Protection of Women and Girls in Sports Act (H.R. 28) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/28",
+              "date": "2025-01-14"
+            },
+            {
+              "title": "House roll call 12 (2025) - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll012.xml",
+              "date": "2025-01-14"
+            }
+          ]
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
           "quote": null,
-          "sources": []
+          "sources": [
+            {
+              "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
+              "date": "2025-02-07"
+            },
+            {
+              "title": "House roll call 35 (2025) - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll035.xml",
+              "date": "2025-02-07"
+            }
+          ]
         },
         "tariffs": {
           "stance": null,
@@ -437,6 +470,123 @@
               "title": "House passes bill to aid Ukraine and sanction Russia (Washington Times)",
               "url": "https://www.washingtontimes.com/news/2026/jun/4/house-passes-bill-aid-ukraine-sanction-russia/",
               "date": "2026-06-04"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the Laken Riley Act (S. 5), the 2025 law requiring federal detention of unauthorized immigrants charged with theft or violent crimes and letting states sue over immigration enforcement.",
+          "sources": [
+            {
+              "title": "Bill page - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5"
+            },
+            {
+              "title": "Roll-call vote - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll023.xml"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the SAVE Act (H.R. 22), the 2025 bill requiring documentary proof of citizenship to register to vote.",
+          "sources": [
+            {
+              "title": "Bill page - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/22"
+            },
+            {
+              "title": "Roll-call vote - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll102.xml"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that made the 2017 tax cuts permanent and added new deductions while cutting Medicaid and food-assistance spending.",
+          "sources": [
+            {
+              "title": "Bill page - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+            },
+            {
+              "title": "Roll-call vote - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the One Big Beautiful Bill Act (H.R. 1), the July 2025 budget law that added Medicaid work requirements and eligibility checks projected to reduce coverage.",
+          "sources": [
+            {
+              "title": "Bill page - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/1"
+            },
+            {
+              "title": "Roll-call vote - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll190.xml"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
+          "sources": [
+            {
+              "title": "Bill page - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/26"
+            },
+            {
+              "title": "Roll-call vote - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll035.xml"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the Protection of Women and Girls in Sports Act (H.R. 28), the 2025 bill barring transgender girls and women from female school sports under Title IX; a vote for it is coded as leaning toward keeping restrictions in place.",
+          "sources": [
+            {
+              "title": "Bill page - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/28"
+            },
+            {
+              "title": "Roll-call vote - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll012.xml"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the Born-Alive Abortion Survivors Protection Act (H.R. 21), the 2025 bill setting criminal penalties for providers who fail to care for an infant born alive after an attempted abortion; a vote for it is coded as leaning toward more abortion restrictions.",
+          "sources": [
+            {
+              "title": "Bill page - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/21"
+            },
+            {
+              "title": "Roll-call vote - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll027.xml"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the Protecting Our Nation's Capital Emergency Act (H.R. 2096), the 2025 bill repealing parts of the District of Columbia police-accountability law; a vote for it is coded as leaning toward tougher policing.",
+          "sources": [
+            {
+              "title": "Bill page - Congress.gov",
+              "url": "https://www.congress.gov/bill/119th-congress/house-bill/2096"
+            },
+            {
+              "title": "Roll-call vote - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2025/roll162.xml"
+            }
+          ]
+        },
+        {
+          "item": "Voted for the Social Security Fairness Act (H.R. 82), the 2024 law repealing the Windfall Elimination Provision and Government Pension Offset, raising benefits for some public-sector retirees.",
+          "sources": [
+            {
+              "title": "Bill page - Congress.gov",
+              "url": "https://www.congress.gov/bill/118th-congress/house-bill/82"
+            },
+            {
+              "title": "Roll-call vote - Clerk of the U.S. House",
+              "url": "https://clerk.house.gov/evs/2024/roll456.xml"
             }
           ]
         }
