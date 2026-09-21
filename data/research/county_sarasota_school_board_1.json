@@ -26,7 +26,7 @@
       "photo_url": "assets/photos/heidi_brandt.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://brandtforschoolboard.com",
-      "occupation": null,
+      "occupation": "Health and exercise physiology professional; school volunteer and former PTO president",
       "residence": null,
       "background": "Brandt is the president of the parent-teacher council at Southside Elementary School and the parent of an elementary-school student in Sarasota County. She finished second in the August 2026 District 1 primary and advanced to the Nov. 3 runoff. She is endorsed by the Republican Party of Sarasota County.",
       "primary_result": null,
@@ -64,6 +64,32 @@
               "date": "2026"
             }
           ]
+        },
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Brandt said she is fiscally conservative and would treat every taxpayer dollar carefully, while also calling for investment in classrooms, teachers and school safety. She did not say cutting taxes should be a priority.",
+          "quote": "Every taxpayer dollar should be spent wisely, transparently, and with students at the center of every decision.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Brandt lists supporting and retaining great teachers among her priorities, and her campaign website lists \"Employ & Invest in High-Quality Teachers.\" She framed budgeting broadly around classrooms, teachers and safety and did not say teacher pay should come ahead of other district spending.",
+          "quote": "Our priority should be investing in classrooms, supporting great teachers, maintaining safe schools, and ensuring every budget decision reflects our commitment to student success",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -77,10 +103,84 @@
               "date": "2026"
             }
           ]
+        },
+        {
+          "title": "Keeping politics out of school board decisions",
+          "summary": "Brandt said the board should focus on student achievement, teacher retention, safe schools and responsible spending, and that political agendas should not drive decisions in classrooms or the boardroom.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Literacy and academic improvement",
+          "summary": "Brandt said Sarasota is an A-rated district with third-grade literacy rates near 70 percent but that nearly 30 percent of students still read below grade level, and she would focus on strengthening academics and expanding arts, STEM and career training.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Parent involvement",
+          "summary": "Brandt's campaign website lists \"Empower Parents\" first among her priorities, alongside school safety, workforce training and investing in high-quality teachers.",
+          "sources": [
+            {
+              "title": "Heidi Brandt campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026-06-25"
+            }
+          ]
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Florida Sen. Joe Gruters",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "Florida Rep. Fiona McFarland",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "Tom DeSane, Sarasota Charter Review Board",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "Republican Party of Sarasota County",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

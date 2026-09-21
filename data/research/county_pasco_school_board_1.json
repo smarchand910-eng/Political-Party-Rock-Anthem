@@ -124,20 +124,28 @@
       ],
       "positions": {
         "teacher_pay": {
-          "stance": 0,
+          "stance": 1,
           "confidence": "stated",
-          "summary": "Coward wrote in the Florida Public Media voter guide that she supports data-driven, fiscally responsible solutions to teacher pay and declining enrollment, and her campaign site lists recruiting, retaining and supporting educators as a priority. She has not proposed a specific raise or named spending she would cut to fund one.",
-          "quote": "data-driven, fiscally responsible",
+          "summary": "Coward's website says supporting students requires investing in teachers, counselors, bus drivers, paraprofessionals, cafeteria workers and support staff through competitive pay, improved retention and better working conditions. She does not say pay should come ahead of other district spending.",
+          "quote": "Supporting our students requires investing in the people who care for them through competitive pay, improved retention, professional respect, and positive working conditions.",
           "sources": [
             {
-              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
-              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
-              "date": "2026-07-27"
-            },
+              "title": "Kimberly Coward campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kimberly_Coward",
+              "date": "2026-07-17"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Coward's campaign website, quoted on Ballotpedia, says true school safety requires addressing students' emotional, mental and social well-being alongside secure facilities and safety protocols. A former guidance counselor, she calls for improving the student-to-counselor ratio as youth anxiety, depression and suicide attempts rise.",
+          "quote": "In addition to maintaining secure facilities and strong safety protocols, we must also address the emotional, mental, and social well-being of our students.",
+          "sources": [
             {
-              "title": "Kimberly Coward for Pasco County School Board District 1 - campaign site",
-              "url": "https://kimberlycoward.com/",
-              "date": "2026-09"
+              "title": "Kimberly Coward campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kimberly_Coward",
+              "date": "2026-07-17"
             }
           ]
         }
@@ -162,6 +170,17 @@
               "title": "Kimberly Coward for Pasco County School Board District 1 - campaign site",
               "url": "https://kimberlycoward.com/",
               "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Equitable access and academic achievement",
+          "summary": "Coward's website says educational inequities compounded by the COVID-19 pandemic left underserved children behind, and that she is committed to improving academic achievement, supporting student mental health, sustaining enrollment and ensuring equitable access to schools, programs and transportation.",
+          "sources": [
+            {
+              "title": "Kimberly Coward campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kimberly_Coward",
+              "date": "2026-07-17"
             }
           ]
         }

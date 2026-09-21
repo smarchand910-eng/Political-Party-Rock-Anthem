@@ -1352,6 +1352,19 @@
               "date": "2026-09"
             }
           ]
+        },
+        "guns": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In his 2025 Ballotpedia Candidate Connection survey, Pavlik described self-defense as a natural right that government has no authority to infringe, and named firearm policy as one of the areas he is personally passionate about because it affects natural rights.",
+          "quote": "Some of these rights include the right to life, liberty, property, self-defense, and the pursuit of happiness. Governments are established to provide security for these rights.",
+          "sources": [
+            {
+              "title": "Alec Pavlik - Ballotpedia (2025 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Alec_Pavlik",
+              "date": "2026-09"
+            }
+          ]
         }
       },
       "other_issues": [

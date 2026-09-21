@@ -22,7 +22,7 @@
       "website": null,
       "occupation": null,
       "residence": null,
-      "background": "Former state legislator. Led the five-candidate District 2 primary.",
+      "background": "Kamia Brown was born in Orlando in 1980 and earned a bachelor's degree in political science from Florida A&M University in 2003. She worked as a legislative assistant in the Florida Legislature before serving in the Florida House of Representatives for District 45 from 2016 to 2022. She lives in Ocoee and is running for the Orange County Commission in District 2.",
       "primary_result": "First in Aug 18 primary with just over 32%",
       "positions": {
         "taxes": {
@@ -53,11 +53,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Brown's campaign website lists expanding affordable and workforce housing options, encouraging smart zoning for diverse housing types, and supporting solutions that lower homeowner costs and stabilize housing.",
+          "quote": "Expand affordable and workforce housing options",
+          "sources": [
+            {
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kamia_Brown",
+              "date": "2026-07-11"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -104,22 +110,28 @@
         "environment": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Brown called water quality a public-health priority for the district.",
-          "quote": "Water quality is important, it is a public health priority.",
+          "summary": "Brown's campaign website says she would protect natural resources through responsible land use, promote green infrastructure and resilient planning, and balance growth with preserving parks, waterways and green space.",
+          "quote": "Balance growth while preserving parks, waterways, and green space",
           "sources": [
             {
-              "title": "Orange County Dist. 2 candidates talk water, traffic and property taxes ahead of 2026 runoff (WKMG/ClickOrlando)",
-              "url": "https://www.clickorlando.com/news/local/2026/09/04/orange-county-dist-2-candidates-talk-water-traffic-and-property-taxes-ahead-of-2026-runoff/",
-              "date": "2026-09-04"
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kamia_Brown",
+              "date": "2026-07-11"
             }
           ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Brown's campaign website calls for reducing barriers and incentivizing responsible development and for smart zoning that allows more housing types, while also saying growth should be balanced against preserving parks, waterways and green space.",
+          "quote": "Reduce barriers and incentivize responsible development",
+          "sources": [
+            {
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kamia_Brown",
+              "date": "2026-07-11"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -196,6 +208,28 @@
               "date": "2026-09-04"
             }
           ]
+        },
+        {
+          "title": "Roads and infrastructure",
+          "summary": "Brown says she would improve road conditions and neighborhood traffic safety, expand sidewalks, bike paths and transit, upgrade utilities and stormwater systems, and seek state and federal infrastructure funding.",
+          "sources": [
+            {
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kamia_Brown",
+              "date": "2026-07-11"
+            }
+          ]
+        },
+        {
+          "title": "County transparency",
+          "summary": "Brown says she would ensure transparency and community input in county decisions and strengthen public-private partnerships.",
+          "sources": [
+            {
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kamia_Brown",
+              "date": "2026-07-11"
+            }
+          ]
         }
       ],
       "record": [],
@@ -207,6 +241,46 @@
               "title": "Central Florida AFL-CIO backs Kamia Brown in Orange County Commission District 2 race (Florida Politics)",
               "url": "https://floridapolitics.com/archives/817894-central-florida-afl-cio-backs-kamia-brown-in-orange-county-commission-district-2-race/",
               "date": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "by": "1199 SEIU United Healthcare Workers East",
+          "sources": [
+            {
+              "title": "Ballotpedia candidate page",
+              "url": "https://ballotpedia.org/Kamia_Brown",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Central Florida Hotel & Lodging Association",
+          "sources": [
+            {
+              "title": "Ballotpedia candidate page",
+              "url": "https://ballotpedia.org/Kamia_Brown",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Florida Rising",
+          "sources": [
+            {
+              "title": "Ballotpedia candidate page",
+              "url": "https://ballotpedia.org/Kamia_Brown",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "West Orange Political Alliance",
+          "sources": [
+            {
+              "title": "Ballotpedia candidate page",
+              "url": "https://ballotpedia.org/Kamia_Brown",
+              "date": "2026-09"
             }
           ]
         }
@@ -242,11 +316,17 @@
       "primary_result": "Second in Aug 18 primary with close to 26%",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Crabb's campaign website, quoted on Ballotpedia, lists economic affordability first among his priorities and says he will work to tackle housing costs, reduce taxes and attract high-paying jobs. It does not say which spending he would cut.",
+          "quote": "Mike will work to tackle housing costs, reduce taxes, and attract high-paying jobs so families can afford to live, work, and thrive in Northwest Orange County.",
+          "sources": [
+            {
+              "title": "Mike Crabb campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Mike_Crabb",
+              "date": "2026-07-18"
+            }
+          ]
         },
         "property_tax": {
           "stance": 0,
@@ -318,18 +398,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Crabb's website lists parks and environmental conservation among his five priorities, saying he will work to protect wildlife, preserve natural resources and secure grants to replace aging septic systems leaking into the local watershed.",
+          "quote": "Mike will work to protect wildlife, preserve natural resources, and secure grants to convert aging septic systems that are leaking into our watershed.",
+          "sources": [
+            {
+              "title": "Mike Crabb campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Mike_Crabb",
+              "date": "2026-07-18"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Crabb's website says growth must be managed responsibly and that development should meet residents' needs, protect existing neighborhoods, improve infrastructure and pay for itself.",
+          "quote": "Mike believes growth must be managed responsibly. Development should meet the needs of residents, protect existing neighborhoods, improve infrastructure, and pay for itself.",
+          "sources": [
+            {
+              "title": "Mike Crabb campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Mike_Crabb",
+              "date": "2026-07-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -346,11 +438,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Crabb's website lists crime prevention and public safety among his priorities and says that as a deputy sheriff with decades of experience he will support first responders and keep public safety a top priority.",
+          "quote": "As a deputy sheriff with decades of experience, Mike understands that safe communities are the foundation of a strong quality of life.",
+          "sources": [
+            {
+              "title": "Mike Crabb campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Mike_Crabb",
+              "date": "2026-07-18"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -404,6 +502,17 @@
               "title": "Orange County Dist. 2 candidates talk water, traffic and property taxes ahead of 2026 runoff (WKMG/ClickOrlando)",
               "url": "https://www.clickorlando.com/news/local/2026/09/04/orange-county-dist-2-candidates-talk-water-traffic-and-property-taxes-ahead-of-2026-runoff/",
               "date": "2026-09-04"
+            }
+          ]
+        },
+        {
+          "title": "Traffic and transportation",
+          "summary": "Crabb's website says he supports faster implementation of technology to improve traffic flow, strengthen connectivity and expand transportation options in Northwest Orange County.",
+          "sources": [
+            {
+              "title": "Mike Crabb campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Mike_Crabb",
+              "date": "2026-07-18"
             }
           ]
         }

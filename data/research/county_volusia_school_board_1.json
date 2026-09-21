@@ -169,6 +169,19 @@
               "date": "2026-07-31"
             }
           ]
+        },
+        "school_safety": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Haynes' campaign website, quoted on Ballotpedia, says safe and strong schools start with a strong partnership with law enforcement, administrators and educators. It does not mention counselors or mental-health staffing.",
+          "quote": "Safe and strong schools start with a strong partnership with law enforcement, administrators and educators.",
+          "sources": [
+            {
+              "title": "Jamie Haynes campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Jamie_Haynes_%28Florida%29",
+              "date": "2026-07-21"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -213,6 +226,28 @@
               "title": "2026 Voter's Guide - Volusia County School Board District 1",
               "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
               "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "title": "Career and technical education",
+          "summary": "Haynes' website says she strongly supports career and technical education programs preparing students for college, skilled trades, military service and the workforce.",
+          "sources": [
+            {
+              "title": "Jamie Haynes campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Jamie_Haynes_%28Florida%29",
+              "date": "2026-07-21"
+            }
+          ]
+        },
+        {
+          "title": "Local decision-making and budget oversight",
+          "summary": "Haynes' website says that as chair of the district's internal audit committee she prioritizes transparency and responsible budgeting, and that she supports local decision-making rather than one-size-fits-all mandates.",
+          "sources": [
+            {
+              "title": "Jamie Haynes campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Jamie_Haynes_%28Florida%29",
+              "date": "2026-07-21"
             }
           ]
         }

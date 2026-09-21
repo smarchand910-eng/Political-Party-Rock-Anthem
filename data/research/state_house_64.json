@@ -38,7 +38,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "trump": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In his 2026 Ballotpedia Candidate Connection survey, Weldon said he supports the America First agenda championed by Donald Trump and described it as a governing principle rather than a slogan.",
+          "quote": "Dan supports the America First agenda championed by Donald Trump—securing the border, protecting American jobs, standing up to China, and putting American workers before global interests.",
+          "sources": [
+            {
+              "title": "Dan Weldon - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Dan_Weldon",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Weldon's survey lists securing the border as part of the America First agenda he supports. He did not address large-scale deportation or state-level enforcement measures.",
+          "quote": "securing the border, protecting American jobs, standing up to China, and putting American workers before global interests",
+          "sources": [
+            {
+              "title": "Dan Weldon - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Dan_Weldon",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Weldon called affordability, including housing costs, the clearest sign that government has lost touch, and said buying a home now requires jumping through hoops created by bad policy. He framed the remedy as clearing the path for opportunity and standing up to special interests rather than subsidies, zoning changes or rent measures.",
+          "quote": "Buying a home, starting a family, and building a stable life now require jumping through hoops created by bad policy and political complacency.",
+          "sources": [
+            {
+              "title": "Dan Weldon - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Dan_Weldon",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [
         {
           "title": "Cost of living",

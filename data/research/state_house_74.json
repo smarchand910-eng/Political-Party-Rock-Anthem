@@ -161,6 +161,19 @@
               "date": "2026-09"
             }
           ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In his 2026 Ballotpedia Candidate Connection survey, Neill listed funding for flood control and mitigation as one of his three key campaign messages, and said he is personally passionate about investment in mass transit. He did not say how he would weigh those against development.",
+          "quote": "Funding for flood control and mitigation.",
+          "sources": [
+            {
+              "title": "Ryan Neill - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Ryan_Neill",
+              "date": "2026-09"
+            }
+          ]
         }
       },
       "other_issues": [

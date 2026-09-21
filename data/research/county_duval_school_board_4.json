@@ -123,18 +123,26 @@
         "teacher_pay": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Jacobs lists teacher pay as his first priority, saying he would advocate for competitive salaries and for increasing pay for teachers, faculty, staff and coaches.",
-          "quote": "We cannot expect outstanding student outcomes without supporting the educators who make them possible.",
+          "summary": "Jacobs' campaign website lists teacher pay as the first of three top priorities, calling for making competitive teacher pay a district priority and supporting a living wage for teachers and staff. He also lists higher stipends for part-time coaches and support for facilities and cafeteria employees.",
+          "quote": "Our educators deserve to be paid like the professionals they are.",
           "sources": [
             {
-              "title": "2026 Voter's Guide: Duval County School Board, District 4",
-              "url": "https://www.news4jax.com/voters-guide/2026/07/30/2026-voters-guide-duval-county-school-board-district-4/",
-              "date": "2026-07-30"
-            },
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/James_Jacobs",
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Jacobs' campaign website calls for professional school-security solutions so that security staff handle safety and teachers can teach. It separately lists mental health as a priority, including more mental-health training and suicide-awareness education.",
+          "quote": "Safe schools, done the right way — let trained security professionals do their jobs, and let our teachers teach.",
+          "sources": [
             {
-              "title": "Who's running for Duval County School Board District 4? Meet the candidates",
-              "url": "https://www.news4jax.com/news/local/2026/07/24/whos-running-for-duval-county-school-board-district-4-meet-the-candidates/",
-              "date": "2026-07-24"
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/James_Jacobs",
+              "date": "2026-07-13"
             }
           ]
         }
@@ -159,6 +167,28 @@
               "title": "Four Democrats face off in Duval School Board District 4 race. Who are they?",
               "url": "https://jaxtoday.org/2026/08/04/duval-school-board-district-4-election/",
               "date": "2026-08-04"
+            }
+          ]
+        },
+        {
+          "title": "School construction and closures",
+          "summary": "Jacobs says the district should be building schools rather than closing them, and lists renovating older schools to improve learning environments.",
+          "sources": [
+            {
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/James_Jacobs",
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        {
+          "title": "Student meals and programming",
+          "summary": "Jacobs says he would protect free breakfast and lunch, expand after-school and summer programs for students with emotional-behavioral disabilities, and reinstate middle school sports teams.",
+          "sources": [
+            {
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/James_Jacobs",
+              "date": "2026-07-13"
             }
           ]
         }

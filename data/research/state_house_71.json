@@ -958,7 +958,34 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In his 2026 Ballotpedia Candidate Connection survey, Hoolihan said Manatee County's growth is good but that growth without accountability has left roads jammed, schools packed and home prices high, and he named responsible growth as a policy area he is passionate about.",
+          "quote": "Manatee County is booming and that is a good thing. But growth without accountability is a problem. Roads are jammed, schools are packed and home prices have gone through the roof.",
+          "sources": [
+            {
+              "title": "Joseph Hoolihan - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Joseph_Hoolihan",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Hoolihan's survey names housing affordability as one of the public policy areas he is most passionate about and says home and lifestyle affordability is a problem he wants to change. He did not specify which tools he would use.",
+          "quote": "Home and lifestyle affordability is a problem and I want to change that.",
+          "sources": [
+            {
+              "title": "Joseph Hoolihan - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Joseph_Hoolihan",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [
         {
           "title": "Independent leadership and responsible growth",

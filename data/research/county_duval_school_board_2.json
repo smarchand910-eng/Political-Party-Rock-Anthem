@@ -42,18 +42,13 @@
         "school_safety": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Bradley says he would continue investing in the district's school police force, strengthen campus security and update emergency response plans, and pairs support for teachers with support for school resource officers.",
-          "quote": "ensure that our facilities are secure",
+          "summary": "Bradley's campaign website lists increasing school safety as a top priority and describes working with school resource officers, local law enforcement and crossing guards. It does not mention counselors or mental-health staffing.",
+          "quote": "Whether tackling the shortage of crossing guards or working with School Resource Officers, Donovan will partner with local law enforcement to ensure they have the resources needed to keep our students safe.",
           "sources": [
             {
-              "title": "2026 Voter's Guide: Duval County School Board, District 2",
-              "url": "https://www.news4jax.com/voters-guide/2026/07/30/2026-voters-guide-duval-county-school-board-district-2/",
-              "date": "2026-07-30"
-            },
-            {
-              "title": "Meet the three candidates vying for Duval County School Board District 2 seat",
-              "url": "https://floridatrib.org/2026/07/29/duval-county-school-board-election-district-2/",
-              "date": "2026-07-29"
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Donovan_Bradley",
+              "date": "2026-07-11"
             }
           ]
         },
@@ -69,6 +64,19 @@
               "date": "2026-07-30"
             }
           ]
+        },
+        "education_choice": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Bradley's campaign website lists \"Champion School Choice\" as a priority and says he will work to make sure parents have options for their child's education, citing his own experience attending schools outside his zoned area. The site does not specifically address public funding for private schools.",
+          "quote": "Donovan will lean on his personal experience as a Duval County student to make certain parents have options when it comes to their child’s education.",
+          "sources": [
+            {
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Donovan_Bradley",
+              "date": "2026-07-11"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -80,6 +88,28 @@
               "title": "Meet the 3 candidates vying for Duval County School Board District 2 seat",
               "url": "https://jaxtoday.org/2026/08/03/candidates-duval-school-board-district-2/",
               "date": "2026-08-03"
+            }
+          ]
+        },
+        {
+          "title": "Career and technical education",
+          "summary": "Bradley says he will advocate for and expand the Advanced Internship Program, which lets juniors and seniors take paid, credit-bearing internships that count toward career and technical education coursework.",
+          "sources": [
+            {
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Donovan_Bradley",
+              "date": "2026-07-11"
+            }
+          ]
+        },
+        {
+          "title": "Teacher retention",
+          "summary": "Bradley says teacher retention depends on respect, support and opportunities for growth, and that he would focus on eliminating bureaucracy and giving teachers more resources and classroom freedom.",
+          "sources": [
+            {
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Donovan_Bradley",
+              "date": "2026-07-11"
             }
           ]
         }
@@ -117,12 +147,51 @@
         "education_choice": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "Westrich calls for greater fiscal accountability and transparency in Florida's state scholarship (voucher) programs, pointing to roughly $270 million in scholarship funds she says could not be properly tracked, and ties district budget shortfalls to declining enrollment.",
-          "quote": "",
+          "summary": "Westrich's survey says public schools should be fully funded as a budget line separate from the Family Empowerment Scholarship, and that every school receiving public money should be held to the same accountability standards as public schools.",
+          "quote": "All schools that receive public taxpayer money must be held to the same accountability standards as public schools.",
           "sources": [
             {
-              "title": "2026 Voter's Guide: Duval County School Board, District 2",
-              "url": "https://www.news4jax.com/voters-guide/2026/07/30/2026-voters-guide-duval-county-school-board-district-2/",
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Donna_Westrich",
+              "date": "2026-07-30"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In her Ballotpedia Candidate Connection survey, Westrich lists supporting teachers and strengthening schools as her first campaign priority. She says she will advocate for competitive pay, including supporting the district's 1-mill referendum, and for sustainable workloads and funded support staff to improve retention.",
+          "quote": "I will advocate for competitive pay, which includes supporting the 1-Mill referendum, and I will advocate for sustainable workloads to ensure quality teacher retention.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Donna_Westrich",
+              "date": "2026-07-30"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Westrich says she supports the district's 1-mill property tax referendum to pay for competitive teacher salaries, and calls for working with local and state government to fully fund public schools. She pairs this with transparent budgeting and classroom-first spending.",
+          "quote": "I will advocate for competitive pay, which includes supporting the 1-Mill referendum",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Donna_Westrich",
+              "date": "2026-07-30"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Westrich says she supports the Duval County schools 1-mill property tax referendum, a local property tax levy for school operations, as part of her plan to pay for competitive teacher salaries.",
+          "quote": "I will advocate for competitive pay, which includes supporting the 1-Mill referendum",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Donna_Westrich",
               "date": "2026-07-30"
             }
           ]
@@ -150,10 +219,53 @@
               "date": "2026-08-03"
             }
           ]
+        },
+        {
+          "title": "Budget transparency",
+          "summary": "Westrich lists transparency, accountability and smart spending as a campaign priority, saying she would protect public education funding through transparent budgeting, oversight and classroom-first spending.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Donna_Westrich",
+              "date": "2026-07-30"
+            }
+          ]
+        },
+        {
+          "title": "Parent and community engagement",
+          "summary": "Westrich says she would increase community partnerships and hold open public workshops so parents can take part in district decisions.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Donna_Westrich",
+              "date": "2026-07-30"
+            }
+          ]
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Duval Teachers United",
+          "sources": [
+            {
+              "title": "Ballotpedia candidate page",
+              "url": "https://ballotpedia.org/Donna_Westrich",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Florida Education Association",
+          "sources": [
+            {
+              "title": "Ballotpedia candidate page",
+              "url": "https://ballotpedia.org/Donna_Westrich",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

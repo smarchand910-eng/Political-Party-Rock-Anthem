@@ -197,6 +197,24 @@
               "date": "2026-07-27"
             }
           ]
+        },
+        "school_safety": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "In her Ballotpedia Candidate Connection survey Simic says students should have access to mental health resources when they need them. Her campaign website also says strong leadership and clear expectations create schools where students learn accountability and respect. She does not address school policing.",
+          "quote": "It also means making sure students have access to mental health resources when they need them.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Daniela_Simic",
+              "date": "2026-06-26"
+            },
+            {
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Daniela_Simic",
+              "date": "2026-06-28"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -221,6 +239,39 @@
               "date": "2026-07-14"
             }
           ]
+        },
+        {
+          "title": "District testing",
+          "summary": "Simic says it is time to take a hard look at how much district-level testing is required so that teachers can spend more time teaching and students more time learning.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Daniela_Simic",
+              "date": "2026-06-26"
+            }
+          ]
+        },
+        {
+          "title": "Staff workload and support",
+          "summary": "Simic says the district should reduce unnecessary workload, protect instructional time and build a culture where teachers, paraprofessionals, counselors, bus drivers and cafeteria staff feel respected and supported.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Daniela_Simic",
+              "date": "2026-06-26"
+            }
+          ]
+        },
+        {
+          "title": "Transparency and communication",
+          "summary": "Simic says major district decisions should never come as a surprise and that families, employees and students deserve clear, timely communication and a chance to weigh in before decisions are made.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Daniela_Simic",
+              "date": "2026-06-26"
+            }
+          ]
         }
       ],
       "record": [],
@@ -231,6 +282,56 @@
             {
               "title": "Daniela Simic for Hillsborough County School Board District 2",
               "url": "https://danielaforschools.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Hillsborough Classroom Teachers Association",
+          "sources": [
+            {
+              "title": "Ballotpedia candidate page",
+              "url": "https://ballotpedia.org/Daniela_Simic",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Florida Education Association",
+          "sources": [
+            {
+              "title": "Ballotpedia candidate page",
+              "url": "https://ballotpedia.org/Daniela_Simic",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "West Central Florida Labor Council, AFL-CIO",
+          "sources": [
+            {
+              "title": "Ballotpedia candidate page",
+              "url": "https://ballotpedia.org/Daniela_Simic",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Ruth's List Florida",
+          "sources": [
+            {
+              "title": "Ballotpedia candidate page",
+              "url": "https://ballotpedia.org/Daniela_Simic",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Sierra Club Tampa Bay",
+          "sources": [
+            {
+              "title": "Ballotpedia candidate page",
+              "url": "https://ballotpedia.org/Daniela_Simic",
               "date": "2026-09"
             }
           ]
@@ -424,6 +525,32 @@
           "summary": "No public position found as of Sept 2026.",
           "quote": null,
           "sources": []
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In her Ballotpedia Candidate Connection survey Lyssy says teachers deserve competitive compensation along with consistent discipline policies and fewer administrative burdens. She also says the district should direct resources toward classrooms and teachers, but does not name pay as the single top budget priority.",
+          "quote": "Teachers deserve competitive compensation, consistent discipline policies, reduced administrative burdens, and the support needed to focus on teaching.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Brittany_Lyssy",
+              "date": "2026-07-28"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lyssy's survey emphasizes consistent discipline policies and maintaining safe, orderly classrooms, and lists safe schools among her priorities. She does not mention counselors or mental-health staffing.",
+          "quote": "I will work to maintain safe, orderly classrooms where educators can teach, students can learn, and families are heard and respected.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Brittany_Lyssy",
+              "date": "2026-07-28"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -448,10 +575,74 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "title": "Parental rights and transparency",
+          "summary": "Lyssy says parents have a right to know what their children are learning and to take part in educational decisions, and that she is running to defend parental rights.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Brittany_Lyssy",
+              "date": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "title": "Academics and career education",
+          "summary": "Lyssy says she would prioritize reading, writing, math, science and civics with measurable academic progress and early support for struggling students, and would expand career and technical education and apprenticeships.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Brittany_Lyssy",
+              "date": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "title": "Budget oversight",
+          "summary": "Lyssy says Hillsborough County Public Schools must be transparent and accountable with every taxpayer dollar, and that she would evaluate contracts, strengthen oversight of major expenditures and demand measurable results from district programs.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Brittany_Lyssy",
+              "date": "2026-07-28"
+            }
+          ]
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Suncoast Tampa Association of Realtors",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Brittany_Lyssy",
+              "date": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "by": "Tampa Police Benevolent Association",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Brittany_Lyssy",
+              "date": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "by": "Tampa Firefighters Local 754",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey",
+              "url": "https://ballotpedia.org/Brittany_Lyssy",
+              "date": "2026-07-28"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Hillsborough County School Board candidates tackle district challenges (WUSF)",

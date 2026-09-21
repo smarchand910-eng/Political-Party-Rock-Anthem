@@ -332,31 +332,67 @@
         "crime": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "She lists eradicating street violence and securing Downtown, Biscayne and Brickell among her top three messages.",
-          "quote": "Eradicating street violence & securing Downtown , Biscayne and Brickell.",
+          "summary": "Vazquez del Mercado listed eradicating street violence and securing the downtown, Biscayne and Brickell areas among her three key campaign messages, saying the urban core faces a surge in public safety failures. She also called for stronger enforcement against financial fraud and human trafficking.",
+          "quote": "Eradicating street violence & securing Downtown , Biscayne and Brickell. Urban core facing unacceptable surge in public safety failures, Miami residents deserve to walk their neighborhoods without fear",
           "sources": [
             {
-              "title": "Ballotpedia: Paola Vazquez del Mercado",
+              "title": "Ballotpedia Candidate Connection survey - Paola Vazquez del Mercado",
               "url": "https://ballotpedia.org/Paola_Vazquez_del_Mercado",
-              "date": "2026-09"
+              "date": "2026-06-08"
             }
           ]
         },
         "environment": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "She calls for halting corrupt tree cutting, auditing port mismanagement and stopping corporate pollution.",
-          "quote": "",
+          "summary": "Vazquez del Mercado listed \"Environmental Integrity\" among her three key messages, calling for a halt to what she described as corrupt tree cutting and port mismanagement and for an end to corporate pollution. She also said protecting natural resources and preserving the community's environment is central to her campaign.",
+          "quote": "Environmental Integrity: Haulting corrupt tree cutting & Port Mismanagement. demanding comprehensive audit to eliminate bureaucratic waste, halt corporate pollution and restore transparency to Miami Gov.",
           "sources": [
             {
-              "title": "Ballotpedia: Paola Vazquez del Mercado",
+              "title": "Ballotpedia Candidate Connection survey - Paola Vazquez del Mercado",
               "url": "https://ballotpedia.org/Paola_Vazquez_del_Mercado",
-              "date": "2026-09"
+              "date": "2026-06-08"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Vazquez del Mercado said Miami has been exploited by sophisticated financial and developer fraud and by shell-company structures, and she called for stricter transparency rules over corporate and offshore ownership to protect homesteads and neighborhoods.",
+          "quote": "Miami has been exploited as international hub for sophisticated financial and developers fraud, predatory shell company manipulation and LLC identity masking used to starve families and strip foreign investors local real estate equity.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Paola Vazquez del Mercado",
+              "url": "https://ballotpedia.org/Paola_Vazquez_del_Mercado",
+              "date": "2026-06-08"
             }
           ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Financial transparency and anti-fraud enforcement",
+          "summary": "Vazquez del Mercado said her central goal is stricter transparency over offshore corporate structures and LLCs, which she says are used for cross-border fraud, and she described her background in political and credit risk analysis as the basis for that work.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Paola Vazquez del Mercado",
+              "url": "https://ballotpedia.org/Paola_Vazquez_del_Mercado",
+              "date": "2026-06-08"
+            }
+          ]
+        },
+        {
+          "title": "Gold and silver legal tender",
+          "summary": "Asked what policy areas she is passionate about, Vazquez del Mercado cited \"financial sovereignty\" and implementing Florida's gold and silver legal tender law, saying inflation and central banking are devaluing working families' savings.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Paola Vazquez del Mercado",
+              "url": "https://ballotpedia.org/Paola_Vazquez_del_Mercado",
+              "date": "2026-06-08"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

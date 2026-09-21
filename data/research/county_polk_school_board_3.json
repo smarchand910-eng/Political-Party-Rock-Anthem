@@ -431,18 +431,26 @@
         "teacher_pay": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Sims says he would improve both teacher pay and working conditions, and has proposed generating savings, including through solar installations and fuller use of programs such as Step Up for Students, to reinvest in classrooms and staff. He did not say pay should come ahead of other spending.",
-          "quote": "improving both pay and working conditions",
+          "summary": "Sims made \"Backing Our Teachers & School Staff\" one of three campaign messages, calling for better pay, stronger retention efforts and working conditions that keep teachers in the profession, and said the same applies to bus drivers, cafeteria workers and aides. His campaign website calls for competitive salaries for staff.",
+          "quote": "We need to respect that with real investment—better pay, stronger retention efforts, and working conditions that allow teachers to actually stay in the profession they love.",
           "sources": [
             {
-              "title": "Meet the candidates for Polk County School Board District 3",
-              "url": "https://wusf.org/text/politics-issues/2026-07-28/meet-the-candidates-for-polk-county-school-board-district-3",
-              "date": "2026-07-28"
-            },
+              "title": "Ballotpedia Candidate Connection survey - Victor Sims",
+              "url": "https://ballotpedia.org/Victor_Sims",
+              "date": "2026-07-05"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Sims said student mental health resources, along with IEP and ESE services, should be consistently reachable across the district, and he tied school success to support systems for children inside and outside the classroom. His website lists school safety as a responsibility but he framed his approach around student supports rather than policing or discipline.",
+          "quote": "That means strengthening academic support, expanding opportunities in arts and career pathways, and making sure services like IEPs, ESE support, and student mental health resources are actually reachable and consistent across the district.",
+          "sources": [
             {
-              "title": "School Board, District 3 - LkldNow candidate questionnaire",
-              "url": "https://www.lkldnow.com/school-board-district-3/",
-              "date": "2026"
+              "title": "Ballotpedia Candidate Connection survey - Victor Sims",
+              "url": "https://ballotpedia.org/Victor_Sims",
+              "date": "2026-07-05"
             }
           ]
         }
@@ -491,10 +499,74 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "title": "Special education and student services",
+          "summary": "Sims said families should not have to fight to get the IEP and ESE services their children are entitled to, and that those services should be consistent across the district.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Victor Sims",
+              "url": "https://ballotpedia.org/Victor_Sims",
+              "date": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "title": "Foster care and child welfare",
+          "summary": "Sims, a former foster youth and social worker, said he is passionate about strengthening foster care and child welfare systems because stability at home shapes success at school.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Victor Sims",
+              "url": "https://ballotpedia.org/Victor_Sims",
+              "date": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "title": "Career pathways and transparency",
+          "summary": "Sims called for stronger parent engagement and transparency in district decision-making, and for preparing students for college, trades, military service or local careers.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Victor Sims",
+              "url": "https://ballotpedia.org/Victor_Sims",
+              "date": "2026-07-05"
+            }
+          ]
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Run for Something",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Victor Sims",
+              "url": "https://ballotpedia.org/Victor_Sims",
+              "date": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "by": "School Board Integrity Project",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Victor Sims",
+              "url": "https://ballotpedia.org/Victor_Sims",
+              "date": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "by": "Oath of Office",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Victor Sims",
+              "url": "https://ballotpedia.org/Victor_Sims",
+              "date": "2026-07-05"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "School Board Elections: District 3 Heads to Run-Off",

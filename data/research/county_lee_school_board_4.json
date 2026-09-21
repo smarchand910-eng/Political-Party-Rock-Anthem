@@ -173,7 +173,28 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Equality Florida Action PAC",
+          "sources": [
+            {
+              "title": "Ballotpedia candidate page",
+              "url": "https://ballotpedia.org/Debbie_Jordan",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Ruth's List Florida",
+          "sources": [
+            {
+              "title": "Ballotpedia candidate page",
+              "url": "https://ballotpedia.org/Debbie_Jordan",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

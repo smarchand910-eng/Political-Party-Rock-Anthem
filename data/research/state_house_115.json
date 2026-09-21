@@ -200,13 +200,26 @@
         "abortion": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Reyes says a woman's right to choose is important to him, citing his four daughters, and has called for codifying Roe v. Wade standards.",
-          "quote": "A woman's right to choose is important to me. I have four daughters who will not have this right moving forward.",
+          "summary": "In his 2023 Ballotpedia Candidate Connection survey, filed during an earlier run for Congress, Reyes said abortion rights are the policy area he is most passionate about and called for federal legislation restoring the Roe v. Wade standard. He said he has four daughters who would otherwise lose that right.",
+          "quote": "We must pass federal law with the Roe v. Wade standards so that women can choose.",
           "sources": [
             {
-              "title": "Florida Choice Tracker: Marcos Reyes is Pro-Choice",
-              "url": "https://choicetracker.org/fl/people/marcos-reyes/292749312",
-              "date": "2024-07-06"
+              "title": "Ballotpedia Candidate Connection survey (2023) - Marcos Reyes",
+              "url": "https://ballotpedia.org/Marcos_Reyes",
+              "date": "2023-10-31"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In his 2023 Ballotpedia Candidate Connection survey Reyes said he wants to fight for equal rights and named the LGBTQ community among those he would fight for. He did not address Florida's specific laws on gender-affirming care for minors or classroom instruction.",
+          "quote": "I want to fight for equal rights. All humans are created equally. I want to fight for woman’s right to choose. For the LGBTQ community.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey (2023) - Marcos Reyes",
+              "url": "https://ballotpedia.org/Marcos_Reyes",
+              "date": "2023-10-31"
             }
           ]
         }
@@ -231,6 +244,28 @@
               "title": "A Change in Florida is NEEDED!",
               "url": "https://www.dailykos.com/stories/2026/6/8/800052210/community/a-change-in-florida-is-needed/",
               "date": "2026-06-08"
+            }
+          ]
+        },
+        {
+          "title": "Cost of living",
+          "summary": "In his 2023 survey Reyes said he wants to make sure there is always food on the table and to ease the paycheck-to-paycheck lifestyle many families face.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey (2023) - Marcos Reyes",
+              "url": "https://ballotpedia.org/Marcos_Reyes",
+              "date": "2023-10-31"
+            }
+          ]
+        },
+        {
+          "title": "Social Security and Medicare",
+          "summary": "In an earlier October 2023 submission Reyes listed Social Security and Medicare among his three key messages, saying the programs need to last for generations to come.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey (2023, October 15 submission) - Marcos Reyes",
+              "url": "https://ballotpedia.org/Marcos_Reyes",
+              "date": "2023-10-15"
             }
           ]
         }

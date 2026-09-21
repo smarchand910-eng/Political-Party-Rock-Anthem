@@ -42,18 +42,13 @@
         "school_books": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Bedinghaus says the district should declare a 'reading emergency' and focus the curriculum on reading, math, writing and science rather than what he calls political agendas or indoctrination, and that parents deserve clear access to what their children are being taught. He has also said students should be reading, but not material he argues contributes to youth suicide.",
-          "quote": "We got to make sure we get (students) back reading, but not reading all these things that are going to make the suicide rates go up",
+          "summary": "Bedinghaus' campaign website says Florida's academic mandate is reading, math, writing and science and that classrooms should not carry political agendas. It says parents and teachers, rather than bureaucrats or activists, should decide what happens in the classroom, and calls for a parent portal showing what children are taught.",
+          "quote": "Parents and teachers, the people closest to students, should decide what happens in the classroom....not distant bureaucrats or activists.",
           "sources": [
             {
-              "title": "Turning Point USA director, volunteer and businessman compete for Manatee School Board District 5",
-              "url": "https://floridatrib.org/2026/07/27/manatee-county-school-board-district-5/",
-              "date": "2026-07-27"
-            },
-            {
-              "title": "Cam for School Board",
-              "url": "https://camforschoolboard.com/",
-              "date": "2026-09"
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Camden_Bedinghaus",
+              "date": "2026-06-28"
             }
           ]
         },
@@ -91,6 +86,28 @@
               "title": "Cam for School Board",
               "url": "https://camforschoolboard.com/",
               "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Reading and literacy",
+          "summary": "Bedinghaus says nearly half of district students cannot read at grade level and that on his first day he would ask the board to declare a reading emergency, expand early intervention and adopt practices from higher-performing districts.",
+          "sources": [
+            {
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Camden_Bedinghaus",
+              "date": "2026-06-28"
+            }
+          ]
+        },
+        {
+          "title": "Financial and life skills",
+          "summary": "Bedinghaus says schools should teach personal finance, basic economics, budgeting and other practical life skills so graduates can manage money and build stability.",
+          "sources": [
+            {
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Camden_Bedinghaus",
+              "date": "2026-06-28"
             }
           ]
         }

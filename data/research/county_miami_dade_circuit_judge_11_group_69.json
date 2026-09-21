@@ -96,7 +96,19 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Approach to the bench",
+          "summary": "Jones-Peabody's campaign website says fairness is the cornerstone of her practice, promising equitable treatment under the law for every individual, and describes a legal system that serves every neighborhood.",
+          "sources": [
+            {
+              "title": "Campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Bonita_Jones-Peabody",
+              "date": "2026-07-19"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "More than 35 years in practice and more than 200 criminal jury trials; described by a 2026 Miami-Dade judicial voter guide as an experienced criminal defense lawyer with many years at the Public Defender's Office.",

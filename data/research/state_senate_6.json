@@ -754,11 +754,17 @@
           ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In his 2025 Ballotpedia Candidate Connection survey, Thornton said the foundation of his campaign is human dignity and that he is pro-life across the whole lifespan, from conception to natural death.",
+          "quote": "Dr. Thornton is pro-life throughout the lifespan from conception to natural death.",
+          "sources": [
+            {
+              "title": "Joseph Thornton - Ballotpedia (2025 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Joseph_Thornton",
+              "date": "2026-09"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -810,22 +816,28 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Asked about the state ballot initiative process, Thornton said he supports identifying and registering voters and respecting registered voters, and that voting opportunities should be equitable. He backed neither easing nor restricting specific voting methods.",
+          "quote": "I support the identification and registration of voters and I support respect for registered voters. Voting opportunities should be equitable.",
+          "sources": [
+            {
+              "title": "Joseph Thornton - Ballotpedia (2025 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Joseph_Thornton",
+              "date": "2026-09"
+            }
+          ]
         },
         "crime": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "Stands firmly against the death penalty and proposes legislation to abolish it.",
-          "quote": "stands firmly against the death penalty",
+          "summary": "Thornton, a psychiatrist who has worked in Florida's prison system, said the first bill he would introduce is a moratorium on executions, that detainees of any status must be treated with dignity and prisoner abuse prohibited, and that the state should address thousands of unsolved homicide cold cases.",
+          "quote": "Stop killing prisoners for political gain and seek justice by addressing the thousands of unsolved homicide cold cases in Florida.",
           "sources": [
             {
-              "title": "Thornton for Human Dignity - Home",
-              "url": "https://thorntonforhumandignity.com/",
-              "date": "2026-09-18"
+              "title": "Joseph Thornton - Ballotpedia (2025 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Joseph_Thornton",
+              "date": "2026-09"
             }
           ]
         },
@@ -858,7 +870,41 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Death penalty",
+          "summary": "Thornton says he stands firmly against the death penalty, an issue he says is informed by years providing care on death row and consulting in capital cases, and that the first bill he would introduce is a moratorium on executions.",
+          "sources": [
+            {
+              "title": "Joseph Thornton - Ballotpedia (2025 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Joseph_Thornton",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Artificial intelligence and workers",
+          "summary": "Thornton says he teaches bioethics with a focus on artificial intelligence and wants fair wages for workers displaced by government-subsidized AI, arguing companies should not profit from AI without responsibility to the people whose work contributed to it.",
+          "sources": [
+            {
+              "title": "Joseph Thornton - Ballotpedia (2025 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Joseph_Thornton",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Third-party politics",
+          "summary": "Thornton says his campaign aims to grow the third-party movement and the American Solidarity Party to press for what he calls person-centered government.",
+          "sources": [
+            {
+              "title": "Joseph Thornton - Ballotpedia (2025 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Joseph_Thornton",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

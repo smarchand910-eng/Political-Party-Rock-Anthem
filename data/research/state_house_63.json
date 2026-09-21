@@ -25,7 +25,7 @@
       "photo_url": "assets/photos/jacqueline_coffie_leeks.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.coffieleeksfor63.com",
-      "occupation": null,
+      "occupation": "Executive director",
       "residence": null,
       "background": "Democratic nominee for the open HD 63 seat (Tampa) after winning the three-way Aug. 18, 2026 primary.",
       "primary_result": "Won Aug. 18, 2026 Democratic primary over Robin Lockett and Conrad Schupay (Tampa Bay Times)",
@@ -52,11 +52,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In her 2026 Ballotpedia Candidate Connection survey, Coffie-Leeks listed making housing more attainable among the policies she is personally passionate about, alongside youth career pathways, support for seniors and caregivers, and neighborhood investment. She did not name specific housing programs or proposals.",
+          "quote": "Whether it's helping a young person find a career pathway, making housing more attainable, supporting seniors and caregivers, strengthening our workforce, or investing in neighborhoods, my focus is on ensuring every resident has an opportunity to succeed.",
+          "sources": [
+            {
+              "title": "Jacqueline Coffie-Leeks - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Jacqueline_Coffie-Leeks",
+              "date": "2026-09"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -166,7 +172,58 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Florida Education Association",
+          "sources": [
+            {
+              "title": "Jacqueline Coffie-Leeks - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Jacqueline_Coffie-Leeks",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Florida AFL-CIO",
+          "sources": [
+            {
+              "title": "Jacqueline Coffie-Leeks - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Jacqueline_Coffie-Leeks",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Florida Chamber of Commerce",
+          "sources": [
+            {
+              "title": "Jacqueline Coffie-Leeks - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Jacqueline_Coffie-Leeks",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Florida Realtors",
+          "sources": [
+            {
+              "title": "Jacqueline Coffie-Leeks - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Jacqueline_Coffie-Leeks",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Florida Sentinel Bulletin",
+          "sources": [
+            {
+              "title": "Jacqueline Coffie-Leeks - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Jacqueline_Coffie-Leeks",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Who won Florida House, Senate primary races in Tampa Bay? (Tampa Bay Times)",

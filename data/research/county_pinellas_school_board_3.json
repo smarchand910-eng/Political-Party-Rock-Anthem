@@ -42,18 +42,13 @@
         "teacher_pay": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Campogni frames teacher retention around hearing, empowering and paying teachers, and criticizes listening to teachers without acting on what they say. He has not proposed a specific pay figure or named spending he would cut.",
-          "quote": "It's one thing just to listen to them and nod your head...It's another thing then to act.",
+          "summary": "Campogni's website lists teacher support and teacher retention among his priorities and says he supports listening to teachers and paying them competitively. He does not say pay should come ahead of other district spending.",
+          "quote": "Teacher Support I support listening to teachers and paying them competitively.",
           "sources": [
             {
-              "title": "Meet the candidates: Pinellas County School Board",
-              "url": "https://www.wusf.org/text/local-state/2026-07-27/meet-the-candidates-pinellas-county-school-board",
-              "date": "2026-07-27"
-            },
-            {
-              "title": "Curtis Campogni for Pinellas County School Board District 3 - campaign site",
-              "url": "https://www.curtis4allpcs.com/",
-              "date": "2026-09"
+              "title": "Curtis Campogni campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Curtis_Campogni",
+              "date": "2026-07-17"
             }
           ]
         },
@@ -67,6 +62,32 @@
               "title": "Keep Florida Reading 2026 school board candidate questionnaire (candidate's own written answers)",
               "url": "https://www.keepfloridareading.org/uploads/6/1/4/2/61420659/curtis_campogni.pdf",
               "date": "2026-07-13"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Campogni's campaign website, quoted on Ballotpedia, lists \"Vouchers\" among his core priorities and says he supports keeping tax dollars in public schools.",
+          "quote": "Vouchers I support keeping tax dollars in public schools.",
+          "sources": [
+            {
+              "title": "Curtis Campogni campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Curtis_Campogni",
+              "date": "2026-07-17"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Campogni's website says he supports making safety a top priority both physically and emotionally, more counselors and support systems for students, and weapon detection as one part of a broader safety strategy. He also lists accountability and intervention on student behavior.",
+          "quote": "Mental Health I support more counselors and support systems for students.",
+          "sources": [
+            {
+              "title": "Curtis Campogni campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Curtis_Campogni",
+              "date": "2026-07-17"
             }
           ]
         }
