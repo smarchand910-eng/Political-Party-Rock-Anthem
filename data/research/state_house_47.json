@@ -185,7 +185,7 @@
       "photo_url": "assets/photos/anthony_nieves.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://nievesforflorida.com/",
-      "occupation": null,
+      "occupation": "Community activist and full-time caregiver",
       "residence": null,
       "background": "Democratic candidate in the HD 47 universal primary on Aug. 18, 2026 (result unverified).",
       "primary_result": null,
@@ -226,25 +226,53 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Nieves said in his 2024 survey that he was the only candidate in the House District 47 race to sign the petition to place Amendment 4 - the 2024 Florida ballot measure that would have barred laws restricting abortion before viability - on the ballot, adding that 'our rights are at risk.'",
+          "quote": "I am the only candidate for House District 47 to have signed the petition to get Amendment 4 on the ballot.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Anthony Nieves (2024 campaign)",
+              "url": "https://ballotpedia.org/Anthony_Nieves",
+              "date": "2024"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In his 2022 Ballotpedia survey Nieves listed strengthening gun restrictions first among the policy areas he is personally passionate about. His 2024 survey lists a Moms Demand Action Gun Sense Candidate distinction among his endorsements.",
+          "quote": "Gun restriction enhancements to further protect our community.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Anthony Nieves (2022 campaign)",
+              "url": "https://ballotpedia.org/Anthony_Nieves",
+              "date": "2022"
+            },
+            {
+              "title": "Ballotpedia Candidate Connection survey - Anthony Nieves (2024 campaign)",
+              "url": "https://ballotpedia.org/Anthony_Nieves",
+              "date": "2024"
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In his 2024 Ballotpedia Candidate Connection survey Nieves said he believes in universal health care and wants a district where people can afford to see a doctor regardless of background. He said the same in his 2022 survey, listing universal health care for all among his three key messages.",
+          "quote": "I believe in universal healthcare, a Green New Deal, and reinvesting in our communities.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Anthony Nieves (2024 campaign)",
+              "url": "https://ballotpedia.org/Anthony_Nieves",
+              "date": "2024"
+            },
+            {
+              "title": "Ballotpedia Candidate Connection survey - Anthony Nieves (2022 campaign)",
+              "url": "https://ballotpedia.org/Anthony_Nieves",
+              "date": "2022"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -261,11 +289,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Nieves said in his 2024 survey that climate change will be Florida's greatest challenge over the next decade and that he supports a statewide Green New Deal and climate resiliency efforts, along with protecting air and water.",
+          "quote": "I support establishing a state-wide Green New Deal to combat the effects of climate change, expand renewable energy, and create environmentally essential jobs",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Anthony Nieves (2024 campaign)",
+              "url": "https://ballotpedia.org/Anthony_Nieves",
+              "date": "2024"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -275,25 +309,48 @@
           "sources": []
         },
         "marijuana": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Nieves said in his 2022 Ballotpedia survey that he supports decriminalizing cannabis-related offenses as part of criminal justice reform. He did not address legal sales for adult recreational use.",
+          "quote": "the decriminalization of cannabis related offenses",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Anthony Nieves (2022 campaign)",
+              "url": "https://ballotpedia.org/Anthony_Nieves",
+              "date": "2022"
+            }
+          ]
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Nieves said in his 2024 survey that the freedom to vote is under attack and objected to purging voters from the rolls, saying the goal should be that every Floridian can safely and freely cast a ballot. In his 2022 survey he listed voting rights restoration among the reforms he supports.",
+          "quote": "When every Floridian can safely and freely cast their ballot, we can ensure everyone can afford healthcare, every child has a quality education, and all families have a safe place to call home.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Anthony Nieves (2024 campaign)",
+              "url": "https://ballotpedia.org/Anthony_Nieves",
+              "date": "2024"
+            },
+            {
+              "title": "Ballotpedia Candidate Connection survey - Anthony Nieves (2022 campaign)",
+              "url": "https://ballotpedia.org/Anthony_Nieves",
+              "date": "2022"
+            }
+          ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In his 2022 Ballotpedia survey Nieves said he strongly supports aggressive criminal justice reform, including decriminalizing cannabis-related offenses and restoring voting rights for people with felony convictions.",
+          "quote": "I strongly support aggressive criminal justice reform that includes the decriminalization of cannabis related offenses, and voting rights restoration.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Anthony Nieves (2022 campaign)",
+              "url": "https://ballotpedia.org/Anthony_Nieves",
+              "date": "2022"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -303,11 +360,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Nieves said he supports a statewide Green New Deal to expand renewable energy, and said saving the environment requires electing representatives who are not funded by the fossil fuel industry. He also named 'Big Energy' among the interests he says influence the Legislature.",
+          "quote": "Saving our environment and focusing on climate resiliency efforts requires electing representatives not bought by the fossil fuel industry.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Anthony Nieves (2024 campaign)",
+              "url": "https://ballotpedia.org/Anthony_Nieves",
+              "date": "2024"
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -324,7 +387,41 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Transit",
+          "summary": "Nieves said in his 2024 survey that he wants services such as SunRail expanded to accommodate the growth in the Orlando-Osceola area.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Anthony Nieves (2024 campaign)",
+              "url": "https://ballotpedia.org/Anthony_Nieves",
+              "date": "2024"
+            }
+          ]
+        },
+        {
+          "title": "Disability and autism services",
+          "summary": "Nieves, who says he is a full-time caregiver for a son with non-verbal autism, said in his 2022 survey that he is most passionate about creating legislation to expand autism spectrum disorder social services and protect the rights of people with disabilities.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Anthony Nieves (2022 campaign)",
+              "url": "https://ballotpedia.org/Anthony_Nieves",
+              "date": "2022"
+            }
+          ]
+        },
+        {
+          "title": "Wages and unions",
+          "summary": "Nieves said in his 2022 survey that he supports raising the minimum wage to a living standard and creating more union jobs.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Anthony Nieves (2022 campaign)",
+              "url": "https://ballotpedia.org/Anthony_Nieves",
+              "date": "2022"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [
