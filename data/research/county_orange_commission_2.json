@@ -9,7 +9,7 @@
     "id": "Orange"
   },
   "what_it_does": "County commissioners set the county budget and property-tax (millage) rate, adopt land-use and zoning rules, and oversee county services such as roads, parks, libraries, fire/EMS and utilities. Orange County commission seats are nonpartisan; the commission expanded to eight districts for 2026.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Runoff per Florida Politics (https://floridapolitics.com/archives/814394-crowded-orange-county-commission-races-get-whittled-down-to-runoffs/) and ClickOrlando (https://www.clickorlando.com/news/local/2026/09/04/orange-county-dist-2-candidates-talk-water-traffic-and-property-taxes-ahead-of-2026-runoff/).",
   "candidates": [
     {
@@ -33,11 +33,17 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Ahead of the runoff, Brown criticized the state homestead-exemption amendment as packaged, calling it a tax shift onto local governments rather than relief, and said lawmakers should take more time on property-tax relief.",
+          "quote": "How this bill was packaged is not the way to go. It is not a property tax relief, it is a tax shift.",
+          "sources": [
+            {
+              "title": "Orange County Dist. 2 candidates talk water, traffic and property taxes ahead of 2026 runoff (WKMG/ClickOrlando)",
+              "url": "https://www.clickorlando.com/news/local/2026/09/04/orange-county-dist-2-candidates-talk-water-traffic-and-property-taxes-ahead-of-2026-runoff/",
+              "date": "2026-09-04"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -96,11 +102,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Brown called water quality a public-health priority for the district.",
+          "quote": "Water quality is important, it is a public health priority.",
+          "sources": [
+            {
+              "title": "Orange County Dist. 2 candidates talk water, traffic and property taxes ahead of 2026 runoff (WKMG/ClickOrlando)",
+              "url": "https://www.clickorlando.com/news/local/2026/09/04/orange-county-dist-2-candidates-talk-water-traffic-and-property-taxes-ahead-of-2026-runoff/",
+              "date": "2026-09-04"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -173,9 +185,32 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Transit and housing",
+          "summary": "Brown said workforce housing should be located near public transportation and that the county should better publicize existing transit programs for seniors.",
+          "sources": [
+            {
+              "title": "Orange County Dist. 2 candidates talk water, traffic and property taxes ahead of 2026 runoff (WKMG/ClickOrlando)",
+              "url": "https://www.clickorlando.com/news/local/2026/09/04/orange-county-dist-2-candidates-talk-water-traffic-and-property-taxes-ahead-of-2026-runoff/",
+              "date": "2026-09-04"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Central Florida AFL-CIO",
+          "sources": [
+            {
+              "title": "Central Florida AFL-CIO backs Kamia Brown in Orange County Commission District 2 race (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/817894-central-florida-afl-cio-backs-kamia-brown-in-orange-county-commission-district-2-race/",
+              "date": "2026-09-01"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Crowded Orange County Commission races get whittled down to runoffs",
@@ -214,11 +249,17 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Crabb said he is concerned about the revenue the county could lose under the homestead-exemption amendment but that it is premature to decide on specific cuts; he called the potential deficits 'huge numbers.'",
+          "quote": "These are huge numbers",
+          "sources": [
+            {
+              "title": "Orange County Dist. 2 candidates talk water, traffic and property taxes ahead of 2026 runoff (WKMG/ClickOrlando)",
+              "url": "https://www.clickorlando.com/news/local/2026/09/04/orange-county-dist-2-candidates-talk-water-traffic-and-property-taxes-ahead-of-2026-runoff/",
+              "date": "2026-09-04"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -354,7 +395,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Water, traffic and public safety",
+          "summary": "Crabb pointed to septic-to-sewer work in the Wekiva River basin, said traffic requires faster deployment of traffic technology, and said protecting public safety is a priority while noting how the sheriff and fire departments are funded.",
+          "sources": [
+            {
+              "title": "Orange County Dist. 2 candidates talk water, traffic and property taxes ahead of 2026 runoff (WKMG/ClickOrlando)",
+              "url": "https://www.clickorlando.com/news/local/2026/09/04/orange-county-dist-2-candidates-talk-water-traffic-and-property-taxes-ahead-of-2026-runoff/",
+              "date": "2026-09-04"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [

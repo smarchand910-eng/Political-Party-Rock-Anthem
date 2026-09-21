@@ -561,10 +561,32 @@
               "date": "2026-08-31"
             }
           ]
+        },
+        {
+          "title": "Affordability",
+          "summary": "In his qualifying announcement Dean said his campaign is focused on the state's affordability crisis and on lowering the cost of groceries, gas, housing, health care and insurance for Seminole County families and seniors; he said he would 'hit the ground running, meet voters where they are, and hear their concerns about the real issues.'",
+          "sources": [
+            {
+              "title": "Democrat Nik Dean Officially Qualifies for House District 38 Race (The Floridian)",
+              "url": "https://floridianpress.com/2026/09/democrat-nik-dean-officially-qualifies-for-house-district-38-race/",
+              "date": "2026-09-03"
+            }
+          ]
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Michelle DeJesus (former Democratic nominee for HD 38, who withdrew)",
+          "sources": [
+            {
+              "title": "Democrat Nik Dean Officially Qualifies for House District 38 Race (The Floridian)",
+              "url": "https://floridianpress.com/2026/09/democrat-nik-dean-officially-qualifies-for-house-district-38-race/",
+              "date": "2026-09-03"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

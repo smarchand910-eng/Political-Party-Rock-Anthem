@@ -104,7 +104,7 @@
           "sources": [
             {
               "title": "ICYMI: Governor Ron DeSantis Announces Major Insurance Rate Relief as Florida's Reforms Deliver Results (myfloridacfo.com)",
-              "url": "https://myfloridacfo.com/news/pressreleases/press-release-details/2026/01/12/icymi--governor-ron-desantis-announces-major-insurance-rate-relief-as-florida's-reforms-deliver-results",
+              "url": "https://myfloridacfo.com/news/pressreleases/press-release-details/2026/01/12/icymi--governor-ron-desantis-announces-major-insurance-rate-relief-as-florida%27s-reforms-deliver-results's-reforms-deliver-results",
               "date": "2026-01-12"
             },
             {
@@ -621,6 +621,31 @@
               "date": "2026-08"
             }
           ]
+        },
+        {
+          "item": "Launched 'Claim Your Cash Florida' (Sept. 15, 2026), rebranding the state's unclaimed-property site (FloridaTreasureHunt.gov to ClaimYourCashFL.gov) as a public-awareness push; the division holds about $3 billion in unclaimed property.",
+          "sources": [
+            {
+              "title": "Florida's unclaimed property website gets a new name - ClickOrlando",
+              "url": "https://www.clickorlando.com/news/local/2026/09/15/floridas-unclaimed-property-website-gets-a-new-name-see-if-the-state-is-holding-something-for-you/",
+              "date": "2026-09-15"
+            },
+            {
+              "title": "Press Releases - Florida CFO",
+              "url": "https://myfloridacfo.com/news/pressreleases",
+              "date": "2026-09-15"
+            }
+          ]
+        },
+        {
+          "item": "Continued a statewide hurricane-preparedness tour as State Fire Marshal (ninth stop, Duval County, Sept. 2, 2026).",
+          "sources": [
+            {
+              "title": "Press Releases - Florida CFO",
+              "url": "https://myfloridacfo.com/news/pressreleases",
+              "date": "2026-09-02"
+            }
+          ]
         }
       ],
       "endorsements": [
@@ -691,6 +716,16 @@
               "title": "Florida Chief Financial Officer Candidates 2026 - Sparker's Soapbox (candidate compilation with links)",
               "url": "https://www.sparkers-soapbox.com/florida-chief-financial-officer-candidates-2026/",
               "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "by": "Gov. Ron DeSantis (GOP slate endorsement, Sept. 2)",
+          "sources": [
+            {
+              "title": "DeSantis endorses Donalds for Florida governor despite past tensions - WLRN",
+              "url": "https://www.wlrn.org/government-politics/2026-09-03/desantis-endorses-donalds-florida-governor-despite-past-tensions",
+              "date": "2026-09-03"
             }
           ]
         }
@@ -1216,6 +1251,26 @@
               "title": "Democrats Annette Taddeo and Earle Ford compete to face CFO Blaise Ingoglia in November - WLRN / Florida Phoenix",
               "url": "https://www.wlrn.org/2026-07-24/democrats-annette-taddeo-and-earle-ford-compete-to-face-cfo-blaise-ingoglia-in-november",
               "date": "2026-07-24"
+            }
+          ]
+        },
+        {
+          "by": "Florida Veterans for Common Sense (Sarasota-based veterans group; president Gene Jones)",
+          "sources": [
+            {
+              "title": "POLL: Annette Taddeo Deadlocked with Blaise Ingoglia in CFO Race - The Floridian",
+              "url": "https://floridianpress.com/2026/09/poll-annette-taddeo-deadlocked-with-blaise-ingoglia-in-cfo-race/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Florida AFL-CIO; Teamsters; AFSCME; Communications Workers of America",
+          "sources": [
+            {
+              "title": "2 Democrats take statewide campaigns to South Florida's unions, churches - Political Cortadito",
+              "url": "https://politicalcortadito.com/2026/09/15/annette-taddeo-jose-javier-rodriguez-unions-churches/",
+              "date": "2026-09-15"
             }
           ]
         }

@@ -9,7 +9,7 @@
     "id": "Orange"
   },
   "what_it_does": "The county mayor is the county's chief executive: proposes the budget, oversees county departments and staff, and presides over the Board of County Commissioners.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Runoff lineup and Aug. 18 results from WFTV, Central Florida Public Media (https://www.cfpublic.org/politics/2026-08-18/moore-russell-messina-orange-county-mayor-november-runoff) and Spectrum News 13. Nonpartisan.",
   "candidates": [
     {
@@ -33,11 +33,22 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "At the Sept. 9 League of Women Voters of Orange County forum, Moore Russell said she will vote against Amendment 3, the proposed increase in the homestead exemption that would cut local property-tax revenue.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Tiffany Moore Russell and Chris Messina present alternative visions for Orange County (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/819177-tiffany-moore-russell-and-chris-messina-present-alternative-visions-for-orange-county/",
+              "date": "2026-09-09"
+            },
+            {
+              "title": "League of Women Voters of Orange County event calendar, September 2026",
+              "url": "https://www.lwvoc.org/content.aspx?page_id=4001&club_id=907481",
+              "date": "2026-09"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -96,18 +107,35 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She said she supports the county purchasing rural land to protect its rural boundary.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Tiffany Moore Russell and Chris Messina present alternative visions for Orange County (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/819177-tiffany-moore-russell-and-chris-messina-present-alternative-visions-for-orange-county/",
+              "date": "2026-09-09"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "At the forum she supported a moratorium on large-scale data-center development and said the county should keep lobbying with the Florida Association of Counties to amend SB 180 and protect local home rule.",
+          "quote": "the Legislature has been chipping away at home rule",
+          "sources": [
+            {
+              "title": "Tiffany Moore Russell and Chris Messina present alternative visions for Orange County (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/819177-tiffany-moore-russell-and-chris-messina-present-alternative-visions-for-orange-county/",
+              "date": "2026-09-09"
+            },
+            {
+              "title": "League of Women Voters of Orange County event calendar, September 2026",
+              "url": "https://www.lwvoc.org/content.aspx?page_id=4001&club_id=907481",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -173,7 +201,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Convention center / hotel tax",
+          "summary": "Both runoff candidates expressed hesitancy about expanding the Orange County Convention Center and about using additional hotel-tax money for it; Moore Russell also proposed renovating older apartment complexes in Holden Heights and Pine Hills.",
+          "sources": [
+            {
+              "title": "Tiffany Moore Russell and Chris Messina present alternative visions for Orange County (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/819177-tiffany-moore-russell-and-chris-messina-present-alternative-visions-for-orange-county/",
+              "date": "2026-09-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [
@@ -214,11 +254,22 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "At the Sept. 9 League of Women Voters of Orange County forum, Messina said he supports Amendment 3, the proposed homestead-exemption increase that would cut local property taxes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Tiffany Moore Russell and Chris Messina present alternative visions for Orange County (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/819177-tiffany-moore-russell-and-chris-messina-present-alternative-visions-for-orange-county/",
+              "date": "2026-09-09"
+            },
+            {
+              "title": "League of Women Voters of Orange County event calendar, September 2026",
+              "url": "https://www.lwvoc.org/content.aspx?page_id=4001&club_id=907481",
+              "date": "2026-09"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -277,18 +328,35 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He proposed establishing wildlife corridors to protect animal crossings.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Tiffany Moore Russell and Chris Messina present alternative visions for Orange County (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/819177-tiffany-moore-russell-and-chris-messina-present-alternative-visions-for-orange-county/",
+              "date": "2026-09-09"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Messina supported a moratorium on building data centers; on SB 180 he said he did not think it made sense for the county to fight the state in court.",
+          "quote": "I don't believe it makes sense for us to go into a battle",
+          "sources": [
+            {
+              "title": "Tiffany Moore Russell and Chris Messina present alternative visions for Orange County (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/819177-tiffany-moore-russell-and-chris-messina-present-alternative-visions-for-orange-county/",
+              "date": "2026-09-09"
+            },
+            {
+              "title": "League of Women Voters of Orange County event calendar, September 2026",
+              "url": "https://www.lwvoc.org/content.aspx?page_id=4001&club_id=907481",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -354,7 +422,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Housing / redevelopment",
+          "summary": "Messina said he would push to turn aging strip malls into 'vibrant centers for housing, retail and commercial'; both candidates expressed hesitancy about expanding the convention center.",
+          "sources": [
+            {
+              "title": "Tiffany Moore Russell and Chris Messina present alternative visions for Orange County (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/819177-tiffany-moore-russell-and-chris-messina-present-alternative-visions-for-orange-county/",
+              "date": "2026-09-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [

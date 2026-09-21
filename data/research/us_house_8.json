@@ -520,6 +520,41 @@
               "url": "https://clerk.house.gov/evs/2025/roll162.xml"
             }
           ]
+        },
+        {
+          "item": "Voted Nay on H.Con.Res. 93, a War Powers Resolution directing the President to remove U.S. armed forces from hostilities with Iran (Roll Call 307, Sept. 15, 2026; agreed to 220-204).",
+          "sources": [
+            {
+              "title": "Roll Call 307 | H.Con.Res. 93 | House Clerk",
+              "url": "https://clerk.house.gov/Votes/2026307",
+              "date": "2026-09-15"
+            }
+          ]
+        },
+        {
+          "item": "Voted Yea on the motion to table H.Res. 1486, a resolution impeaching President Trump (Roll Call 298, Sept. 15, 2026; tabled 232-147 with 47 voting present). A Yea vote set the resolution aside; a Nay vote would have kept it before the House.",
+          "sources": [
+            {
+              "title": "Roll Call 298 | H.Res. 1486 | House Clerk",
+              "url": "https://clerk.house.gov/Votes/2026298",
+              "date": "2026-09-15"
+            }
+          ]
+        },
+        {
+          "item": "Voted Yea on H.J.Res. 210 and Yea on H.J.Res. 213, Congressional Review Act resolutions disapproving EPA authorizations of California's at-berth ocean-going vessel and commercial harbor craft diesel-emission rules (Roll Calls 306 and 311, Sept. 15-16, 2026; passed 216-211 and 214-208).",
+          "sources": [
+            {
+              "title": "Roll Call 306 | H.J.Res. 210 | House Clerk",
+              "url": "https://clerk.house.gov/Votes/2026306",
+              "date": "2026-09-15"
+            },
+            {
+              "title": "Roll Call 311 | H.J.Res. 213 | House Clerk",
+              "url": "https://clerk.house.gov/Votes/2026311",
+              "date": "2026-09-16"
+            }
+          ]
         }
       ],
       "endorsements": [

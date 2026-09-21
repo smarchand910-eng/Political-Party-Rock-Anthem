@@ -13,8 +13,8 @@
     "Hillsborough"
   ],
   "what_it_does": "Represents District 62 in the Florida House of Representatives; votes on state laws and the state budget.",
-  "on_november_ballot": true,
-  "decided_note": "Open seat. Kyandra Darling won the Aug. 18, 2026 Democratic primary over Wengay Newton. The Tampa Bay Times labeled it a Democratic primary (not universal), which implies a November opponent; that opponent's name was not found.",
+  "on_november_ballot": false,
+  "decided_note": "Kyandra Darling is listed as Unopposed by the Florida Division of Elections after winning the Aug. 18, 2026 Democratic primary, so the seat is filled without a November vote. Sources: Florida Division of Elections candidate list (https://dos.elections.myflorida.com/candidates/CanList.asp), checked Sept. 21, 2026.",
   "coverage": "partial",
   "verified_ballot_note": "Tampa Bay Times (Aug. 18, 2026): 'HD 62 (South St. Petersburg) Democratic Primary: This open seat was won by Kyandra Darling against Wengay Newton' (https://www.tampabay.com/news/florida-politics/elections/2026/08/18/florida-legislature-house-senate-legislative-results-primary-2026/). Florida Politics (June 2026) describes the district as covering part of Pinellas (St. Petersburg) and part of Hillsborough (Tampa, Gibsonton). Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
   "candidates": [

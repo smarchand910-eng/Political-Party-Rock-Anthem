@@ -450,11 +450,17 @@
           ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Kirschner's campaign lists protecting Social Security and Medicare among his core messages, alongside reducing the influence of big money in politics and addressing the cost of living.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Poll: Kirschner & Gruters in Dead Heat in FL-16 (Kirschner campaign)",
+              "url": "https://kellykirschner.com/press/new-poll-kirschner-and-gruters-dead-heat-fl-16/",
+              "date": "2026-09"
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
@@ -677,6 +683,16 @@
               "date": null
             }
           ]
+        },
+        {
+          "by": "Former U.S. Rep. Dan Miller, Manatee County Commissioner George Kruse and former Manatee High football coach Joe Kinnan (Republicans)",
+          "sources": [
+            {
+              "title": "'Republicans for Kirschner' break with Gruters, Trump to endorse Democratic House candidate (Bradenton Journal)",
+              "url": "https://thebradentonjournal.substack.com/p/republicans-for-kirschner-break-with",
+              "date": "2026-09-11"
+            }
+          ]
         }
       ]
     },
@@ -876,6 +892,25 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Mark_Davis_%28Florida%29"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-09-23",
+      "host": "League of Women Voters of Manatee County and League of Women Voters of the St. Petersburg Area (virtual forum on Zoom, noon-1 p.m.; moderator Trevor Pettiford)",
+      "who": "Mark Davis (NPA), Sydney Gruters (R), Kelly Kirschner (D)",
+      "sources": [
+        {
+          "title": "District 16 candidates Davis, Gruters and Kirschner to attend virtual forum (Your Observer)",
+          "url": "https://www.yourobserver.com/news/2026/sep/20/candidates-davis-gruters-kirschner-virtual-forum/",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "On Sept 23, U.S. House District 16 candidates to participate in virtual forum (NewsBreak)",
+          "url": "https://www.newsbreak.com/news/4892835029720-on-sept-23-u-s-house-district-16-candidates-to-participate-in-virtual-forum-hosted-by-leagues-of-women-voters-of-manatee-county-and-st-petersburg-area",
+          "date": "2026-09"
         }
       ]
     }

@@ -42,56 +42,41 @@
     "property_tax": {
      "stance": 2,
      "confidence": "stated",
-     "summary": "Donalds says that whether or not the November 2026 property-tax amendment (Amendment 3) passes, he will push to eliminate homestead property taxes through the Tax and Budget Reform Commission; at a Tampa stop he said he would move to eliminate all property taxes. He has since said that if broad relief is not fiscally possible, relief would be targeted to seniors on fixed incomes and working families.",
-     "quote": "Whether Amendment 3 passes or fails, we are going to reform property taxes in our state with the goal of eliminating homestead property taxes once and for all.",
+     "summary": "Donalds says that whether or not Amendment 3 passes he will use the 2027 Tax and Budget Reform Commission to pursue repeal of homestead property taxes, falling back to targeted relief for seniors and working families if 'the math doesn't work.' He told a rally in The Villages he is voting yes on Amendment 3.",
+     "quote": "Whether the amendment passes or not, we're going to be using that commission in order to do a full top to bottom review of all taxes and fees, still setting a goal for repealing homestead property taxes",
      "sources": [
       {
-       "title": "Byron Donalds doubles down on cutting - or even eliminating - property taxes if elected (WLRN)",
+       "title": "Byron Donalds doubles down on cutting - or even eliminating - property taxes if elected - WLRN",
        "url": "https://www.wlrn.org/government-politics/2026-09-01/byron-donalds-doubles-down-on-cutting-or-even-eliminating-property-taxes-if-elected",
        "date": "2026-09-01"
       },
       {
-       "title": "Byron Donalds vows to revive property tax cuts as Governor if November amendment fails (Florida Politics)",
-       "url": "https://floridapolitics.com/archives/801896-if-homestead-exemption-hike-fails-with-voters-byron-donalds-vows-to-bring-it-back/",
-       "date": "2026"
+       "title": "Florida governor candidates differ on AI, data centers and property taxes - FOX 35",
+       "url": "https://www.fox35orlando.com/news/florida-governor-candidates-differ-ai-data-centers-property-taxes",
+       "date": "2026-09-17"
       },
       {
-       "title": "'Math' problem: Byron Donalds narrows scope of prospective property tax break if Amendment 3 fails (Florida Politics)",
-       "url": "https://floridapolitics.com/archives/814724-donalds-math-amendment-3/",
-       "date": "2026"
-      },
-      {
-       "title": "Byron Donalds gets specific on education, property taxes in Tampa campaign stop (Tampa Bay Times via AOL)",
-       "url": "https://www.aol.com/articles/byron-donalds-gets-specific-education-210535996.html",
-       "date": "2026"
+       "title": "Donalds takes role as biggest backer of Florida's property tax measure (Politico via Yahoo)",
+       "url": "https://www.yahoo.com/news/politics/articles/donalds-takes-role-biggest-backer-160000604.html",
+       "date": "2026-08-06"
       }
      ]
     },
     "insurance": {
      "stance": -2,
      "confidence": "stated",
-     "summary": "Donalds' six-point 'Bring Down The Bill' plan relies on market-based measures: keep the 2022-23 litigation (tort) reforms, lower reinsurance costs, an 'Insurer Scorecard' comparison tool, mitigation grants like My Safe Florida Home, and keeping Citizens Property Insurance's policy count low. He says regulatory changes could lower rates up to 20% 'with the risk staying off the state's books,' and he criticizes Jolly's state catastrophe-fund idea as shifting risk to taxpayers.",
-     "quote": null,
+     "summary": "Donalds' six-point 'Bring Down The Bill' plan (Sept. 15) would preserve the 2022-23 lawsuit reforms, add binding arbitration, restructure the Hurricane Catastrophe Fund, create a public insurer scorecard, cut rebuilding costs via permitting reform, and keep Citizens Property Insurance small without post-storm assessments. He calls Jolly's state catastrophe-fund plan 'a big government takeover.'",
+     "quote": "My Bring Down The Bill Plan will slash insurance costs for Floridians and make life more affordable",
      "sources": [
       {
-       "title": "Jolly and Donalds clash on property insurance proposals (Florida Phoenix)",
-       "url": "https://floridaphoenix.com/2026/09/16/jolly-and-donalds-clash-on-property-insurance-proposals/",
-       "date": "2026-09-16"
-      },
-      {
-       "title": "Donalds unveils 'Bring Down The Bill' insurance plan (Florida's Voice)",
+       "title": "Donalds unveils 'Bring Down The Bill' insurance plan - Florida's Voice",
        "url": "https://flvoicenews.com/donalds-unveils-bring-down-the-bill-insurance-plan-says-jollys-proposal-would-hit-families-with-1000-hurricane-tax/",
-       "date": "2026-09"
+       "date": "2026-09-15"
       },
       {
-       "title": "Byron Donalds claims David Jolly's insurance plan 'shifts the risk' to taxpayers (Florida Politics)",
-       "url": "https://floridapolitics.com/archives/820055-donalds-jolly-insurance/",
-       "date": "2026-09"
-      },
-      {
-       "title": "Fact Check: Where candidates Donalds and Jolly stand on property insurance (InsuranceNewsNet)",
-       "url": "https://insurancenewsnet.com/oarticle/fact-check-where-candidates-donalds-and-jolly-stand-on-property-insurance",
-       "date": "2026-09"
+       "title": "Jolly and Donalds clash on property insurance proposals - WUSF",
+       "url": "https://www.wusf.org/politics-issues/2026-09-17/jolly-and-donalds-clash-on-property-insurance-proposals",
+       "date": "2026-09-17"
       }
      ]
     },
@@ -581,6 +566,49 @@
        "date": "2026-06-23"
       }
      ]
+    },
+    {
+     "title": "Data centers",
+     "summary": "Donalds now says local governments should decide whether data centers are built ('If local governments don't want them, they won't build them'), supports the state's SB 484 rules requiring data centers to pay for their own water and energy, and says Florida will not allow them next to residential neighborhoods as in Northern Virginia. He introduced a 'Protecting the Ratepayers Act' in Congress. He calls Jolly's moratorium 'politics.'",
+     "sources": [
+      {
+       "title": "Debate about data centers emerges in Donalds-Jolly gubernatorial race - WUSF",
+       "url": "https://www.wusf.org/politics-issues/2026-09-16/debate-about-data-centers-emerges-in-donalds-jolly-gubernatorial-race",
+       "date": "2026-09-16"
+      },
+      {
+       "title": "David Jolly: A complete ban on data centers in Florida should be 'on the table' - Orlando Weekly",
+       "url": "https://www.orlandoweekly.com/news/florida-news/david-jolly-a-complete-ban-on-data-centers-in-florida-should-be-on-the-table/",
+       "date": "2026-09-18"
+      },
+      {
+       "title": "David Jolly gains in governor's race as he focuses on data centers - FOX 13",
+       "url": "https://www.fox13news.com/news/david-jolly-gains-governors-race-momentum-how-focuses-data-centers",
+       "date": "2026-09-18"
+      }
+     ]
+    },
+    {
+     "title": "AI regulation",
+     "summary": "Donalds said Florida should set its own AI standards rather than wait for Washington: 'I think we should do it in Florida as opposed to waiting on Washington.'",
+     "sources": [
+      {
+       "title": "Florida governor candidates differ on AI, data centers and property taxes - FOX 35",
+       "url": "https://www.fox35orlando.com/news/florida-governor-candidates-differ-ai-data-centers-property-taxes",
+       "date": "2026-09-17"
+      }
+     ]
+    },
+    {
+     "title": "Hope Florida grand jury report",
+     "summary": "Donalds called the grand jury's findings 'very concerning' and said he would work with the Legislature on law changes so it does not happen again.",
+     "sources": [
+      {
+       "title": "Donalds and Jolly call for Hope Florida reforms after scathing grand jury report - WUSF",
+       "url": "https://www.wusf.org/politics-issues/2026-09-01/donalds-jolly-call-hope-florida-reforms-grand-jury-report",
+       "date": "2026-09-01"
+      }
+     ]
     }
    ],
    "record": [
@@ -649,7 +677,7 @@
      "sources": [
       {
        "title": "Byron Donalds to object certification of electoral votes (Fox 4 Now)",
-       "url": "https://web.archive.org/web/20251012111738/https://www.fox4now.com/news/local-news/byron-donalds-to-object-certification-of-electoral-votes",
+       "url": "https://web.archive.org/web/20251012111738/https://floridapolitics.com/archives/393069-a-dozen-florida-representatives-vote-against-joe-biden-win/",
        "date": "2021-01"
       },
       {
@@ -835,6 +863,26 @@
        "date": "2026"
       }
      ]
+    },
+    {
+     "by": "Gov. Ron DeSantis (endorsed the full GOP Cabinet slate at the Florida GOP Leadership Forum, Sept. 2)",
+     "sources": [
+      {
+       "title": "DeSantis endorses Donalds for Florida governor despite past tensions - WLRN",
+       "url": "https://www.wlrn.org/government-politics/2026-09-03/desantis-endorses-donalds-florida-governor-despite-past-tensions",
+       "date": "2026-09-03"
+      }
+     ]
+    },
+    {
+     "by": "Startup Club (entrepreneur network; founder Colin C. Campbell)",
+     "sources": [
+      {
+       "title": "Startup Club Endorses Byron Donalds for Governor of Florida - GlobeNewswire",
+       "url": "https://www.globenewswire.com/news-release/2026/09/15/3362120/0/en/startup-club-endorses-byron-donalds-for-governor-of-florida.html",
+       "date": "2026-09-15"
+      }
+     ]
     }
    ]
   },
@@ -878,51 +926,31 @@
     "property_tax": {
      "stance": -1,
      "confidence": "stated",
-     "summary": "Jolly opposes eliminating homestead property taxes without replacement revenue and says the 2026 Amendment 3 push puts 'a very popular amendment to repeal property taxes without an answer for the needed revenue' before voters, which he says would create 'a great crisis in the state.' He instead proposes 'generational property tax reform' centered on a new homestead exemption for first-time homebuyers to offset Save Our Homes caps.",
-     "quote": "Republicans put in front of voters a very popular amendment to repeal property taxes without an answer for the needed revenue, and that then creates a great crisis in the state.",
+     "summary": "Jolly now says he opposes Amendment 3 because the revenue math does not work, while supporting targeted relief for seniors or by income and a statewide conversation about local control of exemptions.",
+     "quote": "I think we all want the math to work. But it just doesn't.",
      "sources": [
       {
-       "title": "Gubernatorial candidates offer different paths to Florida property tax cuts (WFLA / Tampa Bay Times)",
-       "url": "https://www.wfla.com/news/politics/gubernatorial-candidates-offer-different-paths-to-florida-property-tax-cuts/",
-       "date": "2026-09"
-      },
-      {
-       "title": "Byron Donalds to Face David Jolly in Florida Governor's Race: What They Say on Property Taxes (Yahoo News)",
-       "url": "https://www.yahoo.com/news/politics/articles/byron-donalds-face-david-jolly-155152696.html",
-       "date": "2026-08"
-      },
-      {
-       "title": "Gubernatorial candidate David Jolly speaks on housing, property taxes and immigration (WUSF Florida Roundup)",
-       "url": "https://www.wusf.org/the-florida-roundup/2025-06-09/florida-governor-candidate-david-jolly-on-housing-property-taxes-immigration",
-       "date": "2025-06-09"
-      },
-      {
-       "title": "In bid for governor, Renner and Jolly discuss property tax reform, more (WUSF Florida Roundup)",
-       "url": "https://wusf.org/text/the-florida-roundup/2025-11-10/bid-for-florida-governor-paul-renner-david-jolly-discuss-property-tax-reform-more",
-       "date": "2025-11-10"
+       "title": "Florida governor candidates differ on AI, data centers and property taxes - FOX 35",
+       "url": "https://www.fox35orlando.com/news/florida-governor-candidates-differ-ai-data-centers-property-taxes",
+       "date": "2026-09-17"
       }
      ]
     },
     "insurance": {
      "stance": 2,
      "confidence": "stated",
-     "summary": "Jolly proposes a state catastrophic insurance fund that would take hurricane/wind coverage out of the private market, which he says could reduce homeowners' insurance costs by 60% to 70%. He disputes the Donalds campaign's claim that the plan means a $1,000 'hurricane tax,' saying no detailed plan with such a charge has been published.",
-     "quote": "It's all lies... it does not include an additional $1,000 tax for homeowners. No governor is going to do that.",
+     "summary": "Jolly proposes a state-backed catastrophic fund that would take hurricane/wind coverage out of the private market and into a state fund of $30-40 billion, funded by taxes on insurers, documentary-stamp and tourist-development revenue; he says it could cut private premiums 60-70% and denies it would add a $1,000 homeowner tax.",
+     "quote": "It does not include an additional $1,000 tax for homeowners. No governor is going to do that.",
      "sources": [
       {
-       "title": "Jolly and Donalds clash on property insurance proposals (Florida Phoenix)",
-       "url": "https://floridaphoenix.com/2026/09/16/jolly-and-donalds-clash-on-property-insurance-proposals/",
-       "date": "2026-09-16"
+       "title": "Jolly and Donalds clash on property insurance proposals - WUSF",
+       "url": "https://www.wusf.org/politics-issues/2026-09-17/jolly-and-donalds-clash-on-property-insurance-proposals",
+       "date": "2026-09-17"
       },
       {
-       "title": "Byron Donalds claims David Jolly's insurance plan 'shifts the risk' to taxpayers (Florida Politics)",
-       "url": "https://floridapolitics.com/archives/820055-donalds-jolly-insurance/",
-       "date": "2026-09"
-      },
-      {
-       "title": "Fact Check: Where candidates Donalds and Jolly stand on property insurance (InsuranceNewsNet)",
-       "url": "https://insurancenewsnet.com/oarticle/fact-check-where-candidates-donalds-and-jolly-stand-on-property-insurance",
-       "date": "2026-09"
+       "title": "David Jolly gains in governor's race as he focuses on data centers - FOX 13",
+       "url": "https://www.fox13news.com/news/david-jolly-gains-governors-race-momentum-how-focuses-data-centers",
+       "date": "2026-09-18"
       }
      ]
     },
@@ -1406,6 +1434,49 @@
        "date": "2026-02"
       }
      ]
+    },
+    {
+     "title": "Data centers",
+     "summary": "Jolly has pledged a one-year statewide moratorium on data-center construction and, after touring Northern Virginia's 'Data Center Alley' on Sept. 16, said a complete ban should be 'on the table,' citing noise, air quality and property values: 'Let the other 49 states build them.'",
+     "sources": [
+      {
+       "title": "David Jolly: A complete ban on data centers in Florida should be 'on the table' - Orlando Weekly",
+       "url": "https://www.orlandoweekly.com/news/florida-news/david-jolly-a-complete-ban-on-data-centers-in-florida-should-be-on-the-table/",
+       "date": "2026-09-18"
+      },
+      {
+       "title": "Debate about data centers emerges in Donalds-Jolly gubernatorial race - WUSF",
+       "url": "https://www.wusf.org/politics-issues/2026-09-16/debate-about-data-centers-emerges-in-donalds-jolly-gubernatorial-race",
+       "date": "2026-09-16"
+      },
+      {
+       "title": "David Jolly gains in governor's race as he focuses on data centers - FOX 13",
+       "url": "https://www.fox13news.com/news/david-jolly-gains-governors-race-momentum-how-focuses-data-centers",
+       "date": "2026-09-18"
+      }
+     ]
+    },
+    {
+     "title": "AI regulation",
+     "summary": "Jolly said he hopes Washington sets a federal AI standard, and if not, 'Florida needs to have one.'",
+     "sources": [
+      {
+       "title": "Florida governor candidates differ on AI, data centers and property taxes - FOX 35",
+       "url": "https://www.fox35orlando.com/news/florida-governor-candidates-differ-ai-data-centers-property-taxes",
+       "date": "2026-09-17"
+      }
+     ]
+    },
+    {
+     "title": "Hope Florida grand jury report",
+     "summary": "Jolly said the Legislature should adopt the grand jury's reform recommendations 'right away' and that as governor he would reopen the Hope Florida investigation.",
+     "sources": [
+      {
+       "title": "Donalds and Jolly call for Hope Florida reforms after scathing grand jury report - WUSF",
+       "url": "https://www.wusf.org/politics-issues/2026-09-01/donalds-jolly-call-hope-florida-reforms-grand-jury-report",
+       "date": "2026-09-01"
+      }
+     ]
     }
    ],
    "record": [
@@ -1608,6 +1679,26 @@
        "title": "David Jolly introduces Republican supporters, including former 2026 candidate Bobby Williams (Florida Politics)",
        "url": "https://floridapolitics.com/archives/819928-david-jolly-introduces-republican-supporters-including-former-2026-candidate-bobby-williams/",
        "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "by": "IAM Union (International Association of Machinists and Aerospace Workers)",
+     "sources": [
+      {
+       "title": "IAM Union Endorses David Jolly and Gwen Graham for Florida Governor and Lieutenant Governor",
+       "url": "https://www.goiam.org/news/imail/iam-union-endorses-david-jolly-and-gwen-graham-for-florida-governor-and-lieutenant-governor/",
+       "date": "2026-09-09"
+      }
+     ]
+    },
+    {
+     "by": "U.S. House Minority Leader Hakeem Jeffries",
+     "sources": [
+      {
+       "title": "Hakeem Jeffries Endorses David Jolly For Governor - The Floridian",
+       "url": "https://floridianpress.com/2026/09/hakeem-jeffries-endorses-david-jolly-for-governor/",
+       "date": "2026-09-13"
       }
      ]
     }
@@ -2577,6 +2668,17 @@
        "date": "2026"
       }
      ]
+    },
+    {
+     "title": "Data centers",
+     "summary": "Burkett says data centers should not be approved without a referendum of voters in the affected county, noting they 'can go anywhere in the country.' He describes himself as taking 'the best ideas from all of the sources' and says he is 'in it to win it.'",
+     "sources": [
+      {
+       "title": "NPA Candidate For Governor Charles Burkett Says He's 'In It To Win It' - WJNO",
+       "url": "https://wjno.iheart.com/featured/election-spotlight/content/2026-09-18-npa-candidate-for-governor-charles-burkett-says-hes-in-it-to-win-it/",
+       "date": "2026-09-18"
+      }
+     ]
     }
    ],
    "record": [
@@ -3203,7 +3305,7 @@
       },
       {
        "title": "Florida voting rights advocate Desmond Meade submits name for governor bid (WESH via FRRC)",
-       "url": "https://floridarrc.com/feed-items/florida-voting-rights-advocate-desmond-meade-submits-name-for-governor-bid-wesh/",
+       "url": "https://www.wesh.com/article/florida-desmond-meade-governor-bid/71437201",
        "date": "2026-05"
       }
      ]
@@ -3600,6 +3702,17 @@
        "date": "2026"
       }
      ]
+    },
+    {
+     "title": "Running mate and education pledge",
+     "summary": "Russo's campaign site names attorney Rachel Rodriguez as his lieutenant governor candidate and pledges to raise Florida's average teacher salary to at least $75,000 and expand skilled-trades and apprenticeship pathways.",
+     "sources": [
+      {
+       "title": "Russo 2026 campaign site",
+       "url": "https://russo2026.com/",
+       "date": "2026-09"
+      }
+     ]
     }
    ],
    "record": [],
@@ -3608,6 +3721,71 @@
     {
      "title": "Ballotpedia profile",
      "url": "https://ballotpedia.org/Frank_J._Russo"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "date": "2026-09-29",
+   "host": "Spectrum News Florida and Florida A&M University (Tallahassee); one hour, televised and streamed",
+   "who": "Donalds accepted; Jolly declined all debates on Sept. 20. RPOF asked hosts to proceed with an empty podium; status unclear.",
+   "sources": [
+    {
+     "title": "Jolly declines debate with Donalds ahead of Florida governor's race - WCJB",
+     "url": "https://www.wcjb.com/2026/09/20/jolly-declines-debate-with-donalds-ahead-florida-governors-race/",
+     "date": "2026-09-20"
+    },
+    {
+     "title": "Jolly: Donalds campaign never approached my campaign about debates (Tallahassee Democrat via Yahoo)",
+     "url": "https://www.yahoo.com/news/politics/articles/jolly-donalds-campaign-never-approached-230226209.html",
+     "date": "2026-09-18"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "host": "News4Jax (WJXT), moderator Kent Justice; two podiums, no audience",
+   "who": "Donalds accepted; Jolly declined (Sept. 20).",
+   "sources": [
+    {
+     "title": "Donalds campaign accepts News4JAX proposal for gubernatorial debate",
+     "url": "https://www.news4jax.com/news/local/2026/09/18/donalds-campaign-accepts-news4jax-proposal-for-gubernatorial-debate-jolly-campaign-still-deciding/",
+     "date": "2026-09-18"
+    },
+    {
+     "title": "Jolly: Donalds campaign never approached my campaign about debates (Tallahassee Democrat via Yahoo)",
+     "url": "https://www.yahoo.com/news/politics/articles/jolly-donalds-campaign-never-approached-230226209.html",
+     "date": "2026-09-18"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "host": "Telemundo 51 and NBC 6 (South Florida)",
+   "who": "Donalds accepted; Jolly declined (Sept. 20).",
+   "sources": [
+    {
+     "title": "Jolly: Donalds campaign never approached my campaign about debates (Tallahassee Democrat via Yahoo)",
+     "url": "https://www.yahoo.com/news/politics/articles/jolly-donalds-campaign-never-approached-230226209.html",
+     "date": "2026-09-18"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "host": "Decision 2026: Before YOU Vote, Florida Atlantic University, Boca Raton (WPBF lead producer; Florida Trend, James Madison Institute, Florida Press Association, LeRoy Collins Institute); 7-8 p.m.",
+   "who": "Announced July 10 without candidate coordination. Jolly rejected the FAU audience format; Donalds' acceptance not confirmed.",
+   "sources": [
+    {
+     "title": "General Election Statewide TV Debates Announced in Florida's 2026 Races for U.S. Senator, Governor - James Madison Institute",
+     "url": "https://jamesmadison.org/general-election-statewide-tv-debates-announced-in-floridas-2026-races-for-u-s-senator-governor/",
+     "date": "2026-07-10"
+    },
+    {
+     "title": "Jolly: Donalds campaign never approached my campaign about debates (Tallahassee Democrat via Yahoo)",
+     "url": "https://www.yahoo.com/news/politics/articles/jolly-donalds-campaign-never-approached-230226209.html",
+     "date": "2026-09-18"
     }
    ]
   }

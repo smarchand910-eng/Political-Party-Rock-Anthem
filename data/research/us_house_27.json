@@ -75,38 +75,23 @@
         "immigration": {
           "stance": 0,
           "confidence": "stated",
-          "summary": "Salazar voted for the Laken Riley Act and describes her Dignity Act as 'enforcement first' with 'zero tolerance for criminals' and permanent border security, but the bill would also give long-term undocumented immigrants earned legal status ('No amnesty. No handouts. No citizenship.'). In a September 2026 ad she said the administration's immigration enforcement has 'gone too far,' and she has asked for deferred action for Cubans, Haitians, Nicaraguans and Venezuelans.",
-          "quote": "No amnesty. No handouts. No citizenship.",
+          "summary": "In a September 2026 TV ad addressed to President Trump, Salazar said some of his immigration enforcement efforts have gone too far and that Hispanic voters feel betrayed; she also objected to ending protections for Venezuelans and Haitians and promoted her bipartisan Dignity Act. On the ICE detention of an exiled Nicaraguan journalist she said the administration should enforce the law and deport dangerous individuals but not treat political exiles like criminals.",
+          "quote": "Mr. President, some of your immigration enforcement efforts have gone too far",
           "sources": [
             {
-              "title": "The Dignity Act (salazar.house.gov)",
-              "url": "https://salazar.house.gov/dignity-act",
-              "date": null
+              "title": "Trump-Backed Republican Congresswoman Says the President's Immigration Crackdown Has Gone 'Too Far' (TIME)",
+              "url": "https://time.com/article/2026/09/17/trump-immigration-florida-republican-maria-elvira-salazar-midterms/",
+              "date": "2026-09-17"
             },
             {
-              "title": "Maria Elvira Salazar: I Am Leading the Charge on Immigration Reform with the Dignity Act (campaign site)",
-              "url": "https://mariaelvirasalazar.com/dignity_act/",
-              "date": null
+              "title": "Maria Elvira Salazar tells Trump in TV ad he's gone 'too far' on immigration (Political Cortadito)",
+              "url": "https://politicalcortadito.com/2026/09/18/maria-elvira-salazar-trump-tv-ad-immigration/",
+              "date": "2026-09-18"
             },
             {
-              "title": "In campaign ad, GOP congresswoman says Trump's immigration enforcement has 'gone too far' (CBS News)",
-              "url": "https://www.cbsnews.com/news/maria-elvira-salazar-trump-immigration-ad-gone-too-far/",
-              "date": "2026-09"
-            },
-            {
-              "title": "Congresswoman Salazar Asks Administration for Deferred Action on Cubans, Haitians, Nicaraguans, and Venezuelans (salazar.house.gov)",
-              "url": "https://salazar.house.gov/media/press-releases/congresswoman-salazar-asks-administration-deferred-action-cubans-haitians-0",
-              "date": "2025"
-            },
-            {
-              "title": "House Roll Call 23 on S. 5, Laken Riley Act (263-156), Jan. 22, 2025 - Clerk of the House",
-              "url": "https://clerk.house.gov/Votes/202523",
-              "date": "2025-01-22"
-            },
-            {
-              "title": "S.5 - Laken Riley Act (119th Congress) - Congress.gov",
-              "url": "https://www.congress.gov/bill/119th-congress/senate-bill/5",
-              "date": "2025-01-29"
+              "title": "Exiled Nicaraguan journalist detained by ICE in Florida (WUSF)",
+              "url": "https://www.wusf.org/politics-issues/2026-09-19/exiled-nicaraguan-journalist-detained-by-ice-in-florida-he-could-be-deported-to-country-he-escaped",
+              "date": "2026-09-19"
             }
           ]
         },
@@ -315,23 +300,18 @@
         "trump": {
           "stance": 0,
           "confidence": "stated",
-          "summary": "Salazar voted for and celebrated the administration's signature 2025 tax-and-spending bill, but in a September 2026 campaign ad said its immigration enforcement has 'gone too far' and that Hispanic voters 'feel betrayed.'",
-          "quote": "gone too far",
+          "summary": "Salazar holds President Trump's endorsement, but in a September 2026 campaign ad she publicly criticized his immigration enforcement as having gone too far and said Hispanic voters who supported him feel betrayed.",
+          "quote": "The same Hispanics who helped you get to the White House in 2024 feel betrayed today",
           "sources": [
             {
-              "title": "In campaign ad, GOP congresswoman says Trump's immigration enforcement has 'gone too far' (CBS News)",
-              "url": "https://www.cbsnews.com/news/maria-elvira-salazar-trump-immigration-ad-gone-too-far/",
-              "date": "2026-09"
+              "title": "Maria Elvira Salazar tells Trump in TV ad he's gone 'too far' on immigration (Political Cortadito)",
+              "url": "https://politicalcortadito.com/2026/09/18/maria-elvira-salazar-trump-tv-ad-immigration/",
+              "date": "2026-09-18"
             },
             {
-              "title": "Maria Salazar slams Trump's immigration tactics (The Hill)",
-              "url": "https://thehill.com/homenews/campaign/6095767-maria-salazar-trump-immigration-ad/",
-              "date": "2026-09"
-            },
-            {
-              "title": "Rep. Salazar on X: 'A historic win! The House just passed the Big Beautiful Bill!'",
-              "url": "https://x.com/RepMariaSalazar/status/1940840898905960906",
-              "date": "2025-07-03"
+              "title": "Trump-Backed Republican Congresswoman Says the President's Immigration Crackdown Has Gone 'Too Far' (TIME)",
+              "url": "https://time.com/article/2026/09/17/trump-immigration-florida-republican-maria-elvira-salazar-midterms/",
+              "date": "2026-09-17"
             }
           ]
         },
@@ -400,6 +380,28 @@
               "title": "Rep. Salazar on X: 'A historic win! The House just passed the Big Beautiful Bill!'",
               "url": "https://x.com/RepMariaSalazar/status/1940840898905960906",
               "date": "2025-07-03"
+            }
+          ]
+        },
+        {
+          "title": "Detention of exiled Nicaraguan journalist",
+          "summary": "After ICE detained Nicaraguan journalist Luis Chavarria-Galeano in Orlando on Sept. 14, 2026, Salazar said he 'cannot be sent back into the hands of the people who targeted him' and urged the administration to distinguish criminals from political exiles.",
+          "sources": [
+            {
+              "title": "Exiled Nicaraguan journalist detained by ICE in Florida (WUSF)",
+              "url": "https://www.wusf.org/politics-issues/2026-09-19/exiled-nicaraguan-journalist-detained-by-ice-in-florida-he-could-be-deported-to-country-he-escaped",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "title": "Debates",
+          "summary": "Salazar has not accepted invitations from Miami TV stations to debate Democratic nominee Eliott Rodriguez; Rodriguez says he accepted.",
+          "sources": [
+            {
+              "title": "Maria Elvira Salazar tells Trump in TV ad he's gone 'too far' on immigration (Political Cortadito)",
+              "url": "https://politicalcortadito.com/2026/09/18/maria-elvira-salazar-trump-tv-ad-immigration/",
+              "date": "2026-09-18"
             }
           ]
         }
@@ -626,6 +628,56 @@
               "url": "https://clerk.house.gov/evs/2024/roll456.xml"
             }
           ]
+        },
+        {
+          "item": "Voted Nay on H.Con.Res. 93, a War Powers Resolution directing the President to remove U.S. armed forces from hostilities with Iran (Roll Call 307, Sept. 15, 2026; agreed to 220-204).",
+          "sources": [
+            {
+              "title": "Roll Call 307 | H.Con.Res. 93 | House Clerk",
+              "url": "https://clerk.house.gov/Votes/2026307",
+              "date": "2026-09-15"
+            }
+          ]
+        },
+        {
+          "item": "Voted Yea on the motion to table H.Res. 1486, a resolution impeaching President Trump (Roll Call 298, Sept. 15, 2026; tabled 232-147 with 47 voting present). A Yea vote set the resolution aside; a Nay vote would have kept it before the House.",
+          "sources": [
+            {
+              "title": "Roll Call 298 | H.Res. 1486 | House Clerk",
+              "url": "https://clerk.house.gov/Votes/2026298",
+              "date": "2026-09-15"
+            }
+          ]
+        },
+        {
+          "item": "Voted Yea on H.J.Res. 210 and Not Voting on H.J.Res. 213, Congressional Review Act resolutions disapproving EPA authorizations of California's at-berth ocean-going vessel and commercial harbor craft diesel-emission rules (Roll Calls 306 and 311, Sept. 15-16, 2026; passed 216-211 and 214-208).",
+          "sources": [
+            {
+              "title": "Roll Call 306 | H.J.Res. 210 | House Clerk",
+              "url": "https://clerk.house.gov/Votes/2026306",
+              "date": "2026-09-15"
+            },
+            {
+              "title": "Roll Call 311 | H.J.Res. 213 | House Clerk",
+              "url": "https://clerk.house.gov/Votes/2026311",
+              "date": "2026-09-16"
+            }
+          ]
+        },
+        {
+          "item": "Recorded as Not Voting on all four Sept. 16, 2026 roll calls checked (H.R. 9576, H.J.Res. 213, H.R. 9340, H.R. 9497); she voted on the Sept. 15 roll calls.",
+          "sources": [
+            {
+              "title": "Roll Call 311 | H.J.Res. 213 | House Clerk",
+              "url": "https://clerk.house.gov/Votes/2026311",
+              "date": "2026-09-16"
+            },
+            {
+              "title": "Roll Call 309 | H.R. 9576 | House Clerk",
+              "url": "https://clerk.house.gov/Votes/2026309",
+              "date": "2026-09-16"
+            }
+          ]
         }
       ],
       "endorsements": [
@@ -795,7 +847,7 @@
             },
             {
               "title": "Candidate Profile: Eliott Rodriguez, Florida's 27th Congressional District (South Dade News Leader)",
-              "url": "https://www.southdadenewsleader.com/news/candidate-profile-eliott-rodriguez-floridas-27th-congressional-district/article_9763913c-deeb-40b3-94a4-ca844eacdcd0.html",
+              "url": "https://floridapolitics.com/archives/811888-robin-peguero-eliott-rodriguez-battle-for-a-shot-at-maria-elvira-salazar/",
               "date": "2026"
             }
           ]
@@ -939,7 +991,7 @@
           "sources": [
             {
               "title": "Candidate Profile: Eliott Rodriguez, Florida's 27th Congressional District (South Dade News Leader)",
-              "url": "https://www.southdadenewsleader.com/news/candidate-profile-eliott-rodriguez-floridas-27th-congressional-district/article_9763913c-deeb-40b3-94a4-ca844eacdcd0.html",
+              "url": "https://floridapolitics.com/archives/811888-robin-peguero-eliott-rodriguez-battle-for-a-shot-at-maria-elvira-salazar/",
               "date": "2026"
             }
           ]
@@ -968,6 +1020,22 @@
               "title": "Robin Peguero, Eliott Rodriguez battle for a shot at Maria Elvira Salazar (Florida Politics)",
               "url": "https://floridapolitics.com/archives/811888-robin-peguero-eliott-rodriguez-battle-for-a-shot-at-maria-elvira-salazar/",
               "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "title": "Response to Salazar's immigration ad; debates",
+          "summary": "Rodriguez said Salazar sought Trump's endorsement and now criticizes his immigration policy only because it is unpopular in the district, citing her vote for a large immigration-enforcement funding package; he has accepted TV debate invitations and challenged Salazar to debate.",
+          "sources": [
+            {
+              "title": "Trump-Backed Republican Congresswoman Says the President's Immigration Crackdown Has Gone 'Too Far' (TIME)",
+              "url": "https://time.com/article/2026/09/17/trump-immigration-florida-republican-maria-elvira-salazar-midterms/",
+              "date": "2026-09-17"
+            },
+            {
+              "title": "Maria Elvira Salazar tells Trump in TV ad he's gone 'too far' on immigration (Political Cortadito)",
+              "url": "https://politicalcortadito.com/2026/09/18/maria-elvira-salazar-trump-tv-ad-immigration/",
+              "date": "2026-09-18"
             }
           ]
         }
@@ -1000,6 +1068,19 @@
         }
       ],
       "endorsements": []
+    }
+  ],
+  "events": [
+    {
+      "host": "Miami TV stations (CBS Miami, WPLG Local 10, Telemundo 51) invited both candidates; no debate scheduled",
+      "who": "Eliott Rodriguez accepted; Maria Elvira Salazar has not accepted",
+      "sources": [
+        {
+          "title": "Maria Elvira Salazar tells Trump in TV ad he's gone 'too far' on immigration (Political Cortadito)",
+          "url": "https://politicalcortadito.com/2026/09/18/maria-elvira-salazar-trump-tv-ad-immigration/",
+          "date": "2026-09-18"
+        }
+      ]
     }
   ]
 }

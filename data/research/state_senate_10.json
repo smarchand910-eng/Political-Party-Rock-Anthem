@@ -485,7 +485,18 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Gov. Ron DeSantis (television ad, Sept. 2026)",
+          "sources": [
+            {
+              "title": "Ron DeSantis goes to bat for Jason Brodeur in new ad touting tax relief, lower prescription costs (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/819859-ron-desantis-goes-to-bat-for-jason-brodeur-in-new-ad-touting-tax-relief-lower-prescription-costs/",
+              "date": "2026-09-14"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -534,18 +545,30 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lowndes's campaign site says he will hold insurance companies accountable and push reforms that reduce premiums and protect families from rate spikes.",
+          "quote": "Hold insurance companies accountable, and champion reforms that reduce premiums and protect families from unpredictable spikes.",
+          "sources": [
+            {
+              "title": "John Lowndes for Florida Senate (campaign site)",
+              "url": "https://www.johnlowndesforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lowndes says he will fight to bring down the rising cost of housing, health care, utilities and everyday expenses.",
+          "quote": "Fight to bring down the rising cost of housing, healthcare, utilities, and everyday expenses.",
+          "sources": [
+            {
+              "title": "John Lowndes for Florida Senate (campaign site)",
+              "url": "https://www.johnlowndesforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -583,11 +606,17 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Lowndes says he wants to bring funding back to public schools instead of what he calls unaccountable corporate-run alternatives, and to raise teacher pay.",
+          "quote": "Bring funding back to public schools instead of unaccountable corporate-run alternatives, raise teacher pay.",
+          "sources": [
+            {
+              "title": "John Lowndes for Florida Senate (campaign site)",
+              "url": "https://www.johnlowndesforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "environment": {
           "stance": null,

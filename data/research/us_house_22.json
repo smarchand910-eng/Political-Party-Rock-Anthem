@@ -331,6 +331,17 @@
               "date": "2026-08-04"
             }
           ]
+        },
+        {
+          "title": "Balanced budget amendment, federal gas tax, stock trading, schools",
+          "summary": "Askar calls for a Tax Limitation Balanced Budget Amendment, supports abolishing the federal gasoline tax, supports school vouchers and mandatory civics education, would bar 'biological boys' from girls' bathrooms, and supports a ban on congressional stock trading.",
+          "sources": [
+            {
+              "title": "Florida House race focused on tariffs, taxes, education (The Center Square via Newsline Local)",
+              "url": "https://www.newslinelocal.com/2026/09/19/florida-house-race-focused-on-tariffs-taxes-education/",
+              "date": "2026-09-19"
+            }
+          ]
         }
       ],
       "record": [
@@ -405,6 +416,31 @@
               "date": "2026-08"
             }
           ]
+        },
+        {
+          "by": "President Donald Trump (Truth Social, Sept. 1, 2026)",
+          "sources": [
+            {
+              "title": "Trump endorses eight Florida GOP House nominees (Florida's Voice)",
+              "url": "https://flvoicenews.com/trump-endorses-eight-florida-gop-house-nominees-slams-democratic-opponents-as-radical/",
+              "date": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "by": "NRCC 'MAGA Majority' program (Sept. 8, 2026)",
+          "sources": [
+            {
+              "title": "NRCC Announces Latest Additions to 'MAGA Majority' Program",
+              "url": "https://nrcc.org/2026/09/08/nrcc-announces-latest-additions-to-maga-majority-program-as-gop-expands-2026-map/",
+              "date": "2026-09-08"
+            },
+            {
+              "title": "NRCC Announces Casey Askar to MAGA Majority Program",
+              "url": "https://nrcc.org/2026/09/08/nrcc-announces-casey-askar-to-maga-majority-program/",
+              "date": "2026-09-08"
+            }
+          ]
         }
       ]
     },
@@ -422,11 +458,22 @@
       "primary_result": "Won Aug 18, 2026 Democratic primary with ~61.3% over Kaysia Earley (Florida Politics; NBC6)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Dandiya says she would raise taxes on billionaires and corporations to support social programs and opposes the cuts in the 2025 'One Big Beautiful Bill'; her website says the fairest way to keep programs strong is to ask the wealthiest Americans to pay more rather than balance the budget on working people.",
+          "quote": "ask the wealthiest Americans to pay their fair share — not to balance the budget on the backs of the people who built this country",
+          "sources": [
+            {
+              "title": "Florida House race focused on tariffs, taxes, education (The Center Square via Newsline Local)",
+              "url": "https://www.newslinelocal.com/2026/09/19/florida-house-race-focused-on-tariffs-taxes-education/",
+              "date": "2026-09-19"
+            },
+            {
+              "title": "Super PAC hits Progressive Pia Dandiya for Opposing Middle-Class Tax Cuts (The Floridian)",
+              "url": "https://floridianpress.com/2026/09/super-pac-hits-progressive-pia-dandiya-for-opposing-middle-class-tax-cuts/",
+              "date": "2026-09"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -577,11 +624,17 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Dandiya has made ending President Trump's tariff policies a focus of her campaign.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House race focused on tariffs, taxes, education (The Center Square via Newsline Local)",
+              "url": "https://www.newslinelocal.com/2026/09/19/florida-house-race-focused-on-tariffs-taxes-education/",
+              "date": "2026-09-19"
+            }
+          ]
         },
         "ukraine": {
           "stance": null,
@@ -660,6 +713,17 @@
               "date": "2025"
             }
           ]
+        },
+        {
+          "title": "Public schools, drug costs, stock trading",
+          "summary": "Dandiya proposes universal pre-K and fully funding public schools and teachers, supports lowering prescription drug costs, and supports a ban on congressional stock trading.",
+          "sources": [
+            {
+              "title": "Florida House race focused on tariffs, taxes, education (The Center Square via Newsline Local)",
+              "url": "https://www.newslinelocal.com/2026/09/19/florida-house-race-focused-on-tariffs-taxes-education/",
+              "date": "2026-09-19"
+            }
+          ]
         }
       ],
       "record": [
@@ -727,6 +791,26 @@
               "title": "'An ideal candidate': Pia Dandiya's CD 21 bid adds nods from Dave Aronberg, Patrick Murphy (Florida Politics)",
               "url": "https://floridapolitics.com/archives/748695-an-ideal-candidate-pia-dandiyas-cd-21-bid-adds-nods-from-dave-aronberg-patrick-murphy/",
               "date": "2025"
+            }
+          ]
+        },
+        {
+          "by": "U.S. Rep. Lois Frankel",
+          "sources": [
+            {
+              "title": "Florida House race focused on tariffs, taxes, education (The Center Square via Newsline Local)",
+              "url": "https://www.newslinelocal.com/2026/09/19/florida-house-race-focused-on-tariffs-taxes-education/",
+              "date": "2026-09-19"
+            }
+          ]
+        },
+        {
+          "by": "DCCC 'Red to Blue' program (July 28, 2026)",
+          "sources": [
+            {
+              "title": "DCCC Announces Five New Candidates to Coveted 2026 'Red to Blue' Program",
+              "url": "https://dccc.org/dccc-announces-five-new-candidates-to-coveted-2026-red-to-blue-program/",
+              "date": "2026-07-28"
             }
           ]
         }
