@@ -64,6 +64,19 @@
               "date": "2026-09"
             }
           ]
+        },
+        "school_books": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Locklin says that once material has gone through a district's removal process and been removed, access is denied, and that a media specialist can point families to the same material elsewhere in the community; she says challenge forms and the process are public records.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Keep Florida Reading 2026 school board candidate questionnaire (candidate's own written answers)",
+              "url": "https://www.keepfloridareading.org/uploads/6/1/4/2/61420659/marie_locklin.pdf",
+              "date": "2026-07-13"
+            }
+          ]
         }
       },
       "other_issues": [],

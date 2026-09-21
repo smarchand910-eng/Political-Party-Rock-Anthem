@@ -64,6 +64,19 @@
               "date": "2026"
             }
           ]
+        },
+        "school_books": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Ingersoll says Florida is taking bold steps to protect parental rights and that a challenged book should be listed publicly and taken out of circulation while educators review it.",
+          "quote": "Yes, (the book challenge) should be made public on the district web page and the book taken out of circulation",
+          "sources": [
+            {
+              "title": "Keep Florida Reading 2026 school board candidate questionnaire (candidate's own written answers)",
+              "url": "https://www.keepfloridareading.org/uploads/6/1/4/2/61420659/troy_ingersoll.pdf",
+              "date": "2026-07-13"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -132,6 +145,19 @@
               "title": "St. Lucie County School Board, District 5 - VOTE411 Voter Guide",
               "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72710522",
               "date": "2026"
+            }
+          ]
+        },
+        "school_books": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Kessler describes her role as ensuring the district follows Florida law and maintains age-appropriate collections, without saying whether an objection alone should be enough to remove material.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Keep Florida Reading 2026 school board candidate questionnaire (candidate's own written answers)",
+              "url": "https://www.keepfloridareading.org/uploads/6/1/4/2/61420659/lisa_kessler.pdf",
+              "date": "2026-07-13"
             }
           ]
         }

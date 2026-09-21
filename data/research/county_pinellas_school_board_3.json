@@ -56,6 +56,19 @@
               "date": "2026-09"
             }
           ]
+        },
+        "school_books": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Campogni says he supports his district's current review policy because it does not let one person remove material district-wide, requiring community input, professional review and verifiable justification first, while parents keep the right to decide for their own children.",
+          "quote": "when one parent seeks to remove a book for every family in the district, it also impacts the ability of other parents to make that decision for their own children",
+          "sources": [
+            {
+              "title": "Keep Florida Reading 2026 school board candidate questionnaire (candidate's own written answers)",
+              "url": "https://www.keepfloridareading.org/uploads/6/1/4/2/61420659/curtis_campogni.pdf",
+              "date": "2026-07-13"
+            }
+          ]
         }
       },
       "other_issues": [

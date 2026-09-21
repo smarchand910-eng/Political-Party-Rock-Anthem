@@ -200,6 +200,19 @@
               "date": "2026-07-28"
             }
           ]
+        },
+        "school_books": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Wallace says she is a firm believer in parental rights and in transparency about a child's own access, but that one family's preferences should not automatically decide for every other family; she frames her role as applying state law and the district's review process.",
+          "quote": "one family's preferences should not automatically decide what is available to every other family",
+          "sources": [
+            {
+              "title": "Keep Florida Reading 2026 school board candidate questionnaire (candidate's own written answers)",
+              "url": "https://www.keepfloridareading.org/uploads/6/1/4/2/61420659/kate_wallace.pdf",
+              "date": "2026-07-13"
+            }
+          ]
         }
       },
       "other_issues": [

@@ -51,6 +51,19 @@
               "date": "2026-07-30"
             }
           ]
+        },
+        "school_books": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Miller says trained media specialists should decide what their age group can read and that a parent can keep their own student from checking out a book, but not decide for others.",
+          "quote": "parental rights does not give them the right to control what everybody else's child can and cannot read",
+          "sources": [
+            {
+              "title": "Keep Florida Reading 2026 school board candidate questionnaire (candidate's own written answers)",
+              "url": "https://www.keepfloridareading.org/uploads/6/1/4/2/61420659/hunter_miller.pdf",
+              "date": "2026-07-13"
+            }
+          ]
         }
       },
       "other_issues": [
