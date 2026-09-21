@@ -16,7 +16,7 @@
   "what_it_does": "Represents District 2 (Parts of Escambia, Santa Rosa) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -27,9 +27,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.votejonfay.com/",
-      "occupation": null,
+      "occupation": "Director of surplus solutions at Airline MRO Parts; retired U.S. Navy commander",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Jon Fay, a 2000 Naval Academy graduate, served 24 years as a naval flight officer, including as executive officer of the Blue Angels and as a Navy legislative fellow in the U.S. House, before retiring as a commander in 2024. He now works in the aviation parts industry and won the August 2026 Republican primary with 78% of the vote.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -39,8 +39,78 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He pledges to support the local economy through infrastructure investment and lower taxes.",
+          "quote": "Support our local economy through infrastructure investments and lower taxes",
+          "sources": [
+            {
+              "title": "Jon Fay campaign website",
+              "url": "https://www.votejonfay.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "WEAR: Jon Fay wins Florida House District 2 Republican Primary to replace Rep. Andrade",
+              "url": "https://weartv.com/news/local/jon-fay-wins-florida-house-district-2-republican-primary-to-replace-rep-andrade",
+              "date": "2026-08-18"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He pledges to enforce the rule of law and work with President Trump and Gov. DeSantis to keep Florida safe.",
+          "quote": "Enforce the rule of law and work with President Trump and Governor DeSantis to keep Florida safe",
+          "sources": [
+            {
+              "title": "Jon Fay campaign website",
+              "url": "https://www.votejonfay.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "trump": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His platform commits to working with President Trump and Gov. DeSantis on public safety.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Jon Fay campaign website",
+              "url": "https://www.votejonfay.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He pledges to fight for the veteran and active-duty community and keep Florida the most veteran-friendly state.",
+          "quote": "Fight for our veteran and active-duty community to help keep Florida the most veteran-friendly state",
+          "sources": [
+            {
+              "title": "Jon Fay campaign website",
+              "url": "https://www.votejonfay.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Insurance",
+          "summary": "Fay says he will prioritize pro-consumer policies to bring down auto and homeowners insurance costs, without specifying a regulatory or market approach.",
+          "sources": [
+            {
+              "title": "Jon Fay campaign website",
+              "url": "https://www.votejonfay.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -58,9 +128,9 @@
       "photo_url": "assets/photos/johnny_thompson.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://standwithjohnny.com/",
-      "occupation": null,
+      "occupation": "Harvard Law School student (with concurrent public-health graduate study)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Johnny Austin Thompson is a Pensacola native and product of Escambia County public schools who is studying law at Harvard while pursuing graduate work in public health. He grew up in a working-class family that at times relied on SNAP and government health coverage, and he was unopposed for the Democratic nomination.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -70,8 +140,76 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Thompson proposes expanding Medicaid to cover doula, midwife and telehealth maternal services and campaigns on protecting health care access.",
+          "quote": "Expanding Medicaid to cover doula and midwife services, as well as telemedicine for remote maternal health consultations",
+          "sources": [
+            {
+              "title": "Daily Kos: Florida Maternal Mortality Is a Preventable Crisis for Black Mothers (by Johnny Austin Thompson)",
+              "url": "https://www.dailykos.com/stories/2026/8/25/800089188/community/the-maternal-mortality-scandal-a-crisis-for-women-mothers-and-families/",
+              "date": "2026-08-25"
+            },
+            {
+              "title": "Johnny Austin Thompson campaign website",
+              "url": "https://standwithjohnny.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His campaign pledges to cut property taxes for District 2 families.",
+          "quote": "cut property taxes for District 2 families",
+          "sources": [
+            {
+              "title": "Johnny Austin Thompson campaign website",
+              "url": "https://standwithjohnny.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In an essay on maternal mortality he wrote that addressing the impact of abortion bans and restrictive policies is critical, citing worse outcomes in states with restrictive laws.",
+          "quote": "Addressing the impact of abortion bans and restrictive policies is critical",
+          "sources": [
+            {
+              "title": "Daily Kos: Florida Maternal Mortality Is a Preventable Crisis for Black Mothers (by Johnny Austin Thompson)",
+              "url": "https://www.dailykos.com/stories/2026/8/25/800089188/community/the-maternal-mortality-scandal-a-crisis-for-women-mothers-and-families/",
+              "date": "2026-08-25"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Universal free school meals",
+          "summary": "Thompson supports universal free school meals in Florida public schools, citing his own childhood reliance on SNAP.",
+          "sources": [
+            {
+              "title": "Daily Kos: I Grew Up Relying on SNAP. Now I'm Running to Make Sure No Child Learns Hungry (by Johnny Austin Thompson)",
+              "url": "https://www.dailykos.com/stories/2026/8/24/800088725/community/i-grew-up-relying-on-snap-now-im-running-to-make-sure-no-child-learns-hungry/",
+              "date": "2026-08-24"
+            }
+          ]
+        },
+        {
+          "title": "Public schools",
+          "summary": "His site pledges to fully fund public schools and protect a clean Gulf Coast.",
+          "sources": [
+            {
+              "title": "Johnny Austin Thompson campaign website",
+              "url": "https://standwithjohnny.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

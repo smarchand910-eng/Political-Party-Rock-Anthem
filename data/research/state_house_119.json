@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 119 (Part of Miami-Dade) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.porrasforflorida.com",
-      "occupation": null,
+      "occupation": "State representative (since 2022)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Juan Carlos Porras, a Miami native with a political-science degree from FIU, was elected in 2022 as one of the youngest legislators in Florida after working for Sen. Marco Rubio, Gov. Rick Scott and state lawmakers. He has focused on homeowners-association reform and sponsored a 2026 proposal to exempt seniors from non-school property taxes.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,239 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
-      "record": [],
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Porras voted for both 2026 property-tax measures and sponsored HJR 205 to exempt homeowners 65 and older from non-school property taxes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "ClickOrlando: Florida House pitches property tax proposals for 2026 ballot",
+              "url": "https://www.clickorlando.com/news/florida/2025/10/17/florida-house-pitches-property-tax-proposals-for-2026-ballot-read-the-bills/",
+              "date": "2025-10-17"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Porras voted for SB 2-C, the 2025 state immigration-enforcement package.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Porras voted for SB 300, the 2023 six-week abortion law.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 300 (2023 six-week abortion law), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "He voted for permitless carry in 2023 and for lowering the long-gun purchase age in 2025 and 2026.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 543 (2023 permitless carry), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            },
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Porras voted for HB 1, the 2023 universal school-choice expansion, and his site notes budget funding for school-choice programs.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (2023 universal school choice), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            },
+            {
+              "title": "Juan Carlos Porras campaign website",
+              "url": "https://www.porrasforflorida.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His issues page pledges to cut taxes and keep more money in residents' pockets.",
+          "quote": "Cut taxes and keep more money in your pockets",
+          "sources": [
+            {
+              "title": "Juan Carlos Porras campaign website: Issues",
+              "url": "https://www.porrasforflorida.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He pledges to protect communities and keep families safe.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Juan Carlos Porras campaign website: Issues",
+              "url": "https://www.porrasforflorida.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "HOA reform",
+          "summary": "Porras sponsored a 2026 HOA overhaul and has called HOAs 'the biggest form of small government'.",
+          "sources": [
+            {
+              "title": "WCTV: Florida House passes HOA reform bill",
+              "url": "https://www.wctv.tv/2026/03/05/florida-house-passes-hoa-reform-bill/",
+              "date": "2026-03-05"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "CS/HJR 1-F (2026 special session), the homestead property-tax amendment (Amendment 3): voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "item": "CS/CS/HJR 203 (2026), proposal to eliminate non-school property taxes on homesteads: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        {
+          "item": "SB 2-C (2025 special session), state immigration-enforcement package: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        {
+          "item": "HB 1 (2023), universal school-choice vouchers: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (2023 universal school choice), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        },
+        {
+          "item": "SB 300 (2023), the six-week abortion law: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 300 (2023 six-week abortion law), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        {
+          "item": "HB 543 (2023), permitless concealed carry: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 543 (2023 permitless carry), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        {
+          "item": "HB 759 (2025), lowering the long-gun purchase age from 21 to 18: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            }
+          ]
+        },
+        {
+          "item": "HB 133 (2026), lowering the long-gun purchase age from 21 to 18: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        {
+          "item": "HJR 205 (2026): sponsored a proposed constitutional amendment exempting homeowners 65 and older from non-school property taxes",
+          "sources": [
+            {
+              "title": "ClickOrlando: Florida House pitches property tax proposals for 2026 ballot",
+              "url": "https://www.clickorlando.com/news/florida/2025/10/17/florida-house-pitches-property-tax-proposals-for-2026-ballot-read-the-bills/",
+              "date": "2025-10-17"
+            }
+          ]
+        },
+        {
+          "item": "HOA reform (2026): sponsored a House-passed homeowners-association overhaul creating a state-funded community association court program",
+          "sources": [
+            {
+              "title": "WCTV: Florida House passes HOA reform bill",
+              "url": "https://www.wctv.tv/2026/03/05/florida-house-passes-hoa-reform-bill/",
+              "date": "2026-03-05"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -57,9 +287,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://rey4florida.org/",
-      "occupation": null,
+      "occupation": "Service worker, small-business owner and college student",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Rey Sordo, 27, was born and raised in South Miami-Dade in a Cuban family. He works nights in the service industry, owns a small business and is a college student; his campaign theme is 'A Future We Can Afford.'",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +299,101 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Sordo calls for insurance reform that increases competition, holds insurers accountable and lowers costs while investing in resilience.",
+          "quote": "We need real insurance reform that increases competition, holds insurers accountable, and lowers costs while investing in resilience to reduce future claims.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Rey Sordo",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940751",
+              "date": "2026-09"
+            },
+            {
+              "title": "Rey Sordo campaign website",
+              "url": "https://rey4florida.org/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He backs incentives for workforce housing near jobs and transit, renter protections against abusive fees, and rental-application transparency.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Rey Sordo campaign website",
+              "url": "https://rey4florida.org/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Rey Sordo",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940751",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says he trusts women, families and doctors to make medical decisions and supports protecting access to reproductive health care.",
+          "quote": "I trust women, their families, and their doctors to make deeply personal medical decisions without unnecessary political interference.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Rey Sordo",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940751",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He supports local flexibility on housing, transportation and growth and favors building up rather than out into protected land.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Rey Sordo",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940751",
+              "date": "2026-09"
+            },
+            {
+              "title": "Rey Sordo campaign website",
+              "url": "https://rey4florida.org/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He would strengthen community health centers, expand preventive and mental health care and reduce prescription costs.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Rey Sordo",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940751",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He supports reducing fees for birth certificates and expanding access so documentation rules do not block voters.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Rey Sordo",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940751",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

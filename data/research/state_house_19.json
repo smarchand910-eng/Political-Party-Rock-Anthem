@@ -16,7 +16,7 @@
   "what_it_does": "Represents District 19 (Flagler, Part of St. Johns) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -27,9 +27,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.samgrecoforflorida.com/",
-      "occupation": null,
+      "occupation": "State representative; attorney; U.S. Navy Reserve JAG officer (active duty 2019-2024)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Sam Greco, a Georgetown-educated attorney, served as an active-duty Navy JAG officer from 2019 to 2024 and continues in the Navy Reserve. He was elected in 2024 to represent Flagler County and part of St. Johns County and sponsored 2026 laws on rental-property fraud and memory-care standards.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -39,9 +39,110 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Greco voted for HJR 203 and HJR 1-F in 2026 and campaigned in 2024 on expanding homestead exemptions.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "He voted for SB 2-C in 2025 and campaigned on stopping illegal immigration, banning sanctuary jurisdictions and ending taxpayer benefits for people in the country illegally.",
+          "quote": "Stop Illegal Immigration - Support and empower our law enforcement to combat the drugs and crime flowing into Florida",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "He voted in 2025 and 2026 for bills lowering the long-gun purchase age from 21 to 18.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "CS/HJR 1-F (2026 special session), the homestead property-tax amendment (Amendment 3): voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "item": "CS/CS/HJR 203 (2026), proposal to eliminate non-school property taxes on homesteads: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        {
+          "item": "SB 2-C (2025 special session), state immigration-enforcement package: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        {
+          "item": "HB 759 (2025), lowering the long-gun purchase age from 21 to 18: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            }
+          ]
+        },
+        {
+          "item": "HB 133 (2026), lowering the long-gun purchase age from 21 to 18: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -58,9 +159,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://suzannapavelle.com",
-      "occupation": null,
+      "occupation": "Small-business owner (direct-to-consumer bicycle brand); 26-year St. Augustine resident",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Suzanna Pavelle, 53, has run small businesses for nearly 30 years, including an early online direct-to-consumer bicycle brand, and has lived in St. Augustine for 26 years. A former backcountry ranger and archaeologist with a University of Oregon degree, she has served on the Big Brothers Big Sisters board.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -70,7 +171,186 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She would fix SB 1028 so small businesses and condos are not forced out of Citizens, add oversight of rate hikes and maintain strong Citizens and catastrophe funds.",
+          "quote": "fixing SB 1028 so consumers are not pushed into more expensive coverage, and maintaining strong Citizens and catastrophe funds",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Suzanna Pavelle",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940550",
+              "date": "2026-09"
+            },
+            {
+              "title": "News4JAX 2026 Voter's Guide: Florida House District 19",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-19/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She calls for infrastructure before development, restoring local control over growth, making developers pay the true cost of growth and reining in data centers.",
+          "quote": "I will fight to give local communities back the power to manage their own growth.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Suzanna Pavelle",
+              "url": "https://ballotpedia.org/Suzanna_Pavelle",
+              "date": "2026-09"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Suzanna Pavelle",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940550",
+              "date": "2026-09"
+            },
+            {
+              "title": "News4JAX 2026 Voter's Guide: Florida House District 19",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-19/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She would strengthen wetland and water protections and fully fund Florida Forever.",
+          "quote": "We must protect what protects us.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Suzanna Pavelle",
+              "url": "https://ballotpedia.org/Suzanna_Pavelle",
+              "date": "2026-09"
+            },
+            {
+              "title": "Suzanna Pavelle campaign website: Priorities",
+              "url": "https://suzannapavelle.com/priorities/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She says vouchers divert dollars to private schools with less accountability and would fund neighborhood public schools first.",
+          "quote": "vouchers divert dollars to private schools with far less accountability",
+          "sources": [
+            {
+              "title": "Ballotpedia: Suzanna Pavelle",
+              "url": "https://ballotpedia.org/Suzanna_Pavelle",
+              "date": "2026-09"
+            },
+            {
+              "title": "News4JAX 2026 Voter's Guide: Florida House District 19",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-19/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She supports expanding Medicaid to eligible adults and protecting rural hospitals.",
+          "quote": "I support expansion to eligible adults, with the federal government paying 90% of costs for the expansion population",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Suzanna Pavelle",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940550",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She describes herself as pro-choice and would restore reproductive freedom.",
+          "quote": "I am pro-choice. I support access to abortion whenever a patient decides it is the right medical decision for her.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Suzanna Pavelle",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940550",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She would fully fund SHIP and SAIL, back first-time-buyer help and accessory dwelling units, and curb large-investor purchases of single-family homes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Suzanna Pavelle",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940550",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She supports targeted relief for seniors and first-time buyers but opposes cutting local revenues while the insurance crisis is unresolved.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Suzanna Pavelle",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940550",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Her priorities include protecting people and civil rights from abusive immigration enforcement and ending detention spending.",
+          "quote": "Protect people and civil rights from abusive immigration enforcement",
+          "sources": [
+            {
+              "title": "Suzanna Pavelle campaign website: Priorities",
+              "url": "https://suzannapavelle.com/priorities/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She proposes combined reporting to stop corporations from shifting profits offshore, which she says would raise about $2.4 billion a year.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Suzanna Pavelle",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940550",
+              "date": "2026-09"
+            },
+            {
+              "title": "Ballotpedia: Suzanna Pavelle",
+              "url": "https://ballotpedia.org/Suzanna_Pavelle",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She calls for ending racial gerrymandering and making citizenship documents free if required to register.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Suzanna Pavelle campaign website: Priorities",
+              "url": "https://suzannapavelle.com/priorities/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Suzanna Pavelle",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940550",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 106 (Part of Miami-Dade) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -25,10 +25,10 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://fabianbasabe.com/",
+      "occupation": "State representative; businessman and former reality-television personality",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Fabián Basabe, a Miami Beach businessman who appeared on the reality show Filthy Rich: Cattle Drive, was elected in 2022 by 240 votes and re-elected in 2024. He describes himself as fiscally conservative and socially liberal. In July 2026 a civil jury found him liable for sexual harassment, battery and defamation claims brought by two former House employees and awarded $450,000; he denied wrongdoing.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,198 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
-      "record": [],
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Basabe voted for HJR 1-F, the homestead property-tax amendment placed on the 2026 ballot; he did not vote on HJR 203.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Basabe voted for SB 2-C, the 2025 state immigration-enforcement package.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "He voted for permitless carry in 2023 and for lowering the long-gun purchase age to 18 in 2025 and 2026.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 543 (2023 permitless carry), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            },
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Basabe voted for HB 1, the 2023 universal school-choice expansion.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (2023 universal school choice), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 0,
+          "confidence": "record",
+          "summary": "Basabe did not vote on the six-week abortion law in 2023; he said he would not vote on it until it was right for all Floridians and has been reported as favoring a 12-week limit.",
+          "quote": "My statement was I will not vote on it until it's right to represent all Floridians.",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 300 (2023 six-week abortion law), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            },
+            {
+              "title": "CBS News Miami: Confronted over LGBTQ legislation, Rep. Basabe plans to attend pride parade",
+              "url": "https://cbsnews.com/miami/news/confronted-over-lgbtq-legislation-rep-basabe-plans-to-attend-pride-parade",
+              "date": "2023-04-14"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Civil verdict",
+          "summary": "In July 2026 a jury found Basabe liable for sexually harassing, battering and defaming two former House employees and awarded $450,000; he denied wrongdoing.",
+          "sources": [
+            {
+              "title": "Community Newspapers: As Basabe Implodes, Lucia Baez-Geller Emerges as the Democrat to Watch",
+              "url": "https://communitynewspapers.com/miami-beach-news/as-basabe-implodes-lucia-baez-geller-emerges-as-the-democrat-to-watch/",
+              "date": "2026-07-20"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "CS/HJR 1-F (2026 special session), the homestead property-tax amendment (Amendment 3): voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "item": "CS/CS/HJR 203 (2026), proposal to eliminate non-school property taxes on homesteads: voted did not vote",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        {
+          "item": "SB 2-C (2025 special session), state immigration-enforcement package: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        {
+          "item": "HB 1 (2023), universal school-choice vouchers: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (2023 universal school choice), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        },
+        {
+          "item": "SB 300 (2023), the six-week abortion law: voted did not vote",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 300 (2023 six-week abortion law), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        {
+          "item": "HB 543 (2023), permitless concealed carry: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 543 (2023 permitless carry), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        {
+          "item": "HB 759 (2025), lowering the long-gun purchase age from 21 to 18: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            }
+          ]
+        },
+        {
+          "item": "HB 133 (2026), lowering the long-gun purchase age from 21 to 18: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        {
+          "item": "HB 1423 (2023), restricting children's attendance at adult live performances: voted yes in the State Administration & Technology Appropriations Subcommittee, saying it was about preserving the innocence of children",
+          "sources": [
+            {
+              "title": "CBS News Miami: Confronted over LGBTQ legislation, Rep. Basabe plans to attend pride parade",
+              "url": "https://cbsnews.com/miami/news/confronted-over-lgbtq-legislation-rep-basabe-plans-to-attend-pride-parade",
+              "date": "2023-04-14"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -51,9 +240,9 @@
       "photo_url": "assets/photos/lucia_baez_geller.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://luciabaezgeller.com/",
-      "occupation": null,
+      "occupation": "Miami-Dade County School Board member; former Miami Beach Senior High English teacher (2005-2020)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Lucia Báez-Geller, 42, taught English at Miami Beach Senior High for 15 years before winning a seat on the Miami-Dade County School Board in 2020. The daughter of Cuban and Colombian immigrants, she ran for Congress in 2024 and won the August 2026 Democratic primary for this seat.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -63,8 +252,148 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She calls for insurer accountability, transparent rate reviews, timely claims payments, home-hardening grants and a stable insurer of last resort.",
+          "quote": "Relief must reach policyholders—not become another blank check for the insurance industry.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Lucia Baez-Geller",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691017",
+              "date": "2026-09"
+            },
+            {
+              "title": "Lucia Báez-Geller campaign website",
+              "url": "https://luciabaezgeller.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "She says eliminating or sharply reducing property taxes would threaten schools, public safety and local services without guaranteeing relief for renters.",
+          "quote": "Eliminating or sharply reducing property taxes would also threaten schools, public safety, infrastructure, and local services without guaranteeing meaningful relief for renters.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Lucia Baez-Geller",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691017",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She supports fully funding the Sadowski trust funds, using public land for permanently affordable homes, and renter protections against junk fees and displacement.",
+          "quote": "Florida must treat housing as essential infrastructure.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Lucia Baez-Geller",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691017",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She supports abortion access before viability and says Florida's six-week ban takes away a personal medical decision before many women know they are pregnant.",
+          "quote": "Abortion is healthcare, and these decisions belong to a woman, her doctor, and her faith—not politicians in Tallahassee.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Lucia Baez-Geller",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691017",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She supports expanding Medicaid, targeted premium assistance if federal subsidies decline, and lower prescription-drug costs.",
+          "quote": "Florida should expand Medicaid and bring our federal tax dollars home",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Lucia Baez-Geller",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691017",
+              "date": "2026-09"
+            },
+            {
+              "title": "Lucia Báez-Geller campaign website",
+              "url": "https://luciabaezgeller.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "A former teacher, she pledges to fully fund neighborhood public schools and stop diverting public dollars without equal accountability.",
+          "quote": "stop politicians from diverting public dollars without equal accountability",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Lucia Baez-Geller",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691017",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her site says climate change and sea-level rise are real and already here and calls for investment in resilience and water protection.",
+          "quote": "Sea level rise is not theoretical — it is real, and the impact is already here.",
+          "sources": [
+            {
+              "title": "Lucia Báez-Geller campaign website",
+              "url": "https://luciabaezgeller.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She says Florida has moved too far toward blanket preemption and would require specific justification for any new preemption of local governments.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Lucia Baez-Geller",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691017",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She opposes new barriers to voting and would waive record fees and provide cure periods if proof of citizenship is required.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Lucia Baez-Geller",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691017",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Gas tax holiday",
+          "summary": "She has proposed a temporary suspension of the state gas tax for immediate relief on everyday expenses.",
+          "sources": [
+            {
+              "title": "Community Newspapers: Lucia Baez-Geller, the best choice",
+              "url": "https://communitynewspapers.com/featured/lucia-baez-geller-the-best-choice/",
+              "date": "2026-08-03"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

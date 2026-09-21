@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 103 (Part of Broward) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "http://imtiazforflorida.com/",
-      "occupation": null,
+      "occupation": "Entrepreneur and small-business owner",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Imtiaz Mohammad describes himself as an entrepreneur with an MBA and a community activist since 2015; he ran for the Florida Senate in 2024. His campaign emphasizes affordability, insurance costs and housing, and he says he would be the first Pakistani American elected to the office.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -39,7 +39,19 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Affordability",
+          "summary": "Mohammad says affordability and cost of living are his top priorities but has not detailed specific policy positions; he did not answer the Vote411 questionnaire.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Imtiaz Mohammad",
+              "url": "https://ballotpedia.org/Imtiaz_Mohammad",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -57,9 +69,9 @@
       "photo_url": "assets/photos/robin_bartleman.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://robinbartleman.com",
-      "occupation": null,
+      "occupation": "State representative; former assistant principal and special-education teacher; former Broward School Board member",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Robin Bartleman of Weston has represented the district since 2020 after serving on the Broward County School Board and Weston City Commission. A former special-education teacher and assistant principal, she holds degrees from FIU and Nova Southeastern University.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,9 +81,284 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Bartleman voted against both 2026 property-tax proposals and says Amendment 3 is a cost shift that could force cities to cut 25-40% of their budgets.",
+          "quote": "The bill sponsor stated that to make up for lost revenue, local governments can increase taxes and fees. That is a tax swap, not relief.",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Robin Bartleman",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940732",
+              "date": "2026-09"
+            },
+            {
+              "title": "CBS News Miami: Florida House advances bill that will clear most home property taxes",
+              "url": "https://www.cbsnews.com/miami/news/florida-house-advances-bill-that-will-clear-most-home-property-taxes/",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "She voted against the six-week law in 2023 and, in a CNN interview, described her own pregnancy decision and said the Legislature and governor did not belong in that room.",
+          "quote": "Women are going to die because of this",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 300 (2023 six-week abortion law), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            },
+            {
+              "title": "Media Matters: On CNN, Florida state Rep. Robin Bartleman highlights why Florida's 6-week ban will worsen the maternal mortality crisis",
+              "url": "https://www.mediamatters.org/cnn/cnn-florida-state-rep-robin-bartleman-highlights-why-floridas-6-week-ban-will-worsen-maternal",
+              "date": "2023-04-14"
+            }
+          ]
+        },
+        "guns": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "She voted against permitless carry and against lowering the long-gun age in 2025 and 2026, and filed a bill requiring police to seize guns from people served with domestic-violence injunctions.",
+          "quote": "The law already grants the judge the ability to say, you are too dangerous for a gun. This simply says, we're going to go get your guns now.",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 543 (2023 permitless carry), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            },
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "NBC 6 South Florida: Citing Tamarac murders, legislator wants guns taken when accused domestic abusers get injunctions",
+              "url": "https://www.nbcmiami.com/news/local/citing-tamarac-murders-legislator-wants-guns-taken-when-accused-domestic-abusers-get-injunctions/3735434/",
+              "date": "2025-12-15"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "She voted against the 2023 universal voucher bill and says the school-choice program lacks fiscal and academic accountability.",
+          "quote": "The school choice program has limited fiscal and academic accountability; we must ensure tax dollars are not wasted and students are educated.",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (2023 universal school choice), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Robin Bartleman",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940732",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Bartleman voted against SB 2-C, the 2025 state immigration-enforcement package.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She passed bipartisan legislation expanding KidCare for working families and says she will keep fighting for affordable health care and prescription access.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Robin Bartleman",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940732",
+              "date": "2026-09"
+            },
+            {
+              "title": "Robin Bartleman campaign website",
+              "url": "https://robinbartleman.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She supported the Live Local Act in 2023, co-sponsored the HOME Act (HB 675) and passed Miya's Law protecting renters.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Robin Bartleman",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940732",
+              "date": "2026-09"
+            },
+            {
+              "title": "Robin Bartleman campaign website",
+              "url": "https://robinbartleman.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She supported My Safe Florida Home and co-sponsored HB 319 to create a national insurance compact to spread risk and lower premiums.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Robin Bartleman",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940732",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She opposes HB 991's proof-of-citizenship rules, saying they create costly barriers and could remove eligible voters from the rolls.",
+          "quote": "I have consistently opposed bills that create hurdles for voters and citizen-led ballot initiatives.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Robin Bartleman",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940732",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She says she has been recognized by the League of Cities and League of Counties for defending home rule.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Robin Bartleman",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940732",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site cites her Unlawful Dumping law and opposition to an incinerator in the community.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Robin Bartleman campaign website",
+              "url": "https://robinbartleman.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "CS/HJR 1-F (2026 special session), the homestead property-tax amendment (Amendment 3): voted No",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "item": "CS/CS/HJR 203 (2026), proposal to eliminate non-school property taxes on homesteads: voted No",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        {
+          "item": "SB 2-C (2025 special session), state immigration-enforcement package: voted No",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        {
+          "item": "HB 1 (2023), universal school-choice vouchers: voted No",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (2023 universal school choice), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        },
+        {
+          "item": "SB 300 (2023), the six-week abortion law: voted No",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 300 (2023 six-week abortion law), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        {
+          "item": "HB 543 (2023), permitless concealed carry: voted No",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 543 (2023 permitless carry), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        {
+          "item": "HB 759 (2025), lowering the long-gun purchase age from 21 to 18: voted No",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            }
+          ]
+        },
+        {
+          "item": "HB 133 (2026), lowering the long-gun purchase age from 21 to 18: voted No",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
