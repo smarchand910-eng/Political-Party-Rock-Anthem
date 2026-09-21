@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 94 (Part of Palm Beach) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -25,10 +25,10 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://megforflorida.com/",
+      "occupation": "Nonprofit executive director; founder of Rescue Life animal sanctuary; state representative since 2024",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Meg Weinberger was born in Detroit, attended Palm Beach State College and spent a decade leading Rescue Life, an animal sanctuary she founded, while serving on boards including Stetson University, Big Dog Ranch and Place of Hope. She was elected to the Florida House in 2024 with about 55 percent of the vote and lives in the Caloosa area of Palm Beach Gardens.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,10 +38,252 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her site says she will cut taxes, reduce the size of government and cut red tape.",
+          "quote": "Cut taxes, reduce the size of government, and cut red tape to unleash our economic potential.",
+          "sources": [
+            {
+              "title": "Meg for Florida - Meg Weinberger campaign site",
+              "url": "https://megforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HJR 1-F (June 2, 2026) and HJR 203 (Feb. 19, 2026); she told the Town-Crier she supports Amendment 3 but believes more needs to be done, and her site credits her with passing property tax initiatives.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House floor vote, CS/CS/HJR 203 (Elimination of Non-school Property Tax for Homesteads), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=24474&BillId=82728",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "District 94 Candidates Share Views On Affordability, Schools, AI - Town-Crier",
+              "url": "https://gotowncrier.com/2026/09/district-94-candidates-share-views-on-affordability-schools-ai/",
+              "date": "2026-09-18"
+            },
+            {
+              "title": "Meg for Florida - Meg Weinberger campaign site",
+              "url": "https://megforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site says she supported legislation to hold big insurance companies accountable, and she told the Town-Crier she proposed making homeowners insurance costs deductible from property taxes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Meg for Florida - Meg Weinberger campaign site",
+              "url": "https://megforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "District 94 Candidates Share Views On Affordability, Schools, AI - Town-Crier",
+              "url": "https://gotowncrier.com/2026/09/district-94-candidates-share-views-on-affordability-schools-ai/",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site says she will advocate for affordable housing, and her 2024 survey backed using Live Local Act funds and developer incentives to speed affordable and workforce housing.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Meg for Florida - Meg Weinberger campaign site",
+              "url": "https://megforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Meg Weinberger - Ballotpedia (2024 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Meg_Weinberger",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Her site says she supports the sanctity of human life and the rights of the unborn.",
+          "quote": "Support the sanctity of human life and the rights of the unborn, while enhancing health services.",
+          "sources": [
+            {
+              "title": "Meg for Florida - Meg Weinberger campaign site",
+              "url": "https://megforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Her site says she will protect the right to bear arms.",
+          "quote": "Protect our right to bear arms and combat unconstitutional government overreach.",
+          "sources": [
+            {
+              "title": "Meg for Florida - Meg Weinberger campaign site",
+              "url": "https://megforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site says she will empower parents to guide their children's education, and her survey says she will expand options for parents.",
+          "quote": "Empower parents to exercise their right to guide their children's education based on personal values and beliefs.",
+          "sources": [
+            {
+              "title": "Meg for Florida - Meg Weinberger campaign site",
+              "url": "https://megforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Meg Weinberger - Ballotpedia (2024 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Meg_Weinberger",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her site calls for securing the border, prosecuting traffickers and deporting immigrants who commit crimes, and she voted yes on SB 2-C (Feb. 13, 2025).",
+          "quote": "Secure the border, prosecute coyotes and traffickers, deport illegal immigrants who commit crimes.",
+          "sources": [
+            {
+              "title": "Meg for Florida - Meg Weinberger campaign site",
+              "url": "https://megforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Florida House floor vote, SB 2-C (Immigration), 2025 Special Session C, third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111&",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her site says she will prohibit children from having sex changes.",
+          "quote": "Prohibit children from having sex changes.",
+          "sources": [
+            {
+              "title": "Meg for Florida - Meg Weinberger campaign site",
+              "url": "https://megforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site backs investing in infrastructure to protect waterways, springs, rivers and estuaries and preventing farmland loss.",
+          "quote": "Invest in infrastructure to protect our waterways, springs, rivers and estuaries.",
+          "sources": [
+            {
+              "title": "Meg for Florida - Meg Weinberger campaign site",
+              "url": "https://megforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Her site says she will fight to ensure only legal votes are counted and that ineligible voters and non-citizens are purged from the rolls.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Meg for Florida - Meg Weinberger campaign site",
+              "url": "https://megforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site says she will support law enforcement and prioritize community safety.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Meg for Florida - Meg Weinberger campaign site",
+              "url": "https://megforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "trump": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In her 2024 survey she named President Trump as someone she looks up to and admires for his dedication to the country; Trump endorsed her campaign.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Meg Weinberger - Ballotpedia (2024 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Meg_Weinberger",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "record": [
+        {
+          "item": "Voted yes on HJR 1-F (2026 special session), HJR 203 (2026) and SB 2-C (2025). Sponsored Dexter's Law (2025) on animal-cruelty convictions.",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House floor vote, CS/CS/HJR 203 (Elimination of Non-school Property Tax for Homesteads), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=24474&BillId=82728",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Florida House floor vote, SB 2-C (Immigration), 2025 Special Session C, third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111&",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "District 94 Candidates Share Views On Affordability, Schools, AI - Town-Crier",
+              "url": "https://gotowncrier.com/2026/09/district-94-candidates-share-views-on-affordability-schools-ai/",
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "President Donald J. Trump; U.S. Rep. Brian Mast; Florida Fraternal Order of Police; Palm Beach County Police Benevolent Association (per candidate's 2024 survey)",
+          "sources": [
+            {
+              "title": "Meg Weinberger - Ballotpedia (2024 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Meg_Weinberger",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "elizabeth_holmes",
@@ -51,9 +293,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.elizabethholmesforflorida.com/",
-      "occupation": null,
+      "occupation": "Public school teacher (English and Exceptional Student Education), Palm Beach County",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Elizabeth Holmes grew up in Wellington, earned an English education degree from Florida Atlantic University and has taught in Palm Beach County public schools for about 15 years, first English and now students with special needs. The daughter of a teacher and a postal worker, she is a mother of four and lives in Palm Beach Country Estates.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -63,8 +305,114 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She told the Town-Crier she supports David Jolly's state hurricane insurance plan, which aims to cut private homeowner premiums by 60 to 70 percent.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "District 94 Candidates Share Views On Affordability, Schools, AI - Town-Crier",
+              "url": "https://gotowncrier.com/2026/09/district-94-candidates-share-views-on-affordability-schools-ai/",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She told the Town-Crier she supports a homestead exemption increase but that passage of Amendment 3 would be disastrous for local governments that rely on property taxes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "District 94 Candidates Share Views On Affordability, Schools, AI - Town-Crier",
+              "url": "https://gotowncrier.com/2026/09/district-94-candidates-share-views-on-affordability-schools-ai/",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She told the Town-Crier current school-choice plans are not realistic for many families, and her site says public funding should be used responsibly to benefit students first.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "District 94 Candidates Share Views On Affordability, Schools, AI - Town-Crier",
+              "url": "https://gotowncrier.com/2026/09/district-94-candidates-share-views-on-affordability-schools-ai/",
+              "date": "2026-09-18"
+            },
+            {
+              "title": "Elizabeth Holmes for Florida State House District 94 - campaign site",
+              "url": "https://www.elizabethholmesforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site says she will work to increase attainable housing options so families can stay in their communities.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Elizabeth Holmes for Florida State House District 94 - campaign site",
+              "url": "https://www.elizabethholmesforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site says health care should be accessible in all communities.",
+          "quote": "Healthcare should be accessible in all communities.",
+          "sources": [
+            {
+              "title": "Elizabeth Holmes for Florida State House District 94 - campaign site",
+              "url": "https://www.elizabethholmesforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She opposes approving AI data centers without meaningful community support, citing threats to water supplies and energy infrastructure, and says decisions should be made with communities rather than by Tallahassee insiders.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Elizabeth Holmes for Florida State House District 94 - campaign site",
+              "url": "https://www.elizabethholmesforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "District 94 Candidates Share Views On Affordability, Schools, AI - Town-Crier",
+              "url": "https://gotowncrier.com/2026/09/district-94-candidates-share-views-on-affordability-schools-ai/",
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Teacher pay",
+          "summary": "She says Florida cannot have strong communities without strong schools and needs to pay teachers better and improve classroom resources.",
+          "sources": [
+            {
+              "title": "District 94 Candidates Share Views On Affordability, Schools, AI - Town-Crier",
+              "url": "https://gotowncrier.com/2026/09/district-94-candidates-share-views-on-affordability-schools-ai/",
+              "date": "2026-09-18"
+            },
+            {
+              "title": "Elizabeth Holmes for Florida State House District 94 - campaign site",
+              "url": "https://www.elizabethholmesforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -84,7 +432,7 @@
       "website": "https://dougbarrowforflorida.com/",
       "occupation": null,
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Doug Barrow is a no-party candidate from the Caloosa area of Palm Beach Gardens whose children attend public schools. He filed in May 2026, says local government should not be a partisan conversation, and did not respond to the Town-Crier's interview requests.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -94,8 +442,103 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His site calls for legislation to cap insurance premiums and force insurers to offer more deductible options.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Doug Barrow for Florida - campaign site",
+              "url": "https://dougbarrowforflorida.com/",
+              "date": "2026-07-16"
+            },
+            {
+              "title": "District 94 Candidates Share Views On Affordability, Schools, AI - Town-Crier",
+              "url": "https://gotowncrier.com/2026/09/district-94-candidates-share-views-on-affordability-schools-ai/",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He opposes commercial expansion and data centers in rural areas like Jupiter Farms and says no data center should be approved without residents' direct consent.",
+          "quote": "no data center should be approved without the direct consent of local residents",
+          "sources": [
+            {
+              "title": "Doug Barrow for Florida - campaign site",
+              "url": "https://dougbarrowforflorida.com/",
+              "date": "2026-07-16"
+            },
+            {
+              "title": "Doug Barrow - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Doug_Barrow",
+              "date": "2026-09"
+            },
+            {
+              "title": "District 94 Candidates Share Views On Affordability, Schools, AI - Town-Crier",
+              "url": "https://gotowncrier.com/2026/09/district-94-candidates-share-views-on-affordability-schools-ai/",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "housing": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Rather than expanded affordable-housing programs, he favors tax relief pathways, education credits and job incentives for first-time buyers, first responders, veterans and teachers.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Doug Barrow for Florida - campaign site",
+              "url": "https://dougbarrowforflorida.com/",
+              "date": "2026-07-16"
+            },
+            {
+              "title": "District 94 Candidates Share Views On Affordability, Schools, AI - Town-Crier",
+              "url": "https://gotowncrier.com/2026/09/district-94-candidates-share-views-on-affordability-schools-ai/",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "He supports charter schools as an option in moderation but says they are being exploited, and emphasizes higher teacher pay and better maintenance for public schools.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Doug Barrow for Florida - campaign site",
+              "url": "https://dougbarrowforflorida.com/",
+              "date": "2026-07-16"
+            },
+            {
+              "title": "Doug Barrow - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Doug_Barrow",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Emergency services",
+          "summary": "He prioritizes adding a fire station for west-side communities to improve response times.",
+          "sources": [
+            {
+              "title": "Doug Barrow for Florida - campaign site",
+              "url": "https://dougbarrowforflorida.com/",
+              "date": "2026-07-16"
+            },
+            {
+              "title": "Doug Barrow - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Doug_Barrow",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 87 (Part of Palm Beach) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://votemaples.com",
-      "occupation": null,
+      "occupation": "Financial planner; former Lake Clarke Shores Town Council member",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Jon Maples, 44, grew up in Panama City working in his family's irrigation business and came to Palm Beach County on a basketball scholarship to Palm Beach Atlantic University, where he was an All-American. He is a financial planner in Palm Beach Gardens, previously served on the Lake Clarke Shores Town Council, and lost the March 2026 special election for this seat to Emily Gregory by about two points. He lives in Jupiter with his wife, a science teacher.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,106 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His issues page and survey call for cutting taxes on small businesses and job creators, cutting wasteful spending and slashing red tape.",
+          "quote": "Cut taxes on small businesses and job creators",
+          "sources": [
+            {
+              "title": "Issues - Vote Maples 2026",
+              "url": "https://votemaples.com/issues/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Jon Maples - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Jon_Maples",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says the best way to improve outcomes is giving parents a full menu of options and lists protecting school choice among his solutions.",
+          "quote": "Protect school choice for Florida families",
+          "sources": [
+            {
+              "title": "Issues - Vote Maples 2026",
+              "url": "https://votemaples.com/issues/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Jon Maples - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Jon_Maples",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His solutions include jailing and prosecuting violent criminals, enhancing penalties for organized criminal enterprises and giving first responders resources.",
+          "quote": "Jail and prosecute violent criminals",
+          "sources": [
+            {
+              "title": "Issues - Vote Maples 2026",
+              "url": "https://votemaples.com/issues/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Jon Maples - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Jon_Maples",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He calls for infrastructure planning that keeps pace with growth and responsible development that pays its own way.",
+          "quote": "Responsible development that pays its own way",
+          "sources": [
+            {
+              "title": "Issues - Vote Maples 2026",
+              "url": "https://votemaples.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His issues page lists protections for local waterways and public resources.",
+          "quote": "Protections for local waterways and public resources",
+          "sources": [
+            {
+              "title": "Issues - Vote Maples 2026",
+              "url": "https://votemaples.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Property taxes and insurance",
+          "summary": "He names rising property taxes, property insurance premiums and inflation as the main pressures on households but does not state a specific property-tax or insurance proposal.",
+          "sources": [
+            {
+              "title": "Vote Maples 2026 - campaign site home page",
+              "url": "https://votemaples.com",
+              "date": "2026-09"
+            },
+            {
+              "title": "Jon Maples - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Jon_Maples",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -57,9 +155,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.emilygregoryforflorida.com/",
-      "occupation": null,
+      "occupation": "Owner of FIT4MOM Palm Beach (fitness business); public health professional; state representative since March 2026",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Emily Gregory grew up in Stuart, earned a degree in health and exercise science from Wake Forest University and a master's in health policy from Columbia University, and worked in public health roles before founding FIT4MOM Palm Beach, a fitness community for mothers, in Jupiter. A military spouse and mother of three, she won the March 24, 2026 special election for District 87 and is seeking a full term.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,9 +167,95 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
-      "record": [],
+      "positions": {
+        "property_tax": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted no on HJR 1-F (June 2, 2026); in her filed vote explanation she said cutting local revenue would gut county and city services and she would support home rule.",
+          "quote": "By gutting our counties and cities, we will pay more for lower quality services.",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her issues page says she will take on insurers that raise rates and deny claims, push for accountability and transparency, and expand affordable state-backed insurance options.",
+          "quote": "expanding affordable, state-backed insurance options",
+          "sources": [
+            {
+              "title": "Issues - Emily Gregory for State House",
+              "url": "https://www.emilygregoryforflorida.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Her issues page says taxpayer dollars should stay in public schools rather than be diverted to unaccountable programs; a May 2026 profile says she opposes the universal voucher program over lack of oversight.",
+          "quote": "taxpayer dollars should stay in public schools and be used to support students, teachers, and classrooms, not diverted to unaccountable programs",
+          "sources": [
+            {
+              "title": "Issues - Emily Gregory for State House",
+              "url": "https://www.emilygregoryforflorida.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "Emily Gregory: A Community-First Voice Transforming Florida's Legislature - The Hype Magazine",
+              "url": "https://www.thehypemagazine.com/2026/05/26/emily-gregory-a-community-first-voice-transforming-floridas-legislature/",
+              "date": "2026-05-26"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She told NPR that voters raised losing coverage under Affordable Care Act plans as a top concern alongside property insurance and public schools.",
+          "quote": "People are having trouble keeping their health care if they had an ACA tax plan.",
+          "sources": [
+            {
+              "title": "Dem Emily Gregory on flipping Florida House seat that includes Trump's Mar-a-Lago - NPR",
+              "url": "https://www.npr.org/2026/03/26/nx-s1-5760907/dem-emily-gregory-on-flipping-florida-house-seat-that-includes-trumps-mar-a-lago",
+              "date": "2026-03-26"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Teacher pay and public schools",
+          "summary": "She says Florida's teacher pay is among the lowest in the nation and wants to fully fund neighborhood schools and raise teacher pay.",
+          "sources": [
+            {
+              "title": "Newly-elected state Rep. Emily Gregory sworn in after flipping Florida House District 87 - WFLX",
+              "url": "https://www.wflx.com/2026/04/08/newly-elected-state-rep-emily-gregory-sworn-after-flipping-florida-house-district-87/",
+              "date": "2026-04-08"
+            },
+            {
+              "title": "Issues - Emily Gregory for State House",
+              "url": "https://www.emilygregoryforflorida.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted no on HJR 1-F (2026 special session) with a written explanation opposing cuts to local revenue.",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {

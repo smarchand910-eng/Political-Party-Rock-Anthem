@@ -22,7 +22,8 @@ for rid, cands in spec.items():
         out = {}; cur = byid[cid]
         if sp.get('website') and not cur.get('website'): out['website'] = sp['website']
         if sp.get('occupation') and not cur.get('occupation'): out['occupation'] = sp['occupation']
-        if sp.get('background') and len(cur.get('background') or '') < 80 and len(str(sp['background'])) > 40: out['background'] = sp['background']
+        curbg = cur.get('background') or ''
+        if sp.get('background') and (len(curbg) < 80 or 'Not yet researched' in curbg) and len(str(sp['background'])) > 40: out['background'] = sp['background']
         pos = {}
         for iid, v in (sp.get('positions') or {}).items():
             if iid not in issues: problems.append(f'{rid}/{cid}: unknown issue {iid}'); continue

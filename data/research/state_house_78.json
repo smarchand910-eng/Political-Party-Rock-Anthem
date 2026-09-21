@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 78 (Part of Lee) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -25,10 +25,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.votesusanfrantz.com/",
+      "occupation": "Founder and CEO of Frantz Marketing Solutions",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Susan Frantz was raised in Lee County and founded Frantz Marketing Solutions, a Fort Myers marketing and public-affairs firm she has run for more than 15 years. She serves on the boards of Our Mother's Home, cancer-support organizations and SWFL Inc., and on an advisory board at FGCU's business college. She entered the race in May 2026 after the incumbent was appointed Lee County Supervisor of Elections.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,10 +38,125 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her campaign site lists cutting taxes and eliminating waste and fraud, and promoting limited government, among her positions.",
+          "quote": "Cut Taxes, Eliminate Waste and Fraud",
+          "sources": [
+            {
+              "title": "Susan Frantz For State Representative, District 78 (About / Where Susan Stands)",
+              "url": "https://www.votesusanfrantz.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her site lists securing the border and ending illegal immigration as one of her positions.",
+          "quote": "Secure the Border and End Illegal Immigration",
+          "sources": [
+            {
+              "title": "Susan Frantz For State Representative, District 78 (About / Where Susan Stands)",
+              "url": "https://www.votesusanfrantz.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her site lists stopping overdevelopment as a position and says she has seen overdevelopment threaten the character of Lee County.",
+          "quote": "Stop Overdevelopment, Preserve Lee's Way of Life",
+          "sources": [
+            {
+              "title": "Susan Frantz For State Representative, District 78 (About / Where Susan Stands)",
+              "url": "https://www.votesusanfrantz.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site lists backing law enforcement, and she said keeping families and neighborhoods safe will be a top priority in Tallahassee.",
+          "quote": "Keeping our families and neighborhoods safe will always be a top priority for me in Tallahassee.",
+          "sources": [
+            {
+              "title": "Susan Frantz For State Representative, District 78 (About / Where Susan Stands)",
+              "url": "https://www.votesusanfrantz.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "State Attorney Amira Fox endorses Susan Frantz in Florida House District 78 race - Florida's Voice",
+              "url": "https://flvoicenews.com/state-attorney-amira-fox-endorses-susan-frantz-in-florida-house-district-78-race/",
+              "date": "2026-06-10"
+            }
+          ]
+        },
+        "trump": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her site describes her as an America First conservative who will work alongside President Trump and Governor DeSantis to keep Florida moving in the right direction.",
+          "quote": "She'll work alongside President Trump and Governor DeSantis to keep Florida moving in the right direction",
+          "sources": [
+            {
+              "title": "Susan Frantz For State Representative, District 78 (About / Where Susan Stands)",
+              "url": "https://www.votesusanfrantz.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Insurance and affordability",
+          "summary": "Her site lists fixing Florida's insurance crisis and championing affordability, without saying which reforms she favors.",
+          "sources": [
+            {
+              "title": "Susan Frantz For State Representative, District 78 (About / Where Susan Stands)",
+              "url": "https://www.votesusanfrantz.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Schools",
+          "summary": "She said she is running to keep extremist ideas out of classrooms and lists empowering parents and protecting children as a position.",
+          "sources": [
+            {
+              "title": "Fort Myers woman bids for state rep after DeSantis taps elections chair - News-Press via Yahoo",
+              "url": "https://www.yahoo.com/news/articles/fort-myers-woman-bids-state-152840904.html",
+              "date": "2026-05-21"
+            },
+            {
+              "title": "Susan Frantz For State Representative, District 78 (About / Where Susan Stands)",
+              "url": "https://www.votesusanfrantz.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "Lee County Sheriff Carmine Marceno; State Attorney Amira Fox; Rep. Tiffany Esposito; Sen. Jonathan Martin; Royal Palm Coast Realtor Association",
+          "sources": [
+            {
+              "title": "Susan Frantz For State Representative, District 78 (About / Where Susan Stands)",
+              "url": "https://www.votesusanfrantz.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "State Attorney Amira Fox endorses Susan Frantz in Florida House District 78 race - Florida's Voice",
+              "url": "https://flvoicenews.com/state-attorney-amira-fox-endorses-susan-frantz-in-florida-house-district-78-race/",
+              "date": "2026-06-10"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "cindy_banyai",
@@ -51,9 +166,9 @@
       "photo_url": "assets/photos/cindy_banyai.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.noshitflorida.com/",
-      "occupation": null,
+      "occupation": "Teacher, small business owner and nonprofit leader; Ph.D. in community development",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Cindy Banyai holds a master's and Ph.D. from Ritsumeikan Asia Pacific University in Japan and has worked for about 20 years in community development, evaluation and nonprofit leadership in Southwest Florida and abroad. She teaches college courses, runs a consulting business, and was the Democratic nominee for Congress in Florida's 19th District in 2020 and 2022. She lives in Fort Myers with her three children.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -63,8 +178,164 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her Fair & Free Florida plan calls for a 5 percent annual cap on rent increases and full funding of the Sadowski affordable-housing trust fund.",
+          "quote": "5% annual rental increase cap",
+          "sources": [
+            {
+              "title": "BOLD ACTION - Fair & Free Florida plan - Cindy Banyai campaign site",
+              "url": "https://www.noshitflorida.com/blank-1",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her plan lists Medicaid expansion.",
+          "quote": "Medicaid expansion",
+          "sources": [
+            {
+              "title": "BOLD ACTION - Fair & Free Florida plan - Cindy Banyai campaign site",
+              "url": "https://www.noshitflorida.com/blank-1",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Her plan calls for ending private and religious school vouchers and moving scholarship administration into the state education department.",
+          "quote": "End private/religious school vouchers, bring step-up scholarship administration into Florida department of education",
+          "sources": [
+            {
+              "title": "BOLD ACTION - Fair & Free Florida plan - Cindy Banyai campaign site",
+              "url": "https://www.noshitflorida.com/blank-1",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her plan calls for state insurance for disasters, citing the Jolly plan.",
+          "quote": "State insurance for disasters (Jolly plan)",
+          "sources": [
+            {
+              "title": "BOLD ACTION - Fair & Free Florida plan - Cindy Banyai campaign site",
+              "url": "https://www.noshitflorida.com/blank-1",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Her plan calls for ending mandatory 287(g) agreements between local police and federal immigration authorities and for public oversight of migrant detention facilities.",
+          "quote": "End mandatory 287g agreements - public accounting of state and local costs of federal operations",
+          "sources": [
+            {
+              "title": "BOLD ACTION - Fair & Free Florida plan - Cindy Banyai campaign site",
+              "url": "https://www.noshitflorida.com/blank-1",
+              "date": "2026-09"
+            },
+            {
+              "title": "Cindy Banyai for Florida House 78 - campaign site home page",
+              "url": "https://www.noshitflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Her plan calls for ending the classroom-instruction law she refers to as 'don't say gay' and repealing the Stop WOKE Act.",
+          "quote": "Equality in public expression - end don't say gay",
+          "sources": [
+            {
+              "title": "BOLD ACTION - Fair & Free Florida plan - Cindy Banyai campaign site",
+              "url": "https://www.noshitflorida.com/blank-1",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her plan proposes a state fund to help local governments fix water pollution and mandatory prosecution and higher penalties for polluters; she says she takes no developer money.",
+          "quote": "Mandate prosecutions for polluters - increase penalties for violators, hold legacy polluters accountable",
+          "sources": [
+            {
+              "title": "BOLD ACTION - Fair & Free Florida plan - Cindy Banyai campaign site",
+              "url": "https://www.noshitflorida.com/blank-1",
+              "date": "2026-09"
+            },
+            {
+              "title": "Cindy Banyai for Florida House 78 - campaign site home page",
+              "url": "https://www.noshitflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her campaign home page lists 'body autonomy' among the freedoms she says have been rolled back; she does not spell out a position on the six-week law.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Cindy Banyai for Florida House 78 - campaign site home page",
+              "url": "https://www.noshitflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Her plan would repeal the 2021 protest law (HB 1) and bar police tracking of protesters, and she has called for the Fort Myers police chief to resign over misconduct allegations.",
+          "quote": "Safe public assembly - repeal HB1, make hitting protesters with car illegal, make police tracking of protesters illegal",
+          "sources": [
+            {
+              "title": "BOLD ACTION - Fair & Free Florida plan - Cindy Banyai campaign site",
+              "url": "https://www.noshitflorida.com/blank-1",
+              "date": "2026-09"
+            },
+            {
+              "title": "Cindy Banyai for Florida House 78 - campaign site home page",
+              "url": "https://www.noshitflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Wages and taxes",
+          "summary": "Her plan calls for a $22 minimum wage with annual cost-of-living increases, a summer sales-tax waiver for residents, universal all-day pre-K and child-care vouchers for working families.",
+          "sources": [
+            {
+              "title": "BOLD ACTION - Fair & Free Florida plan - Cindy Banyai campaign site",
+              "url": "https://www.noshitflorida.com/blank-1",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Ethics and home rule",
+          "summary": "Her plan centers on ending 'pay to play' contracting, restoring home rule, restoring citizen ballot initiatives and creating an elected ethics board.",
+          "sources": [
+            {
+              "title": "BOLD ACTION - Fair & Free Florida plan - Cindy Banyai campaign site",
+              "url": "https://www.noshitflorida.com/blank-1",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

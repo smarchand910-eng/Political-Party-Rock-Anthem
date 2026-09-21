@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 88 (Part of Palm Beach) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/william_joseph.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://votewilliamjoseph.com",
-      "occupation": null,
+      "occupation": "Business owner; licensed private investigator and fugitive recovery agent",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "William Joseph, 55, has lived in the district for more than 30 years, owns and has operated several local businesses, and is licensed as a professional investigator and fugitive agent. He has served on three boards in Lake Worth Beach and is married with three children.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,7 +38,145 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His site lists eliminating property taxes among his goals.",
+          "quote": "lower your taxes and Eliminate property taxes",
+          "sources": [
+            {
+              "title": "My Vision - Vote William Joseph",
+              "url": "https://votewilliamjoseph.com/my-vision",
+              "date": "2026-09"
+            },
+            {
+              "title": "Vote William Joseph - campaign site home page",
+              "url": "https://votewilliamjoseph.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His site says he will lower taxes and collaborate with the conservative legislature.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "My Vision - Vote William Joseph",
+              "url": "https://votewilliamjoseph.com/my-vision",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His site lists preventing illegal immigration among his priorities.",
+          "quote": "Preventing illegal immigration",
+          "sources": [
+            {
+              "title": "Vote William Joseph - campaign site home page",
+              "url": "https://votewilliamjoseph.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He prioritizes workforce housing and making housing more affordable, particularly for first-time homebuyers.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote William Joseph - campaign site home page",
+              "url": "https://votewilliamjoseph.com",
+              "date": "2026-09"
+            },
+            {
+              "title": "William Joseph (Florida) - Ballotpedia (2025 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/William_Joseph_(Florida)",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His vision page backs an eco-friendly district with clean energy, electric transportation, sustainable building and public transit.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "My Vision - Vote William Joseph",
+              "url": "https://votewilliamjoseph.com/my-vision",
+              "date": "2026-09"
+            },
+            {
+              "title": "Vote William Joseph - campaign site home page",
+              "url": "https://votewilliamjoseph.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His site lists access to education and choices.",
+          "quote": "Access to education and choices",
+          "sources": [
+            {
+              "title": "Vote William Joseph - campaign site home page",
+              "url": "https://votewilliamjoseph.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His site lists supporting veterans and families.",
+          "quote": "Supporting veterans and families",
+          "sources": [
+            {
+              "title": "Vote William Joseph - campaign site home page",
+              "url": "https://votewilliamjoseph.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His site backs environmental protection initiatives, recycling and public transit.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote William Joseph - campaign site home page",
+              "url": "https://votewilliamjoseph.com",
+              "date": "2026-09"
+            },
+            {
+              "title": "My Vision - Vote William Joseph",
+              "url": "https://votewilliamjoseph.com/my-vision",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "He lists empowering law enforcement and first responders, and separately proposes a mobile response unit of social and emergency medical workers.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote William Joseph - campaign site home page",
+              "url": "https://votewilliamjoseph.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],
@@ -53,13 +191,13 @@
       "id": "jervonte_edmonds",
       "name": "Jervonte Edmonds",
       "party": "Democratic",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": "assets/photos/jervonte_edmonds.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
-      "occupation": null,
+      "occupation": "CEO and founder of Suits for Seniors (nonprofit); realtor; state representative since 2022",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Jervonte 'Tae' Edmonds earned a political science degree from Florida Atlantic University, founded the nonprofit Suits for Seniors and works as a realtor. He won a March 2022 special election for District 88 and has been re-elected since; he is the Democratic ranking member on a House health subcommittee and lives in West Palm Beach.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,9 +207,103 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted no on SB 300 (2023), which limited most abortions to six weeks of pregnancy, on April 13, 2023.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 300 (Heartbeat Protection Act, six-week abortion limit) passage (Yeas 70, Nays 40)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted no on HB 543 (2023), which allowed carrying a concealed firearm without a state permit, on March 24, 2023.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 543 (permitless concealed carry) passage, third reading (Yeas 76, Nays 32)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted no on HB 1 (2023), which made every K-12 student eligible for a state scholarship usable at private schools or for home education, on March 17, 2023.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (school choice) passage, third reading (Yeas 83, Nays 27)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "He sponsored HB 253 (2026), which expands the Veterans Dental Care Grant Program for veterans not eligible for VA dental benefits; the House passed it 116-0 in March 2026.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "In rare 116-0 vote, Florida House unanimously passes bill sponsored by WPB Democrat - CBS12",
+              "url": "https://cbs12.com/news/local/florida-politics-house-bill-253-in-rare-1160-vote-florida-house-unanimously-passes-bill-sponsored-by-west-palm-beach-democrat-rep-jervonte-tae-edmonds-veterans-dental-care-grant-program-va-dental-benefits-veterans-affairs",
+              "date": "2026-03-06"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted no on HB 1 (2023), SB 300 (2023) and HB 543 (2023). Recorded as not voting on HJR 1-F (2026), HJR 203 (2026) and SB 2-C (2025). Sponsored HB 253 (2026, veterans dental care).",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (school choice) passage, third reading (Yeas 83, Nays 27)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            },
+            {
+              "title": "Florida House roll call, SB 300 (Heartbeat Protection Act, six-week abortion limit) passage (Yeas 70, Nays 40)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            },
+            {
+              "title": "Florida House roll call, CS/HB 543 (permitless concealed carry) passage, third reading (Yeas 76, Nays 32)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            },
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House floor vote, CS/CS/HJR 203 (Elimination of Non-school Property Tax for Homesteads), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=24474&BillId=82728",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Florida House floor vote, SB 2-C (Immigration), 2025 Special Session C, third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111&",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "In rare 116-0 vote, Florida House unanimously passes bill sponsored by WPB Democrat - CBS12",
+              "url": "https://cbs12.com/news/local/florida-politics-house-bill-253-in-rare-1160-vote-florida-house-unanimously-passes-bill-sponsored-by-west-palm-beach-democrat-rep-jervonte-tae-edmonds-veterans-dental-care-grant-program-va-dental-benefits-veterans-affairs",
+              "date": "2026-03-06"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {

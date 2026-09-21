@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 81 (Part of Collier) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/yvette_benarroch.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.yvetteforflorida.com/",
-      "occupation": null,
+      "occupation": "Co-owner of a landscaping business; licensed realtor; U.S. Air Force veteran; state representative since 2024",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Yvette Benarroch was born in Puerto Rico, served in the U.S. Air Force during Operation Desert Shield/Desert Storm and moved to Florida more than 20 years ago. She co-owns Affordable Landscaping Service & Design in the Naples and Marco Island area, holds a real estate license, and has a bachelor's degree from the Inter-American University of Puerto Rico and a master's from Southern New Hampshire University. She chaired the Collier County chapter of Moms for Liberty, served as vice chair of the Collier County GOP, and was elected to the House in 2024.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,10 +38,195 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "immigration": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her issues page says she will fight to stop illegal immigration in Florida and put Floridians first, and she voted yes on SB 2-C (Feb. 13, 2025), the state immigration-enforcement law.",
+          "quote": "stop illegal immigration in Florida",
+          "sources": [
+            {
+              "title": "Issues - Yvette for Florida",
+              "url": "https://www.yvetteforflorida.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "Florida House floor vote, SB 2-C (Immigration), 2025 Special Session C, third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111&",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Her issues page says she is 100 percent pro-Second Amendment.",
+          "quote": "100% pro-Second Amendment",
+          "sources": [
+            {
+              "title": "Issues - Yvette for Florida",
+              "url": "https://www.yvetteforflorida.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Her issues page says she will protect the sanctity of life; she cosponsored a fetal-personhood bill (H 289) in October 2025 and posted support for the six-week law when it passed in 2023.",
+          "quote": "Florida expanded the rights of the unborn with the passage of SB 300...This bill will protect unborn babies by restricting abortions after 6 weeks.",
+          "sources": [
+            {
+              "title": "Issues - Yvette for Florida",
+              "url": "https://www.yvetteforflorida.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "Yvette Benarroch - Florida Choice Tracker",
+              "url": "https://choicetracker.org/fl/people/yvette-benarroch/290652160",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Her issues page backs mandatory voter ID and making all election crimes felonies, and praises recent election-security reforms.",
+          "quote": "mandatory voter ID and making all election crimes a felony",
+          "sources": [
+            {
+              "title": "Issues - Yvette for Florida",
+              "url": "https://www.yvetteforflorida.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her issues page opposes high taxes and red tape, and her 2024 survey emphasizes cutting regulations that burden businesses and homeowners.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Issues - Yvette for Florida",
+              "url": "https://www.yvetteforflorida.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "Yvette Benarroch - Ballotpedia (2024 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Yvette_Benarroch",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Her issues page says she fought to lower premiums and curb frivolous litigation; her 2024 survey calls for insurance reforms that encourage competition to reduce premiums.",
+          "quote": "Homeowners insurance is a critical concern, requiring reforms that encourage competition and reduce the burden of high premiums.",
+          "sources": [
+            {
+              "title": "Issues - Yvette for Florida",
+              "url": "https://www.yvetteforflorida.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "Yvette Benarroch - Ballotpedia (2024 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Yvette_Benarroch",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In her 2024 survey she said access to affordable health care and education should involve reducing government intervention and increasing choice.",
+          "quote": "Ensuring access to affordable healthcare and education should involve reducing government intervention and increasing choice.",
+          "sources": [
+            {
+              "title": "Yvette Benarroch - Ballotpedia (2024 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Yvette_Benarroch",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site says she fights to keep what it calls radical-left ideology and 'wokeism' out of schools and supports parents' right to raise children by their own values; she led the county Moms for Liberty chapter.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Issues - Yvette for Florida",
+              "url": "https://www.yvetteforflorida.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "Yvette for Florida - campaign site home page",
+              "url": "https://www.yvetteforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HJR 1-F (June 2, 2026 special session), which put a $250,000 non-school homestead exemption on the November 2026 ballot, and yes on HJR 203 (Feb. 19, 2026), which would have phased out non-school homestead property taxes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House floor vote, CS/CS/HJR 203 (Elimination of Non-school Property Tax for Homesteads), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=24474&BillId=82728",
+              "date": "2026-02-19"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
-      "endorsements": [],
+      "record": [
+        {
+          "item": "Voted yes on HJR 1-F (2026 special session), HJR 203 (2026) and SB 2-C (2025). Cosponsored H 289 (fetal personhood) in 2025.",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House floor vote, CS/CS/HJR 203 (Elimination of Non-school Property Tax for Homesteads), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=24474&BillId=82728",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Florida House floor vote, SB 2-C (Immigration), 2025 Special Session C, third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111&",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "Yvette Benarroch - Florida Choice Tracker",
+              "url": "https://choicetracker.org/fl/people/yvette-benarroch/290652160",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Florida Right to Life (2024 primary)",
+          "sources": [
+            {
+              "title": "Yvette Benarroch - Florida Choice Tracker",
+              "url": "https://choicetracker.org/fl/people/yvette-benarroch/290652160",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -56,10 +241,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.kimfinerforflorida.com/",
+      "occupation": "Retired professor of biological sciences (Kent State University); microbiologist",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Kim Finer earned a Ph.D. in veterinary microbiology from Texas A&M University and spent most of a 35-year career as a professor of biological sciences at Kent State University. She bought a home in Florida in 2012 and is president of the Friends of Delnor-Wiggins Pass State Park; she is a member of the Conservancy of Southwest Florida and the League of Women Voters. This is her first run for office.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,8 +254,155 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her Ballotpedia survey calls for promoting mail-in voting, simplifying registration, expanding early voting and making Election Day a state holiday; her site criticizes HB 991 as creating barriers for elderly, married women, students and low-income voters.",
+          "quote": "promote mail-in voting, simplify voter registration, expand early voting, and declare Election Day a state holiday",
+          "sources": [
+            {
+              "title": "Kim Finer - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Kim_Finer",
+              "date": "2026-09"
+            },
+            {
+              "title": "'Bad Bills' Board - Kim Finer for Florida",
+              "url": "https://www.kimfinerforflorida.com/badbillsboard",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She proposes reorganizing the expanded voucher program with revised accounting to recover lost funds and verify student status, and says nothing is being done to ensure voucher dollars are used as intended.",
+          "quote": "Reorganize the expanded school voucher program: revise accounting methods to recover lost funds, and identify student status",
+          "sources": [
+            {
+              "title": "Kim Finer - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Kim_Finer",
+              "date": "2026-09"
+            },
+            {
+              "title": "About - Kim Finer for Florida",
+              "url": "https://www.kimfinerforflorida.com/about",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her survey says she wants to ease access to health care with a focus on reducing costs and expanding available procedures and medications.",
+          "quote": "Ease access to health care — with a focus on reducing costs and expanding available procedures and medications",
+          "sources": [
+            {
+              "title": "Kim Finer - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Kim_Finer",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She proposes targeted legislation to reduce homeowners insurance costs and says current costs are still rising with no workable solutions.",
+          "quote": "Rethink homeowner's insurance through targeted legislation to reduce costs",
+          "sources": [
+            {
+              "title": "Kim Finer - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Kim_Finer",
+              "date": "2026-09"
+            },
+            {
+              "title": "About - Kim Finer for Florida",
+              "url": "https://www.kimfinerforflorida.com/about",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She wants to return local control over taxes, comprehensive plans, rent restrictions and zoning, stop laws that favor developers over local governments, and names overdevelopment as a top concern.",
+          "quote": "Stop passing legislation that advantages developers over locally elected governments and the communities they represent",
+          "sources": [
+            {
+              "title": "Kim Finer - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Kim_Finer",
+              "date": "2026-09"
+            },
+            {
+              "title": "About - Kim Finer for Florida",
+              "url": "https://www.kimfinerforflorida.com/about",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She lists coastal resiliency, ecosystem destruction, waterway pollution and overdevelopment as her policy passions and calls water quality and quantity the state's greatest challenge.",
+          "quote": "Water; quality/quantity. Development impacts the water and climate change impacts the weather, water, and our resiliency.",
+          "sources": [
+            {
+              "title": "Kim Finer - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Kim_Finer",
+              "date": "2026-09"
+            },
+            {
+              "title": "About - Kim Finer for Florida",
+              "url": "https://www.kimfinerforflorida.com/about",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her 'Bad Bills' page opposes HB 1217, which limits local climate and net-zero policies, and says Florida is uniquely suited to capture renewable energy.",
+          "quote": "Given the state's topography, geology, and abundant sunshine, we are uniquely suited to capture renewable energy options. This bill goes against our best interests.",
+          "sources": [
+            {
+              "title": "'Bad Bills' Board - Kim Finer for Florida",
+              "url": "https://www.kimfinerforflorida.com/badbillsboard",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She wants local governments to regain authority over rent restrictions and zoning as part of affordability.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Kim Finer - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Kim_Finer",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Books and DEI",
+          "summary": "Her survey calls for abolishing book bans and letting trained educators set curriculum; her site opposes HB 1001, which bans local DEI activities including Pride events, and SB 1296 on public-employee unions.",
+          "sources": [
+            {
+              "title": "Kim Finer - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Kim_Finer",
+              "date": "2026-09"
+            },
+            {
+              "title": "'Bad Bills' Board - Kim Finer for Florida",
+              "url": "https://www.kimfinerforflorida.com/badbillsboard",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }
