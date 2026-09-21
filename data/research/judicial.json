@@ -48,7 +48,7 @@
         "https://www.floridabar.org/public/faircts/votes010/",
         "https://floridaphoenix.com/briefs/fl-bar-members-give-high-marks-to-carlos-muniz-other-appeals-judges-up-for-merit-retention/"
       ],
-      "photo_url": "https://supremecourt.flcourts.gov/content/download/1146/file/Muniz.jpg",
+      "photo_url": "assets/photos/carlos_muniz.jpg",
       "photo_note": "UNVERIFIED URL; the official portrait is on the justice's page at https://supremecourt.flcourts.gov/Justices/Justice-Carlos-G.-Muniz",
       "sources": [
         "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
@@ -61,7 +61,8 @@
         "https://thefloridachannel.org/videos/on-the-ballot-florida-supreme-court-justice-carlos-muniz/",
         "https://www.sparkers-soapbox.com/florida-supreme-court-merit-retention-2026-general/"
       ],
-      "confirmation_status": "On the Nov. 3, 2026 Sumter County ballot (verified on the official sample ballot and The Florida Bar's 2026 merit-retention list)"
+      "confirmation_status": "On the Nov. 3, 2026 Sumter County ballot (verified on the official sample ballot and The Florida Bar's 2026 merit-retention list)",
+      "photo_source": "Ballotpedia photo of Justice Carlos Muñiz (downloaded copy in assets/photos)"
     },
     {
       "name": "John M. Harris",
