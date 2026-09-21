@@ -175,7 +175,7 @@
     {
       "id": "gracie_kearse_mccastler",
       "name": "Gracie Kearse-McCastler",
-      "party": "Nonpartisan",
+      "party": "Write-in",
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
@@ -190,6 +190,11 @@
           "title": "Florida Division of Elections, 2026 general election candidate list",
           "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
           "date": "2026-09-18"
+        },
+        {
+          "title": "Florida Division of Elections candidate list (Write-In status)",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-09-21"
         }
       ],
       "positions": {

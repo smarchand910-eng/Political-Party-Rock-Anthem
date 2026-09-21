@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -25,10 +25,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://marielocklinforschoolboard.com/",
+      "occupation": "Retired teacher, Santa Rosa County District Schools",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Locklin recently retired after 39 years as an educator in the Santa Rosa County School District, spending most of her career at Gulf Breeze Elementary School after beginning at an international school in Venezuela. Her family has worked in local education across several generations. She advanced from the August 2026 primary to the Nov. 3 general election for the District 5 seat.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,7 +38,34 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Locklin says she would take a conservative financial approach and make sure taxpayer dollars are used efficiently to support the classroom. She has not called for cutting taxes or named services she would reduce.",
+          "quote": "a conservative financial approach, ensuring taxpayer dollars are used efficiently to support the classroom",
+          "sources": [
+            {
+              "title": "Marie Locklin for School Board - About",
+              "url": "https://marielocklinforschoolboard.com/about",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Locklin lists retaining educators, including through better working conditions and pay, among her campaign priorities, but has not proposed a specific raise or named spending she would cut to fund one.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Marie Locklin for School Board - About",
+              "url": "https://marielocklinforschoolboard.com/about",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []
@@ -50,10 +77,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.jillbroxsontestonforschoolboard.com/",
+      "occupation": "Realtor",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Jill Broxson-Teston is a real estate agent with Avenue Realty's Country Club Group who previously worked in medical sales and insurance. A fifth-generation Santa Rosa County resident and mother of four children in the public schools, she holds a degree from Evangel University. She advanced from the August 2026 primary to the Nov. 3 general election for the District 5 seat.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -63,8 +90,52 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Teston lists fiscal accountability as a priority, describing responsible budgeting for taxpayers, managing resources effectively and opposing unnecessary spending. She has not called for cutting taxes or named services she would reduce.",
+          "quote": "Facilitating responsible budgeting for taxpayers, managing resources effectively, and opposing unnecessary spending",
+          "sources": [
+            {
+              "title": "Jill Broxson Teston for School Board - campaign site",
+              "url": "https://www.jillbroxsontestonforschoolboard.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "School Board Candidate Jill Broxson-Teston Aims to Build on Family Legacy of Public Service",
+              "url": "https://ssrnews.com/school-board-candidate-jill-broxson-teston-aims-to-build-on-family-legacy-of-public-service/",
+              "date": "2026"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Teston's stated safety priority is implementing modern security technology to protect students and teachers, along with addressing facility needs. She did not frame safety as a choice between police and discipline on one side and counselors and mental-health staff on the other.",
+          "quote": "Implementing highly effective, modern security technology to keep our kids and teachers safe",
+          "sources": [
+            {
+              "title": "Jill Broxson Teston for School Board - campaign site",
+              "url": "https://www.jillbroxsontestonforschoolboard.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Parent perspective on the board",
+          "summary": "Teston argues the board needs a member with children currently in the district's schools, and has called for greater transparency in curriculum and school policies and an open-door communication policy with educators.",
+          "sources": [
+            {
+              "title": "School Board Candidate Jill Broxson-Teston Aims to Build on Family Legacy of Public Service",
+              "url": "https://ssrnews.com/school-board-candidate-jill-broxson-teston-aims-to-build-on-family-legacy-of-public-service/",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

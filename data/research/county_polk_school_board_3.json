@@ -9,7 +9,7 @@
     "id": "Polk"
   },
   "what_it_does": "School board members set the district budget and school millage, hire and evaluate the superintendent, approve curriculum materials, and set district policy.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Runoff per LkldNow (https://www.lkldnow.com/school-board-elections-district-3-heads-to-run-off-fields-and-sharpless-cruise-to-victory/) and The Ledger/Yahoo. Nonpartisan.",
   "candidates": [
     {
@@ -20,7 +20,7 @@
       "photo_url": "assets/photos/kate_wallace.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://kateforkids.com",
-      "occupation": null,
+      "occupation": "Director of state government affairs, Charter Communications (Spectrum)",
       "residence": null,
       "background": "Appointed by Gov. Ron DeSantis in November 2025 to fill the vacancy created by the death of board member Rick Nolte.",
       "primary_result": "Led Aug 18 primary with 45.1% (39,265); forced to runoff",
@@ -89,11 +89,22 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Wallace says she has been open about her support for robust school choice, and her campaign site says she worked in Tallahassee for statewide public school choice and for expanded scholarships for students with unique abilities, and helped bring IDEA Public Schools charter schools to Lakeland. She lists empowering parents with more quality options among her top three priorities.",
+          "quote": "support for robust school choice",
+          "sources": [
+            {
+              "title": "Kate Wallace for Polk County School Board - campaign site",
+              "url": "https://kateforkids.com",
+              "date": "2026-09"
+            },
+            {
+              "title": "School Board, District 3 - LkldNow candidate questionnaire",
+              "url": "https://www.lkldnow.com/school-board-district-3/",
+              "date": "2026"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -171,11 +182,62 @@
           "summary": "No public position found as of Sept 2026.",
           "quote": null,
           "sources": []
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wallace says Polk County should increase and modernize teacher compensation to reward effectiveness rather than tenure, and pay more in the hardest schools and roles, moving away from outdated pay scales. She did not say pay should come ahead of other spending.",
+          "quote": "Polk County should increase and modernize compensation to reward effectiveness, not just tenure",
+          "sources": [
+            {
+              "title": "School Board, District 3 - LkldNow candidate questionnaire",
+              "url": "https://www.lkldnow.com/school-board-district-3/",
+              "date": "2026"
+            },
+            {
+              "title": "Meet the candidates for Polk County School Board District 3",
+              "url": "https://wusf.org/text/politics-issues/2026-07-28/meet-the-candidates-for-polk-county-school-board-district-3",
+              "date": "2026-07-28"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Reading instruction and screen time",
+          "summary": "Wallace says schools must commit fully to the science of reading and adopt only evidence-based, high-quality instructional materials, with intensive reading intervention. She also says screen time for the youngest learners should be little to none.",
+          "sources": [
+            {
+              "title": "School Board, District 3 - LkldNow candidate questionnaire",
+              "url": "https://www.lkldnow.com/school-board-district-3/",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Polk County Sheriff Grady Judd",
+          "sources": [
+            {
+              "title": "Kate Wallace for Polk County School Board - campaign site",
+              "url": "https://kateforkids.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Polk County Sheriff Grady Judd",
+          "sources": [
+            {
+              "title": "Kate Wallace for Polk County School Board - campaign site",
+              "url": "https://kateforkids.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Fields wins 7th Polk School Board term; Wallace, Sims head to a runoff",
@@ -201,9 +263,9 @@
       "photo_url": "assets/photos/victor_sims.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.simsforpolk.com/",
-      "occupation": null,
+      "occupation": "Senior program officer",
       "residence": null,
-      "background": "Advanced to the runoff as runner-up in the District 3 primary.",
+      "background": "Sims, 30, is a senior program officer whose career has been in child and family advocacy and social work. He is a former foster youth from Polk County who says he attended 12 schools, and he is the parent of a child with an individualized education plan. He holds degrees from Polk State College, the University of South Florida, Florida International University and Florida State University's law school, and finished second in the August 2026 District 3 primary.",
       "primary_result": "Second in Aug 18 primary with 35.8% (31,212)",
       "positions": {
         "taxes": {
@@ -352,9 +414,72 @@
           "summary": "No public position found as of Sept 2026.",
           "quote": null,
           "sources": []
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Sims says he would improve both teacher pay and working conditions, and has proposed generating savings, including through solar installations and fuller use of programs such as Step Up for Students, to reinvest in classrooms and staff. He did not say pay should come ahead of other spending.",
+          "quote": "improving both pay and working conditions",
+          "sources": [
+            {
+              "title": "Meet the candidates for Polk County School Board District 3",
+              "url": "https://wusf.org/text/politics-issues/2026-07-28/meet-the-candidates-for-polk-county-school-board-district-3",
+              "date": "2026-07-28"
+            },
+            {
+              "title": "School Board, District 3 - LkldNow candidate questionnaire",
+              "url": "https://www.lkldnow.com/school-board-district-3/",
+              "date": "2026"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Early literacy",
+          "summary": "Sims calls for strong early literacy instruction grounded in phonics, early screening, tutoring and other timely interventions, and engaging families early.",
+          "sources": [
+            {
+              "title": "Meet the candidates for Polk County School Board District 3",
+              "url": "https://wusf.org/text/politics-issues/2026-07-28/meet-the-candidates-for-polk-county-school-board-district-3",
+              "date": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "title": "School safety",
+          "summary": "Sims lists safety as one of four campaign priorities, describing himself as 'Dedicated to Safety,' but his campaign site does not set out specific safety or discipline proposals.",
+          "sources": [
+            {
+              "title": "Victor Sims for Polk County School Board - campaign site",
+              "url": "https://www.simsforpolk.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Early literacy",
+          "summary": "Sims calls for strong early literacy instruction grounded in phonics, early screening, tutoring and other timely interventions, and engaging families early.",
+          "sources": [
+            {
+              "title": "Meet the candidates for Polk County School Board District 3",
+              "url": "https://wusf.org/text/politics-issues/2026-07-28/meet-the-candidates-for-polk-county-school-board-district-3",
+              "date": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "title": "School safety",
+          "summary": "Sims lists safety as one of four campaign priorities, describing himself as 'Dedicated to Safety,' but his campaign site does not set out specific safety or discipline proposals.",
+          "sources": [
+            {
+              "title": "Victor Sims for Polk County School Board - campaign site",
+              "url": "https://www.simsforpolk.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [

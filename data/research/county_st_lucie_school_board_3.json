@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "St. Lucie County School Board member, District 3",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Mills is the sitting St. Lucie County School Board member for District 3, listed on the district's board roster as Dr. Donna Mills. Little campaign material for her 2026 race could be verified; her campaign presence is a Facebook page rather than a campaign website.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -46,14 +46,14 @@
     {
       "id": "ben_zagrobelny",
       "name": "Ben Zagrobelny",
-      "party": "Nonpartisan",
+      "party": "Write-in",
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
       "website": "https://zagforslc.com",
-      "occupation": null,
+      "occupation": "Security professional",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Zagrobelny describes a career that moved from entry-level work to board-certified international security leadership, and presents himself as a father rooted in St. Lucie County who did not take a traditional path into public life. He is a qualified write-in candidate in the District 3 race, so his name does not appear on the printed ballot.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -61,10 +61,74 @@
           "title": "Florida Division of Elections, 2026 general election candidate list",
           "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
           "date": "2026-09-18"
+        },
+        {
+          "title": "Florida Division of Elections candidate list (Write-In status)",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-09-21"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Zagrobelny calls for disciplined, line-by-line scrutiny of school spending and says every dollar matters, but has not called for cutting taxes or named services he would reduce.",
+          "quote": "disciplined, line-by-line scrutiny of school spending",
+          "sources": [
+            {
+              "title": "Zag for SLC - campaign site",
+              "url": "https://zagforslc.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Parental role in schools",
+          "summary": "Zagrobelny says parents should be treated as partners rather than obstacles and should remain informed, involved and empowered. He did not describe how he would handle an objection to a specific book or lesson.",
+          "sources": [
+            {
+              "title": "Zag for SLC - campaign site",
+              "url": "https://zagforslc.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Pathways after high school",
+          "summary": "Zagrobelny says the district should fund and support a range of pathways equally, including college, the trades, the arts and entrepreneurship.",
+          "sources": [
+            {
+              "title": "Zag for SLC - campaign site",
+              "url": "https://zagforslc.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Parental role in schools",
+          "summary": "Zagrobelny says parents should be treated as partners rather than obstacles and should remain informed, involved and empowered. He did not describe how he would handle an objection to a specific book or lesson.",
+          "sources": [
+            {
+              "title": "Zag for SLC - campaign site",
+              "url": "https://zagforslc.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Pathways after high school",
+          "summary": "Zagrobelny says the district should fund and support a range of pathways equally, including college, the trades, the arts and entrepreneurship.",
+          "sources": [
+            {
+              "title": "Zag for SLC - campaign site",
+              "url": "https://zagforslc.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

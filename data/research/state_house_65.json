@@ -190,13 +190,39 @@
         "marijuana": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Speaking with Suncoast NORML, he said Florida voters backed cannabis legalization while the state has not acted, and called for evidence-based cannabis policy including employment protections for medical patients.",
+          "summary": "In an interview with Suncoast NORML, Braver pointed out that Florida voters approved medical marijuana in 2016 and that a majority backed adult-use legalization in 2024, and argued lawmakers have not responded to those results. He also called for evidence-based employment protections so medical cannabis patients are not fired over tests that do not measure impairment.",
           "quote": "",
           "sources": [
             {
-              "title": "Ben Braver Jumps in The Rotation — and Now He's Headed to the General Election (Suncoast NORML)",
+              "title": "Ben Braver Jumps in The Rotation - and Now He's Headed to the General Election",
               "url": "https://www.suncoastnorml.org/post/ben-braver-jumps-in-the-rotation-and-now-he-s-headed-to-the-general-election",
-              "date": "2026-08-19"
+              "date": "2026-08"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Braver, a public-school teacher, said Florida should address teacher shortages, pay and classroom resources and should reduce spending on the voucher program.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Ben Braver Jumps in The Rotation - and Now He's Headed to the General Election",
+              "url": "https://www.suncoastnorml.org/post/ben-braver-jumps-in-the-rotation-and-now-he-s-headed-to-the-general-election",
+              "date": "2026-08"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Braver, who teaches science, says protecting Florida's water supply, wetlands and natural resources from unsustainable development is a priority, and has spoken against energy-intensive data centers.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Ben Braver Jumps in The Rotation - and Now He's Headed to the General Election",
+              "url": "https://www.suncoastnorml.org/post/ben-braver-jumps-in-the-rotation-and-now-he-s-headed-to-the-general-election",
+              "date": "2026-08"
             }
           ]
         }
@@ -221,6 +247,28 @@
               "title": "Ben Braver Jumps in The Rotation — and Now He's Headed to the General Election (Suncoast NORML)",
               "url": "https://www.suncoastnorml.org/post/ben-braver-jumps-in-the-rotation-and-now-he-s-headed-to-the-general-election",
               "date": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "title": "Workers' rights and government accountability",
+          "summary": "Braver says Florida lacks a state Department of Labor and ties cannabis employment protections to broader worker-protection gaps. He also argues corporate and donor influence in Tallahassee has pulled lawmakers away from what ordinary Floridians want.",
+          "sources": [
+            {
+              "title": "Ben Braver Jumps in The Rotation - and Now He's Headed to the General Election",
+              "url": "https://www.suncoastnorml.org/post/ben-braver-jumps-in-the-rotation-and-now-he-s-headed-to-the-general-election",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "title": "Housing and transit",
+          "summary": "A profile of his campaign describes him running on what it calls kitchen-table ideas aimed at monopolistic landlords and housing costs, and on addressing urban sprawl with public transit.",
+          "sources": [
+            {
+              "title": "Ben Braver's Bold Vision for Florida",
+              "url": "https://reclaimingmymind.org/ben-braver-florida-state-house-district-65/",
+              "date": "2026-06-30"
             }
           ]
         }

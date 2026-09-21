@@ -491,11 +491,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Fox, an infectious-disease physician, says Florida should expand Medicaid to cover the more than one million Floridians he says fall into the coverage gap, and calls for strengthening the health-care workforce and lowering costs for working families.",
+          "quote": "Florida must move to expand Medicaid and serve the more than one million Floridians who fall into the coverage gap",
+          "sources": [
+            {
+              "title": "The Priorities - Dr. Jarod Fox for State House",
+              "url": "https://foxforfl.com/priorities",
+              "date": "2026-09"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -512,11 +518,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Fox says he supports responsible growth that balances development against a healthy natural environment, protecting Florida's water resources and investing in resilient infrastructure.",
+          "quote": "responsible growth that balances the need for a healthy natural environment",
+          "sources": [
+            {
+              "title": "The Priorities - Dr. Jarod Fox for State House",
+              "url": "https://foxforfl.com/priorities",
+              "date": "2026-09"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -585,6 +597,17 @@
               "title": "Orlando Health physician joins race for House District 39 - The Apopka Chief",
               "url": "https://theapopkachief.com/orlando-health-physician-joins-race-for-house-district-39/",
               "date": "2026-04-08"
+            }
+          ]
+        },
+        {
+          "title": "Public schools and local control",
+          "summary": "Fox says every child deserves a high-quality public education regardless of ZIP code, and calls for supporting teachers and expanding career and technical education. He also says decisions should be returned to local leaders rather than one-size-fits-all mandates from Tallahassee.",
+          "sources": [
+            {
+              "title": "The Priorities - Dr. Jarod Fox for State House",
+              "url": "https://foxforfl.com/priorities",
+              "date": "2026-09"
             }
           ]
         }

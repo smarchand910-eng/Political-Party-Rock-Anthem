@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Voluntary Pre-Kindergarten teacher and early-childhood program director",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Bradley is a 2000 graduate of Jefferson County High School who has spent more than a decade in early childhood education as a VPK teacher and program director. She was one of three candidates for the nonpartisan District 2 seat on the Aug. 18, 2026 ballot. Her stated focus is putting students first and removing barriers she says hold the community back.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -39,7 +39,19 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Student opportunity and district growth",
+          "summary": "Bradley told WFSU she wants students to travel and see colleges outside the area before they graduate, and that the district should show growth alongside its improving school grades.",
+          "sources": [
+            {
+              "title": "Meet the candidates for Jefferson County's School Board District 2",
+              "url": "https://news.wfsu.org/wfsu-local-news/2026-08-05/meet-the-candidates-for-jefferson-countys-school-board-district-2",
+              "date": "2026-08-05"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     },
@@ -51,9 +63,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Substitute teacher, substitute coordinator and athletic safety coordinator, Jefferson County schools; retired law enforcement officer",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Burdick graduated from Jefferson County High School in 1981, served in the U.S. Navy and then spent a career in law enforcement before returning to Jefferson County. He now works with the school district as a substitute teacher, substitute coordinator and athletic safety coordinator. He was one of three candidates for the nonpartisan District 2 seat on the Aug. 18, 2026 ballot.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -64,7 +76,19 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Career and technical education",
+          "summary": "Burdick told WFSU the district offers no welding or cosmetology training and wants vocational planning to start in middle school, along with partnerships with colleges and instruction in basic life skills.",
+          "sources": [
+            {
+              "title": "Meet the candidates for Jefferson County's School Board District 2",
+              "url": "https://news.wfsu.org/wfsu-local-news/2026-08-05/meet-the-candidates-for-jefferson-countys-school-board-district-2",
+              "date": "2026-08-05"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

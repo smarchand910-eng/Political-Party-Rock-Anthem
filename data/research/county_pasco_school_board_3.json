@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -25,10 +25,10 @@
       "incumbent": false,
       "photo_url": "assets/photos/matt_geiger.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
-      "website": null,
-      "occupation": null,
+      "website": "https://www.mattgeiger.com",
+      "occupation": "Educator; teacher, counselor and school administrator",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Geiger has spent roughly 20 to 30 years in education as a teacher, counselor and administrator in public, private, charter and parochial schools, and more recently directed a soccer academy. He is a Pasco County parent and a candidate for the District 3 seat on the Nov. 3, 2026 ballot.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,103 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "teacher_pay": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Geiger makes increasing teacher salaries a top campaign priority and says he would pay for it by cutting central-office waste and directing more funding to classrooms and salaries. He has also proposed district-owned affordable teacher housing modeled on a Chicago program.",
+          "quote": "Cut central office waste",
+          "sources": [
+            {
+              "title": "Matt Geiger for Pasco County School Board - campaign site",
+              "url": "https://www.mattgeiger.com",
+              "date": "2026-09"
+            },
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Geiger said he supports Pasco County's local property-tax referendum for schools, while calling it an incomplete answer to teacher retention because teachers also feel undervalued over discipline and bureaucracy.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Geiger lists improving classroom behavior as a priority and says discipline should be restored so teachers can teach. He has proposed school safety officers who issue citations to students for chronic misbehavior. He has not proposed added counseling or mental-health staffing.",
+          "quote": "Restore discipline so teachers can teach and students can learn.",
+          "sources": [
+            {
+              "title": "Matt Geiger for Pasco County School Board - campaign site",
+              "url": "https://www.mattgeiger.com",
+              "date": "2026-09"
+            },
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Curriculum content",
+          "summary": "Geiger says schools should teach free from ideological indoctrination, emphasizing phonics-based reading, basic math proficiency and American exceptionalism, and opposes what he calls divisive social theories in the curriculum. He has not described how he would handle an individual parent's objection to a specific book.",
+          "sources": [
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "title": "Career and technical education",
+          "summary": "Geiger proposes expanding career and technical education and building career-cluster programs with local businesses to prepare students for work after high school.",
+          "sources": [
+            {
+              "title": "Matt Geiger for Pasco County School Board - campaign site",
+              "url": "https://www.mattgeiger.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Curriculum content",
+          "summary": "Geiger says schools should teach free from ideological indoctrination, emphasizing phonics-based reading, basic math proficiency and American exceptionalism, and opposes what he calls divisive social theories in the curriculum. He has not described how he would handle an individual parent's objection to a specific book.",
+          "sources": [
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "title": "Career and technical education",
+          "summary": "Geiger proposes expanding career and technical education and building career-cluster programs with local businesses to prepare students for work after high school.",
+          "sources": [
+            {
+              "title": "Matt Geiger for Pasco County School Board - campaign site",
+              "url": "https://www.mattgeiger.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -57,9 +152,9 @@
       "photo_url": "assets/photos/mollyana_ward.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://mollyana.org",
-      "occupation": null,
+      "occupation": "Real estate agent",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Ward is a Pasco County real estate agent who describes herself as a business leader, mother and grandmother with experience in early childhood education and family services. She is a candidate for the District 3 seat on the Nov. 3, 2026 ballot.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,10 +164,119 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "school_books": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Ward said book challenges should be handled through a clear, lawful process that respects both parents' rights and age-appropriate standards. She described a process rather than saying a parent's objection should by itself remove a title.",
+          "quote": "Book challenges should be handled through a clear, lawful process that respects parents' rights and age-appropriate standards",
+          "sources": [
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Ward lists artificial-intelligence threat detection among her safety priorities and supports limiting cell-phone use during instruction. Her campaign site highlights the Sheriff's Office endorsement and the partnership between the Sheriff's Office and the school district. She has not proposed added counseling or mental-health staffing.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            },
+            {
+              "title": "Mollyana Ward for Pasco County School Board District 3 - campaign site",
+              "url": "https://mollyana.org",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Ward says she would protect and respect every dollar in the budget by demanding efficiency, transparency and accountability, and would expand opportunities without increasing taxes. She has not called for cutting taxes or named services she would reduce.",
+          "quote": "expand opportunities without increasing taxes",
+          "sources": [
+            {
+              "title": "Mollyana Ward for Pasco County School Board District 3 - campaign site",
+              "url": "https://mollyana.org",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Teacher pipeline",
+          "summary": "Ward says she would strengthen local teacher pipelines through partnerships with universities, rather than focusing on pay changes.",
+          "sources": [
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "title": "Teacher pipeline",
+          "summary": "Ward says she would strengthen local teacher pipelines through partnerships with universities, rather than focusing on pay changes.",
+          "sources": [
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Pasco Schools Superintendent John Legg",
+          "sources": [
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "by": "State Sen. Ed Hooper",
+          "sources": [
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "by": "Pasco Schools Superintendent John Legg",
+          "sources": [
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "by": "State Sen. Ed Hooper",
+          "sources": [
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

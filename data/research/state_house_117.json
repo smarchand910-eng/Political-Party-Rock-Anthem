@@ -38,7 +38,21 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "crime": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Granda's campaign site lists Safe Streets among his priorities and says he strongly believes in early intervention to keep kids on the right track, rather than framing public safety around tougher penalties.",
+          "quote": "All residents and neighborhoods must be safe. Miguel strongly believes in early intervention to keep kids on the right track.",
+          "sources": [
+            {
+              "title": "Issues - Miguel Granda for State Representative District 117",
+              "url": "https://www.miguelgranda.net/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [
         {
           "title": "Campaign themes",
@@ -47,6 +61,39 @@
             {
               "title": "Miguel Granda campaign website: Issues",
               "url": "https://www.miguelgranda.net/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Cost of living and jobs",
+          "summary": "Granda says Floridians are being squeezed and that he would work to lower the cost of living, and that he would push to create jobs close to home in South Dade.",
+          "sources": [
+            {
+              "title": "Issues - Miguel Granda for State Representative District 117",
+              "url": "https://www.miguelgranda.net/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Schools and career preparation",
+          "summary": "Granda says young people deserve an education that prepares them for careers and for vocational or higher education. He does not state a position on vouchers or school choice.",
+          "sources": [
+            {
+              "title": "Issues - Miguel Granda for State Representative District 117",
+              "url": "https://www.miguelgranda.net/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Approach to the job",
+          "summary": "Granda says no single person or party has all the answers and pledges to listen to constituents, and says he will work to make sure South Dade families are not neglected.",
+          "sources": [
+            {
+              "title": "Miguel Granda for State Representative District 117",
+              "url": "https://www.miguelgranda.net/",
               "date": "2026-09"
             }
           ]

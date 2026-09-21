@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://camforschoolboard.com/",
-      "occupation": null,
+      "occupation": "Director, Turning Point USA Manatee County; independent journalist",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Bedinghaus, 23, is a Manatee County native and district graduate who finished an economics degree at the University of South Florida in May 2026, where he served on a campus council that allocated budgets. He directs the Turning Point USA hub in Manatee County and writes for a conservative local news outlet. He was the only District 5 candidate to qualify by petition and finished second in the Aug. 18, 2026 primary with about 34%.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,63 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "school_books": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Bedinghaus says the district should declare a 'reading emergency' and focus the curriculum on reading, math, writing and science rather than what he calls political agendas or indoctrination, and that parents deserve clear access to what their children are being taught. He has also said students should be reading, but not material he argues contributes to youth suicide.",
+          "quote": "We got to make sure we get (students) back reading, but not reading all these things that are going to make the suicide rates go up",
+          "sources": [
+            {
+              "title": "Turning Point USA director, volunteer and businessman compete for Manatee School Board District 5",
+              "url": "https://floridatrib.org/2026/07/27/manatee-county-school-board-district-5/",
+              "date": "2026-07-27"
+            },
+            {
+              "title": "Cam for School Board",
+              "url": "https://camforschoolboard.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Bedinghaus proposes cutting district programs that serve fewer than 80% of students and redirecting that money into teacher bonuses tied to student progress.",
+          "quote": "incentivized bonuses for teachers based on the progress of the students they're teaching",
+          "sources": [
+            {
+              "title": "Turning Point USA director, volunteer and businessman compete for Manatee School Board District 5",
+              "url": "https://floridatrib.org/2026/07/27/manatee-county-school-board-district-5/",
+              "date": "2026-07-27"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Political advocacy in schools",
+          "summary": "Asked about his political work, Bedinghaus said his personal beliefs are conservative but described his reasons for running as apolitical.",
+          "sources": [
+            {
+              "title": "Turning Point USA director, volunteer and businessman compete for Manatee School Board District 5",
+              "url": "https://floridatrib.org/2026/07/27/manatee-county-school-board-district-5/",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "title": "Real-world skills",
+          "summary": "His platform calls for teaching personal finance, basic economics, budgeting and practical life skills, and for a parent portal with performance and school information.",
+          "sources": [
+            {
+              "title": "Cam for School Board",
+              "url": "https://camforschoolboard.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -57,9 +112,9 @@
       "photo_url": "assets/photos/jonathan_mullis.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://votemullis.com/",
-      "occupation": null,
+      "occupation": "Physical therapist; owner and CEO, Physical Therapy Doctors of Florida",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Mullis holds a doctorate in physical therapy from Simmons University and ran a practice in Massachusetts before moving to Manatee County in 2017, where he founded Physical Therapy Doctors of Florida. The son of two teachers, he has two daughters in Manatee schools, is president of the Bradenton Kiwanis Club and sits on the Manatee Tiger Bay Club board. He led the Aug. 18, 2026 District 5 primary with about 35%.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,8 +124,73 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "education_choice": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Mullis's campaign site lists career and technical education and school choice together, saying every family should be able to find the best path for their child.",
+          "quote": "career and technical education, and school choice—so every family can find the best path for their child",
+          "sources": [
+            {
+              "title": "Vote Mullis - Manatee County School Board District 5",
+              "url": "https://votemullis.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His site says he supports strong safety measures including school resource officers and clear discipline policies to maintain order and respect; it does not mention counselors or mental-health staffing.",
+          "quote": "Supporting strong safety measures, including resource officers",
+          "sources": [
+            {
+              "title": "Vote Mullis - Manatee County School Board District 5",
+              "url": "https://votemullis.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "school_books": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Asked about book policies, Mullis said the district should simply follow the policies and procedures already in place, rather than taking a position for or against removals.",
+          "quote": "we just really need to follow the rules...we just need to follow the policies and procedures that we have.",
+          "sources": [
+            {
+              "title": "Turning Point USA director, volunteer and businessman compete for Manatee School Board District 5",
+              "url": "https://floridatrib.org/2026/07/27/manatee-county-school-board-district-5/",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Mullis calls for responsible budgeting and oversight of taxpayer funds and for prioritizing classroom needs over administrative expansion, but has not proposed cutting taxes or the school millage.",
+          "quote": "Advocating for responsible budgeting and oversight of taxpayer funds",
+          "sources": [
+            {
+              "title": "Vote Mullis - Manatee County School Board District 5",
+              "url": "https://votemullis.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "School volunteers",
+          "summary": "Mullis proposes recruiting large numbers of community volunteers and mentors into schools, comparing it to how hospitals rely on volunteers.",
+          "sources": [
+            {
+              "title": "Meet the Manatee County School Board candidates seeking change",
+              "url": "https://suncoastsearchlight.org/manatee-county-school-board-race-election/",
+              "date": "2026-07"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

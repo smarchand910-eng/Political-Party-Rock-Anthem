@@ -152,18 +152,30 @@
         "housing": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "He calls housing affordability the most important issue facing Florida and says Tallahassee has ignored working-class families' rising cost of living.",
-          "quote": "I'm tired of Tallahassee ignoring the needs of working-class families and the rising cost of living in Florida.",
+          "summary": "In a local candidate questionnaire, Neill said housing affordability is the most important issue facing Florida and that as a homeowner outside politics he would bring fresh ideas to tackling the housing affordability crisis. He did not specify which policies he would pursue.",
+          "quote": "Housing affordability is the most important issue facing Florida today.",
           "sources": [
             {
-              "title": "Meet the candidates: Questionnaire for Florida State District 74 (Tampa Bay 28)",
+              "title": "Meet the candidates: Questionnaire for Florida State District 74",
               "url": "https://www.tampabay28.com/news/election-2026/meet-the-candidates-questionnaire-for-florida-state-district-74",
-              "date": "2026-07"
+              "date": "2026-09"
             }
           ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Cost of living and wages",
+          "summary": "Neill says he is running because Tallahassee has ignored working-class families, rising costs and wage stagnation, and notes he has worked since he was 16 and is not a politician.",
+          "sources": [
+            {
+              "title": "Meet the candidates: Questionnaire for Florida State District 74",
+              "url": "https://www.tampabay28.com/news/election-2026/meet-the-candidates-questionnaire-for-florida-state-district-74",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

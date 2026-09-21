@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/sharon_jefferson.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.jefferson4schoolboard.com/",
-      "occupation": null,
+      "occupation": "Social studies teacher, W.D. Sugg Middle School",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Jefferson, 54, is a National Board-certified teacher with more than 26 years in Manatee County schools, mostly in Title I schools, and has worked as a Title I and instructional support specialist. She founded the nonprofits RECESS Education and Freedom Leadership Academy and serves as education chair for the Manatee County NAACP. She finished second in the Aug. 18, 2026 primary with about 27% and advanced to the Nov. 3 runoff.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,10 +38,66 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "school_books": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Jefferson said she does not support book bans while acknowledging the district's authority to decide which books are used, and has called for instructional materials that are balanced, age-appropriate and free of vendor influence.",
+          "quote": "I don't believe in book bans, but the school has the authority to choose what books are being used",
+          "sources": [
+            {
+              "title": "Four candidates challenge an incumbent in the race to be on the Manatee School Board",
+              "url": "https://www.wusf.org/local-state/2026-07-27/four-candidates-challenge-incumbent-race-manatee-school-board",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Jefferson has said school security should not be modeled on the criminal justice system, prioritizing screening of people who work on campus and addressing internal threats, and her campaign emphasizes students' social and emotional needs.",
+          "quote": "They could be social, emotional, physical…there are so many different factors that go into understanding why students are not performing.",
+          "sources": [
+            {
+              "title": "Manatee County District 2 School Board candidates share views",
+              "url": "https://www.tampabaybeacons.com/2026/07/02/manatee-county-district-2-school-board-candidates-share-views/",
+              "date": "2026-07-02"
+            },
+            {
+              "title": "Meet the Manatee County School Board candidates seeking change",
+              "url": "https://suncoastsearchlight.org/manatee-county-school-board-race-election/",
+              "date": "2026-07"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Jefferson has called for a line-by-line review of the district budget to see how much reaches schools and to test whether the administration is 'top heavy'; she has not called for cutting taxes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Manatee County District 2 School Board candidates share views",
+              "url": "https://www.tampabaybeacons.com/2026/07/02/manatee-county-district-2-school-board-candidates-share-views/",
+              "date": "2026-07-02"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Manatee County Democratic Party and the Democratic Public Education Caucus",
+          "sources": [
+            {
+              "title": "Four candidates challenge an incumbent in the race to be on the Manatee School Board",
+              "url": "https://www.wusf.org/local-state/2026-07-27/four-candidates-challenge-incumbent-race-manatee-school-board",
+              "date": "2026-07-27"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -53,13 +109,13 @@
       "id": "cindy_spray",
       "name": "Cindy Spray",
       "party": "Nonpartisan",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Manatee County School Board member, District 2 (board chair); retired corporate manager",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Spray, 70, was elected to the District 2 seat in November 2022 and serves as board chair. She spent about 40 years in corporate roles covering manufacturing, payroll, purchasing, capital projects and team management, and served on the district's citizens financial oversight committee before joining the board. She led the Aug. 18, 2026 primary with about 34% and faces Sharon Jefferson in the Nov. 3 runoff.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,10 +125,48 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "school_books": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Asked about library books, Spray framed the issue as compliance with state law, saying she would not put the district at risk of being fined. Her campaign emphasis is on 'getting back to the basics' of reading, writing and math.",
+          "quote": "That's just the way it's going to be. I'm not going to, you know, risk our district being fined.",
+          "sources": [
+            {
+              "title": "Four candidates challenge an incumbent in the race to be on the Manatee School Board",
+              "url": "https://www.wusf.org/local-state/2026-07-27/four-candidates-challenge-incumbent-race-manatee-school-board",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Spray has pointed to the district's security measures as a strength, saying Manatee has the best security in the state, and identifies social media's effect on student behavior as the district's biggest challenge.",
+          "quote": "We have the best security in the whole state",
+          "sources": [
+            {
+              "title": "Manatee County District 2 School Board candidates share views",
+              "url": "https://www.tampabaybeacons.com/2026/07/02/manatee-county-district-2-school-board-candidates-share-views/",
+              "date": "2026-07-02"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Manatee County Sheriff Rick Wells; Manatee Patriots",
+          "sources": [
+            {
+              "title": "Four candidates challenge an incumbent in the race to be on the Manatee School Board",
+              "url": "https://www.wusf.org/local-state/2026-07-27/four-candidates-challenge-incumbent-race-manatee-school-board",
+              "date": "2026-07-27"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

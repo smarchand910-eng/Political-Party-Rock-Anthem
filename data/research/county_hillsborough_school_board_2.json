@@ -9,7 +9,7 @@
     "id": "Hillsborough"
   },
   "what_it_does": "School board members set the district budget and school millage, hire and evaluate the superintendent, approve curriculum materials, and set district policy.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Runoff per Tampa Bay Times/WUSF snippets (three-way Aug. 18 race; Chris Taylor eliminated). Nonpartisan.",
   "candidates": [
     {
@@ -20,9 +20,9 @@
       "photo_url": "assets/photos/daniela_simic.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://danielaforschools.com/",
-      "occupation": null,
+      "occupation": "Educator; former Hillsborough County Public Schools assistant superintendent for curriculum",
       "residence": null,
-      "background": "Advanced to the Nov. 3 runoff for the single-member District 2 seat.",
+      "background": "Simic spent about 25 years in Florida public education as a teacher, district administrator and state-level leader, most recently as a Hillsborough County assistant superintendent for curriculum. She finished first in the Aug. 18, 2026 primary with 39% and advanced to the Nov. 3 runoff for the District 2 seat being vacated by Stacy Hahn. She has been endorsed by the Hillsborough Classroom Teachers Association.",
       "primary_result": null,
       "positions": {
         "taxes": {
@@ -171,11 +171,71 @@
           "summary": "No public position found as of Sept 2026.",
           "quote": null,
           "sources": []
+        },
+        "school_books": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In a Keep Florida Reading candidate questionnaire, Simic said parents have the right to guide what their own child reads and to raise concerns, but that one family should not decide for every other family. She said she supports Hillsborough's existing review committee process, in which trained educators and community members consider the whole work, and that challenges and outcomes should be posted publicly.",
+          "quote": "Parents absolutely have the right to guide what their own child reads... At the same time, one family shouldn't automatically make that decision for every other family.",
+          "sources": [
+            {
+              "title": "Keep Florida Reading 2026 school board candidate questionnaire - Daniela Simic",
+              "url": "https://www.keepfloridareading.org/uploads/6/1/4/2/61420659/daniela_simic.pdf",
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "At a July 2026 WUSF/Florida Trib candidate forum Simic named teacher retention the district's main challenge and tied it to compensation, workloads and restrictive policies, pointing to Florida's national ranking on teacher pay.",
+          "quote": "We are 50th in the nation with teacher pay",
+          "sources": [
+            {
+              "title": "Hillsborough County School Board candidates tackle district challenges",
+              "url": "https://www.wusf.org/local-state/2026-07-27/hillsborough-county-school-board-candidates-tackle-district-challenges",
+              "date": "2026-07-27"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Elected superintendent",
+          "summary": "Simic opposes the November 2026 ballot measure that would make Hillsborough's superintendent an elected position, saying the job requires someone with classroom experience.",
+          "sources": [
+            {
+              "title": "In runoff for Hillsborough school board, Daniela Simic will face Brittany Lyssy",
+              "url": "https://www.cltampa.com/news/in-runoff-for-hillsborough-school-board-daniela-simic-will-face-brittany-lyssy/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "title": "Student testing",
+          "summary": "At a July 2026 candidate forum she said students are being assessed too frequently during the school year.",
+          "sources": [
+            {
+              "title": "Hillsborough County School Board District 2 candidates discuss education at a forum",
+              "url": "https://www.wmnf.org/hillsborough-county-school-board-candidates/",
+              "date": "2026-07-14"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Hillsborough Classroom Teachers Association",
+          "sources": [
+            {
+              "title": "Daniela Simic for Hillsborough County School Board District 2",
+              "url": "https://danielaforschools.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Hillsborough County School Board candidates tackle district challenges (WUSF)",
@@ -201,17 +261,23 @@
       "photo_url": "assets/photos/brittany_lyssy.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.votebrittanylyssy.com",
-      "occupation": null,
+      "occupation": "Attorney",
       "residence": null,
-      "background": "Advanced to the Nov. 3 runoff for District 2.",
+      "background": "Lyssy is a Tampa attorney and mother of three, with a bachelor's degree from the University of Florida and a law degree from Stetson University College of Law; she is pursuing a Ph.D. in public policy with an education-policy focus. She has served on the City of Tampa Citizens Advisory Budget and Finance Committee and is a past president of the Tampa Bay Young Republicans. She took 37% in the Aug. 18, 2026 primary and advanced to the Nov. 3 runoff.",
       "primary_result": null,
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Lyssy's campaign centers on fiscal stewardship and transparency, saying tax dollars should be used transparently with classrooms first, but she has not called for cutting taxes or the school millage.",
+          "quote": "use tax dollars transparently, and put classrooms first",
+          "sources": [
+            {
+              "title": "Hillsborough County School Board candidates tackle district challenges",
+              "url": "https://www.wusf.org/local-state/2026-07-27/hillsborough-county-school-board-candidates-tackle-district-challenges",
+              "date": "2026-07-27"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -270,11 +336,17 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "A July 2026 Osprey Observer candidate profile reported that Lyssy supports a range of high-quality educational options so parents can choose the setting that best fits their child. Her campaign site says parents, not politics, should guide their children's education.",
+          "quote": "She supports high-quality educational options so parents can choose the learning environment that best meets their child's individual needs.",
+          "sources": [
+            {
+              "title": "Brittany Lyssy, School Board Member, District 2",
+              "url": "https://www.ospreyobserver.com/2026/07/brittany-lyssy-school-board-member-district-2/",
+              "date": "2026-07-10"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -354,7 +426,30 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Elected superintendent",
+          "summary": "Lyssy supports the ballot amendment that would make Hillsborough's superintendent an elected position; the other candidates in the 2026 field opposed it.",
+          "sources": [
+            {
+              "title": "In runoff for Hillsborough school board, Daniela Simic will face Brittany Lyssy",
+              "url": "https://www.cltampa.com/news/in-runoff-for-hillsborough-school-board-daniela-simic-will-face-brittany-lyssy/",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "title": "Academic focus",
+          "summary": "Her campaign site says schools must prioritize reading, math, science and civics 'not politics,' and lists literacy, fiscal oversight, transparency and parental involvement as priorities.",
+          "sources": [
+            {
+              "title": "Vote Brittany Lyssy",
+              "url": "https://www.votebrittanylyssy.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [

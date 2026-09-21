@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://lindaforschoolboard.com/",
-      "occupation": null,
+      "occupation": "Teacher, Phyllis R. Miller Elementary School, Miami-Dade County Public Schools",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Cothiere was born in Haiti, raised in Carol City and graduated from Miami Carol City Senior High. She has spent more than three decades in Miami-Dade education, starting as a paraprofessional and now teaching first-grade math, science and social studies. She co-hosts a community talk show for immigrant families and is a church deaconess. She finished second in the eight-candidate Aug. 18, 2026 primary with 21% and advanced to the Nov. 3 runoff.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,7 +38,52 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "teacher_pay": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Cothiere's platform calls for directing local dollars to competitive pay and retention, protecting the voter-approved teacher-salary referendum and closing the pay and working-conditions gap with neighboring counties.",
+          "quote": "When teachers win, students win.",
+          "sources": [
+            {
+              "title": "Linda for School Board - Miami-Dade District 1",
+              "url": "https://lindaforschoolboard.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Cothiere has asked whether the district can add security staff or police officers at school access points, and her platform calls for full compliance with Florida's Marjory Stoneman Douglas safety law, including a safe-school officer, a single point of entry and Alyssa's Law panic alarms in every building.",
+          "quote": "Can we bring more security or can we bring more police officers?",
+          "sources": [
+            {
+              "title": "Katrina Wilson vs. Linda Cothiere: Where the Miami-Dade School Board District 1 candidates stand",
+              "url": "https://www.miamitimesonline.com/news/local/katrina-wilson-vs-linda-cothiere-where-the-miami-dade-school-board-district-1-candidates-stand/article_2428067d-2a38-432f-8b0e-49b7a98278cc.html",
+              "date": "2026-08"
+            },
+            {
+              "title": "Linda for School Board - Miami-Dade District 1",
+              "url": "https://lindaforschoolboard.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "The Miami Times reported that Cothiere criticized charter school expansion and the lack of community consultation behind it, while calling for more questions about how the district responds to declining enrollment.",
+          "quote": "We need to ask some questions because nobody is asking questions. What more can we do?",
+          "sources": [
+            {
+              "title": "Katrina Wilson vs. Linda Cothiere: Where the Miami-Dade School Board District 1 candidates stand",
+              "url": "https://www.miamitimesonline.com/news/local/katrina-wilson-vs-linda-cothiere-where-the-miami-dade-school-board-district-1-candidates-stand/article_2428067d-2a38-432f-8b0e-49b7a98278cc.html",
+              "date": "2026-08"
+            }
+          ]
+        }
+      },
       "other_issues": [
         {
           "title": "School safety, teacher pay and charter costs",
@@ -69,9 +114,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://wilsonforeducation.com/",
-      "occupation": null,
+      "occupation": "Curriculum support specialist, Miami-Dade County Public Schools; former Miami Gardens councilwoman",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Wilson has worked more than 30 years in Miami-Dade County Public Schools, starting as a clerk at 18, teaching for 11 years at Miami Killian Senior High and serving 15 years as principal and CEO of Liberty City Charter School, Florida's first charter school. She was elected to the Miami Gardens City Council in 2018 and resigned to run for the school board. She led the eight-candidate Aug. 18, 2026 primary with about 33%.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -81,7 +126,39 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "education_choice": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Wilson spent 15 years leading Florida's first charter school and helped found a charter-school consortium, but says she wants public education to evolve rather than be privatized and has defended her record against suggestions that her charter background is a liability.",
+          "quote": "We want to see public education evolve",
+          "sources": [
+            {
+              "title": "Katrina Wilson vs. Linda Cothiere: Where the Miami-Dade School Board District 1 candidates stand",
+              "url": "https://www.miamitimesonline.com/news/local/katrina-wilson-vs-linda-cothiere-where-the-miami-dade-school-board-district-1-candidates-stand/article_2428067d-2a38-432f-8b0e-49b7a98278cc.html",
+              "date": "2026-08"
+            },
+            {
+              "title": "Wilson for Education",
+              "url": "https://wilsonforeducation.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wilson has suggested the district look at non-salary supports for educators, including affordable housing vouchers and rent breaks, alongside teacher compensation as a campaign priority.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Katrina Wilson vs. Linda Cothiere: Where the Miami-Dade School Board District 1 candidates stand",
+              "url": "https://www.miamitimesonline.com/news/local/katrina-wilson-vs-linda-cothiere-where-the-miami-dade-school-board-district-1-candidates-stand/article_2428067d-2a38-432f-8b0e-49b7a98278cc.html",
+              "date": "2026-08"
+            }
+          ]
+        }
+      },
       "other_issues": [
         {
           "title": "Enrollment, closures and teacher retention",
@@ -93,10 +170,32 @@
               "date": "2026-08-25"
             }
           ]
+        },
+        {
+          "title": "Declining enrollment and school consolidation",
+          "summary": "Wilson calls falling enrollment the district's toughest issue; first-day enrollment was down nearly 19,000 students for 2026-27. Both runoff candidates said communities should be consulted before schools are closed or reorganized.",
+          "sources": [
+            {
+              "title": "Katrina Wilson vs. Linda Cothiere: Where the Miami-Dade School Board District 1 candidates stand",
+              "url": "https://www.miamitimesonline.com/news/local/katrina-wilson-vs-linda-cothiere-where-the-miami-dade-school-board-district-1-candidates-stand/article_2428067d-2a38-432f-8b0e-49b7a98278cc.html",
+              "date": "2026-08"
+            }
+          ]
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Former Miami-Dade School Board member Steve Gallon",
+          "sources": [
+            {
+              "title": "In Miami-Dade, two veteran educators make the runoff for the District 1 School Board race",
+              "url": "https://floridatrib.org/2026/08/19/in-miami-dade-two-veteran-educators-make-the-runoff-for-the-district-1-school-board-race/",
+              "date": "2026-08-19"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

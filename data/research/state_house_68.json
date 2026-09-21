@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 68 (Part of Hillsborough) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -39,9 +39,74 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
-      "record": [],
-      "endorsements": [],
+      "other_issues": [
+        {
+          "title": "Affordability and the next generation",
+          "summary": "In a statement issued with the Associated Industries of Florida endorsement, Gill said his family's long history on the same land taught him about 'preserving opportunity for the next generation' and that in Tallahassee he would work 'to make Florida more affordable.' He named no specific policies.",
+          "sources": [
+            {
+              "title": "AIF Endorses Ryan Gill for Florida House District 68",
+              "url": "https://aif.com/information/2026/pr260430.html",
+              "date": "2026-04-30"
+            },
+            {
+              "title": "Associated Industries of Florida Endorses Ryan Gill in HD 68 Bid",
+              "url": "https://floridianpress.com/2026/05/associated-industries-of-florida-endorses-ryan-gill-in-hd-68-bid/",
+              "date": "2026-05-01"
+            }
+          ]
+        },
+        {
+          "title": "No issue positions published",
+          "summary": "Gill's campaign website carries only a biography and a contact form, with no issues page. The VOTE411 guide for State Representative 68 records 'Candidate has not yet responded' for him on all seven questions.",
+          "sources": [
+            {
+              "title": "Ryan Gill for State Representative District 68 - campaign website",
+              "url": "https://www.electryangill.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "VOTE411 Voter Guide: State Representative 68 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940660",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Elected to the Hillsborough County Soil and Water Conservation District, where he served two years as chairman; named Farm Credit Agriculturalist of the Year in 2022 and Plant City Chamber of Commerce Emerging Leader in 2023.",
+          "sources": [
+            {
+              "title": "Ryan Gill for State Representative District 68 - campaign website",
+              "url": "https://www.electryangill.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Associated Industries of Florida",
+          "sources": [
+            {
+              "title": "AIF Endorses Ryan Gill for Florida House District 68",
+              "url": "https://aif.com/information/2026/pr260430.html",
+              "date": "2026-04-30"
+            }
+          ]
+        },
+        {
+          "by": "Florida Realtors PAC",
+          "sources": [
+            {
+              "title": "Florida Realtors PAC 2026 Endorsed Candidates",
+              "url": "https://www.floridarealtors.org/advocacy/pac/endorsements",
+              "date": "2026-08-21"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -56,7 +121,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://electtonybsmith.com/",
       "occupation": "Former Tampa Fire Rescue firefighter and Hillsborough County Public Schools EMT",
       "residence": null,
       "background": "Former firefighter with Tampa Fire Rescue and emergency medical technician with Hillsborough County Public Schools. He ran for Plant City Commission in 2026, losing a May 26 runoff 53-47 percent. No campaign website or issue statements were found.",
@@ -69,9 +134,80 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
-      "record": [],
+      "positions": {
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Smith's District 68 campaign site lists 'managing responsible growth' among four priorities, saying development should be matched with roads, schools, utilities and infrastructure before new expansion is approved.",
+          "quote": "ensuring development is matched with the roads, schools, utilities, and infrastructure our communities need before approving new expansion",
+          "sources": [
+            {
+              "title": "Tony B. Smith for Florida State Representative, District 68 - campaign website",
+              "url": "https://electtonybsmith.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His site lists public safety as a priority, saying he would support first responders, invest in crime prevention and stand behind law enforcement and firefighters. He does not address criminal penalties or sentencing.",
+          "quote": "Keeping our communities safe by supporting first responders, investing in crime prevention, and standing behind law enforcement and firefighters.",
+          "sources": [
+            {
+              "title": "Tony B. Smith for Florida State Representative, District 68 - campaign website",
+              "url": "https://electtonybsmith.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Affordability and infrastructure",
+          "summary": "The other two priorities on his site are lowering costs for working families and supporting small businesses, and improving transportation and addressing flooding in District 68.",
+          "sources": [
+            {
+              "title": "Tony B. Smith for Florida State Representative, District 68 - campaign website",
+              "url": "https://electtonybsmith.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Did not answer the League of Women Voters questionnaire",
+          "summary": "The VOTE411 guide for State Representative 68 lists Smith's website and Facebook page and records 'Candidate has not yet responded' for all seven questions.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 68 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940660",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Ran for Plant City Commission Group 3 in 2026 and lost the May 26 runoff to Karen Kerr, 53% to 47%.",
+          "sources": [
+            {
+              "title": "Two new city commissioners are elected in Plant City",
+              "url": "https://www.wusf.org/politics-issues/2026-05-27/two-new-city-commissioners-elected-plant-city-2026",
+              "date": "2026-05-27"
+            }
+          ]
+        },
+        {
+          "item": "Serves on the City of Plant City Board of Adjustment and founded M.A.T.E.S., a community wellness initiative, in 2018.",
+          "sources": [
+            {
+              "title": "Tony B. Smith for Florida State Representative, District 68 - campaign website",
+              "url": "https://electtonybsmith.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

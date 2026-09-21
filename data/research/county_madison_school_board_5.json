@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Business owner; retired Madison County law enforcement officer",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Maurice grew up in Madison County, attended local public schools and graduated from the North Florida Junior College Law Enforcement Academy before a 31-year career in county law enforcement, retiring from full-time service in 2024. He now owns a business handling nationwide sales, product sourcing and logistics, is a past member of the school district's Facilities Committee and serves on the Madison County Tourist Development Council. He ran for the County Commission in 2024.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,34 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "In his campaign announcement Maurice stressed fiscal oversight of school spending and said inefficient spending should be reviewed and reallocated, but he did not call for cutting taxes or reducing the school tax rate.",
+          "quote": "I firmly believe all branches of government need strong fiscal oversight so you know your tax dollars are being put to good, proper use.",
+          "sources": [
+            {
+              "title": "Mike Maurice for Madison County School Board District 5",
+              "url": "https://www.greenepublishing.com/mike-maurice-for-madison-county-school-board-district-5/",
+              "date": "2026-07-28"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Teacher tools and training",
+          "summary": "Maurice said the school system needs leaders who put students first while making sure teachers have the proper tools and training to succeed.",
+          "sources": [
+            {
+              "title": "Mike Maurice for Madison County School Board District 5",
+              "url": "https://www.greenepublishing.com/mike-maurice-for-madison-county-school-board-district-5/",
+              "date": "2026-07-28"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     },

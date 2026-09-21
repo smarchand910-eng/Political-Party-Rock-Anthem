@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://crystaljohnsonsbd5.weebly.com",
-      "occupation": null,
+      "occupation": "Paraprofessional, School District of Lee County",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Johnson, 49, attended Lee County schools and works as a district paraprofessional. She campaigns as a parent and community advocate for public schools, with transparency and accountability as her central themes. She participated in the July 2026 League of Women Voters/WGCU/News-Press candidate forum.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,50 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Johnson's site argues that because funding follows enrollment, resources shrink as families leave the district's public schools. She told the Florida Trib the answer is improving the quality of education the district provides and listening to families.",
+          "quote": "We need to improve the quality of the education that we say we're giving and listen to the families",
+          "sources": [
+            {
+              "title": "Lee County School Board District 5 candidates debate academics, enrollment and trust",
+              "url": "https://floridatrib.org/2026/08/17/lee-county-school-board-election-district-5/",
+              "date": "2026-08-17"
+            },
+            {
+              "title": "Crystal Johnson for Lee County School Board District 5",
+              "url": "https://crystaljohnsonsbd5.weebly.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Reading instruction and technology",
+          "summary": "Johnson says the district leans too heavily on Chromebooks and should return to phonics, comprehension and early intervention for struggling readers.",
+          "sources": [
+            {
+              "title": "Lee County School Board District 5 candidates debate academics, enrollment and trust",
+              "url": "https://floridatrib.org/2026/08/17/lee-county-school-board-election-district-5/",
+              "date": "2026-08-17"
+            }
+          ]
+        },
+        {
+          "title": "Library materials",
+          "summary": "The Florida Trib reported that Johnson supports balancing parental input with students' access to learning resources; no direct statement on book removals was found.",
+          "sources": [
+            {
+              "title": "Lee County School Board District 5 candidates debate academics, enrollment and trust",
+              "url": "https://floridatrib.org/2026/08/17/lee-county-school-board-election-district-5/",
+              "date": "2026-08-17"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -53,13 +95,13 @@
       "id": "armor_persons",
       "name": "Armor Persons",
       "party": "Nonpartisan",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
       "website": "https://armorpersons.com",
-      "occupation": null,
+      "occupation": "Small-business owner; retired tennis professional; Lee County School Board member, District 5",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Persons, 73, is a Lee County native and 1971 Fort Myers High School graduate elected to the District 5 seat in 2022. He is a small-business owner and retired tennis professional whose family has attended Lee County public schools for six generations. He did not take part in the July 2026 League of Women Voters/WGCU candidate forum.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +111,78 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Persons's campaign site says he will protect taxpayers' money and keep the district's roughly $2 billion budget from inflating the bureaucracy, and credits the board with saving $15.9 million by reducing non-classroom costs and eliminating $1 million in administrative expenses.",
+          "quote": "He will ensure that the nearly 2 billion dollar budget is not only fair and transparent, but that every dollar goes towards best serving our students rather than inflating the bureaucracy.",
+          "sources": [
+            {
+              "title": "Armor Persons for Lee County School Board District 5",
+              "url": "https://armorpersons.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "His campaign site credits the board with raising average teacher pay by $11,234, from $51,453 to $62,687, during his term.",
+          "quote": "We have worked hard to pay our teachers better. They deserve it!",
+          "sources": [
+            {
+              "title": "Armor Persons for Lee County School Board District 5",
+              "url": "https://armorpersons.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Persons says families deserve choices and that competition strengthens schools, while framing his goal as making Lee County's public schools the best choice available.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Lee County School Board District 5 candidates debate academics, enrollment and trust",
+              "url": "https://floridatrib.org/2026/08/17/lee-county-school-board-election-district-5/",
+              "date": "2026-08-17"
+            }
+          ]
+        },
+        "school_books": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Persons's site says the board 'strengthened our policies on books,' while the Florida Trib reported he supports the district policy that lets a parent decide whether their own child may access a challenged book rather than removing it for everyone.",
+          "quote": "Strengthened our policies on books, focused on academics, increased student achievement.",
+          "sources": [
+            {
+              "title": "Armor Persons for Lee County School Board District 5",
+              "url": "https://armorpersons.com",
+              "date": "2026-09"
+            },
+            {
+              "title": "Lee County School Board District 5 candidates debate academics, enrollment and trust",
+              "url": "https://floridatrib.org/2026/08/17/lee-county-school-board-election-district-5/",
+              "date": "2026-08-17"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "His site lists a tougher student conduct code, a vaping crackdown, stronger cell-phone limits, AI-use safeguards and BusPatrol camera technology among the board's actions during his term; it does not mention counselors or mental-health staffing.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Armor Persons for Lee County School Board District 5",
+              "url": "https://armorpersons.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

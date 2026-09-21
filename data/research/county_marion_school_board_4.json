@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/mike_mills.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.mikemillsmarionschools.com/",
-      "occupation": null,
+      "occupation": "Owner, Symmetry Coffee Company; adjunct professor, College of Central Florida",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Mills is a U.S. Navy veteran who served as a nuclear machinist mate on submarines from 2010 to 2017. He owns Symmetry Coffee Company in Ocala, works as chief storyteller for a large restaurant franchisee and teaches as an adjunct professor at the College of Central Florida. A Take Stock in Children alumnus and mentor, he led the Aug. 18, 2026 District 4 primary without a majority and faces Brigitte Smith in the Nov. 3 runoff for the seat being vacated by Nancy Thrower.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,58 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "school_books": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "In a Keep Florida Reading questionnaire, Mills said he balances parental rights by consistently auditing the library and telling families where else they can find certain books, such as the public library, and that he trusts certified media specialists to make collection decisions subject to benchmarks and performance auditing. He also said book-removal attempts should be fully explained publicly.",
+          "quote": "Consistently auditing the library and providing families information on where else they might find certain books - such as the public library.",
+          "sources": [
+            {
+              "title": "Keep Florida Reading 2026 school board candidate questionnaire - Mike Mills",
+              "url": "https://www.keepfloridareading.org/uploads/6/1/4/2/61420659/mike_mills.pdf",
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Mills campaigns on business experience with budgets and appropriate spending and says fiscal responsibility is how the district equips and supports teachers; he has not proposed cutting taxes or the school millage.",
+          "quote": "I understand budgets, appropriate spending, strategic thinking and I have signed the front of checks.",
+          "sources": [
+            {
+              "title": "New candidate in District 4 race",
+              "url": "https://www.ocalagazette.com/new-candidate-in-district-4-race/",
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Career and technical education",
+          "summary": "Mills strongly backs expanding career and technical education and trade programs so students graduate with certifications and skills, and describes military enlistment as an honorable pathway.",
+          "sources": [
+            {
+              "title": "New candidate in District 4 race",
+              "url": "https://www.ocalagazette.com/new-candidate-in-district-4-race/",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "title": "Did not answer local questionnaire",
+          "summary": "News 6's 2026 voter's guide notes that Mills did not respond to its requests to complete the candidate questionnaire.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Marion County School Board District 4",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-marion-county-school-board-district-4/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -56,10 +106,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.facebook.com/people/Brigitte-Smith-for-Marion-County-School-Board/61590594200771/",
+      "occupation": "Operating room nurse; chairwoman, Marion County Republican Executive Committee",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Smith is a registered nurse with about 35 years in the operating room and a U.S. Army Nurse Corps veteran who has volunteered as a medical missionary and serves as board secretary of the Paul Chester Children's Hope Foundation. She has two daughters who graduated from Marion County schools and a granddaughter at Dunnellon Middle School, and chairs the Marion County Republican Executive Committee. She finished second in the Aug. 18, 2026 primary and advanced to the Nov. 3 runoff.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,10 +119,60 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In the News 6 voter's guide questionnaire, Smith said the district should address waste in construction contracts and redirect the savings toward teacher retention through competitive benefits packages.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Marion County School Board District 4",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-marion-county-school-board-district-4/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Smith named student discipline one of her main concerns and called for a balanced approach, without specifying more police officers or more counselors.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Marion County School Board District 4",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-marion-county-school-board-district-4/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Reading proficiency and overcrowding",
+          "summary": "Smith's stated top concerns are third-grade reading proficiency, which she puts at 46% at grade level, school overcrowding and bus driver shortages.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Marion County School Board District 4",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-marion-county-school-board-district-4/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Christian Family Coalition Florida",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Marion County School Board District 4",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-marion-county-school-board-district-4/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

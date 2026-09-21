@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 55 (Part of Pasco) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -38,7 +38,60 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Price's campaign website lists as one of his conservative principles 'Responsible spending, balanced budgets, and lower taxes for hardworking families.' He does not spell out which taxes he would cut or what spending he would reduce.",
+          "quote": "Responsible spending, balanced budgets, and lower taxes for hardworking families",
+          "sources": [
+            {
+              "title": "Walter Price for Florida House - campaign website",
+              "url": "https://walterforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Under 'Securing Our Border,' his website says he gives 'Strong support for border security and enforcement to protect our communities.' He does not say specifically what state-level enforcement steps he would take.",
+          "quote": "Securing Our Border: Strong support for border security and enforcement to protect our communities",
+          "sources": [
+            {
+              "title": "Walter Price for Florida House - campaign website",
+              "url": "https://walterforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His website's priorities say he 'has a proven record of keeping our communities safe and will always back our police and first responders.' He does not address criminal penalties or sentencing.",
+          "quote": "Protecting Our Families: Walter has a proven record of keeping our communities safe and will always back our police and first responders",
+          "sources": [
+            {
+              "title": "Walter Price for Florida House - campaign website",
+              "url": "https://walterforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His website lists 'Supporting Our Seniors & Veterans: Protecting Social Security, Medicare, and the benefits our veterans have earned' among his priorities.",
+          "quote": "Supporting Our Seniors & Veterans: Protecting Social Security, Medicare, and the benefits our veterans have earned",
+          "sources": [
+            {
+              "title": "Walter Price for Florida House - campaign website",
+              "url": "https://walterforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [
         {
           "title": "Campaign themes",
@@ -55,10 +108,74 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "title": "Growth and cost of living",
+          "summary": "Under 'Managing Our Growth,' Price's website says his two decades as a licensed real estate appraiser give him the background to 'tackle traffic and lower costs,' and that he has helped families navigate property values and insurance costs. It does not state a position on impact fees, density or growth limits.",
+          "sources": [
+            {
+              "title": "Walter Price for Florida House - campaign website",
+              "url": "https://walterforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Did not answer the League of Women Voters questionnaire",
+          "summary": "The VOTE411 guide for State Representative 55 lists Price's website and Facebook page and records 'Candidate has not yet responded' for all seven questions.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 55 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690929",
+              "date": "2026-09"
+            }
+          ]
         }
       ],
-      "record": [],
-      "endorsements": [],
+      "record": [
+        {
+          "item": "Serves as vice chair of the Pasco County Republican Executive Committee, according to his campaign website.",
+          "sources": [
+            {
+              "title": "Walter Price for Florida House - campaign website",
+              "url": "https://walterforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Sen. Ed Hooper",
+          "sources": [
+            {
+              "title": "Fire Rescue Captain Walter Price files for Pasco's District 55 State House seat",
+              "url": "https://www.cltampa.com/news/fire-rescue-captain-walter-price-files-for-pascos-district-55-state-house-seat/",
+              "date": "2025-11-20"
+            }
+          ]
+        },
+        {
+          "by": "Pasco County Sheriff Chris Nocco",
+          "sources": [
+            {
+              "title": "Fire Rescue Captain Walter Price files for Pasco's District 55 State House seat",
+              "url": "https://www.cltampa.com/news/fire-rescue-captain-walter-price-files-for-pascos-district-55-state-house-seat/",
+              "date": "2025-11-20"
+            }
+          ]
+        },
+        {
+          "by": "Florida Realtors PAC",
+          "sources": [
+            {
+              "title": "Florida Realtors PAC 2026 Endorsed Candidates",
+              "url": "https://www.floridarealtors.org/advocacy/pac/endorsements",
+              "date": "2026-08-21"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -73,7 +190,7 @@
       "incumbent": false,
       "photo_url": "assets/photos/zach_funkhouser.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
-      "website": null,
+      "website": "https://funkhouser55.org",
       "occupation": "K-8 adapted physical education teacher, Pasco County",
       "residence": null,
       "background": "K-8 adapted physical education teacher in Pasco County. In a Tampa Bay 28 questionnaire he said he is running because his generation is being left behind and describes himself as a young candidate who supports the working class.",
@@ -86,7 +203,151 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Asked by the League of Women Voters under what circumstances he would support access to abortion, Funkhouser answered that he would support it in all circumstances.",
+          "quote": "I would support access to abortion in all circumstances.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 55 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690929",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In the VOTE411 questionnaire he said states should respond to falling health-coverage access by raising taxes on the highest earners and widening eligibility for Medicaid and Medicare.",
+          "quote": "States should address these issues by raising taxes on the top 1% and expanding access to medicaid and medicare so more people are able to access it.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 55 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690929",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He told VOTE411 that Florida should build more permanent affordable housing and restrict investors from buying up homes, calling it his answer to the cost-of-living crisis.",
+          "quote": "I believe creating more permanent affordable housing and cracking down on private equity and corporations from buying up all of the homes and raising prices.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 55 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690929",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "He proposed raising taxes on the top 1 percent of earners to pay for expanded health coverage, rather than treating tax cuts as a priority.",
+          "quote": "States should address these issues by raising taxes on the top 1%",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 55 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690929",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Asked whether property insurance or property taxes was the bigger concern, he defended property taxes as a necessary source of school funding and put the focus on insurance and building standards instead.",
+          "quote": "Property taxes are important because they fund public education.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 55 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690929",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He said that if documentary proof of citizenship were required to register, he would make acceptable identification available for free, and he said he would oppose the SAVE Act.",
+          "quote": "The SAVE act is designed to oppress women and minorities and so I will fight it every opportunity I can.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 55 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690929",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Among his education priorities in the VOTE411 questionnaire he said he would work to repeal Florida's law limiting classroom instruction on sexual orientation and gender identity.",
+          "quote": "i will work to repeal the don't say gay act",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 55 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690929",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "His campaign site lists 'Rework the Voucher program' among his education priorities and says Florida ranks last in a national public-education ranking partly because of increased privatization. He does not call for ending vouchers outright.",
+          "quote": "Rework the Voucher program",
+          "sources": [
+            {
+              "title": "Funkhouser for Florida 55 - Issues",
+              "url": "https://funkhouserforflori.wixsite.com/funkhouser-for-flori/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His issues page calls for investing in clean energy, stopping overdevelopment and increasing wetland protections, and says climate change must be addressed urgently.",
+          "quote": "We need to stop overdevelopment, increase protections for the environment and pivot to clean energy before it is too late.",
+          "sources": [
+            {
+              "title": "Funkhouser for Florida 55 - Issues",
+              "url": "https://funkhouserforflori.wixsite.com/funkhouser-for-flori/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His environment plank lists 'Stop Overdevelopment' as a priority, and he opposes large AI data centers on environmental and infrastructure grounds.",
+          "quote": "Stop Overdevelopment",
+          "sources": [
+            {
+              "title": "Funkhouser for Florida 55 - Issues",
+              "url": "https://funkhouserforflori.wixsite.com/funkhouser-for-flori/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He lists investing in clean energy and caps on utility bills among his priorities, and argues data centers raise consumers' energy costs.",
+          "quote": "Invest in Clean Energy",
+          "sources": [
+            {
+              "title": "Funkhouser for Florida 55 - Issues",
+              "url": "https://funkhouserforflori.wixsite.com/funkhouser-for-flori/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [
         {
           "title": "Affordability",
@@ -96,6 +357,39 @@
               "title": "Meet the candidates: Questionnaire for Florida District 55 (Tampa Bay 28)",
               "url": "https://www.tampabay28.com/news/election-2026/meet-the-candidates-questionnaire-for-florida-district-55",
               "date": "2026-07"
+            }
+          ]
+        },
+        {
+          "title": "Banning AI data centers and Flock surveillance cameras",
+          "summary": "Funkhouser's site calls for banning large AI data centers, arguing they strain water and electricity supplies and raise consumers' bills, and for banning automated license-plate cameras, which he describes as creating a surveillance state.",
+          "sources": [
+            {
+              "title": "Funkhouser for Florida 55 - Issues",
+              "url": "https://funkhouserforflori.wixsite.com/funkhouser-for-flori/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Teacher pay and testing",
+          "summary": "He calls for raising starting and experienced teacher pay and reforming testing and accountability rules, noting Florida's average teacher pay ranks near the bottom nationally.",
+          "sources": [
+            {
+              "title": "Funkhouser for Florida 55 - Issues",
+              "url": "https://funkhouserforflori.wixsite.com/funkhouser-for-flori/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "State preemption of local government",
+          "summary": "Asked about preemption and home rule, he said the balance of power has shifted toward the state and that this leads to workers and individuals being taken advantage of by corporations.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 55 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690929",
+              "date": "2026-09"
             }
           ]
         }
