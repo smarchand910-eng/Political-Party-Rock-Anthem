@@ -87,6 +87,7 @@ def main():
         text = re.sub(r'\(?https?://[^\s;)\]]+\)?', '', text).strip()
         r['verified_ballot_note'] = text
         r['verified_ballot_sources'] = [{'title': re.sub(r'^www\.', '', u.split('/')[2]), 'url': u.rstrip('.,')} for u in urls]
+        if research.get('events'): r['events'] = research['events']
         cands = []
         for c in research.get('candidates', []):
             c = dict(c)

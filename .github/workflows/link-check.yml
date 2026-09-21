@@ -30,5 +30,6 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          head -c 60000 /tmp/links.md > /tmp/body.md
+          # Only the summary and the dead-link section go in the issue; the full report (with the unverifiable list) is the artifact.
+          sed -n '1,/^## Could not verify/p' /tmp/links.md | sed '$d' | head -c 60000 > /tmp/body.md
           gh issue create --title "Dead source links found $(date -u +%Y-%m-%d)" --body-file /tmp/body.md --label "link-check" || gh issue create --title "Dead source links found $(date -u +%Y-%m-%d)" --body-file /tmp/body.md
