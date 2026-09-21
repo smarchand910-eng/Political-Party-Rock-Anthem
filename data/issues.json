@@ -1,236 +1,270 @@
 {
-  "_comment": "Statements are worded so a voter can agree or disagree. Candidates are coded on the same scale: +2 strongly agrees, +1 leans agree, 0 mixed/neutral, -1 leans disagree, -2 strongly disagrees, null = no public position found. 'levels' controls which races an issue is used for in matching and comparison.",
-  "issues": [
-    {
-      "id": "taxes",
-      "label": "Taxes & spending",
-      "statement": "Cutting taxes should be a top priority, even if it means less government spending on services.",
-      "levels": [
-        "federal",
-        "state",
-        "county"
-      ],
-      "label_es": "Impuestos y gasto",
-      "statement_es": "Recortar impuestos debe ser una prioridad, aunque signifique menos gasto público en servicios."
-    },
-    {
-      "id": "property_tax",
-      "label": "Property taxes",
-      "statement": "Florida should eliminate or sharply reduce homestead property taxes, even if local governments must cut services or find other revenue.",
-      "levels": [
-        "state",
-        "county"
-      ],
-      "label_es": "Impuestos a la propiedad",
-      "statement_es": "Florida debería eliminar o reducir drásticamente los impuestos a la vivienda principal (homestead), aunque los gobiernos locales tengan que recortar servicios o buscar otros ingresos."
-    },
-    {
-      "id": "insurance",
-      "label": "Property insurance",
-      "statement": "The state should intervene more directly in the property-insurance market (rate caps, expanding Citizens, stricter insurer regulation) rather than relying mainly on market-based reforms.",
-      "levels": [
-        "state"
-      ],
-      "label_es": "Seguro de vivienda",
-      "statement_es": "El estado debería intervenir más directamente en el mercado de seguros de vivienda (límites a las tarifas, ampliar Citizens, regulación más estricta de las aseguradoras) en lugar de depender sobre todo de reformas de mercado."
-    },
-    {
-      "id": "housing",
-      "label": "Housing affordability",
-      "statement": "Government should do more to make housing affordable (subsidies, zoning changes, rent measures).",
-      "levels": [
-        "federal",
-        "state",
-        "county"
-      ],
-      "label_es": "Vivienda asequible",
-      "statement_es": "El gobierno debería hacer más para que la vivienda sea asequible (subsidios, cambios de zonificación, medidas sobre alquileres)."
-    },
-    {
-      "id": "immigration",
-      "label": "Immigration",
-      "statement": "Immigration enforcement should be stricter, including large-scale deportation of people in the country illegally.",
-      "levels": [
-        "federal",
-        "state"
-      ],
-      "label_es": "Inmigración",
-      "statement_es": "La aplicación de las leyes de inmigración debería ser más estricta, incluida la deportación a gran escala de personas que están en el país ilegalmente."
-    },
-    {
-      "id": "abortion",
-      "label": "Abortion",
-      "statement": "Abortion should be legal in most cases (Florida's six-week ban should be repealed or loosened).",
-      "levels": [
-        "federal",
-        "state"
-      ],
-      "label_es": "Aborto",
-      "statement_es": "El aborto debería ser legal en la mayoría de los casos (la prohibición de seis semanas de Florida debería derogarse o flexibilizarse)."
-    },
-    {
-      "id": "guns",
-      "label": "Guns",
-      "statement": "Gun laws should be stricter (keep the red-flag law and the age-21 purchase rule; expand background checks) rather than looser (permitless or open carry, lower purchase age).",
-      "levels": [
-        "federal",
-        "state"
-      ],
-      "label_es": "Armas de fuego",
-      "statement_es": "Las leyes sobre armas deberían ser más estrictas (mantener la ley de \"bandera roja\" y la edad mínima de 21 años para comprar; ampliar la verificación de antecedentes) en lugar de más permisivas (portación sin permiso o abierta, menor edad de compra)."
-    },
-    {
-      "id": "healthcare",
-      "label": "Health care",
-      "statement": "Government should expand its role in health coverage (expand Medicaid in Florida, extend Affordable Care Act subsidies).",
-      "levels": [
-        "federal",
-        "state"
-      ],
-      "label_es": "Atención médica",
-      "statement_es": "El gobierno debería ampliar su papel en la cobertura de salud (expandir Medicaid en Florida, extender los subsidios de la Ley de Cuidado de Salud Asequible)."
-    },
-    {
-      "id": "social_security",
-      "label": "Social Security & Medicare",
-      "statement": "Social Security and Medicare benefits must be protected from any cuts, even if that requires more revenue.",
-      "levels": [
-        "federal"
-      ],
-      "label_es": "Seguro Social y Medicare",
-      "statement_es": "Los beneficios del Seguro Social y Medicare deben protegerse de cualquier recorte, aunque eso requiera más ingresos."
-    },
-    {
-      "id": "education_choice",
-      "label": "Education & school choice",
-      "statement": "Public money should follow students to private, charter or home schools (universal school vouchers).",
-      "levels": [
-        "federal",
-        "state"
-      ],
-      "label_es": "Educación y elección escolar",
-      "statement_es": "El dinero público debería seguir a los estudiantes a escuelas privadas, chárter o en el hogar (vales escolares universales)."
-    },
-    {
-      "id": "environment",
-      "label": "Environment & water",
-      "statement": "Protecting water quality, conservation land and climate resilience should take priority even if it slows development or raises costs.",
-      "levels": [
-        "federal",
-        "state",
-        "county"
-      ],
-      "label_es": "Medio ambiente y agua",
-      "statement_es": "Proteger la calidad del agua, las tierras de conservación y la resiliencia climática debería ser prioridad, aunque frene el desarrollo o aumente los costos."
-    },
-    {
-      "id": "growth",
-      "label": "Growth & development",
-      "statement": "Growth and development should be slowed or more tightly regulated (higher impact fees, density limits, stronger local control).",
-      "levels": [
-        "state",
-        "county"
-      ],
-      "label_es": "Crecimiento y desarrollo",
-      "statement_es": "El crecimiento y el desarrollo urbano deberían frenarse o regularse más (tarifas de impacto más altas, límites de densidad, más control local)."
-    },
-    {
-      "id": "marijuana",
-      "label": "Marijuana",
-      "statement": "Recreational marijuana should be legal for adults.",
-      "levels": [
-        "state"
-      ],
-      "label_es": "Marihuana",
-      "statement_es": "La marihuana recreativa debería ser legal para adultos."
-    },
-    {
-      "id": "elections",
-      "label": "Elections & voting",
-      "statement": "Voting should be made easier (mail voting, drop boxes, restoring voting rights) rather than adding new restrictions.",
-      "levels": [
-        "federal",
-        "state"
-      ],
-      "label_es": "Elecciones y voto",
-      "statement_es": "Votar debería ser más fácil (voto por correo, buzones de entrega, restitución del derecho al voto) en lugar de añadir nuevas restricciones."
-    },
-    {
-      "id": "crime",
-      "label": "Crime & policing",
-      "statement": "Criminal penalties should be tougher and police funding increased, rather than emphasizing reform and rehabilitation.",
-      "levels": [
-        "federal",
-        "state",
-        "county"
-      ],
-      "label_es": "Delincuencia y policía",
-      "statement_es": "Las penas deberían ser más duras y el financiamiento policial mayor, en lugar de enfatizar la reforma y la rehabilitación."
-    },
-    {
-      "id": "lgbtq",
-      "label": "Gender identity laws",
-      "statement": "Florida's laws restricting gender-affirming care for minors and classroom instruction on sexual orientation and gender identity should remain in place.",
-      "levels": [
-        "federal",
-        "state"
-      ],
-      "label_es": "Leyes sobre identidad de género",
-      "statement_es": "Las leyes de Florida que restringen la atención de afirmación de género para menores y la enseñanza sobre orientación sexual e identidad de género deberían mantenerse."
-    },
-    {
-      "id": "energy",
-      "label": "Energy & utilities",
-      "statement": "Government should promote renewable energy and tighten oversight of utility rate increases, even at the expense of fossil-fuel production.",
-      "levels": [
-        "federal",
-        "state"
-      ],
-      "label_es": "Energía y servicios públicos",
-      "statement_es": "El gobierno debería promover la energía renovable y vigilar más los aumentos de tarifas eléctricas, aunque sea a costa de la producción de combustibles fósiles."
-    },
-    {
-      "id": "tariffs",
-      "label": "Tariffs & trade",
-      "statement": "Tariffs on imported goods are good for the American economy.",
-      "levels": [
-        "federal"
-      ],
-      "label_es": "Aranceles y comercio",
-      "statement_es": "Los aranceles a los productos importados son buenos para la economía estadounidense."
-    },
-    {
-      "id": "ukraine",
-      "label": "Ukraine",
-      "statement": "The U.S. should continue military aid to Ukraine.",
-      "levels": [
-        "federal"
-      ],
-      "label_es": "Ucrania",
-      "statement_es": "Estados Unidos debería continuar la ayuda militar a Ucrania."
-    },
-    {
-      "id": "trump",
-      "label": "Trump administration",
-      "statement": "I approve of the direction of the Trump administration.",
-      "levels": [
-        "federal",
-        "state"
-      ],
-      "label_es": "Administración Trump",
-      "statement_es": "Apruebo el rumbo de la administración Trump."
-    },
-    {
-      "id": "veterans",
-      "label": "Veterans",
-      "statement": "Expanding VA services and veterans' benefits should be a top priority.",
-      "levels": [
-        "federal",
-        "state",
-        "county"
-      ],
-      "label_es": "Veteranos",
-      "statement_es": "Ampliar los servicios del VA y los beneficios para veteranos debería ser una prioridad."
-    }
-  ]
+ "_comment": "Statements are worded so a voter can agree or disagree. Candidates are coded on the same scale: +2 strongly agrees, +1 leans agree, 0 mixed/neutral, -1 leans disagree, -2 strongly disagrees, null = no public position found. 'levels' controls which races an issue is used for in matching and comparison.",
+ "issues": [
+  {
+   "id": "taxes",
+   "label": "Taxes & spending",
+   "statement": "Cutting taxes should be a top priority, even if it means less government spending on services.",
+   "levels": [
+    "federal",
+    "state",
+    "county",
+    "school"
+   ],
+   "label_es": "Impuestos y gasto",
+   "statement_es": "Recortar impuestos debe ser una prioridad, aunque signifique menos gasto público en servicios."
+  },
+  {
+   "id": "property_tax",
+   "label": "Property taxes",
+   "statement": "Florida should eliminate or sharply reduce homestead property taxes, even if local governments must cut services or find other revenue.",
+   "levels": [
+    "state",
+    "county",
+    "school"
+   ],
+   "label_es": "Impuestos a la propiedad",
+   "statement_es": "Florida debería eliminar o reducir drásticamente los impuestos a la vivienda principal (homestead), aunque los gobiernos locales tengan que recortar servicios o buscar otros ingresos."
+  },
+  {
+   "id": "insurance",
+   "label": "Property insurance",
+   "statement": "The state should intervene more directly in the property-insurance market (rate caps, expanding Citizens, stricter insurer regulation) rather than relying mainly on market-based reforms.",
+   "levels": [
+    "state"
+   ],
+   "label_es": "Seguro de vivienda",
+   "statement_es": "El estado debería intervenir más directamente en el mercado de seguros de vivienda (límites a las tarifas, ampliar Citizens, regulación más estricta de las aseguradoras) en lugar de depender sobre todo de reformas de mercado."
+  },
+  {
+   "id": "housing",
+   "label": "Housing affordability",
+   "statement": "Government should do more to make housing affordable (subsidies, zoning changes, rent measures).",
+   "levels": [
+    "federal",
+    "state",
+    "county"
+   ],
+   "label_es": "Vivienda asequible",
+   "statement_es": "El gobierno debería hacer más para que la vivienda sea asequible (subsidios, cambios de zonificación, medidas sobre alquileres)."
+  },
+  {
+   "id": "immigration",
+   "label": "Immigration",
+   "statement": "Immigration enforcement should be stricter, including large-scale deportation of people in the country illegally.",
+   "levels": [
+    "federal",
+    "state"
+   ],
+   "label_es": "Inmigración",
+   "statement_es": "La aplicación de las leyes de inmigración debería ser más estricta, incluida la deportación a gran escala de personas que están en el país ilegalmente."
+  },
+  {
+   "id": "abortion",
+   "label": "Abortion",
+   "statement": "Abortion should be legal in most cases (Florida's six-week ban should be repealed or loosened).",
+   "levels": [
+    "federal",
+    "state"
+   ],
+   "label_es": "Aborto",
+   "statement_es": "El aborto debería ser legal en la mayoría de los casos (la prohibición de seis semanas de Florida debería derogarse o flexibilizarse)."
+  },
+  {
+   "id": "guns",
+   "label": "Guns",
+   "statement": "Gun laws should be stricter (keep the red-flag law and the age-21 purchase rule; expand background checks) rather than looser (permitless or open carry, lower purchase age).",
+   "levels": [
+    "federal",
+    "state"
+   ],
+   "label_es": "Armas de fuego",
+   "statement_es": "Las leyes sobre armas deberían ser más estrictas (mantener la ley de \"bandera roja\" y la edad mínima de 21 años para comprar; ampliar la verificación de antecedentes) en lugar de más permisivas (portación sin permiso o abierta, menor edad de compra)."
+  },
+  {
+   "id": "healthcare",
+   "label": "Health care",
+   "statement": "Government should expand its role in health coverage (expand Medicaid in Florida, extend Affordable Care Act subsidies).",
+   "levels": [
+    "federal",
+    "state"
+   ],
+   "label_es": "Atención médica",
+   "statement_es": "El gobierno debería ampliar su papel en la cobertura de salud (expandir Medicaid en Florida, extender los subsidios de la Ley de Cuidado de Salud Asequible)."
+  },
+  {
+   "id": "social_security",
+   "label": "Social Security & Medicare",
+   "statement": "Social Security and Medicare benefits must be protected from any cuts, even if that requires more revenue.",
+   "levels": [
+    "federal"
+   ],
+   "label_es": "Seguro Social y Medicare",
+   "statement_es": "Los beneficios del Seguro Social y Medicare deben protegerse de cualquier recorte, aunque eso requiera más ingresos."
+  },
+  {
+   "id": "education_choice",
+   "label": "Education & school choice",
+   "statement": "Public money should follow students to private, charter or home schools (universal school vouchers).",
+   "levels": [
+    "federal",
+    "state",
+    "school"
+   ],
+   "label_es": "Educación y elección escolar",
+   "statement_es": "El dinero público debería seguir a los estudiantes a escuelas privadas, chárter o en el hogar (vales escolares universales)."
+  },
+  {
+   "id": "environment",
+   "label": "Environment & water",
+   "statement": "Protecting water quality, conservation land and climate resilience should take priority even if it slows development or raises costs.",
+   "levels": [
+    "federal",
+    "state",
+    "county"
+   ],
+   "label_es": "Medio ambiente y agua",
+   "statement_es": "Proteger la calidad del agua, las tierras de conservación y la resiliencia climática debería ser prioridad, aunque frene el desarrollo o aumente los costos."
+  },
+  {
+   "id": "growth",
+   "label": "Growth & development",
+   "statement": "Growth and development should be slowed or more tightly regulated (higher impact fees, density limits, stronger local control).",
+   "levels": [
+    "state",
+    "county"
+   ],
+   "label_es": "Crecimiento y desarrollo",
+   "statement_es": "El crecimiento y el desarrollo urbano deberían frenarse o regularse más (tarifas de impacto más altas, límites de densidad, más control local)."
+  },
+  {
+   "id": "marijuana",
+   "label": "Marijuana",
+   "statement": "Recreational marijuana should be legal for adults.",
+   "levels": [
+    "state"
+   ],
+   "label_es": "Marihuana",
+   "statement_es": "La marihuana recreativa debería ser legal para adultos."
+  },
+  {
+   "id": "elections",
+   "label": "Elections & voting",
+   "statement": "Voting should be made easier (mail voting, drop boxes, restoring voting rights) rather than adding new restrictions.",
+   "levels": [
+    "federal",
+    "state"
+   ],
+   "label_es": "Elecciones y voto",
+   "statement_es": "Votar debería ser más fácil (voto por correo, buzones de entrega, restitución del derecho al voto) en lugar de añadir nuevas restricciones."
+  },
+  {
+   "id": "crime",
+   "label": "Crime & policing",
+   "statement": "Criminal penalties should be tougher and police funding increased, rather than emphasizing reform and rehabilitation.",
+   "levels": [
+    "federal",
+    "state",
+    "county"
+   ],
+   "label_es": "Delincuencia y policía",
+   "statement_es": "Las penas deberían ser más duras y el financiamiento policial mayor, en lugar de enfatizar la reforma y la rehabilitación."
+  },
+  {
+   "id": "lgbtq",
+   "label": "Gender identity laws",
+   "statement": "Florida's laws restricting gender-affirming care for minors and classroom instruction on sexual orientation and gender identity should remain in place.",
+   "levels": [
+    "federal",
+    "state",
+    "school"
+   ],
+   "label_es": "Leyes sobre identidad de género",
+   "statement_es": "Las leyes de Florida que restringen la atención de afirmación de género para menores y la enseñanza sobre orientación sexual e identidad de género deberían mantenerse."
+  },
+  {
+   "id": "energy",
+   "label": "Energy & utilities",
+   "statement": "Government should promote renewable energy and tighten oversight of utility rate increases, even at the expense of fossil-fuel production.",
+   "levels": [
+    "federal",
+    "state"
+   ],
+   "label_es": "Energía y servicios públicos",
+   "statement_es": "El gobierno debería promover la energía renovable y vigilar más los aumentos de tarifas eléctricas, aunque sea a costa de la producción de combustibles fósiles."
+  },
+  {
+   "id": "tariffs",
+   "label": "Tariffs & trade",
+   "statement": "Tariffs on imported goods are good for the American economy.",
+   "levels": [
+    "federal"
+   ],
+   "label_es": "Aranceles y comercio",
+   "statement_es": "Los aranceles a los productos importados son buenos para la economía estadounidense."
+  },
+  {
+   "id": "ukraine",
+   "label": "Ukraine",
+   "statement": "The U.S. should continue military aid to Ukraine.",
+   "levels": [
+    "federal"
+   ],
+   "label_es": "Ucrania",
+   "statement_es": "Estados Unidos debería continuar la ayuda militar a Ucrania."
+  },
+  {
+   "id": "trump",
+   "label": "Trump administration",
+   "statement": "I approve of the direction of the Trump administration.",
+   "levels": [
+    "federal",
+    "state"
+   ],
+   "label_es": "Administración Trump",
+   "statement_es": "Apruebo el rumbo de la administración Trump."
+  },
+  {
+   "id": "veterans",
+   "label": "Veterans",
+   "statement": "Expanding VA services and veterans' benefits should be a top priority.",
+   "levels": [
+    "federal",
+    "state",
+    "county"
+   ],
+   "label_es": "Veteranos",
+   "statement_es": "Ampliar los servicios del VA y los beneficios para veteranos debería ser una prioridad."
+  },
+  {
+   "id": "school_books",
+   "label": "Library and classroom materials",
+   "statement": "Parents' objections should be enough to pull a book or lesson from a school, even when other families want it kept.",
+   "levels": [
+    "school"
+   ],
+   "label_es": "Materiales de biblioteca y del aula",
+   "statement_es": "Las objeciones de los padres deben bastar para retirar un libro o una lección de una escuela, aunque otras familias quieran conservarlo."
+  },
+  {
+   "id": "teacher_pay",
+   "label": "Teacher and staff pay",
+   "statement": "Raising teacher and staff pay should be the district's top budget priority, even if other spending has to be cut.",
+   "levels": [
+    "school"
+   ],
+   "label_es": "Salarios de maestros y personal",
+   "statement_es": "Subir el salario de maestros y personal debe ser la prioridad principal del presupuesto del distrito, aunque haya que recortar otros gastos."
+  },
+  {
+   "id": "school_safety",
+   "label": "School safety approach",
+   "statement": "Campus safety depends more on police officers and firm discipline than on counselors and mental-health staff.",
+   "levels": [
+    "school"
+   ],
+   "label_es": "Enfoque de seguridad escolar",
+   "statement_es": "La seguridad escolar depende más de los policías y la disciplina firme que de los consejeros y el personal de salud mental."
+  }
+ ]
 }

@@ -565,7 +565,7 @@
     const i = Math.min(quizIndex, total - 1);
     const issue = ISSUES[i];
     const a = answers[issue.id] || {};
-    const applies = (issue.levels || []).map(l => ({ federal: 'federal', state: 'state', county: 'county' }[l])).join(', ');
+    const applies = (issue.levels || []).map(l => ({ federal: 'federal', state: 'state', county: 'county', school: 'school board' }[l])).filter(Boolean).join(', ');
     return `<h1>${T('Match me to the candidates', 'Compárame con los candidatos')}</h1>
       <p class="lead muted">${T('Swipe right to agree, left to disagree (or use the buttons). The leaderboard updates after every answer. Answers stay in your browser only.', 'Deslice a la derecha para estar de acuerdo, a la izquierda para estar en desacuerdo (o use los botones). La tabla se actualiza con cada respuesta. Sus respuestas se quedan solo en su navegador.')}</p>${LANG === 'es' ? ES_NOTE : ''}
       <div class="quiz-progress" aria-hidden="true"><span style="width:${Math.round(100 * answered / total)}%"></span></div>
