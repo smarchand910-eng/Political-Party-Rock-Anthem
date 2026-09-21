@@ -40,7 +40,18 @@
       ],
       "positions": {},
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Florida Politics reported on Sept. 12, 2026 that Moore's Orange County Public Schools personnel file contains complaints from parents and colleagues and past suspensions; Moore said she is an effective teacher and that 'OCPS does not want me sitting on the Board because I ask questions they don't want asked.'",
+          "sources": [
+            {
+              "title": "Orange County School Board candidate Diana Moore faced parent and colleague complaints, suspensions as teacher (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/819478-orange-county-school-board-candidate-diana-moore-faced-parent-and-colleague-complaints-suspensions-as-teacher/",
+              "date": "2026-09-12"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -70,7 +81,19 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Response to reporting on opponent",
+          "summary": "Asked about the reporting on Moore's personnel file, Peña said public leaders should meet 'high standards of professionalism, accountability, and respectful treatment.'",
+          "sources": [
+            {
+              "title": "Orange County School Board candidate Diana Moore faced parent and colleague complaints, suspensions as teacher (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/819478-orange-county-school-board-candidate-diana-moore-faced-parent-and-colleague-complaints-suspensions-as-teacher/",
+              "date": "2026-09-12"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 74 (Part of Sarasota) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/nick_pachota.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://nickpachota.com/",
-      "occupation": null,
+      "occupation": "Mayor of Venice; paramedic/firefighter; co-owner, Venice Pier Group restaurants",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Mayor of Venice and a career EMT, paramedic, firefighter and SWAT medic who co-owns the Venice Pier Group, including Sharky's on the Pier, and teaches in Sarasota County Public Schools' EMS program. A Cardinal Mooney High School graduate, he is married with two grown daughters. Won the Aug. 18, 2026 Republican primary.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,7 +38,86 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His website pledges to cut taxes and add accountability measures so tax dollars are used conservatively.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Nick Pachota for Florida House (campaign website)",
+              "url": "https://nickpachota.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "His website says he will protect the right to life against policies that disregard the value of human life.",
+          "quote": "Protecting the right to life",
+          "sources": [
+            {
+              "title": "Nick Pachota for Florida House (campaign website)",
+              "url": "https://nickpachota.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "His website pledges to defend Second Amendment rights he describes as constantly under siege.",
+          "quote": "defending our constantly under siege Second Amendment rights",
+          "sources": [
+            {
+              "title": "Nick Pachota for Florida House (campaign website)",
+              "url": "https://nickpachota.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His website says he will stand up to developers and special interests.",
+          "quote": "standing up to developers and special interests",
+          "sources": [
+            {
+              "title": "Nick Pachota for Florida House (campaign website)",
+              "url": "https://nickpachota.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His website pledges support for local law enforcement, firefighters and paramedics.",
+          "quote": "supporting local law enforcement, firefighters and paramedics",
+          "sources": [
+            {
+              "title": "Nick Pachota for Florida House (campaign website)",
+              "url": "https://nickpachota.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His website pledges to banish political and social agendas from libraries and classrooms; it does not name specific laws.",
+          "quote": "banishing political and social agendas from our libraries and classrooms",
+          "sources": [
+            {
+              "title": "Nick Pachota for Florida House (campaign website)",
+              "url": "https://nickpachota.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],
@@ -57,9 +136,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Publix Super Markets employee (30-plus years)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Sarasota native and University of South Florida graduate who has worked for Publix Super Markets for more than 30 years. He says he is not a politician and has worked since age 16. Unopposed for the Democratic nomination.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +148,21 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He calls housing affordability the most important issue facing Florida and says Tallahassee has ignored working-class families' rising cost of living.",
+          "quote": "I'm tired of Tallahassee ignoring the needs of working-class families and the rising cost of living in Florida.",
+          "sources": [
+            {
+              "title": "Meet the candidates: Questionnaire for Florida State District 74 (Tampa Bay 28)",
+              "url": "https://www.tampabay28.com/news/election-2026/meet-the-candidates-questionnaire-for-florida-state-district-74",
+              "date": "2026-07"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []

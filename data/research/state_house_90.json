@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 90 (Part of Palm Beach) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -25,10 +25,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://voteroiban.com/",
+      "occupation": "Software and artificial intelligence engineer",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Ionel Roiban is a software and AI engineer who has lived in Boynton Beach for 25 years and is running for office for the first time. He describes himself as a private-sector outsider running a data-driven campaign focused on affordability and local issues rather than national politics.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,106 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His site says he backs Amendment 3 and would help write its implementing law, and supports phasing out non-school property taxes on homesteads; he says he is voting yes.",
+          "quote": "I'm voting yes — and asking for a seat in the majority that writes the implementing law.",
+          "sources": [
+            {
+              "title": "Issues - Ionel Roiban for Florida House, District 90",
+              "url": "https://voteroiban.com/issues/",
+              "date": "2026-09"
+            },
+            {
+              "title": "The Data - Ionel Roiban for Florida House",
+              "url": "https://voteroiban.com/data/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Ionel Roiban for Florida House, District 90 - campaign site home page",
+              "url": "https://voteroiban.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "He wants to defend the litigation reforms he credits with lowering Florida's share of insurance lawsuits, target litigation and fraud costs, and bring more insurers back to compete.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Issues - Ionel Roiban for Florida House, District 90",
+              "url": "https://voteroiban.com/issues/",
+              "date": "2026-09"
+            },
+            {
+              "title": "The Data - Ionel Roiban for Florida House",
+              "url": "https://voteroiban.com/data/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "He favors market-driven supply of attainable homes and cutting carrying costs like insurance and property taxes, while protecting homestead and senior exemptions.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Issues - Ionel Roiban for Florida House, District 90",
+              "url": "https://voteroiban.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says he supports clean water and healthy beaches and funding flood and stormwater resilience for coastal neighborhoods.",
+          "quote": "healthy beaches and clean water are why we live here",
+          "sources": [
+            {
+              "title": "Ionel Roiban for Florida House, District 90 - campaign site home page",
+              "url": "https://voteroiban.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Issues - Ionel Roiban for Florida House, District 90",
+              "url": "https://voteroiban.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His site calls for fully funding first responders and smart, accountable policing.",
+          "quote": "Fund first responders fully — police, fire",
+          "sources": [
+            {
+              "title": "Issues - Ionel Roiban for Florida House, District 90",
+              "url": "https://voteroiban.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Health care costs and transparency",
+          "summary": "He proposes hospital price transparency, telehealth and local clinics, and a crackdown on billing scams targeting seniors; he also wants plain-language budgets and a public reason posted for every vote.",
+          "sources": [
+            {
+              "title": "Issues - Ionel Roiban for Florida House, District 90",
+              "url": "https://voteroiban.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -53,13 +151,13 @@
       "id": "rob_long",
       "name": "Rob Long",
       "party": "Democratic",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
       "website": "https://roblongforflorida.com/",
-      "occupation": null,
+      "occupation": "Civil engineer; former Delray Beach city commissioner; state representative since December 2025",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Rob Long is a civil engineer with a degree from Penn State and an MBA from the University of Florida. He served on the Delray Beach City Commission and as an elected Palm Beach Soil & Water Conservation District supervisor, and founded a grassroots engagement firm. He won a December 2025 special election for District 90 and is seeking a full term.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,10 +167,96 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
-      "record": [],
-      "endorsements": [],
+      "positions": {
+        "property_tax": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "He voted no on HJR 203 (Feb. 19, 2026), his site opposes the governor's property tax amendment as shifting costs to renters and small businesses, and he called the amendment a 'shell game' in August 2026. He did not vote on HJR 1-F.",
+          "quote": "The governor is going to blow a hole in your city or county's budget and then blame the city or county for trying to patch it up.",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/CS/HJR 203 (Elimination of Non-school Property Tax for Homesteads), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=24474&BillId=82728",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Rob Long for Florida State House - campaign site",
+              "url": "https://roblongforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Rewrite underway for property tax amendment ballot language, DeSantis says - WUSF",
+              "url": "https://www.wusf.org/politics-issues/2026-08-07/rewrite-underway-for-property-tax-amendment-ballot-language-desantis-says",
+              "date": "2026-08-07"
+            },
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He helped pass the Joe Casello Act restricting PFAS 'forever chemicals' and supports coral research, coastal resilience and climate adaptation; his prior service was on a soil and water conservation board.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Rob Long for Florida State House - campaign site",
+              "url": "https://roblongforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Rob Long - Ballotpedia",
+              "url": "https://ballotpedia.org/Rob_Long",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Affordability",
+          "summary": "His site says affordability, including housing costs, property insurance and property taxes, is the centerpiece of his work in Tallahassee.",
+          "sources": [
+            {
+              "title": "Rob Long for Florida State House - campaign site",
+              "url": "https://roblongforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted no on HJR 203 (2026); recorded as not voting on HJR 1-F (2026 special session).",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/CS/HJR 203 (Elimination of Non-school Property Tax for Homesteads), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=24474&BillId=82728",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "U.S. Reps. Lois Frankel and Jared Moskowitz; state Sens. Lori Berman and Tina Polsky; SEIU; firefighter associations; Moms Demand Action; Florida Chamber of Commerce; Associated Industries of Florida (per campaign site)",
+          "sources": [
+            {
+              "title": "Rob Long for Florida State House - campaign site",
+              "url": "https://roblongforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

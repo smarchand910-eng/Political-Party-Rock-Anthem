@@ -14,7 +14,7 @@
   "what_it_does": "Represents District 12 in the Florida House of Representatives; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": "Open seat: Republican Rep. Wyman Duggan is term-limited. One candidate per party qualified, so there was no Aug. 18 primary; the race is decided Nov. 3.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "News4JAX's 2026 voter guide for HD 12 reports Republican Terrance Freeman and Democrat Benjamin Sandlin as the only candidates, with no primary because each party had one candidate (https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-12/). Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -25,24 +25,46 @@
       "photo_url": "assets/photos/terrance_freeman.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://terrancefreeman.com/",
-      "occupation": null,
+      "occupation": "Senior project manager of apprenticeship programs at Miller Electric; Jacksonville City Council member (2018-2026)",
       "residence": null,
       "background": "Republican candidate for the open HD 12 seat vacated by term-limited Rep. Wyman Duggan; Florida's Voice reported his campaign launch.",
       "primary_result": null,
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He lists fiscal responsibility and lowering taxes as his answer to affordability and pledges to eliminate waste.",
+          "quote": "Fiscal responsibility and lowering taxes",
+          "sources": [
+            {
+              "title": "News4JAX 2026 Voter's Guide: Florida House District 12",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-12/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Terrance Freeman campaign website: Priorities",
+              "url": "https://terrancefreeman.com/priorities/",
+              "date": "2026-09"
+            }
+          ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Freeman says he championed Jacksonville's first property-tax cut in nearly a decade and will work to cut property taxes further.",
+          "quote": "reducing the cost of living by cutting property taxes even further, eliminating wasteful fees and regulations",
+          "sources": [
+            {
+              "title": "Terrance Freeman campaign website",
+              "url": "https://terrancefreeman.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Terrance Freeman campaign website: Priorities",
+              "url": "https://terrancefreeman.com/priorities/",
+              "date": "2026-09"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -59,11 +81,17 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His priorities page says he supports securing the border, enforcing existing immigration laws and giving state and local law enforcement tools to do so.",
+          "quote": "He supports securing the border, enforcing existing immigration laws and ensuring state and local law enforcement have the tools they need to keep Floridians safe.",
+          "sources": [
+            {
+              "title": "Terrance Freeman campaign website: Priorities",
+              "url": "https://terrancefreeman.com/priorities/",
+              "date": "2026-09"
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -129,11 +157,22 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He cites supporting record funding for the Jacksonville Sheriff's Office and Fire and Rescue and pledges to keep working with law enforcement.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Terrance Freeman campaign website: Priorities",
+              "url": "https://terrancefreeman.com/priorities/",
+              "date": "2026-09"
+            },
+            {
+              "title": "News4JAX 2026 Voter's Guide: Florida House District 12",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-12/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -194,7 +233,7 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Physics student at the University of North Florida; research assistant",
       "residence": null,
       "background": "Democratic candidate for HD 12; advanced to the general election without a primary.",
       "primary_result": null,
@@ -207,11 +246,17 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "He calls the proposed property-tax amendment the biggest tax cut for the one percent marketed as a win for working families.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Benjamin Sandlin",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940538",
+              "date": "2026-09"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -221,11 +266,22 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He would ban Wall Street investors from Florida's housing market, hold landlords accountable and repeal the state law restricting local tenant-rights ordinances.",
+          "quote": "Florida homes should be for Florida families only.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Benjamin Sandlin",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940538",
+              "date": "2026-09"
+            },
+            {
+              "title": "News4JAX 2026 Voter's Guide: Florida House District 12",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-12/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -235,11 +291,17 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says the parameters of 2024's Amendment 4 were 'spot on.'",
+          "quote": "I think the parameters laid out by amendment 4 in 2024 were spot on.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Benjamin Sandlin",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940538",
+              "date": "2026-09"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -249,11 +311,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He calls health care a human right and says he will sign on to any opportunity to extend coverage to more people.",
+          "quote": "Healthcare is a human right.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Benjamin Sandlin",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940538",
+              "date": "2026-09"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -263,11 +331,22 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Sandlin says he would file a bill on his first day to keep public money in public schools permanently and opposes siphoning public-school resources to private entities.",
+          "quote": "I will put draft a bill on my FIRST DAY to keep public money in public schools PERMANENTLY!",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Benjamin Sandlin",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940538",
+              "date": "2026-09"
+            },
+            {
+              "title": "News4JAX 2026 Voter's Guide: Florida House District 12",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-12/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -277,11 +356,17 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says Tallahassee has been on a power trip and authority should be handed back to localities.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Benjamin Sandlin",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940538",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -291,11 +376,22 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He pledges to fight any hurdles placed on the right to vote.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Benjamin Sandlin",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940538",
+              "date": "2026-09"
+            },
+            {
+              "title": "News4JAX 2026 Voter's Guide: Florida House District 12",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-12/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -305,11 +401,17 @@
           "sources": []
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In 2024 he criticized state actions targeting transgender students as part of culture wars.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida Tributary: Florida House District 12: Rep. Wyman Duggan faces Gen Z Benjamin Sandlin",
+              "url": "https://www.floridatrib.org/2024/10/29/florida-house-district-12-rep-wyman-duggan-faces-gen-z-benjamin-sandlin/",
+              "date": "2024-10-29"
+            }
+          ]
         },
         "energy": {
           "stance": null,
@@ -333,7 +435,24 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Unions",
+          "summary": "Sandlin says he will fight for workers' freedom to organize and end Florida's status as an anti-union state.",
+          "sources": [
+            {
+              "title": "News4JAX 2026 Voter's Guide: Florida House District 12",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-12/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Benjamin Sandlin",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940538",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [

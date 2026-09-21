@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 28 (Part of Volusia) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/bill_partington.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://billpartington.com/",
-      "occupation": null,
+      "occupation": "Attorney (assistant public defender, Seventh Judicial Circuit); state representative (elected 2024)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Partington, a UCF and Loyola law graduate, served as mayor of Ormond Beach from 2016 to 2024 before winning the HD 28 seat in 2024. He has worked as a prosecutor and as an assistant public defender and chief of the felony trial division.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,98 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for HJR 203 (Feb. 19, 2026), which would phase out all non-school property taxes on homesteads, and for HJR 1F (June 2, 2026), which placed the Amendment 3 homestead-exemption increase on the November ballot.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House passes proposed amendment to immediately phase out property taxes (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/02/19/florida-house-passes-proposed-amendment-to-immediately-phase-out-property-taxes/",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His campaign site lists reducing taxation to make Florida the most affordable state as a priority.",
+          "quote": "Reduce burdensome, punitive taxation to make Florida the most affordable state in the U.S.",
+          "sources": [
+            {
+              "title": "Issues — Bill Partington for State Representative",
+              "url": "https://billpartington.com/issues-1.html",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for SB 2-C in the February 2025 special session, which created a State Board of Immigration Enforcement, required state and local cooperation with federal immigration enforcement and added state penalties for people in the country illegally.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 2-C, Immigration (2025 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81096&VoteId=23489",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "SB 2-C (2025C) Immigration, bill detail, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=81096",
+              "date": "2025-02"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for HB 759 (2025) and HB 133 (2026), which would lower the minimum age to buy a rifle or shotgun from 21 to 18; both passed the House and died in the Senate. His site pledges unconditional support for the Second Amendment.",
+          "quote": "Unconditional support of our Second Amendment",
+          "sources": [
+            {
+              "title": "Floor Vote for HB 759, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81384&VoteId=23523",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Floor Vote for HB 133, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82655&VoteId=24341",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Issues — Bill Partington for State Representative",
+              "url": "https://billpartington.com/issues-1.html",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Did not respond to the 2026 Vote411 questionnaire.",
+          "sources": [
+            {
+              "title": "State Representative 28 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128953",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -57,9 +146,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Pastor and community activist",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Jackson, 69, was born in Vero Beach and lives in Daytona Beach. He founded Christian's Merging Together Ministry Foundations in 1990 and describes himself as a pastor and community activist; the campaign lists no website.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +158,73 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says protecting voting rights is his top priority and would introduce a bill applying the 1965 Voting Rights Act protections in Florida, plus free documents if proof of citizenship is required.",
+          "quote": "I will introduce a bill to apply all of the protections provided in the original 1965 Voting Rights Act for the people of Florida.",
+          "sources": [
+            {
+              "title": "State Representative 28 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128953",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Proposes a state constitutional amendment guaranteeing health coverage for every child and says the state should join all available federal programs.",
+          "quote": "the state should participate in all available federal programs",
+          "sources": [
+            {
+              "title": "State Representative 28 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128953",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would seek full state funding for the Sadowski, SHIP and SAIL housing programs to triple resources for local housing finance authorities.",
+          "quote": "full state funding for Sadowski, SHIP and SAIL programs",
+          "sources": [
+            {
+              "title": "State Representative 28 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128953",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says government should not restrict access to abortion or other reproductive care.",
+          "quote": "Women's access to abortion and other forms of reproductive healthcare should not be restricted by the government.",
+          "sources": [
+            {
+              "title": "State Representative 28 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128953",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says the state should increase regulation of property insurers and keep Citizens as an option.",
+          "quote": "The state should increase its regulation of property insurance providers and maintain Citizens in the future.",
+          "sources": [
+            {
+              "title": "State Representative 28 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128953",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],
@@ -90,7 +245,7 @@
       "website": "https://joehannoush.com",
       "occupation": null,
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Hannoush, of Ormond Beach, is a Libertarian Party of Florida regional representative who has run for the Florida House and U.S. House several times since 2018. He describes his philosophy as individual liberty, limited government and equal treatment under the law.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -100,8 +255,99 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would file a bill to repeal the property tax for all Floridians, arguing it would lower mortgages and rent.",
+          "quote": "I will also file a bill to repeal the property tax for all Floridians",
+          "sources": [
+            {
+              "title": "State Representative 28 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128953",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Wants to expand sales-tax exemptions on everyday goods and cut government at all levels.",
+          "quote": "I will address affordability by filing a bill to expand exemptions from taxes on common goods and services every Floridian needs.",
+          "sources": [
+            {
+              "title": "State Representative 28 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128953",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would file a bill to double funding for student education vouchers.",
+          "quote": "I would file a bill to double the funding of student education vouchers so more options would become affordable.",
+          "sources": [
+            {
+              "title": "State Representative 28 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128953",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says he would vote against bills that limit access to abortion, while opposing taxpayer funding of abortion.",
+          "quote": "I will vote against bills which would limit access to abortions via government law.",
+          "sources": [
+            {
+              "title": "State Representative 28 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128953",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Would repeal state subsidies to insurers and the requirement to carry homeowners insurance, and says high premiums signal properties that should not be owned.",
+          "quote": "I will file a bill to repeal state subsidies to insurance carriers",
+          "sources": [
+            {
+              "title": "State Representative 28 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128953",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would file a bill removing costs for documents needed to vote, which he calls repealing poll-tax laws.",
+          "quote": "I would file a bill to remove costs to access documents which are required to vote",
+          "sources": [
+            {
+              "title": "State Representative 28 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128953",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Electric utility competition",
+          "summary": "Would file a bill to repeal exclusive electric service territories so consumers can choose their power company.",
+          "sources": [
+            {
+              "title": "State Representative 28 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128953",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

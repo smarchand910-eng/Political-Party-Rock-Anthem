@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 53 in the Florida House of Representatives; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": "Open seat (incumbent Republican Jeff Holcomb switched to another race). Republican Brian Hawkins won the Aug. 18, 2026 Republican primary over John Carroll and faces Democrat Tony Claude and Constitution Party candidate Christopher Anger on Nov. 3.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Tampa Bay Times (Aug. 18, 2026): 'HD 53 (Hernando & Pasco Counties) Republican Primary: This open seat was won by Brian Hawkins against John Carroll' (https://www.tampabay.com/news/florida-politics/elections/2026/08/18/florida-legislature-house-senate-legislative-results-primary-2026/). Hernando Sun's candidate roundup (July 30, 2026) lists Democrat Tony Claude and Constitution Party candidate Christopher Anger as the general-election opponents (https://www.hernandosun.com/2026/07/30/state-house-dist-53-candidates/). Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,24 +26,36 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://brianhawkinsforflorida.com/",
-      "occupation": null,
+      "occupation": "Business owner and CEO; former Hernando County Commission chairman; U.S. Navy veteran",
       "residence": null,
       "background": "Hernando County Commissioner (District 2) since 2022 who resigned to run for HD 53 (western Hernando and northwest Pasco). Won the Aug. 18, 2026 Republican primary over John Carroll.",
       "primary_result": "Won Aug. 18, 2026 Republican primary over John Carroll (Tampa Bay Times)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His website says government should live within its means and that he will cut taxes, eliminate wasteful spending and cut regulations.",
+          "quote": "Government should live within its means, just like Florida families.",
+          "sources": [
+            {
+              "title": "Brian Hawkins for Florida House District 53 (campaign website)",
+              "url": "https://brianhawkinsforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He cites setting Hernando County's millage at the rollback rate minus 3 percent as county commission chairman as the largest property-tax reduction in the state, and campaigns on continuing to cut taxes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Brian Hawkins for Florida House District 53 (campaign website)",
+              "url": "https://brianhawkinsforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -60,11 +72,17 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says he will push legislation requiring subcontractors and independent contractors to comply with E-Verify so legal workers are not undercut.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Brian Hawkins for Florida House District 53 (campaign website)",
+              "url": "https://brianhawkinsforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -74,11 +92,17 @@
           "sources": []
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "His website lists defending Second Amendment rights among the constitutional freedoms he will protect; it does not discuss specific gun laws.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Brian Hawkins for Florida House District 53 (campaign website)",
+              "url": "https://brianhawkinsforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -130,11 +154,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says he stands with law enforcement, firefighters and first responders and supports policies that give them the resources they need.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Brian Hawkins for Florida House District 53 (campaign website)",
+              "url": "https://brianhawkinsforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -165,7 +195,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Veterans",
+          "summary": "Website notes he spearheaded creation of the Veterans Memorial at Veterans Park in Hernando County.",
+          "sources": [
+            {
+              "title": "Brian Hawkins for Florida House District 53 (campaign website)",
+              "url": "https://brianhawkinsforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [
@@ -205,9 +247,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://claudeforhd53.squarespace.com/",
-      "occupation": null,
+      "occupation": "Retired sales division manager and national account manager; U.S. Air Force veteran",
       "residence": null,
-      "background": "Democratic nominee for HD 53; an Air Force veteran, per Hernando Sun.",
+      "background": "Spring Hill resident and U.S. Air Force veteran who served four years, with deployments during Desert Storm and the Balkans conflict. He spent about 40 years in sales as a division manager, national account manager and analyst. Married 38 years with two daughters and three grandchildren.",
       "primary_result": null,
       "positions": {
         "taxes": {
@@ -225,18 +267,30 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He proposes a public option for property insurance and reforming Citizens so surplus funds a catastrophe fund rather than shareholder profit.",
+          "quote": "Public option for property insurance — reform Citizens so surplus funds a catastrophe fund, not shareholder profit",
+          "sources": [
+            {
+              "title": "Tony Claude for HD 53 - Affordability",
+              "url": "https://claudeforhd53.squarespace.com/priorities",
+              "date": "2026-09"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He wants to restore local control over housing and rent so Hernando and Pasco counties can set renter protections instead of being preempted by the state.",
+          "quote": "Restore local control over housing and rent — let Hernando and Pasco set commonsense protections for renters",
+          "sources": [
+            {
+              "title": "Tony Claude for HD 53 - Affordability",
+              "url": "https://claudeforhd53.squarespace.com/priorities",
+              "date": "2026-09"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -260,11 +314,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He commits to expanding Medicaid using unused federal funding and says he will never cut Medicare or Medicaid.",
+          "quote": "I will never cut Medicare or Medicaid. Never.",
+          "sources": [
+            {
+              "title": "Tony Claude for HD 53 - Health Care",
+              "url": "https://claudeforhd53.squarespace.com/priorities-1",
+              "date": "2026-09"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -274,25 +334,48 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "He opposes expanding vouchers at the expense of public school funding.",
+          "quote": "Oppose expanding vouchers at the expense of public school funding",
+          "sources": [
+            {
+              "title": "Tony Claude for HD 53 - Government Overreach",
+              "url": "https://claudeforhd53.squarespace.com/priorities-3",
+              "date": "2026-09"
+            }
+          ]
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He calls for a moratorium on new development that threatens springs and waterways, elected water management district boards, and opposes further data centers in Florida.",
+          "quote": "Our waters are who we are. I will protect them.",
+          "sources": [
+            {
+              "title": "Tony Claude for HD 53 - Nature Coast",
+              "url": "https://claudeforhd53.squarespace.com/priorities-2",
+              "date": "2026-09"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He proposes a moratorium on new development threatening springs and waterways and wants home rule restored so cities and counties can govern themselves.",
+          "quote": "Moratorium on new development threatening our springs and waterways",
+          "sources": [
+            {
+              "title": "Tony Claude for HD 53 - Nature Coast",
+              "url": "https://claudeforhd53.squarespace.com/priorities-2",
+              "date": "2026-09"
+            },
+            {
+              "title": "Tony Claude for HD 53 - Government Overreach",
+              "url": "https://claudeforhd53.squarespace.com/priorities-3",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -337,14 +420,43 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He wants state resources to fill gaps the VA cannot, including more veteran service officers, mental health crisis support and housing help.",
+          "quote": "Push state resources to fill the gaps the VA can't — more veteran service officers, mental health crisis support, and housing help.",
+          "sources": [
+            {
+              "title": "Tony Claude for HD 53 - Health Care",
+              "url": "https://claudeforhd53.squarespace.com/priorities-1",
+              "date": "2026-09"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Surveillance and policing",
+          "summary": "He wants to end Flock license-plate cameras in Hernando County and pursue less intrusive ways to support law enforcement.",
+          "sources": [
+            {
+              "title": "Tony Claude for HD 53 - Government Overreach",
+              "url": "https://claudeforhd53.squarespace.com/priorities-3",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Data centers",
+          "summary": "He opposes any further data centers in Florida.",
+          "sources": [
+            {
+              "title": "Tony Claude for HD 53 - Nature Coast",
+              "url": "https://claudeforhd53.squarespace.com/priorities-2",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [
@@ -369,9 +481,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://christopheranger.com/",
-      "occupation": null,
+      "occupation": "Employee of a small local business; former co-owner of a glass shop and certified building contractor; U.S. Army veteran",
       "residence": null,
-      "background": "Constitution Party of Florida candidate for HD 53, per Hernando Sun.",
+      "background": "Hernando County resident for 39 years, born in Flint, Michigan. He served in the U.S. Army from 1984 to 1987 as a combat field medic with the Berlin Brigade. He co-owned a glass shop in Homosassa with his father, holds a certified building contractor license, and has worked for a small local business for the past seven years. Married 20 years with two adult daughters.",
       "primary_result": null,
       "positions": {
         "taxes": {
@@ -445,18 +557,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His issues page lists enhanced protection of springs, lakes, rivers, wetlands and the aquifer as a key issue; no further detail is given.",
+          "quote": "ENHANCED PROTECTION OF OUR SPRINGS, LAKES, RIVERS, WETLANDS, AND AQUIFER PLUS AQUIFER RECHARGE FIELDS",
+          "sources": [
+            {
+              "title": "Christopher Anger for HD 53 - Issues",
+              "url": "https://christopheranger.com/issues",
+              "date": "2026-09"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His issues page lists responsible oversight of development and growth management as a key issue; no further detail is given.",
+          "quote": "RESPONSIBLE OVERSIGHT OF DEVELOPMENT AND GROWTH MANAGEMENT",
+          "sources": [
+            {
+              "title": "Christopher Anger for HD 53 - Issues",
+              "url": "https://christopheranger.com/issues",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -508,7 +632,24 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Primaries and campaign finance",
+          "summary": "He proposes semi-open primaries so no-party voters can participate, and reforms to PACs, lobbyists and corporate contributions.",
+          "sources": [
+            {
+              "title": "Christopher Anger for HD 53 - Solutions",
+              "url": "https://christopheranger.com/solutions",
+              "date": "2026-09"
+            },
+            {
+              "title": "Christopher Anger for HD 53 - Issues",
+              "url": "https://christopheranger.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [

@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 46 (Part of Osceola) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/michael_cruz.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
-      "occupation": null,
+      "occupation": "Real estate professional; U.S. Army veteran",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Cruz served in the U.S. Army from 1979 to 1986, attended Caribbean University in Bayamon, Puerto Rico, and works in real estate. He was the 2024 Republican nominee in HD 46, losing to Alvarez, and is running again in 2026.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -56,10 +56,10 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://electjosealvarez.com",
+      "occupation": "Real estate broker and business consultant; state representative (elected 2024)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Alvarez, 62, moved to Florida in 1974 and lives in Kissimmee, where he served on the city commission from 2012 and as mayor from 2016 to 2020. A former HUD regional administrator and past president of the Osceola County Association of Realtors, he was elected to the House in 2024.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,9 +69,152 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted against both HJR 203 and HJR 1F and says he will vote no on Amendment 3 because it would hit counties, cities, schools and renters.",
+          "quote": "It sounds like a savings, but someone has to pay for a lot of our essential services",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "2026 Voter's Guide - Florida House District 46, Democratic primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-46-democratic-primary/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Legislative, local government leaders talk session, property tax amendment (Osceola News-Gazette)",
+              "url": "https://www.aroundosceola.com/index.php/news/legislative-local-government-leaders-talk-session-property-tax-amendment",
+              "date": "2026-07-16"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Backs public-private partnerships, targeted tax credits and streamlined permitting for workforce housing.",
+          "quote": "People who work in Osceola County should be able to afford to live in Osceola County.",
+          "sources": [
+            {
+              "title": "Voting Osceola: Meet the State House District 46 & 47 candidates (Osceola News-Gazette)",
+              "url": "http://www.aroundosceola.com/election-2026/voting-osceola-meet-state-house-district-46-47-democraticuniversal-primary-candidates",
+              "date": "2026-07-29"
+            },
+            {
+              "title": "Elect Jose Alvarez — Issues",
+              "url": "https://electjosealvarez.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says data-center developers should pay for utility and road upgrades and favors smart-growth policies protecting sensitive lands.",
+          "quote": "Data center developers should pay for the upgrades needed to electric, water, sewer, and transportation systems",
+          "sources": [
+            {
+              "title": "Voting Osceola: Meet the State House District 46 & 47 candidates (Osceola News-Gazette)",
+              "url": "http://www.aroundosceola.com/election-2026/voting-osceola-meet-state-house-district-46-47-democraticuniversal-primary-candidates",
+              "date": "2026-07-29"
+            },
+            {
+              "title": "2026 Voter's Guide - Florida House District 46, Democratic primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-46-democratic-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Emphasizes protecting wetlands, the aquifer and water quality through smart growth.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Voting Osceola: Meet the State House District 46 & 47 candidates (Osceola News-Gazette)",
+              "url": "http://www.aroundosceola.com/election-2026/voting-osceola-meet-state-house-district-46-47-democraticuniversal-primary-candidates",
+              "date": "2026-07-29"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted against SB 2-C, the 2025 special-session immigration enforcement law.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 2-C, Immigration (2025 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81096&VoteId=23489",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "SB 2-C (2025C) Immigration, bill detail, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=81096",
+              "date": "2025-02"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted for HB 759 (2025) and HB 133 (2026), which would lower the minimum age to buy a rifle or shotgun to 18; he was the only Democrat voting for HB 133.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for HB 759, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81384&VoteId=23523",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Floor Vote for HB 133, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82655&VoteId=24341",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Florida House passes bill to lower the age to purchase a long gun to 18 years (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/01/15/florida-house-passes-bill-to-lower-the-age-to-purchase-a-long-gun-to-18-years/",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His site calls for patient-centered reforms to expand affordable coverage and tackle drug costs.",
+          "quote": "expand affordable coverage and tackling the high costs of treatments and prescription drugs",
+          "sources": [
+            {
+              "title": "Elect Jose Alvarez — Issues",
+              "url": "https://electjosealvarez.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Sponsored HB 705 (2025) and HB 275 (2026) on Citizens Property Insurance rate increases and HB 685 (2025) on converting hotels to housing.",
+          "sources": [
+            {
+              "title": "Elect Jose Alvarez — Legislative Actions",
+              "url": "https://electjosealvarez.com/legislative-actions",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {

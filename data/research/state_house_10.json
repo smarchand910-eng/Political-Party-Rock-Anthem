@@ -19,7 +19,7 @@
   "what_it_does": "Represents District 10 (Baker, Bradford, Columbia, Union, Part of Alachua) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -30,9 +30,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.marshallrawsoncampaign.com/",
-      "occupation": null,
+      "occupation": "Citrus grower (Free State Growers); Florida State Guard officer; attorney",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Marshall Rawson, 34, operates an agricultural business in North Florida, holds a law degree from the University of Florida (2023) and serves part-time as an officer in the Florida State Guard, including a deployment to the Texas border. He previously worked as an aide to a Georgia congressman and as a legal assistant in the Secretary of State's office. During the 2026 campaign, news outlets reported on his past attendance at the 2017 Charlottesville rally and ties to the League of the South; he said his involvement with the group was limited.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -42,8 +42,158 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "immigration": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Rawson says he would use the 287(g) program to deputize local police and the State Guard to arrest people in the country illegally, and calls for using state police powers to limit how many people move to Florida.",
+          "quote": "Utilize our 287g program to deputize local law enforcement and The Guard to make arrest on illegal immigrants",
+          "sources": [
+            {
+              "title": "News4JAX 2026 Voter's Guide: Florida House District 10",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/29/2026-voters-guide-florida-house-district-10/",
+              "date": "2026-07-29"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Marshall Rawson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690829",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Asked on Vote411 under what circumstances he would support abortion access, Rawson answered that he would not under any circumstances.",
+          "quote": "Under no circumstances. If government has one role, it is to protect innocent life.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Marshall Rawson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690829",
+              "date": "2026-09"
+            },
+            {
+              "title": "Marshall Rawson campaign website",
+              "url": "https://www.marshallrawsoncampaign.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "His campaign site says he has championed Second Amendment rights and fought gun restrictions at the state and university level.",
+          "quote": "Championed Second Amendment rights and fought unconstitutional restrictions at the state and university level.",
+          "sources": [
+            {
+              "title": "Marshall Rawson campaign website",
+              "url": "https://www.marshallrawsoncampaign.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Rawson calls for immediate property-tax relief as assessed values climb and says government can directly change or end taxes because it levies them.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "News4JAX 2026 Voter's Guide: Florida House District 10",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/29/2026-voters-guide-florida-house-district-10/",
+              "date": "2026-07-29"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Marshall Rawson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690829",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He names overdevelopment as a top challenge, wants an environmental carrying-capacity standard tied to the aquifer, and opposes state preemption of local planning and zoning.",
+          "quote": "I find it inappropriate and destructive to both our environment and to our way of life for Tallahassee to preempt local municipalities from determining their own planning and zoning.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Marshall Rawson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690829",
+              "date": "2026-09"
+            },
+            {
+              "title": "Marshall Rawson campaign website",
+              "url": "https://www.marshallrawsoncampaign.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Rawson says Florida must preserve greenspace and farmland and set environmental standards based on the aquifer's capacity rather than pave over the state for growth.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Marshall Rawson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690829",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "On housing he favors deregulating permitting for tiny homes and alternative housing rather than new programs, and says the real problem is land prices and population growth.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Marshall Rawson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690829",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "He says more competition in the health-care market, not government programs, would lower prices.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Marshall Rawson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690829",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His site says he has pushed back against wasteful government expansion and excessive local tax increases.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Marshall Rawson campaign website",
+              "url": "https://www.marshallrawsoncampaign.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Charlottesville rally and League of the South",
+          "summary": "The Independent Florida Alligator reported that Rawson attended the 2017 Unite the Right rally and had past ties to the League of the South; Rawson said he was upfront about his brief attendance and had little involvement with the group.",
+          "sources": [
+            {
+              "title": "The Independent Florida Alligator: Florida House 10 candidate's past ties to extremist groups draw criticism",
+              "url": "https://www.alligator.org/article/2026/09/florida-house-10-candidate-s-past-ties-to-extremist-groups-draw-criticism",
+              "date": "2026-09-21"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -60,10 +210,10 @@
       "incumbent": false,
       "photo_url": "assets/photos/merrillee_malwitz_jipson.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
-      "website": null,
-      "occupation": null,
+      "website": "https://merrillee.com/",
+      "occupation": "Co-owner of Rum 138, a canoe and kayak outfitter, art gallery and cafe in Fort White; longtime water advocate",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Merrillee Malwitz-Jipson, 61, co-owns Rum 138, a recreation outfitter and art gallery on the Santa Fe River, and has spent about two decades advocating for North Florida's springs and rivers as a founding member of groups such as Our Santa Fe River and as a former Sierra Club lobbyist. She holds a BFA from Ringling College of Art and Design.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -73,7 +223,135 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She supports single-payer, Medicare-for-all style reform and says Florida should accept federal health-care money.",
+          "quote": "I support single-payer, Medicare-for-all reform. It saves money, eliminates unnecessary middlemen, and treats healthcare as what it is: a basic condition of a decent life.",
+          "sources": [
+            {
+              "title": "Merrillee Malwitz-Jipson campaign website",
+              "url": "https://merrillee.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Merrillee Malwitz-Jipson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020199",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Protecting the Floridan Aquifer and clean water is the core of her platform; she opposes industrial data centers and intensive development in the region.",
+          "quote": "Life begins with clean water and clean air. Without them, nothing else is possible.",
+          "sources": [
+            {
+              "title": "Merrillee Malwitz-Jipson campaign website",
+              "url": "https://merrillee.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Merrillee Malwitz-Jipson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020199",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She says the Live Local Act should be rescinded, opposes state preemption of local land-use decisions and says the district cannot sustain more intensive development over the aquifer.",
+          "quote": "The Live Local Act must be rescinded as local communities understand the conditions of their neighborhoods and development issues",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Merrillee Malwitz-Jipson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020199",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She says government has removed personal choice on abortion and that the decision must rest with a doctor and patient.",
+          "quote": "Abortion must be a carefully made choice between a medical doctor and the patient.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Merrillee Malwitz-Jipson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020199",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "On housing she proposes limits on corporate ownership of rental property and restrictions on foreign investors, rather than the Live Local Act.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Merrillee Malwitz-Jipson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020199",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She notes homestead taxes are already capped and fund vital services, and proposes capping taxes on heirs' property instead of broad cuts.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Merrillee Malwitz-Jipson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020199",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She says insurance costs for coastal, flood-prone or forested properties should reflect owners' choices rather than be spread to others.",
+          "quote": "The cost to insure these properties must reflect the choices of these property owners, rather than passing these costs down to others.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Merrillee Malwitz-Jipson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020199",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She says federal immigration policy interferes with the state's need for workers in agriculture, construction and tourism.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Merrillee Malwitz-Jipson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020199",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Her site calls for equal justice and accountability for law enforcement regardless of wealth or fame.",
+          "quote": "Equal justice is not a political position. It is the foundation of a free society.",
+          "sources": [
+            {
+              "title": "Merrillee Malwitz-Jipson campaign website",
+              "url": "https://merrillee.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

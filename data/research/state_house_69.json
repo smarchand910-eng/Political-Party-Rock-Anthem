@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 69 (Part of Hillsborough) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -25,10 +25,10 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://electdannyalvarez.com/",
+      "occupation": "Attorney (family law) and business consultant; general counsel, Tampa Police Benevolent Association; state representative for District 69 since 2022",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Family-law attorney and business consultant who served as an Army infantry officer from 1997 to 2001 and taught business law at the University of Tampa for nearly nine years. He is general counsel for the Tampa Police Benevolent Association and has represented District 69 since 2022, winning re-election in 2024.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,126 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HJR 1-F in the June 2026 special session, which placed Amendment 3 on the November ballot to raise the homestead exemption for non-school property taxes to $150,000 in 2027 and $250,000 in 2028 and to limit how counties and cities may spend property-tax revenue.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HJR 1F (Save our Homes from Excessive Property Taxes), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on SB 2-C (2025), which created the State Board of Immigration Enforcement, required state help with federal detainers, barred driver licenses for unauthorized immigrants, and funded an Unauthorized Alien Transport Program.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 2-C (Immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on SB 300 (2023), the law that limits most abortions after six weeks of pregnancy.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 300 (Heartbeat Protection Act, six-week abortion limit), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 543 (2023), which allows carrying a concealed firearm without a state license.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HB 543 (concealed carry without a license), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 1 (2023), which removed income limits and enrollment caps so state scholarship funds can follow any K-12 student to private or home education.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/CS/CS/CS/HB 1 (universal school-choice scholarships), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted yes on CS/HJR 1F (homestead property-tax exemption increase / Amendment 3), House passage 75-26, June 2, 2026.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HJR 1F (Save our Homes from Excessive Property Taxes), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on SB 2-C (Immigration enforcement), House passage 85-30, Feb. 13, 2025.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 2-C (Immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on SB 300 (six-week abortion limit), House passage 70-40, April 13, 2023.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 300 (Heartbeat Protection Act, six-week abortion limit), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on CS/HB 543 (permitless concealed carry), House passage 76-32, March 24, 2023.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HB 543 (concealed carry without a license), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on CS/CS/CS/CS/HB 1 (universal school-choice scholarships), House passage 83-27, March 17, 2023.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/CS/CS/CS/HB 1 (universal school-choice scholarships), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -51,9 +168,9 @@
       "photo_url": "assets/photos/ashley_herrmann.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://ashleyforfloridahouse.com/",
-      "occupation": null,
+      "occupation": "Community organizer",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Lifelong Floridian, community organizer and self-described democratic socialist who is a first-generation college graduate and mother of two. She has worked at FDOT and in schools, and ran for House District 49 in 2024.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -63,7 +180,138 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She would repeal the six-week abortion law and write a right to abortion into Florida statute.",
+          "quote": "Abortion Is Healthcare, Full Stop: Repeal the six-week abortion ban and write the right to abortion straight into Florida law.",
+          "sources": [
+            {
+              "title": "Ashley Herrmann for Florida House - Healthcare",
+              "url": "https://ashleyforfloridahouse.com/healthcare",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She would expand Medicaid by statute and create a state bridge fund for the ACA subsidy cliff.",
+          "quote": "Expand Medicaid by statute (no constitutional amendment required); create a state bridge fund for the ACA subsidy cliff.",
+          "sources": [
+            {
+              "title": "Ashley Herrmann for Florida House - Healthcare",
+              "url": "https://ashleyforfloridahouse.com/healthcare",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She would repeal state bans on local rent caps and short-term rental rules, guarantee lawyers in eviction court and fully fund the affordable housing trust fund.",
+          "quote": "Repeal the state bans that keep our own city from capping rent hikes or reining in Airbnb.",
+          "sources": [
+            {
+              "title": "Ashley Herrmann for Florida House - Housing",
+              "url": "https://ashleyforfloridahouse.com/housing",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "She would repeal SB 254 (gender-affirming care restrictions), the K-12 classroom restrictions on sexual orientation and gender identity, and HB 1521 (bathroom law), and pass a statewide LGBTQ+ anti-discrimination law.",
+          "quote": "Repeal SB 254 (2023, gender-affirming care ban)",
+          "sources": [
+            {
+              "title": "Ashley Herrmann for Florida House - LGBTQ+",
+              "url": "https://ashleyforfloridahouse.com/lgbtq",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "She would repeal the state mandate that local police enter ICE agreements and ban such agreements outright.",
+          "quote": "Repeal the state mandate forcing local police into ICE agreements and ban them outright.",
+          "sources": [
+            {
+              "title": "Ashley Herrmann for Florida House - Safety",
+              "url": "https://ashleyforfloridahouse.com/safety",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "She would end private prison contracts and create civilian oversight committees with a public vote before police acquire military gear.",
+          "quote": "End Florida's private prison contracts and stop rewarding companies like GEO Group.",
+          "sources": [
+            {
+              "title": "Ashley Herrmann for Florida House - Safety",
+              "url": "https://ashleyforfloridahouse.com/safety",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She would repeal the fines-and-fees requirement for returning citizens to vote, undo barriers to ballot initiatives and restore a simple majority for amendments.",
+          "quote": "end the pay-to-vote requirement for past convictions",
+          "sources": [
+            {
+              "title": "Ashley Herrmann for Florida House - Democracy",
+              "url": "https://ashleyforfloridahouse.com/democracy",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She would repeal SB 180 to allow stronger post-storm rebuilding rules, stop weakening of wetlands protection, fight offshore drilling and fund Everglades land purchases.",
+          "quote": "Stop Reckless Development: Repeal the law blocking stronger rebuilding rules after a hurricane and stop the state from weakening wetlands protections.",
+          "sources": [
+            {
+              "title": "Ashley Herrmann for Florida House - Environment & Climate",
+              "url": "https://ashleyforfloridahouse.com/environment",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She would lock rooftop-solar net-metering rates into statute.",
+          "quote": "Lock in rooftop solar rates so families who go solar keep what they were promised.",
+          "sources": [
+            {
+              "title": "Ashley Herrmann for Florida House - Environment & Climate",
+              "url": "https://ashleyforfloridahouse.com/environment",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She calls for stopping reckless development, including repealing the law that blocks stronger local rebuilding rules after hurricanes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Ashley Herrmann for Florida House - Environment & Climate",
+              "url": "https://ashleyforfloridahouse.com/environment",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

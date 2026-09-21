@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 102 (Part of Broward) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/mery_lopez_palma.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.merylopezpalma.com/",
-      "occupation": null,
+      "occupation": "Attorney (own law office since 2003); small-business owner including Vicky Bakery franchise locations",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Mery Lopez-Palma, 56, was born in Cuba and came to Florida as a child. She has practiced law for more than two decades, owns bakery franchise locations and is a mother of four. She won the August 2026 Republican primary for the Davie-Plantation-Sunrise district.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,7 +38,104 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Lopez-Palma describes herself as pro-life, supporting exceptions for the life of the mother and those in current Florida law.",
+          "quote": "I am pro-life and believe every human life is precious.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Mery Lopez-Palma",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691013",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "She strongly disagreed that people should be able to vote without photo ID and supports ensuring only citizens vote, with fee waivers for required documents.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Mery Lopez-Palma",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691013",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She pledges to lower taxes where possible and cut unnecessary regulations to ease burdens on homeowners and small businesses.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Mery Lopez-Palma",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691013",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Her approach to insurance is to increase market competition and reduce fraud and unnecessary costs.",
+          "quote": "We should address both by increasing competition in the insurance market, reducing fraud and unnecessary costs, and pursuing responsible tax relief.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Mery Lopez-Palma",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691013",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She favors workforce development, price transparency and private-sector solutions, with careful review of Medicaid spending.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Mery Lopez-Palma",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691013",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site pledges to support law enforcement and she says she will back investments in police, firefighters and first responders.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Mery Lopez-Palma campaign website",
+              "url": "https://www.merylopezpalma.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Mery Lopez-Palma",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691013",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She says property taxes strain family budgets and supports responsible tax relief.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Mery Lopez-Palma",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691013",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],
@@ -57,9 +154,9 @@
       "photo_url": "assets/photos/michael_friend.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.ElectMikeFriend.com",
-      "occupation": null,
+      "occupation": "Dentist (25+ years); small-business owner; national dental director for an insurance carrier",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Mike Friend, 50, is a Davie dentist who has practiced for more than 25 years and also serves as a national dental director for an insurance carrier. A University of Pennsylvania dental graduate, he is a public-school parent and serves on advisory boards for NSU's College of Dental Medicine and the Town of Davie. He won the August 2026 Democratic primary.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +166,91 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Friend says health-care access is his central issue and wants to take on health insurers, invest in preventive care and community health centers and expand the provider workforce.",
+          "quote": "Florida needs a pragmatic fighter like me to take on the health insurance carriers.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michael Friend",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691011",
+              "date": "2026-09"
+            },
+            {
+              "title": "Ballotpedia: Michael Friend",
+              "url": "https://ballotpedia.org/Michael_Friend",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says reproductive decisions belong out of politicians' hands and supports abortion access, with prevention as a focus.",
+          "quote": "I strongly believe that woman's reproductive rights belong out of the hands of politicians.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michael Friend",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691011",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He supports a state catastrophic fund to protect homeowners, stronger consumer protections and fair-dealing requirements for insurers, alongside more competition and home hardening.",
+          "quote": "focus on a state catastrophic fund that will protect homeowners and not insurance companies.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michael Friend",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691011",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He backs full use of state housing programs, public-private partnerships and streamlined permitting to expand affordable and workforce housing.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michael Friend",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691011",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says the balance has shifted too far toward state preemption and local governments should keep the ability to respond to local needs.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michael Friend",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691011",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He would waive fees and expand assistance so a proof-of-citizenship rule does not block eligible voters.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michael Friend",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691011",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

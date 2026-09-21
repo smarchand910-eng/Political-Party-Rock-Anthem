@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 100 (Part of Broward) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.yonianijar.com/",
-      "occupation": null,
+      "occupation": "Attorney (founder of First Gen Law, PLC); U.S. Army Reserve JAG captain",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Yoni Anijar, 35, is a corporate attorney who founded First Gen Law and serves as a captain and judge advocate in the U.S. Army Reserve. The son of Israeli immigrant business owners, he graduated from the University of Florida and George Washington University Law School and began his career at a New York law firm. He won a four-way Republican primary in August 2026.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,7 +38,161 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "immigration": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His campaign site lists securing the border and stopping illegal immigration as a top issue, and he strongly disagreed with sanctuary cities in a 2026 survey.",
+          "quote": "Secure the border and stop illegal immigration",
+          "sources": [
+            {
+              "title": "Yoni Anijar campaign website",
+              "url": "https://www.yonianijar.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His site lists eliminating property taxes as a priority and on Vote411 he supports continuing the push for permanent property-tax relief.",
+          "quote": "Eliminate property taxes",
+          "sources": [
+            {
+              "title": "Yoni Anijar campaign website",
+              "url": "https://www.yonianijar.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Yoni Anijar",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691001",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Anijar favors a free-market approach: expand My Safe Florida Home mitigation grants and shift risk away from state-backed Citizens toward private insurers.",
+          "quote": "we must establish a predictable regulatory and legal environment to shift the insurance burden away from the state-backed Citizens Property Insurance and back to a competitive private market.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Yoni Anijar",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691001",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "He supports Florida's current abortion law and says the right to life is a fundamental liberty; in a 2026 survey he strongly agreed life deserves legal protection from conception.",
+          "quote": "Florida's current legal framework establishes clear statutory boundaries around abortion access, while preserving essential exceptions",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Yoni Anijar",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691001",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "His site pledges to defend and preserve Second Amendment rights, and in a survey he called the Second Amendment 'the ultimate guarantor' of other rights.",
+          "quote": "Defend and Preserve our Second Amendment Rights",
+          "sources": [
+            {
+              "title": "Yoni Anijar campaign website",
+              "url": "https://www.yonianijar.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "He says Florida should reject government-subsidized health care in favor of price transparency, direct primary care and expanded scope of practice.",
+          "quote": "Florida must reject the failed model of government-subsidized healthcare and instead champion free-market reforms, price transparency, and increased supply.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Yoni Anijar",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691001",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "He calls the housing shortage a supply-side problem, backing zoning reform, surplus public land for workforce housing and faster permitting, while rejecting new government spending or government-run projects.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Yoni Anijar",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691001",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "He strongly disagreed that people should vote without photo ID, while saying the state should waive fees and automate records if proof of citizenship is required.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Yoni Anijar",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691001",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "trump": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His site's first listed issue is supporting President Trump's America First agenda, and he has said he voted for Trump three times.",
+          "quote": "Support President Trump's America First agenda!",
+          "sources": [
+            {
+              "title": "Yoni Anijar campaign website",
+              "url": "https://www.yonianijar.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "The Floridian: Republican Yoni Anijar Qualifies for House District 100 Ballot",
+              "url": "https://floridianpress.com/2026/04/republican-yoni-anijar-qualifies-for-house-district-100-ballot/",
+              "date": "2026-04-23"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His site lists protecting communities from over-development among his issues.",
+          "quote": "Protect our communities from over-development",
+          "sources": [
+            {
+              "title": "Yoni Anijar campaign website",
+              "url": "https://www.yonianijar.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He proposes permanent sales-tax exemptions on essential family goods and says Floridians should keep more of what they earn.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Yoni Anijar",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691001",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],
@@ -57,9 +211,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://michaelferguson.vote/",
-      "occupation": null,
+      "occupation": "Attorney; U.S. Air Force veteran (former judge advocate and special trial counsel)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Michael Ferguson, 32, is an attorney and Air Force veteran who served as a judge advocate prosecuting and defending criminal cases. He grew up in the coastal Broward district and now practices at a Fort Lauderdale law firm.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +223,117 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Ferguson calls for stronger insurance oversight and rate transparency and proposes a state catastrophic fund that would take hurricane and windstorm risk out of the private market.",
+          "quote": "I also support creating a state catastrophic fund that would remove hurricane and windstorm risk from the private market and use the state's scale to dramatically lower premiums.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michael Ferguson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020251",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "He opposes treating sweeping property-tax cuts as the main affordability fix, saying they weaken first responders and infrastructure while doing little about insurance.",
+          "quote": "That is why I oppose treating sweeping property-tax cuts as the main affordability solution.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michael Ferguson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020251",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He would expand and consistently fund the Hometown Heroes program, create a rental version through tax credits, and encourage workforce housing near jobs and transit.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michael Ferguson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020251",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Ferguson supported Amendment 4 in 2024 and says he will defend reproductive freedom and work to restore Roe v. Wade standards.",
+          "quote": "I believe reproductive healthcare decisions should be made by a woman in consultation with her doctor, not by politicians in Tallahassee.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michael Ferguson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020251",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He supports expanding Medicaid and preserving affordable marketplace coverage as federal subsidies decline.",
+          "quote": "I support expanding Medicaid so Florida can bring federal dollars home",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michael Ferguson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020251",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says preemption should be used sparingly, that the state should set floors not ceilings, and lists opposing overdevelopment among his priorities.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michael Ferguson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020251",
+              "date": "2026-09"
+            },
+            {
+              "title": "The Ballot Brief: Broward County Sample Ballot & Voter Guide 2026",
+              "url": "https://theballotbrief.com/state/florida/broward-county",
+              "date": "2026-09-11"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He wants major state investment in drainage, flood mitigation and coastal resilience.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michael Ferguson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020251",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He opposes unnecessary barriers to the ballot and says the state should bear the cost if proof of citizenship is required.",
+          "quote": "No eligible voter should lose their vote because of an honest paperwork mismatch.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michael Ferguson",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020251",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

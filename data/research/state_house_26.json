@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 26 (Part of Lake) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/nan_cobb.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
-      "occupation": null,
+      "occupation": "Small business owner (tractor dealership, floral design and nursery operations); state representative (elected 2024)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Cobb, a Lake County resident for more than 35 years, co-owns Cobb's Tractor in Eustis with her husband and served on the Eustis City Commission from 2021 until her 2024 election to the House. She was born in Pompano Beach and trained at Lake Technical College.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,85 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for HJR 203 (Feb. 19, 2026), which would phase out all non-school property taxes on homesteads, and for HJR 1F (June 2, 2026), which placed the Amendment 3 homestead-exemption increase on the November ballot.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House passes proposed amendment to immediately phase out property taxes (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/02/19/florida-house-passes-proposed-amendment-to-immediately-phase-out-property-taxes/",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for SB 2-C in the February 2025 special session, which created a State Board of Immigration Enforcement, required state and local cooperation with federal immigration enforcement and added state penalties for people in the country illegally.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 2-C, Immigration (2025 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81096&VoteId=23489",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "SB 2-C (2025C) Immigration, bill detail, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=81096",
+              "date": "2025-02"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for HB 759 (2025) and HB 133 (2026), which would lower the minimum age to buy a rifle or shotgun from 21 to 18; both passed the House and died in the Senate.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for HB 759, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81384&VoteId=23523",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Floor Vote for HB 133, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82655&VoteId=24341",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Florida House passes bill to lower the age to purchase a long gun to 18 years (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/01/15/florida-house-passes-bill-to-lower-the-age-to-purchase-a-long-gun-to-18-years/",
+              "date": "2026-01-15"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Did not respond to the 2026 Vote411 questionnaire; no campaign website was found.",
+          "sources": [
+            {
+              "title": "State Representative 26 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129086",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -56,10 +132,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://vote4robynlawrence.com",
+      "occupation": "Account manager",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Lawrence, 60, of Leesburg, works as an account manager and would be the first transgender member of the Florida House if elected. Her campaign centers on cost of living, health care access and equal rights.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +145,86 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports expanding Medicaid eligibility in Florida, lowering prescription drug costs and strengthening mental health services.",
+          "quote": "I support expanding Medicaid eligibility in Florida, which would help provide coverage to more working families",
+          "sources": [
+            {
+              "title": "State Representative 26 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129086",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports protecting access to abortion, with decisions left to a woman and her doctor.",
+          "quote": "reproductive healthcare decisions should be made by a woman in consultation with her healthcare provider—not by politicians",
+          "sources": [
+            {
+              "title": "State Representative 26 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129086",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Backs full funding of the Sadowski housing trust funds, renter protections and limits on manufactured-home lot rent increases.",
+          "quote": "I support fully funding and protecting the Sadowski Housing Trust Funds",
+          "sources": [
+            {
+              "title": "State Representative 26 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129086",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Calls for more transparency and stronger oversight of premium increases so reforms produce savings for consumers, plus mitigation investment.",
+          "quote": "strengthen oversight of premium increases, and ensure that reforms passed in Tallahassee actually result in savings for consumers",
+          "sources": [
+            {
+              "title": "State Representative 26 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129086",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says the state has taken too much power from local communities and pledges to oppose unnecessary preemption.",
+          "quote": "I believe Florida has shifted too much power away from local communities through state preemption.",
+          "sources": [
+            {
+              "title": "State Representative 26 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129086",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says the right to vote should not depend on the ability to obtain documents and supports waiving fees if proof of citizenship is required.",
+          "quote": "The right to vote should never depend on someone's ability to pay for or easily obtain government documents.",
+          "sources": [
+            {
+              "title": "State Representative 26 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129086",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []

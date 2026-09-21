@@ -14,7 +14,7 @@
   ],
   "what_it_does": "Represents Florida's 7th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
   "coverage": "partial",
-  "verified_ballot_note": "AP/NPR/Roll Call (Aug 18, 2026) report Ryan Elijah defeated incumbent Cory Mills in the Republican primary; FOX 35 and a syndicated report state Elijah will face Democrat Bale Dalton in November (https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary ; https://www.fox35orlando.com/news/florida-primary-election-result-2026-cd7 ; https://www.yahoo.com/news/politics/articles/ryan-elijah-secures-primary-win-001611106.html). No incumbent is on the November ballot. NPA/write-in candidates not confirmed. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide.",
+  "verified_ballot_note": "AP/NPR/Roll Call (Aug 18, 2026) report Ryan Elijah defeated incumbent Cory Mills in the Republican primary; FOX 35 and a syndicated report state Elijah will face Democrat Bale Dalton in November (https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary ; https://www.fox35orlando.com/news/florida-primary-election-result-2026-cd7 ; https://www.fox35orlando.com/news/florida-congressional-district-7-election-results). No incumbent is on the November ballot. NPA/write-in candidates not confirmed. Florida's Legislature passed a new congressional map in the April 2026 special session (Senate vote 21-17 on April 29, 2026) and the Florida Supreme Court on June 10, 2026 declined (6-1) to block it, so the new district lines apply to the Nov. 3, 2026 election; litigation on the merits continues. (https://floridaphoenix.com/2026/04/29/florida-legislature-passes-desantis-congressional-redistricting-map/; https://mynews13.com/fl/orlando/news/2026/06/10/florida-supreme-court-clears-way-for-new-redistricting-map-in-2026; https://www.wusf.org/politics-issues/2026-06-11/florida-supreme-court-rejects-challenge-new-redistricting-map) County list reflects pre-2026 district boundaries unless a 2026 source is cited; boundaries changed under the April 2026 map and the exact new county composition was not confirmed in searches run for this guide.",
   "candidates": [
     {
       "id": "ryan_elijah",
@@ -291,6 +291,17 @@
               "url": "https://elijahforcongress.com/"
             }
           ]
+        },
+        {
+          "title": "Iran, Israel, 2020 election, stock trading, data centers",
+          "summary": "In a Sept. 8 interview Elijah said the Iran conflict's timeline has been frustrating; said Israel is a key ally but that support should not be unconditional and that he is not taking AIPAC money; said plainly that the 2020 election was not stolen and Joe Biden was elected; supported restricting stock trading by members on relevant committees; and said data-center siting should be handled at the state level.",
+          "sources": [
+            {
+              "title": "In Their Own Words: Elijah and Dalton on the issues facing Florida's 7th district (WKMG/ClickOrlando)",
+              "url": "https://www.clickorlando.com/news/local/2026/09/08/in-their-own-words-elijah-and-dalton-on-the-issues-facing-floridas-7th-district/",
+              "date": "2026-09-08"
+            }
+          ]
         }
       ],
       "record": [
@@ -357,6 +368,16 @@
               "url": "https://flvoicenews.com/highlands-county-sheriff-paul-blackman-endorses-ryan-elijah-in-floridas-7th-congressional-district-race/"
             }
           ]
+        },
+        {
+          "by": "President Donald Trump (Truth Social, Sept. 1, 2026)",
+          "sources": [
+            {
+              "title": "Trump endorses eight Florida GOP House nominees (Florida's Voice)",
+              "url": "https://flvoicenews.com/trump-endorses-eight-florida-gop-house-nominees-slams-democratic-opponents-as-radical/",
+              "date": "2026-09-01"
+            }
+          ]
         }
       ]
     },
@@ -374,11 +395,17 @@
       "primary_result": "Won Aug 18, 2026 Democratic primary over Alan Grayson and Marialana Kinter; led with more than 45% in Volusia County per Florida Politics; district-wide percentage not found (Florida Politics: https://floridapolitics.com/archives/814941-bale-dalton-officially-snags-democratic-nomination-in-battleground-cd-7/ ; FOX 35: https://www.fox35orlando.com/news/florida-primary-election-result-2026-cd7)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Dalton says working families in Volusia and Seminole counties need a tax cut and supports tax relief for working families, seniors and small businesses, while opposing tax giveaways to billionaires and corporations and opposing Medicaid cuts.",
+          "quote": "don't just deserve a tax cut – they need one",
+          "sources": [
+            {
+              "title": "Priorities - Bale Dalton for Congress",
+              "url": "https://baledalton.com/priorities/",
+              "date": "2026-09"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -489,11 +516,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Under a 'Keeping Florida Wild' heading, Dalton's priorities page supports protecting Florida's natural areas and opposes offshore drilling near Florida's coasts, while also backing energy independence.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Priorities - Bale Dalton for Congress",
+              "url": "https://baledalton.com/priorities/",
+              "date": "2026-09"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -517,25 +550,43 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Dalton's priorities page says public safety is a core government responsibility and calls for police departments to be fully funded with the resources they need.",
+          "quote": "police departments are fully funded and have the resources they need",
+          "sources": [
+            {
+              "title": "Priorities - Bale Dalton for Congress",
+              "url": "https://baledalton.com/priorities/",
+              "date": "2026-09"
+            }
+          ]
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked about transgender issues in a September 2026 interview, Dalton said boys should not play in girls' sports but that decisions about medical care belong to families, parents and their doctors, and that the federal government has no business in those decisions.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "In Their Own Words: Elijah and Dalton on the issues facing Florida's 7th district (WKMG/ClickOrlando)",
+              "url": "https://www.clickorlando.com/news/local/2026/09/08/in-their-own-words-elijah-and-dalton-on-the-issues-facing-floridas-7th-district/",
+              "date": "2026-09-08"
+            }
+          ]
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Dalton's priorities page endorses an 'all-of-the-above' energy policy that supports both natural gas and solar industries.",
+          "quote": "all-of-the-above energy policy",
+          "sources": [
+            {
+              "title": "Priorities - Bale Dalton for Congress",
+              "url": "https://baledalton.com/priorities/",
+              "date": "2026-09"
+            }
+          ]
         },
         "tariffs": {
           "stance": -2,
@@ -576,11 +627,17 @@
           ]
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Dalton, a retired Navy captain, says every American who serves should receive the benefits earned through service and supports veteran support systems.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Priorities - Bale Dalton for Congress",
+              "url": "https://baledalton.com/priorities/",
+              "date": "2026-09"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -639,6 +696,17 @@
             {
               "title": "Florida Politics: Bale Dalton officially snags Democratic nomination in battleground CD 7",
               "url": "https://floridapolitics.com/archives/814941-bale-dalton-officially-snags-democratic-nomination-in-battleground-cd-7/"
+            }
+          ]
+        },
+        {
+          "title": "Iran, data centers, stock trading, campaign money",
+          "summary": "In a Sept. 8 interview Dalton called the Iran conflict a 'war of choice' with no clear strategy; said local governments should have veto power over data centers; said he has pledged not to trade individual stocks; and said he has taken no AIPAC money.",
+          "sources": [
+            {
+              "title": "In Their Own Words: Elijah and Dalton on the issues facing Florida's 7th district (WKMG/ClickOrlando)",
+              "url": "https://www.clickorlando.com/news/local/2026/09/08/in-their-own-words-elijah-and-dalton-on-the-issues-facing-floridas-7th-district/",
+              "date": "2026-09-08"
             }
           ]
         }

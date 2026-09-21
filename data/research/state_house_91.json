@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 91 (Part of Palm Beach) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://peggyforfl.com/",
-      "occupation": null,
+      "occupation": "Former sportswriter and media/public relations director; state representative since 2022",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Peggy Gossett-Seidman was born in Topeka, Kansas, earned a degree in English, journalism and history from Michigan State University, and worked as a sportswriter and media and public relations director. She lives in Highland Beach and has represented District 91 (Boca Raton area) since 2022, winning re-election in 2024.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,201 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her site says she cut taxes by $4.2 billion to provide direct relief to Floridians and will keep fighting inflation.",
+          "quote": "Cut taxes by $4.2 billion to provide direct relief to Floridians",
+          "sources": [
+            {
+              "title": "Peggy Gossett-Seidman, Republican, for Florida House District 91 - campaign site",
+              "url": "https://peggyforfl.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site proposes new bipartisan insurance reforms that cap rates and guarantee payouts, and says she will work with condo associations on new regulations.",
+          "quote": "pass new, bipartisan insurance reforms that Cap rates and guarantee payouts",
+          "sources": [
+            {
+              "title": "Peggy Gossett-Seidman, Republican, for Florida House District 91 - campaign site",
+              "url": "https://peggyforfl.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her site commits to fighting illegal immigration and protecting borders and beaches, and she voted yes on SB 2-C (Feb. 13, 2025).",
+          "quote": "fight illegal immigration and protect our borders and beaches",
+          "sources": [
+            {
+              "title": "Peggy Gossett-Seidman, Republican, for Florida House District 91 - campaign site",
+              "url": "https://peggyforfl.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Florida House floor vote, SB 2-C (Immigration), 2025 Special Session C, third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111&",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her site pledges to fully fund public safety and 'back the blue'; her accomplishments page cites a law letting prosecutors hold defendants without bond for certain written threats.",
+          "quote": "fully fund public safety and back the blue",
+          "sources": [
+            {
+              "title": "Peggy Gossett-Seidman, Republican, for Florida House District 91 - campaign site",
+              "url": "https://peggyforfl.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Accomplishments - Peggy Gossett-Seidman campaign site",
+              "url": "https://peggyforfl.com/accomplishments/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Her site says she will reduce building regulations that drive up housing costs.",
+          "quote": "reduce building regulations that drive up housing costs",
+          "sources": [
+            {
+              "title": "Peggy Gossett-Seidman, Republican, for Florida House District 91 - campaign site",
+              "url": "https://peggyforfl.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site cites more than $1 billion invested in environmental and water-quality projects and a law requiring beach-contamination notices within 24 hours.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Peggy Gossett-Seidman, Republican, for Florida House District 91 - campaign site",
+              "url": "https://peggyforfl.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Accomplishments - Peggy Gossett-Seidman campaign site",
+              "url": "https://peggyforfl.com/accomplishments/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HJR 1-F (June 2, 2026) and HJR 203 (Feb. 19, 2026).",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House floor vote, CS/CS/HJR 203 (Elimination of Non-school Property Tax for Homesteads), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=24474&BillId=82728",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "HJR 1 (2026F) final passage votes - BillSponsor",
+              "url": "https://www.billsponsor.com/bills/888103/florida-house-joint-resolution-1-session-2026f",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on SB 300 (2023), which limited most abortions to six weeks of pregnancy, on April 13, 2023.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 300 (Heartbeat Protection Act, six-week abortion limit) passage (Yeas 70, Nays 40)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 543 (2023), which allowed carrying a concealed firearm without a state permit, on March 24, 2023.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 543 (permitless concealed carry) passage, third reading (Yeas 76, Nays 32)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 1 (2023), which made every K-12 student eligible for a state scholarship usable at private schools or for home education, on March 17, 2023.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (school choice) passage, third reading (Yeas 83, Nays 27)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted yes on HJR 1-F (2026 special session) and HJR 203 (2026), SB 2-C (2025), HB 1 (2023), SB 300 (2023) and HB 543 (2023).",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House floor vote, CS/CS/HJR 203 (Elimination of Non-school Property Tax for Homesteads), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=24474&BillId=82728",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Florida House floor vote, SB 2-C (Immigration), 2025 Special Session C, third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111&",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (school choice) passage, third reading (Yeas 83, Nays 27)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            },
+            {
+              "title": "Florida House roll call, SB 300 (Heartbeat Protection Act, six-week abortion limit) passage (Yeas 70, Nays 40)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            },
+            {
+              "title": "Florida House roll call, CS/HB 543 (permitless concealed carry) passage, third reading (Yeas 76, Nays 32)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -56,10 +248,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://voteforluisgarcia.com/",
+      "occupation": "Retired Boca Raton firefighter/paramedic; licensed claims adjuster; U.S. Marine Corps veteran",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Luis Garcia, 59, served 28 years with the Boca Raton Fire Department as a firefighter and paramedic and has 14 years of experience as a licensed claims adjuster. Born in Colombia, he became a U.S. citizen after serving in the Marine Corps, and he runs a nonprofit focused on reducing opioid deaths. He is a father of two adult sons.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,8 +261,45 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In a June 2026 interview he said Florida cannot abolish the federal 287(g) program but can reverse the state mandate requiring local police to act as immigration enforcement agents.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "(Video) Luis Garcia - Florida House Candidate for District 91 - Indivisible Boca Raton Media",
+              "url": "https://indivisiblebocaratonmedia.substack.com/p/video-luis-garcia-florida-house-candidate",
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Insurance and condo costs",
+          "summary": "Drawing on his claims-adjuster background, he calls for reforming Citizens Property Insurance and cracking down on property and casualty insurance fraud, and describes condo assessments as a cost-of-living emergency.",
+          "sources": [
+            {
+              "title": "(Video) Luis Garcia - Florida House Candidate for District 91 - Indivisible Boca Raton Media",
+              "url": "https://indivisiblebocaratonmedia.substack.com/p/video-luis-garcia-florida-house-candidate",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "title": "Seniors and security",
+          "summary": "He calls for restoring federal Meals on Wheels funding, repurposing the Florida State Guard to protect houses of worship, and creating an elder-fraud task force.",
+          "sources": [
+            {
+              "title": "(Video) Luis Garcia - Florida House Candidate for District 91 - Indivisible Boca Raton Media",
+              "url": "https://indivisiblebocaratonmedia.substack.com/p/video-luis-garcia-florida-house-candidate",
+              "date": "2026-06-02"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

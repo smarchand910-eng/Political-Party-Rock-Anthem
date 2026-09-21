@@ -15,20 +15,20 @@
   "what_it_does": "Represents District 116 (Part of Miami-Dade) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
       "id": "ashley_perez_biliskov",
       "name": "Ashley Perez-Biliskov",
       "party": "Republican",
-      "incumbent": true,
+      "incumbent": false,
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.voteperezbiliskov.com/",
-      "occupation": null,
+      "occupation": "Medical speech-language pathologist",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Ashley Perez-Biliskov is a first-generation Cuban American raised in Miami who worked for more than a decade as a medical speech-language pathologist. She holds degrees from Florida State University and the University of South Florida and is running to succeed her brother, House Speaker Daniel Perez, who is term-limited. She is not an incumbent; the seat's current holder is Daniel Perez.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -39,7 +39,24 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Campaign themes",
+          "summary": "Her campaign materials emphasize accountable government and district concerns such as school funding, health care, public safety, property taxes and infrastructure, but she has not published detailed positions and did not answer the Vote411 questionnaire.",
+          "sources": [
+            {
+              "title": "Community Newspapers: Ashley Perez-Biliskov: A new voice for District 116",
+              "url": "https://communitynewspapers.com/biscayne-bay/ashley-perez-biliskov-a-new-voice-for-district-116/",
+              "date": "2026-09-08"
+            },
+            {
+              "title": "Ashley Perez-Biliskov campaign website",
+              "url": "https://www.voteperezbiliskov.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -59,7 +76,7 @@
       "website": null,
       "occupation": null,
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Nicolas Ramos, 35, is the Democratic nominee for House District 116; he also ran for the seat in 2024, losing to House Speaker Daniel Perez. He filed in late May 2026 and answered the Vote411 questionnaire.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +86,99 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He supports more state investment in affordable and workforce housing, protecting housing trust funds, and discouraging large corporate investors from buying homes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Nicolas Ramos",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940743",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Ramos strongly supports reproductive freedom and access to abortion and opposes criminalizing women or providers.",
+          "quote": "I strongly support reproductive freedom and access to abortion.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Nicolas Ramos",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940743",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He supports expanding Medicaid eligibility and increasing state investment to offset federal cuts.",
+          "quote": "I support expanding Medicaid eligibility, protecting coverage for low-income Floridians, and increasing state investment to offset reductions in federal assistance.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Nicolas Ramos",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940743",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He calls for meaningful insurance reform with stronger accountability and transparency for insurers.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Nicolas Ramos",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940743",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says both insurance and property taxes are too high and supports responsible property-tax relief.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Nicolas Ramos",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940743",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He would restore stronger home-rule authority and oppose unnecessary state preemptions.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Nicolas Ramos",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940743",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He would require free or reduced-cost records if proof of citizenship is required to register.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Nicolas Ramos",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940743",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

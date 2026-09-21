@@ -15,20 +15,20 @@
   "what_it_does": "Represents District 84 (Part of St. Lucie) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
       "id": "dana_trabulsy",
       "name": "Dana Trabulsy",
       "party": "Republican",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": "assets/photos/dana_trabulsy.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.danatrabulsy.com/",
-      "occupation": null,
+      "occupation": "Director of public relations and special projects, The Children's Forum; former small business owner; state representative since 2020",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Dana Trabulsy, 62, of Fort Pierce, has lived in St. Lucie County for more than 33 years and has represented District 84 in the Florida House since 2020. She worked in corporate jobs and owned a small business and digital media platform, and now works for The Children's Forum, an early-learning nonprofit. She is married with four children and seven grandchildren.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,177 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
-      "record": [],
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her site lists keeping taxes low for working families and seniors as a policy heading.",
+          "quote": "Keep taxes low for working families and seniors",
+          "sources": [
+            {
+              "title": "Dana Trabulsy campaign site home page",
+              "url": "https://www.danatrabulsy.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her site backs school choice along with more competitive teacher salaries, and she voted yes on HB 1 (March 17, 2023), the universal scholarship law.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Dana Trabulsy campaign site home page",
+              "url": "https://www.danatrabulsy.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (school choice) passage, third reading (Yeas 83, Nays 27)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site says enforcing the law keeps the community safe and emphasizes support for law enforcement and fighting trafficking through Florida's ports.",
+          "quote": "Enforcing the law keeps our community safe.",
+          "sources": [
+            {
+              "title": "Dana Trabulsy campaign site home page",
+              "url": "https://www.danatrabulsy.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site emphasizes border security and combating drug and human trafficking, and she voted yes on SB 2-C (Feb. 13, 2025).",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Dana Trabulsy campaign site home page",
+              "url": "https://www.danatrabulsy.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Florida House floor vote, SB 2-C (Immigration), 2025 Special Session C, third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111&",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site says the local economy depends on the health of the environment and maintaining pristine waterways.",
+          "quote": "Our local economy is directly impacted by the health of our environment.",
+          "sources": [
+            {
+              "title": "Dana Trabulsy campaign site home page",
+              "url": "https://www.danatrabulsy.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HJR 203 (Feb. 19, 2026) to phase out non-school homestead property taxes; she did not vote on HJR 1-F on June 2, 2026.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/CS/HJR 203 (Elimination of Non-school Property Tax for Homesteads), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=24474&BillId=82728",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on SB 300 (2023), which limited most abortions to six weeks of pregnancy, on April 13, 2023.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 300 (Heartbeat Protection Act, six-week abortion limit) passage (Yeas 70, Nays 40)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 543 (2023), which allowed carrying a concealed firearm without a state permit, on March 24, 2023.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 543 (permitless concealed carry) passage, third reading (Yeas 76, Nays 32)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Medical malpractice ('Free Kill' law)",
+          "summary": "She told TCPalm she remains committed to repealing Florida's wrongful-death limits known as the 'Free Kill' law and to addressing kratom.",
+          "sources": [
+            {
+              "title": "Florida election 2026 for House District 84 is Nov. 3 - TCPalm via Yahoo",
+              "url": "https://www.yahoo.com/news/politics/articles/florida-election-2026-house-district-172815598.html",
+              "date": "2026-09-16"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted yes on HJR 203 (2026), SB 2-C (2025), HB 1 (2023), SB 300 (2023) and HB 543 (2023); did not vote on HJR 1-F (2026 special session).",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/CS/HJR 203 (Elimination of Non-school Property Tax for Homesteads), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=24474&BillId=82728",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House floor vote, SB 2-C (Immigration), 2025 Special Session C, third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111&",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (school choice) passage, third reading (Yeas 83, Nays 27)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            },
+            {
+              "title": "Florida House roll call, SB 300 (Heartbeat Protection Act, six-week abortion limit) passage (Yeas 70, Nays 40)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            },
+            {
+              "title": "Florida House roll call, CS/HB 543 (permitless concealed carry) passage, third reading (Yeas 76, Nays 32)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -57,9 +225,9 @@
       "photo_url": "assets/photos/jennifer_massey.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.jennifermasseyforflorida.com/",
-      "occupation": null,
+      "occupation": "Associate Director of Research & Education, Paralyzed Veterans of America",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Jennifer Massey, 44, of Port St. Lucie, works as associate director of research and education for Paralyzed Veterans of America and says she has more than 20 years of leadership and management experience. She describes herself as a mother, advocate and community leader involved in youth, education and local safety initiatives.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,8 +237,75 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her survey says she will fight to make housing, insurance, groceries and everyday necessities more affordable and supports policies like the Live Local Act on housing affordability.",
+          "quote": "I will fight to make housing, insurance, groceries and everyday necessities more affordable.",
+          "sources": [
+            {
+              "title": "Jennifer Massey - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Jennifer_Massey",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her survey says health care should be affordable and accessible to everyone so no one chooses between care and financial security.",
+          "quote": "Healthcare sustains our quality of life and should be affordable and accessible to everyone",
+          "sources": [
+            {
+              "title": "Jennifer Massey - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Jennifer_Massey",
+              "date": "2026-09"
+            },
+            {
+              "title": "Jennifer Massey for Florida House District 84 - campaign site",
+              "url": "https://www.jennifermasseyforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She says safer communities take partnership, prevention, education and investing in people, and told TCPalm she supports evidence-based solutions to reduce violence.",
+          "quote": "Creating safer communities takes partnership, prevention, education and investing in people.",
+          "sources": [
+            {
+              "title": "Jennifer Massey for Florida House District 84 - campaign site",
+              "url": "https://www.jennifermasseyforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Florida election 2026 for House District 84 is Nov. 3 - TCPalm via Yahoo",
+              "url": "https://www.yahoo.com/news/politics/articles/florida-election-2026-house-district-172815598.html",
+              "date": "2026-09-16"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Teacher pay",
+          "summary": "She notes Florida ranks last in teacher pay and calls for competitive pay and retention strategies and investing in schools.",
+          "sources": [
+            {
+              "title": "Jennifer Massey for Florida House District 84 - campaign site",
+              "url": "https://www.jennifermasseyforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Florida election 2026 for House District 84 is Nov. 3 - TCPalm via Yahoo",
+              "url": "https://www.yahoo.com/news/politics/articles/florida-election-2026-house-district-172815598.html",
+              "date": "2026-09-16"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

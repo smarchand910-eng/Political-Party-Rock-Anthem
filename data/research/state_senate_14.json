@@ -75,11 +75,17 @@
           ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In a Tampa Bay Times profile of the November rematch, Nathan said his priorities include regulating the insurance industry and raising teacher pay.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Nathan-Tomkow rematch: Can the Tampa senator beat the GOP favorite twice? (Tampa Bay Times via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/nathan-tomkow-rematch-tampa-senator-100000025.html",
+              "date": "2026-09-21"
+            }
+          ]
         },
         "housing": {
           "stance": null,
@@ -206,6 +212,16 @@
             {
               "title": "Roll-call vote",
               "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/SenateVote_h00001Fc1005.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted no in the Senate on the proposed homestead property-tax constitutional amendment (Amendment 3) and no on congressional redistricting; voted yes on an AI bill of rights, according to the Tampa Bay Times.",
+          "sources": [
+            {
+              "title": "Nathan-Tomkow rematch: Can the Tampa senator beat the GOP favorite twice? (Tampa Bay Times via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/nathan-tomkow-rematch-tampa-senator-100000025.html",
+              "date": "2026-09-21"
             }
           ]
         }

@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 1 (Part of Escambia) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/michelle_salzman.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://michellesalzman.com/",
-      "occupation": null,
+      "occupation": "State representative; U.S. Army veteran and small-business owner",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Michelle Salzman is a U.S. Army veteran and small-business owner from Pensacola who represents House District 1. She founded the Mental Health Task Force of Northwest Florida and chairs the House subcommittee covering housing, agriculture and tourism. She holds a master's degree in applied politics and policy from Florida State University.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,263 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
-      "record": [],
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Salzman voted for the 2026 homestead property-tax amendment (HJR 1-F) and for HJR 203, which would have eliminated non-school property taxes on homesteads. In her Vote411 answers she said property taxes challenge the idea of truly owning a home.",
+          "quote": "Even after you have paid off your home, you are still paying to keep it. For many Floridians, that challenges the very idea of truly owning their home.",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michelle Salzman",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940520",
+              "date": "2026-09"
+            },
+            {
+              "title": "NBC 15: Florida lawmakers head to 2026 session with bold plans on taxes and education reform",
+              "url": "https://mynbc15.com/newsletter-daily/florida-lawmakers-head-to-2026-session-with-bold-plans-on-taxes-and-education-reform",
+              "date": "2026-01-13"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Salzman voted for SB 2-C, the 2025 state immigration-enforcement package, and her campaign site lists securing the border as a priority.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "Michelle Salzman campaign website",
+              "url": "https://michellesalzman.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Salzman voted for SB 300, the 2023 six-week abortion law. In her 2026 Vote411 answer she said she has supported policies that protect life and support mothers and families.",
+          "quote": "I have supported policies that protect life, provide support for mothers and families, and ensure that government remains accountable to the people it serves.",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 300 (2023 six-week abortion law), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michelle Salzman",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940520",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Salzman voted in 2025 and again in 2026 for House bills lowering the minimum age to buy rifles and shotguns from 21 to 18.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Salzman voted for HB 1 in 2023, which made state school-choice scholarships available to all K-12 students regardless of income.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (2023 universal school choice), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        },
+        "elections": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked on Vote411 about a documentary proof-of-citizenship requirement for voter registration, Salzman said verifying identity should not be seen as an impairment to voting and stressed election integrity.",
+          "quote": "Verifying a person's identity when they exercise their most important civic right should not be viewed as an impairment to voting; it is about recognizing the importance of maintaining a trusted Republic.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michelle Salzman",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940520",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "On Vote411 she backed scaling the Hometown Heroes down-payment program, converting surplus public land to housing, targeted infrastructure grants for workforce housing and faster local approvals.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michelle Salzman",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940520",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "On Vote411 Salzman said the state has made progress on insurance reform but more work remains, and she framed affordability solutions around reducing costs and encouraging competition.",
+          "quote": "We've made progress on insurance reform, but there's much more work to do.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michelle Salzman",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940520",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Salzman says government should be held to a household-budget standard, root out waste and let Floridians keep more of what they earn.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Michelle Salzman",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940520",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her campaign site lists supporting veterans and protecting the military among her top priorities.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Michelle Salzman campaign website",
+              "url": "https://michellesalzman.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Term limits and mental health",
+          "summary": "Salzman describes herself as an advocate for term limits at every level of government and founded the Mental Health Task Force of Northwest Florida.",
+          "sources": [
+            {
+              "title": "Michelle Salzman campaign website",
+              "url": "https://michellesalzman.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "CS/HJR 1-F (2026 special session), the homestead property-tax amendment (Amendment 3): voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "item": "CS/CS/HJR 203 (2026), proposal to eliminate non-school property taxes on homesteads: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        {
+          "item": "SB 2-C (2025 special session), state immigration-enforcement package: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        {
+          "item": "HB 1 (2023), universal school-choice vouchers: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (2023 universal school choice), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        },
+        {
+          "item": "SB 300 (2023), the six-week abortion law: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 300 (2023 six-week abortion law), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        {
+          "item": "HB 543 (2023), permitless concealed carry: voted did not vote",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 543 (2023 permitless carry), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        {
+          "item": "HB 759 (2025), lowering the long-gun purchase age from 21 to 18: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            }
+          ]
+        },
+        {
+          "item": "HB 133 (2026), lowering the long-gun purchase age from 21 to 18: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -57,9 +311,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "http://www.vote4francesca.com",
-      "occupation": null,
+      "occupation": "Information-technology professional; former emergency-management staff with the U.S. Department of Agriculture and DHS",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Francesca Yabraian is a first-generation American whose parents immigrated from Argentina. She has more than 20 years of experience in information technology and has held emergency-management roles with USDA and DHS, and she holds a degree in government and world affairs from the University of Tampa. Her campaign centers on housing costs, insurance and opposition to large AI data centers in Escambia County.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,8 +323,122 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Yabraian proposes a state investigation of insurance rate increases with required refunds or rate reductions when overcharges are found, and calls for stronger insurer accountability.",
+          "quote": "It would launch an independent investigation into insurance rate increases, require greater transparency from insurers, and require refunds or rate reductions when unjustified overcharges are found.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Francesca Yabraian",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940522",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her proposed Florida Housing and Insurance Emergency Relief Act includes a temporary rent freeze, faster approvals for workforce housing, limits on large out-of-state and foreign investors, and a legal-defense fund for renters and homeowners.",
+          "quote": "It includes a temporary rent freeze to provide immediate relief from sudden increases",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Francesca Yabraian",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940522",
+              "date": "2026-09"
+            },
+            {
+              "title": "Francesca Yabraian campaign website",
+              "url": "http://www.vote4francesca.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Yabraian supports a woman's right to abortion care, citing her own medically necessary abortion, and says such decisions belong to a woman and her doctor.",
+          "quote": "I support a woman's right to access abortion care because deeply personal medical decisions should be made by a woman and her doctor—not politicians.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Francesca Yabraian",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940522",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She calls a documentary proof-of-citizenship requirement for voter registration unnecessary, says her first priority would be to change that law, and would provide free records in the meantime.",
+          "quote": "I believe requiring documentary proof of citizenship to register is unnecessary and creates new barriers for lawful voters",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Francesca Yabraian",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940522",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Yabraian says Florida should expand Medicaid to close the coverage gap and provide state help with premiums and prescription costs.",
+          "quote": "Florida should expand Medicaid, which it still has not done, to close the coverage gap and bring federal healthcare dollars back to our state.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Francesca Yabraian",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940522",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She supports strong home rule so communities can restrict or ban large data centers and other projects affecting water, power bills and property rights.",
+          "quote": "If a community determines that a hyperscale AI data center threatens its water, electric grid, property rights, environment, or taxpayers, it should have the authority to say no.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Francesca Yabraian",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940522",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Yabraian says property-tax relief is needed but is not a solution to the affordability crisis, which she says is driven more by insurance costs.",
+          "quote": "We need property-tax relief, but we cannot pretend it solves the affordability crisis.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Francesca Yabraian",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940522",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "AI data centers and surveillance cameras",
+          "summary": "Yabraian is campaigning for a full ban on AI data centers in Escambia County and opposes Flock license-plate cameras, calling them a Fourth Amendment concern.",
+          "sources": [
+            {
+              "title": "Francesca Yabraian campaign website",
+              "url": "http://www.vote4francesca.com",
+              "date": "2026-09"
+            },
+            {
+              "title": "Ballotpedia: Francesca Yabraian",
+              "url": "https://ballotpedia.org/Francesca_Yabraian",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

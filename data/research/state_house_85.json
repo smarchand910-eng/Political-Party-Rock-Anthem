@@ -16,7 +16,7 @@
   "what_it_does": "Represents District 85 (Parts of Martin, St. Lucie) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -27,9 +27,9 @@
       "photo_url": "assets/photos/anthony_bonna.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.anthonybonna.com/",
-      "occupation": null,
+      "occupation": "Owner of Good Help Group (marketing firm); Port St. Lucie City Council member; former St. Lucie County commissioner",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Anthony Bonna grew up on the Treasure Coast, earned a finance degree from Georgetown University and has owned Good Help Group, a marketing and communications company, since 2011. Gov. Rick Scott appointed him to the St. Lucie County Commission in 2018, and he was elected to the Port St. Lucie City Council in 2021 and re-elected in 2022. He is an Eagle Scout, a Rotarian and a father of three.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -39,10 +39,161 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His issues page says he will fight to lower taxes and fees, cut regulations and eliminate wasteful spending, and his survey says he will oppose unnecessary taxes, fees and regulations.",
+          "quote": "fight to lower taxes and fees, reduce unnecessary regulations, eliminate wasteful government spending",
+          "sources": [
+            {
+              "title": "Issues - Anthony Bonna campaign site",
+              "url": "https://www.anthonybonna.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "Anthony Bonna - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Anthony_Bonna",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His issues page supports strong immigration enforcement, securing the border and ending incentives for illegal immigration; his home page mentions deporting criminal illegal aliens.",
+          "quote": "supports strong immigration enforcement, securing the border, ending incentives for illegal immigration",
+          "sources": [
+            {
+              "title": "Issues - Anthony Bonna campaign site",
+              "url": "https://www.anthonybonna.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "Anthony Bonna campaign site home page",
+              "url": "https://www.anthonybonna.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "His issues page backs insurance reforms that increase competition, combat fraud and improve accountability to create a more stable market.",
+          "quote": "supports reforms that increase competition, combat fraud, improve accountability, and create a more stable insurance market",
+          "sources": [
+            {
+              "title": "Issues - Anthony Bonna campaign site",
+              "url": "https://www.anthonybonna.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "His issues page says he supports the Second Amendment and will oppose efforts to infringe on law-abiding citizens' rights.",
+          "quote": "supports the Second Amendment and will oppose efforts to infringe upon the rights of law-abiding citizens",
+          "sources": [
+            {
+              "title": "Issues - Anthony Bonna campaign site",
+              "url": "https://www.anthonybonna.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "Anthony Bonna - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Anthony_Bonna",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He supports school choice, parental rights and a focus on core academic subjects.",
+          "quote": "supports school choice, educational excellence, workforce development, and a renewed focus on core academic subjects",
+          "sources": [
+            {
+              "title": "Issues - Anthony Bonna campaign site",
+              "url": "https://www.anthonybonna.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "Anthony Bonna - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Anthony_Bonna",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "His issues page says he will protect innocent human life and assist mothers and families; he lists 'pro-life' among his policy passions and is endorsed by Florida Right to Life PAC.",
+          "quote": "protect innocent human life, assist mothers and families, safeguard religious liberty",
+          "sources": [
+            {
+              "title": "Issues - Anthony Bonna campaign site",
+              "url": "https://www.anthonybonna.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "Anthony Bonna - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Anthony_Bonna",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He supports giving law enforcement and first responders resources, training and legal protections, and calls public safety government's most important responsibility.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Issues - Anthony Bonna campaign site",
+              "url": "https://www.anthonybonna.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "Anthony Bonna campaign site home page",
+              "url": "https://www.anthonybonna.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says infrastructure should keep pace with development, supports local decision-making and property rights, and wants parks and green space preserved.",
+          "quote": "ensure infrastructure keeps pace with development",
+          "sources": [
+            {
+              "title": "Anthony Bonna - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Anthony_Bonna",
+              "date": "2026-09"
+            },
+            {
+              "title": "Issues - Anthony Bonna campaign site",
+              "url": "https://www.anthonybonna.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "U.S. Sen. Rick Scott; St. Lucie Sheriff Richard Del Toro; State Attorney Tom Bakkedahl; Rep. Dana Trabulsy; Americans for Prosperity Florida PAC; Associated Industries of Florida PAC; Florida Right to Life PAC; Florida Realtors PAC; Police Benevolent Association (per candidate's survey)",
+          "sources": [
+            {
+              "title": "Anthony Bonna - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Anthony_Bonna",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -58,9 +209,9 @@
       "photo_url": "assets/photos/wayne_richter.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.waynerichter.com/",
-      "occupation": null,
+      "occupation": "Attorney (solo practice in Palm City and West Palm Beach); past president of the Martin County Bar Association",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Wayne Richter is a solo-practice attorney with offices in Palm City and West Palm Beach who has lived on the Treasure Coast since 2004. He earned a political science degree from Florida Southern College and a law degree from South Texas College of Law, is past president of the Martin County Bar Association and vice president of the Florida Association of Criminal Defense Lawyers. He lives in Palm City with his wife and three children.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -70,8 +221,75 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His site says he is committed to expanding access to affordable health care and lowering health premiums.",
+          "quote": "expanding access to affordable healthcare",
+          "sources": [
+            {
+              "title": "Wayne Richter for State Representative - campaign site",
+              "url": "https://www.waynerichter.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says rapid growth requires infrastructure and public safety to keep up with overdevelopment, and that growth should strengthen communities while preserving quality of life.",
+          "quote": "Growth should strengthen our communities while preserving infrastructure and quality of life.",
+          "sources": [
+            {
+              "title": "Wayne Richter for State Representative - campaign site",
+              "url": "https://www.waynerichter.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Wayne Richter - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Wayne_Richter",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He emphasizes protecting the St. Lucie River, Indian River Lagoon and local water resources.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Wayne Richter for State Representative - campaign site",
+              "url": "https://www.waynerichter.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Wayne Richter - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Wayne_Richter",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Cost of living and insurance",
+          "summary": "He lists lowering the cost of housing, groceries, energy and property insurance as a priority, without specifying reforms.",
+          "sources": [
+            {
+              "title": "Wayne Richter for State Representative - campaign site",
+              "url": "https://www.waynerichter.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Wayne Richter - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Wayne_Richter",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -88,10 +306,10 @@
       "incumbent": false,
       "photo_url": "assets/photos/amr_metwally.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
-      "website": null,
-      "occupation": null,
+      "website": "https://www.amrmetwally.com/",
+      "occupation": "Software engineer and business owner",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Amr Metwally is a software engineer and business owner who lists MetWeb, MGTOW.TV and a restaurant among his businesses. He is running under the MGTOW Party label and has also filed as a federal candidate. His platform page mixes state and federal proposals.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -101,8 +319,112 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His platform calls for a 10 percent tax rate on people, no more than 15 percent on corporations, and eliminating the IRS.",
+          "quote": "low tax rate of 10% for people and no more than 15% for corporations",
+          "sources": [
+            {
+              "title": "Amr Metwally For State Rep District 85 FL - campaign site",
+              "url": "https://www.amrmetwally.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He would deport immigrants who commit crimes or abuse welfare, restrict H-1B visas, and allow legal residency for immigrants he considers beneficial, with limited work visas for farming and construction.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Amr Metwally For State Rep District 85 FL - campaign site",
+              "url": "https://www.amrmetwally.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "His platform says he is pro free speech and guns.",
+          "quote": "I'm pro free speech and guns",
+          "sources": [
+            {
+              "title": "Amr Metwally For State Rep District 85 FL - campaign site",
+              "url": "https://www.amrmetwally.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His platform prefers private and charter schools over state-run schools.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Amr Metwally For State Rep District 85 FL - campaign site",
+              "url": "https://www.amrmetwally.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "energy": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "He calls for many more nuclear plants, fully exploiting U.S. oil and gas reserves and prioritizing energy independence over environmental restrictions.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Amr Metwally For State Rep District 85 FL - campaign site",
+              "url": "https://www.amrmetwally.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "His platform calls for repealing the 19th Amendment and restricting voting to men who are citizens, net taxpayers or servicemen.",
+          "quote": "Repeal The 19th",
+          "sources": [
+            {
+              "title": "Amr Metwally For State Rep District 85 FL - campaign site",
+              "url": "https://www.amrmetwally.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "trump": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "He criticizes President Trump's tariffs and foreign policy and describes the MAGA movement as controlled opposition.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Amr Metwally For State Rep District 85 FL - campaign site",
+              "url": "https://www.amrmetwally.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Surveillance and housing",
+          "summary": "He would allow Flock license-plate cameras only with warrants for specific serious crimes, bar large investment firms from buying residential blocks, and says large developments must create jobs or affordable housing.",
+          "sources": [
+            {
+              "title": "Amr Metwally For State Rep District 85 FL - campaign site",
+              "url": "https://www.amrmetwally.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -119,10 +441,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://hunterstonecrompton.com/",
       "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
       "residence": null,
-      "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Hunter Stone Crompton is a write-in candidate whose site says he was diagnosed with autism at age 2, has worked for a supervisor of elections office and as a congressional intern, and believes in civil service. His name is not printed on the ballot.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -132,8 +454,34 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "guns": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "His site lists defending the First and Second Amendments among his positions.",
+          "quote": "Defending the First and Second Amendments",
+          "sources": [
+            {
+              "title": "Hunter Stone Crompton - Write Him In For The Win - campaign site",
+              "url": "https://hunterstonecrompton.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Jobs and surveillance",
+          "summary": "He proposes reviving Civilian Conservation Corps and WPA-style public jobs programs, says no one should go hungry or without shelter, supports officers who serve the Constitution and opposes expanding camera surveillance.",
+          "sources": [
+            {
+              "title": "Hunter Stone Crompton - Write Him In For The Win - campaign site",
+              "url": "https://hunterstonecrompton.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

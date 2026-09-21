@@ -80,5 +80,19 @@
         }
       ]
     }
+  ],
+  "events": [
+    {
+      "date": "2026-10-07",
+      "host": "League of Women Voters of Manatee County (Zoom, 5-6 p.m.; registration required)",
+      "who": "Camden Bedinghaus and Jonathan Mullis",
+      "sources": [
+        {
+          "title": "Events – League of Women Voters of Manatee County",
+          "url": "https://lwvmanatee.org/events/",
+          "date": "2026-09"
+        }
+      ]
+    }
   ]
 }

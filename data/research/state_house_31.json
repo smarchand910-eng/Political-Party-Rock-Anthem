@@ -14,7 +14,7 @@
   "what_it_does": "Represents District 31 in the Florida House of Representatives; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": "Republican Matt Woodside won the Aug. 18, 2026 Republican primary and faces Democrat Daniel 'Dan' Cicirelli on Nov. 3. The seat's incumbent is Republican Tyler Sirois; the snippets did not confirm whether Sirois sought re-election, so Woodside is recorded as a non-incumbent.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Central Florida Public Media's Aug. 18, 2026 live results: 'House District 31: Republican Matt Woodside won his primary and will face Democrat Daniel Lewis Cicirelli' (https://www.cfpublic.org/live-updates/live-updates-primary-election-day-in-central-florida). Cicirelli's campaign site and a Space Coast Rocket questionnaire confirm his candidacy. Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -25,38 +25,67 @@
       "photo_url": "assets/photos/matt_woodside.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.woodsideforflorida.com/",
-      "occupation": null,
+      "occupation": "Public school educator, coach and athletic director (Brevard Public Schools since 2006)",
       "residence": null,
       "background": "Republican nominee for HD 31 (Brevard County) after winning the Aug. 18, 2026 Republican primary.",
       "primary_result": "Won Aug. 18, 2026 Republican primary (Central Florida Public Media)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports tax reduction, small-business deregulation and fiscal responsibility.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Platform — Woodside for Florida",
+              "url": "https://www.woodsideforflorida.com/platform",
+              "date": "2026-09"
+            }
+          ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Calls himself a lower-tax fiscal conservative who agrees with the amendment's intent but warned local governments would be squeezed and impact fees raised; said he was undecided on the measure.",
+          "quote": "local governments are going to be squeezed and will have to cut",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Florida House District 31, Republican primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-31-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Lists tort reform and expanding the insurance market as his approach to insurance costs.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Platform — Woodside for Florida",
+              "url": "https://www.woodsideforflorida.com/platform",
+              "date": "2026-09"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Prefers targeted incentives, streamlined permitting for affordable housing inland, zoning streamlining and a larger homestead exemption rather than density mandates.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Florida House District 31, Republican primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-31-republican-primary/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Platform — Woodside for Florida",
+              "url": "https://www.woodsideforflorida.com/platform",
+              "date": "2026-09"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -66,18 +95,30 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "His platform says every life from conception is a miracle and pledges to advance pro-life policies.",
+          "quote": "fight tirelessly to advance pro-life policies including strengthening protections for the unborn",
+          "sources": [
+            {
+              "title": "Platform — Woodside for Florida",
+              "url": "https://www.woodsideforflorida.com/platform",
+              "date": "2026-09"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "A lifetime NRA member, he supports constitutional carry and expanding Second Amendment rights.",
+          "quote": "A well-armed citizenry is the first line of defense against threats",
+          "sources": [
+            {
+              "title": "Platform — Woodside for Florida",
+              "url": "https://www.woodsideforflorida.com/platform",
+              "date": "2026-09"
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -94,18 +135,35 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports expanding school choice and homeschool freedom along with higher teacher pay.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Platform — Woodside for Florida",
+              "url": "https://www.woodsideforflorida.com/platform",
+              "date": "2026-09"
+            },
+            {
+              "title": "2026 Voter's Guide - Florida House District 31, Republican primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-31-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports legislation combating pollution and protecting waterways.",
+          "quote": "Protect waterways",
+          "sources": [
+            {
+              "title": "Platform — Woodside for Florida",
+              "url": "https://www.woodsideforflorida.com/platform",
+              "date": "2026-09"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -122,11 +180,17 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Supports voter ID requirements and ballot security measures.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Platform — Woodside for Florida",
+              "url": "https://www.woodsideforflorida.com/platform",
+              "date": "2026-09"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -136,11 +200,22 @@
           "sources": []
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says he led a two-year effort against what he calls harmful gender policies in schools and opposes such policies.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Platform — Woodside for Florida",
+              "url": "https://www.woodsideforflorida.com/platform",
+              "date": "2026-09"
+            },
+            {
+              "title": "Meet Matt — Woodside for Florida",
+              "url": "https://www.woodsideforflorida.com/meet-matt",
+              "date": "2026-09"
+            }
+          ]
         },
         "energy": {
           "stance": null,
@@ -189,7 +264,7 @@
       "photo_url": "https://cicirelliforflorida.com/dan-headshot.jpg",
       "photo_source": "Campaign website (https://cicirelliforflorida.com/), Open Graph image",
       "website": "https://cicirelliforflorida.com/",
-      "occupation": null,
+      "occupation": "Handyman and small business owner; former electrical estimator and life-safety systems design consultant",
       "residence": null,
       "background": "Democratic nominee for HD 31; his campaign describes him as Brevard-born and raised. Completed a 2026 Space Coast Rocket candidate questionnaire (content not readable in this sandbox).",
       "primary_result": null,
@@ -202,25 +277,53 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Calls Amendment 3 a disaster and says cutting property taxes would not offset insurance costs while cutting fire and drainage services.",
+          "quote": "Amendment 3's disaster of a property tax reform!",
+          "sources": [
+            {
+              "title": "State Representative 31 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128947",
+              "date": "2026-09"
+            }
+          ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would co-sponsor rate-cap legislation limiting annual homeowners premium increases, open insurer filings to public review and take hurricane risk into a state catastrophe fund.",
+          "quote": "The insurance market has failed. It is time for the state to step in.",
+          "sources": [
+            {
+              "title": "State Representative 31 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128947",
+              "date": "2026-09"
+            },
+            {
+              "title": "Dan Cicirelli for Florida State House District 31 (campaign site)",
+              "url": "https://cicirelliforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports an accessory-dwelling bill, down-payment assistance, community land trusts, limits on hedge-fund home buying, repealing the 2023 preemption of local tenant protections and restoring the Sadowski fund.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 31 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128947",
+              "date": "2026-09"
+            },
+            {
+              "title": "2026 Candidate Questionnaire: Dan Cicirelli, Florida House District 31 (The Space Coast Rocket)",
+              "url": "https://thespacecoastrocket.com/2026-candidate-questionnaire-dan-cicirelli-florida-house-district-31/",
+              "date": "2026-07-20"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -230,11 +333,22 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports abortion access without government restriction and would restore the pre-ban viability standard.",
+          "quote": "I support access to abortion without government restriction. That decision belongs to a woman and her doctor.",
+          "sources": [
+            {
+              "title": "State Representative 31 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128947",
+              "date": "2026-09"
+            },
+            {
+              "title": "Dan Cicirelli for Florida State House District 31 (campaign site)",
+              "url": "https://cicirelliforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -244,11 +358,22 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would file for Medicaid expansion, backfill lost ACA subsidies with a state program and says he supports a single-payer system.",
+          "quote": "Expand Medicaid. Florida is one of ten states still refusing.",
+          "sources": [
+            {
+              "title": "State Representative 31 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128947",
+              "date": "2026-09"
+            },
+            {
+              "title": "2026 Candidate Questionnaire: Dan Cicirelli, Florida House District 31 (The Space Coast Rocket)",
+              "url": "https://thespacecoastrocket.com/2026-candidate-questionnaire-dan-cicirelli-florida-house-district-31/",
+              "date": "2026-07-20"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -258,25 +383,48 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Opposes further voucher expansion and wants accountability for the $3.9 billion voucher program.",
+          "quote": "plug the voucher funding hole that's draining public schools",
+          "sources": [
+            {
+              "title": "Dan Cicirelli for Florida State House District 31 (campaign site)",
+              "url": "https://cicirelliforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls protecting and restoring the Indian River Lagoon non-negotiable and proposes higher penalties for runoff violations and faster septic-to-sewer funding.",
+          "quote": "There is no version of representing this district that does not include protecting and restoring the Indian River Lagoon. Full stop.",
+          "sources": [
+            {
+              "title": "Dan Cicirelli for Florida State House District 31 (campaign site)",
+              "url": "https://cicirelliforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Opposes Live Local Act expansions that limit local control, would vote no on every preemption bill and says density decisions belong to local communities.",
+          "quote": "Density decisions should be made by the people who live there",
+          "sources": [
+            {
+              "title": "Dan Cicirelli for Florida State House District 31 (campaign site)",
+              "url": "https://cicirelliforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "State Representative 31 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128947",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -286,32 +434,56 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would have the state verify citizenship through existing records, waive document fees and fund document clinics.",
+          "quote": "Your vote should not depend on your filing cabinet being organized.",
+          "sources": [
+            {
+              "title": "State Representative 31 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128947",
+              "date": "2026-09"
+            }
+          ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Favors expanding juvenile civil citations instead of arrests, citing lower recidivism.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Dan Cicirelli for Florida State House District 31 (campaign site)",
+              "url": "https://cicirelliforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Would co-sponsor a Florida Equal Rights Act covering sexual orientation and gender identity and vote against preempting local anti-discrimination protections.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Dan Cicirelli for Florida State House District 31 (campaign site)",
+              "url": "https://cicirelliforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says Florida electricity is the most expensive in the nation because of inadequate Public Service Commission regulation.",
+          "quote": "Electricity in Florida is the most expensive electricity in the nation bar none",
+          "sources": [
+            {
+              "title": "2026 Candidate Questionnaire: Dan Cicirelli, Florida House District 31 (The Space Coast Rocket)",
+              "url": "https://thespacecoastrocket.com/2026-candidate-questionnaire-dan-cicirelli-florida-house-district-31/",
+              "date": "2026-07-20"
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -330,7 +502,18 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Democratic Environmental Caucus of Florida; Engage, Y'all PAC (per campaign site)",
+          "sources": [
+            {
+              "title": "Dan Cicirelli for Florida State House District 31 (campaign site)",
+              "url": "https://cicirelliforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Live updates: Key Primary Election results in Central Florida (Central Florida Public Media)",

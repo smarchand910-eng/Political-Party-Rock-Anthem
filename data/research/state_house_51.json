@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 51 (Part of Polk) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.holleyforflorida.com/",
-      "occupation": null,
+      "occupation": "Executive director, Florida FFA Foundation; state representative (elected in a March 2026 special election)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Holley, a fifth-generation Floridian from Polk City, leads the Florida FFA Foundation and previously worked for Agriculture Commissioner Adam Putnam, CFO Jimmy Patronis and state Sen. Denise Grimsley. She won the March 24, 2026 special election to replace Josie Tomkow.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,122 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Voted for HJR 1F, which placed the homestead-exemption increase (Amendment 3) on the November ballot; she joined the House after the HJR 203 vote.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "CS/HJR 1F (2026F) bill detail, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452",
+              "date": "2026-06"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her site pledges to strengthen educational choices and expand access to charter schools and homeschooling.",
+          "quote": "increase access to charter schools and homeschooling options",
+          "sources": [
+            {
+              "title": "Holley for Florida (campaign site)",
+              "url": "https://www.holleyforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Pledges to strengthen border security and enforce immigration laws.",
+          "quote": "ensure the enforcement of immigration laws",
+          "sources": [
+            {
+              "title": "Holley for Florida (campaign site)",
+              "url": "https://www.holleyforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says rapid growth is driving up housing costs and straining infrastructure and calls for smart development that preserves Polk County's character.",
+          "quote": "Implement smart development policies that preserve the unique character of Polk County",
+          "sources": [
+            {
+              "title": "Holley for Florida (campaign site)",
+              "url": "https://www.holleyforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Northsiders: Learn More About District 51 Special Election Candidates (LkldNow)",
+              "url": "https://www.lkldnow.com/northsiders-learn-more-about-district-51-special-election-candidates/",
+              "date": "2026-03-23"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to protect rural lands that replenish aquifers and support farmers and ranchers.",
+          "quote": "Preserve and protect Florida's rural lands",
+          "sources": [
+            {
+              "title": "Holley for Florida (campaign site)",
+              "url": "https://www.holleyforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges resources for law enforcement and emergency responders.",
+          "quote": "Back our law enforcement officers with the resources they need",
+          "sources": [
+            {
+              "title": "Holley for Florida (campaign site)",
+              "url": "https://www.holleyforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Advocates a smaller, more efficient government that cuts bureaucracy.",
+          "quote": "Advocate for a smaller, more efficient government",
+          "sources": [
+            {
+              "title": "Holley for Florida (campaign site)",
+              "url": "https://www.holleyforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Did not respond to the 2026 Vote411 questionnaire.",
+          "sources": [
+            {
+              "title": "State Representative 51 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128960",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -57,9 +170,9 @@
       "photo_url": "assets/photos/octavio_hernandez.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.hernandez51.com",
-      "occupation": null,
+      "occupation": "Algebra teacher, Polk County Public Schools",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Hernandez, 46, was born in Mexico City and lives in Davenport. He earned a political science degree from UCF in 2015, teaches algebra in Polk County schools and is a union member; this is his second run for the seat.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +182,60 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says abortion should be legal in any circumstance.",
+          "quote": "Any, women that want to be mothers need abortion to be legal.",
+          "sources": [
+            {
+              "title": "State Representative 51 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128960",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Favors smart growth over sprawl and says local governments know their citizens' needs best.",
+          "quote": "We need smart growth not urban sprawl.",
+          "sources": [
+            {
+              "title": "State Representative 51 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128960",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would require completed developments to put unsold homes on the market rather than hold them as investments.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 51 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128960",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would support local clinics providing preventive checkups so uninsured people do not rely on emergency rooms.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 51 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128960",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 101 (Part of Broward) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://hillaryforflorida.com",
-      "occupation": null,
+      "occupation": "State representative; attorney (co-founder of an insurance-litigation law firm); former Broward prosecutor",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Hillary Cassel is a Dania Beach attorney first elected to House District 101 as a Democrat in 2022; she switched to the Republican Party in December 2024, citing the Democratic Party's stance on Israel and its disconnect from everyday Floridians. She holds a law degree from Nova Southeastern University and previously worked as a prosecutor. She serves as vice chair of the House Insurance & Banking Subcommittee.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,193 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
-      "record": [],
+      "positions": {
+        "abortion": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Cassel voted against SB 300, the six-week abortion law, in 2023, and after switching parties said she remains pro-choice and does not support the six-week ban.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 300 (2023 six-week abortion law), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            },
+            {
+              "title": "CBS News Miami: One on one with State Rep. Hillary Cassel (Facing South Florida)",
+              "url": "https://www.cbsnews.com/miami/news/one-on-one-with-state-rep-hillary-cassel-facing-south-florida",
+              "date": "2025-01-19"
+            }
+          ]
+        },
+        "guns": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Cassel voted against permitless carry (HB 543) in 2023 and against lowering the long-gun purchase age to 18 in both 2025 and 2026.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 543 (2023 permitless carry), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            },
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Cassel voted against HB 1, the 2023 universal school-choice expansion.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (2023 universal school choice), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Cassel voted for HJR 203 (elimination of non-school homestead taxes) and for the HJR 1-F amendment placed on the 2026 ballot.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Cassel voted for SB 2-C, the 2025 state immigration-enforcement package.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Party switch and Israel",
+          "summary": "Announcing her switch to the GOP in December 2024, Cassel said she was troubled by the Democratic Party's failure to unequivocally support Israel and its tolerance of extreme progressive voices; she said she remains pro-choice and pro-LGBTQ rights and would focus on housing and property insurance.",
+          "sources": [
+            {
+              "title": "WUSF: A second Florida House Democrat flips to the Republican party",
+              "url": "https://www.wusf.org/politics-issues/2024-12-28/second-house-democrat-flips-to-the-republican-party",
+              "date": "2024-12-28"
+            },
+            {
+              "title": "CBS News Miami: One on one with State Rep. Hillary Cassel",
+              "url": "https://www.cbsnews.com/miami/news/one-on-one-with-state-rep-hillary-cassel-facing-south-florida",
+              "date": "2025-01-19"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "CS/HJR 1-F (2026 special session), the homestead property-tax amendment (Amendment 3): voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "item": "CS/CS/HJR 203 (2026), proposal to eliminate non-school property taxes on homesteads: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        {
+          "item": "SB 2-C (2025 special session), state immigration-enforcement package: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        {
+          "item": "HB 1 (2023), universal school-choice vouchers: voted No",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (2023 universal school choice), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        },
+        {
+          "item": "SB 300 (2023), the six-week abortion law: voted No",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 300 (2023 six-week abortion law), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        {
+          "item": "HB 543 (2023), permitless concealed carry: voted No",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 543 (2023 permitless carry), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        {
+          "item": "HB 759 (2025), lowering the long-gun purchase age from 21 to 18: voted No",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            }
+          ]
+        },
+        {
+          "item": "HB 133 (2026), lowering the long-gun purchase age from 21 to 18: voted No",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -57,9 +241,9 @@
       "photo_url": "assets/photos/todd_delmay.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://delmayforflorida.com/",
-      "occupation": null,
+      "occupation": "Small-business owner (travel and tourism); former executive director of SAVE, an LGBTQ civil-rights organization",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Todd Delmay, 54, is a Hollywood small-business owner with 25 years in the travel and hospitality industry and the former executive director of SAVE, Florida's oldest LGBTQ civil-rights group. He ran for the seat in 2022, narrowly losing the Democratic primary to Cassel, and served on Hollywood's Sustainability Advisory Committee.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +253,114 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Delmay says reproductive decisions belong to patients and providers and would oppose bans and barriers; his campaign says he will never compromise on protecting abortion access.",
+          "quote": "I would oppose bans and unnecessary barriers that delay care or take personal medical decisions away from Floridians.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Todd Delmay",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940730",
+              "date": "2026-09"
+            },
+            {
+              "title": "LGBTQ+ Victory Fund candidate profile: Todd Delmay",
+              "url": "https://victoryfund.org/candidate/todd-delmay/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He supports expanding Medicaid to close the coverage gap and letting Florida negotiate lower prescription-drug prices.",
+          "quote": "Florida should expand Medicaid and use the federal dollars already available to close the coverage gap.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Todd Delmay",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940730",
+              "date": "2026-09"
+            },
+            {
+              "title": "LGBTQ+ Victory Fund candidate profile: Todd Delmay",
+              "url": "https://victoryfund.org/candidate/todd-delmay/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He backs streamlined permitting, redevelopment of commercial corridors and mixed-income housing near transit, without shifting growth costs onto existing residents.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Todd Delmay",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940730",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "On insurance he mixes approaches: more competition and transparency, home-hardening incentives, better claims handling and lower litigation costs while preserving consumers' remedies.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Todd Delmay",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940730",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Delmay says he strongly believes in home rule and would revisit overly broad state preemptions.",
+          "quote": "I strongly believe in home rule.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Todd Delmay",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940730",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He would invest in drainage, flood protection and resilient infrastructure and says he will protect Florida's environment.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Todd Delmay",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940730",
+              "date": "2026-09"
+            },
+            {
+              "title": "LGBTQ+ Victory Fund candidate profile: Todd Delmay",
+              "url": "https://victoryfund.org/candidate/todd-delmay/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says a proof-of-citizenship rule should never become a bureaucratic trap and would provide free records and a cure period.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Todd Delmay",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940730",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 18 (Part of St. Johns) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/kim_kendall.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
-      "occupation": null,
+      "occupation": "State representative; former FAA air traffic controller and dry-cleaning business owner",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Kim Kendall of St. Augustine was elected in 2024 after two decades of community advocacy on education and infrastructure. A Navy dependent raised on bases abroad, she worked as an FAA air traffic controller and owned two dry cleaners, and she sponsored legislation to block a proposed land swap at the Guana River preserve.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,156 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Kendall voted for HJR 203 and HJR 1-F in 2026.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Kendall voted for SB 2-C in 2025 and in a 2024 survey strongly agreed the U.S. should physically secure the southern border.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "She voted in 2025 and 2026 to lower the long-gun purchase age and in a 2024 survey answered 'None' when asked what gun restrictions are needed.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Kendall says she voted against the Live Local Act and the Blue Ribbon bill, but she voted for SB 686, the agricultural-enclave law now drawing criticism in St. Johns County; she says it preserved local approval.",
+          "quote": "We've done it before — alerting constituents on the Live Local Act and the Blue Ribbon bill (I voted against both).",
+          "sources": [
+            {
+              "title": "St. Johns Citizen: Kendall says commissioners, lobbyists failed to flag controversial enclave bill roiling county",
+              "url": "https://sjcitizen.com/kendall-says-commissioners-lobbyists-failed-to-flag-controversial-enclave-bill-roiling-county/",
+              "date": "2026-09-03"
+            },
+            {
+              "title": "Jacksonville Today: Democrats and Republicans have options in District 18 state House race",
+              "url": "https://jaxtoday.org/2026/07/28/district-18-primary-race/",
+              "date": "2026-07-28"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She sponsored a successful bill to curb land swaps in environmentally sensitive areas after fighting the Guana River WMA proposal.",
+          "quote": "I have fought to protect Guana River WMA from a terrible proposed land swap situation and passed legislation to protect it.",
+          "sources": [
+            {
+              "title": "News4JAX 2026 Voter's Guide: Florida House District 18",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-18/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Jacksonville Today: Democrats and Republicans have options in District 18 state House race",
+              "url": "https://jaxtoday.org/2026/07/28/district-18-primary-race/",
+              "date": "2026-07-28"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "CS/HJR 1-F (2026 special session), the homestead property-tax amendment (Amendment 3): voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "item": "CS/CS/HJR 203 (2026), proposal to eliminate non-school property taxes on homesteads: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        {
+          "item": "SB 2-C (2025 special session), state immigration-enforcement package: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        {
+          "item": "HB 759 (2025), lowering the long-gun purchase age from 21 to 18: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            }
+          ]
+        },
+        {
+          "item": "HB 133 (2026), lowering the long-gun purchase age from 21 to 18: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        {
+          "item": "SB 686 (2026), agricultural-enclave development law: voted yes; she says she voted against the Live Local Act",
+          "sources": [
+            {
+              "title": "St. Johns Citizen: Kendall says commissioners, lobbyists failed to flag controversial enclave bill roiling county",
+              "url": "https://sjcitizen.com/kendall-says-commissioners-lobbyists-failed-to-flag-controversial-enclave-bill-roiling-county/",
+              "date": "2026-09-03"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -57,9 +204,9 @@
       "photo_url": "assets/photos/art_stresing.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://voteartstresing.com/",
-      "occupation": null,
+      "occupation": "Attorney; division chief at the Public Defender's Office, 4th Judicial Circuit",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Art Stresing, 43, is a division chief in the Jacksonville-area Public Defender's Office, where he has worked for more than 11 years. The son of a disabled Navy veteran and a Filipino immigrant, he played Division I football at the University at Buffalo, earned his law degree at Florida Coastal and lives in St. Johns with his wife, an active-duty Navy sailor.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +216,140 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Stresing wants to expand Medicaid so childless adults and struggling families are covered and says Medicaid's low administrative costs show the focus should be on people, not profits.",
+          "quote": "I would like to expand Medicaid so that childless adults and struggling families are covered and not bankrupted by medical expenses.",
+          "sources": [
+            {
+              "title": "News4JAX 2026 Voter's Guide: Florida House District 18",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-18/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Art Stresing",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690845",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "He wants to raise public-school funding and teacher pay while limiting voucher programs to those who truly need them.",
+          "quote": "limiting the voucher programs to those who truly need them",
+          "sources": [
+            {
+              "title": "News4JAX 2026 Voter's Guide: Florida House District 18",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-18/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Jacksonville Today: Democrats and Republicans have options in District 18 state House race",
+              "url": "https://jaxtoday.org/2026/07/28/district-18-primary-race/",
+              "date": "2026-07-28"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says the choice of abortion is best left to the patient and her health-care providers.",
+          "quote": "This choice is best left in the hands of the patient and her healthcare providers",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Art Stresing",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690845",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He would require developments above a certain size to include reasonably affordable units and make developers share the cost of growth.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Art Stresing",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690845",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He opposes the SAVE Act's proof-of-citizenship approach and supports grandfathering registered voters and automatic voter registration.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Art Stresing",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690845",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "He argues that state caps on Citizens rate increases force homeowners in safer areas to subsidize luxury properties in vulnerable coastal areas.",
+          "quote": "People who make prudent decisions on where to live shouldn't be burdened by choices made by people and developers who knowingly decide to build and buy in higher risk areas.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Art Stresing",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690845",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says home rule should bring power back to local leaders rather than Tallahassee lobbyists.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Art Stresing",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690845",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He would introduce bills to strengthen the independence of utility commissions and regulatory watchdogs.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Art Stresing",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690845",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He calls for more funding for programs that help veterans and pledges to advocate for their benefits.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "News4JAX 2026 Voter's Guide: Florida House District 18",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-18/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Ballotpedia: Art Stresing",
+              "url": "https://ballotpedia.org/Art_Stresing",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

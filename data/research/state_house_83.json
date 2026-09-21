@@ -18,7 +18,7 @@
   "what_it_does": "Represents District 83 (Glades, Hardee, Highlands, Okeechobee) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -29,9 +29,9 @@
       "photo_url": "assets/photos/kaylee_tuck.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.kayleetuck.com/",
-      "occupation": null,
+      "occupation": "Land use and real estate attorney; state representative since 2020",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Kaylee Tuck is a fourth-generation Highlands County resident who graduated from Sebring High School, earned an economics degree from Florida State University and a law degree from Stetson University. She practices land use and real estate law and was first elected to the Florida House in 2020, representing District 83 (Glades, Hardee, Highlands and Okeechobee counties) since 2022.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -41,9 +41,147 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her issues page lists keeping taxes low and free-market principles that keep government out of people's pocketbooks.",
+          "quote": "Keeping Taxes Low",
+          "sources": [
+            {
+              "title": "Issues - Kaylee Tuck campaign site",
+              "url": "https://www.kayleetuck.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her issues page says she is exploring ways to address veterans' issues in rural communities, starting with the lack of transitional housing.",
+          "quote": "Exploring ways to address the unique issues facing veterans in rural communities, starting with the lack of transitional housing resources available to veterans.",
+          "sources": [
+            {
+              "title": "Issues - Kaylee Tuck campaign site",
+              "url": "https://www.kayleetuck.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HJR 1-F (June 2, 2026 special session), which put a $250,000 non-school homestead exemption on the November 2026 ballot, and yes on HJR 203 (Feb. 19, 2026), which would have phased out non-school homestead property taxes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House floor vote, CS/CS/HJR 203 (Elimination of Non-school Property Tax for Homesteads), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=24474&BillId=82728",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Voted yes on SB 2-C (Feb. 13, 2025), which created a State Board of Immigration Enforcement, funded state cooperation with federal immigration enforcement and added criminal penalties tied to immigration status.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House floor vote, SB 2-C (Immigration), 2025 Special Session C, third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111&",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "Florida House roll call, SB 2-C passage (Yeas 85, Nays 30)",
+              "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on SB 300 (2023), which limited most abortions to six weeks of pregnancy, on April 13, 2023.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 300 (Heartbeat Protection Act, six-week abortion limit) passage (Yeas 70, Nays 40)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 543 (2023), which allowed carrying a concealed firearm without a state permit, on March 24, 2023.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 543 (permitless concealed carry) passage, third reading (Yeas 76, Nays 32)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 1 (2023), which made every K-12 student eligible for a state scholarship usable at private schools or for home education, on March 17, 2023.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (school choice) passage, third reading (Yeas 83, Nays 27)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted yes on HJR 1-F (2026 special session) and HJR 203 (2026), SB 2-C (2025), HB 1 (2023), SB 300 (2023) and HB 543 (2023).",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House floor vote, CS/CS/HJR 203 (Elimination of Non-school Property Tax for Homesteads), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=24474&BillId=82728",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Florida House floor vote, SB 2-C (Immigration), 2025 Special Session C, third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111&",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (school choice) passage, third reading (Yeas 83, Nays 27)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            },
+            {
+              "title": "Florida House roll call, SB 300 (Heartbeat Protection Act, six-week abortion limit) passage (Yeas 70, Nays 40)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            },
+            {
+              "title": "Florida House roll call, CS/HB 543 (permitless concealed carry) passage, third reading (Yeas 76, Nays 32)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -60,9 +198,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.leigh4florida.com/",
-      "occupation": null,
+      "occupation": "Retired certified public accountant; former Virginia state accounting and grants manager",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Leigh Estes grew up in Alabama, earned two accounting degrees and a master's in public administration, and spent 28 years with Virginia state agencies in accounting, grants management and administration. A retired CPA, she has been a full-time Florida resident for about two years and lives in a senior community in the district. This is her first run for office.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -72,8 +210,122 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "abortion": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "On her 'Why I'm Running' page she criticizes Florida for having 'quickly eliminated abortion rights'; she does not state a specific proposal.",
+          "quote": "Florida led with banning books and quickly eliminated abortion rights and creating policies targeting immigrants.",
+          "sources": [
+            {
+              "title": "Why I'm Running - Leigh Estes campaign site",
+              "url": "https://www.leigh4florida.com/why-im-running",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She criticizes state policies targeting immigrants and the state's role in building and staffing a migrant detention facility on protected land.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Why I'm Running - Leigh Estes campaign site",
+              "url": "https://www.leigh4florida.com/why-im-running",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "She says funding and promotion of charter schools is designed to strip funding from public schools that serve less-privileged students.",
+          "quote": "The funding and promotion of charter schools is designed to provide educational options to the elite groups, and strip funding for public schools",
+          "sources": [
+            {
+              "title": "Why I'm Running - Leigh Estes campaign site",
+              "url": "https://www.leigh4florida.com/why-im-running",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She says Florida's ecosystems are being destroyed by development with state leaders' support, and lists environmental protections among her five policy points.",
+          "quote": "I have watched as Florida's unique ecosystems are being compromised and destroyed by development with full endorsement and support of Florida's leadership.",
+          "sources": [
+            {
+              "title": "Why I'm Running - Leigh Estes campaign site",
+              "url": "https://www.leigh4florida.com/why-im-running",
+              "date": "2026-09"
+            },
+            {
+              "title": "Policy Positions - Leigh Estes campaign site",
+              "url": "https://www.leigh4florida.com/policies",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She criticizes a redistricting law and a law she says will hurt some voters' ability to register.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Why I'm Running - Leigh Estes campaign site",
+              "url": "https://www.leigh4florida.com/why-im-running",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She criticizes the Legislature for replacing 'gender' with 'sex' in state law and condemns what she calls discrimination against people who 'have the courage to be who they are'.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Why I'm Running - Leigh Estes campaign site",
+              "url": "https://www.leigh4florida.com/why-im-running",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She says state leaders have stripped localities of self-governance and backed development that harms ecosystems; strengthening local communities is one of her policy points.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Why I'm Running - Leigh Estes campaign site",
+              "url": "https://www.leigh4florida.com/why-im-running",
+              "date": "2026-09"
+            },
+            {
+              "title": "Policy Positions - Leigh Estes campaign site",
+              "url": "https://www.leigh4florida.com/policies",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Affordability and public health",
+          "summary": "Her policy page lists addressing affordability and security, public health, environmental protections, strengthening local communities and restoring integrity to the political system, without further detail.",
+          "sources": [
+            {
+              "title": "Policy Positions - Leigh Estes campaign site",
+              "url": "https://www.leigh4florida.com/policies",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

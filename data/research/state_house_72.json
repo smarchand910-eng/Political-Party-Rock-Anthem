@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 72 (Part of Manatee) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -25,10 +25,10 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.electconerly.com/",
+      "occupation": "Civil engineer; owner and vice president at Kimley-Horn and Associates; state representative for District 72 since 2024",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Fifth-generation Floridian and Lakewood Ranch resident who served nearly six years in the U.S. Navy and holds an engineering degree. He is an owner and vice president at Kimley-Horn and Associates. He was elected to the House in 2024.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,116 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
-      "record": [],
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HJR 1-F in the June 2026 special session, which placed Amendment 3 on the November ballot to raise the homestead exemption for non-school property taxes to $150,000 in 2027 and $250,000 in 2028 and to limit how counties and cities may spend property-tax revenue. His website says he voted to eliminate property taxes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HJR 1F (Save our Homes from Excessive Property Taxes), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Bill Conerly for State Representative (campaign website)",
+              "url": "https://www.electconerly.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on SB 2-C (2025), which created the State Board of Immigration Enforcement, required state help with federal detainers, barred driver licenses for unauthorized immigrants, and funded an Unauthorized Alien Transport Program. His website says he expanded E-Verify to all Florida employers and supported local law enforcement enforcing immigration laws.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 2-C (Immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "Bill Conerly for State Representative (campaign website)",
+              "url": "https://www.electconerly.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His website says he cut billions in state taxes and made sales-tax holidays permanent.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Bill Conerly for State Representative (campaign website)",
+              "url": "https://www.electconerly.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "trump": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His website says he is running to take quick action, just like President Trump.",
+          "quote": "I am running to take quick action, just like President Trump.",
+          "sources": [
+            {
+              "title": "Bill Conerly for State Representative (campaign website)",
+              "url": "https://www.electconerly.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Property insurance",
+          "summary": "He pledges to lower insurance rates 'come hell or highwater' and says he passed laws to lower rates; no specific mechanism stated.",
+          "sources": [
+            {
+              "title": "Bill Conerly for State Representative (campaign website)",
+              "url": "https://www.electconerly.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Environment",
+          "summary": "His website lists protecting state parks from development, blocking offshore drilling and eliminating PFAS pollutants among his accomplishments.",
+          "sources": [
+            {
+              "title": "Bill Conerly for State Representative (campaign website)",
+              "url": "https://www.electconerly.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted yes on CS/HJR 1F (homestead property-tax exemption increase / Amendment 3), House passage 75-26, June 2, 2026.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HJR 1F (Save our Homes from Excessive Property Taxes), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on SB 2-C (Immigration enforcement), House passage 85-30, Feb. 13, 2025.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 2-C (Immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -51,9 +158,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Attorney and certified public accountant; substitute teacher and adjunct law professor",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Attorney and certified public accountant with decades of experience in law and finance who has worked with students for 27 years through Odyssey of the Mind and Destination Imagination, served as a substitute teacher and taught as an adjunct professor at John Marshall School of Law.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [

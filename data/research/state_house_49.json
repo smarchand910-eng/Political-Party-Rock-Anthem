@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 49 (Part of Polk) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -25,10 +25,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.jenniferkincartjonsson.com",
+      "occupation": "Business executive; state representative (elected 2024)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Jonsson, of Lakeland, holds bachelor's and master's degrees in public health from the University of Florida and describes herself as a local business leader. She was elected to the House in 2024 to succeed Melony Bell.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,123 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
-      "record": [],
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for HJR 203 to phase out non-school homestead property taxes; she did not vote in the HJR 1F roll call but was recorded as a yes afterward.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House passes proposed amendment to immediately phase out property taxes (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/02/19/florida-house-passes-proposed-amendment-to-immediately-phase-out-property-taxes/",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her issues page calls for cutting taxes, reducing fees and making tax holidays permanent.",
+          "quote": "Cut taxes, reduce fees, and make tax holidays permanent to combat skyrocketing inflation",
+          "sources": [
+            {
+              "title": "Issues — Jennifer Kincart Jonsson for State Representative",
+              "url": "https://www.jenniferkincartjonsson.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for SB 2-C in the February 2025 special session, which created a State Board of Immigration Enforcement, required state and local cooperation with federal immigration enforcement and added state penalties for people in the country illegally. Her site says state and local police should be allowed to deport people here illegally.",
+          "quote": "deport illegal aliens and secure the border",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 2-C, Immigration (2025 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81096&VoteId=23489",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "Issues — Jennifer Kincart Jonsson for State Representative",
+              "url": "https://www.jenniferkincartjonsson.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for HB 759 (2025) and HB 133 (2026), which would lower the minimum age to buy a rifle or shotgun from 21 to 18; both passed the House and died in the Senate.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for HB 759, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81384&VoteId=23523",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Floor Vote for HB 133, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82655&VoteId=24341",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Florida House passes bill to lower the age to purchase a long gun to 18 years (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/01/15/florida-house-passes-bill-to-lower-the-age-to-purchase-a-long-gun-to-18-years/",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to protect Florida's agriculture, environment and water quality.",
+          "quote": "Protect Florida's agriculture industry, pristine environment and water quality",
+          "sources": [
+            {
+              "title": "Issues — Jennifer Kincart Jonsson for State Representative",
+              "url": "https://www.jenniferkincartjonsson.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Insurance fraud",
+          "summary": "Proposes an Insurance Fraud Task Force to root out corruption and lower rates.",
+          "sources": [
+            {
+              "title": "Issues — Jennifer Kincart Jonsson for State Representative",
+              "url": "https://www.jenniferkincartjonsson.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Did not respond to the 2026 Vote411 questionnaire.",
+          "sources": [
+            {
+              "title": "State Representative 49 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128965",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
@@ -50,10 +164,10 @@
       "incumbent": false,
       "photo_url": "assets/photos/robert_anzalone.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
-      "website": "https://www.AnzaloneForFlorida.com",
-      "occupation": null,
+      "website": "https://www.anzaloneforflorida.com/",
+      "occupation": "Computer engineer",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Anzalone, 34, grew up in Rochester, New York, graduated from Springstead High School and works as a computer engineer in Lakeland. He says he is running to lower the cost of living, protect children and build safer communities.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -63,7 +177,112 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says Florida should fully expand Medicaid and explore state subsidies to replace lost federal support.",
+          "quote": "fully expand Medicaid, which would cover hundreds of thousands of uninsured Floridians",
+          "sources": [
+            {
+              "title": "State Representative 49 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128965",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports abortion access whenever a woman and her doctor decide and would repeal the ban to restore the freedom voters sought in Amendment 4.",
+          "quote": "Reproductive healthcare decisions belong to patients and their physicians, not to politicians",
+          "sources": [
+            {
+              "title": "State Representative 49 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128965",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would protect the Sadowski fund from sweeps, close Live Local developer loopholes, limit corporate ownership of single-family homes and add tenant protections.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 49 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128965",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Opposes Amendment 3, saying it would gut up to $12 billion in local revenue for first responders and schools.",
+          "quote": "I also oppose Amendment 3.",
+          "sources": [
+            {
+              "title": "State Representative 49 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128965",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants rate transparency, stronger Citizens protections and home-hardening programs that pass savings to policyholders; says 2022 tort reforms failed.",
+          "quote": "The 2022 tort reforms failed to deliver real relief",
+          "sources": [
+            {
+              "title": "State Representative 49 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128965",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would repeal recent preemption laws and allow state preemption only where a genuine statewide interest requires uniformity.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 49 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128965",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls proof-of-citizenship requirements a deliberate barrier he would fight, and is setting up a nonprofit to help voters get documents.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 49 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128965",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says the public education system is being dismantled and would require funding accountability for every school receiving public dollars.",
+          "quote": "restore funding accountability for every school receiving public dollars",
+          "sources": [
+            {
+              "title": "State Representative 49 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128965",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

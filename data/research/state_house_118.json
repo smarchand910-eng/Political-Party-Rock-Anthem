@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 118 (Part of Miami-Dade) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/mike_redondo.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://mikeredondo.com",
-      "occupation": null,
+      "occupation": "State representative; attorney",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Mike Redondo is a Miami attorney, the son of Cuban immigrants, who won a December 2023 special election for District 118 and was re-elected in 2024. He serves on the House Select Committee on Property Taxes and has been chosen by House Republicans to become Speaker after the 2030 elections.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,169 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Redondo voted for HJR 203 and HJR 1-F in 2026 and campaigns on reducing the property-tax burden on families.",
+          "quote": "Reduce the property tax burden on hardworking families and make government more efficient, transparent, and accountable.",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Mike Redondo campaign website",
+              "url": "https://mikeredondo.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Redondo voted for SB 2-C, the 2025 state immigration-enforcement package.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "He voted in 2025 and 2026 for bills lowering the long-gun purchase age from 21 to 18.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -1,
+          "confidence": "record",
+          "summary": "He sponsored HB 943 (2026), which would bar state-run Citizens from writing commercial coverage and route those risks to a private-market clearinghouse; his site promises a common-sense approach that protects consumers.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House: CS/CS/HB 943 (2026) - Citizens Property Insurance Corporation",
+              "url": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=83567",
+              "date": "2026-03-09"
+            },
+            {
+              "title": "Mike Redondo campaign website",
+              "url": "https://mikeredondo.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His site pledges to empower parents and end what it calls radical teachings in classrooms.",
+          "quote": "Empower parents and protect our children by ending radical teachings in our classrooms.",
+          "sources": [
+            {
+              "title": "Mike Redondo campaign website",
+              "url": "https://mikeredondo.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He campaigns on upholding the rule of law and defending the Constitution.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Mike Redondo campaign website",
+              "url": "https://mikeredondo.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "CS/HJR 1-F (2026 special session), the homestead property-tax amendment (Amendment 3): voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HJR 1-F (2026 special session), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "item": "CS/CS/HJR 203 (2026), proposal to eliminate non-school property taxes on homesteads: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026), passage 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        {
+          "item": "SB 2-C (2025 special session), state immigration-enforcement package: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 2-C (2025 special session, immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        {
+          "item": "HB 759 (2025), lowering the long-gun purchase age from 21 to 18: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 759 (2025, lower long-gun purchase age to 18), passage 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            }
+          ]
+        },
+        {
+          "item": "HB 133 (2026), lowering the long-gun purchase age from 21 to 18: voted Yes",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 133 (2026, lower long-gun purchase age to 18), passage 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        {
+          "item": "CS/CS/HB 943 (2026): primary sponsor of a bill restricting Citizens Property Insurance from issuing commercial coverage and creating a commercial clearinghouse; laid on the table when the Senate companion (SB 1028) passed",
+          "sources": [
+            {
+              "title": "Florida House: CS/CS/HB 943 (2026) - Citizens Property Insurance Corporation",
+              "url": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=83567",
+              "date": "2026-03-09"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -59,7 +219,7 @@
       "website": null,
       "occupation": null,
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Armando 'A.C.' Castillo, 55, is the Democratic nominee for the West Kendall district. He holds a labor-studies degree and a union-leadership certificate and reported no campaign fundraising as of mid-2026. He answered the Vote411 questionnaire.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +229,86 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He supports broader down-payment and rehabilitation assistance, preserving affordable units, rent-increase notice rules, eviction-prevention programs and expanding SHIP and SAIL.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Armando Castillo",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020255",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Castillo says he supports a woman's right to choose.",
+          "quote": "I support a woman's right to choose",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Armando Castillo",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020255",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says Florida should accept federal funds and adopt Medicaid expansion.",
+          "quote": "Florida remains one of only 10 states that have not adopted Medicaid expansion.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Armando Castillo",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020255",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "He says property taxes give residents a return on their money, unlike insurance premiums paid to private companies.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Armando Castillo",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020255",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says home rule should be respected and the state should be minimally involved in local governance.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Armando Castillo",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020255",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says any documentation required to register must be free of fees.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Armando Castillo",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020255",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 60 (Part of Pinellas) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://melissarutland.com/",
-      "occupation": null,
+      "occupation": "Commercial real estate broker and developer (CCIM); founder, Rutland Florida Gulf Group",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Fourth-generation St. Petersburg businesswoman with nearly three decades in real estate development and investment, starting at Raymond James before founding her own firm. She served three terms as chair of St. Petersburg's Development Review Commission, the first woman to hold the post.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,78 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "property_tax": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She pledges to deliver property-tax relief so no family is priced out of a home by a tax bill; she has not said how far cuts should go.",
+          "quote": "Deliver real property-tax relief so no family gets priced out of a home over a tax bill.",
+          "sources": [
+            {
+              "title": "Melissa Rutland - Issues (campaign website)",
+              "url": "https://melissarutland.com/issues.html",
+              "date": "2026-09"
+            },
+            {
+              "title": "Melissa Rutland for State House District 60 (Activate Pinellas)",
+              "url": "https://activatepinellas.org/candidates/fl-doe-91780",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She wants to hold insurers accountable for excessive rate increases and crack down on fraud that drives up premiums.",
+          "quote": "Hold insurance companies accountable for excessive rate increases and crack down on the fraud that drives up premiums.",
+          "sources": [
+            {
+              "title": "Melissa Rutland - Issues (campaign website)",
+              "url": "https://melissarutland.com/issues.html",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She supports thoughtful growth that respects the character and scale of existing neighborhoods.",
+          "quote": "Support thoughtful growth that respects the character and scale of our neighborhoods and puts the people who already live here first.",
+          "sources": [
+            {
+              "title": "Melissa Rutland - Issues (campaign website)",
+              "url": "https://melissarutland.com/issues.html",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She calls for protecting Tampa Bay and the beaches with investment in clean water and modern stormwater systems.",
+          "quote": "Protect Tampa Bay and our beaches with real investment in clean water and modern stormwater.",
+          "sources": [
+            {
+              "title": "Melissa Rutland - Issues (campaign website)",
+              "url": "https://melissarutland.com/issues.html",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Public schools",
+          "summary": "She calls for fully funding public schools with top teacher pay and training.",
+          "sources": [
+            {
+              "title": "Melissa Rutland - Issues (campaign website)",
+              "url": "https://melissarutland.com/issues.html",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -57,9 +127,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://lpqforfl.com/",
-      "occupation": null,
+      "occupation": "Attorney",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Pinellas County litigation attorney and Stetson University law graduate who says her practice showed her how insurance companies manipulate the system. A descendant of Irish immigrants, she credits her grandfather, a custodian who became a civics teacher, as her model.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,8 +139,97 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She says she will hold insurance and utility corporations accountable and opposes state bailouts of insurers that raise premiums and deny claims.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Lindsay Polega-Quigley for Florida House - Priorities",
+              "url": "https://lpqforfl.com/priorities",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She pledges to hold utility corporations accountable for rising power bills; she does not address renewable energy.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Lindsay Polega-Quigley for Florida House - Priorities",
+              "url": "https://lpqforfl.com/priorities",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She criticizes lawmakers for raiding trust funds designed to lower housing costs.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Lindsay Polega-Quigley for Florida House - Priorities",
+              "url": "https://lpqforfl.com/priorities",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She says reproductive health-care decisions belong to women and their doctors, not politicians.",
+          "quote": "Reproductive healthcare decisions belong to women and their doctors, not politicians in Tallahassee",
+          "sources": [
+            {
+              "title": "Lindsay Polega-Quigley for Florida House - Priorities",
+              "url": "https://lpqforfl.com/priorities",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She supports universal background checks and safe-storage requirements.",
+          "quote": "Lindsay supports universal background checks, safe-storage requirements, and keeping guns out of the hands of people who shouldn't have them",
+          "sources": [
+            {
+              "title": "Lindsay Polega-Quigley for Florida House - Priorities",
+              "url": "https://lpqforfl.com/priorities",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Public schools",
+          "summary": "She says she will vote to fund schools and raise teacher salaries.",
+          "sources": [
+            {
+              "title": "Lindsay Polega-Quigley for Florida House - Priorities",
+              "url": "https://lpqforfl.com/priorities",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Health care",
+          "summary": "She calls for a transparent, patient-centered system with affordable care for workers and seniors.",
+          "sources": [
+            {
+              "title": "Lindsay Polega-Quigley for Florida House - Priorities",
+              "url": "https://lpqforfl.com/priorities",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

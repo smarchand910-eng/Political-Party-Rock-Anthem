@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 64 (Part of Hillsborough) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/dan_weldon.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://tampadan.com/",
-      "occupation": null,
+      "occupation": "Litigation attorney (Morgan & Morgan); former prosecutor",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Tampa native who walked on to the University of Florida football team, chaired the College Republicans of Florida and graduated with honors from UF's Levin College of Law. He began his career as a prosecutor and now works as a litigation attorney for Morgan & Morgan.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -39,7 +39,19 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Cost of living",
+          "summary": "His website says housing, grocery, insurance and energy costs are squeezing families and he would stand up to special interests that profit from higher prices; no specific policies listed.",
+          "sources": [
+            {
+              "title": "Dan Weldon for Florida House (campaign website)",
+              "url": "https://tampadan.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -57,9 +69,9 @@
       "photo_url": "assets/photos/luis_salazar.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.voteluis.com/",
-      "occupation": null,
+      "occupation": "Political organizer and creative professional",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Tampa-based organizer and first-generation college graduate, originally from California and raised in Arizona, who has coordinated LGBTQ+ and Latino voter initiatives. He is vice president of the Florida LGBTQ+ Democratic Caucus and former president of the Hillsborough County LGBTQ+ Democratic Caucus. Won the Aug. 18, 2026 Democratic primary.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,8 +81,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He proposes insurance market reform with consumer protection, tying any public support to rate relief and capping excessive increases.",
+          "quote": "Tie public support to real rate relief, cap excessive increases, and ensure savings reach homeowners and drivers",
+          "sources": [
+            {
+              "title": "Luis Salazar for Florida House - Policies",
+              "url": "https://www.voteluis.com/luis-policies/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says he wants to make sure everyone has access to quality health care; he does not specify Medicaid expansion.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Luis Salazar wins Democratic primary for Florida House District 64 (Watermark Out News)",
+              "url": "https://watermarkoutnews.com/2026/08/19/luis-salazar-wins-democratic-primary-for-florida-house-district-64/",
+              "date": "2026-08-19"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Educators",
+          "summary": "He lists supporting educators among the issues working Floridians face.",
+          "sources": [
+            {
+              "title": "Luis Salazar wins Democratic primary for Florida House District 64 (Watermark Out News)",
+              "url": "https://watermarkoutnews.com/2026/08/19/luis-salazar-wins-democratic-primary-for-florida-house-district-64/",
+              "date": "2026-08-19"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 29 (Part of Volusia) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/webster_barnaby.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://votebarnaby.com",
-      "occupation": null,
+      "occupation": "Business president; state representative (first elected 2020)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Born in Birmingham, England, Barnaby lives in Deltona, where he served as a city commissioner before winning a House seat in 2020 (District 27) and District 29 after redistricting in 2022. He describes himself as a business leader with 30 years of community involvement.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,7 +38,173 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for HJR 203 (Feb. 19, 2026), which would phase out all non-school property taxes on homesteads, and for HJR 1F (June 2, 2026), which placed the Amendment 3 homestead-exemption increase on the November ballot. He told Vote411 he voted to raise the homestead exemption to cut costs.",
+          "quote": "On property taxes I voted to reduce the costs by raising the Homestead Exemption.",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "State Representative 29 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128954",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Points to his vote for tort reform to cut lawsuits as his answer on insurance costs, a market-oriented approach.",
+          "quote": "I voted for Tort Reform to cut down on frivolous lawsuits that force insurance companies to raise rates.",
+          "sources": [
+            {
+              "title": "State Representative 29 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128954",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for SB 300 (2023), the Heartbeat Protection Act, which bans most abortions after six weeks of pregnancy. He told Vote411 he will never support abortion.",
+          "quote": "Abortion is the murder of children. I will never support this.",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 300, Pregnancy and Parenting Support (Heartbeat Protection Act), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=78468&VoteId=21833",
+              "date": "2023-04-13"
+            },
+            {
+              "title": "State Representative 29 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128954",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Says proof of citizenship must be presented in order to vote, with no exceptions; in 2020 he strongly disagreed with voting without photo ID.",
+          "quote": "Proof of Citizenship must be presented in order to vote. No exceptions.",
+          "sources": [
+            {
+              "title": "State Representative 29 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128954",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Rejected the premise that affordable housing is lacking, attributing higher home values to strong fiscal policy and free enterprise.",
+          "quote": "The value of property has naturally increased in the free State of Florida due to strong fiscal and economic policies.",
+          "sources": [
+            {
+              "title": "State Representative 29 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128954",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says insurance subsidies should be limited while the indigent, veterans and seniors are cared for; in 2020 he strongly disagreed that government is responsible for health insurance.",
+          "quote": "Insurance subsidies for Medicare should be limited.",
+          "sources": [
+            {
+              "title": "State Representative 29 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128954",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says he has always advocated limited local government.",
+          "quote": "As a former City Commissioner for Deltona, I have always advocated for limited local government.",
+          "sources": [
+            {
+              "title": "State Representative 29 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128954",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for SB 2-C in the February 2025 special session, which created a State Board of Immigration Enforcement, required state and local cooperation with federal immigration enforcement and added state penalties for people in the country illegally. His site says he passed legislation to curb illegal immigration.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 2-C, Immigration (2025 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81096&VoteId=23489",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "Webster Barnaby for State Representative (campaign site)",
+              "url": "https://votebarnaby.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for HB 543 (2023), which allowed concealed carry without a license; he did not vote on the 2025 and 2026 bills lowering the long-gun purchase age. His site lists defending Second Amendment rights.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/HB 543, Public Safety (permitless concealed carry), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=77202&VoteId=21702",
+              "date": "2023-03-24"
+            },
+            {
+              "title": "Webster Barnaby for State Representative (campaign site)",
+              "url": "https://votebarnaby.com",
+              "date": "2026-09"
+            },
+            {
+              "title": "Floor Vote for HB 759, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81384&VoteId=23523",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Floor Vote for HB 133, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82655&VoteId=24341",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for HB 1 (2023), which opened Florida's private-school scholarship (voucher) programs to every K-12 student regardless of family income.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/CS/CS/HB 1, Education (universal school choice), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=76982&VoteId=21676",
+              "date": "2023-03-17"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],
@@ -56,10 +222,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.donkanfer.com",
+      "occupation": "Veterinarian (semi-retired)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Kanfer, 75, is a veterinarian who has practiced in DeLand for nearly 40 years and is a Rotarian and community volunteer. He holds an agriculture degree from the University of Nevada, Reno and a DVM from the University of Parma in Italy.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +235,127 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls the erosion of local control over land use and development by Tallahassee his top concern and would work to restore home rule.",
+          "quote": "will work to restoring home rule and the ability of local governments to determine what is best for their citizens",
+          "sources": [
+            {
+              "title": "State Representative 29 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128954",
+              "date": "2026-09"
+            },
+            {
+              "title": "The Issues — Don Kanfer for FL-29",
+              "url": "https://www.donkanfer.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says the short answer is to expand Medicaid, plus a stronger preventive role for county health departments.",
+          "quote": "The short answer is to expand Medicaid availability",
+          "sources": [
+            {
+              "title": "State Representative 29 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128954",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports abortion access in cases of rape, incest, threats to the woman's physical or mental health as determined by her doctors, and non-viable pregnancies.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 29 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128954",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says premiums must come down in line with actual risk; his site calls for protecting policyholders, penalties for bad-faith claim delays and no-fault reform.",
+          "quote": "Protect policyholders, not profits",
+          "sources": [
+            {
+              "title": "State Representative 29 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128954",
+              "date": "2026-09"
+            },
+            {
+              "title": "The Issues — Don Kanfer for FL-29",
+              "url": "https://www.donkanfer.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Proposes higher taxes on speculative vacant dwellings and lower purchase fees to help first-time buyers.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 29 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128954",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says taxes will always be needed because local governments provide most day-to-day services, and that insurance, not taxes, is the bigger burden.",
+          "quote": "Taxes will always be with us, since our local governments provide most of our day-to-day services",
+          "sources": [
+            {
+              "title": "State Representative 29 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128954",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "His issues page opposes significant state funding of voucher programs and favors public school funding and state scholarships.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "The Issues — Don Kanfer for FL-29",
+              "url": "https://www.donkanfer.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would have state agencies expedite and provide citizenship documents at little or no cost; his site opposes gerrymandering and supports voting-rights protections.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 29 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128954",
+              "date": "2026-09"
+            },
+            {
+              "title": "The Issues — Don Kanfer for FL-29",
+              "url": "https://www.donkanfer.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []

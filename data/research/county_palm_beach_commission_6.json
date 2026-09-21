@@ -186,7 +186,23 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "A whistleblower complaint by a former county staffer, filed shortly before the Aug. 18 primary and now under investigation by the Palm Beach County Commission on Ethics, alleges Baxter pressured the staffer to pursue a relationship with a wealthy donor. Baxter denies it ('Never have, never would, and it goes against everything I believe in') and has called it a political smear she attributes to her opponent's camp.",
+          "sources": [
+            {
+              "title": "Palm Beach County mayor denies explosive allegations she pressured staffer into sexual relationship with donor (WFLX)",
+              "url": "https://www.wflx.com/2026/09/16/palm-beach-county-mayor-denies-explosive-allegations-she-pressured-staffer-into-sexual-relationship-with-donor/",
+              "date": "2026-09-16"
+            },
+            {
+              "title": "Palm Beach County Mayor Sara Baxter Faces Coercion Claims (Hoodline)",
+              "url": "https://hoodline.com/2026/09/palm-beach-mayor-sara-baxter-denies-staffer-s-sexual-coercion-complaint-days-before-vote/",
+              "date": "2026-09-17"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "sources": [
         {
@@ -380,7 +396,19 @@
           ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Response to Baxter accusation",
+          "summary": "After Baxter suggested Waldron's campaign was behind the ethics complaint, Waldron said in a written statement: 'Neither I nor anyone on my team knew anything about the whistleblower complaint until we learned about it through the media.'",
+          "sources": [
+            {
+              "title": "Palm Beach County mayor denies explosive allegations she pressured staffer into sexual relationship with donor (WFLX)",
+              "url": "https://www.wflx.com/2026/09/16/palm-beach-county-mayor-denies-explosive-allegations-she-pressured-staffer-into-sexual-relationship-with-donor/",
+              "date": "2026-09-16"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted against CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",

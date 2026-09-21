@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 92 (Part of Palm Beach) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -25,10 +25,10 @@
       "incumbent": false,
       "photo_url": "assets/photos/steve_byers.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
-      "website": null,
-      "occupation": null,
+      "website": "https://votestevebyers.com/",
+      "occupation": "Beekeeper; insurance industry professional; pastor",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Steve Byers is a beekeeper and pastor who says he has spent more than 21 years in and around the insurance industry, with additional experience in agriculture, aviation and property ownership. He and his wife homeschooled their children for about 18 years and founded a homeschool support company. He was the Republican nominee for state Senate District 26 in 2022.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,169 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His platform says he will fight for lower taxes, responsible spending and returning surplus revenue to taxpayers.",
+          "quote": "I will fight for lower taxes, responsible spending, stronger property rights, and policies that help Florida families keep more of what they earn.",
+          "sources": [
+            {
+              "title": "Statements and Platform - Steve Byers campaign site",
+              "url": "https://votestevebyers.com/statements/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says the property tax system deserves careful review and that proposals to expand homestead protections and reduce the property tax burden should be clearly explained to voters.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Statements and Platform - Steve Byers campaign site",
+              "url": "https://votestevebyers.com/statements/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says parents, not government, have primary responsibility for education and he will support expanding educational choice, homeschooling and parental rights.",
+          "quote": "Florida should protect parental rights, educational freedom, school choice, homeschooling, vocational education, and innovative alternatives",
+          "sources": [
+            {
+              "title": "Statements and Platform - Steve Byers campaign site",
+              "url": "https://votestevebyers.com/statements/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Vote Steve Byers - campaign site home page",
+              "url": "https://votestevebyers.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "He calls for an insurance market that is fair, competitive, transparent and accountable, saying he will challenge large insurance interests while encouraging a healthy industry.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Statements and Platform - Steve Byers campaign site",
+              "url": "https://votestevebyers.com/statements/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In his iVoterGuide questionnaire he said abortion providers should not receive taxpayer funds, listed no circumstances for elective abortion, and strongly agreed with protecting human life.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "iVoterGuide candidate profile, FL State Rep. Dist. 92 - Steve Byers (2026 general election)",
+              "url": "https://ivoterguide.com/candidate/71072/race/28632/election/1431",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In his iVoterGuide questionnaire he listed no restrictions on gun ownership he would support.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "iVoterGuide candidate profile, FL State Rep. Dist. 92 - Steve Byers (2026 general election)",
+              "url": "https://ivoterguide.com/candidate/71072/race/28632/election/1431",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In his iVoterGuide questionnaire he strongly disagreed with allowing voting without photo ID.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "iVoterGuide candidate profile, FL State Rep. Dist. 92 - Steve Byers (2026 general election)",
+              "url": "https://ivoterguide.com/candidate/71072/race/28632/election/1431",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In his iVoterGuide questionnaire he strongly agreed that gender transition for children constitutes abuse and supported barring biological males from women's sports.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "iVoterGuide candidate profile, FL State Rep. Dist. 92 - Steve Byers (2026 general election)",
+              "url": "https://ivoterguide.com/candidate/71072/race/28632/election/1431",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In his iVoterGuide questionnaire he strongly disagreed with sanctuary cities.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "iVoterGuide candidate profile, FL State Rep. Dist. 92 - Steve Byers (2026 general election)",
+              "url": "https://ivoterguide.com/candidate/71072/race/28632/election/1431",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "energy": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In his iVoterGuide questionnaire he strongly disagreed that climate change is a threat and named nuclear as the most reliable energy source.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "iVoterGuide candidate profile, FL State Rep. Dist. 92 - Steve Byers (2026 general election)",
+              "url": "https://ivoterguide.com/candidate/71072/race/28632/election/1431",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In his iVoterGuide questionnaire he said the goal of the criminal justice system should be reform rather than populating the largest prison system.",
+          "quote": "reform - not to populate the largest prison system",
+          "sources": [
+            {
+              "title": "iVoterGuide candidate profile, FL State Rep. Dist. 92 - Steve Byers (2026 general election)",
+              "url": "https://ivoterguide.com/candidate/71072/race/28632/election/1431",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "HOA reform",
+          "summary": "He calls for stronger oversight, financial transparency and accountability for homeowners' associations and a legal pathway for homeowners to leave abusive HOAs.",
+          "sources": [
+            {
+              "title": "Statements and Platform - Steve Byers campaign site",
+              "url": "https://votestevebyers.com/statements/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -57,9 +218,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Former CEO of the Palm Beach County Medical Society; former nonprofit advocacy director; state representative since 2020",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Kelly Skidmore was born in Cleveland, grew up in Deerfield Beach and lives in Boca Raton. She worked in public relations for the Marine Industries Association of South Florida, directed advocacy for the Arthritis Foundation and served as CEO of the Palm Beach County Medical Society. She previously served in the House from 2006 to 2010 and returned in 2020; she has represented District 92 since 2022.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,9 +230,126 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted no on HJR 1-F (June 2, 2026) and HJR 203 (Feb. 19, 2026); on the floor she called the amendment's ballot summary a lie that omits what voters stand to lose in local services.",
+          "quote": "This amendment that we are going to put on the ballot is a lie. It is a fabrication.",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House floor vote, CS/CS/HJR 203 (Elimination of Non-school Property Tax for Homesteads), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=24474&BillId=82728",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Florida property-tax amendment clears Legislature, setting up November campaign fight - WFLX",
+              "url": "https://www.wflx.com/2026/06/02/florida-property-tax-amendment-clears-legislature-setting-up-november-campaign-fight/",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted no on SB 2-C (Feb. 13, 2025), which created a State Board of Immigration Enforcement, funded state cooperation with federal immigration enforcement and added criminal penalties tied to immigration status.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House floor vote, SB 2-C (Immigration), 2025 Special Session C, third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111&",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "Florida House roll call, SB 2-C passage (Yeas 85, Nays 30)",
+              "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted no on SB 300 (2023), which limited most abortions to six weeks of pregnancy, on April 13, 2023.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 300 (Heartbeat Protection Act, six-week abortion limit) passage (Yeas 70, Nays 40)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted no on HB 543 (2023), which allowed carrying a concealed firearm without a state permit, on March 24, 2023.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 543 (permitless concealed carry) passage, third reading (Yeas 76, Nays 32)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted no on HB 1 (2023), which made every K-12 student eligible for a state scholarship usable at private schools or for home education, on March 17, 2023.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (school choice) passage, third reading (Yeas 83, Nays 27)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted no on HJR 1-F (2026 special session), HJR 203 (2026), SB 2-C (2025), HB 1 (2023), SB 300 (2023) and HB 543 (2023).",
+          "sources": [
+            {
+              "title": "Florida House floor vote, CS/HJR 1-F (Save our Homes from Excessive Property Taxes), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House floor vote, CS/CS/HJR 203 (Elimination of Non-school Property Tax for Homesteads), third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=24474&BillId=82728",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Florida House floor vote, SB 2-C (Immigration), 2025 Special Session C, third reading",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111&",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "Florida House roll call, CS/CS/CS/CS/HB 1 (school choice) passage, third reading (Yeas 83, Nays 27)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            },
+            {
+              "title": "Florida House roll call, SB 300 (Heartbeat Protection Act, six-week abortion limit) passage (Yeas 70, Nays 40)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            },
+            {
+              "title": "Florida House roll call, CS/HB 543 (permitless concealed carry) passage, third reading (Yeas 76, Nays 32)",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {

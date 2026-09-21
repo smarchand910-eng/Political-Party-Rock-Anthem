@@ -509,11 +509,17 @@
           "sources": []
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Lamondin supports age limits on gun purchases and firearm licensing requirements, according to Florida Politics' report on his endorsement by Gabby Giffords; he tied the issue to school safety.",
+          "quote": "No parent should have to drop their child off at school and spend the day wondering if they are safe.",
+          "sources": [
+            {
+              "title": "'He refuses to be intimidated by the gun lobby': Giffords backs Richard Lamondin for SD 38 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/820543-he-refuses-to-be-intimidated-by-the-gun-lobby-giffords-backs-richard-lamondin-for-sd-38/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "healthcare": {
           "stance": 2,
@@ -550,11 +556,17 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lamondin has criticized the Live Local Act for giving developers too much power over local decisions, per Florida Politics.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "'He refuses to be intimidated by the gun lobby': Giffords backs Richard Lamondin for SD 38 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/820543-he-refuses-to-be-intimidated-by-the-gun-lobby-giffords-backs-richard-lamondin-for-sd-38/",
+              "date": "2026-09-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -621,7 +633,23 @@
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Gabby Giffords (former U.S. Rep.; gun-safety advocate)",
+          "sources": [
+            {
+              "title": "'He refuses to be intimidated by the gun lobby': Giffords backs Richard Lamondin for SD 38 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/820543-he-refuses-to-be-intimidated-by-the-gun-lobby-giffords-backs-richard-lamondin-for-sd-38/",
+              "date": "2026-09-18"
+            },
+            {
+              "title": "Sunburn — The morning read of what's hot in Florida politics — 9.18.26 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/820439-sunburn-the-morning-read-of-whats-hot-in-florida-politics-9-18-26-2/",
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

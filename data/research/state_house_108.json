@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 108 (Part of Miami-Dade) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -25,10 +25,10 @@
       "incumbent": false,
       "photo_url": "assets/photos/wancito_francius.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
-      "website": null,
-      "occupation": null,
+      "website": "https://www.wancitofranciusforflorida.com/",
+      "occupation": "Entrepreneur and community activist",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Wancito Francius, 50, is a lifelong North Miami resident with a bachelor's degree in criminal justice who describes himself as an entrepreneur and activist. He has run for the Legislature several times, including as a Democrat in 2022 and 2024, and is now the Republican nominee. His signature proposal is an $8 million autism support act named for his son.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,104 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Francius supports protecting dedicated housing funds, expanding first-time homebuyer help, public-private workforce housing and rental-fee transparency.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Wancito Francius",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020253",
+              "date": "2026-09"
+            },
+            {
+              "title": "Wancito Francius campaign website",
+              "url": "https://www.wancitofranciusforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "He says he believes in protecting the dignity of human life while supporting exceptions for the life or health of the mother, rape and incest.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Wancito Francius",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020253",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "His platform calls for just and humane immigration policies that treat every family with dignity.",
+          "quote": "Stand for policies that are fair, lawful, and treat every family with the dignity and humanity they deserve.",
+          "sources": [
+            {
+              "title": "Wancito Francius campaign website",
+              "url": "https://www.wancitofranciusforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His site pledges real, measured action to end gun violence in streets and schools.",
+          "quote": "Take real, measured action to end the gun violence threatening our streets, our schools, and our children's futures.",
+          "sources": [
+            {
+              "title": "Wancito Francius campaign website",
+              "url": "https://www.wancitofranciusforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "He calls for overhauling the correctional system around fairness and second chances and rebuilding trust between residents and police.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Wancito Francius campaign website",
+              "url": "https://www.wancitofranciusforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says proof-of-citizenship documents should be easy and free to obtain so no eligible citizen is denied registration.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Wancito Francius",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020253",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Autism support act",
+          "summary": "Francius is promoting the Nathan Emmanuel Francius Autism Support and Resources Act, which would direct $8 million to schools and behavior technicians serving children with autism.",
+          "sources": [
+            {
+              "title": "Wancito Francius campaign website",
+              "url": "https://www.wancitofranciusforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -57,9 +153,9 @@
       "photo_url": "assets/photos/daphne_campbell.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://daphnecampbell.com/",
-      "occupation": null,
+      "occupation": "Registered nurse; former state representative (2010-2016) and state senator",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Daphne Campbell, 69, is a registered nurse born in Cap-Haïtien, Haiti, who served three terms in the Florida House and one in the Senate before losing a 2018 primary. She won the August 2026 Democratic primary in this heavily Democratic northeast Miami-Dade district.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +165,140 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Campbell says housing is a necessity, pledges to protect the Sadowski housing trust funds and supports first-time homebuyer, rental-assistance and workforce-housing programs.",
+          "quote": "Housing is not a privilege. It is a necessity.",
+          "sources": [
+            {
+              "title": "The Miami Times: Florida House District 108: Meet the Democratic candidates seeking to succeed Dotie Joseph",
+              "url": "https://www.miamitimesonline.com/news/local/florida-house-district-108-meet-the-democratic-candidates-seeking-to-succeed-dotie-joseph/article_c738b172-b7d9-4013-a9eb-cb0f93fa4ce4.html",
+              "date": "2026-07-14"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Daphne Campbell",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691021",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She says she supports protecting unborn life with exceptions for the mother's life, rape, incest and nonviable pregnancies.",
+          "quote": "I support protecting unborn life while recognizing that certain circumstances involve deeply difficult medical and personal realities",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Daphne Campbell",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691021",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "A nurse of more than 45 years, she calls health care a basic necessity and supports expanding state-supported coverage options and reducing enrollment barriers.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Daphne Campbell",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691021",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Her insurance approach combines stronger oversight and transparency with more competition, fraud reduction and mitigation incentives.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Daphne Campbell",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691021",
+              "date": "2026-09"
+            },
+            {
+              "title": "The Miami Times: Florida House District 108: Meet the Democratic candidates seeking to succeed Dotie Joseph",
+              "url": "https://www.miamitimesonline.com/news/local/florida-house-district-108-meet-the-democratic-candidates-seeking-to-succeed-dotie-joseph/article_c738b172-b7d9-4013-a9eb-cb0f93fa4ce4.html",
+              "date": "2026-07-14"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She defends Temporary Protected Status for Haitian residents.",
+          "quote": "This is humanity. We're talking about humans",
+          "sources": [
+            {
+              "title": "The Miami Times: Florida House District 108: Meet the Democratic candidates seeking to succeed Dotie Joseph",
+              "url": "https://www.miamitimesonline.com/news/local/florida-house-district-108-meet-the-democratic-candidates-seeking-to-succeed-dotie-joseph/article_c738b172-b7d9-4013-a9eb-cb0f93fa4ce4.html",
+              "date": "2026-07-14"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Her site says she opposed expanding private-school funding in favor of strengthening public education, and she criticizes proposals requiring public schools to share campuses with charters.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Daphne Campbell campaign website",
+              "url": "https://daphnecampbell.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "The Miami Times: Florida House District 108: Meet the Democratic candidates seeking to succeed Dotie Joseph",
+              "url": "https://www.miamitimesonline.com/news/local/florida-house-district-108-meet-the-democratic-candidates-seeking-to-succeed-dotie-joseph/article_c738b172-b7d9-4013-a9eb-cb0f93fa4ce4.html",
+              "date": "2026-07-14"
+            }
+          ]
+        },
+        "guns": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her campaign lists gun-violence prevention among its goals.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Daphne Campbell campaign website",
+              "url": "https://daphnecampbell.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She says preemption should be used narrowly and local governments should keep authority over housing implementation and neighborhood development.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Daphne Campbell",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691021",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She would create assistance centers, fee waivers and mobile clinics so a proof-of-citizenship rule does not block eligible voters.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Daphne Campbell",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691021",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

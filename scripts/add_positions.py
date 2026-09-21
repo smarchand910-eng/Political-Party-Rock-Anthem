@@ -4,6 +4,7 @@ spec=json.load(open(sys.argv[1]))
 issues={i['id'] for i in json.load(open('data/issues.json'))['issues']}
 n=0
 for rid,cands in spec.items():
+    if rid.startswith('_'): continue   # _debates / _amendments are handled by apply_status.py
     p=f'data/research/{rid}.json'; raw=open(p,encoding='utf-8').read(); d=json.loads(raw)
     byid={c['id']:c for c in d['candidates']}
     for cid,sp in cands.items():

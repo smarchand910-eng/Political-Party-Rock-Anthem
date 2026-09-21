@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 82 (Hendry and Part of Collier) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.liesapriddy.com/",
-      "occupation": null,
+      "occupation": "Rancher (JB Ranch, Immokalee); former banker; former Florida Fish and Wildlife Conservation Commission member",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Liesa Priddy is a third-generation Immokalee rancher who, with her husband Russell, operates JB Ranch in Collier County. She holds a finance degree and an environmental studies degree, worked in banking and law-firm administration before returning to the ranch, and served on the Florida Fish and Wildlife Conservation Commission from 2012 to 2017 by appointment of Gov. Rick Scott. She is a regional representative for the Florida Cattlemen's Association.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,7 +38,153 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "immigration": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In her Q&A she says people here illegally should be deported and describes illegal immigration as a drain on the economy and resources.",
+          "quote": "Those who are here illegally should be deported",
+          "sources": [
+            {
+              "title": "Q & A with Liesa Priddy - campaign site",
+              "url": "https://www.liesapriddy.com/q-a-with-liesa-priddy",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She says she agrees with lowering taxes and making homeownership affordable but worries the homestead-elimination approach will simply shift taxes and hurt rural counties like Hendry; she says she would have supported a less drastic amendment.",
+          "quote": "I agree that we should lower taxes and make home ownership more affordable",
+          "sources": [
+            {
+              "title": "Q & A with Liesa Priddy - campaign site",
+              "url": "https://www.liesapriddy.com/q-a-with-liesa-priddy",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her site lists reducing taxes on working Floridians as a campaign goal and says free enterprise, not excessive government, lets families and businesses prosper.",
+          "quote": "Reduce Taxes on Hard Working Floridians",
+          "sources": [
+            {
+              "title": "Liesa Priddy for Florida House - campaign site home page",
+              "url": "https://www.liesapriddy.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Q & A with Liesa Priddy - campaign site",
+              "url": "https://www.liesapriddy.com/q-a-with-liesa-priddy",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Protecting Second Amendment rights is listed as her first campaign priority.",
+          "quote": "Protect Our Second Amendment Rights",
+          "sources": [
+            {
+              "title": "Liesa Priddy for Florida House - campaign site home page",
+              "url": "https://www.liesapriddy.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Q & A with Liesa Priddy - campaign site",
+              "url": "https://www.liesapriddy.com/q-a-with-liesa-priddy",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She supports continued state efforts to reduce insurance costs, home hardening and strong building codes, while noting insurers need adequate premiums to stay in business.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Q & A with Liesa Priddy - campaign site",
+              "url": "https://www.liesapriddy.com/q-a-with-liesa-priddy",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She supports planned growth, limiting zoning changes to control growth, and leaving growth management to county commissioners under home rule.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Q & A with Liesa Priddy - campaign site",
+              "url": "https://www.liesapriddy.com/q-a-with-liesa-priddy",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She supports continued Everglades restoration, improving Lake Okeechobee and converting septic tanks to sewer where feasible; her ranch has received conservation-stewardship awards.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Q & A with Liesa Priddy - campaign site",
+              "url": "https://www.liesapriddy.com/q-a-with-liesa-priddy",
+              "date": "2026-09"
+            },
+            {
+              "title": "Liesa Priddy for Florida House - campaign site home page",
+              "url": "https://www.liesapriddy.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She says she supports school choice and that parents should have the final say in their child's education.",
+          "quote": "Parents should continue to have the final input as to their child's education",
+          "sources": [
+            {
+              "title": "Q & A with Liesa Priddy - campaign site",
+              "url": "https://www.liesapriddy.com/q-a-with-liesa-priddy",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She supports increasing housing supply, expanding workforce housing and helping first-time homebuyers, along with reducing insurance costs that raise housing prices.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Q & A with Liesa Priddy - campaign site",
+              "url": "https://www.liesapriddy.com/q-a-with-liesa-priddy",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "trump": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She describes herself as an America First conservative.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Q & A with Liesa Priddy - campaign site",
+              "url": "https://www.liesapriddy.com/q-a-with-liesa-priddy",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],
@@ -57,9 +203,9 @@
       "photo_url": "assets/photos/arthur_boyer.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.voteboyer2026.com/",
-      "occupation": null,
+      "occupation": "Educator (Ed.D.) and nonprofit community leader",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Arthur Boyer holds a doctorate in education and has worked for more than 20 years in the district as a classroom teacher, in community service, nonprofit advocacy and organizational coaching. He lives in Immokalee and is the father of an adult son.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +215,78 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "His issues page supports what he calls a fair and humane immigration approach that upholds the rule of law while rejecting dehumanization and protecting families, and his site says he stands with TPS holders.",
+          "quote": "a fair and humane immigration approach that upholds the rule of law while rejecting dehumanization and protecting families",
+          "sources": [
+            {
+              "title": "On the Issues - Arthur Boyer campaign site",
+              "url": "https://www.voteboyer2026.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "Arthur Boyer campaign site home page",
+              "url": "https://www.voteboyer2026.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His issues page calls for expanding attainable and workforce housing and confronting affordability pressures.",
+          "quote": "expanding attainable and workforce housing and confronting affordability pressures",
+          "sources": [
+            {
+              "title": "On the Issues - Arthur Boyer campaign site",
+              "url": "https://www.voteboyer2026.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He calls for strengthening community clinics, responsibly expanding telehealth and building workforce pipelines for nurses, counselors and primary care providers.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "On the Issues - Arthur Boyer campaign site",
+              "url": "https://www.voteboyer2026.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "He advocates community-based public safety that supports first responders while prioritizing prevention and mental-health response options.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "On the Issues - Arthur Boyer campaign site",
+              "url": "https://www.voteboyer2026.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He supports Everglades restoration to improve water flow and reduce harmful discharges, and infrastructure investment for hurricane, flooding and sea-level-rise preparedness.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "On the Issues - Arthur Boyer campaign site",
+              "url": "https://www.voteboyer2026.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

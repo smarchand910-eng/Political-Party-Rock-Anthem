@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 113 (Part of Miami-Dade) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/bruno_barreiro.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://barreirofl.com/",
-      "occupation": null,
+      "occupation": "Home-health-care company executive and business owner; former Miami-Dade County commissioner (1998-2018) and state representative (1992-1998)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Bruno Barreiro, a Miami native born to Cuban immigrant parents, served in the Florida House from 1992 to 1998 and on the Miami-Dade County Commission from 1998 to 2018, including as chairman in 2006. He leads a home-health-care company and other family businesses and narrowly won the August 2026 Republican primary.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,106 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Barreiro supports the 2026 homestead property-tax amendment, saying retirees need relief to stay in their homes.",
+          "quote": "People need tax relief. It has become a very difficult thing, especially for retirees in Florida, to continue to afford living in their homes.",
+          "sources": [
+            {
+              "title": "WLRN: Meet the primary candidates for House District 113",
+              "url": "https://www.wlrn.org/government-politics/2026-08-12/meet-the-primary-candidates-for-house-district-113",
+              "date": "2026-08-12"
+            },
+            {
+              "title": "Bruno Barreiro campaign website",
+              "url": "https://barreirofl.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He lists stopping overdevelopment as a priority and calls the Live Local Act a knee-jerk reaction that invites development without matching infrastructure.",
+          "quote": "Stop Overdevelopment",
+          "sources": [
+            {
+              "title": "Bruno Barreiro campaign website",
+              "url": "https://barreirofl.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "WLRN: Meet the primary candidates for House District 113",
+              "url": "https://www.wlrn.org/government-politics/2026-08-12/meet-the-primary-candidates-for-house-district-113",
+              "date": "2026-08-12"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "He lists affordable housing as a priority but says it must be done properly with infrastructure and opposes the state's Live Local approach.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Bruno Barreiro campaign website",
+              "url": "https://barreirofl.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "WLRN: Meet the primary candidates for House District 113",
+              "url": "https://www.wlrn.org/government-politics/2026-08-12/meet-the-primary-candidates-for-house-district-113",
+              "date": "2026-08-12"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His platform includes cutting taxes and fees and relieving tolls.",
+          "quote": "Cut Taxes and Fees",
+          "sources": [
+            {
+              "title": "Bruno Barreiro campaign website",
+              "url": "https://barreirofl.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His platform lists keeping the community safe among his priorities.",
+          "quote": "Keep Our Community Safe",
+          "sources": [
+            {
+              "title": "Bruno Barreiro campaign website",
+              "url": "https://barreirofl.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Condo reform and tolls",
+          "summary": "Barreiro lists collaborating with residents on condo reform, condo safety, toll relief and traffic congestion among his priorities.",
+          "sources": [
+            {
+              "title": "Bruno Barreiro campaign website",
+              "url": "https://barreirofl.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Political Cortadito: Bruno Barreiro survives GOP squeaker, faces Gloria Romero Roses for HD 113",
+              "url": "https://politicalcortadito.com/2026/08/18/bruno-barreiro-faces-gloria-romero-roses/",
+              "date": "2026-08-18"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -57,9 +155,9 @@
       "photo_url": "assets/photos/gloria_romero_roses.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.gloriaromeroroses.com/",
-      "occupation": null,
+      "occupation": "Real-estate and affordable-housing professional; small-business investor; former assisted-living-facility owner",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Gloria Romero Roses, 55, was born in Bogotá and raised in South Florida. She holds an MBA from the University of Miami, has spent about 40 years in real estate, affordable housing and community development, ran an assisted-living facility until 2020 and has served as statewide vice chair of Ruth's List Florida and on the board of Catholics for Choice.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +167,137 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "She opposes the 2026 property-tax amendment, calling it a political stunt and saying eliminating property taxes is not a responsible solution.",
+          "quote": "Floridians deserve relief from rising costs, but eliminating property taxes is not a responsible solution.",
+          "sources": [
+            {
+              "title": "WLRN: Meet the primary candidates for House District 113",
+              "url": "https://www.wlrn.org/government-politics/2026-08-12/meet-the-primary-candidates-for-house-district-113",
+              "date": "2026-08-12"
+            },
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Gloria Romero Roses",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691043",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She would speed affordable-housing construction with state financing for developers, public-private partnerships, small-scale infill and a lower income cap for workforce housing.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Gloria Romero Roses",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691043",
+              "date": "2026-09"
+            },
+            {
+              "title": "WLRN: Meet the primary candidates for House District 113",
+              "url": "https://www.wlrn.org/government-politics/2026-08-12/meet-the-primary-candidates-for-house-district-113",
+              "date": "2026-08-12"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She supports restoring access to safe, legal abortion and wrote a 2023 op-ed saying the six-week ban violated her Catholic values.",
+          "quote": "A six-week abortion ban is effectively a total ban on abortion. Most people do not even know they are pregnant at six weeks.",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Gloria Romero Roses",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691043",
+              "date": "2026-09"
+            },
+            {
+              "title": "Catholics for Choice: Florida's Six-Week Abortion Ban Violates My Catholic Values (Sun Sentinel op-ed)",
+              "url": "https://www.catholicsforchoice.org/in-the-news/florida-abortion-ban-sun-sentinel/",
+              "date": "2023-04-25"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She pledges to hold insurers accountable, increase rate-setting transparency and invest in resilience and hurricane hardening.",
+          "quote": "I'll fight to hold insurance companies accountable, increase rate setting transparency, invest in resilience and hurricane hardenin[g]",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Gloria Romero Roses",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691043",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She has spoken at Miami City Commission meetings against the city's 287(g) agreement with ICE.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Political Cortadito: Both parties battle in primaries for wide open Florida House District 113 seat",
+              "url": "https://politicalcortadito.com/2026/07/31/both-parties-battle-in-primaries-for-wide-open-florida-house-district-113/comment-page-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She supports restoring home rule, reforming Live Local into a grand bargain with communities, and smart growth.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Gloria Romero Roses",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691043",
+              "date": "2026-09"
+            },
+            {
+              "title": "WLRN: Meet the primary candidates for House District 113",
+              "url": "https://www.wlrn.org/government-politics/2026-08-12/meet-the-primary-candidates-for-house-district-113",
+              "date": "2026-08-12"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She supports expanding access to coverage, preventive care and patient navigators, and an Elder's Trust for seniors.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Gloria Romero Roses",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691043",
+              "date": "2026-09"
+            },
+            {
+              "title": "Gloria Romero Roses campaign website",
+              "url": "https://www.gloriaromeroroses.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She would fund technology and interstate coordination to make citizenship records affordable and accessible.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote411 Voter Guide (League of Women Voters): Gloria Romero Roses",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72691043",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],
@@ -90,7 +318,7 @@
       "website": null,
       "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
       "residence": null,
-      "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Paola Vázquez del Mercado is a write-in candidate who says she has lived in the district for more than 30 years, worked as a political and credit risk broker at AON Risk and pursued land-banking investments in Edgewater from 2005 to 2016. Her Ballotpedia survey emphasizes public safety, corporate and international fraud, and environmental integrity.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -100,7 +328,34 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She lists eradicating street violence and securing Downtown, Biscayne and Brickell among her top three messages.",
+          "quote": "Eradicating street violence & securing Downtown , Biscayne and Brickell.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Paola Vazquez del Mercado",
+              "url": "https://ballotpedia.org/Paola_Vazquez_del_Mercado",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She calls for halting corrupt tree cutting, auditing port mismanagement and stopping corporate pollution.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Ballotpedia: Paola Vazquez del Mercado",
+              "url": "https://ballotpedia.org/Paola_Vazquez_del_Mercado",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

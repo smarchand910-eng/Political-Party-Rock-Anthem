@@ -16,7 +16,7 @@
   "what_it_does": "Represents District 45 (Parts of Orange, Osceola) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -27,9 +27,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.voteerinhuntley.com/",
-      "occupation": null,
+      "occupation": "Former Orange County Republican Party chair; private-sector leadership-development and HR professional (Walt Disney Parks, JetBlue, DECA); Florida Virtual School trustee",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Huntley, a mother of three who has lived in Central Florida for nearly two decades, chaired the Orange County Republican Party and was appointed by Gov. DeSantis to the Florida Virtual School Board of Trustees. Her private-sector career includes roles at Walt Disney Parks, JetBlue Airways and DECA Inc.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -39,9 +39,83 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to keep taxes low and cut wasteful government spending.",
+          "quote": "keeping taxes low",
+          "sources": [
+            {
+              "title": "Vote Erin Huntley for State House, District 45 (campaign site)",
+              "url": "https://www.voteerinhuntley.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Campaigns on expanding educational opportunities through school choice and literacy programs.",
+          "quote": "enhancing education through school choice and literacy programs",
+          "sources": [
+            {
+              "title": "Vote Erin Huntley for State House, District 45 (campaign site)",
+              "url": "https://www.voteerinhuntley.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Erin Huntley files in HD 45 against Leonard Spencer (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/715418-erin-huntley-files-in-hd-45-against-leonard-spencer-the-only-democrat-in-a-donald-trump-district/",
+              "date": "2025-01-14"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked about Amendment 4, she said the Republican Party of Florida and Orange County GOP opposed it and that is where she aligns; she has not detailed her own position on the six-week law.",
+          "quote": "that's where we align as a party",
+          "sources": [
+            {
+              "title": "Erin Huntley files in HD 45 against Leonard Spencer (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/715418-erin-huntley-files-in-hd-45-against-leonard-spencer-the-only-democrat-in-a-donald-trump-district/",
+              "date": "2025-01-14"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists supporting law enforcement and keeping communities safe among her priorities.",
+          "quote": "support law enforcement",
+          "sources": [
+            {
+              "title": "Vote Erin Huntley for State House, District 45 (campaign site)",
+              "url": "https://www.voteerinhuntley.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "About — Vote Erin Huntley",
+              "url": "https://www.voteerinhuntley.com/about",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Did not respond to the 2026 Vote411 questionnaire.",
+          "sources": [
+            {
+              "title": "State Representative 45 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128995",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -58,9 +132,9 @@
       "photo_url": "assets/photos/leonard_spencer.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://leonardspencerfl.com",
-      "occupation": null,
+      "occupation": "Business executive; state representative (elected 2024)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Spencer, 55, of Gotha, holds finance degrees from Tuskegee University and the University of Alabama and has worked as a business executive partnering large companies with small businesses. He unseated Rep. Carolina Amesty in 2024 and is the only House Democrat representing a district carried by Donald Trump.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -70,7 +144,163 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Sponsored HB 343 to create an Insurance Advisory Council for stronger oversight and transparency, and says he will keep filing insurance-accountability bills.",
+          "quote": "This legislation would have strengthened oversight of insurance companies, increased transparency for consumers",
+          "sources": [
+            {
+              "title": "State Representative 45 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128995",
+              "date": "2026-09"
+            },
+            {
+              "title": "Leonard Spencer for Florida House District 45 (campaign site)",
+              "url": "https://leonardspencerfl.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says Florida must expand Medicaid and draw down federal funds, plus raise reimbursement rates and expand community health centers.",
+          "quote": "First, Florida must expand Medicaid and draw down the federal funding available",
+          "sources": [
+            {
+              "title": "State Representative 45 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128995",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports a woman's right to choose without government interference.",
+          "quote": "I support a woman's right to choose without interference from the government",
+          "sources": [
+            {
+              "title": "State Representative 45 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128995",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports fully funding the Sadowski trust funds and removing barriers to workforce housing near jobs and transit.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 45 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128995",
+              "date": "2026-09"
+            },
+            {
+              "title": "Leonard Spencer for Florida House District 45 (campaign site)",
+              "url": "https://leonardspencerfl.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 0,
+          "confidence": "record",
+          "summary": "Voted for HJR 203 in February 2026 but against HJR 1F in June 2026, and has said the Legislature had to do ad hoc analysis before voting on the amendment.",
+          "quote": "The legislature had to do ad hoc analysis on the back of paper napkins to try to understand what it could be before we actually, took a vote.",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "6 Takeaways from the West Orange Property Tax Town Hall (Vox Populi)",
+              "url": "https://www.wintergardenvox.com/articles/6-takeaways-from-the-west-orange-property-tax-town-hall",
+              "date": "2026-09-07"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Co-sponsored HB 1419, the Harry T. and Harriette V. Moore Florida Voting Rights Act, and opposes new barriers to voting.",
+          "quote": "I do not believe we should create additional barriers to voting.",
+          "sources": [
+            {
+              "title": "State Representative 45 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128995",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says home rule keeps being eroded and Florida must restore local authority, including on housing costs.",
+          "quote": "Home rule continues to be eroded in Tallahassee",
+          "sources": [
+            {
+              "title": "State Representative 45 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128995",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Voted against HB 759 (2025), which would have lowered the long-gun purchase age from 21 to 18.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for HB 759, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81384&VoteId=23523",
+              "date": "2025-03-26"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted against SB 2-C, the 2025 special-session immigration enforcement law.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 2-C, Immigration (2025 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81096&VoteId=23489",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "SB 2-C (2025C) Immigration, bill detail, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=81096",
+              "date": "2025-02"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "His site says he wants to keep public dollars in neighborhood public schools and fund them to address the teacher shortage.",
+          "quote": "keep public dollars in our neighborhood public schools",
+          "sources": [
+            {
+              "title": "Leonard Spencer for Florida House District 45 (campaign site)",
+              "url": "https://leonardspencerfl.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

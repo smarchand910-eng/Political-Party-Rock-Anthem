@@ -16,7 +16,7 @@
   "what_it_does": "Represents District 34 (Indian River, Part of Brevard) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -27,9 +27,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.voterobertbrackett.com",
-      "occupation": null,
+      "occupation": "Corporate managing partner/director; former mayor of Vero Beach; state representative (first elected 2022)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Brackett, a Vero Beach native and Lipscomb University graduate, served as mayor of Vero Beach before winning HD 34 in 2022. He sits on the House Select Committee on Property Taxes.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -39,7 +39,142 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Voted for HJR 1F to place the homestead-exemption amendment on the ballot and was recorded as a yes after the roll call on HJR 203, but told News 6 he questioned whether the amendment was the answer and stressed public safety funding.",
+          "quote": "We've got to rein it in. In 2014 we collected about $28 billion statewide in property taxes and this year we'll collect just under $60 billion.",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "2026 Voter's Guide - Florida House District 34, Republican primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-34-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says cutting government spending allows cutting taxes.",
+          "quote": "It's pretty simple math, reduce government spending and we can reduce taxes.",
+          "sources": [
+            {
+              "title": "The Issues — Robert Brackett for State Representative",
+              "url": "https://www.voterobertbrackett.com/issues.html",
+              "date": "2026-09"
+            },
+            {
+              "title": "2026 Voter's Guide - Florida House District 34, Republican primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-34-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for SB 2-C in the February 2025 special session, which created a State Board of Immigration Enforcement, required state and local cooperation with federal immigration enforcement and added state penalties for people in the country illegally.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 2-C, Immigration (2025 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81096&VoteId=23489",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "SB 2-C (2025C) Immigration, bill detail, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=81096",
+              "date": "2025-02"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for HB 1 (2023), which opened Florida's private-school scholarship (voucher) programs to every K-12 student regardless of family income.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/CS/CS/HB 1, Education (universal school choice), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=76982&VoteId=21676",
+              "date": "2023-03-17"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for SB 300 (2023), the Heartbeat Protection Act, which bans most abortions after six weeks of pregnancy.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 300, Pregnancy and Parenting Support (Heartbeat Protection Act), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=78468&VoteId=21833",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for HB 543 (2023), which allowed carrying a concealed firearm without a license, and for HB 759 (2025) and HB 133 (2026), which would lower the minimum age to buy a rifle or shotgun from 21 to 18.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/HB 543, Public Safety (permitless concealed carry), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=77202&VoteId=21702",
+              "date": "2023-03-24"
+            },
+            {
+              "title": "Floor Vote for HB 759, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81384&VoteId=23523",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Floor Vote for HB 133, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82655&VoteId=24341",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Attributed affordability problems to supply and demand and credited new insurers entering the market with improving rates.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Florida House District 34, Republican primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-34-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to continue water and utility infrastructure upgrades and fight for clean waterways and beaches.",
+          "quote": "fighting for clean waterways and beaches",
+          "sources": [
+            {
+              "title": "The Issues — Robert Brackett for State Representative",
+              "url": "https://www.voterobertbrackett.com/issues.html",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],
@@ -58,9 +193,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "http://jordynforfl.com/",
-      "occupation": null,
+      "occupation": "Community organizer and caregiver",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Balderas, 21, is a community organizer from Vero Beach who left high school to support his family after his mother was diagnosed with amyloidosis, and experienced homelessness as a teenager. He says he is currently uninsured and is running on housing, health care access and working-family representation.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -70,7 +205,158 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would rehabilitate vacant properties for workforce housing, expand rental subsidies and add renter protections such as longer notice for rent increases and fee limits.",
+          "quote": "Renters deserve protections too",
+          "sources": [
+            {
+              "title": "State Representative 34 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128944",
+              "date": "2026-09"
+            },
+            {
+              "title": "Jordyn Balderas for Florida State House District 34 (campaign site)",
+              "url": "http://jordynforfl.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Wants public dollars kept in public schools and reporting requirements for every voucher dollar.",
+          "quote": "Private for-profit schools should not piggyback off already underfunded public schools.",
+          "sources": [
+            {
+              "title": "State Representative 34 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128944",
+              "date": "2026-09"
+            },
+            {
+              "title": "Jordyn Balderas for Florida State House District 34 (campaign site)",
+              "url": "http://jordynforfl.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says he stands with the majority that voted for Amendment 4 and will work to restore reproductive freedom.",
+          "quote": "I stand with that majority and will work to restore reproductive freedom.",
+          "sources": [
+            {
+              "title": "State Representative 34 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128944",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports stricter gun laws, including barring high-school minors from buying or carrying firearms and requiring safe storage around minors.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Jordyn Balderas for Florida State House District 34 (campaign site)",
+              "url": "http://jordynforfl.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would expand state lagoon restoration through mangroves, living shorelines and stormwater work, fund septic-to-sewer from the state budget and require major projects to pay full environmental costs up front.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Jordyn Balderas for Florida State House District 34 (campaign site)",
+              "url": "http://jordynforfl.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Jordyn Balderas — Florida House, District 34 (The Space Coast Rocket)",
+              "url": "https://thespacecoastrocket.com/jordyn-balderas-florida-house-district-34/",
+              "date": "2026-07-04"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says power has shifted too far to Tallahassee and wants home rule fortified so communities control development; opposes blanket preemption bills.",
+          "quote": "counties and cities should be able to make their own decisions about whats best for the community",
+          "sources": [
+            {
+              "title": "State Representative 34 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128944",
+              "date": "2026-09"
+            },
+            {
+              "title": "Jordyn Balderas — Florida House, District 34 (The Space Coast Rocket)",
+              "url": "https://thespacecoastrocket.com/jordyn-balderas-florida-house-district-34/",
+              "date": "2026-07-04"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Wants the state to raise eligibility and expand access, including accepting a children's coverage expansion it has declined.",
+          "quote": "We must raise eligibility and expand access!",
+          "sources": [
+            {
+              "title": "State Representative 34 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128944",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Calls Florida's insurance situation a crisis on all fronts and says it deserves more concern than property taxes.",
+          "quote": "I'd say we are in an insurance crisis on all fronts.",
+          "sources": [
+            {
+              "title": "State Representative 34 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128944",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says property taxes fund community programs, firefighters, ambulances and police, and that insurance is the bigger concern.",
+          "quote": "property taxes help our local community programs and our social programs, firefighters, ambulance and police",
+          "sources": [
+            {
+              "title": "State Representative 34 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128944",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says current ID and signature verification is sufficient and would fund grants for document access if proof of citizenship were required.",
+          "quote": "current ID and signature verification requirements is sufficient",
+          "sources": [
+            {
+              "title": "State Representative 34 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128944",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

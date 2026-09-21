@@ -464,6 +464,7 @@
       ${r.on_november_ballot === false ? `<p class="notice"><strong>${T('Not on the November ballot.', 'No está en la boleta de noviembre.')}</strong> ${esc(r.decided_note || T('This seat was decided before the general election.', 'Este cargo se decidió antes de la elección general.'))}</p>` : ''}
       ${coverageNote(r)}
       ${r.verified_ballot_note ? `<details class="notice" style="border-radius:0 var(--radius-sm) var(--radius-sm) 0"><summary>${T('How we verified who is on the ballot', 'Cómo verificamos quién está en la boleta')}</summary><p style="margin:8px 0 0">${esc(r.verified_ballot_note)}</p>${sourcesHtml(r.verified_ballot_sources)}</details>` : ''}
+      ${(r.events || []).length ? `<div class="card"><h3 style="margin:0 0 6px">${T('Debates and forums', 'Debates y foros')}</h3><ul style="margin:0">${r.events.map(e => `<li>${e.date ? `<strong>${esc(e.date)}</strong> · ` : ''}${esc(e.host || '')}${e.who ? ` · ${esc(e.who)}` : ''}${sourcesHtml(e.sources)}</li>`).join('')}</ul></div>` : ''}
       <div class="btn-row"><a class="btn btn-primary" href="#/match">${T('See how you match in this race →', 'Vea su coincidencia en esta contienda →')}</a></div>
       <section class="section"><div class="section-head"><h2>${T('Candidates', 'Candidatos')}</h2><small>${reportLink(r.title)}</small></div>${cands.some(c => c.withdrawn) ? `<p class="notice notice-warn">${T('Candidates marked "Withdrew", "Defeated in the primary" or "Did not qualify" are not running in November, according to the Florida Division of Elections candidate list. A name may still be printed on the ballot if the withdrawal came late; such votes are not counted. They are excluded from match results.', 'Los candidatos marcados como "Se retiró", "Derrotado en la primaria" o "No calificó" no compiten en noviembre, según la lista de candidatos de la División de Elecciones de Florida. Un nombre puede seguir impreso en la boleta si el retiro fue tardío; esos votos no se cuentan. Se excluyen de los resultados de coincidencia.')}</p>` : ''}<div class="stack">${cands.map(c => candidateCard(c)).join('')}</div></section>
       <section class="section">
@@ -498,8 +499,8 @@
       <a href="#/candidate/${esc(c.id)}" aria-label="${esc(c.name)} ${T('profile', 'perfil')}">${avatar(c, 'lg')}</a>
       <div>
         <h3><a href="#/candidate/${esc(c.id)}">${esc(c.name)}</a>${c.running_mate ? ` <small class="muted">${T('with', 'con')} ${esc(c.running_mate)}</small>` : ''}</h3>
-        <div class="cand-meta">${partyTag(c)}${c.incumbent ? `<span class="tag badge-incumbent">${T('Incumbent', 'Titular')}</span>` : ''}${c.withdrawn ? `<span class="tag" style="color:var(--danger)">${esc(withdrawnLabel(c))}</span>` : ''}${coverage(c)}${c.occupation ? `<span class="muted">${esc(c.occupation)}</span>` : ''}</div>
-        <p>${esc(truncate(c.background || '', 320))}</p>
+        <div class="cand-meta">${partyTag(c)}${c.incumbent ? `<span class="tag badge-incumbent">${T('Incumbent', 'Titular')}</span>` : ''}${c.withdrawn ? `<span class="tag" style="color:var(--danger)"${c.withdrawn_note ? ` title="${esc(c.withdrawn_note)}"` : ''}>${esc(withdrawnLabel(c))}</span>` : ''}${coverage(c)}${c.occupation ? `<span class="muted">${esc(c.occupation)}</span>` : ''}</div>
+        <p>${esc(truncate(c.background || '', 320))}</p>${c.withdrawn && c.withdrawn_note ? `<p class="muted"><small>${esc(c.withdrawn_note)}${sourcesHtml(c.withdrawn_sources)}</small></p>` : ''}
         <div class="btn-row" style="margin-top:8px"><a class="btn btn-sm" href="#/candidate/${esc(c.id)}">${T('Full profile', 'Perfil completo')}</a>${c.website ? `<a class="btn btn-sm" href="${esc(c.website)}" target="_blank" rel="noopener">${T('Campaign site ↗', 'Sitio de campaña ↗')}</a>` : ''}</div>
       </div>
     </div>`;
@@ -737,6 +738,7 @@
           <div><h3>${T('A "No" vote means', 'Un voto "No" significa')}</h3><p>${esc(a.what_no_means || '')}</p></div>
         </div>
         ${a.fiscal_impact ? `<h3>${T('Estimated fiscal impact', 'Impacto fiscal estimado')}</h3><p>${esc(a.fiscal_impact)}${sourcesHtml(a.fiscal_impact_sources)}</p>` : ''}
+        ${(a.developments || []).length ? `<h3>${T('Recent developments', 'Novedades recientes')}</h3><ul>${a.developments.slice().reverse().map(x => `<li><small class="muted">${esc(x.date || '')}</small> ${esc(x.item)}${sourcesHtml(x.sources)}</li>`).join('')}</ul>` : ''}
         ${(a.neutral_analyses || []).length ? `<h3>${T('Independent analyses', 'Análisis independientes')}</h3><ul>${a.neutral_analyses.map(n => `<li>${typeof n === 'string' ? esc(n) : `<strong>${esc(n.who || n.title || '')}</strong>${n.summary ? ': ' + esc(n.summary) : ''}${sourcesHtml(n.sources || (n.url ? [{url: n.url, title: n.title}] : []))}`}</li>`).join('')}</ul>` : ''}
         <div class="grid grid-2">
           <div><h3>${T('Who supports it, and why', 'Quién la apoya, y por qué')}</h3>${(a.supporters || []).length ? `<ul>${a.supporters.map(s => `<li><strong>${esc(s.who)}</strong>: ${esc(s.argument)}${sourcesHtml(s.sources)}</li>`).join('')}</ul>` : `<p class="empty">${T('No organized support found.', 'No se encontró apoyo organizado.')}</p>`}</div>

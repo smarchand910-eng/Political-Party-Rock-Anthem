@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 6 (Bay) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.votetriciaberry.com/",
-      "occupation": null,
+      "occupation": "Former nurse practitioner; Gulf Coast State College trustee",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Former nurse practitioner in burn, trauma orthopedic surgery and dermatology who has been active in the Panama City area for over 15 years. She was appointed by Gov. DeSantis to the Gulf Coast State College board of trustees and is involved with the Boys and Girls Club and Bay County Chamber. Ran unopposed in the Republican primary.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -39,7 +39,19 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Campaign themes",
+          "summary": "Her website promises common-sense conservative leadership, support for local businesses and making Florida more affordable; it takes no specific issue positions.",
+          "sources": [
+            {
+              "title": "Vote Tricia Berry (campaign website)",
+              "url": "https://www.votetriciaberry.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -56,10 +68,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://voteleonard.com/",
+      "occupation": "Nurse anesthetist",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Panama City and Lynn Haven native who works as a nurse anesthetist at a local hospital and previously co-managed her family's automobile dealership in downtown Panama City. She returned home in 2020 to care for her mother. Won the Aug. 18, 2026 Democratic primary.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,8 +81,76 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She supports improving health-care access for families, seniors and veterans and strengthening the health-care workforce; she does not specifically mention Medicaid expansion.",
+          "quote": "Access to healthcare should not depend on where you live.",
+          "sources": [
+            {
+              "title": "Vote Stephanie 'Lyn' Leonard - Priorities",
+              "url": "https://voteleonard.com/priorities",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She wants to protect springs, bays and beaches, stop pollution and plan smart growth.",
+          "quote": "Protect our springs, bays and beaches. Stop pollution. Plan smart growth.",
+          "sources": [
+            {
+              "title": "Vote Stephanie 'Lyn' Leonard (campaign website)",
+              "url": "https://voteleonard.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Vote Stephanie 'Lyn' Leonard - Priorities",
+              "url": "https://voteleonard.com/priorities",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She supports smart planning that protects infrastructure, water systems and the character of Bay County communities.",
+          "quote": "I support smart planning that protects infrastructure, water systems, and the character of Bay County communities.",
+          "sources": [
+            {
+              "title": "Vote Stephanie 'Lyn' Leonard - Priorities",
+              "url": "https://voteleonard.com/priorities",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Cost of living",
+          "summary": "She says she supports practical solutions to ease rising insurance, electricity, grocery and rent costs.",
+          "sources": [
+            {
+              "title": "Vote Stephanie 'Lyn' Leonard - Priorities",
+              "url": "https://voteleonard.com/priorities",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Public schools",
+          "summary": "Her website calls for fully funding public schools and supporting teachers.",
+          "sources": [
+            {
+              "title": "Vote Stephanie 'Lyn' Leonard (campaign website)",
+              "url": "https://voteleonard.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

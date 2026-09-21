@@ -17,7 +17,7 @@
   "what_it_does": "Represents District 22 (Gilchrist, Levy, Part of Alachua) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -28,9 +28,9 @@
       "photo_url": "assets/photos/chad_johnson.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://johnsonforflorida.com",
-      "occupation": null,
+      "occupation": "Auctioneer and agricultural sales; state representative (elected 2024)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "A sixth-generation Floridian with a University of Florida degree in food and resource economics, Johnson lives in Levy County, where he served on the county commission from 2009 to 2014 and led the county Farm Bureau. He is a past president of the Florida Auctioneers Association and was elected to the House in 2024.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -40,8 +40,142 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for HJR 203 (Feb. 19, 2026), which would phase out all non-school property taxes on homesteads, and for HJR 1F (June 2, 2026), which placed the Amendment 3 homestead-exemption increase on the November ballot. His website says inflation, property taxes and rising fees are hurting families.",
+          "quote": "I'll fight for tax relief and lower insurance rates.",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Issues — Chad Johnson for State Representative",
+              "url": "https://johnsonforflorida.com/issues.html",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Johnson told News4JAX he favors reduced taxes so people keep more of their earnings, and his site promises tax relief.",
+          "quote": "keep more of their hard earned dollars",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Florida House, District 22 (News4JAX)",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-22/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Issues — Chad Johnson for State Representative",
+              "url": "https://johnsonforflorida.com/issues.html",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for SB 2-C in the February 2025 special session, which created a State Board of Immigration Enforcement, required state and local cooperation with federal immigration enforcement and added state penalties for people in the country illegally. His website says Florida must keep leading on border security.",
+          "quote": "Florida must continue to lead on border security and pushing back on Washington overreach.",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 2-C, Immigration (2025 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81096&VoteId=23489",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "Issues — Chad Johnson for State Representative",
+              "url": "https://johnsonforflorida.com/issues.html",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His website says he will always fight for school choice and parental rights.",
+          "quote": "I will always fight for school choice and parental rights.",
+          "sources": [
+            {
+              "title": "Issues — Chad Johnson for State Representative",
+              "url": "https://johnsonforflorida.com/issues.html",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Johnson describes himself as pro-life on his campaign site; he did not detail a position on the six-week law.",
+          "quote": "I'm pro-life, pro-family, and pro-gun.",
+          "sources": [
+            {
+              "title": "Issues — Chad Johnson for State Representative",
+              "url": "https://johnsonforflorida.com/issues.html",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for HB 759 (2025) and HB 133 (2026), which would lower the minimum age to buy a rifle or shotgun from 21 to 18; both passed the House and died in the Senate. His site describes him as pro-gun.",
+          "quote": "I will always defend our constitutional rights!",
+          "sources": [
+            {
+              "title": "Floor Vote for HB 759, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81384&VoteId=23523",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Floor Vote for HB 133, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82655&VoteId=24341",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Issues — Chad Johnson for State Representative",
+              "url": "https://johnsonforflorida.com/issues.html",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Told News4JAX that affordable housing should be addressed by adding supply through zoning changes and smaller lots.",
+          "quote": "supply more inventory through creative zoning, smaller lots, more 'starter or first time homes'",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Florida House, District 22 (News4JAX)",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-22/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Farmland and water",
+          "summary": "Says he will fight sales of Florida farmland to foreign adversaries, defend the agricultural tax exemption and block exporting the district's water to South Florida.",
+          "sources": [
+            {
+              "title": "Issues — Chad Johnson for State Representative",
+              "url": "https://johnsonforflorida.com/issues.html",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -59,9 +193,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://amytraskforflorida.com",
-      "occupation": null,
+      "occupation": "Homeschooling parent; freelance editor and civil-dialogue consultant; former fellow, Harvard Safra Center for Ethics",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Trask, 33, is a seventh-generation Floridian, mother of two and domestic-violence survivor who lives in Gainesville. She has drafted several bipartisan bills on domestic violence and child welfare as a private citizen, including the HAVEN Act, and ran for the HD 22 Democratic nomination in 2024.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -71,8 +205,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Trask says health care should be accessible and affordable and lists improving access to physical and mental health care, especially in rural areas, as a passion; she has not spelled out a Medicaid position.",
+          "quote": "Healthcare should be accessible, affordable, and centered on dignity",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Florida House, District 22 (News4JAX)",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-22/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She calls for stronger home rule and says she is committed to upholding local control, which favors more local say over development.",
+          "quote": "stronger home rule",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Florida House, District 22 (News4JAX)",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-22/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Domestic violence and child welfare",
+          "summary": "Authored the HAVEN Act (a discreet way for victims to notify police), a Survivor Self-Defense Act, a Safe Shelter Act and a Fostering with Dignity Act; says the HAVEN Act passed the Senate unanimously.",
+          "sources": [
+            {
+              "title": "Amy Trask to run again for Florida House District 22 (Independent Florida Alligator)",
+              "url": "https://www.alligator.org/article/2025/09/amy-trask-to-run-again-for-district-22",
+              "date": "2025-09-28"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
