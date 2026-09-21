@@ -19,9 +19,10 @@ for rid, cands in spec.items():
     byid = {c['id']: c for c in r['candidates']}
     for cid, sp in cands.items():
         if cid not in byid: problems.append(f'{rid}: unknown candidate {cid}'); continue
-        out = {}
-        for k in ('website', 'occupation', 'background'):
-            if sp.get(k): out[k] = sp[k]
+        out = {}; cur = byid[cid]
+        if sp.get('website') and not cur.get('website'): out['website'] = sp['website']
+        if sp.get('occupation') and not cur.get('occupation'): out['occupation'] = sp['occupation']
+        if sp.get('background') and len(cur.get('background') or '') < 80 and len(str(sp['background'])) > 40: out['background'] = sp['background']
         pos = {}
         for iid, v in (sp.get('positions') or {}).items():
             if iid not in issues: problems.append(f'{rid}/{cid}: unknown issue {iid}'); continue

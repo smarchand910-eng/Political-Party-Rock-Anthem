@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 67 (Part of Hillsborough) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -25,8 +25,8 @@
       "incumbent": false,
       "photo_url": "assets/photos/lisette_bonano.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
-      "website": "https://votedrlisettebonano.com",
-      "occupation": null,
+      "website": "https://votebonano.com/",
+      "occupation": "Retired U.S. Army lieutenant colonel",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -38,8 +38,97 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "property_tax": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her priorities list includes property-tax affordability and relief for homeowners.",
+          "quote": "Property-tax affordability and relief for homeowners",
+          "sources": [
+            {
+              "title": "Lisette Bonano for Florida House District 67 (campaign website)",
+              "url": "https://votebonano.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her priorities list includes legal immigration and border security.",
+          "quote": "Legal immigration and border security",
+          "sources": [
+            {
+              "title": "Lisette Bonano for Florida House District 67 (campaign website)",
+              "url": "https://votebonano.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Her priorities list includes the right to bear arms.",
+          "quote": "The right to bear arms",
+          "sources": [
+            {
+              "title": "Lisette Bonano for Florida House District 67 (campaign website)",
+              "url": "https://votebonano.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her priorities list includes parental rights and school choice.",
+          "quote": "Parental rights and school choice",
+          "sources": [
+            {
+              "title": "Lisette Bonano for Florida House District 67 (campaign website)",
+              "url": "https://votebonano.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her priorities include recruitment, retention and support for police and first responders and fighting drugs and human trafficking.",
+          "quote": "Recruitment, retention and support for police and first responders",
+          "sources": [
+            {
+              "title": "Lisette Bonano for Florida House District 67 (campaign website)",
+              "url": "https://votebonano.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Insurance and resiliency",
+          "summary": "She lists insurance reform and flood protection and storm resiliency as priorities without detail.",
+          "sources": [
+            {
+              "title": "Lisette Bonano for Florida House District 67 (campaign website)",
+              "url": "https://votebonano.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Development",
+          "summary": "She lists responsible development of the Morris Bridge and U.S. 301 corridors.",
+          "sources": [
+            {
+              "title": "Lisette Bonano for Florida House District 67 (campaign website)",
+              "url": "https://votebonano.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -56,8 +145,8 @@
       "incumbent": false,
       "photo_url": "assets/photos/luis_viera.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
-      "website": null,
-      "occupation": null,
+      "website": "https://www.vieraforflorida.com/",
+      "occupation": "Attorney and Florida Bar-certified mediator; Tampa City Council member (District 7) resigning Nov. 2, 2026",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -69,8 +158,107 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "WMNF reports his stance on property taxes as 'mend it, don't end it,' favoring accommodations for seniors rather than elimination.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Tampa City Council member Luis Viera announces run for Florida State House (WMNF)",
+              "url": "https://www.wmnf.org/tampa-city-council-member-luis-viera-announces-run-for-florida-state-house/",
+              "date": "2025-04-03"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says he will expand access to affordable health care and strengthen the Medicaid waiver program for people with intellectual disabilities.",
+          "quote": "You could put that money in Medicaid waiver",
+          "sources": [
+            {
+              "title": "Luis Viera for Florida State House (campaign website)",
+              "url": "https://www.vieraforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Tampa City Council member Luis Viera announces run for Florida State House (WMNF)",
+              "url": "https://www.wmnf.org/tampa-city-council-member-luis-viera-announces-run-for-florida-state-house/",
+              "date": "2025-04-03"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "His website says he is a strong voice against scapegoating of the immigrant community.",
+          "quote": "strong voice against scapegoating of our diverse immigrant community",
+          "sources": [
+            {
+              "title": "Luis Viera for Florida State House (campaign website)",
+              "url": "https://www.vieraforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He cites pushing for $3.2 million in housing assistance for working-class families on the council and wants to fund disability-accessible housing.",
+          "quote": "pushed for $3.2 million in housing assistance for working class families",
+          "sources": [
+            {
+              "title": "Luis Viera for Florida State House (campaign website)",
+              "url": "https://www.vieraforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says he has advocated for veterans and first responders and lists veterans among his campaign priorities.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Luis Viera for Florida State House (campaign website)",
+              "url": "https://www.vieraforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Tampa councilman Luis Viera to resign, seek House District 67 seat (Bay News 9)",
+              "url": "https://baynews9.com/fl/tampa/news/2026/05/18/tampa-councilman-luis-viera-to-resign--seek-house-district-67-seat-",
+              "date": "2026-05-18"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Public safety",
+          "summary": "He cites securing three new fire stations and says he backs police, firefighters and veterans.",
+          "sources": [
+            {
+              "title": "Tampa councilman Luis Viera to resign, seek House District 67 seat (Bay News 9)",
+              "url": "https://baynews9.com/fl/tampa/news/2026/05/18/tampa-councilman-luis-viera-to-resign--seek-house-district-67-seat-",
+              "date": "2026-05-18"
+            }
+          ]
+        },
+        {
+          "title": "Public schools and workers",
+          "summary": "He pledges to fight for public schools, protect civil rights and give workers a voice on the job, including support for labor unions.",
+          "sources": [
+            {
+              "title": "Luis Viera for Florida State House (campaign website)",
+              "url": "https://www.vieraforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

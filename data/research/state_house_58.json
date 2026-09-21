@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 58 (Part of Pinellas) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,7 +26,7 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://kimberlyberfield.com/",
-      "occupation": null,
+      "occupation": "State representative for District 58; former health-care executive (Johns Hopkins All Children's Hospital, WellCare) and former deputy secretary, Florida Department of Health",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -38,9 +38,172 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
-      "record": [],
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HJR 1-F in the June 2026 special session, which placed Amendment 3 on the November ballot to raise the homestead exemption for non-school property taxes to $150,000 in 2027 and $250,000 in 2028 and to limit how counties and cities may spend property-tax revenue. Her campaign website names addressing skyrocketing property taxes as a top goal.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HJR 1F (Save our Homes from Excessive Property Taxes), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Kimberly Berfield for Florida House (campaign website)",
+              "url": "https://kimberlyberfield.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on SB 2-C (2025), which created the State Board of Immigration Enforcement, required state help with federal detainers, barred driver licenses for unauthorized immigrants, and funded an Unauthorized Alien Transport Program.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 2-C (Immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on SB 300 (2023), the law that limits most abortions after six weeks of pregnancy.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 300 (Heartbeat Protection Act, six-week abortion limit), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 543 (2023), which allows carrying a concealed firearm without a state license.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HB 543 (concealed carry without a license), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 1 (2023), which removed income limits and enrollment caps so state scholarship funds can follow any K-12 student to private or home education. Her website says families should be able to pursue education for their children in the best environment for each child.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/CS/CS/CS/HB 1 (universal school-choice scholarships), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            },
+            {
+              "title": "Kimberly Berfield - The Issues (campaign website)",
+              "url": "https://kimberlyberfield.com/the-issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her issues page says lower taxes and responsible government spending are critical, and she supports cutting the business rent tax.",
+          "quote": "Lower taxes and responsible government spending are critical to ensure our economy thrives.",
+          "sources": [
+            {
+              "title": "Kimberly Berfield - The Issues (campaign website)",
+              "url": "https://kimberlyberfield.com/the-issues/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Property insurance",
+          "summary": "She says the state must remain steadfast in lowering insurance premiums and supports tax breaks on homeowners insurance.",
+          "sources": [
+            {
+              "title": "Kimberly Berfield - The Issues (campaign website)",
+              "url": "https://kimberlyberfield.com/the-issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Housing",
+          "summary": "She says it is imperative to preserve attainable housing in the community.",
+          "sources": [
+            {
+              "title": "Kimberly Berfield - The Issues (campaign website)",
+              "url": "https://kimberlyberfield.com/the-issues/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted yes on CS/HJR 1F (homestead property-tax exemption increase / Amendment 3), House passage 75-26, June 2, 2026.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HJR 1F (Save our Homes from Excessive Property Taxes), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on SB 2-C (Immigration enforcement), House passage 85-30, Feb. 13, 2025.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 2-C (Immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on SB 300 (six-week abortion limit), House passage 70-40, April 13, 2023.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 300 (Heartbeat Protection Act, six-week abortion limit), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on CS/HB 543 (permitless concealed carry), House passage 76-32, March 24, 2023.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HB 543 (concealed carry without a license), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on CS/CS/CS/CS/HB 1 (universal school-choice scholarships), House passage 83-27, March 17, 2023.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/CS/CS/CS/HB 1 (universal school-choice scholarships), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -57,7 +220,7 @@
       "photo_url": "assets/photos/bryan_beckman.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.bryanbeckmanfl.com/",
-      "occupation": null,
+      "occupation": "Founder and president, Pinellas Green Foundation; former logistics manager at a global food company",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -69,8 +232,97 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says expanding Medicaid is the single most impactful step the state can take.",
+          "quote": "The single most impactful step we can take is to finally expand Medicaid.",
+          "sources": [
+            {
+              "title": "Bryan Beckman for Florida House - Issues",
+              "url": "https://www.bryanbeckmanfl.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says government should play no role in personal decisions about one's own body.",
+          "quote": "I firmly believe the government should play no role in an individual's personal decisions about their own body.",
+          "sources": [
+            {
+              "title": "Bryan Beckman for Florida House - Issues",
+              "url": "https://www.bryanbeckmanfl.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He wants the Legislature to invest in affordable housing through increased workforce housing funds.",
+          "quote": "The Legislature can lower Florida's cost of living by investing in truly affordable housing through increased workforce housing funds.",
+          "sources": [
+            {
+              "title": "Bryan Beckman for Florida House - Issues",
+              "url": "https://www.bryanbeckmanfl.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "He wants to rein in Schools of Hope and restructure the voucher system so taxpayer dollars support students rather than corporate profit.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Bryan Beckman for Florida House - Issues",
+              "url": "https://www.bryanbeckmanfl.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says Florida should protect beaches and state parks and invest in resiliency statewide.",
+          "quote": "Florida should protect our beaches and state parks, and invest in resiliency throughout the state.",
+          "sources": [
+            {
+              "title": "Bryan Beckman for Florida House - Issues",
+              "url": "https://www.bryanbeckmanfl.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Energy costs",
+          "summary": "He says electricity bills have risen 25 percent in a few years and plans to introduce an Energy Freedom Plan to lower costs.",
+          "sources": [
+            {
+              "title": "Bryan Beckman for Florida House - Issues",
+              "url": "https://www.bryanbeckmanfl.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Property insurance",
+          "summary": "He notes property insurance costs have more than doubled in five years; no specific policy stated.",
+          "sources": [
+            {
+              "title": "Bryan Beckman for Florida House - Issues",
+              "url": "https://www.bryanbeckmanfl.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

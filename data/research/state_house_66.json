@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 66 (Part of Hillsborough) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,7 +26,7 @@
       "photo_url": "assets/photos/traci_koster.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.tracikoster.com",
-      "occupation": null,
+      "occupation": "Attorney; state representative for District 66 since 2020",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -38,9 +38,143 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
-      "record": [],
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HJR 1-F in the June 2026 special session, which placed Amendment 3 on the November ballot to raise the homestead exemption for non-school property taxes to $150,000 in 2027 and $250,000 in 2028 and to limit how counties and cities may spend property-tax revenue.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HJR 1F (Save our Homes from Excessive Property Taxes), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on SB 2-C (2025), which created the State Board of Immigration Enforcement, required state help with federal detainers, barred driver licenses for unauthorized immigrants, and funded an Unauthorized Alien Transport Program.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 2-C (Immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 543 (2023), which allows carrying a concealed firearm without a state license.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HB 543 (concealed carry without a license), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 1 (2023), which removed income limits and enrollment caps so state scholarship funds can follow any K-12 student to private or home education. Her issues page also pledges to protect the Hope, Gardiner and Bright Futures scholarship programs.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/CS/CS/CS/HB 1 (universal school-choice scholarships), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            },
+            {
+              "title": "Traci Koster for State House - Issues",
+              "url": "https://www.tracikoster.com/issuestracikosterforstatehouse",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her issues page pledges to keep taxes low on small businesses and working families.",
+          "quote": "keep taxes low on our small businesses and working families",
+          "sources": [
+            {
+              "title": "Traci Koster for State House - Issues",
+              "url": "https://www.tracikoster.com/issuestracikosterforstatehouse",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Water quality",
+          "summary": "Her issues page cites sewage releases into waterways as an infrastructure problem needing mitigation.",
+          "sources": [
+            {
+              "title": "Traci Koster for State House - Issues",
+              "url": "https://www.tracikoster.com/issuestracikosterforstatehouse",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Voted yes on CS/HJR 1F (homestead property-tax exemption increase / Amendment 3), House passage 75-26, June 2, 2026.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HJR 1F (Save our Homes from Excessive Property Taxes), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on SB 2-C (Immigration enforcement), House passage 85-30, Feb. 13, 2025.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 2-C (Immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        {
+          "item": "Did not vote on SB 300 (six-week abortion limit), House passage 70-40, April 13, 2023.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 300 (Heartbeat Protection Act, six-week abortion limit), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on CS/HB 543 (permitless concealed carry), House passage 76-32, March 24, 2023.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HB 543 (concealed carry without a license), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on CS/CS/CS/CS/HB 1 (universal school-choice scholarships), House passage 83-27, March 17, 2023.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/CS/CS/CS/HB 1 (universal school-choice scholarships), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -56,8 +190,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://sanchezsanchezforflorida.com/",
+      "occupation": "U.S. Air Force Reserve veteran; utility/technical professional per his platform",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -69,8 +203,84 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "insurance": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "His platform mixes state intervention with market measures: expanded state-backed My Safe Florida Home hardening grants tied to mandatory premium reductions, plus a crackdown on litigation fraud he says inflates claims.",
+          "quote": "We must tackle the root cause of premium spikes by expanding state-backed mitigation grants and aggressively cracking down on third-party litigation fraud",
+          "sources": [
+            {
+              "title": "Jose 'Dante' Sanchez Sanchez HD 66 platform (campaign PDF)",
+              "url": "https://sanchezsanchezforflorida.com/wp-content/uploads/2026/06/Jose_Dante_Sanchez_Sanchez_HD66_Big6_Platform.pdf",
+              "date": "2026-06"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says growth without infrastructure is a recipe for failure and would require utilities to expand treatment capacity in proportion to newly approved developments.",
+          "quote": "Growth without infrastructure is a recipe for failure.",
+          "sources": [
+            {
+              "title": "Jose 'Dante' Sanchez Sanchez HD 66 platform (campaign PDF)",
+              "url": "https://sanchezsanchezforflorida.com/wp-content/uploads/2026/06/Jose_Dante_Sanchez_Sanchez_HD66_Big6_Platform.pdf",
+              "date": "2026-06"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He backs an all-of-the-above strategy that expands commercial solar, battery storage and smart-grid technology, with state tax exemptions for solar and protection from punitive utility fees.",
+          "quote": "Expanding commercial solar, battery storage, and smart-grid technologies ensures our grid won't buckle under soaring demand while lowering utility bills",
+          "sources": [
+            {
+              "title": "Jose 'Dante' Sanchez Sanchez HD 66 platform (campaign PDF)",
+              "url": "https://sanchezsanchezforflorida.com/wp-content/uploads/2026/06/Jose_Dante_Sanchez_Sanchez_HD66_Big6_Platform.pdf",
+              "date": "2026-06"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He proposes expanding property-tax exemptions for disabled veterans, licensing reciprocity for military spouses and state-funded community veteran mental-health networks.",
+          "quote": "We must expand state property tax exemptions for disabled veterans, build stronger mental health networks, and support military spouses",
+          "sources": [
+            {
+              "title": "Jose 'Dante' Sanchez Sanchez HD 66 platform (campaign PDF)",
+              "url": "https://sanchezsanchezforflorida.com/wp-content/uploads/2026/06/Jose_Dante_Sanchez_Sanchez_HD66_Big6_Platform.pdf",
+              "date": "2026-06"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Schools",
+          "summary": "He proposes forensic audits of school facility funds, retention bonuses for veteran teachers and expanded trade and dual-enrollment programs.",
+          "sources": [
+            {
+              "title": "Jose 'Dante' Sanchez Sanchez HD 66 platform (campaign PDF)",
+              "url": "https://sanchezsanchezforflorida.com/wp-content/uploads/2026/06/Jose_Dante_Sanchez_Sanchez_HD66_Big6_Platform.pdf",
+              "date": "2026-06"
+            }
+          ]
+        },
+        {
+          "title": "Traffic safety",
+          "summary": "He wants state matching funds for Hillsborough's Vision Zero work on Dale Mabry, Gunn Highway and Sheldon Road.",
+          "sources": [
+            {
+              "title": "Jose 'Dante' Sanchez Sanchez HD 66 platform (campaign PDF)",
+              "url": "https://sanchezsanchezforflorida.com/wp-content/uploads/2026/06/Jose_Dante_Sanchez_Sanchez_HD66_Big6_Platform.pdf",
+              "date": "2026-06"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

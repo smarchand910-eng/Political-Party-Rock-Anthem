@@ -26,7 +26,7 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.walterforflorida.com/",
-      "occupation": null,
+      "occupation": "Captain, Pasco County Fire Rescue",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -39,7 +39,24 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Campaign themes",
+          "summary": "On filing he said he is running to protect families, strengthen public safety and help small businesses thrive; his website has no issue detail.",
+          "sources": [
+            {
+              "title": "Fire Rescue Captain Walter Price files for Pasco's District 55 State House seat (Creative Loafing Tampa)",
+              "url": "https://www.cltampa.com/news/fire-rescue-captain-walter-price-files-for-pascos-district-55-state-house-seat/",
+              "date": "2025-11-20"
+            },
+            {
+              "title": "Walter Price for Florida House (campaign website)",
+              "url": "https://www.walterforflorida.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -57,7 +74,7 @@
       "photo_url": "assets/photos/zach_funkhouser.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
-      "occupation": null,
+      "occupation": "K-8 adapted physical education teacher, Pasco County",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -70,7 +87,19 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Affordability",
+          "summary": "He says he is positioned to address the affordability crisis because he works in the trenches and sees big corporations and multi-millionaires ruining things for the rest of us.",
+          "sources": [
+            {
+              "title": "Meet the candidates: Questionnaire for Florida District 55 (Tampa Bay 28)",
+              "url": "https://www.tampabay28.com/news/election-2026/meet-the-candidates-questionnaire-for-florida-district-55",
+              "date": "2026-07"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

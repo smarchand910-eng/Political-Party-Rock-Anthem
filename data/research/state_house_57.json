@@ -15,18 +15,18 @@
   "what_it_does": "Represents District 57 (Part of Pinellas) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
       "id": "adam_anderson",
       "name": "Adam Anderson",
       "party": "Republican",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
       "website": "https://voteadamanderson.com",
-      "occupation": null,
+      "occupation": "Businessman; state representative for District 57",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -38,9 +38,130 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
-      "record": [],
+      "positions": {
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on SB 2-C (2025), which created the State Board of Immigration Enforcement, required state help with federal detainers, barred driver licenses for unauthorized immigrants, and funded an Unauthorized Alien Transport Program.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 2-C (Immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on SB 300 (2023), the law that limits most abortions after six weeks of pregnancy.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 300 (Heartbeat Protection Act, six-week abortion limit), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 543 (2023), which allows carrying a concealed firearm without a state license.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HB 543 (concealed carry without a license), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 1 (2023), which removed income limits and enrollment caps so state scholarship funds can follow any K-12 student to private or home education. His website also says Florida should lead the nation in flexible schooling options and career pathways.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/CS/CS/CS/HB 1 (universal school-choice scholarships), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            },
+            {
+              "title": "Adam Anderson for Florida House (campaign website)",
+              "url": "https://voteadamanderson.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Housing permitting",
+          "summary": "He says he acted to reduce delays in housing construction by streamlining inconsistent permitting and inspection processes.",
+          "sources": [
+            {
+              "title": "Adam Anderson for Florida House (campaign website)",
+              "url": "https://voteadamanderson.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Did not vote on CS/HJR 1F (homestead property-tax exemption increase / Amendment 3), House passage 75-26, June 2, 2026.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HJR 1F (Save our Homes from Excessive Property Taxes), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on SB 2-C (Immigration enforcement), House passage 85-30, Feb. 13, 2025.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 2-C (Immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on SB 300 (six-week abortion limit), House passage 70-40, April 13, 2023.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 300 (Heartbeat Protection Act, six-week abortion limit), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on CS/HB 543 (permitless concealed carry), House passage 76-32, March 24, 2023.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HB 543 (concealed carry without a license), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on CS/CS/CS/CS/HB 1 (universal school-choice scholarships), House passage 83-27, March 17, 2023.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/CS/CS/CS/HB 1 (universal school-choice scholarships), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -57,7 +178,7 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.wendyhoyforchange.com",
-      "occupation": null,
+      "occupation": "Former teacher, Head Start director and home health/hospice educator",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -69,8 +190,177 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In a Tampa Bay 28 questionnaire she cited property-tax exemptions that create revenue loss for community services such as libraries as a reason she is running.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Meet the candidates: Questionnaire for Florida State District 57 (Tampa Bay 28)",
+              "url": "https://www.tampabay28.com/news/election-2026/meet-the-candidates-questionnaire-for-florida-state-district-57",
+              "date": "2026-07-29"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her issues page calls for property insurance rate caps and restoring homeowners' ability to challenge unfair insurer practices.",
+          "quote": "Require property insurance rate caps",
+          "sources": [
+            {
+              "title": "Wendy Hoy for Change - Issues",
+              "url": "https://wendyhoyforchange.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She proposes state incentives for small landlords who verifiably lower or stabilize rent.",
+          "quote": "Create state incentives for small landlords for verifiably lowering or stabilizing rent.",
+          "sources": [
+            {
+              "title": "Wendy Hoy for Change - Issues",
+              "url": "https://wendyhoyforchange.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She supports accepting Medicaid expansion dollars.",
+          "quote": "Accept Medicaid expansion dollars which will lead to hundreds of thousands of working Floridians receiving affordable health coverage.",
+          "sources": [
+            {
+              "title": "Wendy Hoy for Change - Issues",
+              "url": "https://wendyhoyforchange.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She says she would return reproductive freedom and keep medical decisions between individuals and their doctors.",
+          "quote": "Return reproductive freedom, safeguard LGBTQ+ families, and ensure personal medical decisions remain between individuals and their doctors.",
+          "sources": [
+            {
+              "title": "Wendy Hoy for Change - Issues",
+              "url": "https://wendyhoyforchange.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She says she would safeguard LGBTQ+ families and oppose government overreach into private lives; she does not name specific laws.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Wendy Hoy for Change - Issues",
+              "url": "https://wendyhoyforchange.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She supports gun-safety legislation, including restoring local governments' authority to enact gun-safety ordinances.",
+          "quote": "Common-sense gun safety legislation, including restoring local authority to enact gun safety ordinances.",
+          "sources": [
+            {
+              "title": "Wendy Hoy for Change - Issues",
+              "url": "https://wendyhoyforchange.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She wants to expand vote-by-mail access and accept student IDs as voter ID.",
+          "quote": "Expand vote-by-mail access.",
+          "sources": [
+            {
+              "title": "Wendy Hoy for Change - Issues",
+              "url": "https://wendyhoyforchange.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She wants stronger coastal resilience and flood mitigation and would keep wetland mitigation within the same watershed.",
+          "quote": "Strengthen coastal resilience and flood mitigation protections.",
+          "sources": [
+            {
+              "title": "Wendy Hoy for Change - Issues",
+              "url": "https://wendyhoyforchange.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She wants local authority restored so residents, not state politicians, decide how communities grow, and supports a moratorium on new data centers.",
+          "quote": "Restore local authority so residents — not distant politicians — decide how our communities grow.",
+          "sources": [
+            {
+              "title": "Wendy Hoy for Change - Issues",
+              "url": "https://wendyhoyforchange.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She calls for investing in strong public schools and ending book bans; she does not directly address vouchers.",
+          "quote": "Invest in strong public schools that serve every child.",
+          "sources": [
+            {
+              "title": "Wendy Hoy for Change - Issues",
+              "url": "https://wendyhoyforchange.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She supports expanding veterans' health care access with more clinicians, longer clinic hours and satellite mental-health sites.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Wendy Hoy for Change - Issues",
+              "url": "https://wendyhoyforchange.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Data centers",
+          "summary": "She supports a moratorium on new data centers, including pausing incentives and fast-track approvals.",
+          "sources": [
+            {
+              "title": "Wendy Hoy for Change - Issues",
+              "url": "https://wendyhoyforchange.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

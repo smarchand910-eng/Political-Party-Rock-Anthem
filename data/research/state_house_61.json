@@ -16,7 +16,7 @@
   "what_it_does": "Represents District 61 (Parts of Hillsborough, Pinellas) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -27,7 +27,7 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://lindachaney.com",
-      "occupation": null,
+      "occupation": "State representative for District 61",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -39,9 +39,113 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HJR 1-F in the June 2026 special session, which placed Amendment 3 on the November ballot to raise the homestead exemption for non-school property taxes to $150,000 in 2027 and $250,000 in 2028 and to limit how counties and cities may spend property-tax revenue.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HJR 1F (Save our Homes from Excessive Property Taxes), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on SB 2-C (2025), which created the State Board of Immigration Enforcement, required state help with federal detainers, barred driver licenses for unauthorized immigrants, and funded an Unauthorized Alien Transport Program.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 2-C (Immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on SB 300 (2023), the law that limits most abortions after six weeks of pregnancy.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 300 (Heartbeat Protection Act, six-week abortion limit), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 1 (2023), which removed income limits and enrollment caps so state scholarship funds can follow any K-12 student to private or home education.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/CS/CS/CS/HB 1 (universal school-choice scholarships), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted yes on CS/HJR 1F (homestead property-tax exemption increase / Amendment 3), House passage 75-26, June 2, 2026.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HJR 1F (Save our Homes from Excessive Property Taxes), passage 75-26",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on SB 2-C (Immigration enforcement), House passage 85-30, Feb. 13, 2025.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 2-C (Immigration), passage 85-30",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
+              "date": "2025-02-13"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on SB 300 (six-week abortion limit), House passage 70-40, April 13, 2023.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, SB 300 (Heartbeat Protection Act, six-week abortion limit), passage 70-40",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/300/Vote/HouseVote_s00300e1107.PDF",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        {
+          "item": "Did not vote on CS/HB 543 (permitless concealed carry), House passage 76-32, March 24, 2023.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/HB 543 (concealed carry without a license), passage 76-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/543/Vote/HouseVote_h00543e1046.PDF",
+              "date": "2023-03-24"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on CS/CS/CS/CS/HB 1 (universal school-choice scholarships), House passage 83-27, March 17, 2023.",
+          "sources": [
+            {
+              "title": "Florida House roll-call vote, CS/CS/CS/CS/HB 1 (universal school-choice scholarships), passage 83-27",
+              "url": "https://www.flsenate.gov/Session/Bill/2023/1/Vote/HouseVote_h00001c4034.PDF",
+              "date": "2023-03-17"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -58,7 +162,7 @@
       "photo_url": "assets/photos/may_thach.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.maythach.com/",
-      "occupation": null,
+      "occupation": "Civic-engagement organizer; former Peace Corps volunteer",
       "residence": null,
       "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
       "primary_result": null,
@@ -70,7 +174,99 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her platform calls for holding property insurance companies accountable.",
+          "quote": "holding property insurance companies accountable",
+          "sources": [
+            {
+              "title": "May Thach for Florida House (campaign website)",
+              "url": "https://www.maythach.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She calls for stronger tenant protections as part of lowering costs.",
+          "quote": "stronger tenant protections",
+          "sources": [
+            {
+              "title": "May Thach for Florida House (campaign website)",
+              "url": "https://www.maythach.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She supports expanding Medicaid and keeping politicians out of private health-care decisions.",
+          "quote": "expanding Medicaid, keeping politicians out of private healthcare decisions",
+          "sources": [
+            {
+              "title": "May Thach for Florida House (campaign website)",
+              "url": "https://www.maythach.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She says politicians should be kept out of private health-care decisions; she does not name the six-week law.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "May Thach for Florida House (campaign website)",
+              "url": "https://www.maythach.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She calls for increasing accountability in school voucher programs.",
+          "quote": "increasing accountability in school voucher programs",
+          "sources": [
+            {
+              "title": "May Thach for Florida House (campaign website)",
+              "url": "https://www.maythach.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She supports expanding voter access and government transparency.",
+          "quote": "expanding voter access, increasing government transparency",
+          "sources": [
+            {
+              "title": "May Thach for Florida House (campaign website)",
+              "url": "https://www.maythach.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She wants practical solutions to help communities prepare for severe weather and reduce flooding.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "May Thach for Florida House (campaign website)",
+              "url": "https://www.maythach.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],
