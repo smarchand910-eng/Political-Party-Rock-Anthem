@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/tammy_dennis.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://tammyforstudents.com",
-      "occupation": null,
+      "occupation": "Home manager; member of Brevard Public Schools' Independent Citizen Oversight Committee and Audit Committee",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Tammy Dennis, 65, holds a bachelor's degree in music education from Bob Jones University. She has served about four years on the Brevard school district's Independent Citizen Oversight Committee, which reviews the voter-approved surtax, and on the district's Audit Committee. This is her first run for office.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,83 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "school_books": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Dennis says no material with sexually explicit content should be accessible in school libraries and frames curriculum and library decisions around parents' right to be informed and to decide what their children see.",
+          "quote": "No books or literature with sexually explicit material should be accessible in school libraries.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 5",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-school-board-district-5/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "2026 Candidate Questionnaire: Tammy Dennis, Brevard School Board",
+              "url": "https://thespacecoastrocket.com/candidate-questionnaire-tammy-dennis-school-board-district-2/",
+              "date": "2026-07-21"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Dennis supports arming trained adults on campus and building modifications, and says she would back a new discipline plan that enforces consequences for bad behavior.",
+          "quote": "The best defense for our kids is several adults prepared with a weapon.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 5",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-school-board-district-5/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "2026 Candidate Questionnaire: Tammy Dennis, Brevard School Board",
+              "url": "https://thespacecoastrocket.com/candidate-questionnaire-tammy-dennis-school-board-district-2/",
+              "date": "2026-07-21"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Dennis says she would be the fiscally responsible voice on the board, streamline processes and tighten spending, particularly on administration, drawing on her budget-oversight committee work.",
+          "quote": "With my budget oversight experience, I will help make the hard choices, streamline processes, and tighten up spending, particularly for administration.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 5",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-school-board-district-5/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Dennis says she opposes boys using girls' bathrooms and stresses parents' right to be fully informed and involved in decisions about their children, though she has not commented directly on the state laws on gender-affirming care or classroom instruction.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Candidate Questionnaire: Tammy Dennis, Brevard School Board",
+              "url": "https://thespacecoastrocket.com/candidate-questionnaire-tammy-dennis-school-board-district-2/",
+              "date": "2026-07-21"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Teacher compensation",
+          "summary": "Dennis has spoken generally in favor of fair and merit-based pay for teachers without naming an amount or a funding source.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 5",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-school-board-district-5/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -57,9 +132,9 @@
       "photo_url": "assets/photos/michele_mccormack.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.electmichelemccormack.com/",
-      "occupation": null,
+      "occupation": "Teacher; Brevard County public school educator",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Michele McCormack, 50, is a Brevard County educator with more than 20 years of classroom experience. She is running for the District 5 seat saying she wants classroom experience represented on the board, and campaigns on supporting teachers and paraprofessionals and strengthening services for students with disabilities.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,10 +144,109 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "school_books": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "McCormack says book challenges and library removals should go through a clear, consistent and transparent review process rather than being decided case by case on objection alone.",
+          "quote": "Book challenges and library removals should be handled through a clear, consistent, and transparent review process.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 5",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-school-board-district-5/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "McCormack says strong schools begin with teachers and paraprofessionals who feel supported and that Brevard should be a place educators want to stay, through competitive compensation and fewer administrative burdens.",
+          "quote": "Strong schools begin with strong teachers and paraprofessionals who feel supported, respected, and empowered.",
+          "sources": [
+            {
+              "title": "Home | Elect Michele McCormack for Brevard Public School Board District 5",
+              "url": "https://www.electmichelemccormack.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 5",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-school-board-district-5/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "On safety McCormack emphasizes bus reliability and making the district's existing security infrastructure work, rather than expanding the number of armed staff on campus.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 5",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-school-board-district-5/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Politics in the classroom",
+          "summary": "McCormack says her focus is student growth and learning rather than political agendas: 'our schools should be about education, not agendas.'",
+          "sources": [
+            {
+              "title": "Home | Elect Michele McCormack for Brevard Public School Board District 5",
+              "url": "https://www.electmichelemccormack.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Students with disabilities",
+          "summary": "McCormack lists strengthening services for students with disabilities among her three campaign priorities.",
+          "sources": [
+            {
+              "title": "Home | Elect Michele McCormack for Brevard Public School Board District 5",
+              "url": "https://www.electmichelemccormack.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Brevard Federation of Teachers",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 5",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-school-board-district-5/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "by": "Brevard County Sheriff Wayne Ivey",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 5",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-school-board-district-5/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "by": "Brevard Clerk of Courts Rachel Sadoff",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 5",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-school-board-district-5/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

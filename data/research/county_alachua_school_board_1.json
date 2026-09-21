@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Middle school math teacher, Howard W. Bishop Middle School",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Hunter Miller, 27, teaches math at Howard W. Bishop Middle School, a Title I school in Gainesville, and holds a bachelor's degree in middle grades math education from Indian River State College. He is a first-generation American and has not held elected office before. He led the August 2026 primary with about 46% of the vote and advanced to the November runoff.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,56 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "school_safety": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In the district's candidate questionnaire Miller listed school safety among his top three issues and described his approach as effective staff training and adequate staffing of guidance counselors, rather than added police presence or tougher discipline.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Alachua County School Board, District 1",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/30/2026-voters-guide-alachua-county-school-board-district-1/",
+              "date": "2026-07-30"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Teacher support and classroom autonomy",
+          "summary": "Miller says teachers feel unsupported by the district and wants more reasonable teacher-discipline procedures and greater instructional flexibility for educators.",
+          "sources": [
+            {
+              "title": "Everything you need to know heading into the school board election",
+              "url": "https://www.alligator.org/article/2026/06/school-board-election",
+              "date": "2026-06-16"
+            }
+          ]
+        },
+        {
+          "title": "Literacy and early intervention",
+          "summary": "Miller says the district should 'embrace the science of reading,' focus on K-2 literacy and identify students needing remediation earlier.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Alachua County School Board, District 1",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/30/2026-voters-guide-alachua-county-school-board-district-1/",
+              "date": "2026-07-30"
+            }
+          ]
+        },
+        {
+          "title": "Permanent superintendent",
+          "summary": "Miller says the district needs a permanent superintendent who can close achievement gaps, manage the budget and support teachers: 'I'm not looking for any more temporary superintendents.'",
+          "sources": [
+            {
+              "title": "Everything you need to know heading into the school board election",
+              "url": "https://www.alligator.org/article/2026/06/school-board-election",
+              "date": "2026-06-16"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     },
@@ -50,10 +98,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://janineplavacforalachuacountyschoolboard.com/",
+      "occupation": "Teacher and registered nurse; director of the Health Sciences Institute, Saint Francis Catholic Academy",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Janine Plavac, 73, is a registered nurse who taught in Alachua County public schools for 17 years, including as director of the Academy of Health Professions at Gainesville High School until 2021. She now teaches at Saint Francis Catholic Academy. Gov. Ron DeSantis appointed her to the School Board of Alachua County's District 5 seat in April 2025; she is running for the open District 1 seat in 2026.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -63,9 +111,62 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
-      "record": [],
+      "positions": {
+        "taxes": {
+          "stance": -1,
+          "confidence": "record",
+          "summary": "As a sitting board member Plavac joined a unanimous School Board of Alachua County vote on Sept. 15, 2026 adopting a $623 million FY2027 budget and a property tax rate of 6.3270 mills, about 5.38% above the rolled-back rate. On her campaign site she describes her fiscal approach as stewardship rather than tax cutting.",
+          "quote": "ACPS needs to continue to be unrelenting stewards of the taxpayer's money",
+          "sources": [
+            {
+              "title": "School Board passes budget, sets board goals, discusses air conditioning in middle school gyms",
+              "url": "https://alachuachronicle.com/school-board-passes-budget-sets-board-goals-discusses-air-conditioning-in-middle-school-gyms/",
+              "date": "2026-09-15"
+            },
+            {
+              "title": "Janine Plavac for Alachua County School Board",
+              "url": "https://janineplavacforalachuacountyschoolboard.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Teaching methods and classroom autonomy",
+          "summary": "Plavac favors traditional instruction, including paper-based assessments and enforcement of the state's school phone restrictions, and says teachers should choose their own programs: 'Let them decide what programs work for them and their teaching environment.'",
+          "sources": [
+            {
+              "title": "Everything you need to know heading into the school board election",
+              "url": "https://www.alligator.org/article/2026/06/school-board-election",
+              "date": "2026-06-16"
+            }
+          ]
+        },
+        {
+          "title": "Permanent superintendent and literacy",
+          "summary": "Plavac names hiring a permanent superintendent and raising literacy rates as her main priorities, and lists accountability, unity and progress as her top three issues.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Alachua County School Board, District 1",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/30/2026-voters-guide-alachua-county-school-board-district-1/",
+              "date": "2026-07-30"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "At the Sept. 15, 2026 board meeting Plavac pulled a personnel item from the consent agenda and asked whether the district conducts exit interviews, noting 68 instructional resignations in the backup document.",
+          "sources": [
+            {
+              "title": "School Board passes budget, sets board goals, discusses air conditioning in middle school gyms",
+              "url": "https://alachuachronicle.com/school-board-passes-budget-sets-board-goals-discusses-air-conditioning-in-middle-school-gyms/",
+              "date": "2026-09-15"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

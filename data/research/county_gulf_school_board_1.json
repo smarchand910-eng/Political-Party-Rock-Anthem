@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Outside plant engineer, Consolidated Communications (Fidium); Gulf County School Board member, District 1",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Chad Bailey works as an outside plant engineer for Consolidated Communications and was appointed to the Gulf County School Board's District 1 seat by Gov. Ron DeSantis in October 2025, filling the vacancy left by Denny McGlon. He is a children's minister and has been involved with local baseball programs and the high school bass fishing club. He led the August 2026 primary with about 46% and faces a November runoff.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,7 +38,34 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Bailey names teacher pay as a priority, saying neighboring counties can offer more and that the district is already working to improve salaries.",
+          "quote": "Some of our counties can offer better pay. As a sitting school board member, our district is currently working to improve our teachers' salaries.",
+          "sources": [
+            {
+              "title": "Three candidates are seeking the Gulf County School Board District 1 seat",
+              "url": "https://news.wfsu.org/wfsu-local-news/2026-07-31/three-candidates-are-seeking-the-gulf-county-school-board-district-1-seat",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Asked about school choice, Bailey did not take a position for or against public money following students, saying instead that the district's job is to make its own schools the place families want to be.",
+          "quote": "Our responsibility as a school district is to make our public schools a place where families want to be.",
+          "sources": [
+            {
+              "title": "Three candidates are seeking the Gulf County School Board District 1 seat",
+              "url": "https://news.wfsu.org/wfsu-local-news/2026-07-31/three-candidates-are-seeking-the-gulf-county-school-board-district-1-seat",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []
@@ -51,9 +78,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Owner, Peak's Ink screen printing; partner, Lighthouse Monument and Vault LLC",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Dennis Peak is a Gulf County native and 1983 graduate of Port St. Joe High School. He owns a screen-printing business, is a partner in a monument company, also works at a local flooring store, and served about 20 years as the school district's booster club president.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -63,8 +90,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "school_books": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Peak says much of what is being removed from schools is unnecessary and that the material is history, indicating he would not pull books over objections.",
+          "quote": "I believe a lot of the things they are banishing out of the schools is not necessary. I think that's history.",
+          "sources": [
+            {
+              "title": "Three candidates are seeking the Gulf County School Board District 1 seat",
+              "url": "https://news.wfsu.org/wfsu-local-news/2026-07-31/three-candidates-are-seeking-the-gulf-county-school-board-district-1-seat",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Peak said school choice is an area he is not certain about and that he would want to research why families are choosing homeschooling before taking a position.",
+          "quote": "This is an area I'm not really sure of",
+          "sources": [
+            {
+              "title": "Three candidates are seeking the Gulf County School Board District 1 seat",
+              "url": "https://news.wfsu.org/wfsu-local-news/2026-07-31/three-candidates-are-seeking-the-gulf-county-school-board-district-1-seat",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Local hiring and classroom behavior",
+          "summary": "Peak's stated first-year goal is bringing on more local teachers and administrators, arguing local staff are important influences on young people. He also raises classroom disruption as a concern and points to parental involvement as the remedy.",
+          "sources": [
+            {
+              "title": "Three candidates are seeking the Gulf County School Board District 1 seat",
+              "url": "https://news.wfsu.org/wfsu-local-news/2026-07-31/three-candidates-are-seeking-the-gulf-county-school-board-district-1-seat",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

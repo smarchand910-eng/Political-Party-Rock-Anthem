@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/donovan_bradley.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.donovanbradley.com/",
-      "occupation": null,
+      "occupation": "Policy analyst; former legislative aide, Florida Legislature",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Donovan Bradley, 26, is a Jacksonville native and Duval County Public Schools graduate whose mother has taught in the district for more than 30 years. He holds a political science degree from the University of North Florida and has worked as a legislative aide in the Florida Legislature and as a policy analyst for local nonprofits. He led the August 2026 primary with about 49% of the vote.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,52 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "school_safety": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Bradley says he would continue investing in the district's school police force, strengthen campus security and update emergency response plans, and pairs support for teachers with support for school resource officers.",
+          "quote": "ensure that our facilities are secure",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Duval County School Board, District 2",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/30/2026-voters-guide-duval-county-school-board-district-2/",
+              "date": "2026-07-30"
+            },
+            {
+              "title": "Meet the three candidates vying for Duval County School Board District 2 seat",
+              "url": "https://floridatrib.org/2026/07/29/duval-county-school-board-election-district-2/",
+              "date": "2026-07-29"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Bradley lists teacher retention among his top three issues and says the district should stay competitive on compensation while reducing administrative burdens and streamlining lesson planning.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Duval County School Board, District 2",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/30/2026-voters-guide-duval-county-school-board-district-2/",
+              "date": "2026-07-30"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Career pathways",
+          "summary": "Bradley wants to strengthen core reading, math and science instruction and expand career and technical education: 'One of the things that I'd like to see an increase on is better, stronger classroom-to-career pipelines.'",
+          "sources": [
+            {
+              "title": "Meet the 3 candidates vying for Duval County School Board District 2 seat",
+              "url": "https://jaxtoday.org/2026/08/03/candidates-duval-school-board-district-2/",
+              "date": "2026-08-03"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -57,9 +101,9 @@
       "photo_url": "assets/photos/donna_westrich.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://donnawestrich.com",
-      "occupation": null,
+      "occupation": "Marine science teacher, Duncan U. Fletcher High School",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Donna Mae Westrich, 53, teaches marine science at Fletcher High School and has more than 20 years of classroom experience, including middle and high school science in Utah and New Mexico. She holds a degree in environmental science from the University of Wisconsin-Madison and an education degree from Fort Lewis College, and has two children in District 2 public schools. She finished second in the August 2026 primary with about 39%.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,8 +113,45 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Westrich calls for greater fiscal accountability and transparency in Florida's state scholarship (voucher) programs, pointing to roughly $270 million in scholarship funds she says could not be properly tracked, and ties district budget shortfalls to declining enrollment.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Duval County School Board, District 2",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/30/2026-voters-guide-duval-county-school-board-district-2/",
+              "date": "2026-07-30"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Budget, enrollment and teacher loss",
+          "summary": "Westrich describes budget shortfalls, declining enrollment and the loss of teachers as one interconnected problem and campaigns on fiscal accountability and transparency.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Duval County School Board, District 2",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/30/2026-voters-guide-duval-county-school-board-district-2/",
+              "date": "2026-07-30"
+            }
+          ]
+        },
+        {
+          "title": "Community access",
+          "summary": "Westrich has pledged monthly public community meetings if elected: 'I want my community to feel like they have a voice at the table.'",
+          "sources": [
+            {
+              "title": "Meet the 3 candidates vying for Duval County School Board District 2 seat",
+              "url": "https://jaxtoday.org/2026/08/03/candidates-duval-school-board-district-2/",
+              "date": "2026-08-03"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

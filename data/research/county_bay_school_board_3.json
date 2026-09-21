@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -25,10 +25,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://votejohnhaley.com/",
+      "occupation": "Retired educator and school administrator; senior pastor, New Covenant Church",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "John L. Haley Jr. spent more than 30 years in Bay District Schools as a teacher, dean of students, assistant principal, principal of J.R. Arnold High School and the district's first executive director of operations. He also founded New Covenant Church, where he is senior pastor, and Doc Homes LLC. He finished second in the August 2026 primary and advanced to the November runoff against incumbent Chris Moore.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,81 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "school_books": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Haley says students should keep choosing their own reading material and that a parent who objects should have their own child read something else rather than have the book removed for everyone.",
+          "quote": "Schools should continue to allow students to read books of their choosing.",
+          "sources": [
+            {
+              "title": "Educators vie for a seat to represent the Bay County School Board's District 3",
+              "url": "https://floridatrib.org/2026/08/07/bay-county-school-board-election-district-3/",
+              "date": "2026-08-07"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Haley proposes raising compensation for teachers and support staff through $50,000 down-payment assistance, $10,000 in closing-cost help, a 3% supplement for ESE teachers and subsidized housing partnerships with the city, while also saying the district's recent overspending is unsustainable.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Educators vie for a seat to represent the Bay County School Board's District 3",
+              "url": "https://floridatrib.org/2026/08/07/bay-county-school-board-election-district-3/",
+              "date": "2026-08-07"
+            },
+            {
+              "title": "Dr. John Haley for Bay County School Board, District 3",
+              "url": "https://votejohnhaley.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Haley says nothing matters more than student and staff safety and backs strong security measures and support for school resource officers, citing his record as a principal of keeping narcotics off campus; he also names bullying and school climate as part of the safety question.",
+          "quote": "While I worked as an assistant principal and principal, I kept narcotics off campuses by arresting more than 240 offenders in a nine-year period.",
+          "sources": [
+            {
+              "title": "Educators vie for a seat to represent the Bay County School Board's District 3",
+              "url": "https://floridatrib.org/2026/08/07/bay-county-school-board-election-district-3/",
+              "date": "2026-08-07"
+            },
+            {
+              "title": "Dr. John Haley for Bay County School Board, District 3",
+              "url": "https://votejohnhaley.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "District overspending",
+          "summary": "Haley says Bay District Schools overspent its budget by $5 million one year and $7 million the next and calls that pattern unsustainable; he says an energy-efficiency program he ran saved the district more than $2 million.",
+          "sources": [
+            {
+              "title": "Educators vie for a seat to represent the Bay County School Board's District 3",
+              "url": "https://floridatrib.org/2026/08/07/bay-county-school-board-election-district-3/",
+              "date": "2026-08-07"
+            }
+          ]
+        },
+        {
+          "title": "Enrollment and competition",
+          "summary": "Haley says the district is losing students to charter, private and virtual schools and wants to raise student performance, market career and technical programs and improve parent communication so families choose Bay District Schools first.",
+          "sources": [
+            {
+              "title": "Educators vie for a seat to represent the Bay County School Board's District 3",
+              "url": "https://floridatrib.org/2026/08/07/bay-county-school-board-election-district-3/",
+              "date": "2026-08-07"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     },
@@ -51,9 +124,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "U.S. Navy veteran; Bay District Schools board member, District 3",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Chris Moore is a lifelong Bay County resident and graduate of Bay District Schools who served more than 24 years in the U.S. Navy. He was first elected to the District 3 school board seat in 2022 and is seeking a second term. He led the August 2026 primary with about 29% of the vote and faces John Haley in the November runoff.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -64,7 +137,19 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Board transparency",
+          "summary": "Moore has said he opposes cutting off speakers' microphones at board meetings, describing Sunshine-law meetings as the reason for public transparency. He did not return the Florida Trib candidate survey before publication.",
+          "sources": [
+            {
+              "title": "Educators vie for a seat to represent the Bay County School Board's District 3",
+              "url": "https://floridatrib.org/2026/08/07/bay-county-school-board-election-district-3/",
+              "date": "2026-08-07"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.rho4education.com/",
-      "occupation": null,
+      "occupation": "Area director, Boys & Girls Clubs of Northeast Florida; retired Duval County educator and administrator",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Rhodesia Butler, 55, spent more than 21 years in Duval County Public Schools as a teacher, specialist, Early College coordinator, dean, assistant principal, principal and area director. She graduated from Stanton College Preparatory School and holds a master's in educational leadership from Jacksonville University, and has run a performing arts school and nonprofit for more than three decades.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,58 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "school_safety": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Butler names school safety and student behavior as her top issue but says she would address it through stronger behavior-intervention systems and more mentoring and student-support programs rather than added policing.",
+          "quote": "I will advocate for stronger behavior-intervention systems, increased access to mentoring and student-support programs",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Duval County School Board, District 4",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/30/2026-voters-guide-duval-county-school-board-district-4/",
+              "date": "2026-07-30"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Butler lists teacher and staff retention among her top three issues and says she would advocate for competitive salaries and meaningful professional development.",
+          "quote": "I will advocate for competitive salaries, meaningful professional development",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Duval County School Board, District 4",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/30/2026-voters-guide-duval-county-school-board-district-4/",
+              "date": "2026-07-30"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Staffing and enrollment",
+          "summary": "Butler frames staffing as a fiscal-stewardship question tied to enrollment: 'you have to place teachers and principals where they need to be, but if you only have a certain amount of students, it just makes sense.'",
+          "sources": [
+            {
+              "title": "Who's running for Duval County School Board District 4? Meet the candidates",
+              "url": "https://www.news4jax.com/news/local/2026/07/24/whos-running-for-duval-county-school-board-district-4-meet-the-candidates/",
+              "date": "2026-07-24"
+            }
+          ]
+        },
+        {
+          "title": "College and career readiness",
+          "summary": "Butler says every student should graduate with a clear pathway to college, technical education, military service, entrepreneurship or the workforce.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Duval County School Board, District 4",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/30/2026-voters-guide-duval-county-school-board-district-4/",
+              "date": "2026-07-30"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -57,9 +107,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.votecoachjamesjacobs.com/",
-      "occupation": null,
+      "occupation": "Dean of students and athletic director, Duval Charter School at Westside",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "James 'Coach' Jacobs, 44, is dean of students, athletic director and a coach at a Jacksonville charter school, with earlier work as a paraprofessional, truancy officer, ESE assistant and physical education teacher. He holds a bachelor's in public safety management from Florida State College at Jacksonville and a master's in educational leadership from Nova Southeastern University, where he is pursuing a doctorate. He has previously run for Jacksonville City Council and for the school board.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,8 +119,50 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "teacher_pay": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Jacobs lists teacher pay as his first priority, saying he would advocate for competitive salaries and for increasing pay for teachers, faculty, staff and coaches.",
+          "quote": "We cannot expect outstanding student outcomes without supporting the educators who make them possible.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Duval County School Board, District 4",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/30/2026-voters-guide-duval-county-school-board-district-4/",
+              "date": "2026-07-30"
+            },
+            {
+              "title": "Who's running for Duval County School Board District 4? Meet the candidates",
+              "url": "https://www.news4jax.com/news/local/2026/07/24/whos-running-for-duval-county-school-board-district-4-meet-the-candidates/",
+              "date": "2026-07-24"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Teacher retention and school culture",
+          "summary": "Jacobs says retention depends on creating a culture where teachers feel respected, supported and heard, with access to meaningful professional development.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Duval County School Board, District 4",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/30/2026-voters-guide-duval-county-school-board-district-4/",
+              "date": "2026-07-30"
+            }
+          ]
+        },
+        {
+          "title": "Accessibility",
+          "summary": "Jacobs' campaign site commits him to being 'present, accessible, and accountable to the families of District 4.'",
+          "sources": [
+            {
+              "title": "Four Democrats face off in Duval School Board District 4 race. Who are they?",
+              "url": "https://jaxtoday.org/2026/08/04/duval-school-board-district-4-election/",
+              "date": "2026-08-04"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -88,9 +180,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Retired Duval County educator; former teacher and assistant principal",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Gracie Bell Kearse-McCastler is a Jacksonville native who spent 33 years in Duval County Public Schools as a teacher and assistant principal. She and her three children attended District 4 public schools. She is running as a write-in candidate, so her name does not appear printed on the ballot.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -100,8 +192,60 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "teacher_pay": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Kearse-McCastler says teachers are overworked and underpaid and backs renewal of the district's one-mill property tax, which funds salaries, saying she would support it fully.",
+          "quote": "Teachers are overworked and underpaid.",
+          "sources": [
+            {
+              "title": "Who's running for Duval County School Board District 4? Meet the candidates",
+              "url": "https://www.news4jax.com/news/local/2026/07/24/whos-running-for-duval-county-school-board-district-4-meet-the-candidates/",
+              "date": "2026-07-24"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked about renewal of the district's one-mill local property tax for schools, Kearse-McCastler said she would support it fully rather than let the levy lapse.",
+          "quote": "I would support that bill 100%",
+          "sources": [
+            {
+              "title": "Who's running for Duval County School Board District 4? Meet the candidates",
+              "url": "https://www.news4jax.com/news/local/2026/07/24/whos-running-for-duval-county-school-board-district-4-meet-the-candidates/",
+              "date": "2026-07-24"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Kearse-McCastler raises the school-to-prison pipeline and high disciplinary referral rates among minority students as concerns, framing discipline as something to reduce rather than tighten.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Who's running for Duval County School Board District 4? Meet the candidates",
+              "url": "https://www.news4jax.com/news/local/2026/07/24/whos-running-for-duval-county-school-board-district-4-meet-the-candidates/",
+              "date": "2026-07-24"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Distribution of experienced teachers",
+          "summary": "Kearse-McCastler advocates a more equitable distribution of experienced educators across District 4 schools and says schools should keep showcasing their accomplishments to attract families.",
+          "sources": [
+            {
+              "title": "Four Democrats face off in Duval School Board District 4 race. Who are they?",
+              "url": "https://jaxtoday.org/2026/08/04/duval-school-board-district-4-election/",
+              "date": "2026-08-04"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

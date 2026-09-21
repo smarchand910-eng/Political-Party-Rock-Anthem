@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Director of operations and student affairs, Heartland Christian Academy; retired military",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Gary Brown is a retired military member who serves as director of operations and student affairs at Heartland Christian Academy in Sebring. He led the District 5 field in fundraising with about $9,700 and advanced to the November runoff for the seat vacated when Nicole Radonski resigned after moving outside the district.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "taxes": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Brown names district finances, particularly rising insurance costs, as the biggest challenge but says he would not start with cuts, calling instead for the board to lay the budget out and analyze where money is going.",
+          "quote": "You've got to spread it out on the table, dig into it and figure out where the money's going.",
+          "sources": [
+            {
+              "title": "Three candidates seek Highlands County School Board District 5 seat",
+              "url": "https://floridatrib.org/2026/08/07/highlands-county-school-board-election-district-5/",
+              "date": "2026-08-07"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Brown treats state scholarship programs as settled policy, saying vouchers are here to stay and that public schools must respond with strong academic programs; he did not call for expanding or restricting them.",
+          "quote": "Vouchers are here to stay. I think the future of education is changing.",
+          "sources": [
+            {
+              "title": "Three candidates seek Highlands County School Board District 5 seat",
+              "url": "https://floridatrib.org/2026/08/07/highlands-county-school-board-election-district-5/",
+              "date": "2026-08-07"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Trust and communication",
+          "summary": "Brown says rebuilding trust among parents, staff and the board is central to his campaign: 'People need to have someone they can trust.'",
+          "sources": [
+            {
+              "title": "Three candidates seek Highlands County School Board District 5 seat",
+              "url": "https://floridatrib.org/2026/08/07/highlands-county-school-board-election-district-5/",
+              "date": "2026-08-07"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     },
@@ -51,9 +90,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Citrus grower; former Highlands County School Board member",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Andy Tuck is a Highlands County citrus grower who was elected to the District 5 seat on the School Board of Highlands County in 2006. Gov. Rick Scott appointed him to the Florida State Board of Education in 2014 and reappointed him in 2018. He reported about $4,000 in campaign contributions, all from family members, and advanced to the November 2026 runoff.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -64,7 +103,19 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "No 2026 positions located",
+          "summary": "Tuck did not respond to the Florida Trib's interview requests and offered no views on district finances or current policy; no campaign website, questionnaire or forum coverage stating his 2026 positions was found.",
+          "sources": [
+            {
+              "title": "Three candidates seek Highlands County School Board District 5 seat",
+              "url": "https://floridatrib.org/2026/08/07/highlands-county-school-board-election-district-5/",
+              "date": "2026-08-07"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

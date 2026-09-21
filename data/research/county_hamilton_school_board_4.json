@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "School bus driver, Hamilton County School District; founder of the All Our Kidz youth organization",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Kizzy Burch drives a school bus for the Hamilton County School District and founded All Our Kidz, a local youth organization that runs free summer camps, literacy programs and meal initiatives. She has about 24 years of local civic involvement. Retiring incumbent Johnny Bullard endorsed her after withdrawing from the race.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,10 +38,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "school_safety": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Burch identifies bullying and student isolation as drivers of enrollment loss and describes her approach as noticing and listening to students rather than tightening discipline or adding police.",
+          "quote": "Every day, I see firsthand how our students are feeling. I know when something changes, when something is bothering them, and when they need someone to listen.",
+          "sources": [
+            {
+              "title": "Meet the candidates running for Hamilton County School Board District 4",
+              "url": "https://floridatrib.org/2026/08/15/hamilton-county-school-board-election-district-4/",
+              "date": "2026-08-15"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Budget approach",
+          "summary": "Burch says decades of running a small nonprofit taught her grassroots fiscal efficiency and calls for aggressive grant writing to protect classroom budgets, plus staying visible and accessible to families.",
+          "sources": [
+            {
+              "title": "Meet the candidates running for Hamilton County School Board District 4",
+              "url": "https://floridatrib.org/2026/08/15/hamilton-county-school-board-election-district-4/",
+              "date": "2026-08-15"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "Outgoing District 4 board member Johnny Bullard",
+          "sources": [
+            {
+              "title": "Meet the candidates running for Hamilton County School Board District 4",
+              "url": "https://floridatrib.org/2026/08/15/hamilton-county-school-board-election-district-4/",
+              "date": "2026-08-15"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "larry_ogburn_sr",
@@ -51,9 +88,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Head Sunday school teacher and temporary pastor at his church",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Larry D. Ogburn Sr. is a returning candidate for the Hamilton County School Board's District 4 seat, having also run in 2022. He serves as head Sunday school teacher and temporary pastor at his church. He reported about $200 in total campaign contributions and reused signs from his earlier campaign, saying the low spending was deliberate.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -63,7 +100,34 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "school_safety": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Ogburn calls for a zero-tolerance approach to student vaping and cell phone disruptions and would bring K-9 units onto campus to deter illicit substances, alongside better communication with parents.",
+          "quote": "We're a small county way out of nowhere, and these things can happen here just like anywhere else",
+          "sources": [
+            {
+              "title": "Meet the candidates running for Hamilton County School Board District 4",
+              "url": "https://floridatrib.org/2026/08/15/hamilton-county-school-board-election-district-4/",
+              "date": "2026-08-15"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Ogburn campaigns on fiscal conservatism and says his role would be to make sure district money is spent properly; he has not proposed a specific change to the school tax rate.",
+          "quote": "I want to make sure that the school spends the funds needed to educate the children, and I want to manage the funds and make sure they're spent right.",
+          "sources": [
+            {
+              "title": "Meet the candidates running for Hamilton County School Board District 4",
+              "url": "https://floridatrib.org/2026/08/15/hamilton-county-school-board-election-district-4/",
+              "date": "2026-08-15"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []

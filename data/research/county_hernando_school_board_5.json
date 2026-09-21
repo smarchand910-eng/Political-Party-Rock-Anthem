@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Works in her family's business, American Gun & Pawn",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Kara Champion, 28, is a 2020 University of Central Florida graduate whose primary income comes from her family's business, American Gun & Pawn. She is the daughter of Hernando County Commissioner Steve Champion, has a stepdaughter in Hernando County schools and a young son. She finished the August 2026 primary three votes ahead of incumbent Susan Duval.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "school_safety": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Champion campaigns on stronger classroom discipline along with a return to reading, writing, mathematics and civics.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Champion vs. Duval: School Board Race Offers Hernando Voters a Sharp Political Contrast",
+              "url": "https://www.rnews.news/story/2026/08/17/news/champion-vs-duval-school-board-race-offers-hernando-voters-a-sharp-political-contrast/1342.html",
+              "date": "2026-08-17"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Champion says she supports parental choice but has also called for stronger oversight of the state's voucher programs, and wants the district to ask charter and private schools why families are enrolling there.",
+          "quote": "Why enrollment rates in public schools are down, while enrollment at charters and privates are going up",
+          "sources": [
+            {
+              "title": "Three seats on the Hernando County School Board are up for election this year",
+              "url": "https://www.wusf.org/education/2026-07-27/three-seats-on-hernando-county-school-board-up-for-election-this-year",
+              "date": "2026-07-27"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Parental involvement and transparency",
+          "summary": "Champion campaigns on parents having a stronger voice in their children's education and on district transparency. She posted on her campaign Facebook page: 'We all want high-quality education for our children. We don't want indoctrination or politics.'",
+          "sources": [
+            {
+              "title": "Three seats on the Hernando County School Board are up for election this year",
+              "url": "https://www.wusf.org/education/2026-07-27/three-seats-on-hernando-county-school-board-up-for-election-this-year",
+              "date": "2026-07-27"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     },
@@ -51,9 +90,9 @@
       "photo_url": "assets/photos/susan_duval.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
-      "occupation": null,
+      "occupation": "Retired school principal; Hernando County School Board member, District 5",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Susan Duval, 79, began teaching in Hernando County schools in 1969 and served 11 years as principal of Springstead High School before retiring. She was first elected to the District 5 school board seat in 2014 and is seeking a fourth term. She trailed challenger Kara Champion by three votes in the August 2026 primary.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -64,9 +103,32 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Competing with charter and private schools",
+          "summary": "Duval says the district needs to do a better job of marketing itself because public schools are 'not the only option in town anymore,' and describes her role as representing every student: 'As a board member, we're looking out for all students, not some of them. All of them.'",
+          "sources": [
+            {
+              "title": "Three seats on the Hernando County School Board are up for election this year",
+              "url": "https://www.wusf.org/education/2026-07-27/three-seats-on-hernando-county-school-board-up-for-election-this-year",
+              "date": "2026-07-27"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Florida Education Association",
+          "sources": [
+            {
+              "title": "Champion vs. Duval: School Board Race Offers Hernando Voters a Sharp Political Contrast",
+              "url": "https://www.rnews.news/story/2026/08/17/news/champion-vs-duval-school-board-race-offers-hernando-voters-a-sharp-political-contrast/1342.html",
+              "date": "2026-08-17"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
