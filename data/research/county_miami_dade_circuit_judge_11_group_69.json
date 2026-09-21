@@ -25,10 +25,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://ritaforjudge.com/",
+      "occupation": "Personal injury lawyer in private practice, Miami-Dade County",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Baez is a personal injury lawyer in private practice in Miami-Dade County. A 2026 Miami-Dade judicial voter guide reports she has about 30 years in practice, including nine years as an assistant state attorney, and has tried roughly 80 civil jury trials. She led the August 18, 2026 primary for 11th Circuit Group 69 with 37.1% and advanced to the November 3 runoff against Bonita Jones-Peabody.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -40,8 +40,40 @@
       ],
       "positions": {},
       "other_issues": [],
-      "record": [],
-      "endorsements": []
+      "record": [
+        {
+          "item": "About 30 years in practice, including nine years as an assistant state attorney; roughly 80 civil jury trials. The voter guide called her 'a credible candidate' while preferring another contender on experience.",
+          "sources": [
+            {
+              "title": "2026 Miami-Dade Voter Guide to the Judicial Elections",
+              "url": "https://www.discourse.net/2026/07/2026-miami-dade-voter-guide-to-the-judicial-elections/",
+              "date": "2026-07-23"
+            }
+          ]
+        },
+        {
+          "item": "Advanced from the August 18, 2026 primary with 82,715 votes (37.1%); no prior judicial service.",
+          "sources": [
+            {
+              "title": "Baez, Rita Maria - 2026 candidate filing - Your Florida Judges",
+              "url": "https://www.yourfloridajudges.com/candidates/fl-sos-89397",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Christian Family Coalition Florida (rated 'Highly Qualified' in its 2026 Miami-Dade primary voter guide)",
+          "sources": [
+            {
+              "title": "Baez, Rita Maria - 2026 candidate filing - Your Florida Judges",
+              "url": "https://www.yourfloridajudges.com/candidates/fl-sos-89397",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "bonita_jones_peabody",
@@ -51,9 +83,9 @@
       "photo_url": "assets/photos/bonita_jones_peabody.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
-      "occupation": null,
+      "occupation": "Attorney in private practice; former assistant public defender, Miami-Dade Public Defender's Office",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Jones-Peabody has more than 35 years in practice, spending many years at the Miami-Dade Public Defender's Office, where she was a senior supervising attorney handling serious felony cases and mentoring newer lawyers, before moving into a varied private practice covering criminal, civil, family, juvenile, probate, immigration and personal injury matters. A 2026 Miami-Dade judicial voter guide credits her with more than 200 criminal jury trials. She founded the nonprofit Education Means More Access and serves on bar association and civic boards including the League of Women Voters and the Gwen S. Cherry Black Women Lawyers Association.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -65,8 +97,50 @@
       ],
       "positions": {},
       "other_issues": [],
-      "record": [],
-      "endorsements": [],
+      "record": [
+        {
+          "item": "More than 35 years in practice and more than 200 criminal jury trials; described by a 2026 Miami-Dade judicial voter guide as an experienced criminal defense lawyer with many years at the Public Defender's Office.",
+          "sources": [
+            {
+              "title": "2026 Miami-Dade Voter Guide to the Judicial Elections",
+              "url": "https://www.discourse.net/2026/07/2026-miami-dade-voter-guide-to-the-judicial-elections/",
+              "date": "2026-07-23"
+            }
+          ]
+        },
+        {
+          "item": "Former senior supervising attorney who trained and mentored attorneys while handling serious felony cases; founder of Education Means More Access (E.M.M.A.).",
+          "sources": [
+            {
+              "title": "Judicial Candidate Bonita Jones-Peabody Discusses The Lasting Impact of Service and Her 35 Years of Practice",
+              "url": "https://hylonewsmiami.com/2026/08/13/judicial-candidate-bonita-jones-peabody-discusses-the-lasting-impact-of-service-and-her-35-years-of-practice/",
+              "date": "2026-08-13"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "South Florida AFL-CIO",
+          "sources": [
+            {
+              "title": "Judicial Candidate Bonita Jones-Peabody Discusses The Lasting Impact of Service and Her 35 Years of Practice",
+              "url": "https://hylonewsmiami.com/2026/08/13/judicial-candidate-bonita-jones-peabody-discusses-the-lasting-impact-of-service-and-her-35-years-of-practice/",
+              "date": "2026-08-13"
+            }
+          ]
+        },
+        {
+          "by": "South Florida Council of Fire Fighters",
+          "sources": [
+            {
+              "title": "Judicial Candidate Bonita Jones-Peabody Discusses The Lasting Impact of Service and Her 35 Years of Practice",
+              "url": "https://hylonewsmiami.com/2026/08/13/judicial-candidate-bonita-jones-peabody-discusses-the-lasting-impact-of-service-and-her-35-years-of-practice/",
+              "date": "2026-08-13"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

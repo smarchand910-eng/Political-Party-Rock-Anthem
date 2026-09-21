@@ -9,7 +9,7 @@
     "id": "Orange"
   },
   "what_it_does": "County commissioners set the county budget and property-tax (millage) rate, adopt land-use and zoning rules, and oversee county services such as roads, parks, libraries, fire/EMS and utilities. District 8 is a newly created seat in 2026.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Runoff per Florida Politics (https://floridapolitics.com/archives/814394-crowded-orange-county-commission-races-get-whittled-down-to-runoffs/).",
   "candidates": [
     {
@@ -20,9 +20,9 @@
       "photo_url": "assets/photos/victor_torres.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.electvictorres.com/",
-      "occupation": null,
+      "occupation": "Retired New York City police detective and retired LYNX bus operator; former Florida state senator and state representative",
       "residence": null,
-      "background": "Former state senator. Led the primary for the newly created District 8.",
+      "background": "Torres is a Marine Corps veteran, retired New York City detective and retired school bus and LYNX bus operator and union member. He was elected to the Florida House in 2012 and the state Senate in 2016, and was term-limited in 2024. He led the August 18, 2026 primary for the newly created Orange County Commission District 8 with more than 33% and faces Jeannette Quinones Hernandez in a November 3 runoff.",
       "primary_result": "First in Aug 18 primary with more than 33%",
       "positions": {
         "taxes": {
@@ -33,11 +33,17 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "He opposes the proposed constitutional amendment to sharply cut property taxes, saying he cannot support one that dramatically reduces local revenue without a responsible plan to replace it, and instead points to responsible budgeting and identifying efficiencies.",
+          "quote": "I cannot support a constitutional amendment that dramatically reduces local property tax revenue without a responsible plan to replace it.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County Commission District 8",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-commission-district-8/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -47,11 +53,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says increasing the supply of workforce and affordable housing is a priority and that neighborhoods should be protected from displacement.",
+          "quote": "increasing the supply of workforce and affordable housing",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County Commission District 8",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-commission-district-8/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -96,18 +108,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His stated environmental priority is protecting water resources while managing growth responsibly, including investment in stormwater infrastructure and preserving environmentally sensitive lands.",
+          "quote": "protecting our water resources while managing growth responsibly",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County Commission District 8",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-commission-district-8/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says he supports smart growth that protects water resources and would require new growth to pay its fair share for infrastructure, paired with smarter land-use decisions and transit investment.",
+          "quote": "smart growth that protects our water resources",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County Commission District 8",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-commission-district-8/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -197,24 +221,36 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.jeannette2026.com/",
-      "occupation": null,
+      "occupation": "Former small business owner; outreach specialist in U.S. Sen. Marco Rubio's office",
       "residence": null,
-      "background": "Advanced to the runoff as runner-up in the District 8 primary.",
+      "background": "Quinones Hernandez is a mother and former small business owner who worked as an outreach specialist and coordinator in then-U.S. Sen. Marco Rubio's office. She finished second in the August 18, 2026 primary for the newly created Orange County Commission District 8 with about 20% and advanced to the November 3 runoff against Victor Torres. Her campaign emphasizes road congestion, flooding and lower taxes.",
       "primary_result": "Second in Aug 18 primary with nearly 20%",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She says property taxes are too high and that revenue lost to a tax cut should be replaced primarily through service efficiencies, cutting waste and prioritizing core government functions.",
+          "quote": "primarily through service efficiencies, cutting waste, and prioritizing core government functions",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County Commission District 8",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-commission-district-8/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She supports the proposed constitutional amendment to sharply cut property taxes, saying they are too high and burden homeowners, seniors on fixed incomes and working families, and that lost revenue should be replaced mainly through service efficiencies and cutting waste.",
+          "quote": "YES. Property taxes are too high and burden homeowners, seniors on fixed incomes, and working families.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County Commission District 8",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-commission-district-8/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -224,11 +260,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "She says she would address housing costs by lowering impact fees and reducing regulations that drive up construction costs in order to promote more workforce housing, rather than through new government programs.",
+          "quote": "lower impact fees, reduce unnecessary regulations that drive up housing costs",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County Commission District 8",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-commission-district-8/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -273,18 +315,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "She says she favors responsible protection of wetlands and natural flood buffers while allowing smart growth, and opposes what she calls extreme policies.",
+          "quote": "responsible protection of our wetlands and natural flood buffers while allowing smart growth",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County Commission District 8",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-commission-district-8/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "She pledges to reduce impact fees and cut regulations she considers unnecessary, while saying she would promote smart, responsible development and protect neighborhood character.",
+          "quote": "reduce impact fees",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County Commission District 8",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-commission-district-8/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,

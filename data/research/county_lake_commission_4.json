@@ -9,7 +9,7 @@
     "id": "Lake"
   },
   "what_it_does": "County commissioners set the county budget and property-tax (millage) rate, adopt land-use and zoning rules, and oversee county services such as roads, parks, libraries, fire/EMS and utilities.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Republican primary result and November lineup from Lake & Sumter Style (https://lakeandsumterstyle.com/2026-lake-county-primary-election-results/) and Clermont Sun (https://www.midfloridanewspapers.com/clermont_sun/lake-county-primary-elections-results/article_cf165710-10ea-4bd0-b1a4-672c40940b2b.html); official candidate list at https://www.lakevotes.gov/190/Current-County-Candidates-Committees not directly readable.",
   "candidates": [
     {
@@ -19,25 +19,42 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.lesliecampione.com/",
+      "occupation": "Lake County commissioner, District 4 (board chairman); attorney",
       "residence": null,
       "background": "Sitting District 4 county commissioner and board chairman. Won the Aug. 18, 2026 Republican primary over David Williamson.",
       "primary_result": "Won Aug 18 Republican primary with 61.81% (24,863 votes) over David Williamson 38.19% (15,363) (Lake & Sumter Style)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her campaign site lists voting against property tax increases among her accomplishments, and in the News 6 questionnaire she said state transportation dollars should be re-prioritized rather than raising taxes to fund road projects.",
+          "quote": "Voted Against Property Tax Increases",
+          "sources": [
+            {
+              "title": "Leslie Campione For Lake County Commissioner (District 4)",
+              "url": "https://www.lesliecampione.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "2026 Voter's Guide - Lake County Commission District 4 Republican primary",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-lake-county-commission-district-4-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Asked about the proposed constitutional amendment to sharply cut property taxes, she said she was still evaluating her vote and was considering various ways local government could address the lost revenue.",
+          "quote": "still evaluating",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Lake County Commission District 4 Republican primary",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-lake-county-commission-district-4-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -96,18 +113,35 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She lists water-quality work including protecting Wolf Branch Sink from contamination, a noise ordinance for springs, a phosphorus-reduction pilot project and countywide flow-way mapping, and says she opposes deep-well injection of landfill leachate. She opposes data centers in Florida.",
+          "quote": "Florida's ecology is too fragile and our grid system is too vulnerable to support Data Centers.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Lake County Commission District 4 Republican primary",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-lake-county-commission-district-4-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her top stated priority is preventing municipal annexation and development of rural lands, and she wants cities to sign voluntary agreements honoring the county's Future Land Use Map and rural protection areas. Her campaign site says she has fought those who want to pave over the county through annexation of rural lands.",
+          "quote": "Preserving Lake County's unique character by preventing the municipal annexation and development of rural lands",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Lake County Commission District 4 Republican primary",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-lake-county-commission-district-4-republican-primary/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Leslie Campione For Lake County Commissioner (District 4)",
+              "url": "https://www.lesliecampione.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -194,8 +228,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.egoremery.org/",
+      "occupation": "Arborist, tree farmer and business owner",
       "residence": null,
       "background": "Qualified Democratic candidate for Lake County Commission District 4; advanced to the general election without a primary.",
       "primary_result": null,
@@ -271,18 +305,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says his purpose is protecting the springs, the lakes, the working lands, woods and quality of life, and frames the race as a choice between preserving natural resources and development interests.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Egor K. Emery - for Lake County Commission, District 4",
+              "url": "https://www.egoremery.org/",
+              "date": "2026-09"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His campaign is built around ending what he calls mindless growth and keeping big business from ruining quality of life, with an emphasis on saving farms and working lands from development.",
+          "quote": "End Mindless Growth! Save our farms! Save our lakes! STOP big business from ruining our quality of life!",
+          "sources": [
+            {
+              "title": "Egor K. Emery - for Lake County Commission, District 4",
+              "url": "https://www.egoremery.org/",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,

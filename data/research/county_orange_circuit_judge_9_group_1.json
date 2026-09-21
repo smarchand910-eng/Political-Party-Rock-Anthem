@@ -27,9 +27,9 @@
       "photo_url": "assets/photos/temika_hampton_johnson.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://hamptonjohnson4judge.vote",
-      "occupation": null,
+      "occupation": "Attorney in private practice; former assistant public defender and former probation and parole officer",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Hampton-Johnson is an Orlando-area attorney in private practice who previously worked as a public defender and, before that, as a probation and parole officer. She holds a J.D. from the Florida A&M University College of Law and an MBA and a BBA in accounting from Stetson University. She co-chairs the City of Orlando Civil Service Board, serves on the board of The LGBT+ Center Orlando, and has volunteered with Legal Aid since 2013 and with the Florida Rights Restoration effort. She led the August 18, 2026 primary for 9th Circuit Group 1 with 46.3%, ahead of incumbent Judge Mikaela Nix, and advanced to a November 3 runoff against Charles Hart.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -41,7 +41,43 @@
       ],
       "positions": {},
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "J.D., Florida A&M University College of Law; MBA and BBA in accounting, Stetson University. Career as a probation and parole officer, then assistant public defender, then private practice; hundreds of pro bono hours as a Legal Aid volunteer since 2013.",
+          "sources": [
+            {
+              "title": "Orange County 9th Circuit Judge Group 1 - 2026, VOTE411 Voter Guide",
+              "url": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72657401",
+              "date": "2026-08"
+            }
+          ]
+        },
+        {
+          "item": "Co-chair of the City of Orlando Civil Service Board and board member of The LGBT+ Center Orlando. No judicial experience.",
+          "sources": [
+            {
+              "title": "Orange County 9th Circuit Judge Group 1 - 2026, VOTE411 Voter Guide",
+              "url": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72657401",
+              "date": "2026-08"
+            },
+            {
+              "title": "2026 Voter's Guide - 9th Circuit Judge, Group 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-9th-circuit-judge-group-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "item": "Received 76,618 votes (46.30%) in the August 18, 2026 primary, forcing a November runoff.",
+          "sources": [
+            {
+              "title": "Temika Hampton-Johnson heads to runoff for Ninth Circuit Judge",
+              "url": "https://watermarkoutnews.com/2026/08/19/temika-hampton-johnson-heads-to-runoff-for-ninth-circuit-judge/",
+              "date": "2026-08-19"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -58,9 +94,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.votecharleshart.com/",
-      "occupation": null,
+      "occupation": "Attorney, Charles C. Hart Law Office, Sanford (criminal and guardianship law); Florida Supreme Court certified family law and county court mediator",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Hart practices criminal and guardianship law from an office in Sanford and opened a mediation practice after being certified by the Florida Supreme Court as a family law and county court mediator. He previously served as an assistant state attorney and as a public defender in the 18th Judicial Circuit, and taught accounting at the University of South Florida and Santa Fe Community College. He holds a B.S. in accounting and an M.A. in accounting from the University of South Florida, a B.A. in political science from the University of Florida and a J.D. from the University of Florida's Levin College of Law (2007). He chaired the Orange County Republican Executive Committee from 2018 to 2022 and ran unsuccessfully for the Florida House in 2022. He finished second in the August 18, 2026 primary with 25.7% and declined to complete the News 6 candidate questionnaire.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -72,7 +108,28 @@
       ],
       "positions": {},
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Applied five times to the Ninth Circuit Judicial Nominating Commission and once to the Seventh Circuit, never advancing past the commission; has no prior judicial experience.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - 9th Circuit Judge, Group 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-9th-circuit-judge-group-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "item": "Chaired the Orange County Republican Executive Committee from 2018 to 2022 and was a 2022 Republican primary candidate for Florida House District 39; a member of the Federalist Society and a lifetime NRA member. He was a party to a lawsuit over Orange County's COVID-19 mask mandate.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - 9th Circuit Judge, Group 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-9th-circuit-judge-group-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {

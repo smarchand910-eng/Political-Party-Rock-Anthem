@@ -25,10 +25,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.chabanforjudge.com/",
+      "occupation": "Attorney in private practice (family law, criminal defense, traffic and estate planning); guardian ad litem",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Chaban is a Seminole County attorney in private practice handling family law, criminal defense, traffic and estate planning matters, and has served as a guardian ad litem. She marked her fifth anniversary as a licensed Florida attorney in April 2026 and says she has handled about 30 family law trials, all bench trials rather than jury trials. She says she is running to reduce case delays in family court and improve access to justice for self-represented litigants through more efficient docket management.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -40,20 +40,41 @@
       ],
       "positions": {},
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Licensed to practice law in Florida since April 2021 (fifth anniversary April 2026); about 30 family law bench trials and no jury trials. No prior judicial experience.",
+          "sources": [
+            {
+              "title": "Seminole County judicial candidates answer questions about Supreme Court cases",
+              "url": "https://oviedocommunitynews.org/2026/08/05/brief-seminole-county-judicial-candidates-answer-questions-about-supreme-court-cases/",
+              "date": "2026-08-05"
+            }
+          ]
+        },
+        {
+          "item": "At an August 2026 candidate forum she argued that the depth of a candidate's work should matter more than years of tenure, and described her approach as committed, consistent and calm, particularly with self-represented litigants.",
+          "sources": [
+            {
+              "title": "Seminole County judicial candidates answer questions about Supreme Court cases",
+              "url": "https://oviedocommunitynews.org/2026/08/05/brief-seminole-county-judicial-candidates-answer-questions-about-supreme-court-cases/",
+              "date": "2026-08-05"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
       "id": "wayne_culver",
       "name": "Wayne Culver",
       "party": "Nonpartisan",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.seminoleforculver.com/",
+      "occupation": "Seminole County judge (Group 6), on the bench since 2021",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Culver has served as a Seminole County judge since 2021, handling criminal and civil divisions, and says he currently carries more than 4,000 civil cases and resolves about 1,200 cases a month. He was an assistant state attorney in Brevard County from 2001 to 2004 and then practiced privately in Seminole County from 2004 to 2009 in criminal, family, bankruptcy, dependency, civil litigation and real estate matters. In November 2024 the Florida Supreme Court suspended him for 60 days without pay and publicly reprimanded him for abusive and intemperate conduct in two 2022 court proceedings.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -65,7 +86,38 @@
       ],
       "positions": {},
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "On November 27, 2024 the Florida Supreme Court suspended Culver for 60 days without pay and publicly reprimanded him after the Judicial Qualifications Commission found he engaged in abusive and intemperate behavior in two February 2022 proceedings, including a profane outburst at a defendant and mishandling a contempt hearing. The court wrote that his behavior toward one defendant 'was so unacceptable, and so potentially corrosive of public confidence in the judiciary, as to render Judge Culver a candidate for removal from the bench,' and directed him to continue mental-health counseling and anger and stress management treatment.",
+          "sources": [
+            {
+              "title": "Supreme Court suspends Seminole County judge",
+              "url": "https://www.floridabar.org/the-florida-bar-news/supreme-court-suspends-seminole-county-judge/",
+              "date": "2024-11-27"
+            }
+          ]
+        },
+        {
+          "item": "At an August 2026 candidate forum he said judging is '90% people skills and it's 10% legal skills' and gave context for the 2024 discipline, saying he was his father's sole caregiver at the time.",
+          "sources": [
+            {
+              "title": "Seminole County judicial candidates answer questions about Supreme Court cases",
+              "url": "https://oviedocommunitynews.org/2026/08/05/brief-seminole-county-judicial-candidates-answer-questions-about-supreme-court-cases/",
+              "date": "2026-08-05"
+            }
+          ]
+        },
+        {
+          "item": "Assistant state attorney, Brevard County (2001-2004); private practice in Seminole County (2004-2009) in criminal, family, bankruptcy, dependency, civil litigation and real estate; county judge since 2021, currently with over 4,000 civil cases and about 1,200 cases resolved per month.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Seminole County Judge Group 6",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-seminole-county-judge-group-6/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]
