@@ -745,25 +745,53 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Davis lists defending bodily autonomy among the policies he is passionate about, and a candidate profile describes him as supporting reproductive freedom and opposing government-forced childbirth.",
+          "quote": "defending bodily autonomy",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Mark Davis",
+              "url": "https://ballotpedia.org/Mark_Davis_(Florida)",
+              "date": "2026-01-06"
+            },
+            {
+              "title": "Mark Davis - Florida's 16th Congressional District Election, 2026 (Smarter.vote candidate profile)",
+              "url": "https://smarter.vote/races/fl-house-16-2026/mark-davis/",
+              "date": "2026-09"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Davis says he supports the Second Amendment together with what he calls common-sense gun laws, arguing children should not be shot in schools.",
+          "quote": "I support the 2nd amendment AND common sense gun laws",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Mark Davis",
+              "url": "https://ballotpedia.org/Mark_Davis_(Florida)",
+              "date": "2026-01-06"
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In a Ballotpedia candidate survey Davis said health care is a human right and that he supports a single-payer system in place of private insurance.",
+          "quote": "I believe healthcare is a human right...period. I support a single-payer system that puts people before profit and ends the scam of private insurers.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Mark Davis",
+              "url": "https://ballotpedia.org/Mark_Davis_(Florida)",
+              "date": "2026-01-06"
+            },
+            {
+              "title": "Mark Davis - Florida's 16th Congressional District Election, 2026 (Smarter.vote candidate profile)",
+              "url": "https://smarter.vote/races/fl-house-16-2026/mark-davis/",
+              "date": "2026-09"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -801,11 +829,17 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Davis lists protecting voting rights among the policy areas he cares most about, alongside equal rights and anti-corruption measures. He does not name specific voting bills.",
+          "quote": "I believe in protecting voting rights",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Mark Davis",
+              "url": "https://ballotpedia.org/Mark_Davis_(Florida)",
+              "date": "2026-01-06"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -887,7 +921,18 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Center for Free Thought Equality",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Mark Davis",
+              "url": "https://ballotpedia.org/Mark_Davis_(Florida)",
+              "date": "2026-01-06"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

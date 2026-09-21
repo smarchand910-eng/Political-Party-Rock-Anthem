@@ -873,9 +873,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.toddforfl4.com",
-      "occupation": null,
+      "occupation": "Retired U.S. Navy",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Todd Schaefer is a no-party-affiliation candidate in Florida's 4th Congressional District and a retired Navy veteran. He argues that the two-party system has failed working Americans because large donors fund both parties. His signature proposal is what he calls the American Prosperity Card Act, aimed at recapturing money he says banks take out of the economy in fees.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -885,8 +885,89 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Schaefer says the United States pays about twice what other countries pay for worse results and supports a single-payer system, or at minimum a public option, citing insurers' overhead compared with Medicare's.",
+          "quote": "Universal Healthcare or at an absolute bare minimum a public option",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Todd Schaefer (completed 2025; read 2026-09-21)",
+              "url": "https://ballotpedia.org/Todd_Schaefer",
+              "date": "2026-09"
+            },
+            {
+              "title": "Todd for FL-4 - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.toddforfl4.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Schaefer says housing affordability should be addressed by getting private equity out of the housing market, pointing to rents and home prices that have risen sharply since 2020 and proposing to close tax advantages that let investors extract value.",
+          "quote": "Housing Affordability through getting private equity out of our housing market",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Todd Schaefer (completed 2025; read 2026-09-21)",
+              "url": "https://ballotpedia.org/Todd_Schaefer",
+              "date": "2026-09"
+            },
+            {
+              "title": "Todd for FL-4 - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.toddforfl4.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Money in politics",
+          "summary": "Schaefer's first priority is getting money out of politics: he opposes the Citizens United and SpeechNow decisions and wants to close the revolving door between government and industry.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Todd Schaefer (completed 2025; read 2026-09-21)",
+              "url": "https://ballotpedia.org/Todd_Schaefer",
+              "date": "2026-09"
+            },
+            {
+              "title": "Todd for FL-4 - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.toddforfl4.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Defense spending and foreign policy",
+          "summary": "He opposes further increases in the Pentagon budget and would shift money toward health care, education and domestic manufacturing, favoring diplomacy over military force.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Todd Schaefer (completed 2025; read 2026-09-21)",
+              "url": "https://ballotpedia.org/Todd_Schaefer",
+              "date": "2026-09"
+            },
+            {
+              "title": "Todd for FL-4 - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.toddforfl4.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Minimum wage and ranked-choice voting",
+          "summary": "Schaefer supports raising the minimum wage and tying it to inflation, and backs ranked-choice voting to loosen the two parties' hold on elections.",
+          "sources": [
+            {
+              "title": "Todd for FL-4 - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.toddforfl4.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -904,9 +985,9 @@
       "photo_url": "assets/photos/mike_sell.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.mikesell.org",
-      "occupation": null,
+      "occupation": "Operational excellence consultant (health care and human resources industries); nonprofit founder",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Mike Sell is the Florida Forward Party candidate in Florida's 4th Congressional District. He was raised in a Navy family, started working in high school at minimum wage and built a career in operational excellence, earning a Six Sigma Black Belt and leading projects he says saved more than a quarter of a billion dollars, mostly in health care. He founded a nonprofit focused on access to information and says he takes no corporate money.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -916,8 +997,109 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "taxes": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Sell says the wealthiest should pay more, listing \"ask the wealthiest to pay their fair share\" and \"tax the rich\" among his core policies, alongside funding public education rather than cutting services.",
+          "quote": "Ask the wealthiest to pay their fair share",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Mike Sell",
+              "url": "https://ballotpedia.org/Mike_Sell",
+              "date": "2026-09"
+            },
+            {
+              "title": "Mike Sell for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://www.mikesell.org",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Sell lists enacting what he calls sensible gun legislation among the policies he is most passionate about. He does not specify which measures.",
+          "quote": "Enact sensible gun legislation",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Mike Sell",
+              "url": "https://ballotpedia.org/Mike_Sell",
+              "date": "2026-09"
+            },
+            {
+              "title": "Mike Sell for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://www.mikesell.org",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Sell lists defending bodily autonomy among his affordability and rights agenda, under the heading of making life better for working people.",
+          "quote": "Defend body autonomy",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Mike Sell",
+              "url": "https://ballotpedia.org/Mike_Sell",
+              "date": "2026-09"
+            },
+            {
+              "title": "Mike Sell for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://www.mikesell.org",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Sell says he would end price gouging on rent, groceries, health care and prescriptions and lower housing costs as part of making life affordable.",
+          "quote": "End price gouging on rent, groceries, healthcare, and prescriptions",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Mike Sell",
+              "url": "https://ballotpedia.org/Mike_Sell",
+              "date": "2026-09"
+            },
+            {
+              "title": "Mike Sell for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://www.mikesell.org",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Universal basic income and wages",
+          "summary": "Sell says he would champion a universal basic income and fight for higher wages, arguing people work harder than ever and still fall behind.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Mike Sell",
+              "url": "https://ballotpedia.org/Mike_Sell",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Political reform",
+          "summary": "He supports getting money out of politics, fair district maps, term limits and accountability for officials who he says broke the public's trust.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Mike Sell",
+              "url": "https://ballotpedia.org/Mike_Sell",
+              "date": "2026-09"
+            },
+            {
+              "title": "Mike Sell for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://www.mikesell.org",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

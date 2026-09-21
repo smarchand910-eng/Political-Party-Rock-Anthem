@@ -1071,11 +1071,17 @@
       "primary_result": "No primary (NPA candidate; CBS Miami / Keys News)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Rojas says he would cut what he calls burdensome regulations and lower taxes on small businesses as a way to bring jobs to Miami.",
+          "quote": "cut burdensome regulations, lower taxes on small businesses",
+          "sources": [
+            {
+              "title": "Eddy Rojas for Congress - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.eddyrojas.com/events-1",
+              "date": "2026-09"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -1099,11 +1105,17 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Rojas lists securing the border among his public-safety priorities. His platform does not address deportation of people already in the country.",
+          "quote": "support our law enforcement, secure our borders, and invest in community programs",
+          "sources": [
+            {
+              "title": "Eddy Rojas for Congress - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.eddyrojas.com/events-1",
+              "date": "2026-09"
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -1127,18 +1139,30 @@
           "sources": []
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Rojas says he would protect Medicare for seniors and work to lower prescription drug costs and expand telehealth.",
+          "quote": "lower prescription drug costs, expand telehealth, and protect Medicare for our seniors",
+          "sources": [
+            {
+              "title": "Eddy Rojas for Congress - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.eddyrojas.com/events-1",
+              "date": "2026-09"
+            }
+          ]
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Rojas says he would fight for school choice, along with vocational training and more affordable higher education. He does not specify what voucher or scholarship programs he would support.",
+          "quote": "fight for school choice, vocational training, and affordable higher education",
+          "sources": [
+            {
+              "title": "Eddy Rojas for Congress - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.eddyrojas.com/events-1",
+              "date": "2026-09"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -1169,11 +1193,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Rojas says he would support law enforcement and border security while also investing in community programs, combining both approaches.",
+          "quote": "support our law enforcement, secure our borders, and invest in community programs",
+          "sources": [
+            {
+              "title": "Eddy Rojas for Congress - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.eddyrojas.com/events-1",
+              "date": "2026-09"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,

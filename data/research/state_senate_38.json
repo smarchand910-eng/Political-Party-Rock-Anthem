@@ -665,9 +665,9 @@
       "photo_url": "assets/photos/jeffrey_solomon.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.solomonforfloridasenate.com/",
-      "occupation": null,
+      "occupation": "Chiropractor, inventor and small-business owner",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Jeffrey \"Doc\" Solomon is a chiropractor from Pinecrest who says he has served South Florida patients for more than 40 years and has taught future health care professionals. He is running with no party affiliation against Republican incumbent Alexis Calatayud and Democrat Richard Lamondin. He previously ran for the Florida House as a Democrat, losing the District 115 race in 2018.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -677,8 +677,84 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "insurance": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Solomon calls the cost of property insurance one of the central problems facing District 38 families, but says he would attack it through transparency and competition rather than by describing direct state intervention such as rate caps or expanding Citizens.",
+          "quote": "address the property insurance crisis through transparency and competition",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Jeffrey Solomon",
+              "url": "https://ballotpedia.org/Jeffrey_Solomon",
+              "date": "2026-07-28"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Solomon, a health care provider, says he would work to lower health insurance premiums, cut prescription drug costs, expand telehealth and mobile health services and improve access to mental health and preventive care. He does not specifically address Medicaid expansion or ACA subsidies.",
+          "quote": "I will fight to lower health insurance premiums, reduce prescription drug costs, expand telehealth and mobile healthcare services, improve access to mental health care",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Jeffrey Solomon",
+              "url": "https://ballotpedia.org/Jeffrey_Solomon",
+              "date": "2026-07-28"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Solomon lists housing affordability among his campaign's core issues and says he would support affordable homeownership and make owning a home more attainable, without naming specific programs.",
+          "quote": "support affordable homeownership",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Jeffrey Solomon",
+              "url": "https://ballotpedia.org/Jeffrey_Solomon",
+              "date": "2026-07-28"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Solomon says protecting Florida's environment is one of the policy areas he is personally passionate about and names protecting the Everglades and Biscayne Bay as a campaign goal. He does not discuss trade-offs with development.",
+          "quote": "protect the Everglades and Biscayne Bay",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Jeffrey Solomon",
+              "url": "https://ballotpedia.org/Jeffrey_Solomon",
+              "date": "2026-07-28"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Public schools",
+          "summary": "Solomon says he would strengthen public schools by increasing per-student funding and teacher pay. His survey does not address private-school vouchers.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Jeffrey Solomon",
+              "url": "https://ballotpedia.org/Jeffrey_Solomon",
+              "date": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "title": "Transit and traffic",
+          "summary": "He says he would expand rapid transit and Metrorail service to reduce traffic congestion in Miami-Dade.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Jeffrey Solomon",
+              "url": "https://ballotpedia.org/Jeffrey_Solomon",
+              "date": "2026-07-28"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

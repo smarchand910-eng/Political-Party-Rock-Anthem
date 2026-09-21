@@ -1138,7 +1138,7 @@
       "website": "https://www.hamilton4fl.com/",
       "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
       "residence": null,
-      "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Michaelangelo Hamilton is a write-in candidate in Florida's 25th Congressional District. He first ran for Congress in 2022, when he drew attention as one of the youngest congressional candidates in recent years, and is running again in 2026 under the slogan \"Written off. Written in.\" He says he was raised by a single mother after his father's death and offers a younger perspective on affordability issues.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -1148,8 +1148,91 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Hamilton's platform calls for tax relief for working families, with extra relief for single-parent households, and for reducing what he calls wasteful government spending.",
+          "quote": "Support tax relief for working families, with additional relief for single-parent households",
+          "sources": [
+            {
+              "title": "Michaelangelo Hamilton for Congress - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.hamilton4fl.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Hamilton says he would increase housing supply to bring costs down, expand first-time homebuyer programs and stabilize rental markets.",
+          "quote": "Increase housing supply to reduce costs",
+          "sources": [
+            {
+              "title": "Michaelangelo Hamilton for Congress - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.hamilton4fl.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Hamilton says he would strengthen border security and enforcement, ensure immigration laws are followed, and prioritize the removal of people who commit serious crimes.",
+          "quote": "Strengthen border security and enforcement",
+          "sources": [
+            {
+              "title": "Michaelangelo Hamilton for Congress - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.hamilton4fl.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Hamilton lists supporting law enforcement and public safety among his platform's five priorities, under the heading of securing communities.",
+          "quote": "Support law enforcement and public safety",
+          "sources": [
+            {
+              "title": "Michaelangelo Hamilton for Congress - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.hamilton4fl.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "Michaelangelo Hamilton for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://www.hamilton4fl.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "energy": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Hamilton says he would back American energy production in order to bring down gasoline and utility costs. His platform does not mention renewable energy or utility regulation.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Michaelangelo Hamilton for Congress - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.hamilton4fl.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Medical billing transparency",
+          "summary": "Hamilton says he would hold insurers accountable for transparency, increase oversight of fraudulent and abusive medical billing, and require clear billing so patients know what they are charged.",
+          "sources": [
+            {
+              "title": "Michaelangelo Hamilton for Congress - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.hamilton4fl.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -1169,7 +1252,7 @@
       "website": null,
       "occupation": null,
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Peter Jassenoff is the Libertarian nominee in Florida's 25th Congressional District. He is 33, a single father, and a former Republican who registered as a Libertarian a few years ago. He advanced to the general election after the Libertarian primary was canceled. The Republican Party of Florida sued to remove him from the ballot over his paying the filing fee with a personal check, then dropped the suit on August 11, 2026.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -1180,7 +1263,30 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Ballot challenge dropped",
+          "summary": "The Republican Party of Florida sued the Secretary of State to keep Jassenoff off the November ballot, arguing his qualifying fee was paid improperly, and withdrew the lawsuit on August 11, 2026, leaving him on the ballot.",
+          "sources": [
+            {
+              "title": "Florida Republican Party Drops Lawsuit that Had Tried to Remove Libertarian from U.S. House Ballot (Ballot Access News)",
+              "url": "https://ballot-access.org/2026/08/14/florida-republican-party-drops-lawsuit-that-had-tried-to-remove-libertarian-from-u-s-house-ballot/",
+              "date": "2026-08-14"
+            }
+          ]
+        },
+        {
+          "title": "No published platform found",
+          "summary": "No campaign website, questionnaire response or interview setting out Jassenoff's positions could be found; a candidate profile of the race lists no stated positions for him.",
+          "sources": [
+            {
+              "title": "Peter Jassenoff - 2026 Florida's 25th Congressional District Election (Smarter.vote candidate profile)",
+              "url": "https://smarter.vote/races/fl-house-25-2026/",
+              "date": "2026-09-14"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

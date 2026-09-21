@@ -1184,7 +1184,24 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "No published platform found",
+          "summary": "No campaign website, questionnaire response, interview or forum appearance documenting Meidinger Hosey's positions could be found; her profile on an independent-candidate platform is unclaimed and Ballotpedia shows no survey response.",
+          "sources": [
+            {
+              "title": "Deborah Meidinger Hosey - 2026 Florida's 26th Congressional District Election (Smarter.vote candidate profile)",
+              "url": "https://smarter.vote/races/fl-house-26-2026/",
+              "date": "2026-08-28"
+            },
+            {
+              "title": "Thirteen candidates vie for House seats overseeing Pines. Here's who's on ballot (Pembroke Pines News)",
+              "url": "https://www.pembrokepinesflnews.com/news/local/article316251720.html",
+              "date": "2026-07-01"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Qualified as a no-party-affiliation candidate during the June 2026 qualifying period.",

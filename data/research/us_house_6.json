@@ -1199,9 +1199,9 @@
       "photo_url": "assets/photos/andrew_parrott.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.andrewparrottforcongress.com/",
-      "occupation": null,
+      "occupation": "Welder and entrepreneur",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Andrew Parrott is the Libertarian candidate in Florida's 6th Congressional District. He is 54, married, a welder and entrepreneur and a graduate of the Aviation Institute of Maintenance. He ran for the same seat in the April 2025 special election and says he is not beholden to either major party.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -1211,8 +1211,92 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Parrott says health care should be about getting necessary care rather than unaffordable insurance plans, and in an interview described favoring insurance that travels with the person rather than the employer and direct-pay arrangements with doctors for a small monthly fee.",
+          "quote": "you pay him a small amount a month, less than $100 usually, and you can go and talk to him anytime",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Florida's 6th Congressional District (News4JAX candidate questionnaire)",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-floridas-6th-congressional-district/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "An Interview with Congressional Candidate Andrew Parrott (AskFlagler)",
+              "url": "https://askflagler.com/an-interview-with-congressional-candidate-andrew-parrott/",
+              "date": "2025-02-25"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Parrott says the abortion question cannot be settled by legislation and should be addressed culturally, and that under the Tenth Amendment the decision belongs to the states.",
+          "quote": "abortion issue is not something that can be solved legislatively. We can only really solve it culturally.",
+          "sources": [
+            {
+              "title": "An Interview with Congressional Candidate Andrew Parrott (AskFlagler)",
+              "url": "https://askflagler.com/an-interview-with-congressional-candidate-andrew-parrott/",
+              "date": "2025-02-25"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Parrott says his priorities for veterans are streamlining VA claims processing and improving mental health support, citing the number of veterans lost to suicide.",
+          "quote": "far too many soldiers to suicide",
+          "sources": [
+            {
+              "title": "An Interview with Congressional Candidate Andrew Parrott (AskFlagler)",
+              "url": "https://askflagler.com/an-interview-with-congressional-candidate-andrew-parrott/",
+              "date": "2025-02-25"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Cost of living",
+          "summary": "Parrott's top listed issue is the economy: fighting inflation, lowering the cost of living and increasing affordability. He also blames omnibus spending bills for the growth of federal debt.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Florida's 6th Congressional District (News4JAX candidate questionnaire)",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-floridas-6th-congressional-district/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "An Interview with Congressional Candidate Andrew Parrott (AskFlagler)",
+              "url": "https://askflagler.com/an-interview-with-congressional-candidate-andrew-parrott/",
+              "date": "2025-02-25"
+            }
+          ]
+        },
+        {
+          "title": "Immigration process",
+          "summary": "On immigration, Parrott says he would streamline the process so that it is, in his words, a just and safe experience; he does not address enforcement levels or deportation.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Florida's 6th Congressional District (News4JAX candidate questionnaire)",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-floridas-6th-congressional-district/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "title": "Ukraine",
+          "summary": "Asked about the war in Ukraine in a 2025 interview, Parrott said he would seek a negotiated outcome, including a demilitarized zone and free movement for commerce.",
+          "sources": [
+            {
+              "title": "An Interview with Congressional Candidate Andrew Parrott (AskFlagler)",
+              "url": "https://askflagler.com/an-interview-with-congressional-candidate-andrew-parrott/",
+              "date": "2025-02-25"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -1232,7 +1316,7 @@
       "website": "https://www.alecpavlik.com",
       "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
       "residence": null,
-      "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Alec Pavlik is a write-in candidate in Florida's 6th Congressional District who says he grew up in the district and has lived there his whole life. His campaign is built on what he calls constitutionalism: he says members of Congress have voted for bills that violate the Constitution and pledges to vote against such measures and to work to repeal past ones.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -1242,8 +1326,63 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pavlik says inflation can only be eliminated if Congress passes balanced budgets and returns to what he calls sound money, and argues government has no authority to create taxes or welfare that benefit one class of people rather than the general public.",
+          "quote": "Inflation can only be eliminated if Congress passes balanced budgets and the United States returns to sound money.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Alec Pavlik (completed 2025; read 2026-09-21)",
+              "url": "https://ballotpedia.org/Alec_Pavlik",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "ukraine": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Pavlik argues that aid to foreign countries should come voluntarily from people rather than through government, saying that if Americans want to help a foreign land they will do so, often more efficiently, without government coercion.",
+          "quote": "If the People want to provide aid to a foreign land, a neighbor, or a company, they will (and often more efficiently) without the coercion of government.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Alec Pavlik (completed 2025; read 2026-09-21)",
+              "url": "https://ballotpedia.org/Alec_Pavlik",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Constitutional government and natural rights",
+          "summary": "Pavlik says Congress must reclaim all federal legislative power from the executive and unelected officials, and that rights including life, liberty, property and self-defense are inherent and government exists to secure them.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Alec Pavlik (completed 2025; read 2026-09-21)",
+              "url": "https://ballotpedia.org/Alec_Pavlik",
+              "date": "2026-09"
+            },
+            {
+              "title": "Alec Pavlik - Write-In Congressional Candidate for FL-06 (campaign website, undated; read 2026-09-21)",
+              "url": "https://www.alecpavlik.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Copyright and corporate law",
+          "summary": "He says copyright and corporate law are outdated for the digital age and can conflict with individuals' rights to free speech, conscience and personal property.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Alec Pavlik (completed 2025; read 2026-09-21)",
+              "url": "https://ballotpedia.org/Alec_Pavlik",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

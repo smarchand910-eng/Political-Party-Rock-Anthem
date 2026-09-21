@@ -631,7 +631,7 @@
       "website": "https://patriciaforcongress.com",
       "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
       "residence": null,
-      "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Patricia Gonzalez is a write-in candidate in Florida's 24th Congressional District who qualified with the state on June 12, 2026. She has run for the same seat before, appearing on the 2022 and 2024 ballots, including as a Republican in the 2024 primary. Ballotpedia lists her profession as entrepreneur. She has not completed Ballotpedia's candidate survey and, according to a candidate profile, did not respond to questionnaires or attend forums this cycle.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -642,7 +642,24 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "No published platform found",
+          "summary": "Her campaign website returned only a default placeholder page, and no questionnaire answers, interviews or forum appearances documenting her positions could be found.",
+          "sources": [
+            {
+              "title": "Patricia Gonzalez (Florida) - Ballotpedia",
+              "url": "https://ballotpedia.org/Patricia_Gonzalez_(Florida)",
+              "date": "2026-09"
+            },
+            {
+              "title": "Patricia Gonzalez - 2026 Florida's 24th Congressional District Election (Smarter.vote candidate profile)",
+              "url": "https://smarter.vote/races/fl-house-24-2026/",
+              "date": "2026-09-01"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
