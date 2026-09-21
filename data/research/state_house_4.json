@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 4 (Part of Okaloosa) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -25,10 +25,10 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://pattmaneyforhouse.com",
+      "occupation": "Retired U.S. Army brigadier general and former Okaloosa County judge; state representative (first elected 2020)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Maney, of Shalimar, is a retired Army brigadier general and former county judge who was first elected to the House in 2020. He has sponsored a multi-year overhaul of the Baker and Marchman Acts and chairs the Justice Budget Subcommittee.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,152 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "property_tax": {
+          "stance": 0,
+          "confidence": "record",
+          "summary": "Voted for HJR 203 in February 2026 but was one of two House Republicans to vote against HJR 1F in June, calling the amendment bad policy that shifts burdens to renters and small businesses.",
+          "quote": "Before we change the way local governments are funded, we need to really give it a lot of analysis",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Maney explains his painful vote on controversial property tax proposal (Mid Bay News)",
+              "url": "https://midbaynews.com/post/maney-explains-his-painful-vote-on-controversial-property-tax-proposal",
+              "date": "2026-06-10"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for SB 300 (2023), the Heartbeat Protection Act, which bans most abortions after six weeks of pregnancy. His site pledges to protect the sanctity of life.",
+          "quote": "PROTECT the sanctity of life and the rights of our unborn children",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 300, Pregnancy and Parenting Support (Heartbeat Protection Act), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=78468&VoteId=21833",
+              "date": "2023-04-13"
+            },
+            {
+              "title": "Key Priorities — Patt Maney for State Representative",
+              "url": "https://pattmaneyforhouse.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for HB 543 (2023), which allowed carrying a concealed firearm without a license, and for HB 759 (2025) and HB 133 (2026), which would lower the minimum age to buy a rifle or shotgun from 21 to 18. His site supports repealing the red-flag law.",
+          "quote": "support the repeal of the ill-conceived 'Red Flag Law'",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/HB 543, Public Safety (permitless concealed carry), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=77202&VoteId=21702",
+              "date": "2023-03-24"
+            },
+            {
+              "title": "Floor Vote for HB 759, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81384&VoteId=23523",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Floor Vote for HB 133, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82655&VoteId=24341",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Key Priorities — Patt Maney for State Representative",
+              "url": "https://pattmaneyforhouse.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for HB 1 (2023), which opened Florida's private-school scholarship (voucher) programs to every K-12 student regardless of family income.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/CS/CS/HB 1, Education (universal school choice), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=76982&VoteId=21676",
+              "date": "2023-03-17"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for SB 2-C in the February 2025 special session, which created a State Board of Immigration Enforcement, required state and local cooperation with federal immigration enforcement and added state penalties for people in the country illegally.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 2-C, Immigration (2025 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81096&VoteId=23489",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "SB 2-C (2025C) Immigration, bill detail, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=81096",
+              "date": "2025-02"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Cites the T. Patt Maney Veterans Treatment Intervention Act and support for military and veteran families.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Key Priorities — Patt Maney for State Representative",
+              "url": "https://pattmaneyforhouse.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to improve infrastructure while protecting the environment.",
+          "quote": "protecting our fragile environment",
+          "sources": [
+            {
+              "title": "Key Priorities — Patt Maney for State Representative",
+              "url": "https://pattmaneyforhouse.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Mental health",
+          "summary": "Sponsored HB 7021 (2024), the first major update to the Baker and Marchman Acts in decades, and lists closing gaps in mental health services as a priority.",
+          "sources": [
+            {
+              "title": "Bill to Improve Florida's Mental Health System Unanimously Passes Florida House (Patt Maney campaign)",
+              "url": "https://pattmaneyforhouse.com/bill-to-improve-floridas-mental-health-system-unanimously-passes-florida-house/",
+              "date": "2024-03-04"
+            },
+            {
+              "title": "Key Priorities — Patt Maney for State Representative",
+              "url": "https://pattmaneyforhouse.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     },

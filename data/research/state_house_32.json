@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 32 (Part of Brevard) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/brian_hodgers.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.brianforflorida.com",
-      "occupation": null,
+      "occupation": "Insurance agency owner and realtor; state representative (elected in a June 2025 special election)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Hodgers, 53, of Viera, owns an insurance and real estate business and holds a business degree from Florida Atlantic University. He won a June 2025 special election to succeed Debbie Mayfield and describes himself as the only insurance agent in the Florida House.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,7 +38,173 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for HJR 203 (Feb. 19, 2026), which would phase out all non-school property taxes on homesteads, and for HJR 1F (June 2, 2026), which placed the Amendment 3 homestead-exemption increase on the November ballot. He told News 6 he supports the amendment and told Vote411 property taxes are now the top concern he hears at the door.",
+          "quote": "providing meaningful property tax relief so families can afford to stay in their homes",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "State Representative 32 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128949",
+              "date": "2026-09"
+            },
+            {
+              "title": "2026 Voter's Guide - Florida House District 32, Republican primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-32-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Says the 2023 litigation reforms stabilized the market and favors reducing fraud and increasing competition rather than more state intervention.",
+          "quote": "Florida's 2023 insurance reforms have reduced excessive litigation and fraud, helping stabilize the insurance market.",
+          "sources": [
+            {
+              "title": "State Representative 32 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128949",
+              "date": "2026-09"
+            },
+            {
+              "title": "2026 Voter's Guide - Florida House District 32, Republican primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-32-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Opposes expanding government programs, saying Medicaid should stay focused on the truly vulnerable and Florida should pursue market-based solutions.",
+          "quote": "Florida should prioritize sustainable, market-based solutions rather than expanding government programs.",
+          "sources": [
+            {
+              "title": "State Representative 32 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128949",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Describes himself as pro-life and supports abortion only when the mother's life is at serious risk or in cases of rape or incest, consistent with current law.",
+          "quote": "I am pro-life and believe every human life is valuable and deserving of legal protection.",
+          "sources": [
+            {
+              "title": "State Representative 32 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128949",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Supports requiring proof of U.S. citizenship to register to vote, while backing fee waivers to make it accessible.",
+          "quote": "I support requiring proof of U.S. citizenship to register to vote because protecting the integrity of our elections is essential.",
+          "sources": [
+            {
+              "title": "State Representative 32 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128949",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Favors streamlining permitting and zoning and public-private workforce housing partnerships, but says the answer is more supply rather than government dependency.",
+          "quote": "The best long-term solution is to build more attainable housing, not create additional government dependency.",
+          "sources": [
+            {
+              "title": "State Representative 32 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128949",
+              "date": "2026-09"
+            },
+            {
+              "title": "2026 Voter's Guide - Florida House District 32, Republican primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-32-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "growth": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Supports maintaining the current balance in which the state sets uniform policy and local governments should not undermine state law.",
+          "quote": "Home rule should complement—not conflict with—statewide priorities.",
+          "sources": [
+            {
+              "title": "State Representative 32 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128949",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for HB 133 (2026), which would lower the minimum age to buy a rifle or shotgun from 21 to 18; he is a lifetime NRA member.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for HB 133, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82655&VoteId=24341",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Florida House passes bill to lower the age to purchase a long gun to 18 years (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/01/15/florida-house-passes-bill-to-lower-the-age-to-purchase-a-long-gun-to-18-years/",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Brian Hodgers — Florida House member page",
+              "url": "https://www.flhouse.gov/Sections/Representatives/details.aspx?MemberId=5064",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Prioritizes the Indian River Lagoon and says more county sales-tax revenue should go to wastewater, septic and stormwater work.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Florida House District 32, Republican primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-32-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Highlights his vote for a law preventing utilities from passing data-center costs to residential ratepayers.",
+          "quote": "Utility regulators should continue enforcing this law, protect residential ratepayers",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Florida House District 32, Republican primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-32-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],
@@ -57,9 +223,9 @@
       "photo_url": "assets/photos/juan_hinojosa.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.juanhinojosa.org/",
-      "occupation": null,
+      "occupation": "Security officer, Northrop Grumman; retired U.S. Army lieutenant colonel",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Hinojosa, 73, was born in Falfurrias, Texas, earned a biology and chemistry degree from Texas A&M-Kingsville and served 30 years in the Army, retiring as a lieutenant colonel in 2012. He lost the June 2025 HD 32 special election to Hodgers and now works as a security officer in Melbourne.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +235,119 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Fully supports Medicaid expansion and calls health care a human right.",
+          "quote": "The State of Florida has limited funding and should fully accept Medicaid Expansion.",
+          "sources": [
+            {
+              "title": "State Representative 32 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128949",
+              "date": "2026-09"
+            },
+            {
+              "title": "Juan Hinojosa for State Representative, District 32 (campaign site)",
+              "url": "https://www.juanhinojosa.org/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports abortion access for medical, mental-health, rape, incest, fetal-anomaly and personal-choice reasons.",
+          "quote": "decisions between a woman, her doctor, and her faith — not dictated by politicians",
+          "sources": [
+            {
+              "title": "State Representative 32 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128949",
+              "date": "2026-09"
+            },
+            {
+              "title": "Juan Hinojosa for State Representative, District 32 (campaign site)",
+              "url": "https://www.juanhinojosa.org/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "marijuana": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Advocates decriminalizing marijuana with a 6% sales tax whose revenue would fund low-interest home loans.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Juan Hinojosa for State Representative, District 32 (campaign site)",
+              "url": "https://www.juanhinojosa.org/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Calls for legislative oversight of the insurance commissioner's rate decisions and criticizes insurers shifting profits to affiliates; wants HB 541 auto-coverage mandate amended.",
+          "quote": "Trust but Verify!",
+          "sources": [
+            {
+              "title": "State Representative 32 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128949",
+              "date": "2026-09"
+            },
+            {
+              "title": "Juan Hinojosa for State Representative, District 32 (campaign site)",
+              "url": "https://www.juanhinojosa.org/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says the state needs a plan prioritizing starter-home construction and proposes a state low-interest home loan program.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 32 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128949",
+              "date": "2026-09"
+            },
+            {
+              "title": "Juan Hinojosa for State Representative, District 32 (campaign site)",
+              "url": "https://www.juanhinojosa.org/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Proposes an independent board to review state preemption laws and protect local home rule.",
+          "quote": "Currently there is no check and balance to protect the local governments from the state overreach.",
+          "sources": [
+            {
+              "title": "State Representative 32 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128949",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would help voters obtain secondary proof of citizenship and vote against laws he views as voter suppression.",
+          "quote": "Vote against the laws that suppress voters rights",
+          "sources": [
+            {
+              "title": "State Representative 32 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128949",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

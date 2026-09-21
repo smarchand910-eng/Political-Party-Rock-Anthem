@@ -14,7 +14,7 @@
   "what_it_does": "Represents District 37 in the Florida House of Representatives; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": "Open seat: Republican Rep. Susan Plasencia announced she would not seek re-election. Republican Robert Prater and Democrat Jane Aman qualified for the Nov. 3 ballot.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Oviedo Community News (June 17, 2026): 'Republican Robert Prater and Democrat Jane Aman have qualified for the November ballot in the House District 37 race' (https://oviedocommunitynews.org/2026/06/17/whos-on-the-seminole-county-primary-ballot-for-2026/). Seminole County's notice of general election (https://files.floridados.gov/media/710299/2026_nge_sem_english.pdf) could not be read. Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -24,18 +24,24 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://voterobprater.com",
+      "occupation": "Teacher and dean of students, Orange County Public Schools (20+ years)",
       "residence": null,
       "background": "Republican candidate for the open HD 37 seat in Seminole County; qualified for the November ballot.",
       "primary_result": null,
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists tax relief and toll relief among affordability priorities.",
+          "quote": "Tax relief that puts money back in family budgets",
+          "sources": [
+            {
+              "title": "Issues — Robert Prater for State Representative, District 37",
+              "url": "https://voterobprater.com/issues",
+              "date": "2026-09"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -45,11 +51,17 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Calls for property insurance reform that cracks down on carrier abuse.",
+          "quote": "Property insurance reform — cracking down on carrier abuse",
+          "sources": [
+            {
+              "title": "Issues — Robert Prater for State Representative, District 37",
+              "url": "https://voterobprater.com/issues",
+              "date": "2026-09"
+            }
+          ]
         },
         "housing": {
           "stance": null,
@@ -94,25 +106,43 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports educational choice that empowers parents alongside teacher pay and vocational pathways.",
+          "quote": "Educational choice that empowers parents",
+          "sources": [
+            {
+              "title": "Issues — Robert Prater for State Representative, District 37",
+              "url": "https://voterobprater.com/issues",
+              "date": "2026-09"
+            }
+          ]
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists environmental and water conservation among priorities.",
+          "quote": "Environmental and water conservation",
+          "sources": [
+            {
+              "title": "Issues — Robert Prater for State Representative, District 37",
+              "url": "https://voterobprater.com/issues",
+              "date": "2026-09"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Pledges to defend Orange County's Rural Boundary and pursue smart growth.",
+          "quote": "Defend Orange County's Rural Boundary",
+          "sources": [
+            {
+              "title": "Issues — Robert Prater for State Representative, District 37",
+              "url": "https://voterobprater.com/issues",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -129,11 +159,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Backs law enforcement and tougher penalties for fentanyl trafficking.",
+          "quote": "Tougher penalties for fentanyl trafficking",
+          "sources": [
+            {
+              "title": "Issues — Robert Prater for State Representative, District 37",
+              "url": "https://voterobprater.com/issues",
+              "date": "2026-09"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -157,15 +193,32 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to protect and honor seniors and veterans.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Issues — Robert Prater for State Representative, District 37",
+              "url": "https://voterobprater.com/issues",
+              "date": "2026-09"
+            }
+          ]
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Did not respond to the 2026 Vote411 questionnaire.",
+          "sources": [
+            {
+              "title": "State Representative 37 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129064",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "sources": [
         {
@@ -183,7 +236,7 @@
       "photo_url": "assets/photos/jane_aman.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://janeforflorida.com/",
-      "occupation": null,
+      "occupation": "Lecturer, UCF Department of English; former high school English teacher and soccer coach",
       "residence": null,
       "background": "Democratic candidate for the open HD 37 seat in Seminole County; qualified for the November ballot.",
       "primary_result": null,
@@ -203,18 +256,35 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would cap insurance rate hikes and expand policies, including catastrophic wind coverage, through Citizens.",
+          "quote": "capping insurance rate hikes",
+          "sources": [
+            {
+              "title": "State Representative 37 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129064",
+              "date": "2026-09"
+            },
+            {
+              "title": "Issues — Jane Aman for FL House District 37",
+              "url": "https://janeforflorida.com/issues/",
+              "date": "2026-09"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports more Sadowski trust fund money and mixed-use upward development for affordable housing.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 37 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129064",
+              "date": "2026-09"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -224,11 +294,22 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says abortion is a private decision and would vote against further restrictions.",
+          "quote": "Bodily autonomy is not up for debate",
+          "sources": [
+            {
+              "title": "State Representative 37 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129064",
+              "date": "2026-09"
+            },
+            {
+              "title": "Issues — Jane Aman for FL House District 37",
+              "url": "https://janeforflorida.com/issues/",
+              "date": "2026-09"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -238,11 +319,22 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says Florida needs to expand Medicaid and accept federal dollars.",
+          "quote": "Florida needs to expand Medicaid and accept available Federal dollars.",
+          "sources": [
+            {
+              "title": "State Representative 37 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129064",
+              "date": "2026-09"
+            },
+            {
+              "title": "Issues — Jane Aman for FL House District 37",
+              "url": "https://janeforflorida.com/issues/",
+              "date": "2026-09"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -252,11 +344,17 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Wants stronger accountability for charter and private schools receiving state funds and full funding of public schools.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Issues — Jane Aman for FL House District 37",
+              "url": "https://janeforflorida.com/issues/",
+              "date": "2026-09"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -266,11 +364,22 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would protect the voter-approved Seminole-Orange Rural Boundary and close SB 180 loopholes that let developers sue over it.",
+          "quote": "Protect Seminole and Orange County's voter-approved Rural Boundary",
+          "sources": [
+            {
+              "title": "Issues — Jane Aman for FL House District 37",
+              "url": "https://janeforflorida.com/issues/",
+              "date": "2026-09"
+            },
+            {
+              "title": "State Representative 37 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129064",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -280,11 +389,17 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would push back against HB 991 and fund voter-registration and document-assistance efforts.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 37 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129064",
+              "date": "2026-09"
+            }
+          ]
         },
         "crime": {
           "stance": null,

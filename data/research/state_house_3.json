@@ -16,7 +16,7 @@
   "what_it_does": "Represents District 3 (Parts of Okaloosa, Santa Rosa) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -27,9 +27,9 @@
       "photo_url": "assets/photos/nathan_boyles.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.votenathanboyles.com/",
-      "occupation": null,
+      "occupation": "Business owner (Adams Sanitation); former Okaloosa County commissioner; state representative (elected in a 2025 special election)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Boyles, a lawyer and engineer by training, founded a land-title company and grew Adams Sanitation into a 40-truck waste hauler. He served three terms on the Okaloosa County Commission and won a 2025 special election for HD 3.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -39,9 +39,181 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 0,
+          "confidence": "record",
+          "summary": "Voted for HJR 203 in February 2026 but was one of two House Republicans to vote against HJR 1F in June; he says property tax reform is timely but warned low-millage Panhandle counties would be forced to raise rates.",
+          "quote": "We have to be careful not to cut local funding mechanisms without having a plan to replace them.",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Special Election: Nathan Boyles Wants to Be Your FL-3 State Representative (Mid Bay News)",
+              "url": "https://midbaynews.com/post/nathan-boyles-election",
+              "date": "2025-06-06"
+            },
+            {
+              "title": "What you want to know about Florida's controversial property tax idea on the 2026 ballot (Mid Bay News)",
+              "url": "https://midbaynews.com/post/what-you-want-to-know-about-floridas-controversial-property-tax-idea-on-the-official-2026-ballot",
+              "date": "2026-06-03"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His site calls for border security in partnership with President Trump and deporting people in the country illegally who are caught in Florida.",
+          "quote": "deport illegal aliens caught in Florida",
+          "sources": [
+            {
+              "title": "Vote Nathan Boyles (campaign site)",
+              "url": "https://www.votenathanboyles.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Pledges to maintain pro-life principles and protect the unborn.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote Nathan Boyles (campaign site)",
+              "url": "https://www.votenathanboyles.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "A homeschool father, he supports school choice and full parental control over education.",
+          "quote": "Empower parents to have full control over their child's education",
+          "sources": [
+            {
+              "title": "Vote Nathan Boyles (campaign site)",
+              "url": "https://www.votenathanboyles.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Special Election: Nathan Boyles Wants to Be Your FL-3 State Representative (Mid Bay News)",
+              "url": "https://midbaynews.com/post/nathan-boyles-election",
+              "date": "2025-06-06"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for HB 133 (2026), which would lower the long-gun purchase age to 18, and pledges to block any restrictions on gun rights.",
+          "quote": "ensure that no politician passes laws to restrict law abiding citizens' access to their gun rights",
+          "sources": [
+            {
+              "title": "Floor Vote for HB 133, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82655&VoteId=24341",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Vote Nathan Boyles (campaign site)",
+              "url": "https://www.votenathanboyles.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Opposes what he calls radical gender ideology and says there should be no biological boys in girls' sports.",
+          "quote": "no biological boys in girl's sports",
+          "sources": [
+            {
+              "title": "Vote Nathan Boyles (campaign site)",
+              "url": "https://www.votenathanboyles.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to keep taxes low for working Floridians and balance the budget.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote Nathan Boyles (campaign site)",
+              "url": "https://www.votenathanboyles.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says insurers should be held accountable to pass savings to consumers and policies should be more understandable and affordable.",
+          "quote": "hold insurance companies accountable to pass down savings to consumers",
+          "sources": [
+            {
+              "title": "Vote Nathan Boyles (campaign site)",
+              "url": "https://www.votenathanboyles.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Special Election: Nathan Boyles Wants to Be Your FL-3 State Representative (Mid Bay News)",
+              "url": "https://midbaynews.com/post/nathan-boyles-election",
+              "date": "2025-06-06"
+            }
+          ]
+        },
+        "trump": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says he will follow President Trump's lead on affordability and pursue border security in partnership with him.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote Nathan Boyles (campaign site)",
+              "url": "https://www.votenathanboyles.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports in-state tuition for military families and workforce training linking veterans to careers.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Vote Nathan Boyles (campaign site)",
+              "url": "https://www.votenathanboyles.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Did not respond to the 2026 Vote411 questionnaire.",
+          "sources": [
+            {
+              "title": "State Representative 3 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128950",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -58,9 +230,9 @@
       "photo_url": "assets/photos/ingrid_wadsworth.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://ingridwadsworth.com",
-      "occupation": null,
+      "occupation": "Executive; microbiologist by training",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Wadsworth, 61, of Navarre, holds a microbiology degree from Northern Illinois University and describes herself as an executive with insurance expertise who has served at the federal, state and local levels. She is a former landowner and agricultural producer.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -70,7 +242,132 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says she would push proposed actions for faster results rather than let market forces prevail, and would create a plain-language homeowners insurance disclosure form.",
+          "quote": "I would push proposed action items for faster results, rather than let market forces prevail.",
+          "sources": [
+            {
+              "title": "State Representative 3 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128950",
+              "date": "2026-09"
+            },
+            {
+              "title": "Issues — Ingrid Wadsworth for Florida House District 3",
+              "url": "https://ingridwadsworth.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports universal health care nationally and, in Florida, a reinsurance pool, covering the lost ACA subsidy gap and a state marketplace.",
+          "quote": "Florida could also cover the ACA subsidy gap that was lost at the federal level",
+          "sources": [
+            {
+              "title": "State Representative 3 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128950",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls regulating a woman's body and medical decisions government overreach.",
+          "quote": "Regulating a woman's body, and her medical conditions and solutions, is government overreach.",
+          "sources": [
+            {
+              "title": "State Representative 3 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128950",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would keep funding SHIP and SAIL and support grants or incentives for young families to buy homes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 3 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128950",
+              "date": "2026-09"
+            },
+            {
+              "title": "Issues — Ingrid Wadsworth for Florida House District 3",
+              "url": "https://ingridwadsworth.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says rural areas face rapid development and sprawl and calls for smart-growth plans; sees home rule as important while acknowledging some preemption.",
+          "quote": "Smart Growth, and roads and bridges investments are critical",
+          "sources": [
+            {
+              "title": "State Representative 3 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128950",
+              "date": "2026-09"
+            },
+            {
+              "title": "Issues — Ingrid Wadsworth for Florida House District 3",
+              "url": "https://ingridwadsworth.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would strengthen transition services, mental health care and employment for veterans, defend earned benefits and protect the VA from privatization.",
+          "quote": "protecting the VA from privatization",
+          "sources": [
+            {
+              "title": "Issues — Ingrid Wadsworth for Florida House District 3",
+              "url": "https://ingridwadsworth.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would set up a hotline, a task force and passport-card assistance if proof of citizenship were required to register.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 3 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128950",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says natural resources need preservation alongside agriculture.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 3 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128950",
+              "date": "2026-09"
+            },
+            {
+              "title": "Issues — Ingrid Wadsworth for Florida House District 3",
+              "url": "https://ingridwadsworth.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 36 (Part of Seminole) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/rachel_plakon.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.rachelplakon.com",
-      "occupation": null,
+      "occupation": "Real estate investment company and brokerage owner; state representative (first elected 2022)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Plakon, of Lake Mary, owns a real estate investment company and brokerage and previously worked as a commercial land specialist. She holds an MBA from Florida International University, served on the Florida Commission on the Status of Women and was elected to the House in 2022.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,165 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for HJR 203 (Feb. 19, 2026), which would phase out all non-school property taxes on homesteads, and for HJR 1F (June 2, 2026), which placed the Amendment 3 homestead-exemption increase on the November ballot.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "2026 Voter's Guide - Florida House District 36, Republican primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-36-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her site calls her a champion for lower taxes and cites record $4.2 billion in tax cuts.",
+          "quote": "record tax cuts of $4.2 billion dollars",
+          "sources": [
+            {
+              "title": "Rachel Plakon for Florida House (campaign site)",
+              "url": "https://www.rachelplakon.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for HB 1 (2023), which opened Florida's private-school scholarship (voucher) programs to every K-12 student regardless of family income. Her site lists support for school choice.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/CS/CS/HB 1, Education (universal school choice), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=76982&VoteId=21676",
+              "date": "2023-03-17"
+            },
+            {
+              "title": "Rachel Plakon for Florida House (campaign site)",
+              "url": "https://www.rachelplakon.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for SB 2-C in the February 2025 special session, which created a State Board of Immigration Enforcement, required state and local cooperation with federal immigration enforcement and added state penalties for people in the country illegally. She also sponsored HB 1589 aimed at illegal immigration.",
+          "quote": "help stop illegal immigration into Florida",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 2-C, Immigration (2025 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81096&VoteId=23489",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "Rachel Plakon for Florida House (campaign site)",
+              "url": "https://www.rachelplakon.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for SB 300 (2023), the Heartbeat Protection Act, which bans most abortions after six weeks of pregnancy.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 300, Pregnancy and Parenting Support (Heartbeat Protection Act), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=78468&VoteId=21833",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for HB 543 (2023), which allowed carrying a concealed firearm without a license, and for HB 759 (2025) and HB 133 (2026), which would lower the minimum age to buy a rifle or shotgun from 21 to 18.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/HB 543, Public Safety (permitless concealed carry), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=77202&VoteId=21702",
+              "date": "2023-03-24"
+            },
+            {
+              "title": "Floor Vote for HB 759, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81384&VoteId=23523",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Floor Vote for HB 133, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82655&VoteId=24341",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Cites HB 365 to hold drug dealers accountable and a ban on tianeptine, and pledges to maintain law and order.",
+          "quote": "maintain law and order to keep our streets safe",
+          "sources": [
+            {
+              "title": "Rachel Plakon for Florida House (campaign site)",
+              "url": "https://www.rachelplakon.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports keeping Seminole County's rural boundary and voted to let local governments decide on data centers.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Florida House District 36, Republican primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-36-republican-primary/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Rachel Plakon for Florida House (campaign site)",
+              "url": "https://www.rachelplakon.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Did not respond to the News 6 or Vote411 2026 questionnaires.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Florida House District 36, Republican primary (ClickOrlando / News 6)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-36-republican-primary/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "State Representative 36 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129100",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -59,7 +215,7 @@
       "website": "https://www.blockfor36.com/",
       "occupation": null,
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Block, 45, of Sanford, holds social work degrees from USF and Florida State and a law degree from Barry University. He describes himself as a working parent of a child with disabilities and a product of public schools.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +225,179 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says Florida should expand Medicaid and stop leaving federal dollars on the table.",
+          "quote": "Florida should expand Medicaid and stop leaving federal healthcare dollars on the table",
+          "sources": [
+            {
+              "title": "State Representative 36 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129100",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports abortion access as health care before viability and later when a physician deems it necessary; opposes criminal penalties.",
+          "quote": "I support access to abortion as healthcare",
+          "sources": [
+            {
+              "title": "State Representative 36 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129100",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants premium relief measured by lower rates, with stronger insurer transparency, a stronger catastrophe and reinsurance framework and requirements that savings reach consumers.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 36 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129100",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports fully funding the Sadowski trust funds, permanently affordable housing and local flexibility on housing.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 36 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129100",
+              "date": "2026-09"
+            },
+            {
+              "title": "Issues — Darryl Block for 36",
+              "url": "https://www.blockfor36.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says the state has tilted too far from local control and Seminole's Rural Boundary should not be undone by Tallahassee.",
+          "quote": "Home rule should mean something.",
+          "sources": [
+            {
+              "title": "State Representative 36 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129100",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would reinstate protections adopted after the Parkland shooting and opposes letting 18-year-olds buy assault-style weapons.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Issues — Darryl Block for 36",
+              "url": "https://www.blockfor36.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Opposes new barriers to the ballot and wants free records if proof of citizenship is required; his site backs expanding voting access.",
+          "quote": "I oppose creating new barriers between eligible citizens and the ballot.",
+          "sources": [
+            {
+              "title": "State Representative 36 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129100",
+              "date": "2026-09"
+            },
+            {
+              "title": "Issues — Darryl Block for 36",
+              "url": "https://www.blockfor36.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says prisons should focus primarily on rehabilitation.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Issues — Darryl Block for 36",
+              "url": "https://www.blockfor36.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants to make solar energy more affordable for families.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Issues — Darryl Block for 36",
+              "url": "https://www.blockfor36.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports the Florida Forever program and more state conservation-land purchases.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Issues — Darryl Block for 36",
+              "url": "https://www.blockfor36.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Wants charter schools held to transparent accountability and priorities public-school teacher pay and Bright Futures funding.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Issues — Darryl Block for 36",
+              "url": "https://www.blockfor36.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "State Representative 36 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129100",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to fight for funding increases and state-federal partnerships for veterans.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Issues — Darryl Block for 36",
+              "url": "https://www.blockfor36.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

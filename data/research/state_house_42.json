@@ -14,7 +14,7 @@
   "what_it_does": "Represents District 42 in the Florida House of Representatives; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": "Open seat: Democratic Rep. Anna Eskamani is term-limited and running for Orlando mayor. Democrat Felipe Sousa Lazaballet and Republican Bonnie Jackson meet on Nov. 3, 2026.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Ballotpedia's HD 42 page: 'Felipe Sousa Lazaballet (D) and Bonnie Jackson (R) are running in the general election for Florida House of Representatives District 42 on November 3, 2026' (https://ballotpedia.org/Florida_House_of_Representatives_District_42); Wikipedia's 2026 election page notes Eskamani is term-limited and running for Orlando mayor. Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -25,7 +25,7 @@
       "photo_url": "assets/photos/felipe_sousa_lazaballet.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.felipeforflorida.com/",
-      "occupation": null,
+      "occupation": "Executive director, Hope CommUnity Center (Apopka nonprofit)",
       "residence": null,
       "background": "Democratic nominee for the open HD 42 seat (Orlando area) in the Nov. 3, 2026 general election.",
       "primary_result": null,
@@ -38,53 +38,125 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Plans to vote no on Amendment 3, saying voters raise insurance far more often than property taxes; favors a targeted circuit breaker for seniors instead.",
+          "quote": "I plan to vote \"No\" on Amendment 3.",
+          "sources": [
+            {
+              "title": "State Representative 42 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129050",
+              "date": "2026-09"
+            },
+            {
+              "title": "House District 42 candidates Bonnie Jackson, Felipe Sousa-Lazaballet discuss issues (The Charge, UCF student media)",
+              "url": "https://www.nicholsonstudentmedia.com/news/house-district-42-candidates-bonnie-jackson-felipe-sousa-lazaballet-discuss-issues-facing-orlando-residents-ucf/article_e0c61b74-553a-4490-8f91-e77d281dd35d.html",
+              "date": "2025-12-01"
+            }
+          ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says premiums rose more than 40% since 2022 and pledges property insurance reforms that protect Floridians.",
+          "quote": "property insurance has gone up over 40% since 2022",
+          "sources": [
+            {
+              "title": "State Representative 42 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129050",
+              "date": "2026-09"
+            },
+            {
+              "title": "House District 42 candidates Bonnie Jackson, Felipe Sousa-Lazaballet discuss issues (The Charge, UCF student media)",
+              "url": "https://www.nicholsonstudentmedia.com/news/house-district-42-candidates-bonnie-jackson-felipe-sousa-lazaballet-discuss-issues-facing-orlando-residents-ucf/article_e0c61b74-553a-4490-8f91-e77d281dd35d.html",
+              "date": "2025-12-01"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls housing a human right; would reserve the Sadowski fund for affordable housing, back a renters' bill of rights and support co-living, ADUs and repurposed commercial property.",
+          "quote": "I believe that housing is a fundamental human right",
+          "sources": [
+            {
+              "title": "State Representative 42 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129050",
+              "date": "2026-09"
+            },
+            {
+              "title": "Platform — Felipe for Florida",
+              "url": "https://www.felipeforflorida.com/platform",
+              "date": "2026-09"
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "A former undocumented immigrant, he opposes what he calls anti-immigrant laws and the state detention facility and wants to end required ICE cooperation by local jails.",
+          "quote": "ending requirements for ICE collaboration with local jails",
+          "sources": [
+            {
+              "title": "State Representative 42 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129050",
+              "date": "2026-09"
+            },
+            {
+              "title": "House District 42 candidates Bonnie Jackson, Felipe Sousa-Lazaballet discuss issues (The Charge, UCF student media)",
+              "url": "https://www.nicholsonstudentmedia.com/news/house-district-42-candidates-bonnie-jackson-felipe-sousa-lazaballet-discuss-issues-facing-orlando-residents-ucf/article_e0c61b74-553a-4490-8f91-e77d281dd35d.html",
+              "date": "2025-12-01"
+            },
+            {
+              "title": "Platform — Felipe for Florida",
+              "url": "https://www.felipeforflorida.com/platform",
+              "date": "2026-09"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports no restrictions on abortion and would work to repeal existing bans.",
+          "quote": "I do not support any restrictions on abortions and reproductive rights.",
+          "sources": [
+            {
+              "title": "State Representative 42 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129050",
+              "date": "2026-09"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports common-sense gun reform and opposed the bill lowering the purchase age from 21 to 18.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "House District 42 candidates Bonnie Jackson, Felipe Sousa-Lazaballet discuss issues (The Charge, UCF student media)",
+              "url": "https://www.nicholsonstudentmedia.com/news/house-district-42-candidates-bonnie-jackson-felipe-sousa-lazaballet-discuss-issues-facing-orlando-residents-ucf/article_e0c61b74-553a-4490-8f91-e77d281dd35d.html",
+              "date": "2025-12-01"
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Committed to expanding Medicaid and funding mental health services.",
+          "quote": "I support the expansion of Medicaid to protect more Floridians and keep our state healthy.",
+          "sources": [
+            {
+              "title": "State Representative 42 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129050",
+              "date": "2026-09"
+            },
+            {
+              "title": "Platform — Felipe for Florida",
+              "url": "https://www.felipeforflorida.com/platform",
+              "date": "2026-09"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -94,60 +166,128 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Opposes public-school privatization and favors fully funded public schools.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Platform — Felipe for Florida",
+              "url": "https://www.felipeforflorida.com/platform",
+              "date": "2026-09"
+            }
+          ]
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Backs land and water conservation, opposes fracking and criticizes sprawl that destroys the environment.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Platform — Felipe for Florida",
+              "url": "https://www.felipeforflorida.com/platform",
+              "date": "2026-09"
+            },
+            {
+              "title": "House District 42 candidates Bonnie Jackson, Felipe Sousa-Lazaballet discuss issues (The Charge, UCF student media)",
+              "url": "https://www.nicholsonstudentmedia.com/news/house-district-42-candidates-bonnie-jackson-felipe-sousa-lazaballet-discuss-issues-facing-orlando-residents-ucf/article_e0c61b74-553a-4490-8f91-e77d281dd35d.html",
+              "date": "2025-12-01"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports a statewide moratorium on new data centers, home rule and protecting the rural boundary from state encroachment.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Platform — Felipe for Florida",
+              "url": "https://www.felipeforflorida.com/platform",
+              "date": "2026-09"
+            },
+            {
+              "title": "State Representative 42 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129050",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Advocates decriminalizing cannabis.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Platform — Felipe for Florida",
+              "url": "https://www.felipeforflorida.com/platform",
+              "date": "2026-09"
+            }
+          ]
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports restoring voting rights to people who completed sentences and full implementation of 2018's Amendment 4.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Platform — Felipe for Florida",
+              "url": "https://www.felipeforflorida.com/platform",
+              "date": "2026-09"
+            }
+          ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Favors rehabilitation over incarceration, reforming the penal code and decriminalizing HIV and cannabis.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Platform — Felipe for Florida",
+              "url": "https://www.felipeforflorida.com/platform",
+              "date": "2026-09"
+            },
+            {
+              "title": "State Representative 42 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129050",
+              "date": "2026-09"
+            }
+          ]
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "An LGBTQ Floridian, he criticizes bills restricting classroom discussion of LGBTQ topics and advocates anti-discrimination protections.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "House District 42 candidates Bonnie Jackson, Felipe Sousa-Lazaballet discuss issues (The Charge, UCF student media)",
+              "url": "https://www.nicholsonstudentmedia.com/news/house-district-42-candidates-bonnie-jackson-felipe-sousa-lazaballet-discuss-issues-facing-orlando-residents-ucf/article_e0c61b74-553a-4490-8f91-e77d281dd35d.html",
+              "date": "2025-12-01"
+            },
+            {
+              "title": "Platform — Felipe for Florida",
+              "url": "https://www.felipeforflorida.com/platform",
+              "date": "2026-09"
+            }
+          ]
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Prioritizes reducing fossil-fuel reliance, promoting solar and tracking data centers' effect on utility costs.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Platform — Felipe for Florida",
+              "url": "https://www.felipeforflorida.com/platform",
+              "date": "2026-09"
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -166,7 +306,18 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Florida AFL-CIO; Orange County Classroom Teachers Association; U.S. Rep. Maxwell Frost; Orlando Mayor Buddy Dyer (per campaign endorsements page and Florida Politics)",
+          "sources": [
+            {
+              "title": "Endorsements — Felipe for Florida",
+              "url": "https://www.felipeforflorida.com/endorsements",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Florida House of Representatives District 42 (Ballotpedia)",
@@ -189,7 +340,7 @@
       "photo_url": "assets/photos/bonnie_jackson.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.jacksonforflorida.com",
-      "occupation": null,
+      "occupation": "Attorney (co-founder, Jackson Law International); former Houston prosecutor",
       "residence": null,
       "background": "Republican nominee for the open HD 42 seat (Orlando area) in the Nov. 3, 2026 general election.",
       "primary_result": null,
@@ -202,11 +353,22 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls property tax the second-largest household expense and says the amendment also helps renters by limiting non-homestead assessment increases; wants to revisit relief after November.",
+          "quote": "we need reform",
+          "sources": [
+            {
+              "title": "State Representative 42 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129050",
+              "date": "2026-09"
+            },
+            {
+              "title": "House District 42 candidates Bonnie Jackson, Felipe Sousa-Lazaballet discuss issues (The Charge, UCF student media)",
+              "url": "https://www.nicholsonstudentmedia.com/news/house-district-42-candidates-bonnie-jackson-felipe-sousa-lazaballet-discuss-issues-facing-orlando-residents-ucf/article_e0c61b74-553a-4490-8f91-e77d281dd35d.html",
+              "date": "2025-12-01"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -216,11 +378,22 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Supports expanding affordable housing and improving the Live Local Act but opposes rent control.",
+          "quote": "when you have rent controls, you have what you have in New York City",
+          "sources": [
+            {
+              "title": "Jackson for Florida (campaign site)",
+              "url": "https://www.jacksonforflorida.com",
+              "date": "2026-09"
+            },
+            {
+              "title": "House District 42 candidates Bonnie Jackson, Felipe Sousa-Lazaballet discuss issues (The Charge, UCF student media)",
+              "url": "https://www.nicholsonstudentmedia.com/news/house-district-42-candidates-bonnie-jackson-felipe-sousa-lazaballet-discuss-issues-facing-orlando-residents-ucf/article_e0c61b74-553a-4490-8f91-e77d281dd35d.html",
+              "date": "2025-12-01"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -230,11 +403,17 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In 2022 she said abortion should be allowed for the life of the mother and in some cases of rape, incest or trafficking; in 2026 she says the issue is not on the ballot and she respects human life.",
+          "quote": "I believe in respect for human life, which necessarily includes considerations for both the mother and her baby.",
+          "sources": [
+            {
+              "title": "State Representative 42 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129050",
+              "date": "2026-09"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -244,11 +423,22 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Favors price transparency and banning physician non-compete clauses to increase competition rather than expanding government coverage.",
+          "quote": "Let's get transparency in pricing",
+          "sources": [
+            {
+              "title": "State Representative 42 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129050",
+              "date": "2026-09"
+            },
+            {
+              "title": "Jackson for Florida (campaign site)",
+              "url": "https://www.jacksonforflorida.com",
+              "date": "2026-09"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -265,18 +455,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site calls for protecting water resources, no construction on agricultural or greenbelt land and no taxpayer subsidies for data centers.",
+          "quote": "Protecting water resources",
+          "sources": [
+            {
+              "title": "Jackson for Florida (campaign site)",
+              "url": "https://www.jacksonforflorida.com",
+              "date": "2026-09"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says preemption has a place and she would not repeal laws limiting local governments from adding restrictive development rules.",
+          "quote": "I would not support repealing this legislation.",
+          "sources": [
+            {
+              "title": "State Representative 42 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129050",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -286,18 +488,30 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Supports Florida's new documentary proof-of-citizenship law and in 2022 said she would prioritize removing voter drop boxes.",
+          "quote": "We need to make it easy to vote, and hard to cheat. Voter drop boxes make it easy to cheat.",
+          "sources": [
+            {
+              "title": "State Representative 42 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129050",
+              "date": "2026-09"
+            }
+          ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Describes herself as tough on crime with constitutional protections and prefers intervention for juveniles.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "House District 42 candidates Bonnie Jackson, Felipe Sousa-Lazaballet discuss issues (The Charge, UCF student media)",
+              "url": "https://www.nicholsonstudentmedia.com/news/house-district-42-candidates-bonnie-jackson-felipe-sousa-lazaballet-discuss-issues-facing-orlando-residents-ucf/article_e0c61b74-553a-4490-8f91-e77d281dd35d.html",
+              "date": "2025-12-01"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,

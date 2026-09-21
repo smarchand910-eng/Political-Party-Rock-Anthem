@@ -16,7 +16,7 @@
   "what_it_does": "Represents District 30 (Parts of Brevard, Volusia) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -27,9 +27,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.chasetramont.com",
-      "occupation": null,
+      "occupation": "Senior pastor; former teacher; state representative (first elected 2022)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Tramont, a Daytona Beach native and Flagler College graduate, taught and coached at Volusia County schools and served on the Port Orange City Council from 2016 to 2022 before winning HD 30 in 2022. He now lists his occupation as senior pastor.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -39,9 +39,124 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for HJR 203 (Feb. 19, 2026), which would phase out all non-school property taxes on homesteads, and for HJR 1F (June 2, 2026), which placed the Amendment 3 homestead-exemption increase on the November ballot. He serves on the House Select Committee on Property Taxes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Florida House passes proposed amendment to immediately phase out property taxes (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/02/19/florida-house-passes-proposed-amendment-to-immediately-phase-out-property-taxes/",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His site highlights support for a comprehensive tax package with sales-tax holidays and property, corporate and child-care tax reductions (HB 7073).",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Chase Tramont — State Representative, District 30 (campaign site)",
+              "url": "https://www.chasetramont.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for SB 2-C in the February 2025 special session, which created a State Board of Immigration Enforcement, required state and local cooperation with federal immigration enforcement and added state penalties for people in the country illegally.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 2-C, Immigration (2025 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81096&VoteId=23489",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "SB 2-C (2025C) Immigration, bill detail, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=81096",
+              "date": "2025-02"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for HB 1 (2023), which opened Florida's private-school scholarship (voucher) programs to every K-12 student regardless of family income.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/CS/CS/HB 1, Education (universal school choice), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=76982&VoteId=21676",
+              "date": "2023-03-17"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for SB 300 (2023), the Heartbeat Protection Act, which bans most abortions after six weeks of pregnancy.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 300, Pregnancy and Parenting Support (Heartbeat Protection Act), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=78468&VoteId=21833",
+              "date": "2023-04-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for HB 543 (2023), which allowed carrying a concealed firearm without a license, and for HB 759 (2025) and HB 133 (2026), which would lower the minimum age to buy a rifle or shotgun from 21 to 18.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/HB 543, Public Safety (permitless concealed carry), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=77202&VoteId=21702",
+              "date": "2023-03-24"
+            },
+            {
+              "title": "Floor Vote for HB 759, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81384&VoteId=23523",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Floor Vote for HB 133, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82655&VoteId=24341",
+              "date": "2026-01-15"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Did not respond to the 2026 Vote411 questionnaire.",
+          "sources": [
+            {
+              "title": "State Representative 30 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128951",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -57,10 +172,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://munozforflorida.com",
+      "occupation": "Permitting and project coordination professional (construction); former legal case manager",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Munoz, 34, a UCF and Valencia College graduate and father of two, has spent more than a decade coordinating municipal permits for commercial construction and previously worked as a case manager at Morgan & Morgan. He lists Christmas, Florida as his mailing address.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -70,7 +185,122 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would file an infrastructure-concurrency bill requiring roads, water and sewer capacity before new development is approved, and would vote against blanket preemption bills.",
+          "quote": "Roads, water, and sewer come first. Then you build.",
+          "sources": [
+            {
+              "title": "State Representative 30 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128951",
+              "date": "2026-09"
+            },
+            {
+              "title": "Edwin Munoz for Florida House (campaign site)",
+              "url": "https://munozforflorida.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports developer-funded infrastructure, incentives for starter and workforce housing, local affordable-housing set-asides, down-payment assistance and tenant protections.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 30 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128951",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Would direct public education dollars to traditional public schools and set a $60,000 minimum teacher salary.",
+          "quote": "directing that public education dollars stay with traditional public schools and the children who attend them",
+          "sources": [
+            {
+              "title": "State Representative 30 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128951",
+              "date": "2026-09"
+            },
+            {
+              "title": "Edwin Munoz for Florida House (campaign site)",
+              "url": "https://munozforflorida.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports a 15-week limit with exceptions for the life and health of the mother, rape, incest and fatal fetal anomalies, which would loosen the current six-week law.",
+          "quote": "I support a clear and reasonable abortion limit in Florida of 15 weeks",
+          "sources": [
+            {
+              "title": "State Representative 30 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128951",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says Florida should expand Medicaid and budget honestly for shifting federal costs.",
+          "quote": "Florida should stop leaving federal healthcare dollars on the table and finally expand Medicaid",
+          "sources": [
+            {
+              "title": "State Representative 30 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128951",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports transparency requirements, stronger oversight of insurer profits and reinsurance costs, and home-fortification investment.",
+          "quote": "stronger oversight of insurer profits and reinsurance costs",
+          "sources": [
+            {
+              "title": "State Representative 30 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128951",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would have the state provide free, expedited birth certificates and on-site verification if proof of citizenship is required.",
+          "quote": "No eligible Floridian should lose the right to vote because a document is hard to get.",
+          "sources": [
+            {
+              "title": "State Representative 30 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128951",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to hold polluters accountable and protect clean water, citing sewage spills toward the Indian River Lagoon.",
+          "quote": "Hold polluters accountable and defend the clean water and wild places",
+          "sources": [
+            {
+              "title": "Edwin Munoz for Florida House (campaign site)",
+              "url": "https://munozforflorida.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 33 (Part of Brevard) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/monique_miller.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://moniqueforflorida.com",
-      "occupation": null,
+      "occupation": "IT and cybersecurity executive; state representative (elected 2024)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Miller, of Palm Bay, spent more than 25 years in the computer and cybersecurity industry, including work for Hewlett-Packard and government clients, and holds an MBA from Emory University. She was elected to the House in 2024 and sponsored the 2026 House plan to phase out non-school homestead property taxes.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,129 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Sponsored HJR 203, which would exempt homesteads from all non-school property taxes by phasing in a larger exemption each year, and voted for it and for HJR 1F.",
+          "quote": "we have the ability to do this without putting undue burdens on local government, and I believe that it can be done",
+          "sources": [
+            {
+              "title": "Florida House passes proposed amendment to immediately phase out property taxes (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-02-19/florida-house-passes-proposed-amendment-to-immediately-phase-out-property-taxes",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            },
+            {
+              "title": "Monique Miller for Florida House (campaign site)",
+              "url": "https://moniqueforflorida.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for SB 2-C in the February 2025 special session, which created a State Board of Immigration Enforcement, required state and local cooperation with federal immigration enforcement and added state penalties for people in the country illegally. Her site cites expanding E-Verify to all employers and backing local enforcement of immigration law.",
+          "quote": "Expanded E-Verify to ALL Florida employers",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 2-C, Immigration (2025 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81096&VoteId=23489",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "Monique Miller for Florida House (campaign site)",
+              "url": "https://moniqueforflorida.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for HB 759 (2025) and HB 133 (2026), which would lower the minimum age to buy a rifle or shotgun from 21 to 18; both passed the House and died in the Senate.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for HB 759, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81384&VoteId=23523",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Floor Vote for HB 133, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82655&VoteId=24341",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Florida House passes bill to lower the age to purchase a long gun to 18 years (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/01/15/florida-house-passes-bill-to-lower-the-age-to-purchase-a-long-gun-to-18-years/",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site says she cut billions in state taxes and made sales-tax holidays permanent.",
+          "quote": "Cut billions in state taxes",
+          "sources": [
+            {
+              "title": "Monique Miller for Florida House (campaign site)",
+              "url": "https://moniqueforflorida.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Cites protecting state parks from development, the Indian River Lagoon and a vote to preserve 60% of planned developments for conservation.",
+          "quote": "Protected all Florida State Parks from development",
+          "sources": [
+            {
+              "title": "Monique Miller for Florida House (campaign site)",
+              "url": "https://moniqueforflorida.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says she protected Floridians from paying higher power rates caused by data centers.",
+          "quote": "Protected Floridians from paying increased power rates due to data centers",
+          "sources": [
+            {
+              "title": "Monique Miller for Florida House (campaign site)",
+              "url": "https://moniqueforflorida.com",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Did not respond to the 2026 Vote411 questionnaire.",
+          "sources": [
+            {
+              "title": "State Representative 33 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128994",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -57,9 +177,9 @@
       "photo_url": "assets/photos/daniel_mcdow.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://danmcdowforfl.com",
-      "occupation": null,
+      "occupation": "Retired business executive; former West Melbourne City Council member",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "McDow, 66, was born in Chicago and holds a master's degree in sustainability from the University of Lincoln (UK). He served on the West Melbourne City Council from 2020 to 2024, chaired the Brevard Democratic Party and ran for Congress in 2024.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +189,122 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says it is a woman's right to choose whether and when to access abortion.",
+          "quote": "I firmly believe that it is a woman's right to choose if and when to access abortion, hard stop.",
+          "sources": [
+            {
+              "title": "State Representative 33 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128994",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would start with Medicaid expansion and build toward health care for all.",
+          "quote": "I would start with Medicaid Expansion.",
+          "sources": [
+            {
+              "title": "State Representative 33 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128994",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Calls arbitrarily removing property taxes reckless and says the Save Our Homes amendment reduces local fiscal control.",
+          "quote": "Arbitrarily removing property tax is reckless.",
+          "sources": [
+            {
+              "title": "State Representative 33 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128994",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says insurance costs can be regulated and reduced if legislators represent people rather than insurers; pledges to bring down home and vehicle insurance costs.",
+          "quote": "Insurance cost can be regulated and reduced",
+          "sources": [
+            {
+              "title": "State Representative 33 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128994",
+              "date": "2026-09"
+            },
+            {
+              "title": "Daniel McDow — Florida House, District 33 (The Space Coast Rocket)",
+              "url": "https://thespacecoastrocket.com/daniel-mcdow-florida-house-district-33/",
+              "date": "2026-07-04"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says home rule is being challenged and the preemption balance needs to be redefined with all stakeholders.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 33 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128994",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would work with local governments to rezone commercial and industrial areas for affordable housing and offer state incentives.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 33 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128994",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Plans to fight FPL rate increases and reduce utility costs.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "State Representative 33 — VOTE411 Voter Guide (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128994",
+              "date": "2026-09"
+            },
+            {
+              "title": "Daniel McDow — Florida House, District 33 (The Space Coast Rocket)",
+              "url": "https://thespacecoastrocket.com/daniel-mcdow-florida-house-district-33/",
+              "date": "2026-07-04"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says he voted consistently against development that would harm the environment and, in 2024, called climate change real and human-caused.",
+          "quote": "Protect clean air and water for future generations",
+          "sources": [
+            {
+              "title": "Daniel McDow — Florida House, District 33 (The Space Coast Rocket)",
+              "url": "https://thespacecoastrocket.com/daniel-mcdow-florida-house-district-33/",
+              "date": "2026-07-04"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

@@ -18,20 +18,20 @@
   "what_it_does": "Represents District 20 (Putnam, Parts of Clay, Marion, St. Johns) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
       "id": "judson_sapp",
       "name": "Judson Sapp",
       "party": "Republican",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": "assets/photos/judson_sapp.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.judsonsapp.com",
-      "occupation": null,
+      "occupation": "CEO, W.J. Sapp Railroad Contractor; state representative (elected 2024)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Raised in Putnam County and an Eagle Scout, Sapp holds a philosophy degree from Florida State University and runs W.J. Sapp Railroad Contractor, a rail construction firm. He was elected to the Florida House in 2024 and lives in Green Cove Springs with his wife and two children.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -41,9 +41,100 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Sapp says repealing property taxes is the top concern in his district and calls himself a believer in abolishing the tax, while suggesting a phased approach. He voted for HJR 203, the House plan to phase out non-school homestead property taxes, and was recorded as a 'yes' after the roll call on HJR 1F.",
+          "quote": "I would love it to be on the next ballot, and I hope it is, but you want us to do it right.",
+          "sources": [
+            {
+              "title": "Rep. Judson Sapp doubles down on property tax repeal push (Florida's Voice)",
+              "url": "https://flvoicenews.com/rep-judson-sapp-doubles-down-on-property-tax-repeal-push-highlights-gop-momentum/",
+              "date": "2025-08-04"
+            },
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted for SB 2-C in the February 2025 special session, which created a State Board of Immigration Enforcement, required state and local cooperation with federal immigration enforcement and added state penalties for people in the country illegally.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for SB 2-C, Immigration (2025 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81096&VoteId=23489",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "SB 2-C (2025C) Immigration, bill detail, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=81096",
+              "date": "2025-02"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted for HB 759 (2025) and HB 133 (2026), which would lower the minimum age to buy a rifle or shotgun from 21 to 18; both passed the House and died in the Senate.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Floor Vote for HB 759, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=81384&VoteId=23523",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Floor Vote for HB 133, Minimum Age for Firearm Purchase or Transfer, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82655&VoteId=24341",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Florida House passes bill to lower the age to purchase a long gun to 18 years (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/01/15/florida-house-passes-bill-to-lower-the-age-to-purchase-a-long-gun-to-18-years/",
+              "date": "2026-01-15"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted yes on HJR 203 (phase-out of non-school homestead property taxes), Feb. 19, 2026; recorded as a yes after the roll call on HJR 1F, June 2, 2026.",
+          "sources": [
+            {
+              "title": "Floor Vote for CS/CS/HJR 203, Elimination of Non-school Property Taxes for Homesteads, Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=82728&VoteId=24474",
+              "date": "2026-02-19"
+            },
+            {
+              "title": "Floor Vote for CS/HJR 1F, Save Our Homes from Excessive Property Taxes (2026 special session), Florida House",
+              "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?BillId=84452&VoteId=25213",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "item": "Did not complete the News4JAX 2026 voter-guide questionnaire.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Florida House District 20 (News4JAX)",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-20/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
@@ -60,9 +151,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "U.S. Navy Reserves",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Lee Wesley Butler of Palatka serves in the U.S. Navy Reserves and holds a master's degree in strategic studies. He has no prior political experience and told News4JAX his campaign has no website or social media presence.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -72,8 +163,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "veterans": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Butler lists veterans' benefits reform as his top priority, citing federal bills such as the Love Lives On Act and the Major Richard Star Act to protect survivor benefits.",
+          "quote": "specific, bipartisan House bills that directly fix gaps in federal care for our veterans and public servants",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Florida House District 20 (News4JAX)",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-20/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He supports letting first responders who retire early between ages 50 and 64 buy into Medicare, a modest expansion of the government's role in coverage.",
+          "quote": "allowing first responders between the ages of 50 and 64 who separate from service early to buy into Medicare",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Florida House District 20 (News4JAX)",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-20/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Military leave for first responders",
+          "summary": "Supports requiring police and fire departments to provide up to 26 days of paid military leave, mirroring federal House Bills 5232 and 5233.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide: Florida House District 20 (News4JAX)",
+              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-20/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
