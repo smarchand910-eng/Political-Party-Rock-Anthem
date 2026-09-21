@@ -7,7 +7,7 @@
     "https://www.sparkers-soapbox.com/merit-retention-of-florida-judges/",
     "https://supremecourt.flcourts.gov/Justices/Merit-Selection-Retention-Retirement"
   ],
-  "ballot_context": "Verified against the Sumter County Supervisor of Elections' official 2026 General Election sample ballot and The Florida Bar's 2026 merit-retention list: Sumter voters answer four retention questions, for Supreme Court Justice Carlos G. Muñiz and Fifth District Court of Appeal Judges John M. Harris, Scott D. Makar and F. Rand Wallis. No other appellate judge appears on the Sumter ballot. Note: The Florida Bar discontinued its merit-retention poll in 2023, so there is no 2026 Bar poll.",
+  "ballot_context": "Every Florida ballot asks whether Supreme Court Justice Carlos G. Muñiz should be retained. Voters also answer a retention question for each District Court of Appeal judge standing in their district; which judges appear depends on the county (enter your address above to see yours). Names are verified against The Florida Bar's 2026 merit-retention list and county sample ballots. The Florida Bar discontinued its merit-retention poll in 2023, so there is no 2026 Bar poll.",
   "research_note": "Third pass (Sept 17, 2026): the sample ballot and The Florida Bar's merit-retention page were fetched directly; the earlier question of a possible fourth Fifth DCA judge is resolved (there are three). Biographies were checked against the Governor's 2019 appointment release (Muñiz), Wikipedia (Makar) and Ballotpedia/Space Coast Daily/Law360 search results (Harris, Wallis); the court's own judge pages did not render in this environment.",
   "list_complete": true,
   "judges": [
@@ -61,14 +61,14 @@
         "https://thefloridachannel.org/videos/on-the-ballot-florida-supreme-court-justice-carlos-muniz/",
         "https://www.sparkers-soapbox.com/florida-supreme-court-merit-retention-2026-general/"
       ],
-      "confirmation_status": "On the Nov. 3, 2026 Sumter County ballot (verified on the official sample ballot and The Florida Bar's 2026 merit-retention list)",
+      "confirmation_status": "On the Nov. 3, 2026 ballot (verified on The Florida Bar's 2026 merit-retention list and county sample ballots, including Sumter County's)",
       "photo_source": "Ballotpedia photo of Justice Carlos Muñiz (downloaded copy in assets/photos)"
     },
     {
       "name": "John M. Harris",
       "court": "Fifth District Court of Appeal",
       "ballot_question": "Shall Judge John M. Harris of the Fifth District Court of Appeal be retained in office?",
-      "confirmation_status": "On the Nov. 3, 2026 Sumter County ballot (verified on the official sample ballot and The Florida Bar's 2026 merit-retention list)",
+      "confirmation_status": "On the Nov. 3, 2026 ballot (verified on The Florida Bar's 2026 merit-retention list and county sample ballots, including Sumter County's)",
       "appointed_by": "Gov. Rick Scott",
       "appointed_year": 2018,
       "background": "B.A. in psychology and criminal justice, University of Oklahoma (1988); J.D., Florida State University College of Law (1991). Practiced business and commercial litigation in Brevard County for about 11 years. Appointed to the Brevard County Court by Gov. Jeb Bush in 2002 and to the Eighteenth Judicial Circuit (Brevard and Seminole counties) in 2006, where he served as an administrative judge and was twice elected chief judge (2013, 2017). Appointed to the Fifth District Court of Appeal by Gov. Rick Scott in July 2018 to succeed Judge Thomas D. Sawaya; retained by voters in 2020.",
@@ -106,7 +106,7 @@
       "name": "Scott D. Makar",
       "court": "Fifth District Court of Appeal",
       "ballot_question": "Shall Judge Scott Makar of the Fifth District Court of Appeal be retained in office?",
-      "confirmation_status": "On the Nov. 3, 2026 Sumter County ballot (verified on the official sample ballot and The Florida Bar's 2026 merit-retention list)",
+      "confirmation_status": "On the Nov. 3, 2026 ballot (verified on The Florida Bar's 2026 merit-retention list and county sample ballots, including Sumter County's)",
       "appointed_by": "Gov. Rick Scott (First DCA, 2012); recommissioned to the Fifth DCA by Gov. Ron DeSantis (2023)",
       "appointed_year": 2012,
       "background": "Born Oct. 15, 1959, in Mahopac, N.Y. B.S., Mercer University (1980); MBA and M.A. in economics (1982), J.D. with honors (1987) and Ph.D. in economics (1993), all from the University of Florida. Appellate attorney at Holland & Knight (1989-2001), chief of the appellate division of Jacksonville's Office of General Counsel (2001-2008) and Florida Solicitor General (2007-2012), arguing five cases before the U.S. Supreme Court. Appointed to the First District Court of Appeal by Gov. Rick Scott on Feb. 6, 2012, and recommissioned to the Fifth District Court of Appeal by Gov. Ron DeSantis on Jan. 1, 2023, when the appellate districts were redrawn. Has taught at several law schools.",
@@ -140,7 +140,7 @@
       "name": "F. Rand Wallis",
       "court": "Fifth District Court of Appeal",
       "ballot_question": "Shall Judge F. Rand Wallis of the Fifth District Court of Appeal be retained in office?",
-      "confirmation_status": "On the Nov. 3, 2026 Sumter County ballot (verified on the official sample ballot and The Florida Bar's 2026 merit-retention list)",
+      "confirmation_status": "On the Nov. 3, 2026 ballot (verified on The Florida Bar's 2026 merit-retention list and county sample ballots, including Sumter County's)",
       "appointed_by": "Gov. Rick Scott",
       "appointed_year": 2013,
       "background": "B.A. in political science, Furman University (1989); J.D., Stetson University College of Law (1992). Assistant state attorney in the Eighteenth Judicial Circuit for two years, then in private practice in Orlando (Cameron, Marriott, Walsh, Hodges & Coleman; from 1996 Cabaniss, McDonald, Smith & Wiggins). Appointed to the Ninth Judicial Circuit (Orange and Osceola counties) by Gov. Charlie Crist in 2008 and to the Fifth District Court of Appeal by Gov. Rick Scott in 2013 to succeed Judge Bruce Jacobus.",
