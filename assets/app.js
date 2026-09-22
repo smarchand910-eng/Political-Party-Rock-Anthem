@@ -152,6 +152,7 @@
     return false;
   }
   function ballotRaces(prof) { return RACES.filter(r => raceOnBallot(r, prof)); }
+  const scorable = r => r.kind !== 'judicial' && r.kind !== 'measure';
   function jurKey(r) { const j = r.jurisdiction || {}; return j.type === 'statewide' || !j.type ? 'statewide' : `${j.type}-${j.id}`; }
   function jurLabel(r) { const j = r.jurisdiction || {}; return j.type === 'statewide' ? 'Statewide' : j.type === 'cd' ? `Congressional District ${j.id}` : j.type === 'sd' ? `Senate District ${j.id}` : j.type === 'hd' ? `House District ${j.id}` : j.type === 'county' ? `${j.id} County` : ''; }
   function dcaFor(county) { const c = county && FL.counties && FL.counties[county]; return c ? c.dca : null; }
@@ -165,7 +166,7 @@
     return bits.join(' · ');
   }
   function coverageNote(r) {
-    if (r.coverage === 'full') return '';
+    if (r.coverage === 'full' || r.kind === 'judicial') return '';
     if (r.coverage === 'none' || !(r.candidates || []).length) return `<p class="notice notice-warn"><strong>${T('No candidate data yet for this race.', 'Aún no hay datos de candidatos para esta contienda.')}</strong> ${T("Check your county Supervisor of Elections sample ballot; this guide's research has not reached this contest.", 'Consulte la boleta de muestra del Supervisor de Elecciones de su condado; la investigación de esta guía aún no ha llegado a esta contienda.')}</p>`;
     if (r.coverage === 'roster') return `<p class="notice notice-warn"><strong>${T('Candidate list only.', 'Solo lista de candidatos.')}</strong> ${T('We have verified who is on the ballot for this race but have not yet researched their positions, so most issues will show "No public position found" and the match tool cannot score them. Campaign websites are linked where known.', 'Hemos verificado quién está en la boleta para esta contienda, pero aún no hemos investigado sus posiciones, así que la mayoría de los temas mostrarán "No se encontró una posición pública" y la herramienta de coincidencia no puede puntuarlos. Los sitios de campaña están enlazados cuando se conocen.')}</p>`;
     if (r.coverage === 'partial') return `<p class="notice notice-warn"><strong>${T('Partly verified.', 'Parcialmente verificado.')}</strong> ${T('Either the November opponent could not be confirmed from available sources, or only a few positions are documented. Confirm the full candidate list on your county sample ballot; unknown positions are shown as such.', 'O no se pudo confirmar el oponente de noviembre con las fuentes disponibles, o solo hay unas pocas posiciones documentadas. Confirme la lista completa de candidatos en la boleta de muestra de su condado; las posiciones desconocidas se muestran como tales.')}</p>`;
@@ -465,8 +466,9 @@
       ${coverageNote(r)}
       ${r.verified_ballot_note ? `<details class="notice" style="border-radius:0 var(--radius-sm) var(--radius-sm) 0"><summary>${T('How we verified who is on the ballot', 'Cómo verificamos quién está en la boleta')}</summary><p style="margin:8px 0 0">${esc(r.verified_ballot_note)}</p>${sourcesHtml(r.verified_ballot_sources)}</details>` : ''}
       ${(r.events || []).length ? `<div class="card"><h3 style="margin:0 0 6px">${T('Debates and forums', 'Debates y foros')}</h3><ul style="margin:0">${r.events.map(e => `<li>${e.date ? `<strong>${esc(e.date)}</strong> · ` : ''}${esc(e.host || '')}${e.who ? ` · ${esc(e.who)}` : ''}${sourcesHtml(e.sources)}</li>`).join('')}</ul></div>` : ''}
-      <div class="btn-row"><a class="btn btn-primary" href="#/match">${T('See how you match in this race →', 'Vea su coincidencia en esta contienda →')}</a></div>
+      ${r.kind === 'judicial' ? '' : `<div class="btn-row"><a class="btn btn-primary" href="#/match">${T('See how you match in this race →', 'Vea su coincidencia en esta contienda →')}</a></div>`}
       <section class="section"><div class="section-head"><h2>${T('Candidates', 'Candidatos')}</h2><small>${reportLink(r.title)}</small></div>${cands.some(c => /write/i.test(c.party || '')) ? `<p class="notice"><strong>${T('One candidate in this race is a write-in.', 'Un candidato en esta contienda es por escrito (write-in).')}</strong> ${T('Florida does not print a qualified write-in candidate\'s name on the ballot. To vote for one you must write the name on the write-in line for this race; a blank or misspelled line may not be counted.', 'Florida no imprime en la boleta el nombre de un candidato calificado por escrito. Para votar por uno debe escribir el nombre en la línea de write-in de esta contienda; una línea en blanco o mal escrita puede no contarse.')}</p>` : ''}${cands.some(c => c.withdrawn) ? `<p class="notice notice-warn">${T('Candidates marked "Withdrew", "Defeated in the primary" or "Did not qualify" are not running in November, according to the Florida Division of Elections candidate list. A name may still be printed on the ballot if the withdrawal came late; such votes are not counted. They are excluded from match results.', 'Los candidatos marcados como "Se retiró", "Derrotado en la primaria" o "No calificó" no compiten en noviembre, según la lista de candidatos de la División de Elecciones de Florida. Un nombre puede seguir impreso en la boleta si el retiro fue tardío; esos votos no se cuentan. Se excluyen de los resultados de coincidencia.')}</p>` : ''}<div class="stack">${cands.map(c => candidateCard(c)).join('')}</div></section>
+      ${r.kind === 'judicial' || r.positions_note ? `<div class="card"><h3 style="margin:0 0 6px">${T('Why there are no issue positions here', 'Por qué no hay posiciones sobre temas aquí')}</h3><p style="margin:0">${esc(r.positions_note || '')}</p></div>` : `
       <section class="section">
         <div class="section-head"><h2>${T('Side-by-side on the major issues', 'Comparación en los temas principales')}</h2></div>
         ${heatStrip(r, cands, issues)}
@@ -482,6 +484,7 @@
         </table></div>
       </section>
       <section class="section"><div class="section-head"><h2>${T('Where they sit on the map', 'Dónde se ubican en el mapa')}</h2></div><p class="muted">${T('Each candidate is placed by the average of their documented stances. It is a summary of the table above, not an extra judgment.', 'Cada candidato se ubica según el promedio de sus posiciones documentadas. Es un resumen de la tabla anterior, no un juicio adicional.')}</p><div class="card">${landscapeMap(cands)}</div></section>
+      `}
       <section class="section"><h2>${T('Other issues the candidates have raised', 'Otros temas que los candidatos han planteado')}</h2>
         <p class="muted">${T('Priorities each candidate has brought up on their own, beyond the major-issue list above.', 'Prioridades que cada candidato ha planteado por su cuenta, más allá de la lista de temas principales.')}</p>
         <div class="grid grid-2">${cands.map(c => `<div class="card"><h3><a href="#/candidate/${esc(c.id)}">${esc(c.name)}</a></h3>${otherIssuesHtml(c, true)}</div>`).join('')}</div>
@@ -599,7 +602,7 @@
       </div>`;
   }
   let lbPrevOrder = {};
-  function lbRaces() { const list = ballotRaces(loadProfile()).filter(r => (r.candidates || []).some(c => !c.withdrawn)); return list.length ? list : RACES.slice(0, 1); }
+  function lbRaces() { const list = ballotRaces(loadProfile()).filter(r => scorable(r) && (r.candidates || []).some(c => !c.withdrawn)); return list.length ? list : RACES.slice(0, 1); }
   function leaderboardRows(raceId, answers) {
     const r = RACE_BY_ID[raceId];
     const scored = (r.candidates || []).filter(c => !c.withdrawn).map(c => Object.assign({ cand: c }, scoreCandidate(c, r, answers))).sort((a, b) => (b.pct == null || b.used < 3 ? -1 : b.pct) - (a.pct == null || a.used < 3 ? -1 : a.pct));
@@ -648,7 +651,7 @@
     const answered = Object.values(answers).filter(a => a && a.value != null).length;
     if (!answered) return `<h1>${T('Your matches', 'Sus coincidencias')}</h1><p class="notice">${T('You have not answered any statements yet.', 'Todavía no ha respondido ninguna afirmación.')}</p><div class="btn-row"><a class="btn btn-primary" href="#/match">${T('Start the questionnaire →', 'Comenzar el cuestionario →')}</a></div>`;
     const prof = loadProfile();
-    const scope = ballotRaces(prof).filter(r => (r.candidates || []).some(c => !c.withdrawn));
+    const scope = ballotRaces(prof).filter(r => scorable(r) && (r.candidates || []).some(c => !c.withdrawn));
     const sections = scope.map(r => {
       const scored = (r.candidates || []).filter(c => !c.withdrawn).map(c => Object.assign({ cand: c }, scoreCandidate(c, r, answers))).sort((a, b) => (b.pct == null ? -1 : b.pct) - (a.pct == null ? -1 : a.pct));
       const answeredHere = issuesForLevel(r.level).filter(i => answers[i.id] && answers[i.id].value != null).length;

@@ -65,7 +65,7 @@ def main():
                            'office_group': rf.get('office_group', 'State'), 'term': rf.get('term', ''), 'what_it_does': rf.get('what_it_does', ''),
                            'jurisdiction': rf['jurisdiction'], 'counties': rf.get('counties', []), 'coverage': rf.get('coverage', 'roster'),
                            'on_november_ballot': rf.get('on_november_ballot', True), 'decided_note': rf.get('decided_note'), 'kind': rf.get('kind', 'race'),
-                           'ballot_summary': rf.get('ballot_summary'), 'what_yes_means': rf.get('what_yes_means'), 'what_no_means': rf.get('what_no_means')})
+                           'positions_note': rf.get('positions_note'), 'ballot_summary': rf.get('ballot_summary'), 'what_yes_means': rf.get('what_yes_means'), 'what_no_means': rf.get('what_no_means')})
         known_ids.add(rid)
     # Sumter-era races keep their hand-written order (1..8) but sit inside the same groups
     for m in races_meta:
