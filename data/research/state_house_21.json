@@ -15,7 +15,7 @@
   "what_it_does": "Represents District 21 in the Florida House of Representatives; votes on state laws and the state budget.",
   "on_november_ballot": false,
   "decided_note": "Decided in the Aug. 18, 2026 universal primary: only Democrats qualified (five candidates), so the primary was open to all voters and the winner takes the seat. Central Florida Public Media reported Jacquelyn 'Jackie' Randall won; The Alligator reported she led by 161 votes as of Aug. 19 (a margin that may have triggered a recount). Incumbent Democratic Rep. Yvonne Hayes Hinson is retiring.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Central Florida Public Media's Aug. 18 live results: 'House District 21: Democrat Jacquelyn \"Jackie\" Randall won outright in a universal primary' (https://www.cfpublic.org/live-updates/live-updates-primary-election-day-in-central-florida); WCJB and the Alligator confirm five Democrats and no Republicans ran (https://www.alligator.org/article/2026/08/alachua-county-ballot-november). Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,7 +26,7 @@
       "photo_url": "assets/photos/jacquelyn_jackie_randall.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://jackieforflorida.com/",
-      "occupation": null,
+      "occupation": "Respiratory therapist and college professor; former mayor of Hawthorne",
       "residence": "Hawthorne, Alachua County",
       "background": "Former mayor of Hawthorne. Led/won the five-way Aug. 18, 2026 Democratic universal primary for the open HD 21 seat (southeast Alachua County and northwest Marion County), which decided the seat because no Republican qualified.",
       "primary_result": "Won Aug. 18, 2026 universal Democratic primary; Alligator reported a 161-vote lead as of Aug. 19",
@@ -46,11 +46,17 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Randall's first listed campaign message in her 2026 Ballotpedia Candidate Connection survey is lowering costs, and she says she will work to rein in rising insurance premiums and utility costs and oppose policies she describes as padding corporate profits at the expense of working families.",
+          "quote": "Jacquelyn will fight to rein in rising insurance premiums, utility costs, and everyday expenses, and oppose policies that pad corporate profits at the expense of working families.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Jacquelyn Randall (2026)",
+              "url": "https://ballotpedia.org/Jacquelyn_Randall",
+              "date": "2026"
+            }
+          ]
         },
         "housing": {
           "stance": null,
@@ -81,11 +87,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Randall says expanding health care access is one of her three key campaign messages, including affordable coverage, community-based care models and more access in underserved and rural areas.",
+          "quote": "Jacquelyn will expand access to affordable healthcare, support community-based care models, and expand healthcare access in underserved and rural areas.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Jacquelyn Randall (2026)",
+              "url": "https://ballotpedia.org/Jacquelyn_Randall",
+              "date": "2026"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -102,11 +114,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Randall says she will seek state money for water, wastewater, transportation and broadband infrastructure in rural communities while protecting natural resources.",
+          "quote": "Jacquelyn will secure state resources for water, wastewater, transportation, and broadband infrastructure that strengthen rural communities while protecting natural resources.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Jacquelyn Randall (2026)",
+              "url": "https://ballotpedia.org/Jacquelyn_Randall",
+              "date": "2026"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -144,11 +162,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Randall says she will work to rein in rising utility costs along with insurance premiums and other everyday expenses. Her survey does not address renewable energy directly.",
+          "quote": "Jacquelyn will fight to rein in rising insurance premiums, utility costs, and everyday expenses",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Jacquelyn Randall (2026)",
+              "url": "https://ballotpedia.org/Jacquelyn_Randall",
+              "date": "2026"
+            }
+          ]
         },
         "trump": {
           "stance": null,

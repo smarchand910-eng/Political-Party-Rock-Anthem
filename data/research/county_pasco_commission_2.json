@@ -9,7 +9,7 @@
     "id": "Pasco"
   },
   "what_it_does": "County commissioners set the county budget and property-tax (millage) rate, adopt land-use and zoning rules, and oversee county services such as roads, parks, libraries, fire/EMS and utilities.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Two-way general election per Florida Politics and Wesley Chapel Community (https://wesleychapelcommunity.com/posts/wesley-chapel-s-vazquez-officially-set-to-challenge-weightman-for-pasco-commission-seat); Pasco SOE candidate list at https://www.pascovotes.gov/candidates/ and Notice of General Election PDF not directly readable.",
   "candidates": [
     {
@@ -19,25 +19,37 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://sethforpasco.com/",
+      "occupation": "Pasco County commissioner, District 2; previously a regional executive for Republic Services",
       "residence": null,
-      "background": "Incumbent District 2 commissioner.",
+      "background": "Weightman is a Pasco County native who took office as District 2 commissioner in November 2022, succeeding Mike Moore, after working as a regional executive for a waste services company. He sits on the Southwest Florida Water Management District governing board. He faces Democrat Stephanie Vazquez on November 3, 2026, in a district covering some of the county's fastest-growing area.",
       "primary_result": null,
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His campaign site says he reduced property tax rates four times while investing more than $123 million in roads and sidewalks.",
+          "quote": "Reduced Property Tax Rates 4 Times",
+          "sources": [
+            {
+              "title": "Conservative Seth Weightman for Pasco County Commission District 2",
+              "url": "https://sethforpasco.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His campaign site lists adding an additional $50,000 homestead property tax exemption to help seniors stay in their homes among his accomplishments, along with reducing property tax rates four times.",
+          "quote": "Adding an Additional $50,000 Homestead Property Tax Exemption to Help Our Seniors Stay in Their Homes",
+          "sources": [
+            {
+              "title": "Conservative Seth Weightman for Pasco County Commission District 2",
+              "url": "https://sethforpasco.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -103,11 +115,22 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "record",
+          "summary": "In August 2024 Weightman cast the lone vote against a 4-1 increase in Pasco school impact fees, saying total impact fees on a new home were becoming very heavy and would erode affordability, and suggesting a workshop on reducing fees. His campaign site separately says he has required development impact fees and preserved thousands of acres.",
+          "quote": "our impact fees are starting to be very heavy and are going up and going up and going up",
+          "sources": [
+            {
+              "title": "School impact fees to increase in Pasco County",
+              "url": "https://lakerlutznews.com/school-impact-fees-to-increase-in-pasco-county/",
+              "date": "2024-09-05"
+            },
+            {
+              "title": "Conservative Seth Weightman for Pasco County Commission District 2",
+              "url": "https://sethforpasco.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -174,7 +197,28 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted against the August 21, 2024 ordinance raising Pasco County school impact fees; the board approved it 4-1.",
+          "sources": [
+            {
+              "title": "School impact fees to increase in Pasco County",
+              "url": "https://lakerlutznews.com/school-impact-fees-to-increase-in-pasco-county/",
+              "date": "2024-09-05"
+            }
+          ]
+        },
+        {
+          "item": "Campaign site lists preserving thousands of acres of land, investing over $123 million in road and sidewalk work, and serving on the Southwest Florida Water Management District board.",
+          "sources": [
+            {
+              "title": "Conservative Seth Weightman for Pasco County Commission District 2",
+              "url": "https://sethforpasco.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "sources": [
         {
@@ -191,17 +235,23 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://stephanievazquez.com/",
-      "occupation": null,
+      "occupation": "Marketing manager, Northeastern University; U.S. Air Force veteran",
       "residence": "Wesley Chapel, Pasco County",
-      "background": "Wesley Chapel resident and Air Force veteran.",
+      "background": "Vazquez is a U.S. Air Force veteran who works as a remote marketing manager for Northeastern University and has been pursuing a master's degree in public administration. She has served as an advisory board member for Post 9/11 Veterans Corp., as vice president of the U.S. Institute Against Human Trafficking, and as public information officer for the City of Zephyrhills. She is the Democratic nominee against incumbent Seth Weightman in District 2.",
       "primary_result": null,
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "She says she would ask tough questions before approving new spending and fight for a county government that tightens its belt before asking taxpayers to do more, while also saying core services such as public safety and emergency response should be protected. She does not state a position on cutting property tax rates.",
+          "quote": "Fight for a county government that tightens its belt before asking taxpayers to do more",
+          "sources": [
+            {
+              "title": "Stephanie Vazquez for Pasco County Commission - Issues",
+              "url": "https://stephanievazquez.com/issues",
+              "date": "2026-09"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -218,11 +268,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She says she would push for new development to include housing options for working families and seniors rather than only high-end builds, and work to keep longtime residents from being priced out as Pasco grows.",
+          "quote": "Advocate for new development to include housing options for working families and seniors, not just high-end builds",
+          "sources": [
+            {
+              "title": "Stephanie Vazquez for Pasco County Commission - Issues",
+              "url": "https://stephanievazquez.com/issues",
+              "date": "2026-09"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -267,18 +323,35 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She would prioritize modern stormwater systems and drainage improvements in high-risk areas and protect natural systems such as wetlands and open land that absorb water and reduce flooding.",
+          "quote": "Protect natural systems like wetlands and open land that help absorb water and reduce flooding",
+          "sources": [
+            {
+              "title": "Stephanie Vazquez for Pasco County Commission - Issues",
+              "url": "https://stephanievazquez.com/issues",
+              "date": "2026-09"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She says she would tie rezoning and development approvals to real road capacity, school availability and infrastructure readiness, and would not support major developments unless infrastructure is funded first. She says she is not anti-development but wants developers to pay their fair share for road improvements tied to their projects.",
+          "quote": "Tie rezoning and development approvals to real road capacity, school availability, and infrastructure readiness",
+          "sources": [
+            {
+              "title": "Stephanie Vazquez for Pasco County Commission - Issues",
+              "url": "https://stephanievazquez.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "Stephanie Vazquez To Challenge Seth Weightman For Dist. 2 Commission Seat",
+              "url": "https://neighborhoodnewsonline.net/stephanie-vazquez-tochallenge-seth-weightman-for-dist-2-commission-seat/",
+              "date": "2025-05-12"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,

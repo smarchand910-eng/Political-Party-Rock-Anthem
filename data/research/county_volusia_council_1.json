@@ -9,7 +9,7 @@
     "id": "Volusia"
   },
   "what_it_does": "Volusia County Council members set the county budget and millage, adopt land-use rules and oversee county services; the council is nonpartisan.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Runoff per WNDB News Daytona Beach.",
   "candidates": [
     {
@@ -19,18 +19,24 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://dempsey4volusia.com/",
+      "occupation": "Attorney in DeLand (criminal defense, family law, civil litigation); former Volusia County assistant state attorney",
       "residence": null,
       "background": "Incumbent District 1 council member; advanced to runoff (Melissa Thorne eliminated).",
       "primary_result": "Second in Aug 18 primary; trailed Anderson by over 3,000 votes",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His campaign site says the County Council should keep looking for ways to reduce both spending and taxes.",
+          "quote": "The County Council must continue to look for ways to cut spending along with taxes",
+          "sources": [
+            {
+              "title": "Reelect Don Dempsey for County Council",
+              "url": "https://dempsey4volusia.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -96,18 +102,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His campaign site says he fought to protect water, environment, homes and health from large data centers and advocated for a permanent ban on large-scale data centers in the county, and that he opposes deep-well injection of reclaimed water.",
+          "quote": "I will fight against injecting our Reclaimed Water deep into the ground potentially polluting our Aquifer",
+          "sources": [
+            {
+              "title": "Reelect Don Dempsey for County Council",
+              "url": "https://dempsey4volusia.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His campaign site lists a permanent ban on large-scale hyperscale data centers among his accomplishments and says the county must push back on state preemption of local authority.",
+          "quote": "Tallahassee is chipping away at our Home Rule Rights and we must fight back",
+          "sources": [
+            {
+              "title": "Reelect Don Dempsey for County Council",
+              "url": "https://dempsey4volusia.com/",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -194,10 +212,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://wendyforvolusia.com",
+      "occupation": "Environmental science educator, scientist and consultant; supervisor, Volusia Soil & Water Conservation District",
       "residence": null,
-      "background": "Challenger; led the District 1 primary.",
+      "background": "Anderson describes a 35-year career as a teacher, scientist, consultant and administrator in environmental systems and natural resources conservation. She led the August 18, 2026 District 1 primary with 47.6% of the vote, short of the majority needed to win outright, and advanced to a November 3 runoff against incumbent Don Dempsey. Her campaign centers on conservation land, flooding and redevelopment inside existing urban areas.",
       "primary_result": "First in Aug 18 primary with 47.58%",
       "positions": {
         "taxes": {
@@ -208,11 +226,17 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In the News 6 voter guide questionnaire she said she will vote no on the proposed constitutional amendment to sharply cut property taxes, saying it would shift the tax burden onto recent homebuyers, renters and small businesses while centralizing power with state government.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-council-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -222,11 +246,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She would promote redevelopment inside urban areas with a wider range of housing types, including tiny homes and multi-family structures, and supports incentive programs for first-time homebuyers purchasing older homes that need renovation, plus compact, walkable mixed-use communities.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-council-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -271,18 +301,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She names land-use change causing habitat loss and aquifer depletion as the county's biggest environmental problem, and says she would protect taxpayer-funded conservation lands and prioritize green space that absorbs rainwater. She would allow data centers only on degraded or already-paved sites, require them to recirculate wastewater and be self-sufficient for power.",
+          "quote": "Make Volusia First in Conservation",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-council-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She says she opposes sprawl into rural areas and would redevelop already-paved parcels rather than expand the county's development footprint, arguing the county should build upward rather than outward.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-council-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,

@@ -1160,7 +1160,7 @@
       "website": null,
       "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
       "residence": null,
-      "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Salomon Hernandez Sr. is a write-in candidate in Florida's 14th Congressional District. He came to the United States from San Luis Potosi, Mexico, and has lived and worked in Tampa for decades as a landscaper and security consultant. He says he is not a politician and ran at the urging of his grandchildren.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -1170,8 +1170,34 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In a television-station candidate questionnaire, Hernandez said his campaign is built on pushing for universal health care for Tampa residents, plus temporary coverage for tourists, citing models he says are used in other tourism economies.",
+          "quote": "Running on pure policy based decisions such as pushing for the city Tampa to provide universal healthcare to residents as well as temporary healthcare to tourists",
+          "sources": [
+            {
+              "title": "Meet the candidates: Questionnaire for US District 14 (ABC Action News/WFTS, undated; read 2026-09-21)",
+              "url": "https://www.tampabay28.com/news/election-2026/meet-the-candidates-questionnaire-for-us-district-14",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Monopolies and unions",
+          "summary": "Hernandez named corporate concentration as the most important issue in the race, saying a \"neo union busting mentality is existential,\" and says he would prioritize small businesses over large corporations to preserve the character of the Tampa Bay area.",
+          "sources": [
+            {
+              "title": "Meet the candidates: Questionnaire for US District 14 (ABC Action News/WFTS, undated; read 2026-09-21)",
+              "url": "https://www.tampabay28.com/news/election-2026/meet-the-candidates-questionnaire-for-us-district-14",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -1189,9 +1215,9 @@
       "photo_url": "assets/photos/brian_lambert.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.brianlambertforcongress.com/",
-      "occupation": null,
+      "occupation": "Retired U.S. Navy (20 years); aircraft mechanic, flight engineer and intelligence specialist",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Brian Lambert is the Libertarian candidate in Florida's 14th Congressional District. He served 20 years in the U.S. Navy as an aircraft mechanic, flight engineer and intelligence specialist, including duty at U.S. Central Command in Tampa, and retired in 2018. Since then he has coached Little League, studied culinary arts and is working toward an associate degree in firearms technology. He describes himself as a constitutional libertarian and a father of three.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -1201,8 +1227,52 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Lambert says Washington has a spending problem rather than a revenue problem and would back reduced spending, a balanced budget and letting people keep more of what they earn.",
+          "quote": "Lower taxes. Responsible spending. End government waste.",
+          "sources": [
+            {
+              "title": "Brian Lambert for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://www.brianlambertforcongress.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Ballotpedia Candidate Connection survey: Brian Lambert",
+              "url": "https://ballotpedia.org/Brian_Lambert",
+              "date": "2026-07-10"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lambert, a 20-year Navy veteran, says veterans' care should mean greater choice, less bureaucracy and real accountability, with the veteran put first. He frames the issue as reforming delivery of benefits rather than expanding programs.",
+          "quote": "greater choice, less bureaucracy, real accountability, and care that puts the veteran first",
+          "sources": [
+            {
+              "title": "Brian Lambert for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://www.brianlambertforcongress.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Constitutional limits on federal power",
+          "summary": "Lambert says every vote he casts would start with whether the measure is constitutional, and that he would work to limit federal power and return responsibilities to the states.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Brian Lambert",
+              "url": "https://ballotpedia.org/Brian_Lambert",
+              "date": "2026-07-10"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -1222,7 +1292,7 @@
       "website": "https://votevarian2026.com/",
       "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
       "residence": null,
-      "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Keith Varian is a write-in candidate in Florida's 14th Congressional District who works in the construction trades and has college coursework in criminal justice and economics. He says he is a political outsider running without party backing and that his priority is the cost of living for District 14 households.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -1232,8 +1302,76 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Varian says his priority is cutting costs and ending what he calls partisan waste in the federal budget, and during a 2026 fuel-price spike he called for suspending the gas tax and using state reserves for relief at the pump.",
+          "quote": "my priority is cutting costs, ending partisan waste, and restoring economic relief directly to District 14 households",
+          "sources": [
+            {
+              "title": "Meet the candidates: Questionnaire for US District 14 (ABC Action News/WFTS, undated; read 2026-09-21)",
+              "url": "https://www.tampabay28.com/news/election-2026/meet-the-candidates-questionnaire-for-us-district-14",
+              "date": "2026-09"
+            },
+            {
+              "title": "Vote Varian 2026 campaign website (undated; read 2026-09-21)",
+              "url": "https://votevarian2026.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "tariffs": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In a Ballotpedia candidate survey, Varian described tariffs as a driver of inflation that will add to household costs and the national debt.",
+          "quote": "inflation from tariffs will drown us in a sea of debt",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Keith Varian (completed 2025; read 2026-09-21)",
+              "url": "https://ballotpedia.org/Keith_Varian",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "social_security": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Varian says his goal is keeping Social Security solvent by cutting government waste and raising revenue rather than by reducing benefits for seniors.",
+          "quote": "ensuring Social Security remains solvent by identifying and reducing government waste while increasing revenue streams that do not involve cutting benefits for seniors",
+          "sources": [
+            {
+              "title": "Vote Varian 2026 campaign website (undated; read 2026-09-21)",
+              "url": "https://votevarian2026.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Housing costs",
+          "summary": "Varian says home affordability is the biggest issue facing Floridians and that owning a home in the state is getting harder each day, but he does not name specific federal housing policies.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Keith Varian (completed 2025; read 2026-09-21)",
+              "url": "https://ballotpedia.org/Keith_Varian",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Infrastructure",
+          "summary": "He says roads and power grids should be built to last for generations, arguing durable infrastructure prevents costly breakdowns and utility rate increases.",
+          "sources": [
+            {
+              "title": "Vote Varian 2026 campaign website (undated; read 2026-09-21)",
+              "url": "https://votevarian2026.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

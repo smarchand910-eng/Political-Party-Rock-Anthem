@@ -1,7 +1,7 @@
 {
   "race_id": "county_sarasota_school_board_1",
   "title": "Sarasota County School Board, District 1",
-  "level": "county",
+  "level": "school",
   "office_group": "County",
   "term": "4 years",
   "jurisdiction": {
@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/heidi_brandt.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://brandtforschoolboard.com",
-      "occupation": null,
+      "occupation": "Health and exercise physiology professional; school volunteer and former PTO president",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Brandt is the president of the parent-teacher council at Southside Elementary School and the parent of an elementary-school student in Sarasota County. She finished second in the August 2026 District 1 primary and advanced to the Nov. 3 runoff. She is endorsed by the Republican Party of Sarasota County.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,10 +38,149 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "education_choice": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Brandt says she supports the use of vouchers but calls Florida's system broken, favoring a sliding scale tied to family income rather than full scholarships regardless of income.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Three open seats could change the direction of Sarasota County Schools",
+              "url": "https://suncoastsearchlight.org/sarasota-county-school-board-race-election-2026/",
+              "date": "2026"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Brandt said she would not have voted for the school board's resolution penalizing student protesters, saying she asked a number of people about it and was told it was pointless, and raising concern that it would be applied unevenly.",
+          "quote": "no, it's pointless. So, no, I wouldn't have voted for that.",
+          "sources": [
+            {
+              "title": "Three open seats could change the direction of Sarasota County Schools",
+              "url": "https://suncoastsearchlight.org/sarasota-county-school-board-race-election-2026/",
+              "date": "2026"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Brandt said she is fiscally conservative and would treat every taxpayer dollar carefully, while also calling for investment in classrooms, teachers and school safety. She did not say cutting taxes should be a priority.",
+          "quote": "Every taxpayer dollar should be spent wisely, transparently, and with students at the center of every decision.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Brandt lists supporting and retaining great teachers among her priorities, and her campaign website lists \"Employ & Invest in High-Quality Teachers.\" She framed budgeting broadly around classrooms, teachers and safety and did not say teacher pay should come ahead of other district spending.",
+          "quote": "Our priority should be investing in classrooms, supporting great teachers, maintaining safe schools, and ensuring every budget decision reflects our commitment to student success",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Board resolution on immigration enforcement",
+          "summary": "Brandt said she opposed the board's resolution on federal immigration enforcement, saying it drew up a lot of fear and was not necessary.",
+          "sources": [
+            {
+              "title": "Three open seats could change the direction of Sarasota County Schools",
+              "url": "https://suncoastsearchlight.org/sarasota-county-school-board-race-election-2026/",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Keeping politics out of school board decisions",
+          "summary": "Brandt said the board should focus on student achievement, teacher retention, safe schools and responsible spending, and that political agendas should not drive decisions in classrooms or the boardroom.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Literacy and academic improvement",
+          "summary": "Brandt said Sarasota is an A-rated district with third-grade literacy rates near 70 percent but that nearly 30 percent of students still read below grade level, and she would focus on strengthening academics and expanding arts, STEM and career training.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Parent involvement",
+          "summary": "Brandt's campaign website lists \"Empower Parents\" first among her priorities, alongside school safety, workforce training and investing in high-quality teachers.",
+          "sources": [
+            {
+              "title": "Heidi Brandt campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026-06-25"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Florida Sen. Joe Gruters",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "Florida Rep. Fiona McFarland",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "Tom DeSane, Sarasota Charter Review Board",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "Republican Party of Sarasota County",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Heidi Brandt",
+              "url": "https://ballotpedia.org/Heidi_Brandt",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -57,9 +196,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://electjimmyglover.com",
-      "occupation": null,
+      "occupation": "Customer service professional, United Airlines",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Glover has more than 30 years with United Airlines and chairs the board of Star Lab, a small K-3 school in Sarasota. He is the father of four children educated in Sarasota County public schools and his wife is a former district teacher. He serves as vice chair of the City of Sarasota's Parks, Recreation and Environmental Protection Advisory Board, and led the August 2026 District 1 primary, advancing to the Nov. 3 runoff.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,7 +208,65 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "school_books": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Glover says he did not vote for book bans or culture wars and that his family's values were not represented by the current board's direction. He frames his campaign as returning the board's focus to students rather than politics.",
+          "quote": "I didn't vote for book bans or culture wars",
+          "sources": [
+            {
+              "title": "Jimmy Glover for Sarasota County School Board - campaign site",
+              "url": "https://electjimmyglover.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Glover's platform includes supporting teachers with competitive pay and respect for their expertise. He has not proposed a specific raise or named spending he would cut.",
+          "quote": "competitive pay and respect for their expertise",
+          "sources": [
+            {
+              "title": "Jimmy Glover for Sarasota County School Board - campaign site",
+              "url": "https://electjimmyglover.com",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Glover lists mental health together with school safety as a campaign pillar, and his approach emphasizes mentorship and college and career readiness rather than tougher discipline.",
+          "quote": "mental health and school safety",
+          "sources": [
+            {
+              "title": "Jimmy Glover for Sarasota County School Board - campaign site",
+              "url": "https://electjimmyglover.com",
+              "date": "2026-09"
+            },
+            {
+              "title": "Three open seats could change the direction of Sarasota County Schools",
+              "url": "https://suncoastsearchlight.org/sarasota-county-school-board-race-election-2026/",
+              "date": "2026"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Glover said vouchers can coexist with public education, but objected to access that is not restricted by income, criticizing families who already had their children in private school and now use vouchers as a subsidy.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Three open seats could change the direction of Sarasota County Schools",
+              "url": "https://suncoastsearchlight.org/sarasota-county-school-board-race-election-2026/",
+              "date": "2026"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

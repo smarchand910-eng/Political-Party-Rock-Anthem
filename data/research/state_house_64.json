@@ -38,7 +38,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "trump": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In his 2026 Ballotpedia Candidate Connection survey, Weldon said he supports the America First agenda championed by Donald Trump and described it as a governing principle rather than a slogan.",
+          "quote": "Dan supports the America First agenda championed by Donald Trump—securing the border, protecting American jobs, standing up to China, and putting American workers before global interests.",
+          "sources": [
+            {
+              "title": "Dan Weldon - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Dan_Weldon",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Weldon's survey lists securing the border as part of the America First agenda he supports. He did not address large-scale deportation or state-level enforcement measures.",
+          "quote": "securing the border, protecting American jobs, standing up to China, and putting American workers before global interests",
+          "sources": [
+            {
+              "title": "Dan Weldon - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Dan_Weldon",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Weldon called affordability, including housing costs, the clearest sign that government has lost touch, and said buying a home now requires jumping through hoops created by bad policy. He framed the remedy as clearing the path for opportunity and standing up to special interests rather than subsidies, zoning changes or rent measures.",
+          "quote": "Buying a home, starting a family, and building a stable life now require jumping through hoops created by bad policy and political complacency.",
+          "sources": [
+            {
+              "title": "Dan Weldon - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Dan_Weldon",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [
         {
           "title": "Cost of living",
@@ -47,6 +87,44 @@
             {
               "title": "Dan Weldon for Florida House (campaign website)",
               "url": "https://tampadan.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Affordability",
+          "summary": "Weldon's campaign site says housing, grocery, insurance and energy costs are 'squeezing families and shutting young people out of the life they were promised,' and that fixing it means standing up to special interests that profit from higher prices. It does not name specific bills or policies.",
+          "sources": [
+            {
+              "title": "Dan Weldon for Florida House - campaign website",
+              "url": "https://tampadan.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Independence from career politics",
+          "summary": "His site's other three issue planks are about political independence rather than policy: he says leadership means 'telling the truth, challenging the system, and refusing to trade convictions for a seat at the table,' and that government should serve people who 'work, build, and raise families here.'",
+          "sources": [
+            {
+              "title": "Dan Weldon for Florida House - campaign website",
+              "url": "https://tampadan.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Did not answer candidate questionnaires",
+          "summary": "The VOTE411 guide for State Representative 64 records 'Candidate has not yet responded' for Weldon on all seven questions, and his iVoterGuide profile shows 'Did not answer' for every item on that survey.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 64 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690951",
+              "date": "2026-09"
+            },
+            {
+              "title": "iVoterGuide profile: FL State Rep., Dist. 64 candidate Dan Weldon",
+              "url": "https://ivoterguide.com/candidate/92864/race/28604/election/1431",
               "date": "2026-09"
             }
           ]
@@ -85,26 +163,96 @@
         "insurance": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "He proposes insurance market reform with consumer protection, tying any public support to rate relief and capping excessive increases.",
-          "quote": "Tie public support to real rate relief, cap excessive increases, and ensure savings reach homeowners and drivers",
+          "summary": "Salazar calls homeowners insurance the top issue he hears at the door and says the Florida Hurricane Catastrophe Fund should protect policyholders rather than insurers, that Citizens Property Insurance should be kept as a strong public option, and that rate increases should be capped and justified. His policy page calls for tying public support to rate relief and setting affordability benchmarks for insurers that take public money.",
+          "quote": "We should keep Citizens Property Insurance as a strong public option while increasing competition from financially stable, nationally backed insurers.",
           "sources": [
             {
-              "title": "Luis Salazar for Florida House - Policies",
+              "title": "VOTE411 Voter Guide: State Representative 64 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690951",
+              "date": "2026-09"
+            },
+            {
+              "title": "Luis Salazar for Florida State House - Campaign Policies and Priorities",
               "url": "https://www.voteluis.com/luis-policies/",
               "date": "2026-09"
             }
           ]
         },
         "healthcare": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "He says he wants to make sure everyone has access to quality health care; he does not specify Medicaid expansion.",
-          "quote": "",
+          "summary": "He told the League of Women Voters that Florida should expand Medicaid, which he said would bring federal money back to the state and cover hundreds of thousands of working families, and also invest in community health centers and mental-health services.",
+          "quote": "That starts with expanding Medicaid, which would bring billions of federal dollars back to Florida",
           "sources": [
             {
-              "title": "Luis Salazar wins Democratic primary for Florida House District 64 (Watermark Out News)",
-              "url": "https://watermarkoutnews.com/2026/08/19/luis-salazar-wins-democratic-primary-for-florida-house-district-64/",
-              "date": "2026-08-19"
+              "title": "VOTE411 Voter Guide: State Representative 64 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690951",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Asked when he would support abortion access, Salazar said the decision belongs to a woman and her doctor and that he trusts women and their families to decide without government interference.",
+          "quote": "I trust women and their families to make the decisions that are best for their health and their future, free from government interference.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 64 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690951",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He said his campaign has worked with faith-based groups using the Live Local Act to build affordable housing, and that in the Legislature he would increase funding for nonprofits and community partners creating affordable housing.",
+          "quote": "I would fight to increase funding for nonprofits, faith-based organizations, and community partners that are creating stable, affordable housing",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 64 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690951",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Asked about property insurance versus property taxes, Salazar said eliminating property taxes would not solve the affordability crisis and that voters should be told that those taxes fund schools, public safety and infrastructure.",
+          "quote": "While eliminating property taxes may sound appealing because families are looking for relief, it does not solve the underlying affordability crisis.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 64 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690951",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He said he would work with community organizations to help eligible voters obtain documents and identification, and would push to roll back what he called voter suppression laws.",
+          "quote": "I will fight for policies that roll back voter suppression laws and protect every eligible American's right to vote.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 64 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690951",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Salazar named public education his second priority and said Florida should strengthen public schools by 'fixing the voucher system,' paying teachers a fair salary and supporting teachers' unions. He did not say vouchers should be ended.",
+          "quote": "We need to strengthen our public schools by fixing the voucher system, paying teachers a fair salary, and supporting teachers' unions.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 64 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690951",
+              "date": "2026-09"
             }
           ]
         }
@@ -120,10 +268,102 @@
               "date": "2026-08-19"
             }
           ]
+        },
+        {
+          "title": "State preemption of local government",
+          "summary": "Salazar said Florida has increased preemption of local authority and that local leaders should keep flexibility on housing, environmental protection, transportation and workplace standards.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 64 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690951",
+              "date": "2026-09"
+            }
+          ]
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Florida Education Association",
+          "sources": [
+            {
+              "title": "Luis Salazar for Florida State House - Endorsements",
+              "url": "https://www.voteluis.com/endorsements/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Equality Florida",
+          "sources": [
+            {
+              "title": "Luis Salazar for Florida State House - Endorsements",
+              "url": "https://www.voteluis.com/endorsements/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "West Central Florida Labor Council (AFL-CIO)",
+          "sources": [
+            {
+              "title": "Luis Salazar for Florida State House - Endorsements",
+              "url": "https://www.voteluis.com/endorsements/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "International Brotherhood of Electrical Workers Local 915",
+          "sources": [
+            {
+              "title": "Luis Salazar for Florida State House - Endorsements",
+              "url": "https://www.voteluis.com/endorsements/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Ironworkers Local 397",
+          "sources": [
+            {
+              "title": "Luis Salazar for Florida State House - Endorsements",
+              "url": "https://www.voteluis.com/endorsements/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Sen. Carlos Guillermo Smith",
+          "sources": [
+            {
+              "title": "Luis Salazar for Florida State House - Endorsements",
+              "url": "https://www.voteluis.com/endorsements/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Florida Jewish Democrats (Hillsborough County)",
+          "sources": [
+            {
+              "title": "Luis Salazar for Florida State House - Endorsements",
+              "url": "https://www.voteluis.com/endorsements/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Florida Realtors PAC",
+          "sources": [
+            {
+              "title": "Florida Realtors PAC 2026 Endorsed Candidates",
+              "url": "https://www.floridarealtors.org/advocacy/pac/endorsements",
+              "date": "2026-08-21"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

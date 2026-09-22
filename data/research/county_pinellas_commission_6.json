@@ -22,22 +22,34 @@
       "website": "http://www.davidglennjr.com",
       "occupation": "Architect",
       "residence": null,
-      "background": "Architect; qualified Democratic candidate for County Commission District 6.",
+      "background": "David Glenn Jr. is a Democrat running for the Pinellas County Commission District 6. In his Ballotpedia Candidate Connection survey he describes himself as a local architect with more than 25 years of experience and says he is not a career politician. Ballotpedia lists bachelor's degrees from Florida A&M University and a graduate degree from the University of South Florida. His campaign is built around land development, county services and affordable housing.",
       "primary_result": null,
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In his Ballotpedia survey Glenn called for re-investing in county services, including public transit, parks and recreation, libraries, building and zoning staff and animal rescue groups. He said any reduction in property tax or millage rates should come from a larger tax base rather than from cutting essential services.",
+          "quote": "As the property tax base increases with the added density, we may even be able to lower the average citizen’s property tax/millage rates without reducing essential County services.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - David Glenn",
+              "url": "https://ballotpedia.org/David_Glenn",
+              "date": "2026"
+            }
+          ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Glenn said adding density would grow the county's property tax base and might allow lower average millage rates, but he tied that to keeping essential county services intact rather than cutting them. He did not call for eliminating or sharply reducing homestead property taxes.",
+          "quote": "As the property tax base increases with the added density, we may even be able to lower the average citizen’s property tax/millage rates without reducing essential County services.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - David Glenn",
+              "url": "https://ballotpedia.org/David_Glenn",
+              "date": "2026"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -47,11 +59,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Glenn made affordable housing one of three campaign messages. He proposed \"Villages Housing\" offering affordable or free units for new teachers, first responders and veterans located near their workplaces, and said homeless residents and aging veterans have too few housing programs.",
+          "quote": "I have a plan to create “Villages Housing” that would offer affordable or free housing to those new teachers, first responders and veterans specially located near their workplaces or services.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - David Glenn",
+              "url": "https://ballotpedia.org/David_Glenn",
+              "date": "2026"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -105,13 +123,13 @@
         "growth": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "Would raise revenue without raising taxes through 'vertical land development' and more tourism, reinvesting the proceeds in transit, parks, libraries and housing.",
-          "quote": null,
+          "summary": "Glenn said Pinellas is running out of land so development will have to go up rather than out. He proposed high-density overlay districts in busy areas outside flood and evacuation zones, and said building, planning and zoning departments should be fully staffed and streamlined so new development is not delayed by red tape.",
+          "quote": "To build a better Pinellas, we’re going to need specific ‘High-Density, Overlay Districts’ in our busiest areas that are not in flood or evacuation zones.",
           "sources": [
             {
-              "title": "Meet the candidates: Questionnaire for Pinellas County Board of County Commissioners D-6 - Tampa Bay 28",
-              "url": "https://www.tampabay28.com/news/local-news/meet-the-candidates-questionnaire-for-pinellas-county-board-of-county-commissioners-d-6",
-              "date": "2026-09"
+              "title": "Ballotpedia Candidate Connection survey - David Glenn",
+              "url": "https://ballotpedia.org/David_Glenn",
+              "date": "2026"
             }
           ]
         },
@@ -172,16 +190,56 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Glenn said veterans in Pinellas lack affordable housing options and that the aging veteran population needs senior housing. He included veterans among those who would receive affordable or free units under his proposed housing plan.",
+          "quote": "We also can’t forget our veterans who are lacking affordable house options and our aging veterans’ population that are in need of senior housing options.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - David Glenn",
+              "url": "https://ballotpedia.org/David_Glenn",
+              "date": "2026"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "County parks, libraries and transit funding",
+          "summary": "Glenn said county services have had their budgets cut over several administrations and called for more funding for the Pinellas Suncoast Transit Authority, county parks and recreation, and longer library hours including evenings and Sundays.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - David Glenn",
+              "url": "https://ballotpedia.org/David_Glenn",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "title": "Nuisance ordinance for problem properties",
+          "summary": "Glenn said he would create a county \"Nuisance Ordinance\" to help eliminate problem properties.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - David Glenn",
+              "url": "https://ballotpedia.org/David_Glenn",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Brandt Robinson (candidate for Florida's 13th Congressional District)",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - David Glenn",
+              "url": "https://ballotpedia.org/David_Glenn",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Meet the 2026 Candidates | Indivisible North Pinellas",
@@ -232,18 +290,67 @@
         "environment": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Committed to advancing coastal-resiliency investments.",
-          "quote": null,
+          "summary": "Peters' website says the county must balance population growth with preserving natural green space, cites her support for conservation projects, her push for stricter reporting on raw sewage discharges, and says she sponsored fracking-ban legislation in the Florida House and has advocated banning offshore drilling.",
+          "quote": "As Pinellas County continues to grow in population, we must balance the needs of our community with the preservation of its natural green space.",
           "sources": [
             {
-              "title": "Meet the candidates: Questionnaire for Pinellas County Board of County Commissioners D-6 - Tampa Bay 28",
-              "url": "https://www.tampabay28.com/news/local-news/meet-the-candidates-questionnaire-for-pinellas-county-board-of-county-commissioners-d-6",
-              "date": "2026-09"
+              "title": "Kathleen Peters campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kathleen_Peters",
+              "date": "2026-07-17"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Peters' campaign website, quoted on Ballotpedia, says she believes in keeping taxes low while performing the core functions of government. It says she was the only Pinellas County commissioner to oppose raising taxes in 2021 and that she opposes a proposed increase in the county gas tax.",
+          "quote": "Commissioner Peters believes in keeping taxes low while performing the core functions of government.",
+          "sources": [
+            {
+              "title": "Kathleen Peters campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kathleen_Peters",
+              "date": "2026-07-17"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Peters' website says public safety is the core function of government at all levels and that she strongly supports providing law enforcement officers, firefighters and EMS professionals with the resources they need.",
+          "quote": "Public safety is the core function of government at all levels, and must be at the forefront of every decision made by elected leaders.",
+          "sources": [
+            {
+              "title": "Kathleen Peters campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kathleen_Peters",
+              "date": "2026-07-17"
             }
           ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Behavioral health and the opioid crisis",
+          "summary": "Peters' website lists the mental health, addiction and opioid crises as a top issue and says she works with community partners to streamline access to treatment and expand prevention and community education.",
+          "sources": [
+            {
+              "title": "Kathleen Peters campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kathleen_Peters",
+              "date": "2026-07-17"
+            }
+          ]
+        },
+        {
+          "title": "Water and wastewater infrastructure",
+          "summary": "Peters' website says she has advocated upgrading the county's wastewater and stormwater treatment facilities and that as Pinellas County's representative on the Tampa Bay Water Board she works on protecting water sources and treatment oversight.",
+          "sources": [
+            {
+              "title": "Kathleen Peters campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kathleen_Peters",
+              "date": "2026-07-17"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

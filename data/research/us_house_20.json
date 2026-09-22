@@ -663,11 +663,17 @@
           ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In his 2026 Ballotpedia Candidate Connection survey, Andersen, an insurance broker, said he would fight for market-based solutions to bring down insurance premiums, housing costs and the overall cost of living, rather than for government programs.",
+          "quote": "As an insurance professional who lives the property insurance crisis every day, I will fight for market-based solutions that bring down premiums, housing costs, and the overall cost of living.",
+          "sources": [
+            {
+              "title": "Brent Andersen - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Brent_Andersen",
+              "date": "2026-09"
+            }
+          ]
         },
         "immigration": {
           "stance": 1,
@@ -695,11 +701,17 @@
           "sources": []
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Andersen's survey lists defending the Second Amendment among the constitutional principles he would protect in Congress, along with limited government, secure borders and parental rights. He did not address specific gun laws such as background checks or purchase age.",
+          "quote": "I will defend limited government, the Second Amendment, secure borders, parental rights, and the American Dream for the next generation.",
+          "sources": [
+            {
+              "title": "Brent Andersen - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Brent_Andersen",
+              "date": "2026-09"
+            }
+          ]
         },
         "healthcare": {
           "stance": null,

@@ -1,7 +1,7 @@
 {
   "race_id": "county_pasco_school_board_1",
   "title": "Pasco County School Board, District 1",
-  "level": "county",
+  "level": "school",
   "office_group": "County",
   "term": "4 years",
   "jurisdiction": {
@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://votecollura.com/",
-      "occupation": null,
+      "occupation": "Business consultant and behavioral scientist",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Collura is a Pasco County business consultant and behavioral scientist educated at the University of South Florida, and a former teacher. He was appointed by Gov. Ron DeSantis to the Pasco-Hernando State College district board of trustees. He is a candidate for the District 1 seat on the Nov. 3, 2026 ballot.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,10 +38,63 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Collura said he intends to prioritize offering competitive teacher pay packages, along with mentorship for teachers. He has not named spending he would cut to pay for it.",
+          "quote": "competitive teacher pay packages",
+          "sources": [
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Collura's stated school-safety approach is to use threat-management technology and to curb excessive personal-device use by students. He did not frame safety as a choice between police and discipline on one side and counselors and mental-health staff on the other.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            },
+            {
+              "title": "Dr. Gino Collura for Pasco County School Board District 1 - campaign site",
+              "url": "https://votecollura.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Pasco Schools Superintendent John Legg",
+          "sources": [
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "by": "Pasco Schools Superintendent John Legg",
+          "sources": [
+            {
+              "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
+              "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
+              "date": "2026-07-27"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -57,9 +110,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://kimberlycoward.com/",
-      "occupation": null,
+      "occupation": "Attorney; former school guidance counselor",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Coward is an attorney who previously worked as a guidance counselor in Dade City and served as a captain in the U.S. Air Force Judge Advocate General's Corps. She holds a doctorate in education and a law degree from the University of Florida. She is a candidate for the District 1 seat on the Nov. 3, 2026 ballot.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,8 +122,69 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Coward's website says supporting students requires investing in teachers, counselors, bus drivers, paraprofessionals, cafeteria workers and support staff through competitive pay, improved retention and better working conditions. She does not say pay should come ahead of other district spending.",
+          "quote": "Supporting our students requires investing in the people who care for them through competitive pay, improved retention, professional respect, and positive working conditions.",
+          "sources": [
+            {
+              "title": "Kimberly Coward campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kimberly_Coward",
+              "date": "2026-07-17"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Coward's campaign website, quoted on Ballotpedia, says true school safety requires addressing students' emotional, mental and social well-being alongside secure facilities and safety protocols. A former guidance counselor, she calls for improving the student-to-counselor ratio as youth anxiety, depression and suicide attempts rise.",
+          "quote": "In addition to maintaining secure facilities and strong safety protocols, we must also address the emotional, mental, and social well-being of our students.",
+          "sources": [
+            {
+              "title": "Kimberly Coward campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kimberly_Coward",
+              "date": "2026-07-17"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Safe and supportive schools",
+          "summary": "Coward's campaign site lists 'Safe & Supportive Schools' as a priority, described as ensuring every student learns in a safe, respectful and supportive environment. She has not detailed specific safety or discipline proposals.",
+          "sources": [
+            {
+              "title": "Kimberly Coward for Pasco County School Board District 1 - campaign site",
+              "url": "https://kimberlycoward.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Safe and supportive schools",
+          "summary": "Coward's campaign site lists 'Safe & Supportive Schools' as a priority, described as ensuring every student learns in a safe, respectful and supportive environment. She has not detailed specific safety or discipline proposals.",
+          "sources": [
+            {
+              "title": "Kimberly Coward for Pasco County School Board District 1 - campaign site",
+              "url": "https://kimberlycoward.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Equitable access and academic achievement",
+          "summary": "Coward's website says educational inequities compounded by the COVID-19 pandemic left underserved children behind, and that she is committed to improving academic achievement, supporting student mental health, sustaining enrollment and ensuring equitable access to schools, programs and transportation.",
+          "sources": [
+            {
+              "title": "Kimberly Coward campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Kimberly_Coward",
+              "date": "2026-07-17"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

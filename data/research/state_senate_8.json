@@ -56,11 +56,22 @@
       ],
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His campaign site says he supports 'conservative, lean, and responsive government' and 'Leaner, affordable, and more responsive government.' In the VOTE411 questionnaire he said that as a County Council member he scrutinizes spending to keep property taxes as low as practical while maintaining essential services.",
+          "quote": "Leaner, affordable, and more responsive government",
+          "sources": [
+            {
+              "title": "Jake Johansson for Florida Senate District 8 - campaign website",
+              "url": "https://www.jakeforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -70,18 +81,30 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Asked about insurance versus property taxes, he said insurers must handle claims fairly and pass reduced costs to policyholders, while homeowners and contractors must avoid inflated claims. He said he supports competition and mitigation discounts and wants metrics showing whether reforms deliver savings, rather than new rate controls.",
+          "quote": "Insurers must provide meaningful coverage, handle legitimate claims fairly and translate reduced costs into savings for policyholders.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He said that on the Volusia County Council he supported faster permitting, accessory dwelling units and flexible zoning, and that in the Senate he would streamline permitting, allow more starter homes and ADUs, protect state and local housing funds and support targeted down-payment assistance.",
+          "quote": "I support streamlining permitting, removing unnecessary regulatory costs, and allowing more starter homes, townhomes and ADUs where infrastructure can support them.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -91,11 +114,17 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Asked by the League of Women Voters when he would support abortion access, Johansson said he supports Florida's current law banning abortion after about six weeks with its existing exceptions, and said he supports access to contraception to prevent unintended pregnancies.",
+          "quote": "I support Florida's current law, which generally prohibits abortion after six weeks",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -105,11 +134,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "He said Florida must protect access to essential care while keeping costs sustainable, and named community health centers, preventive care, Medicaid managed-care accountability and a larger health workforce. He did not call for expanding Medicaid eligibility, saying targeted state assistance should be evaluated on need, cost and measurable benefits.",
+          "quote": "I would work with our congressional delegation for predictable federal funding and evaluate targeted state assistance based on need, cost and measurable benefits.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -126,18 +161,35 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His campaign platform says he would 'Lead the state in environmental stewardship with innovative solutions,' and in the VOTE411 questionnaire he said he would convene local leaders and state agencies on infrastructure and flood-mitigation projects and support growth that protects natural resources.",
+          "quote": "Lead the state in environmental stewardship with innovative solutions",
+          "sources": [
+            {
+              "title": "Jake Johansson for Florida Senate District 8 - campaign website",
+              "url": "https://www.jakeforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "He said growth must be matched by roads, drainage, water and public safety and that he would prioritize infrastructure and flood-mitigation projects, while also saying growth policy must respect property rights. He did not endorse higher impact fees or density limits.",
+          "quote": "We must respect property rights and ensure roads, drainage, water and public safety keep pace with growth.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -147,22 +199,28 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "He said he supports requiring documentary proof of U.S. citizenship to register to vote, while also backing clear guidance, fee relief for people facing hardship and help obtaining missing records.",
+          "quote": "I support requiring proof of U.S. citizenship to register to vote.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
         },
         "crime": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Says public safety must be the state's number-one priority.",
+          "summary": "His platform's first plank says he would 'Ensure Floridians are safe by ensuring public safety is our number 1 priority.' He does not address sentencing or criminal penalties.",
           "quote": "Ensure Floridians are safe by ensuring public safety is our number 1 priority.",
           "sources": [
             {
-              "title": "Jake for Florida - Home",
+              "title": "Jake Johansson for Florida Senate District 8 - campaign website",
               "url": "https://www.jakeforflorida.com/",
-              "date": "2026-09-18"
+              "date": "2026-09"
             }
           ]
         },
@@ -190,13 +248,13 @@
         "veterans": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Lists supporting veterans and first responders among his platform planks.",
+          "summary": "His platform lists 'Support our veterans and first responders' among five priorities. Johansson is a retired Navy captain and a service-disabled veteran small business owner.",
           "quote": "Support our veterans and first responders",
           "sources": [
             {
-              "title": "Jake for Florida - Home",
+              "title": "Jake Johansson for Florida Senate District 8 - campaign website",
               "url": "https://www.jakeforflorida.com/",
-              "date": "2026-09-18"
+              "date": "2026-09"
             }
           ]
         }
@@ -211,6 +269,33 @@
               "title": "Florida Chamber of Commerce endorsement release",
               "url": "https://www.flchamber.com/florida-chamber-of-commerce-endorses-jake-johansson-in-senate-district-8-for-the-2026-election/",
               "date": "2025-12-03"
+            }
+          ]
+        },
+        {
+          "title": "State preemption of local government",
+          "summary": "Johansson, a former Port Orange city manager and current Volusia County Council member, said he supports 'home rule with accountability' and that before preempting local authority the Legislature should establish the facts, hear from residents and local officials, and consider a narrower remedy.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Workforce and jobs",
+          "summary": "His platform lists promoting workforce development, better-paying jobs and affordable housing, and he said he would expand career and technical education and apprenticeships.",
+          "sources": [
+            {
+              "title": "Jake Johansson for Florida Senate District 8 - campaign website",
+              "url": "https://www.jakeforflorida.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
             }
           ]
         }
@@ -244,6 +329,16 @@
               "title": "Senate Republican leaders back Jake Johansson in open SD 8 race - Florida Politics",
               "url": "https://floridapolitics.com/archives/728041-senate-republican-leaders-back-jake-johansson-in-open-sd-8-race/",
               "date": null
+            }
+          ]
+        },
+        {
+          "by": "Florida Realtors PAC",
+          "sources": [
+            {
+              "title": "Florida Realtors PAC 2026 Endorsed Candidates",
+              "url": "https://www.floridarealtors.org/advocacy/pac/endorsements",
+              "date": "2026-08-21"
             }
           ]
         }
@@ -864,9 +959,9 @@
       "photo_url": "assets/photos/judy_m_ngying.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.judyforsenate8.com/",
-      "occupation": null,
+      "occupation": "Public school science teacher, Seminole County Schools",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Ngying has lived in Deltona since 1997 and is in her 29th year as a public school teacher, currently teaching science at a public alternative school for students who have been expelled or adjudicated by the courts. She previously taught chemistry at Pine Ridge High School in Volusia County and was part of the opening team at University High School in Orange City before moving to Seminole County Schools. She holds a bachelor's degree in microbiology from Colorado State University and a master's in teaching from Kent State University, and is a labor union leader, mother and grandmother.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -876,8 +971,245 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Ngying told the League of Women Voters that Medicaid expansion 'is a must,' that removing Affordable Care Act subsidies was wrong, and that Florida should fund KidCare, push down drug prices and expand primary care. Her website says she would restore ACA subsidies and expand access.",
+          "quote": "Medicaid expansion is a must.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            },
+            {
+              "title": "Judy Ngying for Senate 8 - Issues",
+              "url": "https://www.judyforsenate8.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "She says the voucher law has harmed public schools and that voucher funding should be separated from public-school funding, with every school receiving taxpayer dollars held to the same accountability standards as public schools. Her issues page says voucher-funded schools can refuse any child and have almost no accountability.",
+          "quote": "The voucher system supports schools that can refuse any child, have almost no accountability for whether students are learning, and have no regulated security requirements, yet they continue using our tax dollars.",
+          "sources": [
+            {
+              "title": "Judy Ngying for Senate 8 - Issues",
+              "url": "https://www.judyforsenate8.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Asked when she would support abortion access, she said it is a personal decision for the woman, her family and her doctor, that restrictions should be tied to fetal viability at about 24 weeks, and that doctors should be protected when performing life-saving procedures.",
+          "quote": "The current restrictions are taking away a women's right to choose her own health care, and sometimes her own life.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She says property insurance has 'spiraled out of control' and that the Legislature has not fixed it, calls for transparency laws and for removing requirements such as automatic roof replacement, and accuses insurers of moving profits out of state to hide them.",
+          "quote": "property insurance has not been “fixed.” Too many dollars are leaving the pockets of Floridians and going into the pockets of corporations making record profits.",
+          "sources": [
+            {
+              "title": "Judy Ngying for Senate 8 - Issues",
+              "url": "https://www.judyforsenate8.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Asked about affordable housing she said she fears renters would be forced out if the property tax amendment passes because landlords would absorb a shifted burden, and that property taxes should be reformed before any move to remove them.",
+          "quote": "But let's reform it before we begin with removing it. We don't need a sledgehammer; we need common sense.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She calls for fully funding the SHIP and SAIL housing programs, reforming the Live Local Act so developers have less free rein, and investing in affordable apartments, duplexes and condos for seniors, single parents and people with limited mobility.",
+          "quote": "The state can address this by fully funding SHIP and SAIL.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            },
+            {
+              "title": "Judy Ngying for Senate 8 - Issues",
+              "url": "https://www.judyforsenate8.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Her issues page says builders and corporations should pay their fair share for infrastructure and that 'Growth must pay for growth,' and she says local governments should decide what is best for their communities, including on large data centers.",
+          "quote": "We must also make builders and corporations pay their fair share for infrastructure. Growth must pay for growth.",
+          "sources": [
+            {
+              "title": "Judy Ngying for Senate 8 - Issues",
+              "url": "https://www.judyforsenate8.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "She says Florida has a responsibility to protect beaches, rivers, springs and lakes from pollution and overdevelopment, and calls for protecting rural boundaries, conservation lands and the aquifer.",
+          "quote": "We must protect our rural boundaries, our conservation lands, and our aquifer for generations to come.",
+          "sources": [
+            {
+              "title": "Judy Ngying for Senate 8 - Issues",
+              "url": "https://www.judyforsenate8.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She supports renewable energy subsidies to encourage homeowners and businesses to install solar, and opposes large data centers on the grounds that they strain energy, water and infrastructure.",
+          "quote": "Renewable energy subsidies can incentivize homeowners and businesses to invest in solar power.",
+          "sources": [
+            {
+              "title": "Judy Ngying for Senate 8 - Issues",
+              "url": "https://www.judyforsenate8.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her issues page says voting must be protected from those trying to undermine elections and that Florida can restore civil rights to its citizens. Asked about a documentary proof-of-citizenship requirement, she called it damaging and said citizen groups would need to help affected women obtain documents.",
+          "quote": "Voting must be protected from those trying to undermine our elections.",
+          "sources": [
+            {
+              "title": "Judy Ngying for Senate 8 - Issues",
+              "url": "https://www.judyforsenate8.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "She says investing in first responders and law enforcement helps them protect communities, and at the same time calls for holding law enforcement to a high standard with more de-escalation training and accountability.",
+          "quote": "We can support those who protect our communities while also making sure they are held to the standards our communities deserve.",
+          "sources": [
+            {
+              "title": "Judy Ngying for Senate 8 - Issues",
+              "url": "https://www.judyforsenate8.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Her issues page says LGBTQ+ communities 'must have every right afforded to everyone,' including where they live, what schools they attend and whom they love. She does not name the specific Florida laws on gender-affirming care or classroom instruction.",
+          "quote": "Our LGBTQ+ communities must have every right afforded to everyone",
+          "sources": [
+            {
+              "title": "Judy Ngying for Senate 8 - Issues",
+              "url": "https://www.judyforsenate8.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Data centers",
+          "summary": "Ngying says she opposes large-load data centers, arguing they place heavy demands on local energy, water and infrastructure and bring noise pollution and water shortages, and that the decision should belong to cities and counties rather than the state.",
+          "sources": [
+            {
+              "title": "Judy Ngying for Senate 8 - Issues",
+              "url": "https://www.judyforsenate8.com/issues",
+              "date": "2026-09"
+            },
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Surveillance cameras and privacy",
+          "summary": "She says automated license-plate camera systems must be examined carefully and calls for clear limits, transparency and accountability when surveillance technology is used in communities.",
+          "sources": [
+            {
+              "title": "Judy Ngying for Senate 8 - Issues",
+              "url": "https://www.judyforsenate8.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Workers and unions",
+          "summary": "She says she would fight for fair and livable wages and would oppose bills that weaken unions, describing strong unions as necessary to protect workers.",
+          "sources": [
+            {
+              "title": "Judy Ngying for Senate 8 - Issues",
+              "url": "https://www.judyforsenate8.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "State preemption of local government",
+          "summary": "She says the state has 'usurped home rule excessively,' citing limits on how school boards pay teachers, on local wage-theft and worker heat-protection ordinances, and on local storm recovery decisions under SB 180.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -894,10 +1226,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.wozniak4florida.com/",
+      "occupation": "Chairman, Libertarian Party of Volusia County",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Wozniak is a lifelong resident of Daytona Beach who earned a master's degree in hospitality and tourism management from the University of Central Florida. He joined the Libertarian Party of Volusia County in 2016 and is now its chairman. He describes himself as a member of Turning Point USA and says his campaign is built on individual liberty, constitutional rights and personal responsibility.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -907,9 +1239,234 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
-      "record": [],
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Wozniak's platform calls for a 'Red Tape Reduction' commission that repeals two regulations for each new one, ending corporate subsidies, and aggressive tax cuts. His 'Main Street Freedom Act' would raise the tangible personal property tax exemption for businesses from $25,000 to $100,000 and waive state corporate filing for businesses under $250,000 in revenue.",
+          "quote": "The Main Street Freedom Act subtracts government from your life so that Volusia County can thrive.",
+          "sources": [
+            {
+              "title": "Gabe Wozniak for Florida Senate District 8 - Platform",
+              "url": "https://www.wozniak4florida.com/platform",
+              "date": "2026-09"
+            },
+            {
+              "title": "Gabe Wozniak for Florida Senate District 8 - campaign website",
+              "url": "https://www.wozniak4florida.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says Floridians never truly own a home while paying property taxes, and that in his first six months he would push to cap reassessment increases, expand homestead relief and advance constitutional protections to eliminate property taxes on primary residences.",
+          "quote": "I will champion measures to cap reassessment spikes, expand homestead relief, and advance constitutional protections to eliminate property taxes on primary residences.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            },
+            {
+              "title": "Gabe Wozniak for Florida Senate District 8 - Platform",
+              "url": "https://www.wozniak4florida.com/platform",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His platform calls for 'Universal School Choice,' saying funding should follow the student and that Education Savings Accounts should be fully expanded so families can choose private, charter or home schooling.",
+          "quote": "Funding should follow the student, not the system.",
+          "sources": [
+            {
+              "title": "Gabe Wozniak for Florida Senate District 8 - Platform",
+              "url": "https://www.wozniak4florida.com/platform",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "He says he would repeal Florida's red-flag law as a violation of due process, expand permitless carry by eliminating gun-free zones, and bar state enforcement of federal gun measures he considers unconstitutional.",
+          "quote": "“Red Flag” laws violate due process by seizing property before a conviction. I will sponsor legislation to repeal these unconstitutional measures in Florida.",
+          "sources": [
+            {
+              "title": "Gabe Wozniak for Florida Senate District 8 - Platform",
+              "url": "https://www.wozniak4florida.com/platform",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "marijuana": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Under 'End the War on Drugs' his platform says he supports full legalization of cannabis and expungement of non-violent marijuana convictions.",
+          "quote": "I support the full legalization of cannabis and the expungement of non-violent marijuana convictions.",
+          "sources": [
+            {
+              "title": "Gabe Wozniak for Florida Senate District 8 - Platform",
+              "url": "https://www.wozniak4florida.com/platform",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "His justice planks call for ending drug enforcement against what he calls victimless crimes, abolishing civil asset forfeiture without a conviction, and reforming qualified immunity so government agents are accountable for rights violations.",
+          "quote": "It is theft for the police to seize cash or property without a criminal conviction. I will abolish civil asset forfeiture in Florida.",
+          "sources": [
+            {
+              "title": "Gabe Wozniak for Florida Senate District 8 - Platform",
+              "url": "https://www.wozniak4florida.com/platform",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "He says insurance costs stem from litigation and overregulation rather than market failure, and calls for 'Loser Pays' rules, deregulating coverage so insurers can sell a la carte policies, and shrinking state-run Citizens Property Insurance so it does not crowd out private competition.",
+          "quote": "We must also shrink the state-run Citizens Property Insurance so it doesn't crowd out private competition or trigger statewide tax assessments.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            },
+            {
+              "title": "Gabe Wozniak for Florida Senate District 8 - Platform",
+              "url": "https://www.wozniak4florida.com/platform",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "He says expanding Medicaid or relying on federal subsidies shifts unsustainable debt onto Florida taxpayers, and instead proposes direct primary care, health savings accounts, repealing certificate-of-need laws, lifting scope-of-practice limits and allowing insurance purchases across state lines.",
+          "quote": "Real affordability comes from free-market competition, supply growth, and personal choice.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            },
+            {
+              "title": "Gabe Wozniak for Florida Senate District 8 - Platform",
+              "url": "https://www.wozniak4florida.com/platform",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Asked by the League of Women Voters under what circumstances he would support access to abortion, Wozniak answered with one word: 'Rape.'",
+          "quote": "Rape.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "He says documentary proof of citizenship is essential to securing elections, while also saying Florida should waive state fees for records needed to register, automate record verification between state agencies and deploy mobile vital-records units.",
+          "quote": "Securing our elections through documentary proof of citizenship is essential to protecting the ballot box, but no eligible citizen should be priced out of voting by government bureaucracy.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "On housing he calls for ending state subsidies and tax breaks for institutional landlords and fully deregulating accessory dwelling units, and says the answer is less rather than more government involvement.",
+          "quote": "We don't need more government intervention; we need to protect everyday Floridians.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            },
+            {
+              "title": "Gabe Wozniak for Florida Senate District 8 - Platform",
+              "url": "https://www.wozniak4florida.com/platform",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Surveillance and privacy",
+          "summary": "Wozniak names warrantless mass surveillance his top issue, saying he would file legislation requiring a warrant to access location logs from automated camera networks, capping data retention at 30 days, barring out-of-state data sharing and requiring public hearings before surveillance contracts.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Senator 8 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940763",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Medical freedom",
+          "summary": "His platform calls for a permanent state constitutional ban on mask, vaccine or medical testing mandates as a condition of employment, education or commerce, and for a right to try experimental treatments.",
+          "sources": [
+            {
+              "title": "Gabe Wozniak for Florida Senate District 8 - Platform",
+              "url": "https://www.wozniak4florida.com/platform",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "DEI programs in higher education",
+          "summary": "He says he would vote to strip all state funding for diversity, equity and inclusion offices at public universities, and supports posting public school curricula and reading lists online for parents.",
+          "sources": [
+            {
+              "title": "Gabe Wozniak for Florida Senate District 8 - Platform",
+              "url": "https://www.wozniak4florida.com/platform",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Cryptocurrency",
+          "summary": "He says he opposes a central bank digital currency and would protect Floridians' right to hold and trade Bitcoin and other digital assets without surveillance.",
+          "sources": [
+            {
+              "title": "Gabe Wozniak for Florida Senate District 8 - Platform",
+              "url": "https://www.wozniak4florida.com/platform",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Chairman of the Libertarian Party of Volusia County, which he joined in 2016.",
+          "sources": [
+            {
+              "title": "Gabe Wozniak for Florida Senate District 8 - Meet Gabe",
+              "url": "https://www.wozniak4florida.com/meet-sandra",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

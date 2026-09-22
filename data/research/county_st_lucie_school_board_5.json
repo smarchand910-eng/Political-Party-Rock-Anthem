@@ -1,7 +1,7 @@
 {
   "race_id": "county_st_lucie_school_board_5",
   "title": "St. Lucie County School Board, District 5",
-  "level": "county",
+  "level": "school",
   "office_group": "County",
   "term": "4 years",
   "jurisdiction": {
@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/troy_ingersoll.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
-      "occupation": null,
+      "occupation": "St. Lucie County School Board member; owner of a Pinch A Penny pool and spa store; pastor, Midway Road Baptist Church",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Ingersoll has served on the St. Lucie County School Board since 2006 and is currently board chairman. He owns a Pinch A Penny pool and spa store and has been pastor of Midway Road Baptist Church since 2024. He holds a criminology degree from Florida State University and a master's in Christian education from New Orleans Baptist Theological Seminary, and is seeking a sixth term.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,60 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "education_choice": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In his League of Women Voters VOTE411 questionnaire, Ingersoll said he opposes vouchers because diverting taxpayer money to private institutions drains resources from the public system.",
+          "quote": "Diverting taxpayer money to private institutions drains resources from the public system.",
+          "sources": [
+            {
+              "title": "St. Lucie County School Board, District 5 - VOTE411 Voter Guide",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72710522",
+              "date": "2026"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Ingersoll lists safe and secure schools as his first critical issue and calls for secure campuses and positive learning environments. He did not say whether he would emphasize law enforcement and discipline or counseling and mental-health staff.",
+          "quote": "Safe and secure schools",
+          "sources": [
+            {
+              "title": "St. Lucie County School Board, District 5 - VOTE411 Voter Guide",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72710522",
+              "date": "2026"
+            }
+          ]
+        },
+        "school_books": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Ingersoll says Florida is taking bold steps to protect parental rights and that a challenged book should be listed publicly and taken out of circulation while educators review it.",
+          "quote": "Yes, (the book challenge) should be made public on the district web page and the book taken out of circulation",
+          "sources": [
+            {
+              "title": "Keep Florida Reading 2026 school board candidate questionnaire (candidate's own written answers)",
+              "url": "https://www.keepfloridareading.org/uploads/6/1/4/2/61420659/troy_ingersoll.pdf",
+              "date": "2026-07-13"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Budget and public engagement",
+          "summary": "Ingersoll names fiscal responsibility and raising student achievement as critical issues, calling for transparent budgeting and consistent funding for academic programs and teacher development. He says community forums, surveys, advisory committees and open board meetings should guide decisions.",
+          "sources": [
+            {
+              "title": "St. Lucie County School Board, District 5 - VOTE411 Voter Guide",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72710522",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -57,9 +109,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.lisakesslercampaign.com/",
-      "occupation": null,
+      "occupation": "Author, speaker and writing coach; former sales and marketing manager",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Kessler is a published author, national speaker and writing coach who worked as a sales and marketing manager for 26 years before writing full time. She chairs the Fort Pierce Arts and Culture Board and is the daughter of two career public school teachers. She led the August 2026 District 5 primary narrowly and advanced to the November runoff against the long-serving incumbent.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,8 +121,60 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In her VOTE411 questionnaire Kessler said she opposes vouchers as they stand because private schools do not have to meet the same testing standards, and said schools accepting public funds should be held accountable. She separately proposes district-administered homeschooling with testing accountability.",
+          "quote": "Private schools do not have to meet the testing standards",
+          "sources": [
+            {
+              "title": "St. Lucie County School Board, District 5 - VOTE411 Voter Guide",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72710522",
+              "date": "2026"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Kessler names teacher retention and public school enrollment as her most critical issues and proposes creative supports for teachers such as housing, growth opportunities and more say over school assignment. She has not proposed a specific raise or named spending she would cut.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "St. Lucie County School Board, District 5 - VOTE411 Voter Guide",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72710522",
+              "date": "2026"
+            }
+          ]
+        },
+        "school_books": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Kessler describes her role as ensuring the district follows Florida law and maintains age-appropriate collections, without saying whether an objection alone should be enough to remove material.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Keep Florida Reading 2026 school board candidate questionnaire (candidate's own written answers)",
+              "url": "https://www.keepfloridareading.org/uploads/6/1/4/2/61420659/lisa_kessler.pdf",
+              "date": "2026-07-13"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Board transparency",
+          "summary": "Kessler proposes 'You said, We did' podcasts, more frequent board meetings and attendance at student and district events to connect the board with the community.",
+          "sources": [
+            {
+              "title": "St. Lucie County School Board, District 5 - VOTE411 Voter Guide",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72710522",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

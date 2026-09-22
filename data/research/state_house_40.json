@@ -208,9 +208,9 @@
       "photo_url": "assets/photos/tuan_le.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://tuanleforflorida.com",
-      "occupation": null,
+      "occupation": "Engineer and business owner (aerospace, water and wastewater, IT and cybersecurity; real estate, hospitality and technology)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Le says he was raised in Pine Hills and attended Carver Middle School and Evans High School before earning an engineering degree at the University of Central Florida and an MBA at Strayer University. He describes himself as an aerospace engineer, a water and wastewater engineer, an IT and cybersecurity analyst, and an entrepreneur in real estate, hospitality and technology. He says his first job, at 14, was picking up trash and repairing salvaged electronics to help support his family, and in an earlier survey he described himself as a Vietnamese American whose family came to the United States legally.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -220,8 +220,65 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In his 2025 Ballotpedia Candidate Connection survey, Le proposed a 'Zoning Equity Act' that would let owners of property more than 50 years old obtain rezoning within the same use category so they could build on the property, add accessory units, rent it out or sell unused portions. He said the change would lower rents and help property owners. In an earlier 2022 survey he listed affordable housing among his priorities.",
+          "quote": "This will help residential low the rent cost and homeowner put money in their pockets.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Tuan Le (2025)",
+              "url": "https://ballotpedia.org/Tuan_Le",
+              "date": "2025"
+            },
+            {
+              "title": "Ballotpedia Candidate Connection survey - Tuan Le (2022, congressional campaign)",
+              "url": "https://ballotpedia.org/Tuan_Le",
+              "date": "2022"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Le proposed a 'Small Business Tax Credit Act' as one of his three key campaign messages, offering tax incentives to small businesses that hire locally and train young people. He did not say in the survey what spending would change.",
+          "quote": "This act will offer real tax incentives to small businesses that hire locally, train young people, and help rebuild the local economy.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Tuan Le (2025)",
+              "url": "https://ballotpedia.org/Tuan_Le",
+              "date": "2025"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In his 2022 Ballotpedia survey, filed as a candidate for Congress, Le listed stopping illegal immigration at the border among his three key messages and said his own family immigrated legally from Vietnam. He did not address deportation of people already in the country.",
+          "quote": "We must stop illegal immigration that endlessly drains our resources.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Tuan Le (2022, congressional campaign)",
+              "url": "https://ballotpedia.org/Tuan_Le",
+              "date": "2022"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Career and technical training",
+          "summary": "Le proposed an 'Education Act' that would use high school campuses as technical training centers after 6 p.m., offering adults and young people training in trades such as plumbing, electrical, HVAC, coding, artificial intelligence, robotics and health care, along with an after-school innovation and technology program for children.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Tuan Le (2025)",
+              "url": "https://ballotpedia.org/Tuan_Le",
+              "date": "2025"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

@@ -1,7 +1,7 @@
 {
   "race_id": "county_st_johns_school_board_4",
   "title": "St. Johns County School Board, District 4",
-  "level": "county",
+  "level": "school",
   "office_group": "County",
   "term": "4 years",
   "jurisdiction": {
@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://tammiemcclafferty.com/",
-      "occupation": null,
+      "occupation": "Assistant professor of education, Trinity College of Florida (Jacksonville); leadership-development organization director",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "McClafferty is a career educator who has taught, founded schools and served as a principal, and who previously ran a private preschool and childcare business with her husband. She is an assistant professor of education at Trinity College Jacksonville and runs Lifework First Coast, a faith-based leadership development organization. Three of her children graduated from Nease High School in District 4. She advanced to the November runoff after the August 2026 primary.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,79 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "education_choice": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "McClafferty says she supports school choice but not an extensive expansion of vouchers, saying people have not thought through the long-term consequences. She describes vouchers and charter schools as state decisions and says the district needs a stronger voice in Tallahassee on their effect on district funding.",
+          "quote": "I don't think everybody thinks through the ramifications of it long term",
+          "sources": [
+            {
+              "title": "School Board candidates in St. Johns County spar over finances",
+              "url": "https://jaxtoday.org/2026/07/31/st-johns-school-board-district-4/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "St. Johns County School Board Candidate Tammie McClafferty Wants to Bring the District Up To Speed",
+              "url": "https://sjcitizen.com/st-johns-county-school-board-candidate-tammie-mcclafferty-wants-to-bring-the-district-up-to-speed/",
+              "date": "2026"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "McClafferty campaigns on responsible stewardship of taxpayer dollars and says she would bring in a forensic accountant for a deep dive into district spending, noting the district remains in financial difficulty after receiving new millage funding. She has not called for cutting taxes.",
+          "quote": "I would be a proponent of bringing in a forensic accountant to do a really deep dive",
+          "sources": [
+            {
+              "title": "St. Johns County School Board Candidate Tammie McClafferty Wants to Bring the District Up To Speed",
+              "url": "https://sjcitizen.com/st-johns-county-school-board-candidate-tammie-mcclafferty-wants-to-bring-the-district-up-to-speed/",
+              "date": "2026"
+            },
+            {
+              "title": "Tammie McClafferty for St. Johns County School Board District 4 - campaign site",
+              "url": "https://tammiemcclafferty.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Parental involvement",
+          "summary": "McClafferty's campaign site says parents deserve a voice in their child's education and that she would ensure families are respected partners in every classroom. She did not describe how she would handle an objection to a specific book or lesson.",
+          "sources": [
+            {
+              "title": "Tammie McClafferty for St. Johns County School Board District 4 - campaign site",
+              "url": "https://tammiemcclafferty.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Parental involvement",
+          "summary": "McClafferty's campaign site says parents deserve a voice in their child's education and that she would ensure families are respected partners in every classroom. She did not describe how she would handle an objection to a specific book or lesson.",
+          "sources": [
+            {
+              "title": "Tammie McClafferty for St. Johns County School Board District 4 - campaign site",
+              "url": "https://tammiemcclafferty.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "District priorities",
+          "summary": "In a campaign survey McClafferty named special-needs programs, trade and industry programs, bullying, teacher turnover and the budget as her five priority concerns.",
+          "sources": [
+            {
+              "title": "St. Johns County School Board Candidate Tammie McClafferty Wants to Bring the District Up To Speed",
+              "url": "https://sjcitizen.com/st-johns-county-school-board-candidate-tammie-mcclafferty-wants-to-bring-the-district-up-to-speed/",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -57,9 +128,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://jilliantozer.com/",
-      "occupation": null,
+      "occupation": "Small-business owner (travel agency); community and regional planner",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Tozer moved to St. Johns County in 2020, citing school quality, and owns a travel agency. She studied community and regional planning after a career in the culinary field and previously ran nonprofits providing food assistance. She has two children in district schools and advanced to the November runoff after the August 2026 primary.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,8 +140,71 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Tozer said she decided to run after seeing layoffs at her children's school and that the district must find a way in its budget to raise teacher pay and keep teachers. She treats teacher turnover as a priority but has not named other spending she would cut.",
+          "quote": "I do believe we need to find in the budget a way to increase our teacher pay and to keep our teachers.",
+          "sources": [
+            {
+              "title": "St. Johns County teacher layoffs spur Nocatee mom's school board bid",
+              "url": "https://sjcitizen.com/st-johns-county-teacher-layoffs-spur-nocatee-moms-school-board-bid/",
+              "date": "2026"
+            }
+          ]
+        },
+        "school_books": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Tozer said schools should stay apolitical and that debates over library materials have calmed down. She supports parents guiding their own children's reading but said she is concerned about restrictions at higher grade levels.",
+          "quote": "older students should be given the latitude to read about different families and experiences",
+          "sources": [
+            {
+              "title": "St. Johns County teacher layoffs spur Nocatee mom's school board bid",
+              "url": "https://sjcitizen.com/st-johns-county-teacher-layoffs-spur-nocatee-moms-school-board-bid/",
+              "date": "2026"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Tozer says she supports parental choice but wants private schools that receive public dollars held to the same scrutiny, budget checks and testing as public schools.",
+          "quote": "These private institutions that are receiving public dollars should [face] more scrutiny, more budget checks, more testing, the same way that our public schools do.",
+          "sources": [
+            {
+              "title": "St. Johns County teacher layoffs spur Nocatee mom's school board bid",
+              "url": "https://sjcitizen.com/st-johns-county-teacher-layoffs-spur-nocatee-moms-school-board-bid/",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "District finances",
+          "summary": "Tozer says her first step would be an independent audit of the district's finances, and proposes expanding Advanced Placement, International Baccalaureate and dual enrollment to attract students and revenue. She has pledged to donate half her board salary back to the community.",
+          "sources": [
+            {
+              "title": "School Board candidates in St. Johns County spar over finances",
+              "url": "https://jaxtoday.org/2026/07/31/st-johns-school-board-district-4/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "title": "District finances",
+          "summary": "Tozer says her first step would be an independent audit of the district's finances, and proposes expanding Advanced Placement, International Baccalaureate and dual enrollment to attract students and revenue. She has pledged to donate half her board salary back to the community.",
+          "sources": [
+            {
+              "title": "School Board candidates in St. Johns County spar over finances",
+              "url": "https://jaxtoday.org/2026/07/31/st-johns-school-board-district-4/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

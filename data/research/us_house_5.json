@@ -915,7 +915,7 @@
       "website": "https://uphamforcongress.com/",
       "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
       "residence": null,
-      "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "William Upham is a write-in candidate in Florida's 5th Congressional District. He was born and raised in a military family, served as a Marine Corps officer until a medical retirement as a First Lieutenant, and worked as a prosecutor in Pensacola and Jacksonville. His campaign is built around faith and family, bipartisanship and returning power from Washington insiders to working people.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -926,7 +926,19 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Bipartisanship",
+          "summary": "Upham's campaign message is that Republicans and Democrats can and must work together and that bipartisanship is not weakness. His site sets out broad principles rather than positions on specific federal issues.",
+          "sources": [
+            {
+              "title": "Upham for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://uphamforcongress.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

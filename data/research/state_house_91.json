@@ -263,13 +263,13 @@
       ],
       "positions": {
         "immigration": {
-          "stance": -1,
+          "stance": -2,
           "confidence": "stated",
-          "summary": "In a June 2026 interview he said Florida cannot abolish the federal 287(g) program but can reverse the state mandate requiring local police to act as immigration enforcement agents.",
+          "summary": "In a candidate interview with Indivisible Boca Raton, Garcia said the Legislature should reverse the state mandate that requires local law enforcement to help enforce federal immigration law under 287(g) agreements. He has also founded an ICE Watch legal observer team in South Florida.",
           "quote": "",
           "sources": [
             {
-              "title": "(Video) Luis Garcia - Florida House Candidate for District 91 - Indivisible Boca Raton Media",
+              "title": "(Video) Luis Garcia - Florida House Candidate for District 91",
               "url": "https://indivisiblebocaratonmedia.substack.com/p/video-luis-garcia-florida-house-candidate",
               "date": "2026-06-02"
             }
@@ -294,6 +294,39 @@
           "sources": [
             {
               "title": "(Video) Luis Garcia - Florida House Candidate for District 91 - Indivisible Boca Raton Media",
+              "url": "https://indivisiblebocaratonmedia.substack.com/p/video-luis-garcia-florida-house-candidate",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "title": "Property insurance and claims",
+          "summary": "Drawing on 14 years as a licensed claims adjuster, Garcia said he would focus on reforming Citizens Property Insurance and on property and casualty insurance fraud, which he described as widespread in Florida.",
+          "sources": [
+            {
+              "title": "(Video) Luis Garcia - Florida House Candidate for District 91",
+              "url": "https://indivisiblebocaratonmedia.substack.com/p/video-luis-garcia-florida-house-candidate",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "title": "Condominium assessments",
+          "summary": "Garcia described rising condominium assessments in the district as a cost-of-living emergency for working and middle-class residents.",
+          "sources": [
+            {
+              "title": "(Video) Luis Garcia - Florida House Candidate for District 91",
+              "url": "https://indivisiblebocaratonmedia.substack.com/p/video-luis-garcia-florida-house-candidate",
+              "date": "2026-06-02"
+            }
+          ]
+        },
+        {
+          "title": "Elder fraud",
+          "summary": "Garcia proposed converting the 33 sworn officers of Florida's Division of Election Security into an elder fraud task force aimed at protecting the district's older residents. He also called for the state to restore funding for Meals on Wheels after federal cuts.",
+          "sources": [
+            {
+              "title": "(Video) Luis Garcia - Florida House Candidate for District 91",
               "url": "https://indivisiblebocaratonmedia.substack.com/p/video-luis-garcia-florida-house-candidate",
               "date": "2026-06-02"
             }

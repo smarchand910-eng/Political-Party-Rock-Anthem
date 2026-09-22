@@ -50,10 +50,54 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "title": "General campaign message",
+          "summary": "Berry's campaign website carries her filing announcement, in which she says Bay County voters want 'common sense, Constitutional, conservative leadership' and that she wants to support local businesses, make Florida more affordable and protect what she calls the conservative gains made under Gov. Ron DeSantis. The site lists no specific policy positions.",
+          "sources": [
+            {
+              "title": "Tricia Berry, Republican, for State Representative, District 6 - campaign website",
+              "url": "https://www.votetriciaberry.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Health care, economic development and veterans",
+          "summary": "The description of a July 2026 local podcast interview says Berry discussed her move from nurse practitioner to candidate, health care access, economic development, infrastructure for local businesses, and advocacy for the military and veterans, citing Tyndall Air Force Base and the commissioning of the USS Pierre.",
+          "sources": [
+            {
+              "title": "Veronica Live: Candidate Tricia Berry for Florida House",
+              "url": "https://podimo.com/en/shows/veronica-live-2/episode/8d1577be-8958-5032-a6c7-2e4652da597f",
+              "date": "2026-07-29"
+            }
+          ]
+        },
+        {
+          "title": "Did not answer the League of Women Voters questionnaire",
+          "summary": "The VOTE411 guide for State Representative 6 lists Berry's website and Facebook page and records 'Candidate has not yet responded' for all seven questions.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 6 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/race-detail.do?id=27129078",
+              "date": "2026-09"
+            }
+          ]
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Florida Realtors PAC",
+          "sources": [
+            {
+              "title": "Florida Realtors PAC 2026 Endorsed Candidates",
+              "url": "https://www.floridarealtors.org/advocacy/pac/endorsements",
+              "date": "2026-08-21"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -85,12 +129,17 @@
         "healthcare": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "She supports improving health-care access for families, seniors and veterans and strengthening the health-care workforce; she does not specifically mention Medicaid expansion.",
-          "quote": "Access to healthcare should not depend on where you live.",
+          "summary": "She told VOTE411 that Florida should fund and keep Medicaid at current levels, noting that health care is unavailable to many people at poverty level and that employers keep shifting costs to employees. Her website says she would expand access to affordable health care and support for veterans.",
+          "quote": "We need to fund and keep Medicaid at current levels",
           "sources": [
             {
-              "title": "Vote Stephanie 'Lyn' Leonard - Priorities",
-              "url": "https://voteleonard.com/priorities",
+              "title": "VOTE411 Voter Guide: State Representative 6 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/race-detail.do?id=27129078",
+              "date": "2026-09"
+            },
+            {
+              "title": "Stephanie Leonard for State Representative District 6 - campaign website",
+              "url": "https://voteleonard.com/",
               "date": "2026-09"
             }
           ]
@@ -98,17 +147,12 @@
         "environment": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "She wants to protect springs, bays and beaches, stop pollution and plan smart growth.",
-          "quote": "Protect our springs, bays and beaches. Stop pollution. Plan smart growth.",
+          "summary": "Her campaign website lists protecting springs, bays and beaches, stopping pollution and planning 'smart growth' among her priorities.",
+          "quote": "Protect our springs, bays and beaches. Stop pollution. Plan smart growth. Protect our quality of life.",
           "sources": [
             {
-              "title": "Vote Stephanie 'Lyn' Leonard (campaign website)",
+              "title": "Stephanie Leonard for State Representative District 6 - campaign website",
               "url": "https://voteleonard.com/",
-              "date": "2026-09"
-            },
-            {
-              "title": "Vote Stephanie 'Lyn' Leonard - Priorities",
-              "url": "https://voteleonard.com/priorities",
               "date": "2026-09"
             }
           ]
@@ -122,6 +166,58 @@
             {
               "title": "Vote Stephanie 'Lyn' Leonard - Priorities",
               "url": "https://voteleonard.com/priorities",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Asked by the League of Women Voters when she would support access to abortion, Leonard said she would restore the access Florida allowed before Roe v. Wade was overturned, and said current limits deny women reproductive care.",
+          "quote": "I would support full access back to the original levels in Florida before the Supreme Court overturned Roe vs Wade.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 6 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/race-detail.do?id=27129078",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In the VOTE411 questionnaire she proposed requiring a share of large multifamily developments to be set aside for certain income levels and increasing first-time homebuyer incentives.",
+          "quote": "there should be a required percentage of large multi family developments reserved for certain average income levels in the region of interest",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 6 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/race-detail.do?id=27129078",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Asked whether insurance or property taxes worried the public more, she said property insurance costs have far outpaced property taxes and accused insurers of hiding profits through affiliate transfers outside Florida.",
+          "quote": "insurance company profits are soaring but they are hiding profits through affiliate transfers outside of our state",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 6 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/race-detail.do?id=27129078",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Asked how she would help Floridians who lack citizenship documents if proof were required, she called for faster and free processing of birth and marriage records and immediate voter document assistance at county offices.",
+          "quote": "The documents should be free and online certificates should be immediately available.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 6 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/race-detail.do?id=27129078",
               "date": "2026-09"
             }
           ]
@@ -145,6 +241,28 @@
           "sources": [
             {
               "title": "Vote Stephanie 'Lyn' Leonard (campaign website)",
+              "url": "https://voteleonard.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "State preemption of local government",
+          "summary": "Asked about home rule, Leonard said the state should not be able to determine what is best for local governments and that people lose the ability to decide what happens in their own neighborhoods when the state controls municipalities.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide: State Representative 6 (League of Women Voters of Florida)",
+              "url": "https://onyourballot.vote411.org/race-detail.do?id=27129078",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Public schools and affordability",
+          "summary": "Her website lists fully funding public schools and supporting teachers, lowering the cost of groceries, rent, electricity and insurance, and creating jobs without raising costs on families.",
+          "sources": [
+            {
+              "title": "Stephanie Leonard for State Representative District 6 - campaign website",
               "url": "https://voteleonard.com/",
               "date": "2026-09"
             }

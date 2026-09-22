@@ -1,7 +1,7 @@
 {
   "race_id": "county_brevard_school_board_2",
   "title": "Brevard County School Board, District 2",
-  "level": "county",
+  "level": "school",
   "office_group": "County",
   "term": "4 years",
   "jurisdiction": {
@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/kyle_savage.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://savage4students.com",
-      "occupation": null,
+      "occupation": "U.S. Army veteran (military police); former elementary school teacher",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Kyle Savage served in the U.S. Army as a military police officer, including protective security work for senior commanders. He holds a Florida K-6 teaching certificate and taught fifth- and sixth-grade math and science at Cape View Elementary School in Cape Canaveral. He is a father of three and finished second in the August 2026 primary with about 31% of the vote.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,10 +38,94 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "school_books": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Savage opposed the board's attempt to remove about 298 books in a single motion and says each challenge should be reviewed individually by a committee that includes both parents and educators, with no blanket bans.",
+          "quote": "I want a clear, consistent process: individual challenges reviewed on their own merits by a real committee with parent and educator input",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 2",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-school-board-district-2/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Brevard County School Board District 2 overview",
+              "url": "https://floridatrib.org/2026/08/12/brevard-county-school-board-district-2/",
+              "date": "2026-08-12"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Savage says Brevard teachers are paid more than $2,500 below the state average and pledges to make compensation a priority in every budget cycle.",
+          "quote": "Brevard teachers are paid more than $2,500 below the state average",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 2",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-school-board-district-2/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Savage would put a school resource officer in every school and two in larger schools, and also calls for consistent discipline policy and mental-health resources, saying safety depends on trained people, clear protocols and no gaps.",
+          "quote": "Safety isn't a slogan; it's showing up every day for the basics.",
+          "sources": [
+            {
+              "title": "Brevard County School Board District 2 overview",
+              "url": "https://floridatrib.org/2026/08/12/brevard-county-school-board-district-2/",
+              "date": "2026-08-12"
+            },
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 2",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-school-board-district-2/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Rather than further cuts, Savage proposes growing enrollment and revenue by expanding VPK to every elementary school, building a vocational-technical center and moving district staff into underused buildings instead of closing schools. He also wants a plain-language budget breakdown published every year.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Brevard County School Board District 2 overview",
+              "url": "https://floridatrib.org/2026/08/12/brevard-county-school-board-district-2/",
+              "date": "2026-08-12"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Brevard Federation of Teachers",
+          "sources": [
+            {
+              "title": "Brevard County School Board District 2 overview",
+              "url": "https://floridatrib.org/2026/08/12/brevard-county-school-board-district-2/",
+              "date": "2026-08-12"
+            }
+          ]
+        },
+        {
+          "by": "Space Coast AFL-CIO Central Labor Council",
+          "sources": [
+            {
+              "title": "Brevard County School Board District 2 overview",
+              "url": "https://floridatrib.org/2026/08/12/brevard-county-school-board-district-2/",
+              "date": "2026-08-12"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -57,9 +141,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.votegenetrent.com/",
-      "occupation": null,
+      "occupation": "Brevard County School Board member, District 2; former classroom teacher",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Gene Trent was elected to the Brevard County School Board's District 2 seat in 2022 and served as board vice chair. He describes more than 20 years as a classroom educator. He led the August 2026 primary with about 42% of the vote and faces Kyle Savage in the November runoff.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,10 +153,118 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "school_books": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "As board vice chair in November 2023 Trent moved, without the item being on the agenda, to remove about 298 books from Brevard classrooms and libraries based on a state list of titles pulled in other districts, bypassing individual review. The motion failed 3-2 and Trent said he would bring it back.",
+          "quote": "We need to move forward. We owe it to the public.",
+          "sources": [
+            {
+              "title": "Brevard school board shoots down Trent's motion to use state list as guide to ban books",
+              "url": "https://www.yahoo.com/news/brevard-school-board-shoots-down-171303505.html",
+              "date": "2023-11-15"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In an August 2025 video Trent questioned whether the district needed about $7 million in federal funding, saying money alone does not solve problems, and has described cutting open positions and returning resource teachers to classrooms as his budget approach.",
+          "quote": "Maybe we don't need that money... throwing money at an issue doesn't solve it.",
+          "sources": [
+            {
+              "title": "Brevard County School Board District 2 overview",
+              "url": "https://floridatrib.org/2026/08/12/brevard-county-school-board-district-2/",
+              "date": "2026-08-12"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Trent has supported metal detectors in schools and expansion of the Guardian Program, which arms and trains designated school staff to respond to threats.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Brevard County School Board District 2 overview",
+              "url": "https://floridatrib.org/2026/08/12/brevard-county-school-board-district-2/",
+              "date": "2026-08-12"
+            },
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 2",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-school-board-district-2/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Teacher pay and retention",
+          "summary": "Trent's campaign site lists 'competitive pay, professional growth' among his priorities and claims improved teacher retention as a result of his term. He did not return the 2026 voter-guide questionnaire.",
+          "sources": [
+            {
+              "title": "Brevard County School Board District 2 overview",
+              "url": "https://floridatrib.org/2026/08/12/brevard-county-school-board-district-2/",
+              "date": "2026-08-12"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "U.S. Rep. Mike Haridopolos",
+          "sources": [
+            {
+              "title": "Brevard County School Board District 2 overview",
+              "url": "https://floridatrib.org/2026/08/12/brevard-county-school-board-district-2/",
+              "date": "2026-08-12"
+            }
+          ]
+        },
+        {
+          "by": "Brevard County Sheriff Wayne Ivey",
+          "sources": [
+            {
+              "title": "Brevard County School Board District 2 overview",
+              "url": "https://floridatrib.org/2026/08/12/brevard-county-school-board-district-2/",
+              "date": "2026-08-12"
+            }
+          ]
+        },
+        {
+          "by": "Space Coast Young Republicans",
+          "sources": [
+            {
+              "title": "Brevard County School Board District 2 overview",
+              "url": "https://floridatrib.org/2026/08/12/brevard-county-school-board-district-2/",
+              "date": "2026-08-12"
+            }
+          ]
+        },
+        {
+          "by": "Brevard School Board Chair Matt Susin",
+          "sources": [
+            {
+              "title": "Brevard County School Board District 2 overview",
+              "url": "https://floridatrib.org/2026/08/12/brevard-county-school-board-district-2/",
+              "date": "2026-08-12"
+            }
+          ]
+        },
+        {
+          "by": "Palm Bay Mayor Rob Medina",
+          "sources": [
+            {
+              "title": "Brevard County School Board District 2 overview",
+              "url": "https://floridatrib.org/2026/08/12/brevard-county-school-board-district-2/",
+              "date": "2026-08-12"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

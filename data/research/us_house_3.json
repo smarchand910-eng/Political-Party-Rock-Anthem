@@ -924,9 +924,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://mikeklein4congress.com/",
-      "occupation": null,
+      "occupation": "Co-founder and chairman of Warrior Centric Health; retired U.S. Army infantry officer",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Mike Klein is a no-party-affiliation candidate in Florida's 3rd Congressional District. A fifth-generation Floridian raised in Gainesville, he attended West Point, served as a Ranger-qualified infantry officer in the 25th Infantry Division and led soldiers in combat in Operation Desert Storm. After his brother was severely wounded by an IED, he co-founded Warrior Centric Health, which works to improve care for military and veteran patients. He says he takes no corporate PAC money.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -936,8 +936,105 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "social_security": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Klein says he would raise the cap on income subject to Social Security taxes so higher earners contribute more, in order to protect the retirement benefits workers have earned.",
+          "quote": "Raise the cap on Social Security contributions so the wealthy pay their fair share",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Mike Klein",
+              "url": "https://ballotpedia.org/Mike_Klein_(Florida)",
+              "date": "2026-08-01"
+            },
+            {
+              "title": "Mike Klein for Congress - 5 Pillars page (undated; read 2026-09-21)",
+              "url": "https://mikeklein4congress.com/5-pillars",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Klein's economic plan calls for more revenue from high earners through a higher Social Security contribution cap and for antitrust enforcement and local supply-chain investment, rather than making tax cuts a priority.",
+          "quote": "We must also raise the cap on Social Security contributions so the wealthy pay their fair share.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Mike Klein",
+              "url": "https://ballotpedia.org/Mike_Klein_(Florida)",
+              "date": "2026-08-01"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Klein says every American deserves access to affordable health care and that he would break what he calls the prescription drug monopoly. He does not specifically address Medicaid expansion or ACA subsidies.",
+          "quote": "Break the prescription drug monopoly. Every American deserves access to affordable healthcare",
+          "sources": [
+            {
+              "title": "Mike Klein for Congress - 5 Pillars page (undated; read 2026-09-21)",
+              "url": "https://mikeklein4congress.com/5-pillars",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "On immigration, Klein's platform emphasizes redirecting resources to professional law enforcement and says every person on American soil is entitled to due process, rather than calling for broader or faster removals.",
+          "quote": "Redirect resources to professional law enforcement. Every person on American soil is entitled to due process",
+          "sources": [
+            {
+              "title": "Mike Klein for Congress - 5 Pillars page (undated; read 2026-09-21)",
+              "url": "https://mikeklein4congress.com/5-pillars",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Money in politics",
+          "summary": "Klein's central campaign message is ending corruption: he would ban congressional insider stock trading, ban corporate PACs and dark money, end gerrymandering and enforce antitrust law, and says he takes no corporate PAC money.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Mike Klein",
+              "url": "https://ballotpedia.org/Mike_Klein_(Florida)",
+              "date": "2026-08-01"
+            },
+            {
+              "title": "Mike Klein for Congress - 5 Pillars page (undated; read 2026-09-21)",
+              "url": "https://mikeklein4congress.com/5-pillars",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "An independent bloc in Congress",
+          "summary": "He argues that five independents in the U.S. House could deny either party a majority and force bipartisan lawmaking, and asks voters to help build that bloc.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Mike Klein",
+              "url": "https://ballotpedia.org/Mike_Klein_(Florida)",
+              "date": "2026-08-01"
+            }
+          ]
+        },
+        {
+          "title": "War powers",
+          "summary": "Klein, a combat veteran, says war should be a last resort and not a tool of political convenience.",
+          "sources": [
+            {
+              "title": "Mike Klein for Congress - 5 Pillars page (undated; read 2026-09-21)",
+              "url": "https://mikeklein4congress.com/5-pillars",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

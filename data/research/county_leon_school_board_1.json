@@ -1,7 +1,7 @@
 {
   "race_id": "county_leon_school_board_1",
   "title": "Leon County School Board, District 1",
-  "level": "county",
+  "level": "school",
   "office_group": "County",
   "term": "4 years",
   "jurisdiction": {
@@ -15,20 +15,20 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
       "id": "james_billingsley",
       "name": "James Billingsley",
-      "party": "Nonpartisan",
+      "party": "Write-in",
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Not found",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Billingsley is a write-in candidate for the District 1 seat and the parent of two Leon County Schools students. Because write-in candidates do not appear on Florida's printed ballot, voters must write in his name. WFSU reported his campaign had filed no contributions or expenditures and that he said he is running because he believes the board needs new members with fresh ideas.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -36,9 +36,54 @@
           "title": "Florida Division of Elections, 2026 general election candidate list",
           "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
           "date": "2026-09-18"
+        },
+        {
+          "title": "Florida Division of Elections candidate list (Write-In status)",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-09-21"
         }
       ],
-      "positions": {},
+      "positions": {
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In a candidate questionnaire published by Florida Capital Tea, Billingsley said teachers need to be paid accordingly and put educator compensation among his priorities for how the district allocates money.",
+          "quote": "Teachers need to be paid accordingly",
+          "sources": [
+            {
+              "title": "James Billingsley, Leon County Schools District 1",
+              "url": "https://floridacapitaltea.com/james-billingsley-leon-county-schools-district-1/",
+              "date": "2026-06-18"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In the same questionnaire he proposed action plans for high-risk schools and a partnership with the Tallahassee Police Department to support inner-city schools; he did not discuss counselors or mental-health staff.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "James Billingsley, Leon County Schools District 1",
+              "url": "https://floridacapitaltea.com/james-billingsley-leon-county-schools-district-1/",
+              "date": "2026-06-18"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "He called for an audit of district spending, said non-essential personnel costs are too high, and said tax revenue should not fund 'a wish list' of board members or the superintendent, but did not call for cutting taxes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "James Billingsley, Leon County Schools District 1",
+              "url": "https://floridacapitaltea.com/james-billingsley-leon-county-schools-district-1/",
+              "date": "2026-06-18"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],
@@ -53,13 +98,13 @@
       "id": "alva_smith",
       "name": "Alva Smith",
       "party": "Nonpartisan",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Leon County School Board member, District 1",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Alva Swafford Smith is the incumbent District 1 board member and says the term she is seeking will be her last. For the first time in her tenure she faces no opponent on the printed ballot, only write-in candidate James Billingsley. The seat will help decide how Leon County Schools responds to falling enrollment, a tight budget and pending school consolidation.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,9 +114,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Smith pushed colleagues to consolidate under-enrolled schools such as Fort Braden and Killearn Lakes Elementary, saying the roughly $10 million saved should go to teacher raises of about $5,000 each. The effort stalled after the superintendent halted the discussion around November 2025.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Uncontested but not unchallenged: Alva Swafford Smith seeks a final term on the Leon school board",
+              "url": "https://news.wfsu.org/wfsu-local-news/2026-07-29/uncontested-but-not-unchallenged-alva-swafford-smith-seeks-a-final-term-on-the-leon-school-board",
+              "date": "2026-07-29"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Asked about raising local property tax rates for schools, Smith said the decision should be put to the community rather than decided by the board. She has also warned the district is losing $10 million to $20 million a year and proposed raising its emergency reserve above the state-required 3% minimum.",
+          "quote": "I'm really in favor of letting our community decide. That is their decision.",
+          "sources": [
+            {
+              "title": "Uncontested but not unchallenged: Alva Swafford Smith seeks a final term on the Leon school board",
+              "url": "https://news.wfsu.org/wfsu-local-news/2026-07-29/uncontested-but-not-unchallenged-alva-swafford-smith-seeks-a-final-term-on-the-leon-school-board",
+              "date": "2026-07-29"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Proposed raising the district's emergency reserve fund above the state-mandated 3% minimum; the board reached consensus in favor within two weeks.",
+          "sources": [
+            {
+              "title": "Uncontested but not unchallenged: Alva Swafford Smith seeks a final term on the Leon school board",
+              "url": "https://news.wfsu.org/wfsu-local-news/2026-07-29/uncontested-but-not-unchallenged-alva-swafford-smith-seeks-a-final-term-on-the-leon-school-board",
+              "date": "2026-07-29"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

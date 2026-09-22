@@ -1,7 +1,7 @@
 {
   "race_id": "county_orange_school_board_3",
   "title": "Orange County School Board, District 3",
-  "level": "county",
+  "level": "school",
   "office_group": "County",
   "term": "4 years",
   "jurisdiction": {
@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -28,7 +28,7 @@
       "website": "https://votefordianamoore.com",
       "occupation": null,
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Moore is a candidate for the Orange County School Board District 3 seat on the Nov. 3, 2026 ballot. In the 2026 News Collaborative/ClickOrlando voters guide she listed parental choice among district learning options, teacher compensation and student discipline as her top three issues, and said she would press the district on how it spends money.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,71 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "teacher_pay": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Moore named teacher compensation one of her top three issues, said Florida ranks last in the country on teacher pay, and proposed finding money for raises by reviewing the budget, changing the district's health-insurance approach, and moving staff out of downtown offices into closed schools to generate rental income.",
+          "quote": "Florida is 50th in teacher pay in the US",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County School Board District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-school-board-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Moore listed discipline among her top three issues, calling for stricter policies that place students in the district's PASS program or suspend them on first violations for vaping and classroom disruption. Her school-safety answer supports school resource officers with training to build student trust; she did not discuss counselors or mental-health staffing.",
+          "quote": "stricter policies to put students in PASS or suspend them for first violations",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County School Board District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-school-board-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "school_books": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Asked about book challenges, Moore said parents should be able to review materials and decide what their own children read. She described a per-family opt-out rather than a process for removing a title for all students.",
+          "quote": "give parents the right to review and decide for their children what books they can read",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County School Board District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-school-board-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "School choice within the district",
+          "summary": "Moore's first listed issue is parental choice among district options - virtual, traditional and magnet schools. She proposed exit surveys for families who leave Orange County Public Schools and said the district should look harder at why enrollment is declining.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County School Board District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-school-board-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "title": "School choice within the district",
+          "summary": "Moore's first listed issue is parental choice among district options - virtual, traditional and magnet schools. She proposed exit surveys for families who leave Orange County Public Schools and said the district should look harder at why enrollment is declining.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County School Board District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-school-board-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Florida Politics reported on Sept. 12, 2026 that Moore's Orange County Public Schools personnel file contains complaints from parents and colleagues and past suspensions; Moore said she is an effective teacher and that 'OCPS does not want me sitting on the Board because I ask questions they don't want asked.'",
@@ -67,10 +130,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.vote4pena.com/",
+      "occupation": "Educator and education consultant",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Pena is an educator with more than 20 years of experience teaching at the K-12 and college levels, and is the parent of an Orange County Public Schools student. She is a candidate for the District 3 seat on the Nov. 3, 2026 ballot and answered the 2026 News Collaborative/ClickOrlando voters guide questionnaire.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -80,7 +143,60 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "school_books": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked about book challenges and library removals, Pena said decisions should be made by qualified educators, librarians and appropriate review committees, and judged on educational value, age appropriateness and established academic standards.",
+          "quote": "qualified educators, librarians, and appropriate review committees",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County School Board District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-school-board-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Pena's school-safety answer called for regularly reviewing and strengthening safety protocols and combining prevention, early intervention and a positive school climate. She did not propose additional police presence or tougher discipline.",
+          "quote": "prevention, early intervention, and a positive school climate",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County School Board District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-school-board-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Pena listed protecting public schools among her top three issues, calling for responsible funding, proactive planning for enrollment decline, and greater accountability for schools that receive public dollars.",
+          "quote": "greater accountability for schools receiving public dollars",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County School Board District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-school-board-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Pena calls for competitive salaries as part of recruiting and retaining educators, but said pay alone is not the answer and stressed professional development, mentorship, career growth and supportive working conditions. She did not name budget tradeoffs.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County School Board District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-school-board-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      },
       "other_issues": [
         {
           "title": "Response to reporting on opponent",
@@ -95,7 +211,48 @@
         }
       ],
       "record": [],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "U.S. Rep. Maxwell Frost",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County School Board District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-school-board-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "by": "Orange County Classroom Teachers Association",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County School Board District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-school-board-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "by": "U.S. Rep. Maxwell Frost",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County School Board District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-school-board-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "by": "Orange County Classroom Teachers Association",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County School Board District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-orange-county-school-board-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

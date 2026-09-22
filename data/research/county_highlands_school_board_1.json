@@ -1,7 +1,7 @@
 {
   "race_id": "county_highlands_school_board_1",
   "title": "Highlands County School Board, District 1",
-  "level": "county",
+  "level": "school",
   "office_group": "County",
   "term": "4 years",
   "jurisdiction": {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Handyman; life and business coach",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "James Jonsten is an ordained minister who served two years as lay pastor at Burnsville Wesleyan Church in Minnesota and has taught children's church since the 1970s. He has owned construction and commercial services businesses and worked as an insurance claims adjuster, sales manager and trainer. He advanced to the November runoff after taking about 31% of the August 2026 primary vote.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -39,7 +39,19 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Campaign themes",
+          "summary": "Jonsten says education is about building a foundation of leadership and accountability and that he would work to keep Highlands County schools financially sound, safe and focused on student growth. He did not respond to the Florida Trib's interview requests, and no detailed policy positions were located.",
+          "sources": [
+            {
+              "title": "Three candidates vie for Highlands County District 1 school board seat",
+              "url": "https://floridatrib.org/2026/08/07/highlands-county-school-board-election-district-1/",
+              "date": "2026-08-07"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     },
@@ -51,9 +63,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Former educator; classroom teacher, reading coach, staffing specialist and ESE inclusion teacher",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Kari Pritchett was born and raised in Highlands County and holds bachelor's and master's degrees from Florida State University. She worked in the district as a classroom teacher, reading coach, staffing specialist and exceptional student education inclusion teacher, and chaired the District School Advisory Council. She led the August 2026 primary with about 41% of the vote.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -64,7 +76,19 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Campaign themes",
+          "summary": "Pritchett describes herself as a 'responsible conservative steward of taxpayer dollars' and campaigns on academic excellence, transparency, accountability and student success. She did not respond to the Florida Trib's interview requests, and no specific positions on the school tax rate, teacher pay, curriculum, safety or vouchers were located.",
+          "sources": [
+            {
+              "title": "Three candidates vie for Highlands County District 1 school board seat",
+              "url": "https://floridatrib.org/2026/08/07/highlands-county-school-board-election-district-1/",
+              "date": "2026-08-07"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

@@ -947,9 +947,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://tonydarrigo.com/",
-      "occupation": null,
+      "occupation": "Hospitality business management consultant; owner-operator of Two Step Entertainment",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Tony D'Arrigo is a no-party-affiliation candidate in Florida's 13th Congressional District. He works as a hospitality business management consultant advising restaurant and hospitality operators and runs Two Step Entertainment, which works with online creators. He describes himself as a former Republican and a \"Constitution purist\" and says he refuses dark money and lobbyist contributions.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -959,7 +959,93 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "D'Arrigo says his goal is universal health coverage with costs capped as a share of income, free care for children through age 18, and a large expansion of Healthcare.gov. He also says he would restore cuts to Medicare and Medicaid.",
+          "quote": "My goal is universal healthcare: guaranteed coverage for all, caps on costs tied to income, and no more benefit cliffs or surprise bills.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Tony D'Arrigo (completed 2025; read 2026-09-21)",
+              "url": "https://ballotpedia.org/Tony_D%27Arrigo",
+              "date": "2026-09"
+            },
+            {
+              "title": "Tony D'Arrigo for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://tonydarrigo.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "social_security": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "D'Arrigo says he opposes cuts to Social Security, Medicare and Medicaid, and would fight to increase Social Security and other entitlement benefits, with a longer-term goal of lowering the retirement age.",
+          "quote": "protect Social Security, Medicare, and Medicaid for every senior and working family",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Tony D'Arrigo (completed 2025; read 2026-09-21)",
+              "url": "https://ballotpedia.org/Tony_D%27Arrigo",
+              "date": "2026-09"
+            },
+            {
+              "title": "Tony D'Arrigo for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://tonydarrigo.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "D'Arrigo proposes government-backed home mortgages with interest rates capped at 5% for working families when private banks will not lend at fair rates.",
+          "quote": "government-backed mortgages at fair rates when banks won't do their job",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Tony D'Arrigo (completed 2025; read 2026-09-21)",
+              "url": "https://ballotpedia.org/Tony_D%27Arrigo",
+              "date": "2026-09"
+            },
+            {
+              "title": "Tony D'Arrigo for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://tonydarrigo.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "D'Arrigo says he would end federal subsidies for oil and fuel companies and redirect the money to wind, solar and water power, and would subsidize low-cost electric vehicles.",
+          "quote": "I'll end subsidies for big oil and redirect them to clean, affordable energy-wind, water, and solar on public land",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Tony D'Arrigo (completed 2025; read 2026-09-21)",
+              "url": "https://ballotpedia.org/Tony_D%27Arrigo",
+              "date": "2026-09"
+            },
+            {
+              "title": "Tony D'Arrigo for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://tonydarrigo.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "D'Arrigo proposes eliminating the federal income tax for households earning under $75,000, but pairs it with large new federal spending on health coverage, school meals and energy, so he does not accept the trade-off of fewer services.",
+          "quote": "I'll push to eliminate federal income tax for households under $75K, so families keep more of what they earn.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Tony D'Arrigo (completed 2025; read 2026-09-21)",
+              "url": "https://ballotpedia.org/Tony_D%27Arrigo",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

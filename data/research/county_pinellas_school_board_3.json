@@ -1,7 +1,7 @@
 {
   "race_id": "county_pinellas_school_board_3",
   "title": "Pinellas County School Board, District 3",
-  "level": "county",
+  "level": "school",
   "office_group": "County",
   "term": "4 years",
   "jurisdiction": {
@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.curtis4allpcs.com/",
-      "occupation": null,
+      "occupation": "Founder of Speak4MC, a training organization for youth and family agencies",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Campogni, 41, has worked with at-risk youth in Pinellas and central Florida for about 15 years, moving from work in a group home to case management. He founded Speak4MC in 2021 to train youth and family agencies nationally. He and his wife adopted two children through Florida's foster care system. He is a candidate for the District 3 at-large seat on the Nov. 3, 2026 ballot.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,8 +38,94 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Campogni's website lists teacher support and teacher retention among his priorities and says he supports listening to teachers and paying them competitively. He does not say pay should come ahead of other district spending.",
+          "quote": "Teacher Support I support listening to teachers and paying them competitively.",
+          "sources": [
+            {
+              "title": "Curtis Campogni campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Curtis_Campogni",
+              "date": "2026-07-17"
+            }
+          ]
+        },
+        "school_books": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Campogni says he supports his district's current review policy because it does not let one person remove material district-wide, requiring community input, professional review and verifiable justification first, while parents keep the right to decide for their own children.",
+          "quote": "when one parent seeks to remove a book for every family in the district, it also impacts the ability of other parents to make that decision for their own children",
+          "sources": [
+            {
+              "title": "Keep Florida Reading 2026 school board candidate questionnaire (candidate's own written answers)",
+              "url": "https://www.keepfloridareading.org/uploads/6/1/4/2/61420659/curtis_campogni.pdf",
+              "date": "2026-07-13"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Campogni's campaign website, quoted on Ballotpedia, lists \"Vouchers\" among his core priorities and says he supports keeping tax dollars in public schools.",
+          "quote": "Vouchers I support keeping tax dollars in public schools.",
+          "sources": [
+            {
+              "title": "Curtis Campogni campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Curtis_Campogni",
+              "date": "2026-07-17"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Campogni's website says he supports making safety a top priority both physically and emotionally, more counselors and support systems for students, and weapon detection as one part of a broader safety strategy. He also lists accountability and intervention on student behavior.",
+          "quote": "Mental Health I support more counselors and support systems for students.",
+          "sources": [
+            {
+              "title": "Curtis Campogni campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Curtis_Campogni",
+              "date": "2026-07-17"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Declining enrollment and school closures",
+          "summary": "Campogni links falling enrollment to teacher burnout and lost community trust, and argues enrollment drives funding. He says school-closure recommendations deserve scrutiny and that board decisions should be judged by whether they improve student success.",
+          "sources": [
+            {
+              "title": "Meet the candidates: Pinellas County School Board",
+              "url": "https://www.wusf.org/text/local-state/2026-07-27/meet-the-candidates-pinellas-county-school-board",
+              "date": "2026-07-27"
+            },
+            {
+              "title": "Curtis Campogni for Pinellas County School Board District 3 - campaign site",
+              "url": "https://www.curtis4allpcs.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Declining enrollment and school closures",
+          "summary": "Campogni links falling enrollment to teacher burnout and lost community trust, and argues enrollment drives funding. He says school-closure recommendations deserve scrutiny and that board decisions should be judged by whether they improve student success.",
+          "sources": [
+            {
+              "title": "Meet the candidates: Pinellas County School Board",
+              "url": "https://www.wusf.org/text/local-state/2026-07-27/meet-the-candidates-pinellas-county-school-board",
+              "date": "2026-07-27"
+            },
+            {
+              "title": "Curtis Campogni for Pinellas County School Board District 3 - campaign site",
+              "url": "https://www.curtis4allpcs.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -53,13 +139,13 @@
       "id": "dawn_peters",
       "name": "Dawn Peters",
       "party": "Nonpartisan",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.votedawnpeters.com/",
+      "occupation": "Pinellas County School Board member (District 3, at-large); property management professional",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Peters, 51, was elected to the Pinellas County School Board in November 2022 and serves as vice chair. Before taking office she worked in property management and as a self-employed personal trainer, and she has been a certified substitute preschool teacher, a school mentor and a PTA officer. She is seeking the District 3 at-large seat on the Nov. 3, 2026 ballot.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,8 +155,58 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Peters declined an interview but wrote in a candidate survey that she supports academic growth, maintaining stability and increasing teacher and staff pay. She did not name budget tradeoffs.",
+          "quote": "academic growth, maintain stability and increase teacher and staff pay",
+          "sources": [
+            {
+              "title": "Meet the candidates: Pinellas County School Board",
+              "url": "https://www.wusf.org/text/local-state/2026-07-27/meet-the-candidates-pinellas-county-school-board",
+              "date": "2026-07-27"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Peters's campaign site emphasizes responsible governance, making sure families have a voice and that tax dollars are used wisely. She has not called for cutting taxes or named services she would reduce.",
+          "quote": "tax dollars are used wisely",
+          "sources": [
+            {
+              "title": "Dawn Peters for School Board - campaign site",
+              "url": "https://www.votedawnpeters.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Post-graduation pathways",
+          "summary": "Peters says public education should prepare students for college, career and technical education, skilled trades, military service or direct entry into the workforce, and should instill civic responsibility and critical thinking.",
+          "sources": [
+            {
+              "title": "Dawn Peters for School Board - campaign site",
+              "url": "https://www.votedawnpeters.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Post-graduation pathways",
+          "summary": "Peters says public education should prepare students for college, career and technical education, skilled trades, military service or direct entry into the workforce, and should instill civic responsibility and critical thinking.",
+          "sources": [
+            {
+              "title": "Dawn Peters for School Board - campaign site",
+              "url": "https://www.votedawnpeters.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

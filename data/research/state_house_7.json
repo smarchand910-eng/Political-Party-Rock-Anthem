@@ -25,7 +25,7 @@
   "what_it_does": "Represents District 7 (Dixie, Franklin, Gulf, Hamilton, Lafayette, Liberty, Suwannee, Taylor, Wakulla, Parts of Jefferson, Leon) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": false,
   "decided_note": "Jason Shoaf (Republican) is listed as unopposed by the Florida Division of Elections and is elected without appearing on the November ballot. Source: https://dos.elections.myflorida.com/candidates/CanList.asp",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
@@ -36,9 +36,9 @@
       "photo_url": "assets/photos/jason_shoaf.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://jasonshoaf.com",
-      "occupation": null,
+      "occupation": "Small business owner; member of the Florida House of Representatives since 2018",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Unopposed). Not yet researched.",
+      "background": "Jason Shoaf has represented Florida House District 7 since winning a 2018 special election. In his Ballotpedia survey he described himself as a small business owner from Port St. Joe who had never run for office before, and said he started work at age 12 digging ditches and installing gas pipes. He said helping North Florida recover from Hurricane Michael, which damaged his parents' and brother's homes, was a core reason he ran.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -48,7 +48,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In his Ballotpedia survey completed for his first campaign in 2019, Shoaf listed advancing President Trump's agenda to secure the border and stop illegal immigration as his top priority. He did not address large-scale deportation.",
+          "quote": "Advance President Trump’s agenda to secure our borders and stop illegal immigration.",
+          "sources": [
+            {
+              "title": "Jason Shoaf - Ballotpedia (2019 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Jason_Shoaf",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Shoaf's 2019 Ballotpedia survey listed defending the Second Amendment among his top three priorities and he described himself as someone who fights for the Second Amendment. He did not comment on specific Florida gun laws such as the red-flag law or the age-21 purchase rule.",
+          "quote": "Defend the Second Amendment and fight for our North Florida values.",
+          "sources": [
+            {
+              "title": "Jason Shoaf - Ballotpedia (2019 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Jason_Shoaf",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In the same 2019 survey Shoaf described himself as a conservative who 'defends life.' He did not discuss Florida's current six-week law, which was enacted later.",
+          "quote": "I'm a conservative who supports President Trump, fights for the Second Amendment and defends life.",
+          "sources": [
+            {
+              "title": "Jason Shoaf - Ballotpedia (2019 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Jason_Shoaf",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

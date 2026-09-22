@@ -9,7 +9,7 @@
     "id": "Volusia"
   },
   "what_it_does": "Volusia County Council members set the county budget and millage, adopt land-use rules and oversee county services; the council is nonpartisan.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Runoff per WNDB News Daytona Beach.",
   "candidates": [
     {
@@ -19,10 +19,10 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://danny4volusia.com/",
+      "occupation": "Owner, Make Way Fishing Charters; former Daytona Beach police officer",
       "residence": null,
-      "background": "Incumbent District 3 council member.",
+      "background": "Robins, 41, grew up in Saugerties, New York, and owns Make Way Fishing Charters after serving as a Daytona Beach police officer. He has represented District 3 on the Volusia County Council and finished second in the August 18, 2026 primary with 38.7%, forcing a November runoff against Bryon White. His campaign lists public safety, conservation and outdoor access, and fiscal responsibility as priorities; he declined interview requests and did not answer the News 6 voter guide questionnaire.",
       "primary_result": "Second in Aug 18 primary with 38.9% (9,174)",
       "positions": {
         "taxes": {
@@ -103,11 +103,22 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Robins has argued that most of the county's growth is happening inside cities and outside the County Council's control, and has questioned raising impact fees on the grounds that the cost is passed on to homebuyers. In a 2022 candidate interview he said the council should balance ecological and economic concerns rather than stop development.",
+          "quote": "It's a tricky subject because you want houses and everything to remain affordable. You want your kids to stay and grow up here, but meanwhile we're pricing them out.",
+          "sources": [
+            {
+              "title": "In Volusia, District 3 Council candidates voice different views on development",
+              "url": "https://www.yahoo.com/news/volusia-district-3-council-candidates-182746078.html",
+              "date": "2022-10-25"
+            },
+            {
+              "title": "3 candidates vie for Volusia County Council District 3. Who are they?",
+              "url": "https://www.yahoo.com/news/politics/articles/3-candidates-vie-volusia-county-174503475.html",
+              "date": "2026-08-12"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -174,7 +185,18 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Campaign materials highlight land conservation, flood-reduction projects and stricter distance requirements for sex offenders as work done during his council term.",
+          "sources": [
+            {
+              "title": "3 candidates vie for Volusia County Council District 3. Who are they?",
+              "url": "https://www.yahoo.com/news/politics/articles/3-candidates-vie-volusia-county-174503475.html",
+              "date": "2026-08-12"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "sources": [
         {
@@ -194,10 +216,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.votebryonwhite.com/",
+      "occupation": "Business owner, co-founder of Yaupon Brothers American Tea; former Volusia County lifeguard, EMT and beach safety officer",
       "residence": null,
-      "background": "Challenger; led the District 3 primary (Anthony Gorham 15.2% eliminated).",
+      "background": "White, 40, of New Smyrna Beach, co-founded Yaupon Brothers American Tea and previously worked for Volusia County government as a lifeguard, EMT and beach law enforcement officer and captain. He describes himself as a public safety professional, entrepreneur, farmer and conservation advocate. He led the August 18, 2026 District 3 primary with 46.1% and advanced to a November runoff against incumbent Danny Robins.",
       "primary_result": "First in Aug 18 primary with 46.0% (10,846)",
       "positions": {
         "taxes": {
@@ -208,11 +230,22 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "He opposes the proposed constitutional amendment to sharply cut property taxes, describing it as a shift rather than a reduction and warning that a roughly $92 million annual hit to Volusia County would force service cuts or higher fees. He has also called the ballot language deceptive.",
+          "quote": "a tax shift, not a tax reduction",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-council-district-3/",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "3 candidates vie for Volusia County Council District 3. Who are they?",
+              "url": "https://www.yahoo.com/news/politics/articles/3-candidates-vie-volusia-county-174503475.html",
+              "date": "2026-08-12"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -222,11 +255,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He rejects sprawl-based approaches to housing costs and instead calls for infrastructure investment and incentives for redevelopment, along with protecting residents from rising property taxes, flooding, insurance and utility costs.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-council-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -271,18 +310,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He makes flood mitigation and stormwater management a top priority after Hurricane Ian, would reform land-use policies that allow development worsening flooding, and supports requiring voter approval before the county sells conservation land bought under Volusia Forever. He opposes current data center proposals over their water and electricity demands.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-council-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "White says growth should pay for itself through impact fees, opposes sprawl in favor of urban redevelopment, infill and low-impact development, and supports establishing a rural boundary to protect remaining green space. He says he has taken no campaign contributions from development interests.",
+          "quote": "Growth must pay for growth",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council District 3",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-council-district-3/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,

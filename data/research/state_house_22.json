@@ -209,26 +209,39 @@
         "healthcare": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Trask says health care should be accessible and affordable and lists improving access to physical and mental health care, especially in rural areas, as a passion; she has not spelled out a Medicaid position.",
-          "quote": "Healthcare should be accessible, affordable, and centered on dignity",
+          "summary": "In her 2026 Ballotpedia Candidate Connection survey, Trask lists health care among the policy areas she is passionate about and says she is committed to improving access to mental and physical health care, especially in rural communities. She says she wants to be known for crafting solutions to Florida's affordability and health care crises and for expanding access to essential services.",
+          "quote": "I’m also committed to upholding home rule, improving access to mental and physical healthcare, especially in rural communities",
           "sources": [
             {
-              "title": "2026 Voter's Guide: Florida House, District 22 (News4JAX)",
-              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-22/",
-              "date": "2026-07-31"
+              "title": "Ballotpedia Candidate Connection survey - Amy Trask (2026)",
+              "url": "https://ballotpedia.org/Amy_Trask",
+              "date": "2026"
             }
           ]
         },
         "growth": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "She calls for stronger home rule and says she is committed to upholding local control, which favors more local say over development.",
-          "quote": "stronger home rule",
+          "summary": "Trask lists upholding home rule - local governments' authority to set their own policies - among the causes she is committed to in her Ballotpedia survey.",
+          "quote": "I’m also committed to upholding home rule",
           "sources": [
             {
-              "title": "2026 Voter's Guide: Florida House, District 22 (News4JAX)",
-              "url": "https://www.news4jax.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-22/",
-              "date": "2026-07-31"
+              "title": "Ballotpedia Candidate Connection survey - Amy Trask (2026)",
+              "url": "https://ballotpedia.org/Amy_Trask",
+              "date": "2026"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Asked about Florida's greatest challenges, Trask named the affordability crisis and the strain on the state's health care and housing systems, saying families are being priced out of stability. She said addressing it will require practical, bipartisan solutions that strengthen the workforce and expand access to essential services.",
+          "quote": "Florida’s greatest challenges will be its tribalism, the affordability crisis, and the strain on our healthcare and housing systems.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Amy Trask (2026)",
+              "url": "https://ballotpedia.org/Amy_Trask",
+              "date": "2026"
             }
           ]
         }
@@ -247,7 +260,78 @@
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "State Rep. Anna Eskamani",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Amy Trask (2026)",
+              "url": "https://ballotpedia.org/Amy_Trask",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "State Rep. Rita Harris",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Amy Trask (2026)",
+              "url": "https://ballotpedia.org/Amy_Trask",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "Senate Minority Leader Lori Berman",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Amy Trask (2026)",
+              "url": "https://ballotpedia.org/Amy_Trask",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "Alachua County School Board members Sarah Rockwell and Thomas Vu",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Amy Trask (2026)",
+              "url": "https://ballotpedia.org/Amy_Trask",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "Florida Education Association",
+          "sources": [
+            {
+              "title": "Amy Trask - Ballotpedia, 2026 endorsements",
+              "url": "https://ballotpedia.org/Amy_Trask",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "Florida AFL-CIO",
+          "sources": [
+            {
+              "title": "Amy Trask - Ballotpedia, 2026 endorsements",
+              "url": "https://ballotpedia.org/Amy_Trask",
+              "date": "2026"
+            }
+          ]
+        },
+        {
+          "by": "Democratic Environmental Caucus of Florida",
+          "sources": [
+            {
+              "title": "Amy Trask - Ballotpedia, 2026 endorsements",
+              "url": "https://ballotpedia.org/Amy_Trask",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

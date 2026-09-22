@@ -1,7 +1,7 @@
 {
   "race_id": "county_martin_school_board_4",
   "title": "Martin County School Board, District 4",
-  "level": "county",
+  "level": "school",
   "office_group": "County",
   "term": "4 years",
   "jurisdiction": {
@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Retired educator; former Martin County School Board member",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Anderson served on the Martin County School Board from 2018 to 2022 and spent about three decades in education. He has said his 2022 loss to Amy Pritchett was tied to his vote requiring students to wear masks during the COVID-19 pandemic. He took about 41% of the Aug. 18, 2026 primary vote and faces Pritchett again in the Nov. 3 runoff.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,22 +38,73 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Anderson argues that the district is losing money as students leave for other options and has questioned the effect of the state's school-choice funding on public schools.",
+          "quote": "Funding is a problem now. We're losing funding. It's almost like it's designed to hurt public schools",
+          "sources": [
+            {
+              "title": "'Dismantling public education' or 'regaining our A rating'? Martin County School Board rematch centers on district's future",
+              "url": "https://floridatrib.org/2026/07/30/martin-county-school-board-election-district-4/",
+              "date": "2026-07-30"
+            }
+          ]
+        },
+        "school_books": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "On library challenges, Anderson favors a balanced review committee that brings in broader community input rather than acting on a single objection.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "'Dismantling public education' or 'regaining our A rating'? Martin County School Board rematch centers on district's future",
+              "url": "https://floridatrib.org/2026/07/30/martin-county-school-board-election-district-4/",
+              "date": "2026-07-30"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Anderson's focus on teacher retention is on working conditions rather than pay; he says the core problem is the support and respect teachers get from administration.",
+          "quote": "The real problem is that they don't really have the support that they need from administration, the respect for their dedication",
+          "sources": [
+            {
+              "title": "'Dismantling public education' or 'regaining our A rating'? Martin County School Board rematch centers on district's future",
+              "url": "https://floridatrib.org/2026/07/30/martin-county-school-board-election-district-4/",
+              "date": "2026-07-30"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Served on the Martin County School Board 2018-2022, including a vote to require students to wear masks during the COVID-19 pandemic.",
+          "sources": [
+            {
+              "title": "'Dismantling public education' or 'regaining our A rating'? Martin County School Board rematch centers on district's future",
+              "url": "https://floridatrib.org/2026/07/30/martin-county-school-board-election-district-4/",
+              "date": "2026-07-30"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     },
     {
       "id": "amy_pritchett",
       "name": "Amy Pritchett",
       "party": "Nonpartisan",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Martin County School Board member, District 4; retired teaching assistant",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Pritchett, 70, of Rocky Point was elected to the District 4 seat in 2022 after working as a teaching assistant in New York. She points to the district's return to an A rating and to reading proficiency rising from about 53% to about 65% during her term. She led the Aug. 18, 2026 primary with about 43% and faces former board member Tony Anderson in the Nov. 3 runoff.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -63,7 +114,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "education_choice": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pritchett rejects the argument that Florida's expansion of parental choice has weakened public education, saying that view is a misconception.",
+          "quote": "I think that's the misconception, that somehow parental choice has dismantled public education",
+          "sources": [
+            {
+              "title": "'Dismantling public education' or 'regaining our A rating'? Martin County School Board rematch centers on district's future",
+              "url": "https://floridatrib.org/2026/07/30/martin-county-school-board-election-district-4/",
+              "date": "2026-07-30"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Pritchett cites pay increases during her term, including starting teacher salaries rising to $51,300 and supplements for early-career teachers increasing from $800 to $3,000.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "'Dismantling public education' or 'regaining our A rating'? Martin County School Board rematch centers on district's future",
+              "url": "https://floridatrib.org/2026/07/30/martin-county-school-board-election-district-4/",
+              "date": "2026-07-30"
+            }
+          ]
+        },
+        "school_books": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "On library materials, Pritchett says the district must follow state requirements on age-appropriate content and notes that families who want a removed book have other options, such as public libraries.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "'Dismantling public education' or 'regaining our A rating'? Martin County School Board rematch centers on district's future",
+              "url": "https://floridatrib.org/2026/07/30/martin-county-school-board-election-district-4/",
+              "date": "2026-07-30"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []

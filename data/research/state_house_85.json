@@ -458,11 +458,24 @@
         "guns": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "His site lists defending the First and Second Amendments among his positions.",
-          "quote": "Defending the First and Second Amendments",
+          "summary": "Crompton's campaign site says he would defend First and Second Amendment rights, describing the Constitution as a living document rather than just a piece of paper. He does not propose specific changes to Florida's gun laws.",
+          "quote": "",
           "sources": [
             {
-              "title": "Hunter Stone Crompton - Write Him In For The Win - campaign site",
+              "title": "Hunter Stone Crompton - Write Him In For The Win, District 85 State Representative",
+              "url": "https://hunterstonecrompton.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Crompton calls for reviving New Deal-style programs at the state and federal level, including a Civilian Conservation Corps for environmental preservation and jobs in land conservation and restoration.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Hunter Stone Crompton - Write Him In For The Win, District 85 State Representative",
               "url": "https://hunterstonecrompton.com/",
               "date": "2026-09"
             }
@@ -476,6 +489,28 @@
           "sources": [
             {
               "title": "Hunter Stone Crompton - Write Him In For The Win - campaign site",
+              "url": "https://hunterstonecrompton.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Surveillance and civil liberties",
+          "summary": "Crompton says he would work to end what he calls surveillance overreach that expanded after 9/11, and argues local money should go to basic infrastructure such as street lights rather than to installing surveillance equipment.",
+          "sources": [
+            {
+              "title": "Hunter Stone Crompton - Write Him In For The Win, District 85 State Representative",
+              "url": "https://hunterstonecrompton.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Public jobs programs",
+          "summary": "Crompton proposes reviving Works Progress Administration-style programs to create public employment, and says politics should be the people's business rather than a business venture.",
+          "sources": [
+            {
+              "title": "Hunter Stone Crompton - Write Him In For The Win, District 85 State Representative",
               "url": "https://hunterstonecrompton.com/",
               "date": "2026-09"
             }

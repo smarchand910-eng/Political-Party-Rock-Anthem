@@ -19,10 +19,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://www.jeff4marioncounty.com/",
       "occupation": "Retired Ocala Police Department officer (1987-2016)",
       "residence": null,
-      "background": "Won the Aug. 18, 2026 Republican primary for the open District 4 seat (WCJB, Aug. 2, 2026, https://www.wcjb.com/2026/08/02/4-republicans-vie-open-marion-county-commission-seat/). Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Bairstow spent nearly 29 years with the Ocala Police Department, retiring in 2016, and has since run a private investigation agency and a fingerprinting business with his wife. He won the August 18, 2026 Republican primary for the open District 4 seat with 39% over three opponents and faces only a write-in candidate on November 3. His campaign focuses on infrastructure concurrency, public safety staffing and water protection.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -32,7 +32,60 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says infrastructure should come first: strengthening concurrency, planning road capacity before major development is approved, and making new growth pay a fair share through properly calculated impact fees. He also wants development steered to areas already designed to accommodate it.",
+          "quote": "We need to strengthen concurrency, make sure road capacity is planned before major development is approved... and make sure new growth pays a fair share through properly calculated impact fees.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Marion County Commission District 4 Republican primary",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-marion-county-commission-district-4-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He names water quality and water supply as the county's biggest environmental issue and would protect the Farmland Preservation Area, strengthen growth boundaries and make water part of every major growth decision. He opposes data centers in Marion County.",
+          "quote": "I am a hard NO for data centers in Marion County.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Marion County Commission District 4 Republican primary",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-marion-county-commission-district-4-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He lists public safety as a top issue, saying the county should plan staffing, stations, equipment and emergency resources around real growth numbers, support first responders, improve response times and include public safety facilities in long-term growth planning. He does not address criminal penalties.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Marion County Commission District 4 Republican primary",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-marion-county-commission-district-4-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Asked about the proposed constitutional amendment to sharply cut property taxes, he said lost revenue should be replaced through impact fees and making sure growth pays for growth, along with a review of county budget priorities, without stating a position for or against the amendment.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Marion County Commission District 4 Republican primary",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-marion-county-commission-district-4-republican-primary/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []

@@ -466,7 +466,7 @@
       "photo_url": "assets/photos/elizabeth_jeanty.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
-      "occupation": null,
+      "occupation": "Community educator, entrepreneur, nonprofit leader and media host; works as a consultant",
       "residence": null,
       "background": "Jeanty is the Republican candidate facing Gantt in SD 34 (Florida Politics). No further biographical information was found in search results.",
       "primary_result": "Republican nominee (Florida Politics); primary details not verified.",
@@ -501,11 +501,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In a Ballotpedia candidate survey, Jeanty listed housing costs among the problems she would work on in Tallahassee and said she is passionate about expanding access to attainable housing for working families. She did not describe specific subsidy, zoning or rent policies.",
+          "quote": "I will work to address housing costs, rising insurance premiums, economic opportunity, and support for small businesses while promoting responsible use of taxpayer dollars.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Elizabeth Jeanty",
+              "url": "https://ballotpedia.org/Elizabeth_Jeanty",
+              "date": "2026-09-09"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -613,7 +619,41 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Insurance costs and affordability",
+          "summary": "Jeanty says rising insurance premiums and the overall cost of living in District 34 are among her top concerns, but her survey answers do not say what insurance policy changes she would support.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Elizabeth Jeanty",
+              "url": "https://ballotpedia.org/Elizabeth_Jeanty",
+              "date": "2026-09-09"
+            }
+          ]
+        },
+        {
+          "title": "Public safety, schools and seniors",
+          "summary": "She says every neighborhood deserves safe streets, strong schools, accessible healthcare, reliable infrastructure and support for seniors, and lists flood resilience and government transparency as personal priorities.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Elizabeth Jeanty",
+              "url": "https://ballotpedia.org/Elizabeth_Jeanty",
+              "date": "2026-09-09"
+            }
+          ]
+        },
+        {
+          "title": "Government transparency and accountability",
+          "summary": "Jeanty's 2026 Ballotpedia survey says elected officials must be present, accessible, transparent and accountable, and that she would bring District 34 residents' concerns directly to Tallahassee and work across differences.",
+          "sources": [
+            {
+              "title": "Elizabeth Jeanty - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Elizabeth_Jeanty",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

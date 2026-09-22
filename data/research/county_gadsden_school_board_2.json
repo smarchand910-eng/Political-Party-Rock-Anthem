@@ -1,7 +1,7 @@
 {
   "race_id": "county_gadsden_school_board_2",
   "title": "Gadsden County School Board, District 2",
-  "level": "county",
+  "level": "school",
   "office_group": "County",
   "term": "4 years",
   "jurisdiction": {
@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Retired law enforcement officer; substitute teacher, Gadsden County schools",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Rodney Moore is a Gadsden County native with a 27-year law enforcement career that included the Florida Highway Patrol, the Gadsden County Sheriff's Office and service as police chief for the City of Quincy. He holds an associate degree in criminal justice from Tallahassee State College and works as a substitute teacher in Gadsden County schools. He ran for the same seat in 2022.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -39,7 +39,19 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Response to sexual assault reports at Gadsden County High School",
+          "summary": "Moore was unavailable for WFSU's candidate interview; the station reported that his public social media posts have centered on advocacy for students who were victims of sexual assault at Gadsden County High School.",
+          "sources": [
+            {
+              "title": "Meet the candidates for Gadsden School Board D2: Flores, Moore, Stallworth and Washington",
+              "url": "https://news.wfsu.org/wfsu-local-news/2026-07-28/meet-the-candidates-for-gadsden-school-board-d2-flores-moore-stallworth-and-washington",
+              "date": "2026-07-28"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     },
@@ -51,9 +63,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Pastor, Quincy",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Tracey Stallworth is a Quincy pastor who was born in Germany and grew up as a military child. He holds degrees in business administration and religion and a doctorate from Jacksonville Theological Seminary, and his family operates a farm that distributes food to about 350 people a week. His campaign's largest reported contribution came from civil rights attorney Benjamin Crump.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -63,8 +75,34 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Stallworth says he would seek partnerships with businesses and large corporations willing to help raise teacher salaries and fund stipends for classroom resources, and would work with colleges to build a pipeline of new educators.",
+          "quote": "pursue partnerships with businesses and large corporations who want to contribute to raising teacher salaries and help provide stipends for classroom resources",
+          "sources": [
+            {
+              "title": "Meet the candidates for Gadsden School Board D2: Flores, Moore, Stallworth and Washington",
+              "url": "https://news.wfsu.org/wfsu-local-news/2026-07-28/meet-the-candidates-for-gadsden-school-board-d2-flores-moore-stallworth-and-washington",
+              "date": "2026-07-28"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Transparency and enrollment",
+          "summary": "Stallworth says the district must 'be transparent and communicate with people to build trust' in order to reverse enrollment losses, and describes his approach as community-wide: 'We have to be a tribe to raise our community.'",
+          "sources": [
+            {
+              "title": "Meet the candidates for Gadsden School Board D2: Flores, Moore, Stallworth and Washington",
+              "url": "https://news.wfsu.org/wfsu-local-news/2026-07-28/meet-the-candidates-for-gadsden-school-board-d2-flores-moore-stallworth-and-washington",
+              "date": "2026-07-28"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

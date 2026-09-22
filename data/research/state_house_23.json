@@ -26,42 +26,54 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.votejjgrow.com",
-      "occupation": null,
+      "occupation": "Businessman and entrepreneur; state representative for District 23",
       "residence": null,
       "background": "Incumbent Republican state representative for HD 23 (Citrus County and the Dunnellon area of Marion County). Won the Aug. 18, 2026 Republican primary over Tod Cloud with about 73%.",
       "primary_result": "Won Aug. 18, 2026 Republican primary with ~73% over Tod Cloud (Florida Politics)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Grow's campaign site says he voted to cut billions of dollars in taxes, including sales-tax holidays for school supplies, tools and hurricane-preparedness items, and for balanced budgets that reduced spending and paid off a billion dollars in state debt early.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "ISSUES - JJ Grow",
+              "url": "https://www.votejjgrow.com/issues/",
+              "date": "2026-09"
+            }
+          ]
         },
         "property_tax": {
           "stance": 1,
           "confidence": "record",
-          "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
-          "quote": null,
+          "summary": "Grow says he voted to place a property-tax relief measure on the 2026 ballot that he says could save homeowners thousands of dollars a year, and describes lowering property taxes as a way to keep Floridians in their homes. A local voter guide noted he did not answer how he personally would vote on the amendment.",
+          "quote": "",
           "sources": [
             {
-              "title": "CS/HJR 1-F (2026) bill page - The Florida Senate",
-              "url": "https://www.flsenate.gov/Session/Bill/2026F/1F",
-              "date": "2026-06-02"
+              "title": "ISSUES - JJ Grow",
+              "url": "https://www.votejjgrow.com/issues/",
+              "date": "2026-09"
             },
             {
-              "title": "CS/HJR 1-F (2026) roll-call vote (House)",
-              "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF",
-              "date": "2026-06-02"
+              "title": "2026 Voter's Guide - Florida House District 23, Republican primary",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-florida-house-district-23-republican-primary/",
+              "date": "2026-07-31"
             }
           ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Grow credits market-based changes, including limits on what he calls frivolous lawsuits, for bringing new insurers into Florida and lowering rates, and says the job now is to stay vigilant that carriers pay claims and do not hide profits. He does not propose rate caps or expanding Citizens.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "ISSUES - JJ Grow",
+              "url": "https://www.votejjgrow.com/issues/",
+              "date": "2026-09"
+            }
+          ]
         },
         "housing": {
           "stance": null,
@@ -71,25 +83,48 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Grow says he voted to secure Florida's borders and to work with federal partners against illegal immigration, and for what he calls record funding for detention and deportation of criminal illegal aliens. He also backs an automatic death penalty for people in the country illegally who commit capital offenses.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "ISSUES - JJ Grow",
+              "url": "https://www.votejjgrow.com/issues/",
+              "date": "2026-09"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Grow's campaign site identifies him as a pro-life Republican. He does not describe any circumstances in which he would loosen Florida's six-week law.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "JJ Grow for State Representative",
+              "url": "https://www.votejjgrow.com",
+              "date": "2026-09"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Grow says he voted for open carry and describes himself as a pro-Second Amendment Republican who voted to protect Second Amendment rights.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "ISSUES - JJ Grow",
+              "url": "https://www.votejjgrow.com/issues/",
+              "date": "2026-09"
+            },
+            {
+              "title": "JJ Grow for State Representative",
+              "url": "https://www.votejjgrow.com",
+              "date": "2026-09"
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -106,11 +141,17 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Grow describes himself as a strong supporter of school choice and of empowering parents, and cites votes expanding student transportation access and allowing home-schooled children to play school sports.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "ISSUES - JJ Grow",
+              "url": "https://www.votejjgrow.com/issues/",
+              "date": "2026-09"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -141,11 +182,22 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Grow's campaign site highlights what it calls his unwavering support of law enforcement, and he cites votes for increased funding for detention and enforcement.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "JJ Grow for State Representative",
+              "url": "https://www.votejjgrow.com",
+              "date": "2026-09"
+            },
+            {
+              "title": "ISSUES - JJ Grow",
+              "url": "https://www.votejjgrow.com/issues/",
+              "date": "2026-09"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -188,6 +240,26 @@
             {
               "title": "Roll-call vote",
               "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Says he voted for a state budget that funds free health care for more than 200,000 Florida children each year.",
+          "sources": [
+            {
+              "title": "ISSUES - JJ Grow",
+              "url": "https://www.votejjgrow.com/issues/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "item": "Says he voted to revise school start times and to expand student transportation access and sports participation for home-schooled children.",
+          "sources": [
+            {
+              "title": "ISSUES - JJ Grow",
+              "url": "https://www.votejjgrow.com/issues/",
+              "date": "2026-09"
             }
           ]
         }

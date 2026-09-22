@@ -9,7 +9,7 @@
     "id": "Volusia"
   },
   "what_it_does": "Volusia County Council members set the county budget and millage, adopt land-use rules and oversee county services; the council is nonpartisan.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Runoff per WNDB News Daytona Beach; official results at https://www.volusiaelections.gov/elections/election-results/2026-election-results/august-18-2026-primary-election.stml (not readable).",
   "candidates": [
     {
@@ -19,18 +19,24 @@
       "incumbent": false,
       "photo_url": "assets/photos/nancy_miller.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
-      "website": null,
-      "occupation": null,
+      "website": "https://nancymillerforvolusiacounty.com/",
+      "occupation": "Mayor of Daytona Beach Shores; 43-year private-sector career",
       "residence": null,
       "background": "Advanced to the November runoff for the at-large seat (Barry Powell eliminated).",
       "primary_result": null,
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Her campaign site says she would keep taxes and fees as low as responsibly possible and control government costs, while also protecting essential services and reducing expenses; it cites Daytona Beach Shores becoming debt-free during her tenure.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Nancy Miller for Volusia County Council At-Large - Priorities",
+              "url": "https://nancymillerforvolusiacounty.com/priorities",
+              "date": "2026-09"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -96,18 +102,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Flooding and stormwater are her lead issue. She would move stormwater projects from planning into funded construction, use engineering data on water flow before spending, pursue state and federal funding, and create a countywide stormwater resilience dashboard.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Nancy Miller for Volusia County Council At-Large - Priorities",
+              "url": "https://nancymillerforvolusiacounty.com/priorities",
+              "date": "2026-09"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her campaign site calls for a public county development dashboard tracking proposed development in unincorporated Volusia, earlier notice to residents of significant zoning changes, greater scrutiny and a supermajority vote when upzoning significantly increases density, and a focus on redeveloping vacant property.",
+          "quote": "Create an easy-to-use County Development Dashboard where residents can track current and proposed development in unincorporated Volusia County",
+          "sources": [
+            {
+              "title": "Nancy Miller for Volusia County Council At-Large - Priorities",
+              "url": "https://nancymillerforvolusiacounty.com/priorities",
+              "date": "2026-09"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -124,11 +142,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her campaign site says she would support law enforcement with adequate staffing, training, equipment and resources and backs professional, well-trained first responders. She does not address criminal penalties or rehabilitation programs.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Nancy Miller for Volusia County Council At-Large - Priorities",
+              "url": "https://nancymillerforvolusiacounty.com/priorities",
+              "date": "2026-09"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -200,25 +224,37 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://mikep4volusia.com",
+      "occupation": "Former firefighter and police officer; describes himself as an efficiency expert in running large organizations and teams",
       "residence": null,
-      "background": "Advanced to the November runoff for the at-large seat.",
+      "background": "Poniatowski is a former firefighter and former police officer who describes himself as an efficiency expert in running large organizations and teams. He advanced to the November 3, 2026 runoff for the Volusia County Council at-large seat. His campaign focuses on property-tax reform, limiting up-zoning and sprawl, protecting the aquifer and wetlands, and opposing large data centers.",
       "primary_result": null,
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He says he would cut government spending while maintaining public safety and infrastructure, and pairs that with support for property-tax reform.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council At-Large seat",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-council-at-large-seat/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In the News 6 voter guide he said he supports property-tax reform, citing polling showing a strong majority of voters want some form of it, and committed to identifying cuts to make county government leaner.",
+          "quote": "recent polling shows strong majority of voters want some form of property tax reform",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council At-Large seat",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-council-at-large-seat/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -277,18 +313,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He names aquifer protection and wetlands preservation as his top environmental priorities and strongly opposes large hyperscale data centers over their water use and emissions, arguing they bring few jobs.",
+          "quote": "Once land is gone, it can never be replaced, and the damage done is irreversible.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council At-Large seat",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-council-at-large-seat/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says he would require low-impact development, prevent sprawl and heavily limit up-zoning, and emphasizes preserving green space and protecting wetlands.",
+          "quote": "Low Impact Development, prevent sprawl and heavily limit up-zoning",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council At-Large seat",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-council-at-large-seat/",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,

@@ -1,7 +1,7 @@
 {
   "race_id": "county_volusia_school_board_1",
   "title": "Volusia County School Board, District 1",
-  "level": "county",
+  "level": "school",
   "office_group": "County",
   "term": "4 years",
   "jurisdiction": {
@@ -15,7 +15,7 @@
   "what_it_does": "School board members set the district budget and school-tax rate, hire the superintendent (where appointed), approve school boundaries, curriculum policy and construction, and set district policies. Nonpartisan.",
   "on_november_ballot": true,
   "decided_note": null,
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); both candidates are marked Qualified, which for a nonpartisan seat means the August vote did not produce a majority winner (or the seat is decided only in November). Positions have not been researched; check the county Supervisor of Elections sample ballot.",
   "candidates": [
     {
@@ -26,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.brendabeery.org/",
-      "occupation": null,
+      "occupation": "Co-owner of a roofing and redesign business; retired Volusia County Schools teacher and assistant principal",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Beery spent 22 years in Volusia County Schools as a teacher and assistant principal and is now co-owner of a local roofing and redesign business. She led the August 2026 District 1 primary with about 50 percent of the vote and advanced to the Nov. 3 general election against the incumbent.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,10 +38,84 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Beery names the teacher shortage as the district's most pressing problem and calls for competitive pay, safer classrooms, consistent discipline and a real voice for teachers. She proposes eliminating duplicate district office positions and redeploying the savings to hire qualified teachers.",
+          "quote": "We must offer competitive pay, safer classrooms/schools, consistent discipline and give teachers a voice",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "school_books": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Asked about book challenges, Beery said all books should be age-appropriate and that decisions should rest on age appropriateness, educational value and the law rather than politics.",
+          "quote": "age appropriateness, educational value, and the law, not politics",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Beery's safety answer combines clear expectations and consistent consequences with early intervention and protecting the classroom environment for learning. She did not choose between officers and discipline on one side and counseling on the other.",
+          "quote": "clear expectations, consistent consequences, early intervention",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Beery names a lack of financial responsibility as one of the district's three most pressing problems and would require monthly public reports on budget-to-actual spending, revenues and staffing, and tie spending to measurable outcomes. She frames this as spending oversight rather than lowering taxes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Volusia/Flagler Central Labor Council",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "by": "Volusia/Flagler Central Labor Council",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -56,10 +130,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://jamiemhaynesforschoolboard.com/",
+      "occupation": "Volusia County School Board member (District 1); former Volusia County Schools teacher and district administrator",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Haynes began with Volusia County Schools more than 38 years ago as a teacher at Enterprise Elementary and most recently worked as a district administrator in Federal Programs and Grants/Title I, serving as coordinator for instructional technology. She is the incumbent District 1 board member and finished second in the August 2026 primary, advancing to the Nov. 3 general election.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -69,10 +143,158 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Haynes names recruiting and retaining employees as the district's most pressing problem and says she would advocate for increased education funding and support competitive compensation, along with professional development and recognition. She did not name spending she would cut.",
+          "quote": "competitive compensation, professional growth, classroom resources, and a positive work environment",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "school_books": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Asked about book challenges, Haynes said the district should follow the transparent review process established by Florida law, with parents, educators and community members taking part, and decide on the basis of that process, applicable law, age appropriateness and educational value.",
+          "quote": "transparent review process established by Florida law",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Haynes' campaign website, quoted on Ballotpedia, says safe and strong schools start with a strong partnership with law enforcement, administrators and educators. It does not mention counselors or mental-health staffing.",
+          "quote": "Safe and strong schools start with a strong partnership with law enforcement, administrators and educators.",
+          "sources": [
+            {
+              "title": "Jamie Haynes campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Jamie_Haynes_%28Florida%29",
+              "date": "2026-07-21"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Career and technical education",
+          "summary": "Haynes lists post-graduation pathways as a top concern and says she would keep expanding career and technical education, industry certifications, apprenticeships, dual enrollment and partnerships with local businesses.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "title": "School safety approach",
+          "summary": "On school safety Haynes said her focus is not changing what works but continually evaluating and strengthening current practices as new challenges and technologies emerge.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "title": "Career and technical education",
+          "summary": "Haynes lists post-graduation pathways as a top concern and says she would keep expanding career and technical education, industry certifications, apprenticeships, dual enrollment and partnerships with local businesses.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "title": "School safety approach",
+          "summary": "On school safety Haynes said her focus is not changing what works but continually evaluating and strengthening current practices as new challenges and technologies emerge.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "title": "Career and technical education",
+          "summary": "Haynes' website says she strongly supports career and technical education programs preparing students for college, skilled trades, military service and the workforce.",
+          "sources": [
+            {
+              "title": "Jamie Haynes campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Jamie_Haynes_%28Florida%29",
+              "date": "2026-07-21"
+            }
+          ]
+        },
+        {
+          "title": "Local decision-making and budget oversight",
+          "summary": "Haynes' website says that as chair of the district's internal audit committee she prioritizes transparency and responsible budgeting, and that she supports local decision-making rather than one-size-fits-all mandates.",
+          "sources": [
+            {
+              "title": "Jamie Haynes campaign website, quoted on Ballotpedia",
+              "url": "https://ballotpedia.org/Jamie_Haynes_%28Florida%29",
+              "date": "2026-07-21"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "State Sen. Tom A. Wright",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "by": "Volusia County Sheriff Mike Chitwood",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "by": "State Sen. Tom A. Wright",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "by": "Volusia County Sheriff Mike Chitwood",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1",
+              "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
+              "date": "2026-07-31"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

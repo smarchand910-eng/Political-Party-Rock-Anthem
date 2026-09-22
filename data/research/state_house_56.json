@@ -404,8 +404,125 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Freites calls for amending the state constitution to protect the Sadowski affordable-housing trust fund, repealing Florida's statewide ban on rent control so local governments can set their own rules, adding anti-price-gouging limits on sudden rent increases, and building community-owned housing in Pasco County priced for teachers, nurses, first responders and service workers.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Stop The Bleeding On The Housing Crisis - Jose Freites for Florida House 56",
+              "url": "https://freitesforstatehouse56.com/housing",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Freites supports HB 30, which he describes as capping annual property-insurance increases at 10 to 15 percent, restoring one-way attorney fees when claims are wrongly denied, and requiring insurers to publicly account for premium increases.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "The People Over Insurance Profits - Jose Freites for Florida House 56",
+              "url": "https://freitesforstatehouse56.com/people-over-insurance",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Freites says he would advance legislation strengthening protections for wetlands, springs and aquifer recharge areas against sprawl and large industrial water users, and argues current leaders talk about conservation without acting.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Protecting Our Lands & Defending The Environment - Jose Freites for Florida House 56",
+              "url": "https://freitesforstatehouse56.com/protecting-our-land",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Freites frames sprawl, large-scale warehouses and AI data centers as threats to Pasco's water and neighborhoods, and says he would restrict their expansion and strengthen legal defenses for recharge areas against them.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Protecting Our Lands & Defending The Environment - Jose Freites for Florida House 56",
+              "url": "https://freitesforstatehouse56.com/protecting-our-land",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Freites says he would restrict what he calls Big Tech data centers from driving up residents' electric bills, and ties utility costs to tighter oversight of large industrial power users.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Protecting Our Lands & Defending The Environment - Jose Freites for Florida House 56",
+              "url": "https://freitesforstatehouse56.com/protecting-our-land",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Freites says he would end cooperation between local police and federal immigration agents, extend due-process protections to undocumented residents, and allow immigrant residents to obtain driver licenses and use public-safety services regardless of status.",
+          "quote": "Our police officers should be in the field catching real criminals not racially profiling and terrorizing our migrant communities",
+          "sources": [
+            {
+              "title": "Defending Our Neighbors - All Of Them - Jose Freites for Florida House 56",
+              "url": "https://freitesforstatehouse56.com/defending-our-neighbors",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Freites opposes expanding Florida's universal voucher program, saying it moves public-school money into private schools and mainly benefits wealthier families. He also calls for raising teacher base pay, restoring experience-based pay steps, repealing SB 256 and restoring binding arbitration for teacher unions.",
+          "quote": "We must oppose the universal school voucher system expansion as it will only divert public school money into private schools",
+          "sources": [
+            {
+              "title": "Fighting For Our Teachers - Jose Freites for Florida House 56",
+              "url": "https://freitesforstatehouse56.com/fighting-for-teachers",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "crime": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Freites would make mobile crisis teams pairing mental-health professionals with trained responders the default response to mental-health calls, fund crisis stabilization units as an alternative to jail or the emergency room, add oversight and due-process safeguards to Baker Act holds, and staff school-based mental health so students are helped before a situation becomes a disciplinary or criminal matter.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Public Safety That Actually Keeps Us Safe - Jose Freites for Florida House 56",
+              "url": "https://freitesforstatehouse56.com/public-safety",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Repealing classroom speech restrictions",
+          "summary": "Freites says he would repeal the Stop WOKE Act and related classroom restrictions, protect teachers' academic freedom, and remove personal liability for teachers and librarians acting in good faith.",
+          "sources": [
+            {
+              "title": "Fighting For Our Teachers - Jose Freites for Florida House 56",
+              "url": "https://freitesforstatehouse56.com/fighting-for-teachers",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

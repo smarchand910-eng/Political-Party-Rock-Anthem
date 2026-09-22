@@ -38,8 +38,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In his 2026 Ballotpedia Candidate Connection survey, Cruz lists improving public safety among his priorities and says he supports law enforcement and first responders. He does not say in the survey whether he would change criminal penalties or police funding levels.",
+          "quote": "I am focused on lowering the cost of living, addressing Florida’s property insurance challenges, supporting law enforcement and first responders, protecting constitutional freedoms",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Michael Cruz (2026)",
+              "url": "https://ballotpedia.org/Michael_Cruz_%28Florida%29",
+              "date": "2026"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Cruz, who describes himself as a U.S. Army veteran, says supporting veterans and first responders is among the policy areas he is personally passionate about.",
+          "quote": "I believe in creating opportunities for small businesses, supporting veterans and first responders",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Michael Cruz (2026)",
+              "url": "https://ballotpedia.org/Michael_Cruz_%28Florida%29",
+              "date": "2026"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Property insurance",
+          "summary": "Cruz lists addressing Florida's property insurance challenges among his top priorities but does not describe in his Ballotpedia survey what changes he would make.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey - Michael Cruz (2026)",
+              "url": "https://ballotpedia.org/Michael_Cruz_%28Florida%29",
+              "date": "2026"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

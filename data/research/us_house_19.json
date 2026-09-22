@@ -654,9 +654,9 @@
       "photo_url": "assets/photos/seth_haskin.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.sethhaskinforfl.com/",
-      "occupation": null,
+      "occupation": "Business manager",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Seth Haskin is a no-party-affiliation candidate in Florida's 19th Congressional District. He says he grew up in a lower-middle-class household and earned a bachelor's degree in neuroscience, and he works as a business manager. He previously ran as an independent write-in candidate for governor of Wisconsin in 2022 and for a Wisconsin Assembly seat in 2024. He describes himself as a strict constitutionalist whose central goal is enlarging the U.S. House.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -666,8 +666,72 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Haskin says he would repeal the 16th Amendment and end the federal income tax, and calls for restrained federal spending and borrowing to address the national debt.",
+          "quote": "I support repealing the 16th Amendment and ending the federal income tax.",
+          "sources": [
+            {
+              "title": "Seth Haskin for Congress - Policy page (undated; read 2026-09-21)",
+              "url": "https://www.sethhaskinforfl.com/policy",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Enlarging the House of Representatives",
+          "summary": "Haskin's main goal is adding 100 to 200 members to the U.S. House, arguing smaller districts would make representatives more accountable, make gerrymandering harder and reduce the influence of lobbyists.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Seth Haskin",
+              "url": "https://ballotpedia.org/Seth_Haskin",
+              "date": "2026-09"
+            },
+            {
+              "title": "Seth Haskin for Congress - Policy page (undated; read 2026-09-21)",
+              "url": "https://www.sethhaskinforfl.com/policy",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Repealing the 17th Amendment",
+          "summary": "He supports returning the selection of U.S. senators to state legislatures and restoring the nondelegation doctrine so Congress, not federal agencies, writes the rules.",
+          "sources": [
+            {
+              "title": "Seth Haskin for Congress - Policy page (undated; read 2026-09-21)",
+              "url": "https://www.sethhaskinforfl.com/policy",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "War powers and surveillance",
+          "summary": "Haskin opposes regime-change wars and says he would require clear congressional authorization before committing U.S. forces, and would repeal remaining Patriot Act surveillance authorities. He also supports moving toward a dollar backed by metals.",
+          "sources": [
+            {
+              "title": "Seth Haskin for Congress - Policy page (undated; read 2026-09-21)",
+              "url": "https://www.sethhaskinforfl.com/policy",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Non-delegation and rulemaking by agencies",
+          "summary": "In his 2026 Ballotpedia Candidate Connection survey, Haskin said the Constitution gives lawmaking power to elected representatives rather than unelected bureaucrats, and called for restoring the non-delegation doctrine, ending what he called government by regulation, and making Congress accountable for the rules it imposes.",
+          "sources": [
+            {
+              "title": "Seth Haskin - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Seth_Haskin",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -687,7 +751,7 @@
       "website": null,
       "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
       "residence": null,
-      "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Alexandra Zakhvatayev is a write-in candidate in Florida's 19th Congressional District. She lives in Cape Coral, graduated from Florida Gulf Coast University, works as a certified fitness trainer and founded a language-learning platform. She is known locally as an advocate for Ukraine, has written guest commentaries for Southwest Florida newspapers, raised money for Ukrainian military units and represented Florida at a Ukrainian Congress Committee of America advocacy event in Washington.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -697,8 +761,39 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "ukraine": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In a February 2025 newspaper guest commentary, Zakhvatayev argued that continued U.S. support for Ukraine is a national-security interest as well as a moral and defense obligation, and described herself as a strong proponent of military aid.",
+          "quote": "U.S. support for Ukraine is a matter of national security interest, as it is not only our moral obligation to defend smaller countries... but also, our defense obligation.",
+          "sources": [
+            {
+              "title": "Guest Commentary: Continued support of Ukraine is important to U.S. security (Pine Island Eagle)",
+              "url": "https://www.pineisland-eagle.com/opinion/letters-to-the-editor/2025/02/guest-commentary-continued-support-of-ukraine-is-important-to-u-s-security/",
+              "date": "2025-02-27"
+            },
+            {
+              "title": "Guest Commentary: Celebration, and support, for Ukraine (Cape Coral Breeze)",
+              "url": "https://www.capecoralbreeze.com/opinion/letters-to-the-editor-guest-opinions/2024/08/23/guest-commentary-celebration-and-support-for-ukraine/",
+              "date": "2024-08-23"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "No campaign platform published",
+          "summary": "Beyond her Ukraine advocacy, no campaign website, questionnaire response or published platform was found for Zakhvatayev's 2026 write-in candidacy.",
+          "sources": [
+            {
+              "title": "Alexandra Zakhvatayev - 2026 Florida's 19th Congressional District Election (Smarter.vote candidate profile)",
+              "url": "https://smarter.vote/races/fl-house-19-2026/",
+              "date": "2026-08-30"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

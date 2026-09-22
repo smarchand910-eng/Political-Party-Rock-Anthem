@@ -1175,9 +1175,9 @@
       "photo_url": "assets/photos/alexander_cooke.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://alexcookeforcongress.com/",
-      "occupation": null,
+      "occupation": "Investment manager; owner of Optimist Capital LLC; former Mayor and Councilmember of Juno Beach (2022-2024)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Alexander Cooke is a no-party-affiliation candidate in Florida's 21st Congressional District. He served as a councilmember and mayor of Juno Beach from 2022 to 2024 and has more than 20 years in investment management, running Optimist Capital LLC in Palm Beach Gardens. He has been a licensed foster parent and says he lived in a car as a teenager. His campaign takes no corporate PAC money.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -1187,7 +1187,93 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Cooke's lead campaign issue is water: he wants to stop east-west Lake Okeechobee discharges, send water south through the Everglades and defend coastal estuaries and the Indian River Lagoon. He says he saw the damage of failed environmental protection as mayor of Juno Beach and has a record of fighting overdevelopment.",
+          "quote": "Clean Water and controlling Lake Okeechobee Discharges.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Alexander Cooke",
+              "url": "https://ballotpedia.org/Alexander_Cooke",
+              "date": "2026-04-02"
+            },
+            {
+              "title": "Alex Cooke for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://alexcookeforcongress.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "social_security": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Cooke says he opposes benefit cuts, raising the retirement age or privatizing Social Security, and would vote against any deal that reduces Medicare.",
+          "quote": "No benefit cuts. No raising the retirement age. No privatization.",
+          "sources": [
+            {
+              "title": "Alex Cooke for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://alexcookeforcongress.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Cooke says housing costs, property insurance and cost-of-living stability are central to his campaign, that he has worked against poorly planned development and failures to plan affordable housing, and that he opposes institutional investors buying up starter homes.",
+          "quote": "I am well known for working hard against development failures and failure to properly plan affordable housing for our community.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Alexander Cooke",
+              "url": "https://ballotpedia.org/Alexander_Cooke",
+              "date": "2026-04-02"
+            },
+            {
+              "title": "Alex Cooke for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://alexcookeforcongress.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Cooke calls himself a fiscal conservative who opposes what he calls vanity projects and unplanned spending, and his campaign site says he would cut taxes on everyday essentials for families and retirees.",
+          "quote": "Cut taxes on everyday essentials for families and retirees",
+          "sources": [
+            {
+              "title": "Alex Cooke for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://alexcookeforcongress.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Ballotpedia Candidate Connection survey: Alexander Cooke",
+              "url": "https://ballotpedia.org/Alexander_Cooke",
+              "date": "2026-04-02"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Cooke's platform includes lowering prescription drug and Medicare costs and letting Medicare negotiate drug prices; a candidate profile lists permanently extending Affordable Care Act premium subsidies among his positions.",
+          "quote": "Lower prescription drug and Medicare costs",
+          "sources": [
+            {
+              "title": "Alex Cooke for Congress campaign website (undated; read 2026-09-21)",
+              "url": "https://alexcookeforcongress.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Alexander Cooke - 2026 Florida's 21st Congressional District Election (Smarter.vote candidate profile)",
+              "url": "https://smarter.vote/races/fl-house-21-2026/",
+              "date": "2026-08-28"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],
@@ -1208,7 +1294,7 @@
       "website": "https://www.electdavidfabrikant.com/",
       "occupation": "Write-in candidate: the name is not printed on the ballot; voters must write it on the blank line",
       "residence": null,
-      "background": "Write-in candidate qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "David Fabrikant is a write-in candidate in Florida's 21st Congressional District. He is a 50-year-old attorney with 25 years of experience who says he has spent the past 15 years helping people in financial difficulty. He holds a bachelor's degree from the University of Florida and a law degree from St. Thomas University, and campaigns on a list of seven proposed laws under the slogan \"No one gets left behind.\"",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -1218,8 +1304,117 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "guns": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Fabrikant's first proposed law is a tax on ammunition, together with designating certain weapons as military arms not available to civilians.",
+          "quote": "A tax on ammunition/designation of certain weapons as military (not for civilians).",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: David Fabrikant",
+              "url": "https://ballotpedia.org/David_Fabrikant",
+              "date": "2026-05-16"
+            },
+            {
+              "title": "Elect David Fabrikant - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.electdavidfabrikant.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Fabrikant argues that tax policy built on trickle-down economics has transferred wealth upward for 50 years and shrinks the economy, and says the way to grow it is to put money in consumers' hands rather than cutting taxes at the top.",
+          "quote": "The only way for the economy to improve is by giving the consumers the funds.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: David Fabrikant",
+              "url": "https://ballotpedia.org/David_Fabrikant",
+              "date": "2026-05-16"
+            }
+          ]
+        },
+        "tariffs": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Fabrikant says the Trump administration's tariffs are part of an effort that economically isolates the United States from the rest of the world.",
+          "quote": "The Trump Administration has attempted to isolate the United States. This has been done economically through the tariffs",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: David Fabrikant",
+              "url": "https://ballotpedia.org/David_Fabrikant",
+              "date": "2026-05-16"
+            }
+          ]
+        },
+        "trump": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Fabrikant says the current administration has abandoned government's duty to protect people, has acted to transfer wealth and control upward, and should be held responsible; his campaign's stated plan is to undo its policies.",
+          "quote": "We need to hold the leaders of this current administration responsible",
+          "sources": [
+            {
+              "title": "Elect David Fabrikant campaign website (undated; read 2026-09-21)",
+              "url": "https://www.electdavidfabrikant.com/",
+              "date": "2026-09"
+            },
+            {
+              "title": "Ballotpedia Candidate Connection survey: David Fabrikant",
+              "url": "https://ballotpedia.org/David_Fabrikant",
+              "date": "2026-05-16"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Fabrikant proposes federally supported shelters that give homeless people an address, safety and job retraining so they can return to the workforce.",
+          "quote": "Shelters that get people back into society, by giving them an address, training and safety",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: David Fabrikant",
+              "url": "https://ballotpedia.org/David_Fabrikant",
+              "date": "2026-05-16"
+            },
+            {
+              "title": "Elect David Fabrikant - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.electdavidfabrikant.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Minimum wage tied to congressional salaries",
+          "summary": "Fabrikant proposes linking the federal minimum wage to the salaries of members of Congress so that raises for officeholders raise the floor for workers.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: David Fabrikant",
+              "url": "https://ballotpedia.org/David_Fabrikant",
+              "date": "2026-05-16"
+            }
+          ]
+        },
+        {
+          "title": "AI disclosure and agency independence",
+          "summary": "He would require corporations to disclose what share of their work is done by artificial intelligence, give federal departments independence from presidential control, and assign committee chairs by seniority rather than party.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: David Fabrikant",
+              "url": "https://ballotpedia.org/David_Fabrikant",
+              "date": "2026-05-16"
+            },
+            {
+              "title": "Elect David Fabrikant - Issues page (undated; read 2026-09-21)",
+              "url": "https://www.electdavidfabrikant.com/issues",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

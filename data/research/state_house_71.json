@@ -568,13 +568,13 @@
         "guns": {
           "stance": -2,
           "confidence": "stated",
-          "summary": "Describes himself as a staunch supporter of the Second Amendment and individual liberty.",
-          "quote": "staunch supporter of the Second Amendment and individual liberty",
+          "summary": "Varnadore's campaign site describes him as a staunch supporter of the Second Amendment and individual liberty and says he is committed to preserving those freedoms.",
+          "quote": "a staunch supporter of the Second Amendment and individual liberty",
           "sources": [
             {
-              "title": "Jordan Varnadore for State House",
+              "title": "Jordan Varnadore for Florida House District 71",
               "url": "https://voteforvarnadore.com/",
-              "date": "2026-09-18"
+              "date": "2026-09"
             }
           ]
         },
@@ -663,13 +663,46 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Parental rights in schools",
+          "summary": "Varnadore says parents deserve a voice in their children's education and that schools should teach values rather than what he calls extremist ideologies.",
+          "sources": [
+            {
+              "title": "Jordan Varnadore for Florida House District 71",
+              "url": "https://voteforvarnadore.com/",
+              "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Business regulation",
+          "summary": "Varnadore says he would reduce what he calls burdensome regulations and support job creators, citing his experience running a family business.",
+          "sources": [
+            {
+              "title": "Jordan Varnadore for Florida House District 71",
+              "url": "https://voteforvarnadore.com/",
+              "date": "2026-09"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [
         {
           "name": "Donald Trump",
           "type": "person",
           "source": "https://voteforvarnadore.com/"
+        },
+        {
+          "by": "President Donald J. Trump",
+          "sources": [
+            {
+              "title": "Jordan Varnadore for Florida House District 71",
+              "url": "https://voteforvarnadore.com/",
+              "date": "2026-09"
+            }
+          ]
         }
       ],
       "sources": [
@@ -912,10 +945,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://hoolihanforflorida.com/",
+      "occupation": "Real estate professional and business consultant; local podcast host",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Joseph Hoolihan is a Bradenton real estate professional and business consultant with more than 20 years in sales, customer service and business development, including work with several national homebuilders. He also produces a local podcast about development and housing in Southwest Florida. He is running with no party affiliation in House District 71.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -925,8 +958,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In his 2026 Ballotpedia Candidate Connection survey, Hoolihan said Manatee County's growth is good but that growth without accountability has left roads jammed, schools packed and home prices high, and he named responsible growth as a policy area he is passionate about.",
+          "quote": "Manatee County is booming and that is a good thing. But growth without accountability is a problem. Roads are jammed, schools are packed and home prices have gone through the roof.",
+          "sources": [
+            {
+              "title": "Joseph Hoolihan - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Joseph_Hoolihan",
+              "date": "2026-09"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Hoolihan's survey names housing affordability as one of the public policy areas he is most passionate about and says home and lifestyle affordability is a problem he wants to change. He did not specify which tools he would use.",
+          "quote": "Home and lifestyle affordability is a problem and I want to change that.",
+          "sources": [
+            {
+              "title": "Joseph Hoolihan - Ballotpedia (2026 Candidate Connection survey)",
+              "url": "https://ballotpedia.org/Joseph_Hoolihan",
+              "date": "2026-09"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Independent leadership and responsible growth",
+          "summary": "Hoolihan's campaign is built around independent leadership, government accountability, responsible growth and what he describes as practical, community-focused solutions. His campaign website was still largely unbuilt as of late September 2026 and carried no detailed issue positions.",
+          "sources": [
+            {
+              "title": "Florida House races set in Districts 70, 71 and 72 as candidates qualified for 2026 election",
+              "url": "https://www.pulseofmanatee.com/p/florida-house-races-set-in-districts",
+              "date": "2026-07-22"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     }

@@ -11,7 +11,7 @@ issues = {i['id']: i for i in json.load(open('data/issues.json', encoding='utf-8
 problems = []; kept = {}
 def src_ok(s):
     if isinstance(s, (list, tuple)): s = {'title': s[0], 'url': s[1], 'date': s[2] if len(s) > 2 else None}
-    return isinstance(s, dict) and isinstance(s.get('url'), str) and s['url'].startswith('http') and isinstance(s.get('date'), str) and re.match(r'^\d{4}-\d{2}(-\d{2})?$', s['date'])
+    return isinstance(s, dict) and isinstance(s.get('url'), str) and s['url'].startswith('http') and isinstance(s.get('date'), str) and re.match(r'^\d{4}(-\d{2}(-\d{2})?)?$', s['date'])
 for rid, cands in spec.items():
     if rid.startswith('_'): kept[rid] = cands; continue
     r = races.get(rid)
