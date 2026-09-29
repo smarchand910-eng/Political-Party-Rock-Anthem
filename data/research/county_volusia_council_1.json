@@ -27,14 +27,14 @@
       "positions": {
         "taxes": {
           "stance": 1,
-          "confidence": "stated",
-          "summary": "His campaign site says the County Council should keep looking for ways to reduce both spending and taxes.",
-          "quote": "The County Council must continue to look for ways to cut spending along with taxes",
+          "confidence": "record",
+          "summary": "At the County Council's final budget hearing on Sept. 22, 2026 he voted for the rolled-back general-fund rate of 3.1007 mills, saying he had reconsidered his earlier vote for a flat rate and now favored full rollback. The council reached rollback by cutting about 70% of the law library program budget and transferring $4.8 million in one-time money from economic-development reserves.",
+          "quote": "full rollback",
           "sources": [
             {
-              "title": "Reelect Don Dempsey for County Council",
-              "url": "https://dempsey4volusia.com/",
-              "date": "2026-09"
+              "title": "Volusia County Council adopts rollback rate for general fund, cuts funding for law library program",
+              "url": "https://www.observerlocalnews.com/news/2026/sep/23/volusia-county-council-adopts-rollback-rate-for-general-fund-cuts-funding-for-law-library-program/",
+              "date": "2026-09-23"
             }
           ]
         },
@@ -192,7 +192,18 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted Sept. 22, 2026, with a unanimous County Council, to adopt the rolled-back general-fund millage of 3.1007 for FY2026-27, after saying he had changed his position from the flat rate he backed at the earlier hearing.",
+          "sources": [
+            {
+              "title": "Volusia County Council adopts rollback rate for general fund, cuts funding for law library program",
+              "url": "https://www.observerlocalnews.com/news/2026/sep/23/volusia-county-council-adopts-rollback-rate-for-general-fund-cuts-funding-for-law-library-program/",
+              "date": "2026-09-23"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "sources": [
         {

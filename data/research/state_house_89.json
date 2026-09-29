@@ -106,7 +106,18 @@
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Associated Industries of Florida",
+          "sources": [
+            {
+              "title": "AIF Announces Endorsements in 11 Florida House Races",
+              "url": "https://thecapitolist.com/aif-announces-endorsements-in-11-florida-house-races/",
+              "date": "2026-09-21"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -183,6 +194,17 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "title": "Named 2026 Legislator of the Year by the Florida Hispanic American Chamber of Commerce",
+          "summary": "Tendrich was named 2026 Legislator of the Year by the Florida Hispanic American Chamber of Commerce, which cited her support for Hispanic culture and businesses. Her campaign also announced endorsements from Palm Beach County Commissioner Joel Flores, School Board member Virginia Savietto, Greenacres Council member Susy Diaz, Boca Raton Council member Yvette Drucker and Belle Glade Council member Joaquin Almazan.",
+          "sources": [
+            {
+              "title": "Hispanic political groups, 7 local leaders back 'dedicated' Debra Tendrich in HD 89",
+              "url": "https://floridapolitics.com/archives/822208-hispanic-political-groups-7-local-leaders-back-dedicated-debra-tendrich-in-hd-89/",
+              "date": "2026-09-28"
+            }
+          ]
         }
       ],
       "record": [
@@ -207,7 +229,28 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Hispanic Political Action Committee (HISPAC)",
+          "sources": [
+            {
+              "title": "Hispanic political groups, 7 local leaders back 'dedicated' Debra Tendrich in HD 89",
+              "url": "https://floridapolitics.com/archives/822208-hispanic-political-groups-7-local-leaders-back-dedicated-debra-tendrich-in-hd-89/",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "by": "The Hispanic Vote",
+          "sources": [
+            {
+              "title": "Hispanic political groups, 7 local leaders back 'dedicated' Debra Tendrich in HD 89",
+              "url": "https://floridapolitics.com/archives/822208-hispanic-political-groups-7-local-leaders-back-dedicated-debra-tendrich-in-hd-89/",
+              "date": "2026-09-28"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

@@ -548,5 +548,18 @@
         }
       ]
     }
+  ],
+  "events": [
+    {
+      "date": "2026-09-28",
+      "host": " (held)",
+      "sources": [
+        {
+          "title": "Meet the candidates on the ballot at Election Expo '26 at Palm Beach State",
+          "url": "https://cbs12.com/news/arc-florida/meet-the-candidates-on-the-ballot-at-election-expo-26-at-palm-beach-state",
+          "date": "2026-09"
+        }
+      ]
+    }
   ]
 }

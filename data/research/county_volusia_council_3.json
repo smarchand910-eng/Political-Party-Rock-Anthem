@@ -26,11 +26,17 @@
       "primary_result": "Second in Aug 18 primary with 38.9% (9,174)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "record",
+          "summary": "At the County Council's final budget hearing on Sept. 22, 2026 he voted for the rolled-back general-fund rate of 3.1007 mills and proposed cutting the county's law library program budget as one way to reach it, saying the county would still meet its legal obligations.",
+          "quote": "We're not going to be, I'd say, defunding them. We're meeting our thresholds legally.",
+          "sources": [
+            {
+              "title": "Volusia County Council adopts rollback rate for general fund, cuts funding for law library program",
+              "url": "https://www.observerlocalnews.com/news/2026/sep/23/volusia-county-council-adopts-rollback-rate-for-general-fund-cuts-funding-for-law-library-program/",
+              "date": "2026-09-23"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -193,6 +199,16 @@
               "title": "3 candidates vie for Volusia County Council District 3. Who are they?",
               "url": "https://www.yahoo.com/news/politics/articles/3-candidates-vie-volusia-county-174503475.html",
               "date": "2026-08-12"
+            }
+          ]
+        },
+        {
+          "item": "Voted Sept. 22, 2026, with a unanimous County Council, to adopt the rolled-back general-fund millage of 3.1007 for FY2026-27, and suggested cutting the law library program budget to help fund the rollback.",
+          "sources": [
+            {
+              "title": "Volusia County Council adopts rollback rate for general fund, cuts funding for law library program",
+              "url": "https://www.observerlocalnews.com/news/2026/sep/23/volusia-county-council-adopts-rollback-rate-for-general-fund-cuts-funding-for-law-library-program/",
+              "date": "2026-09-23"
             }
           ]
         }

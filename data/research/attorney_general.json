@@ -261,20 +261,15 @@
           ]
         },
         "elections": {
-          "stance": -1,
+          "stance": -2,
           "confidence": "record",
-          "summary": "Uthmeier's election-related actions have focused on citizenship verification and enforcement: Florida joined Iowa, Indiana and Ohio in suing to restore access to the federal SAVE database for checking voter citizenship after a federal judge disabled it, and he announced felony charges against a Canadian permanent resident who registered and voted in Florida. No statement supporting expanded mail voting, drop boxes or rights restoration was found.",
-          "quote": null,
+          "summary": "On Sept. 24, 2026 Uthmeier, appearing with Gov. Ron DeSantis, announced arrests and charges against 20 defendants in a statewide election-integrity operation: 16 non-citizens accused of registering by falsely claiming citizenship and voting, and four felons accused of voting while still on probation. Each count is a third-degree felony.",
+          "quote": "",
           "sources": [
             {
-              "title": "Uthmeier announces felony charges against a Canadian citizen who voted in Florida elections (WLRN)",
-              "url": "https://www.wlrn.org/government-politics/2026-07-31/uthmeier-announces-felony-charges-against-a-canadian-citizen-who-voted-in-florida-elections",
-              "date": "2026-07-31"
-            },
-            {
-              "title": "'Theatrical' litigation: Republican AGs fight for Trump voting rules (CNN)",
-              "url": "https://www.cnn.com/2026/09/12/politics/republican-attorneys-general-trump-mail-voting",
-              "date": "2026-09-12"
+              "title": "News Releases - Office of the Florida Attorney General",
+              "url": "https://www.myfloridalegal.com/newsreleases",
+              "date": "2026-09-28"
             }
           ]
         },
@@ -498,6 +493,27 @@
               "date": null
             }
           ]
+        },
+        {
+          "title": "Has not accepted any debate",
+          "summary": "Rodriguez challenged Uthmeier on Sept. 20, 2026 to a student-run debate at the University of Florida on Sept. 21, saying Uthmeier had repeatedly declined other invitations. Uthmeier's office did not respond, and as of Sept. 22 no Attorney General debate was scheduled.",
+          "sources": [
+            {
+              "title": "Rodriguez challenges Uthmeier to student-run debate at University of Florida",
+              "url": "https://www.wcjb.com/2026/09/20/rodriguez-challenges-uthmeier-student-run-debate-university-florida/",
+              "date": "2026-09-20"
+            },
+            {
+              "title": "Jose Javier Rodriguez challenges Uthmeier in Florida Attorney General race: 'Stood up for the little guy'",
+              "url": "https://www.wcjb.com/2026/09/21/jos-javier-rodrguez-challenges-uthmeier-florida-attorney-general-race-stood-up-little-guy/",
+              "date": "2026-09-21"
+            },
+            {
+              "title": "Florida could go without debates in any general election statewide political race",
+              "url": "https://www.wusf.org/politics-issues/2026-09-22/florida-no-debates-general-election-statewide-political-race",
+              "date": "2026-09-22"
+            }
+          ]
         }
       ],
       "record": [
@@ -686,6 +702,66 @@
               "title": "Florida's Attorney General race plays out in the shadow of the Hope Florida scandal - Local 10",
               "url": "https://www.local10.com/news/politics/2026/09/17/floridas-attorney-general-race-plays-out-in-the-shadow-of-the-hope-florida-scandal/",
               "date": "2026-09-17"
+            }
+          ]
+        },
+        {
+          "item": "Sued three insulin manufacturers, three pharmacy benefit managers and three rebate aggregators in Miami-Dade circuit court on Sept. 24, 2026, alleging a pricing scheme that inflated list prices for diabetes medicine (announced Sept. 22).",
+          "sources": [
+            {
+              "title": "Florida AG Uthmeier alleges insulin price collusion in lawsuit against drugmakers, PBMs",
+              "url": "https://www.wusf.org/courts-law/2026-09-25/florida-ag-uthmeier-alleges-insulin-price-collusion-in-lawsuit-against-drugmakers-pbms",
+              "date": "2026-09-25"
+            },
+            {
+              "title": "News Releases - Office of the Florida Attorney General",
+              "url": "https://www.myfloridalegal.com/newsreleases",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "item": "On Sept. 23, 2026, as a trustee of the State Board of Administration, filed a petition in New York state court to inspect the books and records of The New York Times Company, in which Florida's pension fund holds shares.",
+          "sources": [
+            {
+              "title": "News Releases - Office of the Florida Attorney General",
+              "url": "https://www.myfloridalegal.com/newsreleases",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "item": "Announced arrests and charges against 20 defendants in a statewide election-integrity operation on Sept. 24, 2026.",
+          "sources": [
+            {
+              "title": "News Releases - Office of the Florida Attorney General",
+              "url": "https://www.myfloridalegal.com/newsreleases",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "item": "Filed a consumer-protection lawsuit on Sept. 25, 2026 against Evolve Construction and six principals, alleging they took roughly $1 million in insurance proceeds from at least 80 Florida hurricane victims.",
+          "sources": [
+            {
+              "title": "News Releases - Office of the Florida Attorney General",
+              "url": "https://www.myfloridalegal.com/newsreleases",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "item": "Filed a motion for a temporary injunction against OpenAI and CEO Sam Altman on Sept. 28, 2026, seeking to bar the company from releasing new models without third-party guardrails, from advertising ChatGPT as safe, and from giving it human-like attributes.",
+          "sources": [
+            {
+              "title": "'Stop pretending it's human': Florida AG asks judge to block OpenAI from making new models",
+              "url": "https://www.wctv.tv/2026/09/28/stop-pretending-its-human-florida-ag-asks-judge-block-openai-making-new-models/",
+              "date": "2026-09-28"
+            },
+            {
+              "title": "News Releases - Office of the Florida Attorney General",
+              "url": "https://www.myfloridalegal.com/newsreleases",
+              "date": "2026-09-28"
             }
           ]
         }
@@ -940,11 +1016,17 @@
           ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In a Sept. 21, 2026 interview Rodriguez said he would not use the Attorney General's office to override local governments, joking that he would earn the nickname 'Home Rule Jose,' and named crime, synthetic drugs, big tech, costs and corruption as his five priorities.",
+          "quote": "Local jurisdictions, if they're in compliance with the law, do not need somebody in Tallahassee dictating to them how they should do things.",
+          "sources": [
+            {
+              "title": "Jose Javier Rodriguez challenges Uthmeier in Florida Attorney General race: 'Stood up for the little guy'",
+              "url": "https://www.wcjb.com/2026/09/21/jos-javier-rodrguez-challenges-uthmeier-florida-attorney-general-race-stood-up-little-guy/",
+              "date": "2026-09-21"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -1178,6 +1260,33 @@
               "date": "2026-09-17"
             }
           ]
+        },
+        {
+          "title": "Challenged Uthmeier to a University of Florida student-run debate",
+          "summary": "On Sept. 20, 2026 Rodriguez's campaign challenged Uthmeier to a student-run debate at the University of Florida the following afternoon, saying the Attorney General should answer questions about the Everglades detention center known as 'Alligator Alcatraz' and the Hope Florida investigation. Uthmeier did not respond and the debate did not take place.",
+          "sources": [
+            {
+              "title": "Rodriguez challenges Uthmeier to student-run debate at University of Florida",
+              "url": "https://www.wcjb.com/2026/09/20/rodriguez-challenges-uthmeier-student-run-debate-university-florida/",
+              "date": "2026-09-20"
+            },
+            {
+              "title": "Jose Javier Rodriguez challenges Uthmeier in Florida Attorney General race: 'Stood up for the little guy'",
+              "url": "https://www.wcjb.com/2026/09/21/jos-javier-rodrguez-challenges-uthmeier-florida-attorney-general-race-stood-up-little-guy/",
+              "date": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "title": "'Give 'Em Hell' statewide advertising campaign",
+          "summary": "In late September 2026 Rodriguez launched a statewide broadcast and digital advertising campaign, in English and Spanish, built around his background as a labor lawyer and state legislator.",
+          "sources": [
+            {
+              "title": "Jose Javier Rodriguez challenges Uthmeier in Florida Attorney General race: 'Stood up for the little guy'",
+              "url": "https://www.wcjb.com/2026/09/21/jos-javier-rodrguez-challenges-uthmeier-florida-attorney-general-race-stood-up-little-guy/",
+              "date": "2026-09-21"
+            }
+          ]
         }
       ],
       "record": [
@@ -1352,6 +1461,25 @@
               "date": "2026-08"
             }
           ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-09-21 — Did not happen",
+      "host": "Student-run Attorney General debate, University of Florida, 4 p.m.",
+      "who": "Rodriguez challenged Uthmeier to it on Sept. 20, 2026; Uthmeier's office did not respond and the debate did not take place.",
+      "sources": [
+        {
+          "title": "Rodriguez challenges Uthmeier to student-run debate at University of Florida",
+          "url": "https://www.wcjb.com/2026/09/20/rodriguez-challenges-uthmeier-student-run-debate-university-florida/",
+          "date": "2026-09-20"
+        },
+        {
+          "title": "Jose Javier Rodriguez challenges Uthmeier in Florida Attorney General race: 'Stood up for the little guy'",
+          "url": "https://www.wcjb.com/2026/09/21/jos-javier-rodrguez-challenges-uthmeier-florida-attorney-general-race-stood-up-little-guy/",
+          "date": "2026-09-21"
         }
       ]
     }

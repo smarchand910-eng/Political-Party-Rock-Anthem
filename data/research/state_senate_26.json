@@ -638,7 +638,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Says climate change is no longer a live issue in the U.S.",
+          "summary": "In the same September 2026 on-camera campaign interview, Roth said, 'Climate change is dead in America now,' and described the U.S. conflict with Iran as long-term oil policy. The quotes were published by Indivisible Boca Raton, a group supporting his opponent, alongside a link to the full interview.",
+          "sources": [
+            {
+              "title": "(Video) David Silvers Is Running Against a Man Who Says Trump Is Doing a Great Job",
+              "url": "https://indivisiblebocaraton1.substack.com/p/video-david-silvers-is-running-against",
+              "date": "2026-09-23"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
@@ -776,6 +788,18 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Rick_Roth"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-10-05",
+      "sources": [
+        {
+          "title": "(Video) David Silvers Is Running Against a Man Who Says Trump Is Doing a Great Job",
+          "url": "https://indivisiblebocaraton1.substack.com/p/video-david-silvers-is-running-against",
+          "date": "2026-09-23"
         }
       ]
     }

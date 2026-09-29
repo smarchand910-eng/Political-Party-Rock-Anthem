@@ -35,6 +35,31 @@ def main():
     for k, r in new.items():
         if k not in old and r['StatusCode'] in ('QUA', 'UNO') and r['OfficeCode'] in ('USR', 'STS', 'STR', 'GOV', 'USS', 'ATG', 'CFO', 'AGR'):
             changes.append(f"- NEW qualified: {r['NameFirst']} {r['NameLast']} ({r['OfficeDesc']} {k[1]}, {r['PartyDesc']})")
+    # A seat can go uncontested without any status changing this week: the last opponent may have dropped out
+    # earlier, so compare the state's live field against what the guide still presents as a November contest.
+    OFFICE_RACE = {'STR': 'state_house_%d', 'STS': 'state_senate_%d', 'USR': 'us_house_%d'}
+    on_ballot = {}
+    for k, r in new.items():
+        pat = OFFICE_RACE.get(r['OfficeCode'])
+        if not pat: continue
+        try: num = int(r['Juris1num'] or 0)
+        except ValueError: continue
+        if not num: continue
+        on_ballot.setdefault(pat % num, []).append(r)
+    uncontested = []
+    for rid, rows in sorted(on_ballot.items()):
+        running = [x for x in rows if x['StatusCode'] in ('QUA', 'UNO')]
+        if len(running) > 1: continue
+        f = os.path.join('data', 'research', rid + '.json')
+        if not os.path.exists(f): continue
+        g = json.load(open(f, encoding='utf-8'))
+        if g.get('on_november_ballot') is False: continue
+        who = ', '.join(f"{x['NameFirst']} {x['NameLast']} ({x['StatusDesc']})" for x in running) or 'nobody'
+        uncontested.append(f"- {g.get('title', rid)}: the state now shows only {who} on the ballot, but the guide still presents it as a November contest. Mark it decided if the seat is filled without a vote.")
+    if uncontested:
+        changes.append('')
+        changes.append('### Races the state now shows as uncontested')
+        changes += uncontested
     if changes:
         print('## Ballot status changes since the committed extract\n')
         print('\n'.join(changes))

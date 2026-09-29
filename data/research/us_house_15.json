@@ -893,5 +893,19 @@
         }
       ]
     }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate has been scheduled, despite the challenger asking for one (checked 2026-09-24)",
+      "who": "Laurel Lee, Robert People",
+      "sources": [
+        {
+          "title": "Is the era of political debates over in Florida? (Tampa Bay Times)",
+          "url": "https://www.yahoo.com/news/politics/articles/era-political-debates-over-florida-110000547.html",
+          "date": "2026-09-24"
+        }
+      ]
+    }
   ]
 }

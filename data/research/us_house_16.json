@@ -76,13 +76,18 @@
         "immigration": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Would work with President Trump and ICE against 'violent criminals entering our country illegally'.",
-          "quote": "work with President Trump and ICE to keep our families safe from violent criminals entering our country illegally",
+          "summary": "At the Sept. 23 forum Gruters backed the Trump administration's deportation efforts, said more than 15 million people entered the country illegally under the previous administration, and said all six sheriffs in the district support her campaign.",
+          "quote": "When you're letting people who come in here who are violent criminals, murderers, it affects all of us.",
           "sources": [
             {
-              "title": "Gruters for Congress - Home",
-              "url": "https://grutersforcongress.com/",
-              "date": "2026-09-18"
+              "title": "Candidates to replace Vern Buchanan in Congress spar in an online forum",
+              "url": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+              "date": "2026-09-24"
+            },
+            {
+              "title": "Race to succeed Vern Buchanan in CD 16 is getting increasingly interesting",
+              "url": "https://floridapolitics.com/archives/821782-race-to-succeed-vern-buchanan-in-cd-16-is-getting-increasingly-interesting/",
+              "date": "2026-09-25"
             }
           ]
         },
@@ -112,11 +117,22 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "At the Sept. 23 League of Women Voters virtual forum Gruters said she opposes a larger federal role in health coverage and questioned entrusting the government with it, pointing instead to existing federal support for rural hospitals and community health centers in places such as Wauchula and Arcadia.",
+          "quote": "I do not want the government taking over my healthcare. We need to cut the government spending.",
+          "sources": [
+            {
+              "title": "Candidates to replace Vern Buchanan in Congress spar in an online forum",
+              "url": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+              "date": "2026-09-24"
+            },
+            {
+              "title": "Race to succeed Vern Buchanan in CD 16 is getting increasingly interesting",
+              "url": "https://floridapolitics.com/archives/821782-race-to-succeed-vern-buchanan-in-cd-16-is-getting-increasingly-interesting/",
+              "date": "2026-09-25"
+            }
+          ]
         },
         "social_security": {
           "stance": 2,
@@ -166,15 +182,15 @@
           "sources": []
         },
         "elections": {
-          "stance": -1,
+          "stance": -2,
           "confidence": "stated",
-          "summary": "Would stand with President Trump to ensure elections are secure.",
-          "quote": "fight for Democracy and stand with President Trump to ensure our elections are secure",
+          "summary": "At the Sept. 23 forum Gruters said she supports the SAVE Act and a voter-identification requirement for voting.",
+          "quote": "You have to show your voter ID for hundreds of thousands of things that are much less important than voting.",
           "sources": [
             {
-              "title": "Gruters for Congress - Home",
-              "url": "https://grutersforcongress.com/",
-              "date": "2026-09-18"
+              "title": "Candidates to replace Vern Buchanan in Congress spar in an online forum",
+              "url": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+              "date": "2026-09-24"
             }
           ]
         },
@@ -216,13 +232,13 @@
         "trump": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Repeatedly pledges to work with and stand with President Trump.",
-          "quote": "stand with President Trump",
+          "summary": "In a WFLA News Channel 8 interview reported Sept. 25, Gruters said she is proud of President Donald Trump's endorsement and does not intend to distance herself from him.",
+          "quote": "I am proud to have his endorsement. He has done a phenomenal job.",
           "sources": [
             {
-              "title": "Gruters for Congress - Home",
-              "url": "https://grutersforcongress.com/",
-              "date": "2026-09-18"
+              "title": "Race to succeed Vern Buchanan in CD 16 is getting increasingly interesting",
+              "url": "https://floridapolitics.com/archives/821782-race-to-succeed-vern-buchanan-in-cd-16-is-getting-increasingly-interesting/",
+              "date": "2026-09-25"
             }
           ]
         },
@@ -287,6 +303,44 @@
               "title": "Sydney Gruters For Congress (campaign site)",
               "url": "https://grutersforcongress.com/",
               "date": null
+            }
+          ]
+        },
+        {
+          "title": "Data centers and utility costs",
+          "summary": "At the Sept. 23 forum Gruters said data-center developments should not raise costs for consumers and that technology companies should bear their own infrastructure costs. Data centers and Flock surveillance cameras were among the most-discussed topics at the forum.",
+          "sources": [
+            {
+              "title": "Candidates to replace Vern Buchanan in Congress spar in an online forum",
+              "url": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+              "date": "2026-09-24"
+            },
+            {
+              "title": "5 takeaways from candidate forum for Tampa Bay congressional seat",
+              "url": "https://www.yahoo.com/news/politics/articles/5-takeaways-candidate-forum-tampa-100001040.html",
+              "date": "2026-09-26"
+            }
+          ]
+        },
+        {
+          "title": "Congressional term limits and a stock-trading ban",
+          "summary": "Gruters is campaigning on affordability and on ending corruption in Congress, and says she supports congressional term limits and a ban on stock trading by members of Congress.",
+          "sources": [
+            {
+              "title": "Race to succeed Vern Buchanan in CD 16 is getting increasingly interesting",
+              "url": "https://floridapolitics.com/archives/821782-race-to-succeed-vern-buchanan-in-cd-16-is-getting-increasingly-interesting/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "title": "Disaster relief rebuilding rule",
+          "summary": "At the Sept. 23 forum Gruters said she would waive the federal rule that limits reconstruction when repairs exceed 50% of a structure's value.",
+          "sources": [
+            {
+              "title": "5 takeaways from candidate forum for Tampa Bay congressional seat",
+              "url": "https://www.yahoo.com/news/politics/articles/5-takeaways-candidate-forum-tampa-100001040.html",
+              "date": "2026-09-26"
             }
           ]
         }
@@ -407,13 +461,18 @@
         "immigration": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "Kirschner argues the district's economy was built on immigrant labor and that politicians such as Rick Scott and Donald Trump made that population 'a political target'; he cites CBO estimates that the U.S. needs 1.2-1.5 million new immigrants a year for economic growth and Social Security/Medicare solvency. He co-founded an immigrant-integration nonprofit. No statement on specific enforcement measures was found.",
-          "quote": null,
+          "summary": "At the Sept. 23 forum Kirschner criticized the scale of immigration-enforcement spending, called for a national conversation on immigration reform and pointed to the role of immigrant labor in agriculture and construction. He has described ICE raids as political theater.",
+          "quote": "Right now, spending $75 billion and not having a national conversation on immigration reform is insane.",
           "sources": [
             {
-              "title": "District 16 congressional race: Kelly Kirschner (WSLR+Fogartyville interview)",
-              "url": "https://wslr.org/district-16-congressional-race-kelly-kirschner/",
-              "date": "2026"
+              "title": "Candidates to replace Vern Buchanan in Congress spar in an online forum",
+              "url": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+              "date": "2026-09-24"
+            },
+            {
+              "title": "5 takeaways from candidate forum for Tampa Bay congressional seat",
+              "url": "https://www.yahoo.com/news/politics/articles/5-takeaways-candidate-forum-tampa-100001040.html",
+              "date": "2026-09-26"
             }
           ]
         },
@@ -434,31 +493,31 @@
         "healthcare": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Kirschner says he is running to 'defend health care': protecting patients with pre-existing conditions, restoring cuts to Medicaid and Medicare, and expanding access to affordable health care.",
-          "quote": null,
+          "summary": "At the Sept. 23 forum Kirschner said the first thing he would push for in Congress is restoring the enhanced Affordable Care Act subsidies that expired at the end of last year, which he said cost coverage for more than 200,000 families in the district and about 440,000 Floridians. He said he supports 'looking into' a Medicare for All approach.",
+          "quote": "Literally that family walked away from their health insurance.",
           "sources": [
             {
-              "title": "Kelly Kirschner for U.S. Congress - FL 16 (campaign site)",
-              "url": "https://kellykirschner.com/",
-              "date": null
+              "title": "Candidates to replace Vern Buchanan in Congress spar in an online forum",
+              "url": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+              "date": "2026-09-24"
             },
             {
-              "title": "District 16 congressional race: Kelly Kirschner (WSLR+Fogartyville interview)",
-              "url": "https://wslr.org/district-16-congressional-race-kelly-kirschner/",
-              "date": "2026"
+              "title": "Race to succeed Vern Buchanan in CD 16 is getting increasingly interesting",
+              "url": "https://floridapolitics.com/archives/821782-race-to-succeed-vern-buchanan-in-cd-16-is-getting-increasingly-interesting/",
+              "date": "2026-09-25"
             }
           ]
         },
         "social_security": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Kirschner's campaign lists protecting Social Security and Medicare among his core messages, alongside reducing the influence of big money in politics and addressing the cost of living.",
+          "summary": "At the Sept. 23 forum Kirschner said the payroll-tax cap should be scrapped so higher earners pay Social Security taxes on all of their income.",
           "quote": "",
           "sources": [
             {
-              "title": "Poll: Kirschner & Gruters in Dead Heat in FL-16 (Kirschner campaign)",
-              "url": "https://kellykirschner.com/press/new-poll-kirschner-and-gruters-dead-heat-fl-16/",
-              "date": "2026-09"
+              "title": "5 takeaways from candidate forum for Tampa Bay congressional seat",
+              "url": "https://www.yahoo.com/news/politics/articles/5-takeaways-candidate-forum-tampa-100001040.html",
+              "date": "2026-09-26"
             }
           ]
         },
@@ -508,11 +567,17 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "At the Sept. 23 forum Kirschner opposed a mandatory voter-identification requirement and called the SAVE Act a distraction from actual election-integrity questions.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Candidates to replace Vern Buchanan in Congress spar in an online forum",
+              "url": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+              "date": "2026-09-24"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -624,6 +689,39 @@
               "date": "2026"
             }
           ]
+        },
+        {
+          "title": "Artificial intelligence and company liability",
+          "summary": "At the Sept. 23 forum Kirschner said technology companies should be held liable for harms arising from artificial intelligence products.",
+          "sources": [
+            {
+              "title": "Candidates to replace Vern Buchanan in Congress spar in an online forum",
+              "url": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+              "date": "2026-09-24"
+            }
+          ]
+        },
+        {
+          "title": "New College of Florida spending",
+          "summary": "Kirschner has criticized the cost of the state-directed changes at New College of Florida, saying a degree there now costs taxpayers far more than before; a state report last November put the figure at $494,715 per degree. Gruters was executive director of the New College Foundation for the past two years.",
+          "sources": [
+            {
+              "title": "Race to succeed Vern Buchanan in CD 16 is getting increasingly interesting",
+              "url": "https://floridapolitics.com/archives/821782-race-to-succeed-vern-buchanan-in-cd-16-is-getting-increasingly-interesting/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "title": "Republican endorsements and internal poll",
+          "summary": "Kirschner held a press conference announcing endorsements from several Republicans, including former U.S. Rep. Dan Miller, who represented Sarasota from 1992 to 2002. Kirschner also released an internal poll showing him ahead by one point in a district drawn about 13 points Republican.",
+          "sources": [
+            {
+              "title": "Race to succeed Vern Buchanan in CD 16 is getting increasingly interesting",
+              "url": "https://floridapolitics.com/archives/821782-race-to-succeed-vern-buchanan-in-cd-16-is-getting-increasingly-interesting/",
+              "date": "2026-09-25"
+            }
+          ]
         }
       ],
       "record": [
@@ -693,6 +791,16 @@
               "date": "2026-09-11"
             }
           ]
+        },
+        {
+          "by": "Dan Miller, former U.S. Representative for Sarasota (1992-2002), and other local Republicans",
+          "sources": [
+            {
+              "title": "Race to succeed Vern Buchanan in CD 16 is getting increasingly interesting",
+              "url": "https://floridapolitics.com/archives/821782-race-to-succeed-vern-buchanan-in-cd-16-is-getting-increasingly-interesting/",
+              "date": "2026-09-25"
+            }
+          ]
         }
       ]
     },
@@ -710,11 +818,17 @@
       "primary_result": "No primary (NPA candidate; Yahoo/Herald-Tribune report)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "At the Sept. 23 forum Davis said he would pay for universal health care by raising taxes on billionaires rather than by cutting government spending.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Candidates to replace Vern Buchanan in Congress spar in an online forum",
+              "url": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+              "date": "2026-09-24"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -738,11 +852,22 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "At the Sept. 23 forum Davis said Immigration and Customs Enforcement should be abolished and framed the country's problems as economic rather than about immigrants.",
+          "quote": "The problem isn't brown people. The problem is billionaires.",
+          "sources": [
+            {
+              "title": "Candidates to replace Vern Buchanan in Congress spar in an online forum",
+              "url": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+              "date": "2026-09-24"
+            },
+            {
+              "title": "Race to succeed Vern Buchanan in CD 16 is getting increasingly interesting",
+              "url": "https://floridapolitics.com/archives/821782-race-to-succeed-vern-buchanan-in-cd-16-is-getting-increasingly-interesting/",
+              "date": "2026-09-25"
+            }
+          ]
         },
         "abortion": {
           "stance": 1,
@@ -778,18 +903,18 @@
         "healthcare": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "In a Ballotpedia candidate survey Davis said health care is a human right and that he supports a single-payer system in place of private insurance.",
-          "quote": "I believe healthcare is a human right...period. I support a single-payer system that puts people before profit and ends the scam of private insurers.",
+          "summary": "At the Sept. 23 forum Davis said he is an unapologetic supporter of universal health care, which he would fund by taxing billionaires.",
+          "quote": "",
           "sources": [
             {
-              "title": "Ballotpedia Candidate Connection survey: Mark Davis",
-              "url": "https://ballotpedia.org/Mark_Davis_(Florida)",
-              "date": "2026-01-06"
+              "title": "Candidates to replace Vern Buchanan in Congress spar in an online forum",
+              "url": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+              "date": "2026-09-24"
             },
             {
-              "title": "Mark Davis - Florida's 16th Congressional District Election, 2026 (Smarter.vote candidate profile)",
-              "url": "https://smarter.vote/races/fl-house-16-2026/mark-davis/",
-              "date": "2026-09"
+              "title": "Race to succeed Vern Buchanan in CD 16 is getting increasingly interesting",
+              "url": "https://floridapolitics.com/archives/821782-race-to-succeed-vern-buchanan-in-cd-16-is-getting-increasingly-interesting/",
+              "date": "2026-09-25"
             }
           ]
         },
@@ -902,6 +1027,33 @@
               "date": null
             }
           ]
+        },
+        {
+          "title": "How he describes his candidacy",
+          "summary": "Davis, a 42-year-old military veteran and businessman making his first run for office, told the Sept. 23 forum he entered the race out of frustration and at the urging of people in his community.",
+          "sources": [
+            {
+              "title": "Candidates to replace Vern Buchanan in Congress spar in an online forum",
+              "url": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+              "date": "2026-09-24"
+            },
+            {
+              "title": "Race to succeed Vern Buchanan in CD 16 is getting increasingly interesting",
+              "url": "https://floridapolitics.com/archives/821782-race-to-succeed-vern-buchanan-in-cd-16-is-getting-increasingly-interesting/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "title": "July 2026 arrest",
+          "summary": "Davis was arrested in July 2026 on a misdemeanor charge of obstructing a police officer while Manatee County Sheriff's deputies served a court order at his home during a court-ordered welfare check on his children. Davis has said he believes the episode was connected to his political views and told WTSP that he raised more than $5,000 after the arrest became public.",
+          "sources": [
+            {
+              "title": "Race to succeed Vern Buchanan in CD 16 is getting increasingly interesting",
+              "url": "https://floridapolitics.com/archives/821782-race-to-succeed-vern-buchanan-in-cd-16-is-getting-increasingly-interesting/",
+              "date": "2026-09-25"
+            }
+          ]
         }
       ],
       "record": [
@@ -943,19 +1095,36 @@
   ],
   "events": [
     {
-      "date": "2026-09-23",
-      "host": "League of Women Voters of Manatee County and League of Women Voters of the St. Petersburg Area (virtual forum on Zoom, noon-1 p.m.; moderator Trevor Pettiford)",
-      "who": "Mark Davis (NPA), Sydney Gruters (R), Kelly Kirschner (D)",
+      "date": "2026-09-23 — Held",
+      "host": "League of Women Voters of Manatee County and League of Women Voters of the St. Petersburg Area (virtual Zoom forum, noon-1 p.m.; moderator Trevor Pettiford)",
+      "who": "Sydney Gruters (R), Kelly Kirschner (D), Mark Davis (NPA)",
       "sources": [
         {
-          "title": "District 16 candidates Davis, Gruters and Kirschner to attend virtual forum (Your Observer)",
-          "url": "https://www.yourobserver.com/news/2026/sep/20/candidates-davis-gruters-kirschner-virtual-forum/",
-          "date": "2026-09-20"
+          "title": "Candidates to replace Vern Buchanan in Congress spar in an online forum",
+          "url": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+          "date": "2026-09-24"
         },
         {
-          "title": "On Sept 23, U.S. House District 16 candidates to participate in virtual forum (NewsBreak)",
-          "url": "https://www.newsbreak.com/news/4892835029720-on-sept-23-u-s-house-district-16-candidates-to-participate-in-virtual-forum-hosted-by-leagues-of-women-voters-of-manatee-county-and-st-petersburg-area",
-          "date": "2026-09"
+          "title": "5 takeaways from candidate forum for Tampa Bay congressional seat (Tampa Bay Times)",
+          "url": "https://www.yahoo.com/news/politics/articles/5-takeaways-candidate-forum-tampa-100001040.html",
+          "date": "2026-09-26"
+        },
+        {
+          "title": "Race to succeed Vern Buchanan in CD 16 is getting increasingly interesting (Florida Phoenix)",
+          "url": "https://floridapolitics.com/archives/821782-race-to-succeed-vern-buchanan-in-cd-16-is-getting-increasingly-interesting/",
+          "date": "2026-09-25"
+        }
+      ]
+    },
+    {
+      "date": "",
+      "host": "Further forum invitations outstanding; a Gruters spokesperson cited limited time because the redrawn district spans six counties",
+      "who": "No further forum scheduled as of 2026-09-29 · Sydney Gruters, Kelly Kirschner, Mark Davis",
+      "sources": [
+        {
+          "title": "Is the era of political debates over in Florida? (Tampa Bay Times)",
+          "url": "https://www.yahoo.com/news/politics/articles/era-political-debates-over-florida-110000547.html",
+          "date": "2026-09-24"
         }
       ]
     }

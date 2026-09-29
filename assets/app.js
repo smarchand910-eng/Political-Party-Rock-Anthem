@@ -365,10 +365,26 @@
 
   /* ---------- Countdown ---------- */
   function countdown() {
-    const items = [[T('Election Day', 'Día de la elección'), '2026-11-03', T('Tue, Nov 3', 'mar. 3 nov.')], [T('Registration deadline', 'Plazo de registro'), '2026-10-05', T('Mon, Oct 5', 'lun. 5 oct.')], [T('Mail-ballot request deadline', 'Plazo para pedir boleta por correo'), '2026-10-22', T('Thu, Oct 22', 'jue. 22 oct.')], [T('Early voting begins', 'Empieza la votación anticipada'), '2026-10-24', T('Sat, Oct 24 (confirm)', 'sáb. 24 oct. (confirmar)')]];
+    // Early voting starts on a date each county sets, so use the voter's county when we know it.
+    const prof = loadProfile();
+    const ev = prof && prof.county && COUNTY_INFO[prof.county] && COUNTY_INFO[prof.county].early_voting;
+    let evIso = '2026-10-19', evPretty = T('Oct 19-24, by county', '19-24 oct., según el condado'), evLabel = T('Early voting begins', 'Empieza la votación anticipada');
+    const m = ev && ev.dates && ev.dates.match(/([A-Z][a-z]{2})\s+Oct\s+(\d{1,2})/);
+    if (m) {
+      const day = String(m[2]).padStart(2, '0');
+      evIso = `2026-10-${day}`;
+      evPretty = T(`${m[1]}, Oct ${m[2]} (${prof.county})`, `${m[2]} oct. (${prof.county})`);
+    }
+    const items = [
+      [T('Election Day', 'Día de la elección'), '2026-11-03', T('Tue, Nov 3', 'mar. 3 nov.')],
+      [T('Registration deadline', 'Plazo de registro'), '2026-10-05', T('Mon, Oct 5', 'lun. 5 oct.')],
+      [T('Mail-ballot request deadline', 'Plazo para pedir boleta por correo'), '2026-10-22', T('Thu, Oct 22', 'jue. 22 oct.')],
+      [evLabel, evIso, evPretty]
+    ];
     const today = new Date(); today.setHours(0, 0, 0, 0);
     return `<div class="countdown">${items.map(([label, iso, pretty]) => { const d = Math.round((new Date(iso + 'T00:00:00') - today) / 86400000); const num = d > 0 ? d : d === 0 ? T('Today', 'Hoy') : T('Passed', 'Pasó'); return `<div class="cd-tile"><div class="cd-num">${esc(String(num))}</div><div class="cd-label">${d > 0 ? T('days until ', 'días hasta: ') : ''}${esc(label)}</div><div class="cd-date">${esc(pretty)}</div></div>`; }).join('')}</div>`;
   }
+
 
   /* ---------- views ---------- */
   function viewHome() {
@@ -465,7 +481,7 @@
       ${r.on_november_ballot === false ? `<p class="notice"><strong>${T('Not on the November ballot.', 'No está en la boleta de noviembre.')}</strong> ${esc(r.decided_note || T('This seat was decided before the general election.', 'Este cargo se decidió antes de la elección general.'))}</p>` : ''}
       ${coverageNote(r)}
       ${r.verified_ballot_note ? `<details class="notice" style="border-radius:0 var(--radius-sm) var(--radius-sm) 0"><summary>${T('How we verified who is on the ballot', 'Cómo verificamos quién está en la boleta')}</summary><p style="margin:8px 0 0">${esc(r.verified_ballot_note)}</p>${sourcesHtml(r.verified_ballot_sources)}</details>` : ''}
-      ${(r.events || []).length ? `<div class="card"><h3 style="margin:0 0 6px">${T('Debates and forums', 'Debates y foros')}</h3><ul style="margin:0">${r.events.map(e => `<li>${e.date ? `<strong>${esc(e.date)}</strong> · ` : ''}${esc(e.host || '')}${e.who ? ` · ${esc(e.who)}` : ''}${sourcesHtml(e.sources)}</li>`).join('')}</ul></div>` : ''}
+      ${(r.events || []).length ? `<div class="card"><h3 style="margin:0 0 6px">${T('Debates and forums', 'Debates y foros')}</h3><ul style="margin:0">${r.events.map(e => `<li>${e.date ? `<strong>${esc(e.date)}</strong> · ` : ''}${esc(e.host || '')}${e.who ? `<br><small class="muted">${esc(e.who)}</small>` : ''}${sourcesHtml(e.sources)}</li>`).join('')}</ul></div>` : ''}
       ${r.kind === 'judicial' ? '' : `<div class="btn-row"><a class="btn btn-primary" href="#/match">${T('See how you match in this race →', 'Vea su coincidencia en esta contienda →')}</a></div>`}
       <section class="section"><div class="section-head"><h2>${T('Candidates', 'Candidatos')}</h2><small>${reportLink(r.title)}</small></div>${cands.some(c => /write/i.test(c.party || '')) ? `<p class="notice"><strong>${T('One candidate in this race is a write-in.', 'Un candidato en esta contienda es por escrito (write-in).')}</strong> ${T('Florida does not print a qualified write-in candidate\'s name on the ballot. To vote for one you must write the name on the write-in line for this race; a blank or misspelled line may not be counted.', 'Florida no imprime en la boleta el nombre de un candidato calificado por escrito. Para votar por uno debe escribir el nombre en la línea de write-in de esta contienda; una línea en blanco o mal escrita puede no contarse.')}</p>` : ''}${cands.some(c => c.withdrawn) ? `<p class="notice notice-warn">${T('Candidates marked "Withdrew", "Defeated in the primary" or "Did not qualify" are not running in November, according to the Florida Division of Elections candidate list. A name may still be printed on the ballot if the withdrawal came late; such votes are not counted. They are excluded from match results.', 'Los candidatos marcados como "Se retiró", "Derrotado en la primaria" o "No calificó" no compiten en noviembre, según la lista de candidatos de la División de Elecciones de Florida. Un nombre puede seguir impreso en la boleta si el retiro fue tardío; esos votos no se cuentan. Se excluyen de los resultados de coincidencia.')}</p>` : ''}<div class="stack">${cands.map(c => candidateCard(c)).join('')}</div></section>
       ${r.kind === 'judicial' || r.positions_note ? `<div class="card"><h3 style="margin:0 0 6px">${T('Why there are no issue positions here', 'Por qué no hay posiciones sobre temas aquí')}</h3><p style="margin:0">${esc(r.positions_note || '')}</p></div>` : `

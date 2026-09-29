@@ -638,5 +638,23 @@
         }
       ]
     }
+  ],
+  "events": [
+    {
+      "date": "2026-09-16",
+      "host": " (held)",
+      "sources": [
+        {
+          "title": "League of Women Voters to host candidate forums in Sarasota County",
+          "url": "https://www.mysuncoast.com/2026/09/14/league-women-voters-host-candidate-forums-sarasota-county/",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "League of Women Voters of Sarasota County - Election Central (forum recordings)",
+          "url": "https://lwvsrq.org/",
+          "date": "2026-09-29"
+        }
+      ]
+    }
   ]
 }

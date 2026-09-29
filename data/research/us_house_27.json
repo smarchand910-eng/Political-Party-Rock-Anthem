@@ -73,25 +73,25 @@
           "sources": []
         },
         "immigration": {
-          "stance": 0,
+          "stance": -1,
           "confidence": "stated",
-          "summary": "In a September 2026 TV ad addressed to President Trump, Salazar said some of his immigration enforcement efforts have gone too far and that Hispanic voters feel betrayed; she also objected to ending protections for Venezuelans and Haitians and promoted her bipartisan Dignity Act. On the ICE detention of an exiled Nicaraguan journalist she said the administration should enforce the law and deport dangerous individuals but not treat political exiles like criminals.",
-          "quote": "Mr. President, some of your immigration enforcement efforts have gone too far",
+          "summary": "In her first general-election ad and in subsequent interviews Salazar said parts of the Trump administration's immigration enforcement have gone too far, citing reports that more than half of about 50,000 people ICE arrested in July had no criminal conviction or pending charge. She said she is not calling for amnesty. On 'Face the Nation' on Sept. 20 she said she had spoken with the President about the effects of enforcement in South Florida.",
+          "quote": "Mr. President, some of your immigration enforcement efforts have gone too far.",
           "sources": [
             {
-              "title": "Trump-Backed Republican Congresswoman Says the President's Immigration Crackdown Has Gone 'Too Far' (TIME)",
-              "url": "https://time.com/article/2026/09/17/trump-immigration-florida-republican-maria-elvira-salazar-midterms/",
-              "date": "2026-09-17"
+              "title": "Donald Trump rips into Maria Elvira Salazar in flurry of Truth Social posts Saturday",
+              "url": "https://floridapolitics.com/archives/822005-donald-trump-rips-into-maria-elvira-salazar-in-flurry-of-truth-social-posts-saturday/",
+              "date": "2026-09-27"
             },
             {
-              "title": "Maria Elvira Salazar tells Trump in TV ad he's gone 'too far' on immigration (Political Cortadito)",
-              "url": "https://politicalcortadito.com/2026/09/18/maria-elvira-salazar-trump-tv-ad-immigration/",
-              "date": "2026-09-18"
+              "title": "Transcript: Rep. Maria Elvira Salazar on 'Face the Nation with Margaret Brennan'",
+              "url": "https://www.cbsnews.com/news/maria-elvira-salazar-florida-republican-face-the-nation-transcript-09-20-2026/",
+              "date": "2026-09-20"
             },
             {
-              "title": "Exiled Nicaraguan journalist detained by ICE in Florida (WUSF)",
-              "url": "https://www.wusf.org/politics-issues/2026-09-19/exiled-nicaraguan-journalist-detained-by-ice-in-florida-he-could-be-deported-to-country-he-escaped",
-              "date": "2026-09-19"
+              "title": "Trump posts series of attacks on GOP congresswoman who criticized him on immigration",
+              "url": "https://www.cp24.com/news/world/2026/09/28/trump-posts-series-of-attacks-on-gop-congresswoman-who-criticized-him-on-immigration/",
+              "date": "2026-09-28"
             }
           ]
         },
@@ -300,18 +300,18 @@
         "trump": {
           "stance": 0,
           "confidence": "stated",
-          "summary": "Salazar holds President Trump's endorsement, but in a September 2026 campaign ad she publicly criticized his immigration enforcement as having gone too far and said Hispanic voters who supported him feel betrayed.",
-          "quote": "The same Hispanics who helped you get to the White House in 2024 feel betrayed today",
+          "summary": "Salazar publicly urged the President to change course on immigration enforcement and said Hispanic voters who backed him feel betrayed, while saying she was warning rather than attacking him. On 'Face the Nation' on Sept. 20 she described a 'very good conversation' with him. Trump said on Sept. 26-27 that he disagreed with her and reposted about a dozen messages criticizing her.",
+          "quote": "He was a gentleman, very courteous, very receptive.",
           "sources": [
             {
-              "title": "Maria Elvira Salazar tells Trump in TV ad he's gone 'too far' on immigration (Political Cortadito)",
-              "url": "https://politicalcortadito.com/2026/09/18/maria-elvira-salazar-trump-tv-ad-immigration/",
-              "date": "2026-09-18"
+              "title": "Transcript: Rep. Maria Elvira Salazar on 'Face the Nation with Margaret Brennan'",
+              "url": "https://www.cbsnews.com/news/maria-elvira-salazar-florida-republican-face-the-nation-transcript-09-20-2026/",
+              "date": "2026-09-20"
             },
             {
-              "title": "Trump-Backed Republican Congresswoman Says the President's Immigration Crackdown Has Gone 'Too Far' (TIME)",
-              "url": "https://time.com/article/2026/09/17/trump-immigration-florida-republican-maria-elvira-salazar-midterms/",
-              "date": "2026-09-17"
+              "title": "Donald Trump rips into Maria Elvira Salazar in flurry of Truth Social posts Saturday",
+              "url": "https://floridapolitics.com/archives/822005-donald-trump-rips-into-maria-elvira-salazar-in-flurry-of-truth-social-posts-saturday/",
+              "date": "2026-09-27"
             }
           ]
         },
@@ -402,6 +402,43 @@
               "title": "Maria Elvira Salazar tells Trump in TV ad he's gone 'too far' on immigration (Political Cortadito)",
               "url": "https://politicalcortadito.com/2026/09/18/maria-elvira-salazar-trump-tv-ad-immigration/",
               "date": "2026-09-18"
+            }
+          ]
+        },
+        {
+          "title": "Public break with President Trump",
+          "summary": "After Salazar's ad criticizing immigration enforcement, Trump said from the Oval Office that he disagreed with her and that she 'got a little bit soft on the border,' then on the evening of Saturday, Sept. 26 reposted roughly a dozen Truth Social messages attacking her, some calling for Republicans to find a different candidate for the seat. Salazar had not responded directly as of Sept. 27. Conservative commentators including Tomi Lahren, Mark Levin and Alfonso Aguilar also criticized her.",
+          "sources": [
+            {
+              "title": "Donald Trump rips into Maria Elvira Salazar in flurry of Truth Social posts Saturday",
+              "url": "https://floridapolitics.com/archives/822005-donald-trump-rips-into-maria-elvira-salazar-in-flurry-of-truth-social-posts-saturday/",
+              "date": "2026-09-27"
+            },
+            {
+              "title": "Conservative commentators pile on Maria Elvira Salazar over Donald Trump immigration rebuke",
+              "url": "https://floridapolitics.com/archives/821668-conservative-commentators-pile-on-maria-elvira-salazar-over-donald-trump-immigration-rebuke/",
+              "date": "2026-09-24"
+            },
+            {
+              "title": "Rift escalates as Trump targets Miami GOP Congresswoman Maria Elvira Salazar in Truth Social rant",
+              "url": "https://www.wlrn.org/government-politics/2026-09-27/rift-escalates-as-trump-targets-miami-gop-congresswoman-maria-elvira-salazar-in-truth-social-rant",
+              "date": "2026-09-27"
+            }
+          ]
+        },
+        {
+          "title": "Race rating moves",
+          "summary": "Fox News and Sabato's Crystal Ball both moved the district from 'Likely Republican' to 'Lean Republican' on Sept. 22, and the Cook Political Report did the same on Sept. 25.",
+          "sources": [
+            {
+              "title": "Fox News ratings move 7 of Florida's U.S. House contests in Democrats' direction",
+              "url": "https://floridapolitics.com/archives/821268-fox-news-ratings-move-7-of-floridas-u-s-house-contests-in-democrats-direction/",
+              "date": "2026-09-23"
+            },
+            {
+              "title": "Cook Political Report sees Anna Paulina Luna, Maria Elvira Salazar in risky territory, opens CD 22 as a jump ball",
+              "url": "https://floridapolitics.com/archives/821874-cook-political-report-sees-anna-paulina-luna-maria-elvira-salazar-in-risky-territory-opens-cd-22-as-a-jump-ball/",
+              "date": "2026-09-25"
             }
           ]
         }
@@ -676,6 +713,16 @@
               "title": "Roll Call 309 | H.R. 9576 | House Clerk",
               "url": "https://clerk.house.gov/Votes/2026309",
               "date": "2026-09-16"
+            }
+          ]
+        },
+        {
+          "item": "Introduced the House version of the TAKE IT DOWN Act with Rep. Madeleine Dean on Jan. 22, 2025; the law, signed May 19, 2025, bars distribution of nonconsensual intimate images, including AI-generated ones, and requires platforms to remove reported material within 48 hours. Salazar features it in her second general-election ad, released Sept. 23.",
+          "sources": [
+            {
+              "title": "Maria Elvira Salazar touts her bipartisan deepfake law in second General Election ad",
+              "url": "https://floridapolitics.com/archives/821518-maria-elvira-salazar-touts-her-bipartisan-deepfake-law-in-second-general-election-ad/",
+              "date": "2026-09-23"
             }
           ]
         }
@@ -1038,6 +1085,22 @@
               "date": "2026-09-18"
             }
           ]
+        },
+        {
+          "title": "Response to Salazar's immigration ad",
+          "summary": "Rodriguez said Salazar had voted for the tax-and-spending law that funded the enforcement she is criticizing, called the ad a 'desperate political stunt to save her seat,' and said 'she can't be trusted, she stands for nothing, she's going to lose.' His campaign's internal Bendixen & Amandi poll put the two candidates tied at 45%.",
+          "sources": [
+            {
+              "title": "Rift escalates as Trump targets Miami GOP Congresswoman Maria Elvira Salazar in Truth Social rant",
+              "url": "https://www.wlrn.org/government-politics/2026-09-27/rift-escalates-as-trump-targets-miami-gop-congresswoman-maria-elvira-salazar-in-truth-social-rant",
+              "date": "2026-09-27"
+            },
+            {
+              "title": "Maria Elvira Salazar touts her bipartisan deepfake law in second General Election ad",
+              "url": "https://floridapolitics.com/archives/821518-maria-elvira-salazar-touts-her-bipartisan-deepfake-law-in-second-general-election-ad/",
+              "date": "2026-09-23"
+            }
+          ]
         }
       ],
       "record": [
@@ -1079,6 +1142,23 @@
           "title": "Maria Elvira Salazar tells Trump in TV ad he's gone 'too far' on immigration (Political Cortadito)",
           "url": "https://politicalcortadito.com/2026/09/18/maria-elvira-salazar-trump-tv-ad-immigration/",
           "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "date": "",
+      "host": "CBS 4 Miami, WPLG Local 10 and Telemundo 51 invitations",
+      "who": "No debate scheduled as of 2026-09-29 · Eliott Rodriguez accepted all three; Maria Elvira Salazar let a Sept. 1 deadline pass without responding",
+      "sources": [
+        {
+          "title": "Phil Ehr challenges Carlos Gimenez, Eddy Rojas to CD 28 debates amid statewide debate drought",
+          "url": "https://floridapolitics.com/archives/821220-phil-ehr-challenges-carlos-gimenez-eddy-rojas-to-cd-28-debates-amid-statewide-debate-drought/",
+          "date": "2026-09-22"
+        },
+        {
+          "title": "Conservative commentators pile on Maria Elvira Salazar over Donald Trump immigration rebuke",
+          "url": "https://floridapolitics.com/archives/821668-conservative-commentators-pile-on-maria-elvira-salazar-over-donald-trump-immigration-rebuke/",
+          "date": "2026-09-24"
         }
       ]
     }

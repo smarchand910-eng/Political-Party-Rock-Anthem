@@ -132,6 +132,22 @@
               "date": "2026-09-17"
             }
           ]
+        },
+        {
+          "date": "2026-09-29",
+          "item": "The Republican Party of Florida formally endorsed Amendment 1 on Sept. 15, 2026, putting the party at odds with Gov. Ron DeSantis, who has called the proposal to raise the Budget Stabilization Fund cap from 10% to 25% of general revenue 'foolish' and says surpluses should go to tax cuts instead. Florida TaxWatch recommended a 'yes' vote in its voter guide issued Sept. 18, 2026.",
+          "sources": [
+            {
+              "title": "Florida GOP endorses Amendments 1 and 3 ahead of November election",
+              "url": "https://flvoicenews.com/florida-gop-endorses-amendments-1-and-3-ahead-of-november-election/",
+              "date": "2026-09-15"
+            },
+            {
+              "title": "Florida TaxWatch urges 'No' vote on Amendment 3, warns of city, county budget cuts",
+              "url": "https://www.wusf.org/politics-issues/2026-09-20/florida-taxwatch-urges-no-vote-on-amendment-3-warns-of-city-county-budget-cuts",
+              "date": "2026-09-20"
+            }
+          ]
         }
       ]
     },
@@ -247,6 +263,22 @@
               "title": "The Florida Taxpayer's Guide for the 2026 Constitutional Amendments - Florida TaxWatch",
               "url": "https://floridataxwatch.org/the-florida-taxpayers-guide-for-the-2026-constitutional-amendments/",
               "date": "2026-09-17"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "item": "Florida TaxWatch recommended a 'yes' vote on Amendment 2 in its 2026 voter guide (Sept. 18, 2026). The Republican Party of Florida reiterated its support on Sept. 15, 2026, saying it had endorsed the measure the previous year. No organized opposition campaign has surfaced. State estimates put the cost to local governments at about $31 million in the first year, rising to $34 million by the third.",
+          "sources": [
+            {
+              "title": "Florida TaxWatch urges 'No' vote on Amendment 3, warns of city, county budget cuts",
+              "url": "https://www.wusf.org/politics-issues/2026-09-20/florida-taxwatch-urges-no-vote-on-amendment-3-warns-of-city-county-budget-cuts",
+              "date": "2026-09-20"
+            },
+            {
+              "title": "Florida GOP endorses Amendments 1 and 3 ahead of November election",
+              "url": "https://flvoicenews.com/florida-gop-endorses-amendments-1-and-3-ahead-of-november-election/",
+              "date": "2026-09-15"
             }
           ]
         }
@@ -532,6 +564,103 @@
               "title": "Florida governor candidates differ on AI, data centers and property taxes - FOX 35",
               "url": "https://www.fox35orlando.com/news/florida-governor-candidates-differ-ai-data-centers-property-taxes",
               "date": "2026-09-17"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "item": "Polling continues to show Amendment 3 short of the 60% needed. A St. Pete Polls survey of 913 likely voters taken Sept. 15-17, 2026 found 45% support, about 30% opposed and 25% undecided (margin of error 3.2 points). A Stetson University survey taken Sept. 14-21 and reported Sept. 25 found 50% support, 25% opposed and 24% undecided.",
+          "sources": [
+            {
+              "title": "Gov. DeSantis, sheriffs clash over Amendment 3 as poll shows support below passage threshold",
+              "url": "https://www.wflx.com/2026/09/18/gov-desantis-sheriffs-clash-over-amendment-3-poll-shows-support-below-passage-threshold/",
+              "date": "2026-09-18"
+            },
+            {
+              "title": "New Stetson University Poll Puts Republicans Ahead",
+              "url": "https://floridianpress.com/2026/09/new-stetson-university-poll-puts-republicans-ahead/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "item": "Florida TaxWatch came out against Amendment 3 in the voter guide it issued Sept. 18, 2026, warning the measure would 'worsen' the existing shift of property taxes from homesteads onto non-homestead property and that, without spending controls, lost homestead revenue 'will simply be passed on to non-homestead property owners or replaced with other taxes.' It recommended 'yes' on Amendments 1 and 2.",
+          "sources": [
+            {
+              "title": "Florida TaxWatch urges 'No' vote on Amendment 3, warns of city, county budget cuts",
+              "url": "https://www.wusf.org/politics-issues/2026-09-20/florida-taxwatch-urges-no-vote-on-amendment-3-warns-of-city-county-budget-cuts",
+              "date": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "item": "Gov. Ron DeSantis is publicly urging a 'yes' vote while law-enforcement groups campaign against it. DeSantis said on Sept. 18, 2026: 'But if you don't get this one passed, they're not going to give you any relief on property tax.' The Florida Sheriffs Association is running ads saying 'We want a tax cut too, but Amendment 3 is the wrong way to do it,' and Polk County Sheriff Grady Judd called the measure 'a train wreck.' The Florida State Fraternal Order of Police and Florida Professional Firefighters also oppose it.",
+          "sources": [
+            {
+              "title": "Gov. DeSantis, sheriffs clash over Amendment 3 as poll shows support below passage threshold",
+              "url": "https://www.wflx.com/2026/09/18/gov-desantis-sheriffs-clash-over-amendment-3-poll-shows-support-below-passage-threshold/",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "item": "Legislative analysts project the measure would cut local non-school property tax revenue by about $4.95 billion in 2027-28 and $8.78 billion in 2028-29; the state Revenue Estimating Conference has put the eventual recurring cost near $12 billion. Orange County says it could lose $275 million a year by 2028 and Seminole County says up to 20% of its revenue is at risk; Kissimmee, Winter Springs and Apopka have frozen non-essential hiring.",
+          "sources": [
+            {
+              "title": "Gov. DeSantis, sheriffs clash over Amendment 3 as poll shows support below passage threshold",
+              "url": "https://www.wflx.com/2026/09/18/gov-desantis-sheriffs-clash-over-amendment-3-poll-shows-support-below-passage-threshold/",
+              "date": "2026-09-18"
+            },
+            {
+              "title": "Florida's Amendment 3 could change property taxes. Here's what voters need to know",
+              "url": "https://www.clickorlando.com/election-2026/2026/09/23/floridas-amendment-3-could-change-property-taxes-heres-what-voters-need-to-know/",
+              "date": "2026-09-24"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "item": "The Republican Party of Florida endorsed Amendment 3 on Sept. 15, 2026, with Chairman Evan Power saying 'Floridians work hard for what they have. Government should not spend it all and then come back for more.' The organized opposition, which now includes the Florida Library Association, the Florida Association of Special Districts, the Federation of Manufactured Home Owners of Florida and the League of Women Voters of Florida, campaigns under the slogan 'you will pay more while they pay less.'",
+          "sources": [
+            {
+              "title": "Florida GOP endorses Amendments 1 and 3 ahead of November election",
+              "url": "https://flvoicenews.com/florida-gop-endorses-amendments-1-and-3-ahead-of-november-election/",
+              "date": "2026-09-15"
+            },
+            {
+              "title": "Opposition Surges Against Florida Amendment 3 As Budget Warnings Mount",
+              "url": "https://www.tampafp.com/opposition-surges-against-florida-amendment-3-as-budget-warnings-mount/",
+              "date": "2026-08-27"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "item": "No new court action: the August 2026 Leon County ruling that forced a rewrite of the ballot title and summary was not appealed, and the court-ordered title 'Increased Homestead Exemption; Lower Cap on Increases in Non-Homestead Property Assessments' is what voters will see. Nothing new was found between Sept. 20 and Sept. 29, 2026.",
+          "sources": [
+            {
+              "title": "Florida's Amendment 3 could change property taxes. Here's what voters need to know",
+              "url": "https://www.clickorlando.com/election-2026/2026/09/23/floridas-amendment-3-could-change-property-taxes-heres-what-voters-need-to-know/",
+              "date": "2026-09-24"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "item": "The amendment has become a dividing line in the statewide races. Donalds said on Sept. 23, 2026 that he will vote yes and described eliminating homestead property taxes as a long-term goal; Jolly said he opposes it but would respect the result, and is instead proposing a first-time homebuyer break. CFO Blaise Ingoglia has campaigned for it, arguing local governments can absorb the loss.",
+          "sources": [
+            {
+              "title": "Byron Donalds, David Jolly outline differences on property taxes, insurance at Fort Lauderdale summit",
+              "url": "https://www.cbsnews.com/miami/news/florida-governor-byron-donalds-david-jolly-fort-lauderdale-summit/",
+              "date": "2026-09-23"
+            },
+            {
+              "title": "David Jolly implores national Democrats to help in the Florida governor's race",
+              "url": "https://news.wfsu.org/state-news/2026-09-28/david-jolly-implores-national-democrats-to-help-in-the-florida-governors-race",
+              "date": "2026-09-28"
             }
           ]
         }

@@ -110,13 +110,13 @@
         "environment": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Brown's campaign website says she would protect natural resources through responsible land use, promote green infrastructure and resilient planning, and balance growth with preserving parks, waterways and green space.",
-          "quote": "Balance growth while preserving parks, waterways, and green space",
+          "summary": "At the District 2 runoff forum in Apopka on Sept. 22 she called clean water a public-health issue and named septic-to-sewer conversion a priority for the district.",
+          "quote": "It is a public health issue, and it's important that we make sure we do all that we can to prioritize clean water.",
           "sources": [
             {
-              "title": "Campaign website, quoted on Ballotpedia",
-              "url": "https://ballotpedia.org/Kamia_Brown",
-              "date": "2026-07-11"
+              "title": "Orange County Commission candidates talk vision, priorities for District 2",
+              "url": "https://theapopkachief.com/orange-county-commission-brown-crabb/",
+              "date": "2026-09-23"
             }
           ]
         },
@@ -228,6 +228,17 @@
               "title": "Campaign website, quoted on Ballotpedia",
               "url": "https://ballotpedia.org/Kamia_Brown",
               "date": "2026-07-11"
+            }
+          ]
+        },
+        {
+          "title": "Data centers and job recruitment",
+          "summary": "At the District 2 runoff forum she said she would work to recruit technology employers to the district but not data centers, describing the goal as building a pipeline of tech jobs. She also voiced support for the STAR Plan transportation project.",
+          "sources": [
+            {
+              "title": "Orange County Commission candidates talk vision, priorities for District 2",
+              "url": "https://theapopkachief.com/orange-county-commission-brown-crabb/",
+              "date": "2026-09-23"
             }
           ]
         }
@@ -400,13 +411,13 @@
         "environment": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Crabb's website lists parks and environmental conservation among his five priorities, saying he will work to protect wildlife, preserve natural resources and secure grants to replace aging septic systems leaking into the local watershed.",
-          "quote": "Mike will work to protect wildlife, preserve natural resources, and secure grants to convert aging septic systems that are leaking into our watershed.",
+          "summary": "At the District 2 runoff forum in Apopka on Sept. 22 he also named septic-to-sewer conversion a priority for the district.",
+          "quote": "",
           "sources": [
             {
-              "title": "Mike Crabb campaign website, quoted on Ballotpedia",
-              "url": "https://ballotpedia.org/Mike_Crabb",
-              "date": "2026-07-18"
+              "title": "Orange County Commission candidates talk vision, priorities for District 2",
+              "url": "https://theapopkachief.com/orange-county-commission-brown-crabb/",
+              "date": "2026-09-23"
             }
           ]
         },
@@ -515,6 +526,17 @@
               "date": "2026-07-18"
             }
           ]
+        },
+        {
+          "title": "Role of county government",
+          "summary": "At the District 2 runoff forum he said local government's core obligations are public safety and infrastructure, cited his 30 years in law enforcement, and said the county should be open and inviting to business.",
+          "sources": [
+            {
+              "title": "Orange County Commission candidates talk vision, priorities for District 2",
+              "url": "https://theapopkachief.com/orange-county-commission-brown-crabb/",
+              "date": "2026-09-23"
+            }
+          ]
         }
       ],
       "record": [],
@@ -533,6 +555,25 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Mike_Crabb"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-09-22",
+      "host": "Apopka Involved Voters; moderated by Hank Dunn; livestreamed on The Apopka Chief's Facebook and YouTube — Victory Church, 509 S. Park Ave., Apopka (held)",
+      "who": "kamia_brown, mike_crabb",
+      "sources": [
+        {
+          "title": "Apopka Involved Voters to host Orange County runoff forums",
+          "url": "https://theapopkachief.com/apopka-involved-voters-to-host-orange-county-runoff-forums/",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "Orange County Commission candidates talk vision, priorities for District 2",
+          "url": "https://theapopkachief.com/orange-county-commission-brown-crabb/",
+          "date": "2026-09-23"
         }
       ]
     }

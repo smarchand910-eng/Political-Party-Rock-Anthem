@@ -581,7 +581,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Publicly challenges opponent and Southwest Florida media to hold debates",
+          "summary": "On Sept. 19, 2026, Silverberg issued a three-part public challenge calling on Southwest Florida news organizations to organize debates, on civic groups to host them, and on his opponent to debate him in the Senate District 28 race. He wrote that no debates had been scheduled for the many offices on the ballot.",
+          "sources": [
+            {
+              "title": "My triple debate challenge to Southwest Florida",
+              "url": "https://www.theparadiseprogressive.com/blog-the-paradise-progressive/my-triple-debate-challenge-to-southwest-florida",
+              "date": "2026-09-19"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

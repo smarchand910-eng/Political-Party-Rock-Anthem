@@ -32,23 +32,13 @@
         "taxes": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Singer campaigns on tax reform and support for President Trump's tax policies, and cites cutting Boca Raton's tax rate seven straight years to the lowest of any full-service city in Florida.",
-          "quote": null,
+          "summary": "In accepting the National Federation of Independent Business endorsement on Sept. 23, Singer said he would seek lower federal taxes, fewer business regulations and reduced government spending, citing seven consecutive reductions in Boca Raton's property tax rate as Mayor.",
+          "quote": "",
           "sources": [
             {
-              "title": "Scott Singer wins Republican primary for Florida's Congressional District 25 (CBS Miami)",
-              "url": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-25-republican-scott-singer/",
-              "date": "2026-08-18"
-            },
-            {
-              "title": "About Scott Singer (campaign site)",
-              "url": "https://www.scottsingerusa.com/about-scott-singer",
-              "date": null
-            },
-            {
-              "title": "Scott Singer Pitches Final Policy Points Ahead of District 25 Republican Primary (The Floridian)",
-              "url": "https://floridianpress.com/2026/08/scott-singer-pitches-final-policy-points-ahead-of-district-25-republican-primary/",
-              "date": "2026-08"
+              "title": "National Federation of Independent Businesses backs 'proven' Scott Singer for CD 25",
+              "url": "https://floridapolitics.com/archives/821491-national-federation-of-independent-businesses-backs-proven-scott-singer-for-cd-25/",
+              "date": "2026-09-23"
             }
           ]
         },
@@ -207,11 +197,22 @@
           ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In accepting police endorsements on Sept. 22 and Sept. 26 Singer said he would seek more resources for law enforcement and oppose cuts to police funding in Congress.",
+          "quote": "In Congress, I will continue standing with law enforcement. I will always advocate on behalf of our brave police, law enforcement, and first responders so they have resources to keep South Florida safe.",
+          "sources": [
+            {
+              "title": "Florida PBA backs Scott Singer in CD 25, lauds his 'proven track record' supporting police",
+              "url": "https://floridapolitics.com/archives/821283-florida-pba-backs-scott-singer-in-cd-25-lauds-his-proven-track-record-supporting-police/",
+              "date": "2026-09-22"
+            },
+            {
+              "title": "Scott Singer nabs endorsement from National Association of Police Organizations",
+              "url": "https://floridapolitics.com/archives/821911-scott-singer-nabs-endorsement-from-national-association-of-police-organizations/",
+              "date": "2026-09-26"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -394,6 +395,56 @@
               "title": "NRCC Announces Latest Additions to 'MAGA Majority' Program",
               "url": "https://nrcc.org/2026/09/08/nrcc-announces-latest-additions-to-maga-majority-program-as-gop-expands-2026-map/",
               "date": "2026-09-08"
+            }
+          ]
+        },
+        {
+          "by": "Florida Police Benevolent Association",
+          "sources": [
+            {
+              "title": "Florida PBA backs Scott Singer in CD 25, lauds his 'proven track record' supporting police",
+              "url": "https://floridapolitics.com/archives/821283-florida-pba-backs-scott-singer-in-cd-25-lauds-his-proven-track-record-supporting-police/",
+              "date": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "by": "National Federation of Independent Business",
+          "sources": [
+            {
+              "title": "National Federation of Independent Businesses backs 'proven' Scott Singer for CD 25",
+              "url": "https://floridapolitics.com/archives/821491-national-federation-of-independent-businesses-backs-proven-scott-singer-for-cd-25/",
+              "date": "2026-09-23"
+            }
+          ]
+        },
+        {
+          "by": "National Association of Police Organizations",
+          "sources": [
+            {
+              "title": "Scott Singer nabs endorsement from National Association of Police Organizations",
+              "url": "https://floridapolitics.com/archives/821911-scott-singer-nabs-endorsement-from-national-association-of-police-organizations/",
+              "date": "2026-09-26"
+            }
+          ]
+        },
+        {
+          "by": "U.S. Chamber of Commerce",
+          "sources": [
+            {
+              "title": "U.S. Chamber Endorses Candidate Scott Singer for Florida's Twenty-Fifth District",
+              "url": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-scott-singer-for-floridas-twenty-fifth-district",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "by": "Peter Deutsch, former Democratic U.S. Representative (1993-2005)",
+          "sources": [
+            {
+              "title": "Former Congressman Peter Deutsch crosses party lines to back Scott Singer in CD 25",
+              "url": "https://floridapolitics.com/archives/822180-former-congressman-peter-deutsch-crosses-party-lines-to-back-scott-singer-in-cd-25/",
+              "date": "2026-09-28"
             }
           ]
         }
@@ -848,6 +899,22 @@
               "title": "Moskowitz ducks Local 10 debate as Singer demands answers on ethics, Israel and taxes (Florida's Voice)",
               "url": "https://flvoicenews.com/moskowitz-ducks-local-10-debate-as-singer-demands-answers-on-ethics-israel-and-taxes/",
               "date": "2026-09-18"
+            }
+          ]
+        },
+        {
+          "title": "Race rating move and national Democratic support",
+          "summary": "Fox News moved the district from 'Toss-up' to 'Lean D' on Sept. 22. On Sept. 25, DCCC Chair Suzan DelBene and House Democratic Caucus Chair Pete Aguilar campaigned with Moskowitz in South Florida alongside former U.S. Rep. Joe Garcia and Miami Beach officials. Moskowitz is in the DCCC's Frontline program.",
+          "sources": [
+            {
+              "title": "Fox News ratings move 7 of Florida's U.S. House contests in Democrats' direction",
+              "url": "https://floridapolitics.com/archives/821268-fox-news-ratings-move-7-of-floridas-u-s-house-contests-in-democrats-direction/",
+              "date": "2026-09-23"
+            },
+            {
+              "title": "National Democrats to stump in Florida with House candidates in battleground seats",
+              "url": "https://floridapolitics.com/archives/821687-national-democrats-to-stump-in-florida-with-house-candidates-in-battleground-seats/",
+              "date": "2026-09-25"
             }
           ]
         }
@@ -1311,6 +1378,18 @@
           "title": "Moskowitz ducks Local 10 debate (Florida's Voice)",
           "url": "https://flvoicenews.com/moskowitz-ducks-local-10-debate-as-singer-demands-answers-on-ethics-israel-and-taxes/",
           "date": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "date": "",
+      "host": "WPLG Local 10 (proposed televised debate)",
+      "who": "Unchanged since the last sweep; no debate scheduled as of 20 · Scott Singer accepted; Jared Moskowitz did not accept",
+      "sources": [
+        {
+          "title": "Scott Singer Calls Out Moskowitz For Refusing to Debate on TV (The Floridian)",
+          "url": "https://floridianpress.com/2026/09/scott-singer-calls-out-moskowitz-for-refusing-to-debate-on-tv/",
+          "date": "2026-09"
         }
       ]
     }

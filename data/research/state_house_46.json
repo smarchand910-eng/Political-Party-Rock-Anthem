@@ -254,7 +254,18 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "Equality Florida PAC",
+          "sources": [
+            {
+              "title": "Equality Florida PAC | Endorsed Candidates",
+              "url": "https://eqflpac.org/endorsed-candidates/",
+              "date": "2026-09-10"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "ivan_rivera",

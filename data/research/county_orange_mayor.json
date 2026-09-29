@@ -35,18 +35,13 @@
         "property_tax": {
           "stance": -2,
           "confidence": "stated",
-          "summary": "At the Sept. 9 League of Women Voters of Orange County forum, Moore Russell said she will vote against Amendment 3, the proposed increase in the homestead exemption that would cut local property-tax revenue.",
-          "quote": "",
+          "summary": "At the Orange County mayoral runoff forum in Apopka she said she intends to vote against the November state property-tax amendment, citing the difficulty of replacing the lost revenue and the effect on first responders and smaller municipalities.",
+          "quote": "I do plan to vote no",
           "sources": [
             {
-              "title": "Tiffany Moore Russell and Chris Messina present alternative visions for Orange County (Florida Politics)",
-              "url": "https://floridapolitics.com/archives/819177-tiffany-moore-russell-and-chris-messina-present-alternative-visions-for-orange-county/",
-              "date": "2026-09-09"
-            },
-            {
-              "title": "League of Women Voters of Orange County event calendar, September 2026",
-              "url": "https://www.lwvoc.org/content.aspx?page_id=4001&club_id=907481",
-              "date": "2026-09"
+              "title": "Moore Russell, Messina differ sharply on property taxes, county's future",
+              "url": "https://theapopkachief.com/moore-russell-messina-differ-sharply-on-property-taxes-countys-future/",
+              "date": "2026-09-22"
             }
           ]
         },
@@ -58,11 +53,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "At the same forum she said the county should increase housing supply and shorten its development-approval timelines, and said the way county staff interpret development rules causes costly delays.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Moore Russell, Messina differ sharply on property taxes, county's future",
+              "url": "https://theapopkachief.com/moore-russell-messina-differ-sharply-on-property-taxes-countys-future/",
+              "date": "2026-09-22"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -212,6 +213,17 @@
               "date": "2026-09-09"
             }
           ]
+        },
+        {
+          "title": "Transit",
+          "summary": "At the Apopka runoff forum she called for better connections between residents and jobs and voiced support for bus rapid transit.",
+          "sources": [
+            {
+              "title": "Moore Russell, Messina differ sharply on property taxes, county's future",
+              "url": "https://theapopkachief.com/moore-russell-messina-differ-sharply-on-property-taxes-countys-future/",
+              "date": "2026-09-22"
+            }
+          ]
         }
       ],
       "record": [],
@@ -254,20 +266,15 @@
           "sources": []
         },
         "property_tax": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "At the Sept. 9 League of Women Voters of Orange County forum, Messina said he supports Amendment 3, the proposed homestead-exemption increase that would cut local property taxes.",
-          "quote": "",
+          "summary": "At the Orange County mayoral runoff forum in Apopka he said he supports the November state property-tax amendment, arguing county government can reduce costs while maintaining public safety and that a fire millage increase could cover any shortfall.",
+          "quote": "I'm absolutely voting yes",
           "sources": [
             {
-              "title": "Tiffany Moore Russell and Chris Messina present alternative visions for Orange County (Florida Politics)",
-              "url": "https://floridapolitics.com/archives/819177-tiffany-moore-russell-and-chris-messina-present-alternative-visions-for-orange-county/",
-              "date": "2026-09-09"
-            },
-            {
-              "title": "League of Women Voters of Orange County event calendar, September 2026",
-              "url": "https://www.lwvoc.org/content.aspx?page_id=4001&club_id=907481",
-              "date": "2026-09"
+              "title": "Moore Russell, Messina differ sharply on property taxes, county's future",
+              "url": "https://theapopkachief.com/moore-russell-messina-differ-sharply-on-property-taxes-countys-future/",
+              "date": "2026-09-22"
             }
           ]
         },
@@ -279,11 +286,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "At the same forum he proposed redeveloping aging and underused strip malls and shopping centers into mixed-use projects combining housing, retail and other businesses.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Moore Russell, Messina differ sharply on property taxes, county's future",
+              "url": "https://theapopkachief.com/moore-russell-messina-differ-sharply-on-property-taxes-countys-future/",
+              "date": "2026-09-22"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -433,6 +446,17 @@
               "date": "2026-09-09"
             }
           ]
+        },
+        {
+          "title": "Transit",
+          "summary": "At the Apopka runoff forum he proposed using technology to provide direct trips rather than routing riders through hubs.",
+          "sources": [
+            {
+              "title": "Moore Russell, Messina differ sharply on property taxes, county's future",
+              "url": "https://theapopkachief.com/moore-russell-messina-differ-sharply-on-property-taxes-countys-future/",
+              "date": "2026-09-22"
+            }
+          ]
         }
       ],
       "record": [],
@@ -451,6 +475,25 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Chris_Messina"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-09-21",
+      "host": "Apopka Involved Voters, in partnership with The Apopka Chief — Victory Church, 509 S. Park Ave., Apopka (held)",
+      "who": "tiffany_moore_russell, chris_messina",
+      "sources": [
+        {
+          "title": "Apopka Involved Voters to host Orange County runoff forums",
+          "url": "https://theapopkachief.com/apopka-involved-voters-to-host-orange-county-runoff-forums/",
+          "date": "2026-09-14"
+        },
+        {
+          "title": "Moore Russell, Messina differ sharply on property taxes, county's future",
+          "url": "https://theapopkachief.com/moore-russell-messina-differ-sharply-on-property-taxes-countys-future/",
+          "date": "2026-09-22"
         }
       ]
     }

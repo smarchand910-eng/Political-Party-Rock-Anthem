@@ -83,34 +83,14 @@
         },
         "immigration": {
           "stance": 2,
-          "confidence": "record",
-          "summary": "Moody has made border security and immigration enforcement a centerpiece of her Senate work and campaign. She introduced the Expedited Removal of Criminal Aliens Act, co-introduced the White House-backed REMOVE Act to conclude removal proceedings within 15 days, and filed the RIPPLE Act to expand the 287(g) state-local enforcement program. Haitian TPS advocates in Miami have pressed her to protect TPS holders from deportation.",
-          "quote": null,
+          "confidence": "stated",
+          "summary": "Responding on Sept. 23, 2026 to advocates who delivered petitions to her Orlando office seeking an extension of Temporary Protected Status for Haitians, Moody sent a letter that did not take a position on Haitian TPS and instead said she supports a 'fair and proper legal immigration process' and stronger border security.",
+          "quote": "We are the most generous country in the world when it pertains to allowing people to come here legally, but Americans deserve an immigration system that secures our borders, protects our communities, and strengthens our nation.",
           "sources": [
             {
-              "title": "Immigration, crime and economy shape Ashley Moody's Senate campaign - WGCU",
-              "url": "https://www.wgcu.org/government-politics/2026-09-07/immigration-crime-and-economy-shape-ashley-moodys-senate-campaign",
-              "date": "2026-09-07"
-            },
-            {
-              "title": "Senator Ashley Moody Leads Efforts to Codify President Trump's Immigration Priorities, Introduces Expedited Removal of Criminal Aliens Act - moody.senate.gov",
-              "url": "https://www.moody.senate.gov/press-releases/senator-ashley-moody-leads-efforts-to-codify-president-trumps-immigration-priorities-introduces-expedited-removal-of-criminal-aliens-act/",
-              "date": "2025"
-            },
-            {
-              "title": "Senators Ashley Moody, Marsha Blackburn and Colleagues Introduce Bill Backed by White House to Expedite Removal of Illegal Aliens - moody.senate.gov",
-              "url": "https://www.moody.senate.gov/press-releases/senators-ashley-moody-marsha-blackburn-and-colleagues-introduce-bill-backed-by-white-house-to-expedite-removal-of-illegal-aliens-from-united-states/",
-              "date": "2025-06"
-            },
-            {
-              "title": "Senator Ashley Moody Introduces Legislation to Empower States to Enforce Illegal Immigration Laws & Prevent Human Trafficking of Children at the Border - moody.senate.gov",
-              "url": "https://www.moody.senate.gov/press-releases/senator-ashley-moody-introduces-legislation-to-empower-states-to-enforce-illegal-immigration-laws-prevent-human-trafficking-of-children-at-the-border/",
-              "date": "2025-05"
-            },
-            {
-              "title": "Miami Activists Press Moody, Scott on Haitian TPS - Hoodline",
-              "url": "https://hoodline.com/2026/09/miami-activists-demand-moody-scott-save-haitian-tps-holders-from-deportation/",
-              "date": "2026-09"
+              "title": "Immigration advocates urge senators to extend TPS protections for Haitians",
+              "url": "https://mynews13.com/fl/orlando/news/2026/09/23/immigration-advocates-urge-senators-to-extend-tps-protections-for-haitians",
+              "date": "2026-09-23"
             }
           ]
         },
@@ -678,6 +658,28 @@
               "date": "2026-04-24"
             }
           ]
+        },
+        {
+          "title": "Still refusing to debate Angie Nixon",
+          "summary": "As of Sept. 22, 2026 no debate had been scheduled in the U.S. Senate race. Moody has declined every offer, saying she will not 'give a stage or any attention' to Nixon; Nixon called the refusal 'pure cowardice.' The FAU 'Decision 2026: Before YOU Vote' Senate debate set for Oct. 13 has no Republican participant.",
+          "sources": [
+            {
+              "title": "Florida could go without debates in any general election statewide political race",
+              "url": "https://www.wusf.org/politics-issues/2026-09-22/florida-no-debates-general-election-statewide-political-race",
+              "date": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "title": "Stetson University poll, Sept. 14-21, 2026",
+          "summary": "A Stetson University Center for Public Opinion Research survey of 830 Florida adults conducted Sept. 14-21 and reported Sept. 25 put Moody at 51% and Nixon at 40%. Other September polling has shown a closer race.",
+          "sources": [
+            {
+              "title": "New Stetson University Poll Puts Republicans Ahead",
+              "url": "https://floridianpress.com/2026/09/new-stetson-university-poll-puts-republicans-ahead/",
+              "date": "2026-09-25"
+            }
+          ]
         }
       ],
       "record": [
@@ -925,6 +927,56 @@
               "date": "2026-09-01"
             }
           ]
+        },
+        {
+          "item": "Filed the Better Bench Act on Sept. 22, 2026, which would remove the residency restriction on judges of the U.S. Court of Federal Claims and the Federal Circuit.",
+          "sources": [
+            {
+              "title": "Press Releases Archive - Senator Ashley Moody",
+              "url": "https://www.moody.senate.gov/press-releases/",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "item": "At a Senate Judiciary Committee briefing on Sept. 23, 2026, Moody appeared with female athletes to press for restricting women's and girls' sports categories to those assigned female at birth.",
+          "sources": [
+            {
+              "title": "Press Releases Archive - Senator Ashley Moody",
+              "url": "https://www.moody.senate.gov/press-releases/",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "item": "At a Senate HELP Committee hearing on Sept. 24, 2026, Moody pressed a nominee for a commitment to act on illicit Chinese-made nicotine vape products marketed to young people.",
+          "sources": [
+            {
+              "title": "Press Releases Archive - Senator Ashley Moody",
+              "url": "https://www.moody.senate.gov/press-releases/",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "item": "Cosponsored the Ratepayer Protection Act on Sept. 25, 2026, which would require utility regulators to make large data-center customers cover the full incremental cost of grid upgrades; she said Senate Democrats blocked it on the floor.",
+          "sources": [
+            {
+              "title": "Senator Moody Cosponsors Legislation to Protect Ratepayers from Energy-Consuming Data Centers",
+              "url": "https://www.moody.senate.gov/senator-moody-cosponsors-legislation-to-protect-ratepayers-from-energy-consuming-data-centers/",
+              "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "item": "On Sept. 28, 2026 her office announced that Rep. Byron Donalds, with Rep. Mike Haridopolos, filed a House companion to her STARS Act, which would site the new U.S. Space Academy in Florida.",
+          "sources": [
+            {
+              "title": "Press Releases Archive - Senator Ashley Moody",
+              "url": "https://www.moody.senate.gov/press-releases/",
+              "date": "2026-09-28"
+            }
+          ]
         }
       ],
       "endorsements": [
@@ -1113,33 +1165,13 @@
         "immigration": {
           "stance": -2,
           "confidence": "stated",
-          "summary": "Nixon calls mass deportation a 'moral failure,' says she would abolish ICE and rebuild immigration enforcement, supports a moratorium on deportations pending an audit of enforcement practices, a 'swift' path to citizenship for Dreamers and undocumented residents, and renewal and expansion of TPS. She joined advocates urging Miami to end its 287(g) agreement with ICE and has called ICE agents 'modern-day slave catchers.'",
-          "quote": "a swift path to citizenship for Dreamers and undocumented residents",
+          "summary": "In a Sept. 25, 2026 statement supporting protesters seeking reinstatement of Temporary Protected Status for Haitians, Nixon opposed the federal deportation campaign, calling it 'inhumane and immoral' and saying long-term residents are being stripped of protections without due process.",
+          "quote": "Mass deportations do not create jobs, lower costs, or help working families.",
           "sources": [
             {
-              "title": "Angie Nixon for U.S. Senate - Priorities",
-              "url": "https://angienixon.com/priorities/",
-              "date": null
-            },
-            {
-              "title": "US Senate candidate Angie Nixon joins immigration advocates in pressing Miami to end ICE agreement - WUWF/WLRN",
-              "url": "https://www.wuwf.org/florida-news/2026-08-03/us-senate-candidate-angie-nixon-joins-immigration-advocates-in-pressing-miami-to-end-ice-agreement",
-              "date": "2026-08-03"
-            },
-            {
-              "title": "Angie Nixon compares ICE agents to 'modern-day slave catchers' - Washington Times",
-              "url": "https://www.washingtontimes.com/news/2026/aug/22/angie-nixon-compares-ice-agents-modern-day-slave-catchers/",
-              "date": "2026-08-22"
-            },
-            {
-              "title": "Florida's Socialist Senate Candidate Angie Nixon Campaigns on Abolishing ICE, Granting 'Swift' Amnesty - Breitbart",
-              "url": "https://www.breitbart.com/politics/2026/08/19/floridas-socialist-senate-candidate-angie-nixon-campaigns-on-abolishing-ice-granting-swift-amnesty/",
-              "date": "2026-08-19"
-            },
-            {
-              "title": "How aligned is Angie Nixon with democratic socialists? - PolitiFact",
-              "url": "https://politifact.com/article/2026/aug/21/angie-nixon-florida-senate-ashley-moody-dsa/",
-              "date": "2026-08-21"
+              "title": "U.S. Senate Nominee Angie Nixon Condemns Ashley Moody's Hypocrisy on Immigration and Blind Support for Trump's Mass Deportations",
+              "url": "https://angienixon.com/angie-nixon-condemns-ashley-moodys-hypocrisy-on-immigration-and-blind-support-for-trumps-mass-deportations/",
+              "date": "2026-09-25"
             }
           ]
         },
@@ -1207,28 +1239,18 @@
         "healthcare": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Nixon supports Medicare for All, describing an incremental path that starts with permanently extending ACA subsidies, pressuring insurers to lower premiums and reforming the ACA, then moving to single-payer coverage including dental, vision, hearing, mental health, reproductive care and prescriptions. She argues it would cut costs by reducing emergency-room use and calls health care a human right.",
-          "quote": "Healthcare is a fundamental human right, not a luxury reserved only for those who can afford it.",
+          "summary": "In a Sept. 26, 2026 statement Nixon condemned the removal of more than 750,000 people from Affordable Care Act coverage and said she would target corporate practices that raise costs so families can see a doctor. In accepting the National Nurses United endorsement on Sept. 23 she said she would work to pass Medicare for All.",
+          "quote": "In the U.S. Senate, I will take on the corporate greed driving up our costs and work to ensure every working family can see a doctor without going broke.",
           "sources": [
             {
-              "title": "U.S. Senate Candidate Angie Nixon Marks 61st Anniversary of Medicare & Medicaid; Again Calls for Medicare for All - angienixon.com",
-              "url": "https://angienixon.com/u-s-senate-candidate-angie-nixon-marks-61st-anniversary-of-medicare-again-calls-for-medicare-for-all/",
-              "date": "2026-07-30"
+              "title": "Rep. Angie Nixon Condemns Trump Administration Decision To Kick 750,000+ Americans Off Health Insurance",
+              "url": "https://angienixon.com/rep-angie-nixon-condemns-trump-administration-decision-to-kick-750000-americans-off-health-insurance/",
+              "date": "2026-09-26"
             },
             {
-              "title": "One-on-One: Senate candidate Angie Nixon outlines positions on housing, healthcare, and foreign policy - FOX 13",
-              "url": "https://www.fox13news.com/news/one-on-one-senate-candidate-angie-nixon-outlines-positions-housing-healthcare-foreign-policy",
-              "date": "2026-08"
-            },
-            {
-              "title": "Angie Nixon says there are '$10 million reasons' to oppose Ashley Moody - Florida Phoenix",
-              "url": "https://floridaphoenix.com/2026/09/09/angie-nixon-says-there-are-10-million-reasons-to-oppose-ashley-moody/",
-              "date": "2026-09-09"
-            },
-            {
-              "title": "Angie Nixon talks about affordability, universal health care, immigration and Israel on MS NOW - WLRN",
-              "url": "https://www.wlrn.org/government-politics/2026-08-20/angie-nixon-talks-about-affordability-universal-health-care-immigration-and-israel-on-ms-now-show",
-              "date": "2026-08-20"
+              "title": "National Nurses United endorses Angie Nixon to represent Florida in the U.S. Senate",
+              "url": "https://www.nationalnursesunited.org/press/national-nurses-united-endorses-angie-nixon-to-represent-florida-in-the-us-senate",
+              "date": "2026-09-23"
             }
           ]
         },
@@ -1695,6 +1717,28 @@
               "date": "2026-07-08"
             }
           ]
+        },
+        {
+          "title": "No Senate debate scheduled",
+          "summary": "Nixon has accepted all three proposed Senate debates, including the Oct. 13 Florida Atlantic University 'Decision 2026: Before YOU Vote' event, but Moody has declined; as of Sept. 22, 2026 no statewide debate was on the calendar.",
+          "sources": [
+            {
+              "title": "Florida could go without debates in any general election statewide political race",
+              "url": "https://www.wusf.org/politics-issues/2026-09-22/florida-no-debates-general-election-statewide-political-race",
+              "date": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "title": "Stetson University poll, Sept. 14-21, 2026",
+          "summary": "A Stetson University survey of 830 Florida adults conducted Sept. 14-21 and reported Sept. 25 showed Moody 51%, Nixon 40%.",
+          "sources": [
+            {
+              "title": "New Stetson University Poll Puts Republicans Ahead",
+              "url": "https://floridianpress.com/2026/09/new-stetson-university-poll-puts-republicans-ahead/",
+              "date": "2026-09-25"
+            }
+          ]
         }
       ],
       "record": [
@@ -1947,6 +1991,16 @@
               "title": "Leaders We Deserve Endorses Angie Nixon for U.S. Senate",
               "url": "https://angienixon.com/leaders-we-deserve-endorses-angie-nixon-for-u-s-senate/",
               "date": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "by": "National Nurses United",
+          "sources": [
+            {
+              "title": "National Nurses United endorses Angie Nixon to represent Florida in the U.S. Senate",
+              "url": "https://www.nationalnursesunited.org/press/national-nurses-united-endorses-angie-nixon-to-represent-florida-in-the-us-senate",
+              "date": "2026-09-23"
             }
           ]
         }
@@ -2299,43 +2353,14 @@
   ],
   "events": [
     {
-      "date": "2026-10-13",
-      "host": "Decision 2026: Before YOU Vote, Florida Atlantic University, Boca Raton; 7-8 p.m. statewide TV",
-      "who": "Nixon accepted; Moody has not accepted (declined the first offer Sept. 9 and signaled she may not debate).",
+      "date": "2026-10-13 — One candidate only",
+      "host": "Decision 2026: Before YOU Vote, Florida Atlantic University, Boca Raton (U.S. Senate); 7-8 p.m. statewide TV",
+      "who": "Nixon accepted all three Senate debate offers. Moody has declined, saying she will not 'give a stage or any attention' to Nixon; Nixon called it 'pure cowardice.' As of Sept. 22, 2026 no Senate debate was scheduled.",
       "sources": [
         {
-          "title": "General Election Statewide TV Debates Announced in Florida's 2026 Races for U.S. Senator, Governor - James Madison Institute",
-          "url": "https://jamesmadison.org/general-election-statewide-tv-debates-announced-in-floridas-2026-races-for-u-s-senator-governor/",
-          "date": "2026-07-10"
-        },
-        {
-          "title": "Ashley Moody takes a hard pass on first debate with Angie Nixon (Miami Times)",
-          "url": "https://www.miamitimesonline.com/news/florida/ashley-moody-takes-a-hard-pass-on-first-debate-with-angie-nixon/article_72a02a93-9e60-4a32-84e3-e92112f73772.html",
-          "date": "2026-09-10"
-        }
-      ]
-    },
-    {
-      "date": "Declined",
-      "host": "Action News Jax with University of North Florida, Jacksonville",
-      "who": "Nixon accepted; Moody declined (Sept. 9).",
-      "sources": [
-        {
-          "title": "Sen. Ashley Moody declines to take part in Action News Jax debate with Angie Nixon",
-          "url": "https://www.actionnewsjax.com/news/local/sen-ashley-moody-declines-take-part-action-news-jax-debate-with-angie-nixon/2TV5BXHVKJHZPPCDVUQGPSP3EE/",
-          "date": "2026-09-09"
-        }
-      ]
-    },
-    {
-      "date": "TBD",
-      "host": "Spectrum News and Florida State University",
-      "who": "Nixon accepted; Moody has not.",
-      "sources": [
-        {
-          "title": "Ashley Moody takes a hard pass on first debate with Angie Nixon (Miami Times)",
-          "url": "https://www.miamitimesonline.com/news/florida/ashley-moody-takes-a-hard-pass-on-first-debate-with-angie-nixon/article_72a02a93-9e60-4a32-84e3-e92112f73772.html",
-          "date": "2026-09-10"
+          "title": "Florida could go without debates in any general election statewide political race",
+          "url": "https://www.wusf.org/politics-issues/2026-09-22/florida-no-debates-general-election-statewide-political-race",
+          "date": "2026-09-22"
         }
       ]
     }
