@@ -42,41 +42,41 @@
     "property_tax": {
      "stance": 2,
      "confidence": "stated",
-     "summary": "Donalds says that whether or not Amendment 3 passes he will use the 2027 Tax and Budget Reform Commission to pursue repeal of homestead property taxes, falling back to targeted relief for seniors and working families if 'the math doesn't work.' He told a rally in The Villages he is voting yes on Amendment 3.",
-     "quote": "Whether the amendment passes or not, we're going to be using that commission in order to do a full top to bottom review of all taxes and fees, still setting a goal for repealing homestead property taxes",
+     "summary": "Donalds said on Sept. 23, 2026 that he will vote for Amendment 3, which raises the homestead exemption, and described eliminating homestead property taxes as a long-term goal. He told local officials worried about lost revenue to review their budgets and cut spending.",
+     "quote": "",
      "sources": [
       {
-       "title": "Byron Donalds doubles down on cutting - or even eliminating - property taxes if elected - WLRN",
-       "url": "https://www.wlrn.org/government-politics/2026-09-01/byron-donalds-doubles-down-on-cutting-or-even-eliminating-property-taxes-if-elected",
-       "date": "2026-09-01"
+       "title": "Byron Donalds, David Jolly outline differences on property taxes, insurance at Fort Lauderdale summit",
+       "url": "https://www.cbsnews.com/miami/news/florida-governor-byron-donalds-david-jolly-fort-lauderdale-summit/",
+       "date": "2026-09-23"
       },
       {
-       "title": "Florida governor candidates differ on AI, data centers and property taxes - FOX 35",
-       "url": "https://www.fox35orlando.com/news/florida-governor-candidates-differ-ai-data-centers-property-taxes",
-       "date": "2026-09-17"
-      },
-      {
-       "title": "Donalds takes role as biggest backer of Florida's property tax measure (Politico via Yahoo)",
-       "url": "https://www.yahoo.com/news/politics/articles/donalds-takes-role-biggest-backer-160000604.html",
-       "date": "2026-08-06"
+       "title": "Gubernatorial Candidate Byron Donalds talks costs, insurance at Martin County roundtable",
+       "url": "https://cbs12.com/news/local/gubernatorial-candidate-byron-donalds-talks-costs-insurance-at-martin-county-roundtable-gop-trump-republican-amendment-3-property-homestead-9-23-26",
+       "date": "2026-09-23"
       }
      ]
     },
     "insurance": {
      "stance": -2,
      "confidence": "stated",
-     "summary": "Donalds' six-point 'Bring Down The Bill' plan (Sept. 15) would preserve the 2022-23 lawsuit reforms, add binding arbitration, restructure the Hurricane Catastrophe Fund, create a public insurer scorecard, cut rebuilding costs via permitting reform, and keep Citizens Property Insurance small without post-storm assessments. He calls Jolly's state catastrophe-fund plan 'a big government takeover.'",
-     "quote": "My Bring Down The Bill Plan will slash insurance costs for Floridians and make life more affordable",
+     "summary": "At the WLRN Sunshine Economy Summit on Sept. 23, 2026 Donalds opposed creating a new state-backed catastrophe insurance fund and said he would instead change the existing Florida Hurricane Catastrophe Fund. At a Martin County roundtable the same day he said his 'Bring Down The Bill' plan would cut property insurance premiums by 20% to 25%.",
+     "quote": "My 'Bring Down The Bill' plan will lower premiums, cut red tape, and keep Florida the best state in the nation to start and grow a business.",
      "sources": [
       {
-       "title": "Donalds unveils 'Bring Down The Bill' insurance plan - Florida's Voice",
-       "url": "https://flvoicenews.com/donalds-unveils-bring-down-the-bill-insurance-plan-says-jollys-proposal-would-hit-families-with-1000-hurricane-tax/",
-       "date": "2026-09-15"
+       "title": "Byron Donalds, David Jolly outline differences on property taxes, insurance at Fort Lauderdale summit",
+       "url": "https://www.cbsnews.com/miami/news/florida-governor-byron-donalds-david-jolly-fort-lauderdale-summit/",
+       "date": "2026-09-23"
       },
       {
-       "title": "Jolly and Donalds clash on property insurance proposals - WUSF",
-       "url": "https://www.wusf.org/politics-issues/2026-09-17/jolly-and-donalds-clash-on-property-insurance-proposals",
-       "date": "2026-09-17"
+       "title": "Gubernatorial Candidate Byron Donalds talks costs, insurance at Martin County roundtable",
+       "url": "https://cbs12.com/news/local/gubernatorial-candidate-byron-donalds-talks-costs-insurance-at-martin-county-roundtable-gop-trump-republican-amendment-3-property-homestead-9-23-26",
+       "date": "2026-09-23"
+      },
+      {
+       "title": "NFIB Florida backs Byron Donalds for governor, citing plan to cut insurance costs",
+       "url": "https://flvoicenews.com/nfib-florida-backs-byron-donalds-for-governor-citing-plan-to-cut-insurance-costs/",
+       "date": "2026-09-23"
       }
      ]
     },
@@ -609,6 +609,33 @@
        "date": "2026-09-01"
       }
      ]
+    },
+    {
+     "title": "Says he is not distancing himself from Trump",
+     "summary": "Asked on Sept. 23, 2026 about changes to his campaign website that removed references to President Trump, Donalds said 'We're not distancing ourselves from President Trump. We wanted the website to be purely on the issues we're campaigning on.'",
+     "sources": [
+      {
+       "title": "Gubernatorial Candidate Byron Donalds talks costs, insurance at Martin County roundtable",
+       "url": "https://cbs12.com/news/local/gubernatorial-candidate-byron-donalds-talks-costs-insurance-at-martin-county-roundtable-gop-trump-republican-amendment-3-property-homestead-9-23-26",
+       "date": "2026-09-23"
+      },
+      {
+       "title": "Jolly, Donalds campaign in Volusia as Florida governor's race ramps up",
+       "url": "https://www.clickorlando.com/news/local/2026/09/27/jolly-donalds-campaign-in-volusia-as-florida-governors-race-ramps-up/",
+       "date": "2026-09-26"
+      }
+     ]
+    },
+    {
+     "title": "PolitiFact checks of his Sept. 23 summit claims",
+     "summary": "PolitiFact rated Donalds' claim that more Americans move to Florida than to any other state as close but inaccurate, noting Texas now leads, and rated accurate his claim that federal tax refunds are at record levels.",
+     "sources": [
+      {
+       "title": "Florida governor's race: Fact-checking Byron Donalds, David Jolly at WLRN's Sunshine Economy Summit",
+       "url": "https://politifact.com/article/2026/sep/23/florida-governor-jolly-donalds-wlrn-economy-summit/",
+       "date": "2026-09-23"
+      }
+     ]
     }
    ],
    "record": [
@@ -744,6 +771,16 @@
        "title": "Byron Donalds Taps State Sen. Bryan Avila For Florida Lt. Governor Running Mate (Tampa Free Press)",
        "url": "https://www.tampafp.com/byron-donalds-taps-state-sen-bryan-avila-for-florida-lt-governor/",
        "date": "2026-08-26"
+      }
+     ]
+    },
+    {
+     "item": "Filed a U.S. House companion bill to Sen. Ashley Moody's STARS Act, announced Sept. 28, 2026, to locate the new U.S. Space Academy in Florida.",
+     "sources": [
+      {
+       "title": "Press Releases Archive - Senator Ashley Moody",
+       "url": "https://www.moody.senate.gov/press-releases/",
+       "date": "2026-09-28"
       }
      ]
     }
@@ -883,6 +920,26 @@
        "date": "2026-09-15"
       }
      ]
+    },
+    {
+     "by": "NFIB Florida (National Federation of Independent Business) PAC",
+     "sources": [
+      {
+       "title": "NFIB Florida backs Byron Donalds for governor, citing plan to cut insurance costs",
+       "url": "https://flvoicenews.com/nfib-florida-backs-byron-donalds-for-governor-citing-plan-to-cut-insurance-costs/",
+       "date": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "by": "Lt. Gov. Jay Collins",
+     "sources": [
+      {
+       "title": "2026 Florida gubernatorial election (endorsements section)",
+       "url": "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
+       "date": "2026-09-29"
+      }
+     ]
     }
    ]
   },
@@ -926,31 +983,36 @@
     "property_tax": {
      "stance": -1,
      "confidence": "stated",
-     "summary": "Jolly now says he opposes Amendment 3 because the revenue math does not work, while supporting targeted relief for seniors or by income and a statewide conversation about local control of exemptions.",
-     "quote": "I think we all want the math to work. But it just doesn't.",
+     "summary": "Jolly said on Sept. 23 and Sept. 28, 2026 that he opposes Amendment 3 because it would handcuff local governments and shift power to Tallahassee, though he would respect the voters' decision. He proposes a targeted property-tax break for first-time homebuyers instead.",
+     "quote": "",
      "sources": [
       {
-       "title": "Florida governor candidates differ on AI, data centers and property taxes - FOX 35",
-       "url": "https://www.fox35orlando.com/news/florida-governor-candidates-differ-ai-data-centers-property-taxes",
-       "date": "2026-09-17"
+       "title": "Byron Donalds, David Jolly outline differences on property taxes, insurance at Fort Lauderdale summit",
+       "url": "https://www.cbsnews.com/miami/news/florida-governor-byron-donalds-david-jolly-fort-lauderdale-summit/",
+       "date": "2026-09-23"
+      },
+      {
+       "title": "David Jolly implores national Democrats to help in the Florida governor's race",
+       "url": "https://news.wfsu.org/state-news/2026-09-28/david-jolly-implores-national-democrats-to-help-in-the-florida-governors-race",
+       "date": "2026-09-28"
       }
      ]
     },
     "insurance": {
      "stance": 2,
      "confidence": "stated",
-     "summary": "Jolly proposes a state-backed catastrophic fund that would take hurricane/wind coverage out of the private market and into a state fund of $30-40 billion, funded by taxes on insurers, documentary-stamp and tourist-development revenue; he says it could cut private premiums 60-70% and denies it would add a $1,000 homeowner tax.",
-     "quote": "It does not include an additional $1,000 tax for homeowners. No governor is going to do that.",
+     "summary": "At the WLRN Sunshine Economy Summit on Sept. 23, 2026 Jolly proposed a state-backed catastrophe insurance fund that he said would cut premiums by 60% to 70%; PolitiFact reported insurance experts doubt savings of that size and warned of later emergency assessments.",
+     "quote": "",
      "sources": [
       {
-       "title": "Jolly and Donalds clash on property insurance proposals - WUSF",
-       "url": "https://www.wusf.org/politics-issues/2026-09-17/jolly-and-donalds-clash-on-property-insurance-proposals",
-       "date": "2026-09-17"
+       "title": "Byron Donalds, David Jolly outline differences on property taxes, insurance at Fort Lauderdale summit",
+       "url": "https://www.cbsnews.com/miami/news/florida-governor-byron-donalds-david-jolly-fort-lauderdale-summit/",
+       "date": "2026-09-23"
       },
       {
-       "title": "David Jolly gains in governor's race as he focuses on data centers - FOX 13",
-       "url": "https://www.fox13news.com/news/david-jolly-gains-governors-race-momentum-how-focuses-data-centers",
-       "date": "2026-09-18"
+       "title": "Florida governor's race: Fact-checking Byron Donalds, David Jolly at WLRN's Sunshine Economy Summit",
+       "url": "https://politifact.com/article/2026/sep/23/florida-governor-jolly-donalds-wlrn-economy-summit/",
+       "date": "2026-09-23"
       }
      ]
     },
@@ -980,23 +1042,13 @@
     "immigration": {
      "stance": -2,
      "confidence": "stated",
-     "summary": "Jolly says that if the 'Alligator Alcatraz' detention facility is still operating when he takes office he would move to close it on his first day and return the land to Miami-Dade County. He would suspend or not require the state's 287(g) agreements with ICE pending stronger due-process protections, leaving participation to local law enforcement, and says enforcement should target criminal activity rather than treating immigrant communities with suspicion.",
-     "quote": null,
+     "summary": "In late September 2026 Jolly pledged to close the state-run immigration detention facility in the Panhandle known as the 'Deportation Depot.'",
+     "quote": "",
      "sources": [
       {
-       "title": "David Jolly, leading Democratic candidate for 2026 governor, shares views on abortion and Alligator Alcatraz (CBS Miami)",
-       "url": "https://www.cbsnews.com/miami/news/democratic-candidate-governor-david-jolly-abortion-rights-alligator-alcatraz",
-       "date": "2025"
-      },
-      {
-       "title": "David Jolly Suggests Not Enforcing 287(g) ICE Agreements as Governor (The Floridian)",
-       "url": "https://floridianpress.com/2026/02/david-jolly-suggests-not-enforcing-287g-ice-agreements-as-governor/",
-       "date": "2026-02"
-      },
-      {
-       "title": "Florida Democratic candidates lay down their markers on immigration policy (Florida Phoenix)",
-       "url": "https://floridaphoenix.com/2025/08/20/florida-democratic-candidates-lay-down-their-markers-on-immigration-policy/",
-       "date": "2025-08-20"
+       "title": "David Jolly implores national Democrats to help in the Florida governor's race",
+       "url": "https://news.wfsu.org/state-news/2026-09-28/david-jolly-implores-national-democrats-to-help-in-the-florida-governors-race",
+       "date": "2026-09-28"
       }
      ]
     },
@@ -1128,20 +1180,15 @@
      ]
     },
     "growth": {
-     "stance": 1,
+     "stance": 2,
      "confidence": "stated",
-     "summary": "Jolly backs home rule, saying local zoning, labor and environmental decisions should belong to local governments without Tallahassee preemption, and he proposes a statewide moratorium on data-center development.",
-     "quote": null,
+     "summary": "Jolly campaigned through late September 2026 on halting data-center construction, telling the Sept. 23 summit that about 75% of Floridians want the state to slow down; PolitiFact rated that claim Mostly True, citing surveys showing 49% to 79% opposition.",
+     "quote": "75% of the state is saying 'please don't do this right now. Give us more time.'",
      "sources": [
       {
-       "title": "Home Rule & Direct Democracy in Florida (davidjolly.com)",
-       "url": "https://davidjolly.com/issues/home-rule/",
-       "date": null
-      },
-      {
-       "title": "Jolly on Florida governor run, Hope Florida scandal, and why he opposes data centers (CBS Miami)",
-       "url": "https://www.cbsnews.com/miami/news/jolly-florida-governor-hope-florida-data-centers-september-2026/",
-       "date": "2026-09"
+       "title": "Florida governor's race: Fact-checking Byron Donalds, David Jolly at WLRN's Sunshine Economy Summit",
+       "url": "https://politifact.com/article/2026/sep/23/florida-governor-jolly-donalds-wlrn-economy-summit/",
+       "date": "2026-09-23"
       }
      ]
     },
@@ -1475,6 +1522,44 @@
        "title": "Donalds and Jolly call for Hope Florida reforms after scathing grand jury report - WUSF",
        "url": "https://www.wusf.org/politics-issues/2026-09-01/donalds-jolly-call-hope-florida-reforms-grand-jury-report",
        "date": "2026-09-01"
+      }
+     ]
+    },
+    {
+     "title": "Asks national Democrats for help; large fundraising gap",
+     "summary": "In a Sept. 28, 2026 interview Jolly said Donalds has raised more than seven times what his campaign has and urged the national party to invest: 'If the national party doesn't come in, I worry about this race. I do.' He also said he would work to undo state preemption of local governments.",
+     "sources": [
+      {
+       "title": "David Jolly implores national Democrats to help in the Florida governor's race",
+       "url": "https://news.wfsu.org/state-news/2026-09-28/david-jolly-implores-national-democrats-to-help-in-the-florida-governors-race",
+       "date": "2026-09-28"
+      }
+     ]
+    },
+    {
+     "title": "Declined all general-election debates",
+     "summary": "Jolly announced on Sept. 20-21, 2026 that he would not debate Donalds, saying the campaign environment and what he called Donalds' bad faith made a constructive debate impossible. The decision led Florida A&M University to cancel the Sept. 29 Spectrum News debate on Sept. 24.",
+     "sources": [
+      {
+       "title": "Florida could go without debates in any general election statewide political race",
+       "url": "https://www.wusf.org/politics-issues/2026-09-22/florida-no-debates-general-election-statewide-political-race",
+       "date": "2026-09-22"
+      },
+      {
+       "title": "'Disappointed': FAMU cancels gubernatorial debate",
+       "url": "https://www.wctv.tv/2026/09/24/disappointed-famu-cancels-gubernatorial-debate/",
+       "date": "2026-09-24"
+      }
+     ]
+    },
+    {
+     "title": "Stetson University poll, Sept. 14-21, 2026",
+     "summary": "A Stetson University survey reported Sept. 25 showed Donalds 51%, Jolly 39%, with 5% undecided and 5% for third-party candidates. Other September polls, including St. Pete Polls, showed the race effectively tied.",
+     "sources": [
+      {
+       "title": "New Stetson University Poll Puts Republicans Ahead",
+       "url": "https://floridianpress.com/2026/09/new-stetson-university-poll-puts-republicans-ahead/",
+       "date": "2026-09-25"
       }
      ]
     }
@@ -3727,65 +3812,89 @@
  ],
  "events": [
   {
-   "date": "2026-09-29",
-   "host": "Spectrum News Florida and Florida A&M University (Tallahassee); one hour, televised and streamed",
-   "who": "Donalds accepted; Jolly declined all debates on Sept. 20. RPOF asked hosts to proceed with an empty podium; status unclear.",
+   "date": "2026-09-29 — Cancelled",
+   "host": "Spectrum News Florida and Florida A&M University, Tallahassee; one hour, televised and streamed",
+   "who": "Cancelled by FAMU on Sept. 24, 2026 after Jolly declined all general-election debates. FAMU said it was 'disappointed that our students will not have the opportunity to hear from the candidates.' The university's Student Government Association replaced it with separate student town halls: Donalds on Sept. 29 at 7 p.m. in Lee Hall, Jolly on Oct. 12.",
    "sources": [
     {
-     "title": "Jolly declines debate with Donalds ahead of Florida governor's race - WCJB",
-     "url": "https://www.wcjb.com/2026/09/20/jolly-declines-debate-with-donalds-ahead-florida-governors-race/",
-     "date": "2026-09-20"
+     "title": "'Disappointed': FAMU cancels gubernatorial debate",
+     "url": "https://www.wctv.tv/2026/09/24/disappointed-famu-cancels-gubernatorial-debate/",
+     "date": "2026-09-24"
     },
     {
-     "title": "Jolly: Donalds campaign never approached my campaign about debates (Tallahassee Democrat via Yahoo)",
-     "url": "https://www.yahoo.com/news/politics/articles/jolly-donalds-campaign-never-approached-230226209.html",
-     "date": "2026-09-18"
+     "title": "FAMU invites candidates to campus after governor debate falls through",
+     "url": "https://www.yahoo.com/news/politics/articles/famu-invites-candidates-campus-governor-164229596.html",
+     "date": "2026-09-24"
     }
    ]
   },
   {
-   "date": "2026-10-13",
-   "host": "News4Jax (WJXT), moderator Kent Justice; two podiums, no audience",
-   "who": "Donalds accepted; Jolly declined (Sept. 20).",
+   "date": "2026-10-13 — Not happening",
+   "host": "News4Jax (WJXT), Jacksonville; two podiums, no audience",
+   "who": "Donalds accepted; Jolly declined all debates on Sept. 20-21, 2026, so no event is going forward. As of Sept. 22 no governor debate was scheduled anywhere.",
    "sources": [
     {
-     "title": "Donalds campaign accepts News4JAX proposal for gubernatorial debate",
-     "url": "https://www.news4jax.com/news/local/2026/09/18/donalds-campaign-accepts-news4jax-proposal-for-gubernatorial-debate-jolly-campaign-still-deciding/",
-     "date": "2026-09-18"
-    },
-    {
-     "title": "Jolly: Donalds campaign never approached my campaign about debates (Tallahassee Democrat via Yahoo)",
-     "url": "https://www.yahoo.com/news/politics/articles/jolly-donalds-campaign-never-approached-230226209.html",
-     "date": "2026-09-18"
+     "title": "Florida could go without debates in any general election statewide political race",
+     "url": "https://www.wusf.org/politics-issues/2026-09-22/florida-no-debates-general-election-statewide-political-race",
+     "date": "2026-09-22"
     }
    ]
   },
   {
-   "date": "2026-10-22",
-   "host": "Telemundo 51 and NBC 6 (South Florida)",
-   "who": "Donalds accepted; Jolly declined (Sept. 20).",
+   "date": "2026-10-22 — Not happening",
+   "host": "Telemundo 51 and NBC 6, South Florida",
+   "who": "Donalds accepted; Jolly declined all debates, so no event is going forward.",
    "sources": [
     {
-     "title": "Jolly: Donalds campaign never approached my campaign about debates (Tallahassee Democrat via Yahoo)",
-     "url": "https://www.yahoo.com/news/politics/articles/jolly-donalds-campaign-never-approached-230226209.html",
-     "date": "2026-09-18"
+     "title": "Florida could go without debates in any general election statewide political race",
+     "url": "https://www.wusf.org/politics-issues/2026-09-22/florida-no-debates-general-election-statewide-political-race",
+     "date": "2026-09-22"
     }
    ]
   },
   {
-   "date": "2026-10-15",
-   "host": "Decision 2026: Before YOU Vote, Florida Atlantic University, Boca Raton (WPBF lead producer; Florida Trend, James Madison Institute, Florida Press Association, LeRoy Collins Institute); 7-8 p.m.",
-   "who": "Announced July 10 without candidate coordination. Jolly rejected the FAU audience format; Donalds' acceptance not confirmed.",
+   "date": "2026-10-15 — Not happening",
+   "host": "Decision 2026: Before YOU Vote, Florida Atlantic University, Boca Raton (Governor)",
+   "who": "Jolly rejected the FAU audience format earlier and has now declined all debates; Donalds' participation was never confirmed.",
    "sources": [
     {
-     "title": "General Election Statewide TV Debates Announced in Florida's 2026 Races for U.S. Senator, Governor - James Madison Institute",
-     "url": "https://jamesmadison.org/general-election-statewide-tv-debates-announced-in-floridas-2026-races-for-u-s-senator-governor/",
-     "date": "2026-07-10"
+     "title": "Florida could go without debates in any general election statewide political race",
+     "url": "https://www.wusf.org/politics-issues/2026-09-22/florida-no-debates-general-election-statewide-political-race",
+     "date": "2026-09-22"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23 — Held",
+   "host": "WLRN Sunshine Economy Summit, Fort Lauderdale; Donalds and Jolly interviewed separately, back to back",
+   "who": "The closest thing to a governor's-race joint appearance. Donalds said he will vote for Amendment 3, opposed a new state catastrophe insurance fund and said he would build data centers; Jolly opposed Amendment 3 but said he would respect the voters, proposed a state catastrophe fund he said would cut premiums 60-70%, and repeated his data-center moratorium pledge. PolitiFact fact-checked four claims from the event.",
+   "sources": [
+    {
+     "title": "Byron Donalds, David Jolly outline differences on property taxes, insurance at Fort Lauderdale summit",
+     "url": "https://www.cbsnews.com/miami/news/florida-governor-byron-donalds-david-jolly-fort-lauderdale-summit/",
+     "date": "2026-09-23"
     },
     {
-     "title": "Jolly: Donalds campaign never approached my campaign about debates (Tallahassee Democrat via Yahoo)",
-     "url": "https://www.yahoo.com/news/politics/articles/jolly-donalds-campaign-never-approached-230226209.html",
-     "date": "2026-09-18"
+     "title": "Florida governor's race: Fact-checking Byron Donalds, David Jolly at WLRN's Sunshine Economy Summit",
+     "url": "https://politifact.com/article/2026/sep/23/florida-governor-jolly-donalds-wlrn-economy-summit/",
+     "date": "2026-09-23"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29 — Happened (student town hall, not a debate)",
+   "host": "FAMU Student Government Association town hall, Lee Hall, Tallahassee, 7 p.m.",
+   "who": "Donalds meets FAMU students on Sept. 29; Jolly is scheduled for Oct. 12. SGA President Kennedy Williams: 'When I say students deserve a front-row seat, I mean it.'",
+   "sources": [
+    {
+     "title": "FAMU invites candidates to campus after governor debate falls through",
+     "url": "https://www.yahoo.com/news/politics/articles/famu-invites-candidates-campus-governor-164229596.html",
+     "date": "2026-09-24"
+    },
+    {
+     "title": "'Disappointed': FAMU cancels gubernatorial debate",
+     "url": "https://www.wctv.tv/2026/09/24/disappointed-famu-cancels-gubernatorial-debate/",
+     "date": "2026-09-24"
     }
    ]
   }
