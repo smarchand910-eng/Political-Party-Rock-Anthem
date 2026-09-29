@@ -120,7 +120,18 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Associated Industries of Florida",
+          "sources": [
+            {
+              "title": "AIF Announces Endorsements in 11 Florida House Races",
+              "url": "https://thecapitolist.com/aif-announces-endorsements-in-11-florida-house-races/",
+              "date": "2026-09-21"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

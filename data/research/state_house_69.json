@@ -103,9 +103,44 @@
               "date": "2023-03-17"
             }
           ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Alvarez says that if re-elected he would build on the public safety legislation he has worked on and continue to support law enforcement and first responders.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Herrmann Challenges Rep. Alvarez in Hillsborough District 69 Race",
+              "url": "https://hoodline.com/2026/09/dsa-backed-newcomer-challenges-hillsborough-rep-alvarez-in-district-69-showdown/",
+              "date": "2026-09-25"
+            },
+            {
+              "title": "DSA-endorsed Ashley Herrmann looks to unseat Hillsborough state Rep. Danny Alvarez",
+              "url": "https://www.yahoo.com/news/politics/articles/dsa-endorsed-ashley-herrmann-looks-004548627.html",
+              "date": "2026-09-25"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Names protecting the strawberry industry and insurance accountability as priorities",
+          "summary": "In Sept. 25, 2026 coverage of the District 69 race, Alvarez said protecting the Plant City-area strawberry industry is a priority, describing it as a billion-dollar industry, and listed insurance accountability and conservation among his legislative focuses.",
+          "sources": [
+            {
+              "title": "DSA-endorsed Ashley Herrmann looks to unseat Hillsborough state Rep. Danny Alvarez",
+              "url": "https://www.yahoo.com/news/politics/articles/dsa-endorsed-ashley-herrmann-looks-004548627.html",
+              "date": "2026-09-25"
+            },
+            {
+              "title": "Herrmann Challenges Rep. Alvarez in Hillsborough District 69 Race",
+              "url": "https://hoodline.com/2026/09/dsa-backed-newcomer-challenges-hillsborough-rep-alvarez-in-district-69-showdown/",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted yes on CS/HJR 1F (homestead property-tax exemption increase / Amendment 3), House passage 75-26, June 2, 2026.",
@@ -310,11 +345,52 @@
               "date": "2026-09"
             }
           ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Herrmann says she opposes Amendment 3, the November 2026 ballot measure that would increase the homestead exemption and reduce property taxes, because of what it would do to local government revenue.",
+          "quote": "I really hope Amendment 3 does not pass",
+          "sources": [
+            {
+              "title": "DSA-endorsed Ashley Herrmann looks to unseat Hillsborough state Rep. Danny Alvarez",
+              "url": "https://www.yahoo.com/news/politics/articles/dsa-endorsed-ashley-herrmann-looks-004548627.html",
+              "date": "2026-09-25"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Says she would push to expand Medicaid and close for-profit prisons",
+          "summary": "In a Sept. 25, 2026 interview, Herrmann said she has looked at expanding Medicaid or using federal dollars Florida has refused in order to bring down health costs. Coverage of the race also reports she supports higher teacher pay, insurance changes and closing for-profit prisons.",
+          "sources": [
+            {
+              "title": "DSA-endorsed Ashley Herrmann looks to unseat Hillsborough state Rep. Danny Alvarez",
+              "url": "https://www.yahoo.com/news/politics/articles/dsa-endorsed-ashley-herrmann-looks-004548627.html",
+              "date": "2026-09-25"
+            },
+            {
+              "title": "Herrmann Challenges Rep. Alvarez in Hillsborough District 69 Race",
+              "url": "https://hoodline.com/2026/09/dsa-backed-newcomer-challenges-hillsborough-rep-alvarez-in-district-69-showdown/",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Democratic Socialists of America",
+          "sources": [
+            {
+              "title": "DSA-endorsed Ashley Herrmann looks to unseat Hillsborough state Rep. Danny Alvarez",
+              "url": "https://www.yahoo.com/news/politics/articles/dsa-endorsed-ashley-herrmann-looks-004548627.html",
+              "date": "2026-09-25"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

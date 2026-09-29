@@ -131,7 +131,18 @@
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Associated Industries of Florida",
+          "sources": [
+            {
+              "title": "AIF Announces Endorsements in 11 Florida House Races",
+              "url": "https://thecapitolist.com/aif-announces-endorsements-in-11-florida-house-races/",
+              "date": "2026-09-21"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -368,6 +379,18 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Luis_Salazar"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-10-08",
+      "sources": [
+        {
+          "title": "Hillsborough County Democratic Black Caucus holds general election candidate forum next month",
+          "url": "https://www.cltampa.com/news/hillsborough-county-democratic-black-caucus-holds-general-election-candidate-forum-next-month/",
+          "date": "2026-09-09"
         }
       ]
     }
