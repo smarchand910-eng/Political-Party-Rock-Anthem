@@ -243,5 +243,19 @@
       "endorsements": [],
       "links": []
     }
+  ],
+  "events": [
+    {
+      "date": "2026-09-17",
+      "host": "League of Women Voters of Manatee County — Zoom; recording at https://youtu.be/ec79hNxazoU (held)",
+      "who": "amanda_ballard, charles_b_smith_sr",
+      "sources": [
+        {
+          "title": "Candidate Forums Guide (LWV of Manatee County)",
+          "url": "https://lwvmanatee.org/voting-videos/",
+          "date": "2026-09"
+        }
+      ]
+    }
   ]
 }

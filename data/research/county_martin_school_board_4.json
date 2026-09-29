@@ -159,5 +159,19 @@
       "record": [],
       "endorsements": []
     }
+  ],
+  "events": [
+    {
+      "date": "2026-10-12",
+      "host": "League of Women Voters of Martin County — The Flagler Center, 201 SW Flagler Ave., Stuart, 6-8 p.m.",
+      "who": "anthony_tony_anderson, amy_pritchett",
+      "sources": [
+        {
+          "title": "League of Women Voters Candidate Forum - District 1 & 4 School Board Races",
+          "url": "https://www.martinvotes.gov/event/league-of-women-voters-candidate-forum-district-1-4-school-board-races/",
+          "date": "2026-09"
+        }
+      ]
+    }
   ]
 }

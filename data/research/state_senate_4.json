@@ -14,8 +14,8 @@
   ],
   "counties_verified": false,
   "what_it_does": "Represents District 4 in the Florida Senate; votes on state laws and the state budget.",
-  "on_november_ballot": true,
-  "decided_note": null,
+  "on_november_ballot": false,
+  "decided_note": "Clay Yarborough is listed as Unopposed by the Florida Division of Elections, so this seat is filled without a November vote. Every other candidate withdrew, was defeated in the August primary or did not qualify. Source: Florida Division of Elections 2026 general election candidate list (https://dos.elections.myflorida.com/candidates/CanList.asp), checked Sept. 29, 2026.",
   "coverage": "partial",
   "verified_ballot_note": "Search snippets (Ballotpedia/BallotReady) indicate incumbent Clay Yarborough (R) and Democrat Sharmin Turner are the general-election candidates; the Democratic primary was cancelled (https://ballotpedia.org/Florida_State_Senate_District_4; https://www.ballotready.org/positions/florida-florida-state-senate-district-4). One snippet contradictorily said Yarborough was unopposed and the election cancelled; the more specific snippets naming Turner were used, but this should be verified. County list from general knowledge of the 2022 map, not verified by snippet. Research limitation (Sept 2026): Ballotpedia, Wikipedia, dos.fl.gov, floridaelectionwatch.gov, Florida Politics and all news sites were blocked for fetching in this sandbox and the WebSearch budget was capped, so the roster is built only from search-result snippets; write-in/NPA qualifiers could not be checked. Positions are null because no snippet contained an explicit issue statement.",
   "candidates": [

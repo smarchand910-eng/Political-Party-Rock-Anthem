@@ -12,8 +12,8 @@
     "Orange"
   ],
   "what_it_does": "Represents District 41 in the Florida House of Representatives; votes on state laws and the state budget.",
-  "on_november_ballot": true,
-  "decided_note": "Incumbent Democratic Rep. Bruce Antone sought re-election. ClickOrlando (Feb. 2026) reported Antone would face Jane't Buford-Johnson in the Aug. 18 Democratic primary and that a Republican identified as Lincoln-McCreight was unopposed for the Republican nomination, with the general election Nov. 3. Neither the final qualified field nor the primary result could be verified; the News Service of Florida's post-primary list of Democratic incumbents who faced challengers did not include Antone, which may mean the primary challenge did not materialize.",
+  "on_november_ballot": false,
+  "decided_note": "Bruce Antone is listed as Unopposed by the Florida Division of Elections, so this seat is filled without a November vote. Every other candidate withdrew, was defeated in the August primary or did not qualify. Source: Florida Division of Elections 2026 general election candidate list (https://dos.elections.myflorida.com/candidates/CanList.asp), checked Sept. 29, 2026.",
   "coverage": "partial",
   "verified_ballot_note": "ClickOrlando, Feb. 24, 2026: 'Antone will face Jane't Buford-Johnson in the Aug. 18 Democratic primary. At the moment, Lincoln-McCreight is unopposed in the Aug. 18 Republican primary. The general election will be held Nov. 3' (https://www.clickorlando.com/election-2026/2026/02/24/florida-house-candidate-from-viral-n-word-video-seeks-to-unseat-rep-bruce-antone/). Post-qualifying and post-primary status unverified. Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
   "candidates": [
@@ -383,7 +383,18 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Equality Florida PAC",
+          "sources": [
+            {
+              "title": "Equality Florida PAC | Endorsed Candidates",
+              "url": "https://eqflpac.org/endorsed-candidates/",
+              "date": "2026-09-10"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Florida House candidate from viral N-word video seeks to unseat Rep. Bruce Antone (ClickOrlando)",

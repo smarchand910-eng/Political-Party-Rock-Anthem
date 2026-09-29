@@ -230,6 +230,23 @@
           "date": "2026-09"
         }
       ]
+    },
+    {
+      "date": "2026-10-07",
+      "host": "League of Women Voters of Manatee County — Zoom, 5:00-6:00 p.m.",
+      "who": "camden_cam_bedinghaus, jonathan_mullis",
+      "sources": [
+        {
+          "title": "Candidate Forums Guide (LWV of Manatee County)",
+          "url": "https://lwvmanatee.org/voting-videos/",
+          "date": "2026-09"
+        },
+        {
+          "title": "Candidate Forums Offer Sarasota, Manatee Voters a Chance to Hear From Contenders",
+          "url": "https://www.sarasotamagazine.com/news-and-profiles/2026/09/candidate-forums-offer-sarasota-manatee-voters-a-chance-to-hear-from-contenders",
+          "date": "2026-09-22"
+        }
+      ]
     }
   ]
 }

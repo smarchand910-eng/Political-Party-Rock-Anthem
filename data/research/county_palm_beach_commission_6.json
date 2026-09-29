@@ -110,14 +110,19 @@
         },
         "growth": {
           "stance": 1,
-          "confidence": "stated",
-          "summary": "Says a different perspective is needed to avoid overdevelopment of the western communities, while simplifying planning and zoning for small businesses.",
-          "quote": "avoiding the overdevelopment of our beautiful western communities",
+          "confidence": "record",
+          "summary": "Baxter initiated a one-year moratorium on new hyperscale AI data centers in unincorporated Palm Beach County, which the commission gave final unanimous approval on Sept. 24, 2026. The measure adds a definition of large-scale data centers to the county land-development code and pauses new facilities with a peak electrical load of at least 50 megawatts.",
+          "quote": "This temporary moratorium will allow sufficient time to evaluate the potential impact of these facilities.",
           "sources": [
             {
-              "title": "Sara Baxter for County Commission - Home",
-              "url": "https://www.votesarabaxter.com/",
-              "date": "2026-09-18"
+              "title": "Palm Beach County commissioners unanimously approve moratorium on new hyperscale AI data centers",
+              "url": "https://www.wflx.com/2026/09/24/palm-beach-county-commissioners-unanimously-approve-moratorium-new-hyperscale-ai-data-centers/",
+              "date": "2026-09-24"
+            },
+            {
+              "title": "Palm Beach County Commission Gives Final Approval To One-Year Moratorium On Data Centers",
+              "url": "https://wjno.iheart.com/featured/florida-news/content/2026-09-24-palm-beach-county-commission-gives-final-approval-to-one-year-moratorium-on-data-centers/",
+              "date": "2026-09-24"
             }
           ]
         },
@@ -199,6 +204,21 @@
               "title": "Palm Beach County Mayor Sara Baxter Faces Coercion Claims (Hoodline)",
               "url": "https://hoodline.com/2026/09/palm-beach-mayor-sara-baxter-denies-staffer-s-sexual-coercion-complaint-days-before-vote/",
               "date": "2026-09-17"
+            }
+          ]
+        },
+        {
+          "item": "Voted with a unanimous commission on Sept. 24, 2026 for final approval of a one-year moratorium on new hyperscale AI data centers in unincorporated Palm Beach County; she brought the proposal forward. In an election-spotlight interview four days later she described her approach as a zoning question, saying data centers should be reclassified from light to heavy industrial.",
+          "sources": [
+            {
+              "title": "Palm Beach County commissioners unanimously approve moratorium on new hyperscale AI data centers",
+              "url": "https://www.wflx.com/2026/09/24/palm-beach-county-commissioners-unanimously-approve-moratorium-new-hyperscale-ai-data-centers/",
+              "date": "2026-09-24"
+            },
+            {
+              "title": "Waldron Challenges Baxter In PBC Commission District 6 Race",
+              "url": "https://wjno.iheart.com/featured/election-spotlight/content/2026-09-25-waldron-challenges-baxter-in-pbc-commission-district-6-race/",
+              "date": "2026-09-28"
             }
           ]
         }
@@ -394,6 +414,32 @@
               "date": "2022-12"
             }
           ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In a Sept. 28 election-spotlight interview she said she supports the county's moratorium on large-scale AI data centers, citing financial and environmental concerns, and said approvals should carry a performance bond to protect surrounding communities if a project fails.",
+          "quote": "there should be some type of performance bond included in that to protect the community",
+          "sources": [
+            {
+              "title": "Waldron Challenges Baxter In PBC Commission District 6 Race",
+              "url": "https://wjno.iheart.com/featured/election-spotlight/content/2026-09-25-waldron-challenges-baxter-in-pbc-commission-district-6-race/",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In the same interview she raised environmental concerns about large AI data centers as a reason to support the county moratorium, and questioned what happens if a facility is built and then fails.",
+          "quote": "my concern is also that it will be built and then maybe they go bust or whatever",
+          "sources": [
+            {
+              "title": "Waldron Challenges Baxter In PBC Commission District 6 Race",
+              "url": "https://wjno.iheart.com/featured/election-spotlight/content/2026-09-25-waldron-challenges-baxter-in-pbc-commission-district-6-race/",
+              "date": "2026-09-28"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -520,6 +566,20 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Katherine_Waldron"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-09-28",
+      "host": "Greater Wellington Chamber of Commerce; video posted by WFLX — Wellington (held)",
+      "who": "sara_baxter, katherine_waldron",
+      "sources": [
+        {
+          "title": "Greater Wellington Chamber - Meet the Candidates Forum",
+          "url": "https://www.wflx.com/video/2026/09/28/greater-wellington-chamber-meet-candidates-forum/",
+          "date": "2026-09-28"
         }
       ]
     }

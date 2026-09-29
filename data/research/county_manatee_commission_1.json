@@ -567,5 +567,19 @@
         }
       ]
     }
+  ],
+  "events": [
+    {
+      "date": "2026-09-16",
+      "host": "League of Women Voters of Manatee County — Zoom; recording at https://www.youtube.com/watch?v=15VV6IoepDM (held)",
+      "who": "elizabeth_liz_arnold, sari_lindroos_valimaki",
+      "sources": [
+        {
+          "title": "Candidate Forums Guide (LWV of Manatee County)",
+          "url": "https://lwvmanatee.org/voting-videos/",
+          "date": "2026-09"
+        }
+      ]
+    }
   ]
 }

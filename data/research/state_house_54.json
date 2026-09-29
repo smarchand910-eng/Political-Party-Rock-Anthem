@@ -12,8 +12,8 @@
     "Pasco"
   ],
   "what_it_does": "Represents District 54 in the Florida House of Representatives; votes on state laws and the state budget.",
-  "on_november_ballot": true,
-  "decided_note": "Incumbent Republican Randy Maggard defeated Michael Pultorak in the Aug. 18, 2026 Republican primary. A closed party primary was held Aug. 18, 2026, which under Florida law means at least one other candidate (opposing-party, no-party or write-in) qualified for the Nov. 3 general election; that opponent's name could not be verified from search snippets.",
+  "on_november_ballot": false,
+  "decided_note": "Randy Maggard is listed as Unopposed by the Florida Division of Elections, so this seat is filled without a November vote. Every other candidate withdrew, was defeated in the August primary or did not qualify. Source: Florida Division of Elections 2026 general election candidate list (https://dos.elections.myflorida.com/candidates/CanList.asp), checked Sept. 29, 2026.",
   "coverage": "partial",
   "verified_ballot_note": "Tampa Bay Times (Aug. 18, 2026): 'HD 54 (Pasco County) Republican Primary: Randy Maggard (incumbent) defeated Michael Pultorak' (https://www.tampabay.com/news/florida-politics/elections/2026/08/18/florida-legislature-house-senate-legislative-results-primary-2026/). November opponent not found. Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
   "candidates": [
