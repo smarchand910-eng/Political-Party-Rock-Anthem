@@ -20,7 +20,9 @@ for ev in spec.get('_debates') or []:
     try: raw = open(p, encoding='utf-8').read(); d = json.loads(raw)
     except Exception: print('skip debate for unknown race', rid); continue
     d.setdefault('events', [])
-    if not any(e.get('date') == ev.get('date') and e.get('host') == ev.get('host') for e in d['events']):
+    import re as _re
+    day = lambda x: _re.sub(r'\s*—.*$', '', str(x.get('date') or '')).strip()
+    if not any(day(e) == day(ev) and (day(ev) or e.get('host') == ev.get('host')) for e in d['events']):
         d['events'].append({k: ev.get(k) for k in ('date', 'host', 'who', 'sources') if ev.get(k)}); n += 1
     ind = 1 if raw.startswith('{\n "') else 2
     open(p, 'w', encoding='utf-8').write(json.dumps(d, ensure_ascii=False, indent=ind) + '\n')

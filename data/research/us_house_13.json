@@ -355,6 +355,28 @@
               "date": null
             }
           ]
+        },
+        {
+          "title": "Giffords PAC ad campaign",
+          "summary": "Giffords PAC announced an $800,000 ad buy on Sept. 22 attacking Luna's record on guns, part of a $10 million national effort. Luna's campaign said she has personal experience of gun violence and questioned Giffords' silence on her opponent's pharmaceutical investments.",
+          "sources": [
+            {
+              "title": "Giffords PAC launches $800K attack on Anna Paulina Luna's gun safety record",
+              "url": "https://floridapolitics.com/archives/821229-giffords-pac-launches-800k-attack-on-anna-paulina-lunas-gun-safety-record/",
+              "date": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "title": "Cease-and-desist letter to her opponent",
+          "summary": "Luna's attorneys demanded on Sept. 18 that Gray stop airing an ad alleging she gave inside information to a donor, saying her financial disclosures show she does not own or trade stocks and that the Justice Department confirmed no investigation. Gray's lawyers refused on Sept. 22.",
+          "sources": [
+            {
+              "title": "Leela Gray attorneys punch back at Anna Paulina Luna cease and desist demand",
+              "url": "https://floridapolitics.com/archives/821281-leela-gray-attorneys-punch-back-at-anna-paulina-luna-cease-and-desist-demand/",
+              "date": "2026-09-22"
+            }
+          ]
         }
       ],
       "record": [
@@ -862,6 +884,33 @@
               "date": "2026-09-14"
             }
           ]
+        },
+        {
+          "title": "Dispute over her television ad about Luna",
+          "summary": "Gray's campaign refused to pull a 30-second ad saying Luna was 'giving insider information to her donor' after Luna's lawyers sent a cease-and-desist letter on Sept. 18 calling the claims verifiably false. On Sept. 22 Gray's attorneys at the Elias Law Group replied that the ad rests on Wall Street Journal reporting and that a defamation suit would expose Luna to costs under Florida's anti-SLAPP law.",
+          "sources": [
+            {
+              "title": "Leela Gray attorneys punch back at Anna Paulina Luna cease and desist demand",
+              "url": "https://floridapolitics.com/archives/821281-leela-gray-attorneys-punch-back-at-anna-paulina-luna-cease-and-desist-demand/",
+              "date": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "title": "Race rating moves",
+          "summary": "On Sept. 22-25 Fox News and the Cook Political Report both moved the district from 'Likely Republican' to 'Lean Republican.'",
+          "sources": [
+            {
+              "title": "Fox News ratings move 7 of Florida's U.S. House contests in Democrats' direction",
+              "url": "https://floridapolitics.com/archives/821268-fox-news-ratings-move-7-of-floridas-u-s-house-contests-in-democrats-direction/",
+              "date": "2026-09-23"
+            },
+            {
+              "title": "Cook Political Report sees Anna Paulina Luna, Maria Elvira Salazar in risky territory, opens CD 22 as a jump ball",
+              "url": "https://floridapolitics.com/archives/821874-cook-political-report-sees-anna-paulina-luna-maria-elvira-salazar-in-risky-territory-opens-cd-22-as-a-jump-ball/",
+              "date": "2026-09-25"
+            }
+          ]
         }
       ],
       "record": [
@@ -934,6 +983,16 @@
               "title": "Leela Gray adds Ted Lieu to her endorsement ranks - Florida Politics",
               "url": "https://floridapolitics.com/archives/804021-leela-gray-adds-ted-lieu-to-her-endorsement-ranks-in-cd-13/",
               "date": null
+            }
+          ]
+        },
+        {
+          "by": "Virginia Gov. Abigail Spanberger",
+          "sources": [
+            {
+              "title": "Abigail Spanberger endorses Leela Gray for Congress",
+              "url": "https://floridapolitics.com/archives/821604-abigail-spanberger-endorses-leela-gray-for-congress/",
+              "date": "2026-09-24"
             }
           ]
         }
@@ -1053,6 +1112,20 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Tony_D%27Arrigo"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate has been scheduled, despite the challenger asking for one (checked 2026-09-24)",
+      "who": "Anna Paulina Luna, Leela Gray",
+      "sources": [
+        {
+          "title": "Is the era of political debates over in Florida? (Tampa Bay Times)",
+          "url": "https://www.yahoo.com/news/politics/articles/era-political-debates-over-florida-110000547.html",
+          "date": "2026-09-24"
         }
       ]
     }

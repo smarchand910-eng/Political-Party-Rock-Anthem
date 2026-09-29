@@ -32,13 +32,13 @@
         "taxes": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Supports keeping taxes low and less regulation.",
-          "quote": "keeping taxes low",
+          "summary": "In his first general-election ad, 'At Every Turn,' released Sept. 23, Elijah said he would keep taxes low and bring down gas and grocery bills, and attacked Dalton over tax cuts on tips, overtime and seniors.",
+          "quote": "My plan is common sense: Keep taxes low and bring down gas and grocery bills.",
           "sources": [
             {
-              "title": "Ryan Elijah for Congress - Issues",
-              "url": "https://elijahforcongress.com/issues.html",
-              "date": "2026-09-18"
+              "title": "Ryan Elijah debuts ad focusing on affordability",
+              "url": "https://floridapolitics.com/archives/821475-ryan-elijah-debuts-ad-focusing-on-affordability/",
+              "date": "2026-09-23"
             }
           ]
         },
@@ -183,11 +183,22 @@
           ]
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In releases on Sept. 23 and Sept. 24 Elijah's campaign attacked Dalton's answer on gender-affirming care for minors, saying government should pass laws to protect children from such care.",
+          "quote": "We don't need to share a stage with Dalton to know he supports parents allowing minors to have gender surgery.",
+          "sources": [
+            {
+              "title": "Ryan Elijah slams Bale Dalton's position on gender-affirming care",
+              "url": "https://floridapolitics.com/archives/821563-ryan-elijah-slams-bale-daltons-position-on-gender-affirming-care/",
+              "date": "2026-09-24"
+            },
+            {
+              "title": "Ryan Elijah brushes off calls for debate with Bale Dalton",
+              "url": "https://floridapolitics.com/archives/821470-ryan-elijah-brushes-off-calls-for-debate-with-bale-dalton/",
+              "date": "2026-09-23"
+            }
+          ]
         },
         "energy": {
           "stance": -1,
@@ -302,6 +313,28 @@
               "date": "2026-09-08"
             }
           ]
+        },
+        {
+          "title": "Ethics complaint over financial disclosure",
+          "summary": "An ethics complaint was filed against Elijah alleging he did not properly detail his assets. He filed an updated disclosure on Sept. 16. Dalton has continued to raise the matter.",
+          "sources": [
+            {
+              "title": "Ryan Elijah brushes off calls for debate with Bale Dalton",
+              "url": "https://floridapolitics.com/archives/821470-ryan-elijah-brushes-off-calls-for-debate-with-bale-dalton/",
+              "date": "2026-09-23"
+            }
+          ]
+        },
+        {
+          "title": "First general-election ad",
+          "summary": "Elijah's campaign began airing 'At Every Turn' online and on television in Central Florida on Sept. 23, focused on affordability.",
+          "sources": [
+            {
+              "title": "Ryan Elijah debuts ad focusing on affordability",
+              "url": "https://floridapolitics.com/archives/821475-ryan-elijah-debuts-ad-focusing-on-affordability/",
+              "date": "2026-09-23"
+            }
+          ]
         }
       ],
       "record": [
@@ -397,13 +430,13 @@
         "taxes": {
           "stance": 0,
           "confidence": "stated",
-          "summary": "Dalton says working families in Volusia and Seminole counties need a tax cut and supports tax relief for working families, seniors and small businesses, while opposing tax giveaways to billionaires and corporations and opposing Medicaid cuts.",
-          "quote": "don't just deserve a tax cut – they need one",
+          "summary": "Responding on Sept. 23 to Elijah's first ad, Dalton said he supports making the tax cuts on tips, overtime and Social Security permanent, while accusing Elijah of supporting cuts to Medicaid and of backing tariffs.",
+          "quote": "I support making the tax cuts on tips, overtime, and Social Security permanent, and Ryan knows it.",
           "sources": [
             {
-              "title": "Priorities - Bale Dalton for Congress",
-              "url": "https://baledalton.com/priorities/",
-              "date": "2026-09"
+              "title": "Ryan Elijah debuts ad focusing on affordability",
+              "url": "https://floridapolitics.com/archives/821475-ryan-elijah-debuts-ad-focusing-on-affordability/",
+              "date": "2026-09-23"
             }
           ]
         },
@@ -563,15 +596,20 @@
           ]
         },
         "lgbtq": {
-          "stance": -1,
+          "stance": 0,
           "confidence": "stated",
-          "summary": "Asked about transgender issues in a September 2026 interview, Dalton said boys should not play in girls' sports but that decisions about medical care belong to families, parents and their doctors, and that the federal government has no business in those decisions.",
-          "quote": "",
+          "summary": "Asked by News 6 Orlando on Sept. 9 whether transgender medical care should be available to patients under 18, Dalton said it is a decision for families and doctors and that the federal government has no business in it. After Elijah's campaign highlighted the answer, Dalton said on Sept. 24 that he does not want boys in girls' sports or children receiving irreversible medical care, and called the question settled law in Florida.",
+          "quote": "I don't want boys in girls' sports, children receiving irreversible medical care, or D.C. politicians policing how parents raise their kids.",
           "sources": [
             {
-              "title": "In Their Own Words: Elijah and Dalton on the issues facing Florida's 7th district (WKMG/ClickOrlando)",
-              "url": "https://www.clickorlando.com/news/local/2026/09/08/in-their-own-words-elijah-and-dalton-on-the-issues-facing-floridas-7th-district/",
-              "date": "2026-09-08"
+              "title": "Ryan Elijah slams Bale Dalton's position on gender-affirming care",
+              "url": "https://floridapolitics.com/archives/821563-ryan-elijah-slams-bale-daltons-position-on-gender-affirming-care/",
+              "date": "2026-09-24"
+            },
+            {
+              "title": "Democrat Bale Dalton says federal government should not restrict trans surgeries for minors as Ryan Elijah campaign responds",
+              "url": "https://flvoicenews.com/democrat-bale-dalton-says-federal-government-should-not-restrict-trans-surgeries-for-minors-as-ryan-elijah-campaign-responds/",
+              "date": "2026-09"
             }
           ]
         },
@@ -709,6 +747,28 @@
               "date": "2026-09-08"
             }
           ]
+        },
+        {
+          "title": "Calls for a debate",
+          "summary": "Dalton has pressed for weeks for a debate with Elijah, noting that Elijah had pushed U.S. Rep. Cory Mills to debate during the Republican primary. Elijah has not committed to a WESH-proposed debate that would also include Libertarian Christopher Dennison.",
+          "sources": [
+            {
+              "title": "Ryan Elijah brushes off calls for debate with Bale Dalton",
+              "url": "https://floridapolitics.com/archives/821470-ryan-elijah-brushes-off-calls-for-debate-with-bale-dalton/",
+              "date": "2026-09-23"
+            }
+          ]
+        },
+        {
+          "title": "Fundraising with national Democrats",
+          "summary": "DCCC Chair Suzan DelBene was scheduled to raise money for Dalton on Sept. 25 as part of a Florida swing with battleground House candidates.",
+          "sources": [
+            {
+              "title": "National Democrats to stump in Florida with House candidates in battleground seats",
+              "url": "https://floridapolitics.com/archives/821687-national-democrats-to-stump-in-florida-with-house-candidates-in-battleground-seats/",
+              "date": "2026-09-25"
+            }
+          ]
         }
       ],
       "record": [
@@ -777,6 +837,20 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Christopher_Dennison"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "WESH 2 proposed a debate; Elijah has not committed. Dalton has sought a debate for weeks.",
+      "who": "No debate scheduled as of 2026-09-29 · Bale Dalton (seeking), Ryan Elijah (not committed), Christopher Dennison (invited)",
+      "sources": [
+        {
+          "title": "Ryan Elijah brushes off calls for debate with Bale Dalton",
+          "url": "https://floridapolitics.com/archives/821470-ryan-elijah-brushes-off-calls-for-debate-with-bale-dalton/",
+          "date": "2026-09-23"
         }
       ]
     }
