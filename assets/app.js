@@ -365,10 +365,26 @@
 
   /* ---------- Countdown ---------- */
   function countdown() {
-    const items = [[T('Election Day', 'Día de la elección'), '2026-11-03', T('Tue, Nov 3', 'mar. 3 nov.')], [T('Registration deadline', 'Plazo de registro'), '2026-10-05', T('Mon, Oct 5', 'lun. 5 oct.')], [T('Mail-ballot request deadline', 'Plazo para pedir boleta por correo'), '2026-10-22', T('Thu, Oct 22', 'jue. 22 oct.')], [T('Early voting begins', 'Empieza la votación anticipada'), '2026-10-24', T('Sat, Oct 24 (confirm)', 'sáb. 24 oct. (confirmar)')]];
+    // Early voting starts on a date each county sets, so use the voter's county when we know it.
+    const prof = loadProfile();
+    const ev = prof && prof.county && COUNTY_INFO[prof.county] && COUNTY_INFO[prof.county].early_voting;
+    let evIso = '2026-10-19', evPretty = T('Oct 19-24, by county', '19-24 oct., según el condado'), evLabel = T('Early voting begins', 'Empieza la votación anticipada');
+    const m = ev && ev.dates && ev.dates.match(/([A-Z][a-z]{2})\s+Oct\s+(\d{1,2})/);
+    if (m) {
+      const day = String(m[2]).padStart(2, '0');
+      evIso = `2026-10-${day}`;
+      evPretty = T(`${m[1]}, Oct ${m[2]} (${prof.county})`, `${m[2]} oct. (${prof.county})`);
+    }
+    const items = [
+      [T('Election Day', 'Día de la elección'), '2026-11-03', T('Tue, Nov 3', 'mar. 3 nov.')],
+      [T('Registration deadline', 'Plazo de registro'), '2026-10-05', T('Mon, Oct 5', 'lun. 5 oct.')],
+      [T('Mail-ballot request deadline', 'Plazo para pedir boleta por correo'), '2026-10-22', T('Thu, Oct 22', 'jue. 22 oct.')],
+      [evLabel, evIso, evPretty]
+    ];
     const today = new Date(); today.setHours(0, 0, 0, 0);
     return `<div class="countdown">${items.map(([label, iso, pretty]) => { const d = Math.round((new Date(iso + 'T00:00:00') - today) / 86400000); const num = d > 0 ? d : d === 0 ? T('Today', 'Hoy') : T('Passed', 'Pasó'); return `<div class="cd-tile"><div class="cd-num">${esc(String(num))}</div><div class="cd-label">${d > 0 ? T('days until ', 'días hasta: ') : ''}${esc(label)}</div><div class="cd-date">${esc(pretty)}</div></div>`; }).join('')}</div>`;
   }
+
 
   /* ---------- views ---------- */
   function viewHome() {

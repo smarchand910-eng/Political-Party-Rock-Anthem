@@ -545,7 +545,13 @@
       "soe_url": "https://www.votemiamidade.gov/",
       "sample_ballot_url": null,
       "county_seat": "Miami",
-      "notes": "URL seen in search result (votemiamidade.gov/elections/home.page; also miamidade.gov/elections). Supervisor: Alina Garcia. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "URL seen in search result (votemiamidade.gov/elections/home.page; also miamidade.gov/elections). Supervisor: Alina Garcia. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "7 a.m.–7 p.m. daily",
+        "sites_url": "https://www.miamidade.gov/elections/early-voting.page",
+        "note": "From the Miami-Dade Elections Department's published General Election early-voting schedule (checked Sept. 29, 2026); a secure ballot intake station is staffed at each site during early-voting hours."
+      }
     },
     "Monroe": {
       "soe_name": "Monroe County Supervisor of Elections",
@@ -646,10 +652,10 @@
       "county_seat": "Clearwater",
       "notes": "URL seen in search result (votepinellas.gov). Supervisor: Julie Marcus. Nov 3, 2026 info page: https://www.votepinellas.gov/382/November-3-2026-General-Election-Informa Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "7 a.m.–7 p.m., Monday through Sunday",
         "sites_url": "https://www.votepinellas.gov/200/Early-Voting",
-        "note": "General Election early-voting dates and hours had not been posted on the Pinellas County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "From the Pinellas County Supervisor of Elections early-voting page (checked Sept. 29, 2026); sites and hours can change, so confirm before you go."
       }
     },
     "Polk": {
