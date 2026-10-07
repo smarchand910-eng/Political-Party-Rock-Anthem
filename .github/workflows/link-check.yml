@@ -6,9 +6,15 @@ on:
 permissions:
   issues: write
   contents: read
+concurrency:
+  group: link-check
+  cancel-in-progress: false
 jobs:
   links:
     runs-on: ubuntu-latest
+    # The checker probes ~3,000 URLs; this bounds a run that stalls on unresponsive hosts
+    # instead of letting it sit until the job is killed with no report.
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -22,8 +28,10 @@ jobs:
           echo "dead=$?" >> "$GITHUB_OUTPUT"
           head -c 60000 /tmp/links.md
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: link-check-report
+          if-no-files-found: warn
           path: /tmp/links.md
       - name: Open an issue when dead links were found
         if: steps.chk.outputs.dead == '1'
