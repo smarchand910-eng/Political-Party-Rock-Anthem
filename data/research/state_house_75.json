@@ -17,7 +17,7 @@
   "on_november_ballot": true,
   "decided_note": null,
   "coverage": "partial",
-  "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
+  "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings.",
   "candidates": [
     {
       "id": "danny_nix_jr",
@@ -63,6 +63,67 @@
               "title": "Florida House roll-call vote, SB 2-C (Immigration), passage 85-30",
               "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=23489&BillId=81096&SessionId=111",
               "date": "2025-02-13"
+            }
+          ]
+        },
+        "elections": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on CS/CS/HB 991 when it passed the House on Feb. 25, 2026 and yes on final House passage March 12, 2026. CS/CS/HB 991 (2026), now law (Ch. 2026-26), requires the state to verify voters' U.S. citizenship using driver-license and other government records and removes student and retirement-home IDs from the IDs accepted at the polls.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida Senate bill page: CS/CS/HB 991 (2026) Elections, Chapter 2026-26",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/991",
+              "date": "2026-04-02"
+            },
+            {
+              "title": "House roll call, CS/CS/HB 991 (2026) third-reading passage, 83-31",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/991/Vote/HouseVote_h00991c2602.PDF",
+              "date": "2026-02-25"
+            },
+            {
+              "title": "House roll call, CS/CS/HB 991 (2026) final passage, 77-28",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/991/Vote/HouseVote_h00991e1847.PDF",
+              "date": "2026-03-12"
+            },
+            {
+              "title": "Florida 2026 legislative session ends: what passed, what failed, what's next (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-03-13/florida-2026-legislative-session-ends-what-passed-what-failed-whats-next",
+              "date": "2026-03-13"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 759 (March 26, 2025) and voted yes on HB 133 (Jan. 15, 2026); both bills would have lowered the minimum age to buy a rifle from 21 to 18; each passed the House and died in the Senate.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida Senate bill page: HB 759 (2025) Minimum Age for Firearm Purchase or Transfer",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759",
+              "date": "2025-06-16"
+            },
+            {
+              "title": "House roll call, HB 759 (2025) passage, 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Florida Senate bill page: HB 133 (2026) Minimum Age for Firearm Purchase or Transfer",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133",
+              "date": "2026-03-13"
+            },
+            {
+              "title": "House roll call, HB 133 (2026) passage, 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Florida 2026 legislative session ends: what passed, what failed, what's next (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-03-13/florida-2026-legislative-session-ends-what-passed-what-failed-whats-next",
+              "date": "2026-03-13"
             }
           ]
         }
@@ -112,6 +173,51 @@
             {
               "title": "Roll-call vote",
               "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on CS/HB 1517 (2025), which would have allowed parents to sue for the wrongful death of an unborn child (excluding the mother and providers of lawful care); passed the House 79-32 on April 9, 2025 and died in the Senate.",
+          "sources": [
+            {
+              "title": "House roll call, CS/HB 1517 (2025) passage, 79-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1517/Vote/HouseVote_h01517c1079.PDF",
+              "date": "2025-04-09"
+            },
+            {
+              "title": "Florida Senate bill page: CS/HB 1517 (2025)",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1517",
+              "date": "2025-06-16"
+            }
+          ]
+        },
+        {
+          "item": "Co-introduced and voted yes on CS/HB 289 (2026), which would have allowed parents to sue for the wrongful death of an unborn child (excluding the mother and providers of lawful care); passed the House 76-34 on Jan. 15, 2026 and died in the Senate.",
+          "sources": [
+            {
+              "title": "House roll call, CS/HB 289 (2026) passage, 76-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/289/Vote/HouseVote_h00289c1449.PDF",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Florida Senate bill page: CS/HB 289 (2026)",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/289",
+              "date": "2026-03-13"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on final House passage of CS/HB 1205 (2025), the law (Ch. 2025-21) that added new rules, registration requirements and penalties for citizen initiative petition drives; passed 81-30 on May 1, 2025.",
+          "sources": [
+            {
+              "title": "House roll call, CS/HB 1205 (2025) final passage, 81-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1205/Vote/HouseVote_h01205e1403.PDF",
+              "date": "2025-05-01"
+            },
+            {
+              "title": "Florida Senate bill page: CS/HB 1205 (2025)",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1205",
+              "date": "2025-05-05"
             }
           ]
         }

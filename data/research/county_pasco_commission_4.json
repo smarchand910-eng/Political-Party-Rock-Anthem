@@ -9,7 +9,7 @@
     "id": "Pasco"
   },
   "what_it_does": "County commissioners set the county budget and property-tax (millage) rate, adopt land-use and zoning rules, and oversee county services such as roads, parks, libraries, fire/EMS and utilities.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Primary result per BallotReady/WTSP snippets; write-in opponent per Tampa Bay Beacons (https://www.tampabaybeacons.com/2026/08/12/two-republicans-square-off-in-district-4-county-commission-primary/).",
   "candidates": [
     {
@@ -20,17 +20,28 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Pasco County commissioner (District 4) since 2024; former educator who worked with at-risk youth",
       "residence": null,
-      "background": "Incumbent District 4 commissioner.",
+      "background": "Republican Lisa Yeager of New Port Richey was appointed to the District 4 seat by Gov. Ron DeSantis in May 2024 after Commissioner Gary Bradford died, and was elected in November 2024 to finish the term. She is a former educator married to state Rep. Brad Yeager. In August 2026 she won the Republican primary with 62.4% over Jonathan Deckard and faces write-in candidate Louie Rodriguez in November.",
       "primary_result": "Won Aug 18 Republican primary with 62.41% (28,334) over Jonathan Deckard 37.59% (17,065) (BallotReady)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In 2026 candidate questionnaires she named cutting taxes as one of her top priorities and said that during her time on the commission 'we cut taxes'. She did not describe specific service cuts.",
+          "quote": "Cutting taxes, keeping our streets safe, and ensuring growth is smart and sustainable have been among my top priorities.",
+          "sources": [
+            {
+              "title": "Meet the candidates: Questionnaire for Pasco County Commission D-4 - Tampa Bay 28",
+              "url": "https://www.tampabay28.com/news/election-2026/meet-the-candidates-questionnaire-for-pasco-county-commission-d-4",
+              "date": "2026-07-31"
+            },
+            {
+              "title": "Two Republicans square off in District 4 County Commission primary - Tampa Bay Beacons",
+              "url": "https://www.tampabaybeacons.com/2026/08/12/two-republicans-square-off-in-district-4-county-commission-primary/",
+              "date": "2026-08-12"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -103,11 +114,17 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Asked how the county should regulate development, she said growth should be smart and thoughtful, with traffic, congestion and strain on infrastructure put first in growth decisions, but she did not propose specific new limits or fees.",
+          "quote": "Growth should be smart, thoughtful and consider future needs and be truly in the best interests of Pasco residents.",
+          "sources": [
+            {
+              "title": "Two Republicans square off in District 4 County Commission primary - Tampa Bay Beacons",
+              "url": "https://www.tampabaybeacons.com/2026/08/12/two-republicans-square-off-in-district-4-county-commission-primary/",
+              "date": "2026-08-12"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -124,11 +141,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says she has supported law enforcement and worked closely with the Sheriff's Office to keep residents safe.",
+          "quote": "I have also worked closely with our Sheriff's Office to ensure residents feel safe.",
+          "sources": [
+            {
+              "title": "Meet the candidates: Questionnaire for Pasco County Commission D-4 - Tampa Bay 28",
+              "url": "https://www.tampabay28.com/news/election-2026/meet-the-candidates-questionnaire-for-pasco-county-commission-d-4",
+              "date": "2026-07-31"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,

@@ -506,7 +506,7 @@
       "website": "https://martinhydeforsenate.com/",
       "occupation": "Sarasota activist; 2022 Republican congressional candidate, now No Party Affiliation",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Martin Hyde was born in the United Kingdom, has lived in Sarasota for 27 years and says he has nearly 40 years of business experience in the U.S. and Europe. Known locally as a frequent critic of Sarasota city government, he ran for Congress as a Republican in 2022 and is now registered with no party affiliation. His campaign emphasizes local control over development, environmental protection, scrutiny of government spending and elder care.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -542,6 +542,19 @@
               "date": "2026-08"
             }
           ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Hyde's campaign site says storm management, water quality, water supply and habitat preservation must be the state's top priorities, and that the state should plan long-term and resist development pressures that he says would otherwise ruin the state.",
+          "quote": "Storm management, water quality, water availability, and the preservation of natural habitats are not optional priorities. They are the priorities.",
+          "sources": [
+            {
+              "title": "Martin Hyde for State Senate: Where I Stand (campaign website, undated; read 2026-10-07)",
+              "url": "https://martinhydeforsenate.com/",
+              "date": "2026-10"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -564,7 +577,7 @@
       "website": "https://www.lewforsenate22.com/",
       "occupation": "Democratic nominee, SD 22",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified).",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [

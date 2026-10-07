@@ -9,7 +9,7 @@
     "id": "Brevard"
   },
   "what_it_does": "County commissioners set the county budget and property-tax (millage) rate, adopt land-use and zoning rules, and oversee county services such as roads, parks, libraries, fire/EMS and utilities.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Primary result per ClickOrlando/Spotlight Brevard; write-in opponent per ClickOrlando voter guide (https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-brevard-county-commission-district-4-republican-primary/). Official list: https://www.votebrevard.gov/Candidate-Information/2026-Candidates",
   "candidates": [
     {
@@ -20,17 +20,33 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Brevard County commissioner (District 4) since 2022; political consultant; former director of governmental affairs and public relations, Brevard County Property Appraiser's Office",
       "residence": null,
-      "background": "Incumbent District 4 commissioner.",
+      "background": "Republican Rob Feltner was elected to the District 4 seat (Viera, Melbourne, Rockledge and nearby beaches) in 2022, winning a four-way primary with 55% and the general election against a write-in. Florida Today described him as a political consultant who previously worked at the Brevard County Property Appraiser's Office. In 2026 he won the Republican primary 56.7% to 43.3% over Adam Dyer; he did not answer the News 6/News Collaborative questionnaire.",
       "primary_result": "Won Aug 18 GOP primary with 56.74% (8,765) over Adam Dyer 43.26% (6,682)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Cast the lone vote against the 2026-27 general fund property-tax rate of 3.0942 mills, which exceeded the county charter's revenue cap and required four of five votes; he was the sole 'no' at the July 21 tentative vote, the Sept. 8 tentative budget hearing and the Sept. 22 final hearing, where the levy passed 4-1.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Brevard County Commissioners Approve $2.43 Billion Budget for FY 2026–2027 - Talk of Titusville",
+              "url": "https://talkoftitusville.com/2026/09/24/brevard-county-commissioners-approve-2-43-billion-budget-for-fy-2026-2027-tax-rates-set-amid-infrastructure-emergencies/",
+              "date": "2026-09-24"
+            },
+            {
+              "title": "Brevard County eyes tax hike to fund critical needs - Florida Today (via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/brevard-county-eyes-tax-hike-090332791.html",
+              "date": "2026-09-11"
+            },
+            {
+              "title": "DeSantis Appointee Supplies Crucial Fourth Vote as Brevard Commission Moves to Bust Property-Tax Cap - The Space Coast Rocket",
+              "url": "https://thespacecoastrocket.com/brevard-county-property-tax-increase-pritchett-vote/",
+              "date": "2026-07-22"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -174,7 +190,18 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted with a unanimous commission on May 19, 2026, to place renewal of the half-cent Save Our Indian River Lagoon sales tax on the Nov. 3, 2026 ballot (in 2024 he had opposed putting it on that year's ballot as too early).",
+          "sources": [
+            {
+              "title": "Lagoon tax for another ten years? Brevard voters will decide - Central Florida Public Media",
+              "url": "https://www.cfpublic.org/environment/2026-05-19/lagoon-tax-another-ten-years-brevard-voters-decide",
+              "date": "2026-05-19"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "sources": [
         {

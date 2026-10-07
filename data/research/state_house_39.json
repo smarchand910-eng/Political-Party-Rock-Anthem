@@ -553,7 +553,7 @@
       "website": "https://foxforfl.com/",
       "occupation": "Infectious-disease physician, Orlando Health; Winter Garden",
       "residence": null,
-      "background": "Dr. Jarod Fox, an Orlando Health infectious-disease specialist, is the Democratic nominee against Rep. Doug Bankson. His campaign says it prioritizes lowering health-care costs, funding public education and investing in small businesses (The Apopka Chief, April 8, 2026). His campaign site's priorities page could not be read for this guide because it sits behind a bot-check, so no issue positions are coded; endorsements reported include 314 Action Fund, the Florida Education Association, the Florida AFL-CIO and U.S. Rep. Maxwell Frost.",
+      "background": "Dr. Jarod Fox, an Orlando Health infectious-disease specialist, is the Democratic nominee against Rep. Doug Bankson. His campaign says it prioritizes lowering health-care costs, funding public education and investing in small businesses (The Apopka Chief, April 8, 2026). Endorsements reported include 314 Action Fund, the Florida Education Association, the Florida AFL-CIO and U.S. Rep. Maxwell Frost.",
       "primary_result": null,
       "positions": {
         "taxes": {
@@ -564,25 +564,43 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says property taxes fund schools, public safety and infrastructure, so broad cuts could harm communities; he prefers to focus on insurance costs.",
+          "quote": "Property taxes fund essential local services, including public schools, public safety, and infrastructure, so broad cuts can create consequences for the communities that depend on that revenue.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide (League of Women Voters), State Representative 39: Jarod Fox responses",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129058",
+              "date": "2026-10"
+            }
+          ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Calls property insurance a more urgent problem than property taxes and says the Legislature should lower costs and increase transparency and accountability in the market.",
+          "quote": "The legislature should focus on lowering insurance costs, increasing transparency and accountability in the market, and delivering meaningful relief to homeowners.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide (League of Women Voters), State Representative 39: Jarod Fox responses",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129058",
+              "date": "2026-10"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports fully funding the Sadowski Affordable Housing Trust Fund, giving local governments tools to build workforce housing, help for first-time buyers and protections for renters.",
+          "quote": "I support fully funding the Sadowski Affordable Housing Trust Fund and giving local communities the tools to build more affordable and workforce housing where it is needed most.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide (League of Women Voters), State Representative 39: Jarod Fox responses",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129058",
+              "date": "2026-10"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -592,11 +610,17 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports access to abortion, says decisions should be made by patients and doctors, and says physicians should not face criminal penalties for medically appropriate care.",
+          "quote": "I support access to abortion and believe decisions about pregnancy should be made by a patient in consultation with their doctor, not politicians in Tallahassee.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide (League of Women Voters), State Representative 39: Jarod Fox responses",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129058",
+              "date": "2026-10"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -646,11 +670,17 @@
           ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says Florida has gone too far in preempting local governments and that local leaders should have authority over responsible growth; pledges to work to roll back preemptions.",
+          "quote": "Local leaders understand the needs of their communities and should have the authority to address responsible growth, workforce protections, and other local priorities.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide (League of Women Voters), State Representative 39: Jarod Fox responses",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129058",
+              "date": "2026-10"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -660,11 +690,17 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says that if new documentary proof-of-citizenship rules come, Florida should use existing records, give clear guidance and keep document costs from blocking eligible voters.",
+          "quote": "Every eligible Floridian should be able to exercise their right to vote. If federal law creates new documentary requirements for voter registration, Florida should implement them without creating unnecessary barriers for eligible voters.",
+          "sources": [
+            {
+              "title": "VOTE411 Voter Guide (League of Women Voters), State Representative 39: Jarod Fox responses",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129058",
+              "date": "2026-10"
+            }
+          ]
         },
         "crime": {
           "stance": null,

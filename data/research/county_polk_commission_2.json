@@ -19,18 +19,29 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.rick4polk.com",
+      "occupation": "Cattle rancher and owner of family heavy-equipment business; Polk County commissioner since 2018; former NASCAR driver",
       "residence": "Bartow, Polk County",
       "background": "Lifelong Bartow resident who works in cattle and agriculture; eight years on the commission. Endorsed by Sheriff Grady Judd (per snippet).",
       "primary_result": null,
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "record",
+          "summary": "In November 2023 he was part of the 4-1 majority that declined to put a proposed half-cent sales tax for roads (about $2.1 billion over 20 years) on the ballot. He says the county budget has very little fat and hard choices must be made on priorities.",
+          "quote": "We currently operate with very little fat in our budget, so we would definitely have to roll our sleeves up and make hard decisions based on our priorities.",
+          "sources": [
+            {
+              "title": "Ethics complaint launched with accusations of private bargaining with fellow board members - Winter Haven Sun",
+              "url": "https://www.midfloridanewspapers.com/winter_haven_sun/ethics-complaint-launched-with-accusations-of-private-bargaining-with-fellow-board-members/article_8b90e192-aa52-11ee-8a16-ff1221379988.html",
+              "date": "2024-01-03"
+            },
+            {
+              "title": "Rick Wilson's Record on the Polk County Commission - campaign site (accessed 2026-10-07)",
+              "url": "https://www.rick4polk.com/record",
+              "date": "2026-10-07"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -96,18 +107,40 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "record",
+          "summary": "In March 2022 he was one of three commissioners in a 3-2 vote to put the environmental lands property tax on the ballot; voters approved it, and he chairs the advisory committee that recommends land purchases under the program.",
+          "quote": "I am committed to responsible growth while at the same time being mindful of our need to protect our natural resources",
+          "sources": [
+            {
+              "title": "Polk Commissioners Green Light Environmental Lands Referendum - Ancient Islands (Tom Palmer)",
+              "url": "https://www.ancientislands.org/?p=1850",
+              "date": "2022-03-15"
+            },
+            {
+              "title": "Rick Wilson on Public Safety, Growth and Conservation - campaign site (accessed 2026-10-07)",
+              "url": "https://www.rick4polk.com/issues",
+              "date": "2026-10-07"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Describes himself as supporting 'responsible growth' backed by infrastructure funding and a positive business climate. He notes most new homes are approved by cities, and cites his July 2022 vote to deny a 242-home subdivision in rural Kathleen as incompatible with the area.",
+          "quote": "I believe in responsible growth. Growth that is manageable and makes a positive impact on our county. Responsible growth means supporting infrastructure needs and funding for them.",
+          "sources": [
+            {
+              "title": "Rick Wilson's Record on the Polk County Commission - campaign site (accessed 2026-10-07)",
+              "url": "https://www.rick4polk.com/record",
+              "date": "2026-10-07"
+            },
+            {
+              "title": "Rick Wilson on Public Safety, Growth and Conservation - campaign site (accessed 2026-10-07)",
+              "url": "https://www.rick4polk.com/issues",
+              "date": "2026-10-07"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -124,11 +157,22 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Calls public safety his first priority, describing himself as a strong supporter of law enforcement, fire and emergency services, and says he wants to hire more firefighters and EMS personnel.",
+          "quote": "My priority is now and has always been safety. I am a strong supporter of law enforcement, fire and emergency services.",
+          "sources": [
+            {
+              "title": "Rick Wilson's Record on the Polk County Commission - campaign site (accessed 2026-10-07)",
+              "url": "https://www.rick4polk.com/record",
+              "date": "2026-10-07"
+            },
+            {
+              "title": "Rick Wilson on Public Safety, Growth and Conservation - campaign site (accessed 2026-10-07)",
+              "url": "https://www.rick4polk.com/issues",
+              "date": "2026-10-07"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -175,7 +219,48 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Polk County Sheriff Grady Judd",
+          "sources": [
+            {
+              "title": "Rick Wilson for Polk County Commission, District 2 - campaign site (accessed 2026-10-07)",
+              "url": "https://www.rick4polk.com/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "by": "Polk County Professional Firefighters, IAFF Local 3531",
+          "sources": [
+            {
+              "title": "Rick Wilson's Record on the Polk County Commission - campaign site (accessed 2026-10-07)",
+              "url": "https://www.rick4polk.com/record",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "by": "Business Voice of Greater Lakeland",
+          "sources": [
+            {
+              "title": "Rick Wilson's Record on the Polk County Commission - campaign site (accessed 2026-10-07)",
+              "url": "https://www.rick4polk.com/record",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "by": "Polk County Republican Executive Committee",
+          "sources": [
+            {
+              "title": "The Conservative Case for Rick Wilson - Polk GOP",
+              "url": "https://www.polk.gop/updates/the-conservative-case-for-rick-wilson",
+              "date": "2026-08-16"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Polk County Sample Ballot 2026",

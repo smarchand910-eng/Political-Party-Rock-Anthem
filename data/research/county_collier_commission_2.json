@@ -247,6 +247,73 @@
               "date": "2026-09-18"
             }
           ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His campaign lists preventing 'reckless over-development' as an issue, and his list of first-term actions says he opposed higher housing density to reduce traffic in North Naples (2025) and was the only commissioner to vote against a District 2 high-density apartment project (2023).",
+          "quote": "We cannot allow reckless over-development to rob us of our small-town charm.",
+          "sources": [
+            {
+              "title": "The Issues - Chris Hall for Collier County Commissioner (accessed 2026-10-07)",
+              "url": "https://www.chrishallnaples.com/issues/",
+              "date": "2026-10-07"
+            },
+            {
+              "title": "The Battles - Chris Hall for Collier County Commissioner (accessed 2026-10-07)",
+              "url": "https://www.chrishallnaples.com/battles/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists law enforcement among his issues, saying the county must support officers and is committed to preserving law and order.",
+          "quote": "We must support the men and women who protect us. Collier County is proudly committed to preserving law and order.",
+          "sources": [
+            {
+              "title": "The Issues - Chris Hall for Collier County Commissioner (accessed 2026-10-07)",
+              "url": "https://www.chrishallnaples.com/issues/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Says he will ensure teachers, firefighters and service workers have affordable living options and cites more than 400 affordable units approved in 2024, but says he favors private-sector affordable housing initiatives rather than government intervention and opposed higher density in North Naples. In Feb. 2024 he joined a unanimous vote advancing a developer's application for county money to build affordable housing.",
+          "quote": "Introduced 4 initiatives to create private sector affordable housing options, not government-driven intervention",
+          "sources": [
+            {
+              "title": "The Battles - Chris Hall for Collier County Commissioner (accessed 2026-10-07)",
+              "url": "https://www.chrishallnaples.com/battles/",
+              "date": "2026-10-07"
+            },
+            {
+              "title": "The Issues - Chris Hall for Collier County Commissioner (accessed 2026-10-07)",
+              "url": "https://www.chrishallnaples.com/issues/",
+              "date": "2026-10-07"
+            },
+            {
+              "title": "Collier commission advances affordable housing project that would tap taxpayer money - Naples Daily News (via Yahoo News)",
+              "url": "https://news.yahoo.com/collier-commission-advances-affordable-housing-101614446.html",
+              "date": "2024-02-29"
+            }
+          ]
+        },
+        "veterans": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His campaign lists taking Collier County's concerns about a veterans nursing home to Washington, D.C., in 2025 among his first-term actions.",
+          "quote": "Took Collier Co concerns to D.C. on Veterans Nursing Home, I-75 exit & 404 permits",
+          "sources": [
+            {
+              "title": "The Battles - Chris Hall for Collier County Commissioner (accessed 2026-10-07)",
+              "url": "https://www.chrishallnaples.com/battles/",
+              "date": "2026-10-07"
+            }
+          ]
         }
       },
       "other_issues": [],

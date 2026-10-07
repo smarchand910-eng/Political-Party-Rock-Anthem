@@ -28,7 +28,7 @@
       "website": "https://www.mackbernard.com",
       "occupation": "State Senator",
       "residence": "West Palm Beach, Palm Beach County",
-      "background": "Bernard, a West Palm Beach Democrat and former Palm Beach County commissioner and state representative, won SD 24 unopposed in 2022 and is seeking re-election.",
+      "background": "Bernard, a West Palm Beach Democrat and former Palm Beach County commissioner and state representative, has held SD 24 since the 2024 election, succeeding Sen. Bobby Powell, and is seeking re-election.",
       "primary_result": "No Democratic primary opponent reported (Ballotpedia).",
       "ballot_status": "verified",
       "roster_sources": [
@@ -82,11 +82,27 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "As a Palm Beach County commissioner, Bernard says he championed policies to add workforce and affordable housing, and he was named Housing Hero of the Year by the Housing Leadership Council of Palm Beach County in 2023. In the Senate he voted for CS/CS/SB 1730 (2025), which expanded where affordable and mixed-use housing may be built (passed 37-0).",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida Senate: Senator Mack Bernard, District 24 (Personal & Career)",
+              "url": "https://www.flsenate.gov/Senators/S24",
+              "date": "2026-10"
+            },
+            {
+              "title": "Mack Bernard for State Senate (campaign website, undated; read 2026-10-07)",
+              "url": "https://www.mackbernard.com/",
+              "date": "2026-10"
+            },
+            {
+              "title": "Florida Senate: CS/CS/SB 1730 (2025) Affordable Housing, Senate vote (Returning Messages)",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1730/Vote/SenateVote_s01730e1057.PDF",
+              "date": "2025-04-30"
+            }
+          ]
         },
         "immigration": {
           "stance": -2,
@@ -114,11 +130,22 @@
           "sources": []
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Bernard voted against CS/CS/HB 757 (2026), the school-safety law that lets public colleges and universities join the armed school guardian program and creates a felony for firing a gun within 1,000 feet of a school. It passed the Senate 26-10 on March 11, 2026.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida Senate: CS/CS/HB 757 (2026) School Safety, Senate vote (Third Reading)",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/757/Vote/SenateVote_h00757e1025.PDF",
+              "date": "2026-03-11"
+            },
+            {
+              "title": "Florida Senate: CS/CS/HB 757 (2026) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/757",
+              "date": "2026-05-18"
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -163,18 +190,45 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Bernard voted against CS/HB 1205 (2025), which added new rules and penalties for citizen-initiative petition circulation (final Senate vote 28-9, May 2, 2025), and against CS/CS/HB 991 (2026), which requires election officials to verify and record voters' U.S. citizenship status (passed the Senate 27-12, March 12, 2026).",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida Senate: CS/HB 1205 (2025) Amendments to the State Constitution, Senate vote (Returning Messages)",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1205/Vote/SenateVote_h01205e1010.PDF",
+              "date": "2025-05-02"
+            },
+            {
+              "title": "Florida Senate: CS/CS/HB 991 (2026) Elections, Senate vote (Third Reading)",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/991/Vote/SenateVote_h00991e1004.PDF",
+              "date": "2026-03-12"
+            },
+            {
+              "title": "Florida Senate: CS/CS/HB 991 (2026) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/991",
+              "date": "2026-04-02"
+            }
+          ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Bernard voted for CS/CS/SB 1804 (2025), which created the capital felony of human trafficking of children under 12 or mentally incapacitated persons for sexual exploitation. It passed the Senate 27-11 on April 28, 2025, with Democrats split.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida Senate: CS/CS/SB 1804 (2025) Capital Human Trafficking of Vulnerable Persons for Sexual Exploitation, Senate vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1804/Vote/SenateVote_s01804c2024.PDF",
+              "date": "2025-04-28"
+            },
+            {
+              "title": "Florida Senate: CS/CS/SB 1804 (2025) bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1804",
+              "date": "2025-06-23"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,

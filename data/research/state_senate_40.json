@@ -14,10 +14,9 @@
   ],
   "counties_verified": true,
   "what_it_does": "Represents District 40 in the Florida Senate; votes on state laws and the state budget.",
-  "on_november_ballot": false,
-  "decided_note": "Per a Ballotpedia-derived search snippet, incumbent Ana Maria Rodriguez (R) drew no opponent; the general election was cancelled and she won without appearing on the ballot. CONFLICT: a Wikipedia-derived snippet stated she was term-limited and ineligible - could not be resolved; verify with the Division of Elections.",
+  "on_november_ballot": true,
   "coverage": "partial",
-  "verified_ballot_note": "Ballotpedia snippet: 'the general election was canceled, and Ana Maria Rodriguez (R) won without appearing on the ballot' (https://ballotpedia.org/Florida_State_Senate_District_40). A conflicting Wikipedia-derived snippet said she was ineligible for re-election (https://en.wikipedia.org/wiki/Florida%27s_40th_Senate_district). No other SD 40 candidate surfaced in any search. Research limitation (Sept 2026): Ballotpedia, Wikipedia, dos.fl.gov, floridaelectionwatch.gov, Florida Politics and all news sites were blocked for fetching in this sandbox and the WebSearch budget was capped, so the roster is built only from search-result snippets; write-in/NPA qualifiers could not be checked. Positions are null because no snippet contained an explicit issue statement.",
+  "verified_ballot_note": "On the Nov. 3 ballot. The Florida Division of Elections 2026 general-election candidate list (checked Oct. 7, 2026) shows 3 qualified candidates: Ramiro Orta (No Party Affiliation), Ana Rodriguez (Republican), Jose Stoute (Democrat). An earlier version of this guide marked the seat as decided, based on a report published before candidate qualifying closed on June 12; that was wrong. Source: https://dos.elections.myflorida.com/candidates/CanList.asp",
   "candidates": [
     {
       "id": "ana_maria_rodriguez",
@@ -30,8 +29,8 @@
       "occupation": "State Senator",
       "residence": "Doral, Miami-Dade County",
       "background": "Rodriguez, a Doral Republican, served in the Florida House before winning the Senate in 2020 and re-election in SD 40 in 2022; per Ballotpedia she was re-elected without opposition in 2026.",
-      "primary_result": "Unopposed per Ballotpedia snippet (unverified).",
-      "ballot_status": "reported unopposed; conflicting snippet - verify",
+      "primary_result": "No primary opponent",
+      "ballot_status": "Qualified (Florida Division of Elections candidate list, checked Oct. 7, 2026); faces Jose Stoute (D) and Ramiro Orta (NPA) on Nov. 3",
       "roster_sources": [
         {
           "title": "Florida State Senate District 40 - Ballotpedia",
@@ -503,7 +502,7 @@
       "website": null,
       "occupation": null,
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). A search on Oct. 7, 2026 — campaign materials, the League of Women Voters' Vote411 guide, Ballotpedia's candidate survey and local news coverage — found no public statements on the issues this guide covers.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -531,10 +530,10 @@
       "incumbent": false,
       "photo_url": "assets/photos/jose_stoute.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
-      "website": null,
-      "occupation": null,
+      "website": "https://electstoute.org/",
+      "occupation": "Physician and infectious-disease specialist; professor; retired U.S. Army colonel",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Dr. Jose Stoute is a physician and infectious-disease specialist, a professor and a retired U.S. Army colonel, according to his campaign site. He is running as the Democratic candidate in Senate District 40 (Monroe and part of Miami-Dade) on a platform of affordability, keeping politics out of healthcare and classrooms, and immigration changes. His campaign site is published in English, Spanish, Portuguese and Haitian Creole.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -544,10 +543,35 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "immigration": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Stoute's campaign site calls for leaving U.S. Immigration and Customs Enforcement out of Florida and protecting communities from what it calls fear-based enforcement, and for restoring a fair, functional legal immigration system.",
+          "quote": "Protect communities from fear-based enforcement and keep Florida focused on safety, opportunity, and dignity.",
+          "sources": [
+            {
+              "title": "Jose Stoute for Florida State Senate District 40: The issues that matter (campaign website, undated; read 2026-10-07)",
+              "url": "https://electstoute.org/",
+              "date": "2026-10"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Democratic Environmental Caucus of Florida",
+          "sources": [
+            {
+              "title": "Ballotpedia: Jose Stoute (endorsements)",
+              "url": "https://ballotpedia.org/Jose_Stoute",
+              "date": "2026-10"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

@@ -15,8 +15,8 @@
   "what_it_does": "Represents District 109 (Part of Miami-Dade) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": false,
   "decided_note": "James Bush III (Democratic) is listed as unopposed by the Florida Division of Elections and is elected without appearing on the November ballot. Source: https://dos.elections.myflorida.com/candidates/CanList.asp",
-  "coverage": "roster",
-  "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
+  "coverage": "partial",
+  "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings.",
   "candidates": [
     {
       "id": "james_bush_iii",
@@ -25,10 +25,10 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.jamesbushiii.com/",
+      "occupation": "Educator and minister; former state representative",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Unopposed). Not yet researched.",
+      "background": "James Bush III is a Miami-Dade Democrat who represented House District 109 in 2008-2010 and 2018-2022 (local coverage says he first held the seat in the 1990s). He lost the 2022 and 2024 Democratic primaries to Ashley Gantt and won the four-way Democratic primary on Aug. 18, 2026 with about 49% of the vote. His campaign site describes him as an educator, minister and community advocate and stresses public schools, jobs, seniors and community-centered public safety.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,9 +38,126 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "stance": -1,
+          "confidence": "record",
+          "summary": "As a state representative in 2022 he voted for CS/HB 5, which limited most abortions to the first 15 weeks of pregnancy; it passed the House 78-39 on Feb. 17, 2022. This is a 2022 vote; no current statement on abortion was found.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 5 (2022) passage, Feb. 17, 2022 (Bush-109: Yea)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/5/Vote/HouseVote_h00005c1542.PDF",
+              "date": "2022-02-17"
+            },
+            {
+              "title": "Battle for Miami's District 109: four Democrats duke it out in North Dade showdown (Hoodline)",
+              "url": "https://hoodline.com/2026/07/battle-for-miami-s-district-109-four-democrats-duke-it-out-in-north-dade-showdown/",
+              "date": "2026-07-08"
+            }
+          ]
+        },
+        "lgbtq": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "In 2022 he voted for CS/CS/HB 1557 (Parental Rights in Education), which restricted classroom instruction on sexual orientation and gender identity, and in 2021 for CS/CS/SB 1028, which included the Fairness in Women's Sports Act. These votes predate the 2023 law on gender-affirming care for minors; no current statement was found.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/HB 1557 (2022) passage, Feb. 24, 2022 (Bush-109: Yea)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/1557/Vote/HouseVote_h01557e1564.PDF",
+              "date": "2022-02-24"
+            },
+            {
+              "title": "Florida House roll call, CS/CS/SB 1028 (2021) passage, Apr. 28, 2021 (Bush-109: Yea)",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/1028/Vote/HouseVote_s01028e1389.PDF",
+              "date": "2021-04-28"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "In 2019 he voted for CS/SB 7070, which created the Family Empowerment Scholarship (state-funded private-school scholarships, then income-limited); it passed the House 76-39 on Apr. 30, 2019. No statement on today's universal program was found; his 2026 site lists support for \"public schools, teachers, students, scholarships\".",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/SB 7070 (2019) passage, Apr. 30, 2019 (Bush-109: Yea)",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/7070/Vote/HouseVote_s07070e1304.PDF",
+              "date": "2019-04-30"
+            },
+            {
+              "title": "James Bush III for State Representative, House District 109, campaign website (accessed Oct. 7, 2026)",
+              "url": "https://www.jamesbushiii.com/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "He voted against the House passage of three election bills that added new rules for voting and petitions: CS/SB 7066 (2019, final House vote May 3, 2019), CS/CS/CS/SB 90 (2021, mail-ballot and drop-box limits) and CS/CS/SB 524 (2022, election crimes office). These are 2019-2022 votes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/CS/SB 90 (2021) passage, Apr. 29, 2021 (Bush-109: Nay)",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/90/Vote/HouseVote_s00090e1440.PDF",
+              "date": "2021-04-29"
+            },
+            {
+              "title": "Florida House roll call, CS/CS/SB 524 (2022) passage, Mar. 9, 2022 (Bush-109: Nay)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/524/Vote/HouseVote_s00524e1838.PDF",
+              "date": "2022-03-09"
+            },
+            {
+              "title": "Florida House roll call, CS/SB 7066 (2019) final passage, May 3, 2019 (Bush-109: Nay)",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/7066/Vote/HouseVote_s07066e1372.PDF",
+              "date": "2019-05-03"
+            }
+          ]
+        },
+        "crime": {
+          "stance": -1,
+          "confidence": "record",
+          "summary": "In 2021 he voted against CS/HB 1 (Combating Public Disorder), which created new riot-related offenses and penalties; it passed the House 76-39. His 2026 campaign site describes public safety in terms of \"community-centered approaches that strengthen neighborhoods, reduce violence, improve safety.\"",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 1 (2021) passage, Mar. 26, 2021 (Bush-109: Nay)",
+              "url": "https://www.flsenate.gov/Session/Bill/2021/1/Vote/HouseVote_h00001e1020.PDF",
+              "date": "2021-03-26"
+            },
+            {
+              "title": "James Bush III for State Representative, House District 109, campaign website (accessed Oct. 7, 2026)",
+              "url": "https://www.jamesbushiii.com/",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted against CS/HB 7 (2022, \"Individual Freedom\"), which passed the House 74-41 on Feb. 24, 2022.",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 7 (2022) passage, Feb. 24, 2022 (Bush-109: Nay)",
+              "url": "https://www.flsenate.gov/Session/Bill/2022/7/Vote/HouseVote_h00007e1563.PDF",
+              "date": "2022-02-24"
+            }
+          ]
+        },
+        {
+          "item": "Voted against CS/CS/SB 7030 (2019), which carried out Marjory Stoneman Douglas commission recommendations including letting school districts arm classroom teachers through the guardian program; it passed the House 65-47 on May 1, 2019.",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/SB 7030 (2019) passage, May 1, 2019 (Bush-109: Nay)",
+              "url": "https://www.flsenate.gov/Session/Bill/2019/7030/Vote/HouseVote_s07030e1323.PDF",
+              "date": "2019-05-01"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {

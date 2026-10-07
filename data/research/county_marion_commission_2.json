@@ -9,7 +9,7 @@
     "id": "Marion"
   },
   "what_it_does": "County commissioners set the county budget and property-tax (millage) rate, adopt land-use and zoning rules, and oversee county services such as roads, parks, libraries, fire/EMS and utilities.",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Primary result from WCJB (https://www.wcjb.com/2026/08/19/two-marion-county-commission-primary-races-decided/) and 352today; write-in opponent per ClickOrlando voter guide and Ocala Gazette. Official list: https://www.votemarion.gov/210/Candidates (not directly readable).",
   "candidates": [
     {
@@ -19,8 +19,8 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.mikecrimi.com/",
+      "occupation": "Physician assistant; owner of Express Care of Belleview and Leesburg",
       "residence": null,
       "background": "Marion County resident of more than 50 years. Won the open-seat Republican primary (incumbent Kathy Bryant did not seek re-election); campaign reported raising nearly $120,000.",
       "primary_result": "Won Aug 18 Republican primary with about 55% over Matthew Cretul and Brien Weidemiller (WCJB)",
@@ -103,11 +103,22 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "At a June 2026 forum he said the county needs to stop unchecked growth, which he called 'approval before performance', and in August 2026 said growth should stay inside the urban growth boundary and follow the comprehensive plan to protect farms.",
+          "quote": "We must keep Marion County always Marion County, and any growth should occur within the urban growth boundary and follow the comprehensive plan",
+          "sources": [
+            {
+              "title": "Growth boundaries, horse country unite three candidates in Marion County Commission District 2 race - WCJB",
+              "url": "https://www.wcjb.com/2026/08/07/growth-boundaries-horse-country-unite-three-candidates-marion-county-commission-district-2-race/",
+              "date": "2026-08-07"
+            },
+            {
+              "title": "Three Republicans seek Marion County Commission Seat 2 in August primary - WCJB",
+              "url": "https://www.wcjb.com/2026/06/26/three-republicans-seek-marion-county-commission-seat-2-august-primary/",
+              "date": "2026-06-25"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,

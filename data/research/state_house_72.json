@@ -16,7 +16,7 @@
   "on_november_ballot": true,
   "decided_note": null,
   "coverage": "partial",
-  "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
+  "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings.",
   "candidates": [
     {
       "id": "william_conerly",
@@ -183,7 +183,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "http://electshifrin.com/",
       "occupation": "Attorney and certified public accountant; substitute teacher and adjunct law professor",
       "residence": null,
       "background": "Attorney and certified public accountant with decades of experience in law and finance who has worked with students for 27 years through Odyssey of the Mind and Destination Imagination, served as a substitute teacher and taught as an adjunct professor at John Marshall School of Law.",
@@ -196,7 +196,96 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He said government has limited interest in restricting abortion before viability and called the six-week ban unreasonable. He also said he would work to decriminalize physicians providing medical treatment.",
+          "quote": "I believe that Florida's six-week ban is unreasonable and cruel.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) 2026 general election guide, State Representative 72 (candidate's own answers; accessed Oct. 7, 2026)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129097",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "He opposes Amendment 3, the 2026 measure raising the homestead exemption, saying it limits county spending. He favors shifting the tax burden toward higher-end and investor-owned housing.",
+          "quote": "The current Proposition 3, while reducing taxes by increasing the homestead exemption, is really a poison apple, disguising limitations on counties to spend tax dollars",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) 2026 general election guide, State Representative 72 (candidate's own answers; accessed Oct. 7, 2026)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129097",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "He calls the voucher program disastrous and says he would reform it, improve teacher pay and strengthen public schools. His website calls for \"fair funding by reforming the voucher system.\"",
+          "quote": "I would also work to improve teacher pay (Florida now ranks 50th) and to reform the disastrous voucher program.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) 2026 general election guide, State Representative 72 (candidate's own answers; accessed Oct. 7, 2026)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129097",
+              "date": "2026-10-07"
+            },
+            {
+              "title": "Harvey Shifrin for Florida House District 72, campaign website (accessed Oct. 7, 2026)",
+              "url": "http://electshifrin.com/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He would work to reverse recent state laws limiting local control over development, naming SB 180 and SB 1520, and to restore home rule. He says he is not against development but wants it planned around infrastructure.",
+          "quote": "I am not anti-development, but I believe all development must exist withing a framework of appropriate planning and infrastructure.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) 2026 general election guide, State Representative 72 (candidate's own answers; accessed Oct. 7, 2026)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129097",
+              "date": "2026-10-07"
+            },
+            {
+              "title": "Harvey Shifrin for Florida House District 72, campaign website (accessed Oct. 7, 2026)",
+              "url": "http://electshifrin.com/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He said the state should stop limiting Medicaid availability and invest more in health care, including Medicaid.",
+          "quote": "Florida has been working to limit availability of Medicaid. I believe this should stop. We should be investing more into our healthcare system, including Medicaid availability.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) 2026 general election guide, State Representative 72 (candidate's own answers; accessed Oct. 7, 2026)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129097",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Discussing housing costs, he said a \"national draconian approach to immigration\" has made construction workers scarce. He did not lay out a broader immigration position.",
+          "quote": "Combined with the national draconian approach to immigration, construction workers are scarce, further driving up both the price and the pace of construction.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) 2026 general election guide, State Representative 72 (candidate's own answers; accessed Oct. 7, 2026)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129097",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

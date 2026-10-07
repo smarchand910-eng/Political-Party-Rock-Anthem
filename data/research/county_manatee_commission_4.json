@@ -20,9 +20,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Residential mortgage lender; Manatee County commissioner (District 4) since 2022",
       "residence": null,
-      "background": "Incumbent District 4 commissioner.",
+      "background": "Republican Mike Rahn is a lifelong Manatee/Sarasota resident and U.S. Marine Corps veteran who served in Operation Desert Storm, and has worked in residential mortgage lending for more than 35 years. He is a former president of the Manatee-Sarasota Building Industry Association and former vice chair of the county Planning Commission. Elected in November 2022, he chaired the commission in 2024 and won the August 2026 primary with 67.5%; he faces a write-in candidate in November.",
       "primary_result": "Won Aug 18 GOP primary with 67.47% (4,055)",
       "positions": {
         "taxes": {
@@ -96,18 +96,40 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted in October 2023 with the 5-1 majority to cut the county's wetland buffer requirements to the state minimum, saying he trusted state standards; in April 2025 he cast the lone vote against transmitting a plan amendment to restore the larger local buffers, citing state law (SB 250).",
+          "quote": "I'm a huge fan of protecting our environment, protecting our watersheds and doing the things we need to do to make sure our kids and grandkids have safe drinking water",
+          "sources": [
+            {
+              "title": "Manatee County votes to cut local wetland protections in favor of developer interests - Bradenton Herald (via Yahoo News)",
+              "url": "https://news.yahoo.com/manatee-county-votes-cut-local-201348212.html",
+              "date": "2023-10-05"
+            },
+            {
+              "title": "Commissioners Approve Comp Plan Text Amendment for Transmittal to Reinstate Local Wetland Buffer Requirements - The Bradenton Times",
+              "url": "https://thebradentontimes.com/stories/commissioners-approve-comp-plan-text-amendment-for-transmittal-to-reinstate-local-wetland-buffer,136098",
+              "date": "2025-04-03"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Cast the lone vote on Sept. 2, 2025 against joining the lawsuit challenging SB 180, the state law limiting local development restrictions, preferring to lobby for changes. In August 2024 he voted for a 50% phased impact-fee increase but opposed delaying it to pursue a larger increase, arguing developers pass fees on to buyers.",
+          "quote": "We can join this lawsuit at any time",
+          "sources": [
+            {
+              "title": "Manatee County Votes to Join Growing List of Local Governments in Lawsuit Challenging SB 180 - The Bradenton Times",
+              "url": "https://thebradentontimes.com/stories/manatee-county-votes-to-join-growing-list-of-local-governments-in-lawsuit-challenging-sb-180,158250",
+              "date": "2025-09-02"
+            },
+            {
+              "title": "Manatee County vote increases impact fees. Did developers and homebuyers get a break? - Bradenton Herald (via Yahoo News)",
+              "url": "https://www.yahoo.com/news/manatee-county-vote-increases-impact-095000274.html",
+              "date": "2024-08-19"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -124,11 +146,17 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His official county biography says he believes in supporting the military, law enforcement and first responders.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Commissioner Mike Rahn - Manatee County Government (official biography, accessed 2026-10-07)",
+              "url": "https://www.mymanatee.org/government/government-information/board-of-county-commissioners/commissioners-detail/mike-rahn",
+              "date": "2026-10-07"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,

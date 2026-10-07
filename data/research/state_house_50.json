@@ -602,7 +602,7 @@
       "website": "https://www.rickyfor50.com/",
       "occupation": "Youth sports coach, Lakeland",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified).",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -696,7 +696,7 @@
       "website": null,
       "occupation": null,
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Jarvis Washington, 32, is a Lakeland resident running for House District 50 with no party affiliation. In his 2026 VOTE411 answers he names property insurance and the cost of living, especially housing, as Florida's two most urgent problems.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -706,7 +706,73 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He said he would call an emergency session to stabilize property insurance, combining more state-backed backup coverage and stricter oversight of rate hikes with steps to increase market competition and premium-relief grants for home hardening.",
+          "quote": "expand state‑backed backup insurance, increase market competition, and enforce stricter oversight on rate hikes",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) 2026 general election guide, State Representative 50 (candidate's own answers; accessed Oct. 7, 2026)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128961",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He supports protecting the Sadowski affordable-housing trust fund, fast-tracked permitting and tax incentives for workforce and starter homes, bypassing some local zoning limits, and state subsidies for modular and alternative construction.",
+          "quote": "boost affordable housing by fully protecting the Sadowski Trust Fund, capping large out‑of‑state corporate development, and offering fast‑tracked permitting and tax incentives for local builders",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) 2026 general election guide, State Representative 50 (candidate's own answers; accessed Oct. 7, 2026)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128961",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He supports abortion access for health and life risks, rape or incest, non-viable pregnancies and severe fetal anomalies, and said early-term decisions should be left to a woman and her doctor.",
+          "quote": "I also believe early‑term reproductive decisions should remain between a woman and her doctor, not the government.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) 2026 general election guide, State Representative 50 (candidate's own answers; accessed Oct. 7, 2026)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128961",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "If proof of citizenship becomes required to register, he would waive state fees for the needed records, automate verification across state agencies, and fund navigators to help residents get documents.",
+          "quote": "No eligible voter should be priced out of the ballot box.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) 2026 general election guide, State Representative 50 (candidate's own answers; accessed Oct. 7, 2026)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128961",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "He proposed state-funded premium assistance for families losing federal subsidies and drawing down more federal matching dollars for safety-net hospitals, paired with market-driven steps to expand the health workforce. He did not address Medicaid expansion.",
+          "quote": "By pairing targeted coverage protections for vulnerable populations with market-driven supply expansions, Florida can protect state revenues while ensuring accessible care.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) 2026 general election guide, State Representative 50 (candidate's own answers; accessed Oct. 7, 2026)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128961",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

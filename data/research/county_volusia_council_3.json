@@ -53,11 +53,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists support for more than $80 million in affordable housing initiatives funded by state and federal grants, and a policy allowing accessory structures on residential property to add affordable options for seniors and young families.",
+          "quote": "Supported over $80 million in affordable housing initiatives by using State & Federal grants.",
+          "sources": [
+            {
+              "title": "Common-Sense Solutions - Danny Robins for Volusia County (accessed 2026-10-07)",
+              "url": "https://danny4volusia.com/common-sense-solutions-1",
+              "date": "2026-10-07"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -102,11 +108,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His campaign lists many council votes he supported for water quality and conservation, including septic-to-sewer conversions near the Mosquito Lagoon, more than $124 million in water-quality grants, buying and restoring a 5,578-acre property near Lake Harney, and a policy requiring at least 35% of natural land to be kept when land is developed.",
+          "quote": "Supported policy to preserve at least 35% of natural environment while developing land.",
+          "sources": [
+            {
+              "title": "Common-Sense Solutions - Danny Robins for Volusia County (accessed 2026-10-07)",
+              "url": "https://danny4volusia.com/common-sense-solutions-1",
+              "date": "2026-10-07"
+            }
+          ]
         },
         "growth": {
           "stance": -1,
@@ -141,11 +153,22 @@
           "sources": []
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says he fully funded law enforcement, fire and EMS and backed pay raises for first responders. He also pushed sex-offender distance rules 50% stricter than state law and an inmate subsistence fee.",
+          "quote": "Fully funded our Law Enforcement, Fire Services, EMS transport services.",
+          "sources": [
+            {
+              "title": "Common-Sense Solutions - Danny Robins for Volusia County (accessed 2026-10-07)",
+              "url": "https://danny4volusia.com/common-sense-solutions-1",
+              "date": "2026-10-07"
+            },
+            {
+              "title": "3 candidates vie for Volusia County Council District 3. Who are they? - Daytona Beach News-Journal (via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/3-candidates-vie-volusia-county-174503475.html",
+              "date": "2026-08-12"
+            }
+          ]
         },
         "lgbtq": {
           "stance": null,
@@ -183,14 +206,32 @@
           "sources": []
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists support for a new Veterans Services Facility in Daytona Beach and additional veterans' services, plus a veteran donation and sponsorship program.",
+          "quote": "Supported the New Veterans Services Facility in Daytona Beach and additional services for veterans.",
+          "sources": [
+            {
+              "title": "Common-Sense Solutions - Danny Robins for Volusia County (accessed 2026-10-07)",
+              "url": "https://danny4volusia.com/common-sense-solutions-1",
+              "date": "2026-10-07"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Sept. 23, 2026 debate with Bryon White",
+          "summary": "At a Sept. 23 debate in New Smyrna Beach, Robins said the county is limited in stopping developments in unincorporated areas under state property-rights law but must weigh location, infrastructure and impact fees. He defended not joining the SB 180 lawsuit, saying suing the state could cost Volusia state funding for stormwater projects.",
+          "sources": [
+            {
+              "title": "Robins, White clash on growth, development in County Council debate - Daytona Beach News-Journal (via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/robins-white-clash-growth-development-183902238.html",
+              "date": "2026-09-24"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Campaign materials highlight land conservation, flood-reduction projects and stricter distance requirements for sex offenders as work done during his council term.",

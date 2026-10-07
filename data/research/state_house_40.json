@@ -12,10 +12,9 @@
     "Orange"
   ],
   "what_it_does": "Represents District 40 in the Florida House of Representatives; votes on state laws and the state budget.",
-  "on_november_ballot": false,
-  "decided_note": "Provisional: Florida Politics reported on June 8, 2026 (four days before candidate qualifying closed at noon June 12) that the incumbent had drawn no opponent. Whether anyone qualified in the final days could NOT be verified in this sandbox (Division of Elections, Ballotpedia and Wikipedia were blocked), so treat 'not on ballot' as provisional.",
+  "on_november_ballot": true,
   "coverage": "partial",
-  "verified_ballot_note": "Florida Politics (June 8, 2026) reported incumbent Democratic Rep. Ra'Shon Young was unopposed in HD 40 (D+35; unincorporated Orange County including Pine Hills, Lockhart, Rosemont and Riverside Acres) ahead of the June 12 qualifying deadline (https://floridapolitics.com/archives/800374-with-qualifying-days-away-5-competitive-house-seats-remain-unchallenged/). Final qualifying status not verified. Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
+  "verified_ballot_note": "On the Nov. 3 ballot. The Florida Division of Elections 2026 general-election candidate list (checked Oct. 7, 2026) shows 2 qualified candidates: Tuan Le (Republican), Ra'Shon Young (Democrat). An earlier version of this guide marked the seat as decided, based on a report published before candidate qualifying closed on June 12; that was wrong. Source: https://dos.elections.myflorida.com/candidates/CanList.asp",
   "candidates": [
     {
       "id": "rashon_young",
@@ -24,10 +23,10 @@
       "incumbent": true,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
-      "occupation": null,
+      "website": "https://www.rashonyoung.com/",
+      "occupation": "Entrepreneur; former chief of staff to state Rep. LaVon Bracy Davis",
       "residence": null,
-      "background": "Incumbent Democratic state representative for HD 40 in Orange County. Reported unopposed as of June 8, 2026.",
+      "background": "RaShon Young, born in 1999, is a Bethune-Cookman University graduate who started several businesses, worked in government auditing for the city of Titusville and spent three years as chief of staff to state Rep. LaVon Bracy Davis. He won a September 2, 2025 special election for District 40 and serves on the State Affairs Committee. He has chaired the political action committee of the Orange County NAACP.",
       "primary_result": null,
       "positions": {
         "taxes": {
@@ -56,46 +55,117 @@
           ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His campaign site calls for insurance reform that stabilizes the market, increases transparency, holds companies accountable and ensures claims are paid fairly; it does not mention rate caps or Citizens.",
+          "quote": "That includes stabilizing the insurance market, increasing transparency, holding companies accountable, and ensuring that claims are handled fairly and efficiently.",
+          "sources": [
+            {
+              "title": "RaShon Young for House District 40: Fixing Florida's Property Insurance Crisis",
+              "url": "https://www.rashonyoung.com/blank-1-1-1-1-1",
+              "date": "2026-10"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He says he will fight to cap rent increases and expand affordable housing, and his campaign site calls for more affordable housing supply, protections for renters and holding large investors accountable.",
+          "quote": "I will fight to cap predatory rent increases, expand affordable housing, advocate for paid family leave, and work to raise the minimum wage.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: RaShon Young (2025 special-election survey)",
+              "url": "https://ballotpedia.org/RaShon_Young",
+              "date": "2025-05-04"
+            },
+            {
+              "title": "RaShon Young for House District 40: Making Housing Affordable and Accessible",
+              "url": "https://www.rashonyoung.com/blank-1-1-1-1",
+              "date": "2026-10"
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "record",
+          "summary": "Voted no on HB 197 (Jan. 15, 2026), which would have required all private employers to use E-Verify to check new hires' work eligibility; it passed the House 80-30 and died in the Senate.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida Senate bill page: HB 197 (2026) Employment Eligibility (E-Verify)",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/197",
+              "date": "2026-03-13"
+            },
+            {
+              "title": "House roll call, HB 197 (2026) passage, 80-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/197/Vote/HouseVote_h00197__452.PDF",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Florida 2026 legislative session ends: what passed, what failed, what's next (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-03-13/florida-2026-legislative-session-ends-what-passed-what-failed-whats-next",
+              "date": "2026-03-13"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists reproductive rights and women's health among his policy priorities; in 2026 he voted no on HB 289, a bill to allow wrongful-death suits over an unborn child.",
+          "quote": "Reproductive Rights and Women’s Health",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: RaShon Young (2025 special-election survey)",
+              "url": "https://ballotpedia.org/RaShon_Young",
+              "date": "2025-05-04"
+            },
+            {
+              "title": "House roll call, CS/HB 289 (2026) passage, 76-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/289/Vote/HouseVote_h00289c1449.PDF",
+              "date": "2026-01-15"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "record",
+          "summary": "Voted no on HB 133 (Jan. 15, 2026), which would have lowered the minimum age to buy a rifle from 21 to 18; it passed the House and died in the Senate. He lists gun violence prevention among his policy priorities.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida Senate bill page: HB 133 (2026) Minimum Age for Firearm Purchase or Transfer",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133",
+              "date": "2026-03-13"
+            },
+            {
+              "title": "House roll call, HB 133 (2026) passage, 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Florida 2026 legislative session ends: what passed, what failed, what's next (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-03-13/florida-2026-legislative-session-ends-what-passed-what-failed-whats-next",
+              "date": "2026-03-13"
+            },
+            {
+              "title": "Ballotpedia Candidate Connection survey: RaShon Young (2025 special-election survey)",
+              "url": "https://ballotpedia.org/RaShon_Young",
+              "date": "2025-05-04"
+            }
+          ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His campaign site says the state must expand access to affordable health care, especially in underserved and rural areas, and lower prescription costs; it does not mention Medicaid expansion specifically.",
+          "quote": "I believe we must expand access to affordable, quality healthcare across the state, especially in underserved and rural communities.",
+          "sources": [
+            {
+              "title": "RaShon Young for House District 40: Expanding Access to Affordable Healthcare",
+              "url": "https://www.rashonyoung.com/blank-1-1-1-1-1-1",
+              "date": "2026-10"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -112,11 +182,22 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists climate justice and resilient communities among his priorities, and his campaign site lists protecting the environment as an issue.",
+          "quote": "Climate Justice and Resilient Communities",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: RaShon Young (2025 special-election survey)",
+              "url": "https://ballotpedia.org/RaShon_Young",
+              "date": "2025-05-04"
+            },
+            {
+              "title": "RaShon Young for House District 40: Issues",
+              "url": "https://www.rashonyoung.com/blank-1-1",
+              "date": "2026-10"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -133,25 +214,63 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In his 2025 campaign survey he said his first bill would be a state voting rights act and that he is running to make voting easier. In the House he voted no on CS/CS/HB 991 (2026), the citizenship-verification and voter-ID law, on Feb. 25, 2026, and did not vote on final passage.",
+          "quote": "I’m running to make voting easier, not harder, and to protect our democracy from those who seek to silence it.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: RaShon Young (2025 special-election survey)",
+              "url": "https://ballotpedia.org/RaShon_Young",
+              "date": "2025-05-04"
+            },
+            {
+              "title": "Florida Senate bill page: CS/CS/HB 991 (2026) Elections, Chapter 2026-26",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/991",
+              "date": "2026-04-02"
+            },
+            {
+              "title": "House roll call, CS/CS/HB 991 (2026) third-reading passage, 83-31",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/991/Vote/HouseVote_h00991c2602.PDF",
+              "date": "2026-02-25"
+            },
+            {
+              "title": "House roll call, CS/CS/HB 991 (2026) final passage, 77-28",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/991/Vote/HouseVote_h00991e1847.PDF",
+              "date": "2026-03-12"
+            }
+          ]
         },
         "crime": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Lists criminal justice reform and ending the \"school-to-prison pipeline\" among his policy priorities, and his site lists preventing violence as an issue.",
+          "quote": "Criminal Justice Reform and Ending the School-to-Prison Pipeline",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: RaShon Young (2025 special-election survey)",
+              "url": "https://ballotpedia.org/RaShon_Young",
+              "date": "2025-05-04"
+            },
+            {
+              "title": "RaShon Young for House District 40: Issues",
+              "url": "https://www.rashonyoung.com/blank-1-1",
+              "date": "2026-10"
+            }
+          ]
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Lists LGBTQ+ equality and anti-discrimination protections among his policy priorities; he has not addressed the specific laws on gender-affirming care or classroom instruction.",
+          "quote": "LGBTQ+ Equality and Anti-Discrimination Protections",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: RaShon Young (2025 special-election survey)",
+              "url": "https://ballotpedia.org/RaShon_Young",
+              "date": "2025-05-04"
+            }
+          ]
         },
         "energy": {
           "stance": null,
@@ -187,6 +306,21 @@
             {
               "title": "Roll-call vote",
               "url": "https://www.flsenate.gov/Session/Bill/2026F/1F/Vote/HouseVote_h00001Fc1900.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted no on CS/HB 289 (2026), which would have allowed parents to sue for the wrongful death of an unborn child (excluding the mother and providers of lawful care); passed the House 76-34 on Jan. 15, 2026 and died in the Senate.",
+          "sources": [
+            {
+              "title": "House roll call, CS/HB 289 (2026) passage, 76-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/289/Vote/HouseVote_h00289c1449.PDF",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Florida Senate bill page: CS/HB 289 (2026)",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/289",
+              "date": "2026-03-13"
             }
           ]
         }

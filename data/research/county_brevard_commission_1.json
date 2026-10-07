@@ -187,7 +187,38 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Brevard County Sheriff Wayne Ivey",
+          "sources": [
+            {
+              "title": "Team & Endorsements - Micah Loyd campaign site (accessed 2026-10-07)",
+              "url": "https://www.micahloydcampaign.com/team",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "by": "Debbie Mayfield",
+          "sources": [
+            {
+              "title": "Team & Endorsements - Micah Loyd campaign site (accessed 2026-10-07)",
+              "url": "https://www.micahloydcampaign.com/team",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "by": "Associated Builders and Contractors (ABC) Florida East Coast",
+          "sources": [
+            {
+              "title": "Team & Endorsements - Micah Loyd campaign site (accessed 2026-10-07)",
+              "url": "https://www.micahloydcampaign.com/team",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Election results for Brevard County races in the Florida Primary on Aug. 18, 2026",
@@ -211,7 +242,7 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://voteabookhardt.com/",
-      "occupation": null,
+      "occupation": "Contractor and developer",
       "residence": null,
       "background": "Democratic candidate for Brevard County Commission District 1. His campaign is built on 'Rights, Resources, and Responsibility': taxpayers have a right to see county resources at work in their neighborhood, with commissioners holding department heads accountable for potholes, drainage ditches and easements, plus 'rights to clean water'. No positions on the guide's county issues were stated as of Sept. 18, 2026 (campaign site).",
       "primary_result": null,
@@ -223,7 +254,65 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Proposes requiring every new rental development of 50 or more units to set aside at least 10% of units for workforce and moderate-income households for at least 30 years, with density bonuses and fee reductions for developers, plus streamlining zoning and fast-tracking affordable and tiny-home projects.",
+          "quote": "Require 10% Affordable Units – Every new rental development of 50+ units must set aside at least 10% of its homes for workforce and moderate-income households.",
+          "sources": [
+            {
+              "title": "What We're Hearing - Aldon Bookhardt for Brevard County Commission Seat 1 (accessed 2026-10-07)",
+              "url": "https://voteabookhardt.com/what-were-hearing/",
+              "date": "2026-10-07"
+            },
+            {
+              "title": "Our Priorities - Aldon Bookhardt for Brevard County Commission Seat 1 (accessed 2026-10-07)",
+              "url": "https://voteabookhardt.com/our-priorities/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists protecting the Indian River Lagoon as a priority and proposes independent monthly water testing with every result made public; his campaign also lists 'rights to clean water'.",
+          "quote": "The Indian River Lagoon isn't just nature – it's our economy, our tourism, our home.",
+          "sources": [
+            {
+              "title": "Our Priorities - Aldon Bookhardt for Brevard County Commission Seat 1 (accessed 2026-10-07)",
+              "url": "https://voteabookhardt.com/our-priorities/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Says he does not oppose growth but wants residents heard, proposing evening neighborhood 'community impact meetings' with free childcare for developments over 50 homes; at the same time he proposes cutting red tape and fast-tracking approvals for affordable housing projects.",
+          "quote": "We don't hate growth. We hate growth that ignores us.",
+          "sources": [
+            {
+              "title": "Our Priorities - Aldon Bookhardt for Brevard County Commission Seat 1 (accessed 2026-10-07)",
+              "url": "https://voteabookhardt.com/our-priorities/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "His public-safety plan is community policing with the Brevard County Sheriff, with deputies on bikes and in neighborhoods; he does not address penalties or overall police funding levels.",
+          "quote": "Community policing with Brevard County Sheriff—on bikes, on the ground, and in the community. Not just watching over it. Being part of it.",
+          "sources": [
+            {
+              "title": "Our Priorities - Aldon Bookhardt for Brevard County Commission Seat 1 (accessed 2026-10-07)",
+              "url": "https://voteabookhardt.com/our-priorities/",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": []
@@ -238,7 +327,7 @@
       "website": "https://www.nathanslusher.com/",
       "occupation": "Small-business owner (NRAYS LLC); chair, Libertarian Party of Brevard County",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Libertarian Nathan Slusher is a Titusville native and Titusville High School graduate who owns a maintenance business and chairs the Libertarian Party of Brevard County. He was the Libertarian candidate for the District 1 seat in 2024 and had earlier run for Titusville City Council. His 2026 platform centers on repairing drainage, potholes and other infrastructure during the shortened two-year term.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -272,6 +361,37 @@
               "title": "Nathan Slusher - LPedia (Libertarian Party wiki)",
               "url": "https://lpedia.org/wiki/Nathan_Slusher",
               "date": "2026-09-18"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His platform says Brevard County taxes have only gone up over the last 10 years, that protecting the county's tax cap is the bare minimum, and that government should cut its budget as households have; he calls for ending excessive spending.",
+          "quote": "Protecting The Tax Cap is the absolute bare minimum any candidate should be doing.",
+          "sources": [
+            {
+              "title": "Platform - Nathan Slusher, Libertarian for Brevard County Commission District 1 (accessed 2026-10-07)",
+              "url": "https://www.nathanslusher.com/platform",
+              "date": "2026-10-07"
+            },
+            {
+              "title": "MEET THE CANDIDATES: Race for Brevard County Commission District 1 Seat Features Four Contenders - Space Coast Daily",
+              "url": "https://spacecoastdaily.com/2026/04/meet-the-candidates-race-for-brevard-county-commission-district-1-seat-features-four-contenders/",
+              "date": "2026-04-30"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says he stands with firefighters, the Sheriff's Office, police and emergency management and would ensure staff are properly paid and their facilities kept in good condition. He does not address criminal penalties.",
+          "quote": "I stand with our firefighters, emergency responders, and emergency management. This includes ensuring our staff is properly paid and the infrastructure of their facilities stay in top working condition.",
+          "sources": [
+            {
+              "title": "Platform - Nathan Slusher, Libertarian for Brevard County Commission District 1 (accessed 2026-10-07)",
+              "url": "https://www.nathanslusher.com/platform",
+              "date": "2026-10-07"
             }
           ]
         }

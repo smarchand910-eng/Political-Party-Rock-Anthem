@@ -26,7 +26,7 @@
       "photo_url": "https://www.flhouse.gov/Sections/Representatives/custom/details.aspx?MemberId=4914",
       "photo_source": "Florida House member page (MemberId=4914); image URL not verified",
       "website": "https://erikaboothfl.com",
-      "occupation": null,
+      "occupation": "Educator (two-time Teacher of the Year); former school board member",
       "residence": null,
       "background": "Incumbent Republican state representative for HD 35 (parts of Orange and Osceola counties), first elected in a January 2024 special election and re-elected in November 2024.",
       "primary_result": null,
@@ -96,11 +96,37 @@
           "sources": []
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 759 (March 26, 2025) and voted yes on HB 133 (Jan. 15, 2026); both bills would have lowered the minimum age to buy a rifle from 21 to 18; each passed the House and died in the Senate.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida Senate bill page: HB 759 (2025) Minimum Age for Firearm Purchase or Transfer",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759",
+              "date": "2025-06-16"
+            },
+            {
+              "title": "House roll call, HB 759 (2025) passage, 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Florida Senate bill page: HB 133 (2026) Minimum Age for Firearm Purchase or Transfer",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133",
+              "date": "2026-03-13"
+            },
+            {
+              "title": "House roll call, HB 133 (2026) passage, 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Florida 2026 legislative session ends: what passed, what failed, what's next (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-03-13/florida-2026-legislative-session-ends-what-passed-what-failed-whats-next",
+              "date": "2026-03-13"
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -145,11 +171,37 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on CS/CS/HB 991 when it passed the House on Feb. 25, 2026 and yes on final House passage March 12, 2026. CS/CS/HB 991 (2026), now law (Ch. 2026-26), requires the state to verify voters' U.S. citizenship using driver-license and other government records and removes student and retirement-home IDs from the IDs accepted at the polls. Her campaign site says she is committed to auditing election results and finding new ways to root out fraud.",
+          "quote": "Erika is committed to auditing election results and finding new ways to root out fraud.",
+          "sources": [
+            {
+              "title": "Florida Senate bill page: CS/CS/HB 991 (2026) Elections, Chapter 2026-26",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/991",
+              "date": "2026-04-02"
+            },
+            {
+              "title": "House roll call, CS/CS/HB 991 (2026) third-reading passage, 83-31",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/991/Vote/HouseVote_h00991c2602.PDF",
+              "date": "2026-02-25"
+            },
+            {
+              "title": "House roll call, CS/CS/HB 991 (2026) final passage, 77-28",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/991/Vote/HouseVote_h00991e1847.PDF",
+              "date": "2026-03-12"
+            },
+            {
+              "title": "Florida 2026 legislative session ends: what passed, what failed, what's next (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-03-13/florida-2026-legislative-session-ends-what-passed-what-failed-whats-next",
+              "date": "2026-03-13"
+            },
+            {
+              "title": "Erika Booth for State Representative campaign website (2024 platform, still posted)",
+              "url": "https://erikaboothfl.com",
+              "date": "2026-10"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -159,11 +211,17 @@
           "sources": []
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her campaign site criticizes what it calls \"trans-education in our public schools\" under a heading pledging to protect children from indoctrination, and says she will stand with Gov. DeSantis on the issue.",
+          "quote": "From crippling America’s economy to pushing trans-education in our public schools, his agenda must be stopped.",
+          "sources": [
+            {
+              "title": "Erika Booth for State Representative campaign website (2024 platform, still posted)",
+              "url": "https://erikaboothfl.com",
+              "date": "2026-10"
+            }
+          ]
         },
         "energy": {
           "stance": null,
@@ -212,6 +270,51 @@
             {
               "title": "Roll-call vote",
               "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on CS/HB 1517 (2025), which would have allowed parents to sue for the wrongful death of an unborn child (excluding the mother and providers of lawful care); passed the House 79-32 on April 9, 2025 and died in the Senate.",
+          "sources": [
+            {
+              "title": "House roll call, CS/HB 1517 (2025) passage, 79-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1517/Vote/HouseVote_h01517c1079.PDF",
+              "date": "2025-04-09"
+            },
+            {
+              "title": "Florida Senate bill page: CS/HB 1517 (2025)",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1517",
+              "date": "2025-06-16"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on CS/HB 289 (2026), which would have allowed parents to sue for the wrongful death of an unborn child (excluding the mother and providers of lawful care); passed the House 76-34 on Jan. 15, 2026 and died in the Senate.",
+          "sources": [
+            {
+              "title": "House roll call, CS/HB 289 (2026) passage, 76-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/289/Vote/HouseVote_h00289c1449.PDF",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Florida Senate bill page: CS/HB 289 (2026)",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/289",
+              "date": "2026-03-13"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on final House passage of CS/HB 1205 (2025), the law (Ch. 2025-21) that added new rules, registration requirements and penalties for citizen initiative petition drives; passed 81-30 on May 1, 2025.",
+          "sources": [
+            {
+              "title": "House roll call, CS/HB 1205 (2025) final passage, 81-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1205/Vote/HouseVote_h01205e1403.PDF",
+              "date": "2025-05-01"
+            },
+            {
+              "title": "Florida Senate bill page: CS/HB 1205 (2025)",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1205",
+              "date": "2025-05-05"
             }
           ]
         }

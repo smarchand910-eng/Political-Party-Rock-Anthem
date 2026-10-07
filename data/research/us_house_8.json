@@ -575,7 +575,7 @@
       "website": "https://jenkinsforfl.com/",
       "occupation": "Speech-language pathologist; Brevard County School Board member 2020-2024",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified).",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -599,23 +599,97 @@
             }
           ]
         },
-        "insurance": {
-          "stance": 1,
+        "healthcare": {
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Calls the homeowners-insurance crisis the biggest local problem and proposes a multi-state catastrophe pool and a federal reinsurance program to spread risk.",
-          "quote": "We need a serious, bipartisan approach that recognizes Florida's unique challenges, including a multi-state catastrophe pool and federal reinsurance program to help spread the risk.",
+          "summary": "Jenkins supports protecting Affordable Care Act subsidies, letting Medicare negotiate more drug prices, and expanding Medicaid in Florida.",
+          "quote": "I support allowing Medicare to negotiate more prescription drug prices, protecting Affordable Care Act subsidies that help working families afford coverage, and reducing out-of-pocket costs. Florida should also expand Medicaid.",
           "sources": [
             {
-              "title": "2026 Candidate Questionnaire: Jennifer Jenkins - The Space Coast Rocket",
-              "url": "https://thespacecoastrocket.com/2026-candidate-questionnaire-jennifer-jenkins-u-s-congress-fl-district-8/",
-              "date": "2026-09-18"
+              "title": "Ballotpedia Candidate Connection survey: Jennifer Jenkins (2026)",
+              "url": "https://ballotpedia.org/Jennifer_Jenkins",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "When launching her 2025 U.S. Senate campaign (she later switched to the District 8 race), Jenkins pledged to champion abortion rights, saying she would stand up for safe abortion access.",
+          "quote": "I’m going to stand up for our freedom of speech, for honest education in our classrooms, and for abortion access, safe and healthy abortion access",
+          "sources": [
+            {
+              "title": "Former school board member Jennifer Jenkins announces Senate bid as Democrats eye comeback in Florida (WFLX, 2025)",
+              "url": "https://www.wflx.com/2025/09/10/we-need-fighter-jennifer-jenkins-announces-senate-bid-democrats-eye-comeback-florida/",
+              "date": "2025-09-10"
             }
           ]
         }
       },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Florida AFL-CIO",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Jennifer Jenkins (2026), endorsements answer",
+              "url": "https://ballotpedia.org/Jennifer_Jenkins",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "by": "Florida Education Association",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Jennifer Jenkins (2026), endorsements answer",
+              "url": "https://ballotpedia.org/Jennifer_Jenkins",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "by": "SEIU Florida",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Jennifer Jenkins (2026), endorsements answer",
+              "url": "https://ballotpedia.org/Jennifer_Jenkins",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "by": "Equality Florida Action Inc.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Jennifer Jenkins (2026), endorsements answer",
+              "url": "https://ballotpedia.org/Jennifer_Jenkins",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "by": "National Organization for Women PAC",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Jennifer Jenkins (2026), endorsements answer",
+              "url": "https://ballotpedia.org/Jennifer_Jenkins",
+              "date": "2026-09-28"
+            }
+          ]
+        },
+        {
+          "by": "Vote Mama PAC",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Jennifer Jenkins (2026), endorsements answer",
+              "url": "https://ballotpedia.org/Jennifer_Jenkins",
+              "date": "2026-09-28"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
