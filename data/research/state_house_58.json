@@ -126,6 +126,32 @@
               "date": "2026-09"
             }
           ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Berfield did not return the Times questionnaire. The paper reported that last session she sponsored legislation to expand state oversight of health and property insurers and to provide lot-rental assistance for mobile-home owners.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "The Times reported that Berfield's stated affordability agenda includes incentivizing affordable housing and child care, and that she sponsored a bill providing lot-rental assistance for mobile-home owners.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -297,6 +323,32 @@
               "date": "2026-09"
             }
           ]
+        },
+        "energy": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Beckman told the Times he would remove state and utility barriers to community and plug-in solar and strip the charge for a failed nuclear plant from Duke Energy bills.",
+          "quote": "I am fighting for energy freedom to remove barriers to community and plug-in solar, that will save money for families, schools and businesses.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Beckman said data centers should pay their full costs, meet strong transparency, water and energy standards, and be subject to meaningful local siting control, and that he would reassess taxpayer subsidies for the industry.",
+          "quote": "They should pay their full costs, meet strong transparency, water and energy standards, and be subject to meaningful local siting control.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -329,6 +381,24 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Bryan_Beckman"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
         }
       ]
     }

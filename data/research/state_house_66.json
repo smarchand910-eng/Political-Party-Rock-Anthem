@@ -108,6 +108,45 @@
               "date": "2026-09"
             }
           ]
+        },
+        "healthcare": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Koster said Medicaid expansion would not help those with the greatest needs, would take from the groups most in need and would hurt Florida's budget and other services.",
+          "quote": "Medicaid expansion for working-aged, able-bodied adults takes from those groups most in need and would negatively impact Florida's budget.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Koster said data-center decisions are as much a development question as an AI question and should be left to local governments.",
+          "quote": "I think these development decisions should be left to the local governments.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "On cost of living, Koster said she would protect the insurance reforms already enacted, which she said are bringing more carriers to the market and lowering auto and homeowners rates.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -218,15 +257,15 @@
           ]
         },
         "growth": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "He says growth without infrastructure is a recipe for failure and would require utilities to expand treatment capacity in proportion to newly approved developments.",
-          "quote": "Growth without infrastructure is a recipe for failure.",
+          "summary": "Sanchez Sanchez called for a moratorium on new AI hyperscale data centers and a state and local framework requiring a net-zero impact model.",
+          "quote": "Our natural resources, agricultural lands, and stable electrical grid are not commodities to trade away for unchecked commercial development.",
           "sources": [
             {
-              "title": "Jose 'Dante' Sanchez Sanchez HD 66 platform (campaign PDF)",
-              "url": "https://sanchezsanchezforflorida.com/wp-content/uploads/2026/06/Jose_Dante_Sanchez_Sanchez_HD66_Big6_Platform.pdf",
-              "date": "2026-06"
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         },
@@ -253,6 +292,32 @@
               "title": "Jose 'Dante' Sanchez Sanchez HD 66 platform (campaign PDF)",
               "url": "https://sanchezsanchezforflorida.com/wp-content/uploads/2026/06/Jose_Dante_Sanchez_Sanchez_HD66_Big6_Platform.pdf",
               "date": "2026-06"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Sanchez Sanchez said Florida's refusal to expand Medicaid leaves more than 400,000 children uninsured and that lawmakers should work out how to give everyone in the community access to health care.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Sanchez Sanchez named climate change one of three top issues, called for shifting from reactive disaster relief to long-term mitigation, and said firms that cannot guarantee their infrastructure leaves the environment whole should not be allowed to build.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         }
@@ -283,6 +348,24 @@
       ],
       "record": [],
       "endorsements": []
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
+        }
+      ]
     }
   ]
 }

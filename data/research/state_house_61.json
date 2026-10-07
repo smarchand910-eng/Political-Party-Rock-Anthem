@@ -91,6 +91,45 @@
               "date": "2023-03-17"
             }
           ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "Chaney did not return the Times questionnaire. The paper reported she voted for Senate Bill 484, which requires public disclosure of new data-center projects and lets local governments set stricter land-use rules for them.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "The Times quoted Chaney's campaign site saying the local economy should be revived by lowering taxes and cutting regulations, and that infrastructure can be rebuilt without raising taxes.",
+          "quote": "I know we can rebuild our infrastructure without raising taxes.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Chaney's campaign site, quoted by the Times, lists the environment among her three top priorities: preserving the beaches and protecting water quality, while saying this can be done without interfering in the economics of tourism.",
+          "quote": "We must preserve and protect our pristine beaches, protect our water quality...",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -176,15 +215,15 @@
       ],
       "positions": {
         "insurance": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Her platform calls for holding property insurance companies accountable.",
-          "quote": "holding property insurance companies accountable",
+          "summary": "Thach said she would cap insurance rate hikes, tax insurers' excess profits and return them to policyholders, and expand state-backed universal windstorm coverage.",
+          "quote": "Capping insurance rate hikes. Taxing insurance companies on their excess profits and returning them to policyholders. Expanding our state-backed universal windstorm coverage.",
           "sources": [
             {
-              "title": "May Thach for Florida House (campaign website)",
-              "url": "https://www.maythach.com/",
-              "date": "2026-09"
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         },
@@ -265,6 +304,32 @@
               "date": "2026-09"
             }
           ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Thach told the Times Florida should have a moratorium on the development of any new hyperscale data centers, with regulations on noise, water and electricity use and a role for communities in the approval process.",
+          "quote": "Florida should have a moratorium on the development of any new hyperscale data centers.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Thach said she would raise the minimum wage to $20 an hour and pursue tax reforms closing corporate loopholes so corporations 'pay their fair share,' rather than broad tax cuts.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -274,6 +339,24 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/May_Thach"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
         }
       ]
     }

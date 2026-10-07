@@ -62,32 +62,61 @@
           ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "On property insurance Duda Buckley said she supports building on recent reforms that she said reduced fraud and litigation, encouraging more carriers to compete in Florida, and strengthening mitigation programs such as My Safe Florida Home so homeowners can earn lower rates.",
+          "quote": "I support building on the recent reforms that reduced fraud and frivolous litigation, encouraging more carriers to compete here",
+          "sources": [
+            {
+              "title": "Emily Duda Buckley — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/emily-duda-buckley/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Duda Buckley said affordability comes down to expanding supply and lowering government-added costs. She said she would build on the Live Local Act by streamlining and digitizing permitting with deadlines and automatic approvals, opening zoning tools such as accessory dwelling units, expanding employer-sponsored workforce housing and down-payment assistance, and reducing impact fees and regulatory costs.",
+          "quote": "Affordability comes down to two things: expanding supply and lowering the costs government adds.",
+          "sources": [
+            {
+              "title": "Emily Duda Buckley — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/emily-duda-buckley/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Duda Buckley said she supports enforcing immigration laws, securing the border and state-federal cooperation, while adding that Florida's farms, small businesses and hospitality employers depend on a reliable legal workforce and that enforcement should be paired with improvements to guest-worker and visa programs.",
+          "quote": "I support enforcing our immigration laws, securing the border, and the cooperation between state and federal authorities that keeps our communities safe",
+          "sources": [
+            {
+              "title": "Emily Duda Buckley — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/emily-duda-buckley/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In the Oviedo Community News general-election questionnaire (Sept. 30, 2026) Duda Buckley said she supports Florida's current abortion law and believes it should stay the same, describing the existing limit with exceptions for rape, incest and the life of the mother as a reasonable balance.",
+          "quote": "I support Florida's current law and believe it should stay the same.",
+          "sources": [
+            {
+              "title": "Emily Duda Buckley — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/emily-duda-buckley/",
+              "date": "2026-09-30"
+            },
+            {
+              "title": "Voter Guide – General Election 2026 (Oviedo Community News)",
+              "url": "https://oviedocommunitynews.org/voter-guide-general-election-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -172,11 +201,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Duda Buckley said utility regulators should put ratepayers first, that residential customers should not subsidize the generation, transmission and water capacity data centers require, and that the Public Service Commission should demand transparency and scrutiny in rate cases rather than rubber-stamping increases.",
+          "quote": "I would expect the Public Service Commission to ensure large users pay the full, fair cost of the infrastructure they drive, to demand real transparency and scrutiny in rate cases rather than rubber-stamping increases",
+          "sources": [
+            {
+              "title": "Emily Duda Buckley — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/emily-duda-buckley/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -195,7 +230,38 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Associated Industries of Florida",
+          "sources": [
+            {
+              "title": "Emily Duda Buckley — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/emily-duda-buckley/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "National Federation of Independent Businesses",
+          "sources": [
+            {
+              "title": "Emily Duda Buckley — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/emily-duda-buckley/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Florida Chamber of Commerce",
+          "sources": [
+            {
+              "title": "Emily Duda Buckley — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/emily-duda-buckley/",
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Who's on the Seminole County primary ballot for 2026 (Oviedo Community News)",
@@ -535,7 +601,7 @@
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
-      "website": null,
+      "website": "https://nikdeanforflorida.com",
       "occupation": "Attorney, Seminole County",
       "residence": null,
       "background": "Nikolas 'Nik' Dean, a Seminole County attorney, was chosen by Democratic leaders on Aug. 31, 2026 to replace Michelle DeJesus, who withdrew, as the Democratic nominee for HD 38 (Florida Democratic Party release; Florida Politics). His launch statement focuses on lowering everyday costs, raising wages and safety; no issue-by-issue positions were published as of Sept. 18, 2026.",
@@ -548,7 +614,130 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In the Oviedo Community News general-election questionnaire (Sept. 30, 2026) Dean named home ownership and property insurance as a top problem and said the cost of property insurance should be reduced by capping how much insurers can raise premiums.",
+          "quote": "We also need to decrease the cost of property insurance by capping the amount property insurers can increase premiums.",
+          "sources": [
+            {
+              "title": "Nik Dean — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/nik-dean/",
+              "date": "2026-09-30"
+            },
+            {
+              "title": "Voter Guide – General Election 2026 (Oviedo Community News)",
+              "url": "https://oviedocommunitynews.org/voter-guide-general-election-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Dean said the supply of affordable housing should be increased through what he called smart development, including building new affordable housing and retrofitting underutilized properties, while protecting the county's character and ecosystem.",
+          "quote": "We need to increase the supply of affordable housing through smart development, which includes building new affordable housing solutions and retrofitting underutilized properties.",
+          "sources": [
+            {
+              "title": "Nik Dean — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/nik-dean/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Dean said he would work to expand access to health care and child care through tax incentives for employers that offer comprehensive benefits and would add accountability and transparency to medication pricing so insurers cannot block access to care.",
+          "quote": "No one should have to choose between groceries and medicine.",
+          "sources": [
+            {
+              "title": "Nik Dean — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/nik-dean/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Dean said he will vote No on Amendment 3, saying Floridians need relief but not at the cost of cutting funding for first responders, libraries and police, and that the benefits for homeowners would not reach renters or business owners.",
+          "quote": "I will vote NO. Floridians need relief, but not at the cost of slashing funding to resources like our first responders, libraries and police force.",
+          "sources": [
+            {
+              "title": "Nik Dean — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/nik-dean/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Asked to name the biggest environmental issue in his district, Dean said the destruction of Seminole County's wetlands, saying prioritizing rapid development over wetland preservation increases flood risk and depletes the aquifer.",
+          "quote": "Development must be executed with an intention to protect Florida's ecosystem.",
+          "sources": [
+            {
+              "title": "Nik Dean — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/nik-dean/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Dean said the federal government should deport undocumented immigrants with a history of violent crime and that borders should be secure, but that there must also be a clear pathway to citizenship for other immigrants, and that state funds should not be used to build or run immigration detention facilities.",
+          "quote": "we should not utilize state funds to create and run immigration detention facilities",
+          "sources": [
+            {
+              "title": "Nik Dean — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/nik-dean/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Dean said he supports amending Florida's constitution to codify abortion rights comparable to those under Roe v. Wade and supports a woman's right to choose.",
+          "quote": "I support an amendment to Florida's constitution codifying abortion rights akin to those previously afforded under Roe.",
+          "sources": [
+            {
+              "title": "Nik Dean — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/nik-dean/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Dean said he does not support state preemption as a general principle because local issues require local solutions, and that he would vote to protect Seminole County's voter-approved rural boundary, describing a communal approach to development as necessary.",
+          "quote": "the government's role is to serve the interests of their constituents, not the interests of a few developers",
+          "sources": [
+            {
+              "title": "Nik Dean — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/nik-dean/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "On rising utility costs and data centers, Dean said AI companies should not socialize the cost of added water and energy demand while privatizing the profits, and that legislators should ensure data centers rather than Floridians carry those costs.",
+          "quote": "AI companies cannot socialize the rising costs of utilities and privatize the profits of the data centers creating these rising costs.",
+          "sources": [
+            {
+              "title": "Nik Dean — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/nik-dean/",
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      },
       "other_issues": [
         {
           "topic": "Cost of living",
@@ -596,12 +785,40 @@
               "date": "2026-09-03"
             }
           ]
+        },
+        {
+          "by": "Service Employees International Union Florida State Council (SEIU FL)",
+          "sources": [
+            {
+              "title": "Nik Dean — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/nik-dean/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       ],
       "links": [
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Nik_Dean"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
         }
       ]
     }

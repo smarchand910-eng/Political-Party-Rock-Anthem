@@ -361,5 +361,23 @@
         }
       ]
     }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
+        }
+      ]
+    }
   ]
 }

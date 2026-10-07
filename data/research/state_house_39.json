@@ -179,11 +179,22 @@
           ]
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In the Oviedo Community News general-election questionnaire (Sept. 30, 2026) Bankson said water issues should top the state's environmental list so the aquifer is protected and waterways preserved, and named restoring Lake Apopka as a personal priority. He did not address whether protection should come ahead of development.",
+          "quote": "Water issues should top the list so that our aquifer is protected and our waterways are enjoyed for posterity.",
+          "sources": [
+            {
+              "title": "Doug Bankson — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/doug-bankson-2/",
+              "date": "2026-09-30"
+            },
+            {
+              "title": "Voter Guide – General Election 2026 (Oviedo Community News)",
+              "url": "https://oviedocommunitynews.org/voter-guide-general-election-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -275,7 +286,30 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Vaccines and medical freedom",
+          "summary": "In a Sept. 20, 2026 VoxPopuli story on the District 39 race, Bankson described himself as a 'selective vaxxer' rather than anti-vaccine and said parents should be able to question vaccine requirements. He said he lost trust in medical institutions when COVID-19 vaccines were fast-tracked, questioned the number of childhood shots, and said data he reviewed led him to conclude measles is not a deadly disease.",
+          "sources": [
+            {
+              "title": "House District 39 race reflects fight between public health and medical freedom (VoxPopuli)",
+              "url": "https://www.wintergardenvox.com/articles/house-district-39-race-reflects-fight-between-public-health-and-medical-freedom",
+              "date": "2026-09-20"
+            }
+          ]
+        },
+        {
+          "title": "Data centers, micro-nuclear power and replacing property-tax revenue",
+          "summary": "Bankson said data centers should be required to use closed-loop, net-neutral water systems and to produce their own power, and said he would pursue micro-nuclear generation, which he said could create revenue to help replace reduced property-tax collections. He said he will vote yes on Amendment 3 and listed possible replacement revenue including a trust fund funded by a sales-tax or tourism surcharge.",
+          "sources": [
+            {
+              "title": "Doug Bankson — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/doug-bankson-2/",
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
@@ -408,7 +442,88 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Fraternal Order of Police",
+          "sources": [
+            {
+              "title": "Doug Bankson — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/doug-bankson-2/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Florida Realtors",
+          "sources": [
+            {
+              "title": "Doug Bankson — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/doug-bankson-2/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Florida Family Action",
+          "sources": [
+            {
+              "title": "Doug Bankson — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/doug-bankson-2/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Central Florida Hospitality and Lodging Association",
+          "sources": [
+            {
+              "title": "Doug Bankson — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/doug-bankson-2/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Veterans for America First",
+          "sources": [
+            {
+              "title": "Doug Bankson — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/doug-bankson-2/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Personhood Florida – ProLife PAC",
+          "sources": [
+            {
+              "title": "Doug Bankson — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/doug-bankson-2/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Republican Liberty Caucus of Florida",
+          "sources": [
+            {
+              "title": "Doug Bankson — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/doug-bankson-2/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Stand for Health Freedom",
+          "sources": [
+            {
+              "title": "Doug Bankson — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/doug-bankson-2/",
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Who's on the Seminole County primary ballot for 2026 (Oviedo Community News)",
@@ -610,10 +725,62 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "title": "Vaccines and public health",
+          "summary": "In a Sept. 20, 2026 VoxPopuli story on the District 39 race, Fox, an infectious-disease physician at Orlando Health, said he supports vaccine mandates because about 95% community coverage is needed to stop measles from spreading, and that other countries that dropped mandates could not reach sufficient vaccination rates. He said an individual's decision not to vaccinate affects others, particularly immunocompromised people who cannot be vaccinated. He said he is running in part because no physicians currently serve in the Legislature.",
+          "sources": [
+            {
+              "title": "House District 39 race reflects fight between public health and medical freedom (VoxPopuli)",
+              "url": "https://www.wintergardenvox.com/articles/house-district-39-race-reflects-fight-between-public-health-and-medical-freedom",
+              "date": "2026-09-20"
+            }
+          ]
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Florida Education Association",
+          "sources": [
+            {
+              "title": "Jarod Fox — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/jarod-fox/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Florida AFL-CIO",
+          "sources": [
+            {
+              "title": "Jarod Fox — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/jarod-fox/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Democratic Environmental Caucus of Florida",
+          "sources": [
+            {
+              "title": "Jarod Fox — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/jarod-fox/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Equality Florida Action PAC",
+          "sources": [
+            {
+              "title": "Endorsed Candidates — Equality Florida Action PAC (page last updated 09/10/2026)",
+              "url": "https://eqflpac.org/endorsed-candidates/",
+              "date": "2026-09-10"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Who's on the Seminole County primary ballot for 2026 (Oviedo Community News)",
@@ -630,6 +797,24 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Jarod_Fox"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
         }
       ]
     }

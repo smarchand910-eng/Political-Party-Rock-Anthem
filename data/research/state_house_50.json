@@ -407,7 +407,18 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Polk County Sheriff Grady Judd",
+          "sources": [
+            {
+              "title": "Florida House, District 50 — LkldNow November 2026 Voter Guide",
+              "url": "https://www.lkldnow.com/fl-house-50/",
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Jennifer Canady (Ballotpedia)",
@@ -662,7 +673,18 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "Rainbow Ridge Polk County",
+          "sources": [
+            {
+              "title": "Florida House, District 50 — LkldNow November 2026 Voter Guide",
+              "url": "https://www.lkldnow.com/fl-house-50/",
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "jarvis_washington",
@@ -692,6 +714,24 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Jarvis_Washington"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
         }
       ]
     }

@@ -396,15 +396,147 @@
               "date": "2026-09"
             }
           ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In the Oviedo Community News general-election questionnaire (Sept. 30, 2026) Block said he will vote No on Amendment 3, the property-tax measure, arguing it cuts local revenue with no replacement plan and shifts costs onto fees, renters and small businesses and out of schools, fire rescue and law enforcement. He said he supports targeted relief for seniors and working homeowners instead.",
+          "quote": "Gutting local revenue with no plan to replace it doesn't cut your costs, it just moves them, onto fees, onto renters, onto small businesses, and out of your schools, fire rescue, and law enforcement.",
+          "sources": [
+            {
+              "title": "Darryl Block — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/darryl-block/",
+              "date": "2026-09-30"
+            },
+            {
+              "title": "Voter Guide – General Election 2026 (Oviedo Community News)",
+              "url": "https://oviedocommunitynews.org/voter-guide-general-election-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Asked whether he agrees with current federal and state immigration enforcement, Block said he does not, describing Florida's current approach as cruel and expensive and saying enforcement should focus on people who threaten public safety and respect due process.",
+          "quote": "Real enforcement focuses on people who actually threaten public safety, respects due process, and doesn't treat immigrant families like props in a political fight.",
+          "sources": [
+            {
+              "title": "Darryl Block — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/darryl-block/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Data centers and utility rates",
+          "summary": "Block said companies should have to disclose how much energy and water a data-center project will use and that large users should pay for the plants and lines they need rather than passing costs to residential bills.",
+          "sources": [
+            {
+              "title": "Darryl Block — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/darryl-block/",
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Florida NOW PAC",
+          "sources": [
+            {
+              "title": "Darryl Block — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/darryl-block/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Greater Orlando NOW",
+          "sources": [
+            {
+              "title": "Darryl Block — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/darryl-block/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Rainbow Democrats",
+          "sources": [
+            {
+              "title": "Darryl Block — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/darryl-block/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Democratic Environmental Caucus of Florida",
+          "sources": [
+            {
+              "title": "Darryl Block — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/darryl-block/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Seminole Education Association",
+          "sources": [
+            {
+              "title": "Darryl Block — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/darryl-block/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Moms Demand Action — 2026 Gun Sense Candidate distinction",
+          "sources": [
+            {
+              "title": "Darryl Block — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/darryl-block/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Equality Florida Action PAC",
+          "sources": [
+            {
+              "title": "Endorsed Candidates — Equality Florida Action PAC (page last updated 09/10/2026)",
+              "url": "https://eqflpac.org/endorsed-candidates/",
+              "date": "2026-09-10"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Darryl_Block"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
         }
       ]
     }

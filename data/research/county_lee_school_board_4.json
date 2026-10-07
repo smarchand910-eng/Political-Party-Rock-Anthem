@@ -101,6 +101,17 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "title": "Business experience, vocational training and board endorsements",
+          "summary": "Beougher, a businessman running for office for the first time, told WGCU he would apply business experience to a constrained district budget and would promote vocational training: \"I feel like I can apply some of that business expertise to help with a constrained budget.\" He has endorsements from sitting board members and from the superintendent and says he would still decide questions independently. WGCU reported he had raised about $83,000.",
+          "sources": [
+            {
+              "title": "It's a hotly contested race for a seat on the Lee school board",
+              "url": "https://www.wgcu.org/elections/2026-09-28/its-a-hotly-contested-race-for-a-seat-on-the-lee-school-board",
+              "date": "2026-09-28"
+            }
+          ]
         }
       ],
       "record": [],
@@ -158,9 +169,34 @@
               "date": "2026-07-31"
             }
           ]
+        },
+        "taxes": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In a Sept. 28, 2026 WGCU interview Jordan said she opposed the district's budget because of the scale of the cuts in it. She described herself as fiscally conservative but independent of the superintendent and the rest of the board, and said she decides each question on what is best for students and on what parents tell her.",
+          "quote": "When I am looking at the amount of cuts that were being made...I have a problem with that.",
+          "sources": [
+            {
+              "title": "It's a hotly contested race for a seat on the Lee school board",
+              "url": "https://www.wgcu.org/elections/2026-09-28/its-a-hotly-contested-race-for-a-seat-on-the-lee-school-board",
+              "date": "2026-09-28"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Record and campaign finance",
+          "summary": "Jordan, a retired nonprofit professional, has served nearly eight years on the Lee County School Board. WGCU reported she took about 35 percent of the August primary vote to challenger Tony Beougher's 28 percent, and had raised about $32,000 to his roughly $83,000.",
+          "sources": [
+            {
+              "title": "It's a hotly contested race for a seat on the Lee school board",
+              "url": "https://www.wgcu.org/elections/2026-09-28/its-a-hotly-contested-race-for-a-seat-on-the-lee-school-board",
+              "date": "2026-09-28"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Elected to the Lee County School Board in 2018, taking office in 2019, and re-elected to a second term; currently seeking a third term.",
@@ -199,6 +235,23 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Debbie_Jordan"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-10-03 — Held",
+      "host": "League of Women Voters of Lee County",
+      "who": [
+        "tony_beougher",
+        "debbie_jordan"
+      ],
+      "sources": [
+        {
+          "title": "League of Women Voters planning presentations for amendments, candidates on Nov. 3 ballot",
+          "url": "https://www.wgcu.org/elections/2026-09-23/league-of-women-voters-planning-presentations-for-amendments-candidates-on-nov-3-ballot",
+          "date": "2026-09-23"
         }
       ]
     }

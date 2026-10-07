@@ -51,11 +51,17 @@
       ],
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "The Times reported that Boyd's campaign site says he has advanced broad-based tax cuts to support families and small businesses struggling with inflation.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "property_tax": {
           "stance": 1,
@@ -166,11 +172,17 @@
           ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Boyd did not return the Times questionnaire. The paper reported that during last year's federal government shutdown Boyd said Medicaid expansion is not on the table for him, while adding that he supports helping the Floridians who need help most.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -198,18 +210,30 @@
           ]
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "The Times reported that conserving natural resources is one of three top priorities listed on Boyd's campaign website.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "record",
+          "summary": "The Times reported that Boyd voted for a law that aims in part to keep utilities from passing data-center costs on to residents, and for the Artificial Intelligence Bill of Rights, which died in the House.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -574,11 +598,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Baldi said Florida must accept Medicaid expansion to bring medical costs down and to protect senior health access, nursing homes and hospitals.",
+          "quote": "I would accept Medicaid expansion, protecting our senior health access and protecting nursing homes and hospitals from closing.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -595,20 +625,15 @@
           "sources": []
         },
         "environment": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Puts clean drinking water and protecting coastlines, reefs, wetlands and wildlife at the top of his platform.",
-          "quote": "Safeguarding our coastlines, reefs, wetlands, and wildlife.",
+          "summary": "Baldi named clean water flowing from every faucet his first priority and said he would use a $1 million appropriation to create a department specifically to protect Florida's environment.",
+          "quote": "",
           "sources": [
             {
-              "title": "Gerald Baldi for Florida Senate - Home",
-              "url": "https://www.baldiformanatee.com/",
-              "date": "2026-09-18"
-            },
-            {
-              "title": "Manatee Chamber of Commerce candidate questionnaire - Gerald Baldi",
-              "url": "https://www.manateechamber.com/gerald-baldi/",
-              "date": "2026-08"
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         },
@@ -654,15 +679,15 @@
           "sources": []
         },
         "energy": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Platform calls for helping families lower costs and increase energy independence through affordable solar.",
-          "quote": "Helping families lower costs and increase energy independence.",
+          "summary": "Baldi named affordable energy one of three priorities and said he would develop solar energy co-ops to put solar roofs and panels on every home and building in the district.",
+          "quote": "Affordable energy: develop solar energy co-ops to install solar roofs and panels on every home and building in District 20.",
           "sources": [
             {
-              "title": "Gerald Baldi for Florida Senate - Home",
-              "url": "https://www.baldiformanatee.com/",
-              "date": "2026-09-18"
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         },
@@ -855,6 +880,24 @@
       "record": [],
       "endorsements": [],
       "withdrawn": "Defeated in the Aug. 18, 2026 primary (Florida Division of Elections, 2026 general election candidate list)"
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
+        }
+      ]
     }
   ]
 }

@@ -131,6 +131,32 @@
               "date": "2026-09"
             }
           ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Jacques said he voted for the current law letting counties and cities ban data centers in their communities, which also bars data centers from passing energy costs to consumers and includes water protections.",
+          "quote": "I proudly voted for the current law that allows counties and cities to ban data centers in their communities.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked how Florida should handle Medicaid, Jacques said the focus should be on waste, fraud and abuse rather than on changing eligibility.",
+          "quote": "We should focus on fixing any waste, fraud and abuse in the program.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -265,6 +291,71 @@
               "date": "2026-09"
             }
           ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Leff told the Times Florida should expand Medicaid and close the coverage gap, with simpler enrollment and taxpayer oversight.",
+          "quote": "Florida should expand Medicaid, not cut it.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Leff said she would work to lower property-insurance costs, increase insurer transparency, and oppose unjustified utility rate increases, with public reporting on results.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Leff said she would fully fund affordable-housing programs, and would spend a $1 million appropriation on a District 59 housing-stability initiative covering emergency rent and mortgage assistance, rehabilitation of affordable housing, and homelessness prevention.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Leff said Florida should require strong oversight of AI and data centers, with employment guarantees, a municipal bond or comparable financial guarantee, community input and independent oversight.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Leff said she would oppose unjustified utility rate increases and require measurable public reporting on utility costs.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -308,6 +399,24 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Susan_Leff"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
         }
       ]
     }

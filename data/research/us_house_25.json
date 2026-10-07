@@ -333,6 +333,17 @@
               "date": "2026-09-18"
             }
           ]
+        },
+        {
+          "title": "First general-election television ad, 'Who is Scott Singer'",
+          "summary": "In a 30-second ad that began airing Sept. 30, Singer highlighted cutting tax rates seven times as Boca Raton Mayor and pledged to target fraud and waste in the federal government, prosecute those who commit fraud with taxpayer money, and ban all stock trading by members of Congress. 'Public service should be about serving the public, not personal enrichment,' he said.",
+          "sources": [
+            {
+              "title": "Scott Singer touts tax-cutting record, pitches congressional stock trading ban in debut TV ad for CD 25 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/822514-scott-singer-touts-tax-cutting-record-pitches-congressional-stock-trading-ban-in-debut-tv-ad-for-cd-25/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       ],
       "record": [
@@ -1193,7 +1204,18 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "Dolphin Democrats and the Florida LGBTQ+ Democratic Caucus",
+          "sources": [
+            {
+              "title": "2026 General Election Endorsements & Recommendations (Dolphin Democrats / Florida LGBTQ+ Democratic Caucus)",
+              "url": "https://www.dolphindems.org/uncategorized/2026-general-election-endorsements-recommendations/",
+              "date": "2026-09-28"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "michaelangelo_hamilton",
@@ -1390,6 +1412,17 @@
           "title": "Scott Singer Calls Out Moskowitz For Refusing to Debate on TV (The Floridian)",
           "url": "https://floridianpress.com/2026/09/scott-singer-calls-out-moskowitz-for-refusing-to-debate-on-tv/",
           "date": "2026-09"
+        }
+      ]
+    },
+    {
+      "host": "WPLG Local 10's proposed televised debate remains unaccepted by Moskowitz; nothing new found in the sweep window. (No debate scheduled - unchanged (checked 2026-10-07))",
+      "who": "Scott Singer (R) accepted; Jared Moskowitz (D) has not accepted",
+      "sources": [
+        {
+          "title": "At the Races: Debate demands and dodges (Roll Call)",
+          "url": "https://rollcall.com/2026/10/01/at-the-races-debate-demands-and-dodges/",
+          "date": "2026-10-01"
         }
       ]
     }

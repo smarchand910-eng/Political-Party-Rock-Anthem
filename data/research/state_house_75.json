@@ -180,5 +180,31 @@
       "record": [],
       "endorsements": []
     }
+  ],
+  "events": [
+    {
+      "date": "2026-10-08",
+      "host": "Informed Voter Coalition - nine Charlotte County groups (DKG International Society of Key Women Educators, Indivisible of Southwest Florida, LULAC, NAACP, PFLAG, Social Justice Alliance of Florida Suncoast, Unitarian Universalist Association, Veterans for Common Sense, Zonta Club of Punta Gorda/Port Charlotte); St. Mary's Baptist Church, 605 Mary St., Punta Gorda, 5:30-8:30 p.m. (scheduled)",
+      "who": "Cynthia Butler (D) is listed as attending. Rep. Danny Nix Jr. (R) said he has a conflict and cannot attend. Each candidate gets five minutes, then audience questions.",
+      "sources": [
+        {
+          "title": "Political forums scheduled (The Daily Sun, Englewood)",
+          "url": "https://www.yoursun.com/englewood/news/political-forums-scheduled/article_1b43d135-91fd-4ff1-9f1a-cf78f825a7cd.html",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "host": "Charlotte County Sheriff's Office town hall on Amendment 3, Charlotte County Sheriff's Administration, 3110 Loveland Blvd., Building C, Port Charlotte, 6 p.m. (a single-issue town hall, not a candidate forum) (scheduled)",
+      "who": "Speakers include Sheriff Bill Prummell, state Rep. Danny Nix Jr. (R) and representatives of the Charlotte County administration. Nix's Democratic opponent Cynthia Butler is not listed.",
+      "sources": [
+        {
+          "title": "Political forums scheduled (The Daily Sun, Englewood)",
+          "url": "https://www.yoursun.com/englewood/news/political-forums-scheduled/article_1b43d135-91fd-4ff1-9f1a-cf78f825a7cd.html",
+          "date": "2026-10-06"
+        }
+      ]
+    }
   ]
 }

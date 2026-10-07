@@ -57,11 +57,17 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Silvers opposes Amendment 3, saying services such as fire and rescue would be harmed and that a city needing another ambulance because of population growth might not be able to afford one, increasing emergency response times.",
+          "quote": "I don't think anybody wants to pay more taxes. I don't think a lot of people are looking down the road and asking, 'How is it going to impact my safety?'",
+          "sources": [
+            {
+              "title": "2026 midterms: Roth vs. Silvers for Florida Senate (WLRN/Stet News Palm Beach)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-02/2026-midterms-roth-vs-silvers-for-florida-senate",
+              "date": "2026-10-02"
+            }
+          ]
         },
         "insurance": {
           "stance": 1,
@@ -82,18 +88,35 @@
           ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Silvers said he will prioritize workforce housing to increase the supply of homes affordable to Floridians, and lists affordable housing among the issues he worked on in the House.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Rick Roth, David Silvers Face Off In Senate District 26 Race (Town-Crier)",
+              "url": "https://gotowncrier.com/2026/10/rick-roth-david-silvers-face-off-in-senate-district-26-race/",
+              "date": "2026-10-02"
+            },
+            {
+              "title": "2026 midterms: Roth vs. Silvers for Florida Senate (WLRN/Stet News Palm Beach)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-02/2026-midterms-roth-vs-silvers-for-florida-senate",
+              "date": "2026-10-02"
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Silvers described the detention of a friend's relative who was in the United States on temporary status, saying the people being detained are not criminals.",
+          "quote": "Only the attorney for the individual can speak to the individual. It is really horrific what they are doing... These are not criminals. These are individuals that are paying taxes and are law-abiding citizens.",
+          "sources": [
+            {
+              "title": "2026 midterms: Roth vs. Silvers for Florida Senate (WLRN/Stet News Palm Beach)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-02/2026-midterms-roth-vs-silvers-for-florida-senate",
+              "date": "2026-10-02"
+            }
+          ]
         },
         "abortion": {
           "stance": 2,
@@ -260,7 +283,30 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Data centers",
+          "summary": "Silvers said industry experts told him Florida is not suited to data centers because of its weather, thunderstorms, hurricanes and heat: 'It doesn't make sense to put them in Florida.'",
+          "sources": [
+            {
+              "title": "2026 midterms: Roth vs. Silvers for Florida Senate (WLRN/Stet News Palm Beach)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-02/2026-midterms-roth-vs-silvers-for-florida-senate",
+              "date": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "title": "Property insurance approach",
+          "summary": "Silvers said property insurance is a large part of the affordability problem and that the answer is more private insurers to give homeowners choices, plus more investigation of complaints by the Office of Insurance Regulation so companies are held accountable when they do not pay claims.",
+          "sources": [
+            {
+              "title": "Rick Roth, David Silvers Face Off In Senate District 26 Race (Town-Crier)",
+              "url": "https://gotowncrier.com/2026/10/rick-roth-david-silvers-face-off-in-senate-district-26-race/",
+              "date": "2026-10-02"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
@@ -391,6 +437,51 @@
               "url": "https://www.flsenate.gov/Session/Bill/2024/1645/Vote/HouseVote_h01645e1973.PDF"
             }
           ]
+        },
+        {
+          "item": "Silvers sponsored a 2020 law establishing de-escalation protocols for Mobile Response Teams at schools, aimed at preventing unnecessary or traumatic Baker Act initiations for children, and bills requiring mental health facilities receiving minors under the Baker Act to begin a medical evaluation within 12 hours and allowing school districts to use mobile response units and crisis stabilization as a first line of help.",
+          "sources": [
+            {
+              "title": "2026 midterms: Roth vs. Silvers for Florida Senate (WLRN/Stet News Palm Beach)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-02/2026-midterms-roth-vs-silvers-for-florida-senate",
+              "date": "2026-10-02"
+            },
+            {
+              "title": "Rick Roth, David Silvers Face Off In Senate District 26 Race (Town-Crier)",
+              "url": "https://gotowncrier.com/2026/10/rick-roth-david-silvers-face-off-in-senate-district-26-race/",
+              "date": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "item": "Silvers co-sponsored the 2019 expansion of Florida's 911 Good Samaritan Act, which protects people under 21 from arrest and prosecution for drinking and drug possession during a medical emergency.",
+          "sources": [
+            {
+              "title": "2026 midterms: Roth vs. Silvers for Florida Senate (WLRN/Stet News Palm Beach)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-02/2026-midterms-roth-vs-silvers-for-florida-senate",
+              "date": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "item": "In 2024 Silvers worked on legislation establishing the Office of Children's Behavioral Health Ombudsman within the Department of Children and Families and requiring that parents be informed when minors are transported to behavioral health facilities. He also worked on changes to the Adult Protective Services Act requiring securities dealers and investment advisers to report abuse, neglect or exploitation of vulnerable adults, and sponsored legislation letting approved apprenticeship and pre-apprenticeship programs count toward high school graduation requirements.",
+          "sources": [
+            {
+              "title": "2026 midterms: Roth vs. Silvers for Florida Senate (WLRN/Stet News Palm Beach)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-02/2026-midterms-roth-vs-silvers-for-florida-senate",
+              "date": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "item": "Silvers says he secured $40 million in appropriations during his eight years in the Florida House.",
+          "sources": [
+            {
+              "title": "Rick Roth, David Silvers Face Off In Senate District 26 Race (Town-Crier)",
+              "url": "https://gotowncrier.com/2026/10/rick-roth-david-silvers-face-off-in-senate-district-26-race/",
+              "date": "2026-10-02"
+            }
+          ]
         }
       ],
       "endorsements": [],
@@ -428,25 +519,52 @@
       ],
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Roth said government spends too much money and that conservative-oriented policy is needed, and campaigns on responsible fiscal management and property tax relief.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Rick Roth, David Silvers Face Off In Senate District 26 Race (Town-Crier)",
+              "url": "https://gotowncrier.com/2026/10/rick-roth-david-silvers-face-off-in-senate-district-26-race/",
+              "date": "2026-10-02"
+            },
+            {
+              "title": "2026 midterms: Roth vs. Silvers for Florida Senate (WLRN/Stet News Palm Beach)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-02/2026-midterms-roth-vs-silvers-for-florida-senate",
+              "date": "2026-10-02"
+            }
+          ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Roth said he favors Amendment 3, the November ballot measure raising the homestead exemption for non-school taxes, and that property tax relief is needed, while acknowledging it would hit poorer counties with lower property values hardest.",
+          "quote": "I just want a government we can afford. No one cuts payroll or taxes unless they are forced to.",
+          "sources": [
+            {
+              "title": "2026 midterms: Roth vs. Silvers for Florida Senate (WLRN/Stet News Palm Beach)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-02/2026-midterms-roth-vs-silvers-for-florida-senate",
+              "date": "2026-10-02"
+            },
+            {
+              "title": "Rick Roth, David Silvers Face Off In Senate District 26 Race (Town-Crier)",
+              "url": "https://gotowncrier.com/2026/10/rick-roth-david-silvers-face-off-in-senate-district-26-race/",
+              "date": "2026-10-02"
+            }
+          ]
         },
         "insurance": {
-          "stance": -1,
+          "stance": 0,
           "confidence": "record",
-          "summary": "Voted for SB 2-A (Dec. 2022), the December 2022 property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program, a market-based approach; a vote for it is coded as leaning against more direct state intervention.",
-          "quote": null,
+          "summary": "Mixed. Roth voted for SB 2-A in December 2022, the market-based property-insurance law that ended one-way attorney fees and assignment of benefits and created a state reinsurance program. His 2026 remedies pull both ways: he backs penalising insurers that fail to pay claims, which is stricter regulation, and separately legislation to encourage more competition in the industry to bring prices down, which is not.",
+          "quote": "",
           "sources": [
+            {
+              "title": "Rick Roth, David Silvers Face Off In Senate District 26 Race (Town-Crier)",
+              "url": "https://gotowncrier.com/2026/10/rick-roth-david-silvers-face-off-in-senate-district-26-race/",
+              "date": "2026-10-02"
+            },
             {
               "title": "SB 2-A (Dec. 2022) bill page - The Florida Senate",
               "url": "https://www.flsenate.gov/Session/Bill/2022A/2A",
@@ -460,11 +578,22 @@
           ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Roth said affordable housing is a major issue and that he supports building more of it, citing his work on 2021 changes that stopped the Legislature sweeping money out of the Sadowski Trust Fund; he said the money should be distributed where it is most needed.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 midterms: Roth vs. Silvers for Florida Senate (WLRN/Stet News Palm Beach)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-02/2026-midterms-roth-vs-silvers-for-florida-senate",
+              "date": "2026-10-02"
+            },
+            {
+              "title": "Rick Roth, David Silvers Face Off In Senate District 26 Race (Town-Crier)",
+              "url": "https://gotowncrier.com/2026/10/rick-roth-david-silvers-face-off-in-senate-district-26-race/",
+              "date": "2026-10-02"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -538,11 +667,22 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Roth said overdevelopment is one of the area's most pressing issues, that there should be impact fees on new residents, and that he will push to restore the pre-2012 concurrency formula so roads are built as homes are built. He also said agricultural land should be conserved to avoid urban sprawl.",
+          "quote": "We are not building roads as fast as people are moving into Florida. We need to fund the infrastructure. There should be impact fees on new residents.",
+          "sources": [
+            {
+              "title": "2026 midterms: Roth vs. Silvers for Florida Senate (WLRN/Stet News Palm Beach)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-02/2026-midterms-roth-vs-silvers-for-florida-senate",
+              "date": "2026-10-02"
+            },
+            {
+              "title": "Rick Roth, David Silvers Face Off In Senate District 26 Race (Town-Crier)",
+              "url": "https://gotowncrier.com/2026/10/rick-roth-david-silvers-face-off-in-senate-district-26-race/",
+              "date": "2026-10-02"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -647,6 +787,28 @@
               "title": "(Video) David Silvers Is Running Against a Man Who Says Trump Is Doing a Great Job",
               "url": "https://indivisiblebocaraton1.substack.com/p/video-david-silvers-is-running-against",
               "date": "2026-09-23"
+            }
+          ]
+        },
+        {
+          "title": "Data centers",
+          "summary": "Roth said he opposes data centers unless they provide some of their own power and water: 'I am totally against data centers until we figure it all out.'",
+          "sources": [
+            {
+              "title": "2026 midterms: Roth vs. Silvers for Florida Senate (WLRN/Stet News Palm Beach)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-02/2026-midterms-roth-vs-silvers-for-florida-senate",
+              "date": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "title": "Immigration enforcement and farm labor",
+          "summary": "Roth said increased immigration enforcement has not affected his seasonal farm because it qualifies for H-2A workers, and that the H-2A program should be expanded to the nursery and landscape, dairy and beef cattle industries, which operate year-round and do not qualify. He said solutions can come from Congress once the illegal immigrant population returns to pre-2020 levels, and his advice to workers is 'If you like your job, keep your job. The state E-Verify requirement only applies to new hires.'",
+          "sources": [
+            {
+              "title": "2026 midterms: Roth vs. Silvers for Florida Senate (WLRN/Stet News Palm Beach)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-02/2026-midterms-roth-vs-silvers-for-florida-senate",
+              "date": "2026-10-02"
             }
           ]
         }
@@ -783,7 +945,28 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "President Donald Trump",
+          "sources": [
+            {
+              "title": "Rick Roth, David Silvers Face Off In Senate District 26 Race (Town-Crier)",
+              "url": "https://gotowncrier.com/2026/10/rick-roth-david-silvers-face-off-in-senate-district-26-race/",
+              "date": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "by": "Conservative Political Action Conference",
+          "sources": [
+            {
+              "title": "Rick Roth, David Silvers Face Off In Senate District 26 Race (Town-Crier)",
+              "url": "https://gotowncrier.com/2026/10/rick-roth-david-silvers-face-off-in-senate-district-26-race/",
+              "date": "2026-10-02"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -797,11 +980,18 @@
       "date": "2026-10-05",
       "sources": [
         {
-          "title": "(Video) David Silvers Is Running Against a Man Who Says Trump Is Doing a Great Job",
-          "url": "https://indivisiblebocaraton1.substack.com/p/video-david-silvers-is-running-against",
-          "date": "2026-09-23"
+          "title": "TOMORROW! Meet Wendy Sartory Link and David Silvers — Indivisible Boca Raton",
+          "url": "https://indivisiblebocaraton1.substack.com/p/tomorrow-meet-wendy-sartory-link",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "Upcoming Events You Can't Miss — Indivisible Boca Raton",
+          "url": "https://indivisiblebocaraton1.substack.com/p/upcoming-events-you-cant-miss",
+          "date": "2026-10"
         }
-      ]
+      ],
+      "host": "Indivisible Boca Raton, Dr. Andre Fladell Civic Center, 16700 Jog Road, Delray Beach, 6:00-7:30 p.m. (held)",
+      "who": "State Rep. David Silvers (D), Senate District 26 nominee, as special guest; Palm Beach County Supervisor of Elections Wendy Sartory Link as keynote speaker"
     }
   ]
 }

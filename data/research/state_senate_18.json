@@ -50,11 +50,17 @@
       ],
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "DiCeglie said he would keep Florida economically competitive by cutting red tape and holding the line on taxes, and that he sponsored legislation making it harder to raise taxes and a first Senate bill delivering a toll rebate.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "property_tax": {
           "stance": 1,
@@ -165,11 +171,17 @@
           ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "DiCeglie said he does not support expanding Medicaid under the Affordable Care Act, favoring instead protecting coverage for the truly vulnerable, rooting out fraud and waste and expanding market-based options and price transparency.",
+          "quote": "I do not support expanding Medicaid under the Affordable Care Act, which would move more Floridians into a strained government program and add to the burden on taxpayers.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -197,18 +209,30 @@
           ]
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "DiCeglie listed strengthening storm resiliency among his three priorities and said he would spend a $1 million appropriation hardening stormwater and drainage infrastructure in flood-prone coastal Pinellas neighborhoods.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "DiCeglie said he strongly supported Sen. Avila's data-center bill, which sought to keep ratepayers and local communities from bearing data centers' utility costs, while keeping Florida competitive for technology investment.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -502,11 +526,17 @@
           ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Kemp listed restoring people's rights, including minority protections and requiring immigration to be processed under the Constitution, among her three top priorities.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "abortion": {
           "stance": 2,
@@ -549,11 +579,22 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Kemp named rebuilding the public education system a top priority, with a full curriculum including arts and music, well-paid teachers and proper staffing, and her website calls for treating learning as a public good; she does not call for expanding voucher programs.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            },
+            {
+              "title": "Karla Kemp won't call herself a socialist in public. In private, she's a 'hardcore Bernie and AOC fan' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/822733-if-a-blue-wave-is-coming-to-florida-it-looks-likely-to-skip-nick-diceglies-sd-18/",
+              "date": "2026-10-01"
+            }
+          ]
         },
         "environment": {
           "stance": 2,
@@ -569,11 +610,17 @@
           ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Kemp said data centers poison water, consume enormous amounts of energy and destroy the environment, and must be regulated if not blocked entirely.",
+          "quote": "Data centers/AI most certainly MUST be regulated if not blocked entirely.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -637,9 +684,61 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Describes her platform as 'European Socialist Democrat'",
+          "summary": "Florida Politics published a Sept. 14 email exchange, verified with the voter who received it, in which Kemp wrote 'I strongly endorse a European Socialist Democrat platform' while saying she does not agree with 'the branch that likes to be involved in the DSA organization that promotes the Communist platform.' She described herself as 'most definitely a Progressive' and 'a hardcore Bernie and AOC fan,' and said she chooses not to classify herself publicly because it 'pigeonholes you.' Her website does not mention the Democratic Socialists of America.",
+          "sources": [
+            {
+              "title": "Karla Kemp won't call herself a socialist in public. In private, she's a 'hardcore Bernie and AOC fan' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/822733-if-a-blue-wave-is-coming-to-florida-it-looks-likely-to-skip-nick-diceglies-sd-18/",
+              "date": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "title": "Campaign finances and compliance questions",
+          "summary": "Florida Politics reported that as of Sept. 18 Kemp had raised under $5,000 with $215 on hand, against six figures available to DiCeglie, that her website's candidate disclaimer uses her former congressional committee name rather than her legal name, and that her finance reports contain entries that appear to be gas expenditures listed as contributions.",
+          "sources": [
+            {
+              "title": "Karla Kemp won't call herself a socialist in public. In private, she's a 'hardcore Bernie and AOC fan' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/822733-if-a-blue-wave-is-coming-to-florida-it-looks-likely-to-skip-nick-diceglies-sd-18/",
+              "date": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "title": "Minimum wage and a rape-crisis appropriation",
+          "summary": "Kemp told the Tampa Bay Times she would raise the minimum wage to what it should have been based on cost-of-living adjustments, break up monopolies in power and groceries, and spend a $1 million appropriation creating an overnight rape-crisis response and rape-kit processing service in emergency rooms.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
+        }
+      ]
     }
   ]
 }

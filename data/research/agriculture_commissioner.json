@@ -208,24 +208,14 @@
         },
         "environment": {
           "stance": 1,
-          "confidence": "stated",
-          "summary": "Emphasizes conservation of farmland and the Florida Wildlife Corridor (he cites $300 million-plus for corridor easements and a 243% increase in farmland preserved) and opposes development on agricultural land, while framing farmers as 'Florida's first environmentalists.' Wikipedia notes he supported a 2022 measure allowing utilities to charge rooftop-solar customers new fees.",
-          "quote": "Farmers are Florida's first environmentalists.",
+          "confidence": "record",
+          "summary": "On Sept. 29 and Oct. 1, 2026 Simpson announced that the Governor and Cabinet had approved new Rural and Family Lands Protection Program easements permanently barring development on working farmland, taking the program past 251,000 acres. He described the easements as conservation that keeps land in private ownership and on the tax rolls rather than regulation or state acquisition.",
+          "quote": "By permanently protecting working agricultural lands while keeping them in private ownership, we're protecting Florida's food supply and our rural way of life without taking the land off the tax rolls or creating new costs for the state.",
           "sources": [
             {
-              "title": "Wilton Simpson campaign site - Environment",
-              "url": "https://wiltonsimpson.com/environment/",
-              "date": "2026"
-            },
-            {
-              "title": "Wilton Simpson campaign site - Agriculture",
-              "url": "https://wiltonsimpson.com/agriculture/",
-              "date": "2026"
-            },
-            {
-              "title": "Wilton Simpson - Wikipedia (career and positions, with citations)",
-              "url": "https://en.wikipedia.org/wiki/Wilton_Simpson",
-              "date": null
+              "title": "Commissioner Wilton Simpson Announces Protection of Over 4,500 Acres of Agricultural Land Through Rural and Family Lands Protection Program",
+              "url": "https://www.fdacs.gov/News-Events/Press-Releases/2026-Press-Releases/Commissioner-Wilton-Simpson-Announces-Protection-of-Over-4-500-Acres-of-Agricultural-Land-Through-Rural-and-Family-Lands-Protection-Program",
+              "date": "2026-09-29"
             }
           ]
         },
@@ -661,6 +651,36 @@
               "title": "Press Releases - Florida Department of Agriculture and Consumer Services",
               "url": "https://www.fdacs.gov/News-Events/Press-Releases",
               "date": "2026-09-21"
+            }
+          ]
+        },
+        {
+          "item": "Sept. 29, 2026: Simpson announced the Governor and Cabinet, sitting as trustees of the Internal Improvement Trust Fund, approved easements protecting more than 4,500 acres of working agricultural land, a milestone taking the Rural and Family Lands Protection Program past 251,000 acres preserved (nearly 186,000 of them during his administration).",
+          "sources": [
+            {
+              "title": "Commissioner Wilton Simpson Announces Protection of Over 4,500 Acres of Agricultural Land Through Rural and Family Lands Protection Program",
+              "url": "https://www.fdacs.gov/News-Events/Press-Releases/2026-Press-Releases/Commissioner-Wilton-Simpson-Announces-Protection-of-Over-4-500-Acres-of-Agricultural-Land-Through-Rural-and-Family-Lands-Protection-Program",
+              "date": "2026-09-29"
+            }
+          ]
+        },
+        {
+          "item": "Oct. 1, 2026: Simpson announced the permanent protection of Walter Farms, a nearly 375-acre cow/calf operation in Polk County, through a $3,005,000 rural lands protection easement, $750,000 of it paid by Polk County.",
+          "sources": [
+            {
+              "title": "Commissioner Wilton Simpson Announces Permanent Protection of Polk County Farm Through Rural and Family Lands Protection Program",
+              "url": "https://www.fdacs.gov/News-Events/Press-Releases/2026-Press-Releases/Commissioner-Wilton-Simpson-Announces-Permanent-Protection-of-Polk-County-Farm-Through-Rural-and-Family-Lands-Protection-Program",
+              "date": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "item": "Oct. 1, 2026: The department invited students to enter the Florida Farm to School essay and art contests.",
+          "sources": [
+            {
+              "title": "2026 Press Releases (index) - Commissioner Wilton Simpson Invites Students to Enter Florida Farm to School Essay and Art Contests",
+              "url": "https://www.fdacs.gov/News-Events/Press-Releases/2026-Press-Releases",
+              "date": "2026-10-01"
             }
           ]
         }
@@ -1109,6 +1129,20 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Joey_Mendoza_Atkins"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or forum has been scheduled in this race (checked Oct. 7, 2026)",
+      "who": "No agriculture commissioner debate or joint forum between Simpson and Atkins has been scheduled; none was found newly agreed through Oct. 7, 2026.",
+      "sources": [
+        {
+          "title": "Florida could go without debates in any general election statewide political race",
+          "url": "https://www.wusf.org/politics-issues/2026-09-22/florida-no-debates-general-election-statewide-political-race",
+          "date": "2026-09-22"
         }
       ]
     }

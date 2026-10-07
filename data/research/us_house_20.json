@@ -13,7 +13,7 @@
   ],
   "what_it_does": "Represents Florida's 20th Congressional District in the U.S. House of Representatives; votes on federal laws and spending.",
   "coverage": "partial",
-  "verified_ballot_note": "Regular (full-term) election for the newly drawn CD 20. Roster from CBS Miami, WSVN and WLRN: Debbie Wasserman Schultz (D) faces Republican nominee Brent Andersen and NPA candidate Kedner Maxime; Kevin McClellan filed as a write-in (CBS Miami; a Ballotpedia snippet lists him as NPA, so his ballot status should be checked against the county sample ballot). Special election: the seat has been vacant since Rep. Sheila Cherfilus-McCormick resigned Apr. 21, 2026. CBS Miami reported Gov. DeSantis scheduled a special primary for Aug. 18, 2026 with the winner advancing to the Nov. 3 general election, under the pre-2026 district lines; the special-election nominees were not identified in this research, so voters in the old CD 20 may see two CD 20 contests on Nov. 3. Sources: https://www.cbsnews.com/miami/news/2026-florida-primary-district-20-republican-brent-andersen/ ; https://wsvn.com/news/politics/wasserman-schultz-gop-brent-andersen-win-primary-in-redrawn-district-20/ ; https://www.cbsnews.com/miami/news/florida-district-20-sheila-cherfilus-mccormick-resignation-special-election-candidates/ ; https://cbs12.com/news/cbs12-news-i-team/florida-congressional-district-20-cherfilus-mccormick-resignation-redistricting-special-election-map-questions-future-cost-limbo-representation-contest ; https://ballotpedia.org/Florida's_20th_Congressional_District_election,_2026 . The new district covers central and western Broward County (portions of Fort Lauderdale, Lauderhill, Lauderdale Lakes, Tamarac, North Lauderdale, Plantation, Sunrise and Pompano Beach), per CBS Miami. Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts.",
+  "verified_ballot_note": "Regular (full-term) election for the newly drawn CD 20. Roster from CBS Miami, WSVN and WLRN: Debbie Wasserman Schultz (D) faces Republican nominee Brent Andersen and Kedner Maxime, the Independent Party of Florida nominee (the state candidate list records him as IND, not NPA); Kevin McClellan filed as a write-in (CBS Miami; a Ballotpedia snippet lists him as NPA, so his ballot status should be checked against the county sample ballot). Special election: the seat has been vacant since Rep. Sheila Cherfilus-McCormick resigned Apr. 21, 2026. CBS Miami reported Gov. DeSantis scheduled a special primary for Aug. 18, 2026 with the winner advancing to the Nov. 3 general election, under the pre-2026 district lines; the special-election nominees were not identified in this research, so voters in the old CD 20 may see two CD 20 contests on Nov. 3. Sources: https://www.cbsnews.com/miami/news/2026-florida-primary-district-20-republican-brent-andersen/ ; https://wsvn.com/news/politics/wasserman-schultz-gop-brent-andersen-win-primary-in-redrawn-district-20/ ; https://www.cbsnews.com/miami/news/florida-district-20-sheila-cherfilus-mccormick-resignation-special-election-candidates/ ; https://cbs12.com/news/cbs12-news-i-team/florida-congressional-district-20-cherfilus-mccormick-resignation-redistricting-special-election-map-questions-future-cost-limbo-representation-contest ; https://ballotpedia.org/Florida's_20th_Congressional_District_election,_2026 . The new district covers central and western Broward County (portions of Fort Lauderdale, Lauderhill, Lauderdale Lakes, Tamarac, North Lauderdale, Plantation, Sunrise and Pompano Beach), per CBS Miami. Florida adopted a new congressional map (passed Apr 29, 2026, signed May 4, 2026) that reworked 21 of 28 districts.",
   "candidates": [
     {
       "id": "debbie_wasserman_schultz",
@@ -614,7 +614,18 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Dolphin Democrats and the Florida LGBTQ+ Democratic Caucus",
+          "sources": [
+            {
+              "title": "2026 General Election Endorsements & Recommendations (Dolphin Democrats / Florida LGBTQ+ Democratic Caucus)",
+              "url": "https://www.dolphindems.org/uncategorized/2026-general-election-endorsements-recommendations/",
+              "date": "2026-09-28"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -892,14 +903,14 @@
     {
       "id": "kedner_maxime",
       "name": "Kedner Maxime",
-      "party": "No Party Affiliation",
+      "party": "Independent Party of Florida",
       "incumbent": false,
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.maximeforcongress.com/",
       "occupation": "Tax accountant, immigration-services specialist and small-business owner",
       "residence": "Oakland Park, Broward County",
-      "background": "Kedner Maxime is a Haitian American tax accountant, immigration-services specialist and small-business owner based in Oakland Park. He is running with no party affiliation and will appear on the Nov. 3 ballot for District 20, per CBS Miami and Ballotpedia.",
+      "background": "Kedner Maxime is a Haitian American tax accountant, immigration-services specialist and small-business owner based in Oakland Park. He qualified as the Independent Party of Florida nominee — a registered minor party, not the same as running with no party affiliation — and will appear on the Nov. 3 ballot for District 20, per the Florida Division of Elections candidate list.",
       "primary_result": "No primary (NPA candidate)",
       "positions": {
         "taxes": {

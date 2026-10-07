@@ -601,11 +601,17 @@
           "sources": []
         },
         "tariffs": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In a written questionnaire posted by the St. Petersburg Area Chamber of Commerce, Kirschner listed 'illegal tariff wars' first among federal actions he said are eroding local purchasing power, putting the cost at about $2,000 per household per year, alongside the end of enhanced ACA subsidies and rising insurance and fuel costs.",
+          "quote": "Illegal tariff wars ($2000 cost/household/year)",
+          "sources": [
+            {
+              "title": "Candidates Corner - Friday Forums (St. Petersburg Area Chamber of Commerce)",
+              "url": "https://www.stpete.com/candidates-corner/",
+              "date": "2026-10"
+            }
+          ]
         },
         "ukraine": {
           "stance": null,
@@ -720,6 +726,28 @@
               "title": "Race to succeed Vern Buchanan in CD 16 is getting increasingly interesting",
               "url": "https://floridapolitics.com/archives/821782-race-to-succeed-vern-buchanan-in-cd-16-is-getting-increasingly-interesting/",
               "date": "2026-09-25"
+            }
+          ]
+        },
+        {
+          "title": "Published paid-media plan drew criticism; performance at the Sept. 23 forum questioned",
+          "summary": "Florida Politics wrote on Sept. 29 that Kirschner's campaign website publishes a detailed paid-media plan describing the connected-television, YouTube, broadcast, cable and mail advertising he wants outside groups to fund, and called it a plea for a rescue that does not explain why the race merits investment. The column noted federal filings through July 29 showed Gruters with more than $1 million in receipts to about $297,000 for Kirschner, that Cook rates the seat Solid Republican, and that at the Sept. 23 League of Women Voters forum Gruters challenged him over owning stock in technology companies building AI data centers while criticizing them, and no-party candidate Mark Davis said in closing, 'I like Kelly, but he's a liar.'",
+          "sources": [
+            {
+              "title": "Kelly Kirschner would like someone to buy him a competitive campaign (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/822307-kelly-kirschner-would-like-someone-to-buy-him-a-competitive-campaign/",
+              "date": "2026-09-29"
+            }
+          ]
+        },
+        {
+          "title": "Pledged regular town halls across the six-county district",
+          "summary": "In the Chamber questionnaire Kirschner said the district's current representative has not held a town hall in more than a decade and that he would hold published town halls throughout the six-county district, and noted he served more than a decade on the St. Petersburg Chamber board.",
+          "sources": [
+            {
+              "title": "Candidates Corner - Friday Forums (St. Petersburg Area Chamber of Commerce)",
+              "url": "https://www.stpete.com/candidates-corner/",
+              "date": "2026-10"
             }
           ]
         }
@@ -1125,6 +1153,39 @@
           "title": "Is the era of political debates over in Florida? (Tampa Bay Times)",
           "url": "https://www.yahoo.com/news/politics/articles/era-political-debates-over-florida-110000547.html",
           "date": "2026-09-24"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "host": "St. Petersburg Area Chamber of Commerce 'Friday Forum' for U.S. Congress and U.S. Senate candidates, Chamber members only (Host event scheduled; Kirschner engaged with the host, other candidates not confirmed)",
+      "who": "Kelly Kirschner (D) is the only CD 16 candidate featured in the Chamber's Candidates Corner; Sydney Gruters (R) and Mark Davis (NPA) are not listed",
+      "sources": [
+        {
+          "title": "Candidates Corner - Friday Forums (St. Petersburg Area Chamber of Commerce)",
+          "url": "https://www.stpete.com/candidates-corner/",
+          "date": "2026-10"
+        },
+        {
+          "title": "Friday Forum: Happy Hour with the Candidates (St. Petersburg Area Chamber of Commerce event listing)",
+          "url": "https://business.stpete.com/eventcalendar/details/friday-forum-happy-hour-with-the-candidates-1904365",
+          "date": "2026-10"
+        }
+      ]
+    },
+    {
+      "host": "The League of Women Voters of Manatee County's 2026 forum schedule ends with a July 9 CD 16 Republican-primary forum, which Gruters declined; the Sept. 23 Manatee/St. Petersburg virtual general-election forum has already been held and no further League forum is listed. (No further League of Women Voters forum scheduled (checked 2026-10-07))",
+      "who": "Sydney Gruters (R), Kelly Kirschner (D), Mark Davis (NPA)",
+      "sources": [
+        {
+          "title": "Candidate Forums: League of Women Voters of Manatee County to Host Critical Voter Education Events",
+          "url": "https://www.lwvfl.org/candidate-forums-league-of-women-voters-of-manatee-county-to-host-critical-voter-education-events/",
+          "date": "2026-06"
+        },
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
         }
       ]
     }

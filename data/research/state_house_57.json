@@ -95,6 +95,19 @@
               "date": "2026-09"
             }
           ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Anderson did not return the Tampa Bay Times questionnaire; the paper quoted his campaign site, which says the Legislature acted to reduce delays in housing construction by streamlining permitting and inspections to lower the cost of homes and renovations.",
+          "quote": "On the affordability front, we took decisive action to reduce costly delays in housing builds that make homes and renovations more expensive by streamlining inconsistent permitting and inspections processes.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -309,15 +322,15 @@
           ]
         },
         "growth": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "She wants local authority restored so residents, not state politicians, decide how communities grow, and supports a moratorium on new data centers.",
-          "quote": "Restore local authority so residents — not distant politicians — decide how our communities grow.",
+          "summary": "Hoy told the Times she would put a moratorium on data-center development until the impacts are understood and regulations are in place, and listed restoring local control over zoning and environmental decisions as a top priority.",
+          "quote": "The first thing Florida should do is put a moratorium on data center development until the impacts of data centers is clearly understood and regulations are enacted to ensure transparency, governmental oversight...",
           "sources": [
             {
-              "title": "Wendy Hoy for Change - Issues",
-              "url": "https://wendyhoyforchange.com/issues/",
-              "date": "2026-09"
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         },
@@ -346,6 +359,19 @@
               "date": "2026-09"
             }
           ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Hoy said she would cap utility-rate increases and offer solar incentives as part of lowering household costs.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -359,6 +385,17 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "title": "Central database for assistance programs",
+          "summary": "Hoy said she would spend a $1 million appropriation on a central Pinellas County database of housing, food, utility, health, transportation and repair assistance, tied to the 2-1-1 social services line.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       ],
       "record": [],
@@ -367,6 +404,24 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Wendy_Hoy"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
         }
       ]
     }

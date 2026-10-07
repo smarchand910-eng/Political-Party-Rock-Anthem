@@ -262,20 +262,15 @@
           ]
         },
         "energy": {
-          "stance": -1,
-          "confidence": "record",
-          "summary": "Voted for the Protecting American Energy Production Act (H.R. 26), the 2025 bill barring a presidential moratorium on hydraulic fracturing without an act of Congress; a vote for it is coded as leaning toward fossil-fuel production.",
-          "quote": null,
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In an October 2026 Washington Examiner op-ed summarized by Florida Politics, Lee argued the United States has an energy infrastructure problem rather than a shortage, said litigation has stalled natural-gas pipelines such as the Mountain Valley Pipeline, and promoted her Unleash American Pipelines Act, which would limit lawsuits against approved pipeline projects without eliminating judicial review.",
+          "quote": "America does not have an energy shortage. We have an infrastructure problem.",
           "sources": [
             {
-              "title": "Protecting American Energy Production Act (H.R. 26) - Congress.gov",
-              "url": "https://www.congress.gov/bill/119th-congress/house-bill/26",
-              "date": "2025-02-07"
-            },
-            {
-              "title": "House roll call 35 (2025) - Clerk of the U.S. House",
-              "url": "https://clerk.house.gov/evs/2025/roll035.xml",
-              "date": "2025-02-07"
+              "title": "Delegation for 10.6.26: Battleground - offshore drilling - college sports - AI guardrails - pipelines (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823480-delegation-for-10-6-26-battleground-offshore-drilling-college-sports-ai-guardrails-pipelines/",
+              "date": "2026-10-06"
             }
           ]
         },
@@ -562,6 +557,16 @@
               "title": "Roll Call 311 | H.J.Res. 213 | House Clerk",
               "url": "https://clerk.house.gov/Votes/2026311",
               "date": "2026-09-16"
+            }
+          ]
+        },
+        {
+          "item": "Sponsor of the Unleash American Pipelines Act, which would limit litigation against federally approved pipeline projects while retaining judicial review.",
+          "sources": [
+            {
+              "title": "Delegation for 10.6.26: Battleground - offshore drilling - college sports - AI guardrails - pipelines (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823480-delegation-for-10-6-26-battleground-offshore-drilling-college-sports-ai-guardrails-pipelines/",
+              "date": "2026-10-06"
             }
           ]
         }
@@ -904,6 +909,22 @@
           "title": "Is the era of political debates over in Florida? (Tampa Bay Times)",
           "url": "https://www.yahoo.com/news/politics/articles/era-political-debates-over-florida-110000547.html",
           "date": "2026-09-24"
+        }
+      ]
+    },
+    {
+      "host": "None found. The Oct. 2 CD 14 debate coverage noted that GOP congressional incumbents in Tampa Bay have turned down debates. (No debate scheduled - unchanged (checked 2026-10-07))",
+      "who": "Laurel Lee (R), Robert People (D), Angie Boone (write-in)",
+      "sources": [
+        {
+          "title": "Castor and GOP challenger spar over abortion, socialism in CD14 debate (Tampa Bay Times, read via Yahoo syndication)",
+          "url": "https://www.yahoo.com/news/politics/articles/castor-gop-challenger-spar-over-202435456.html",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "At the Races: Debate demands and dodges (Roll Call)",
+          "url": "https://rollcall.com/2026/10/01/at-the-races-debate-demands-and-dodges/",
+          "date": "2026-10-01"
         }
       ]
     }
