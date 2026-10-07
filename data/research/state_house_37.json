@@ -44,11 +44,17 @@
           ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Asked whether he would vote yes or no on Amendment 3, Prater did not state a position, saying the question is for taxpayers to decide. He said he appreciates that the proposal keeps school property taxes intact and bars underfunding police and fire, and that lost revenue should be addressed by scrutinizing local budgets for waste.",
+          "quote": "Every Floridian will soon have the opportunity to weigh in on how our hard-earned money is spent in this state.",
+          "sources": [
+            {
+              "title": "Robert Prater — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/robert-prater/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "insurance": {
           "stance": 1,
@@ -64,25 +70,48 @@
           ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "On housing affordability Prater pointed to the One Stop Housing model of converting underused hotels and malls into workforce rentals, public-private partnerships, continued first-time-homebuyer and down-payment assistance, and streamlining permitting across agencies, which he said acts as a tax on housing.",
+          "quote": "Too often, housing projects face lengthy permitting processes, regulatory hurdles, and coordination challenges between multiple agencies. At the end of the day, that is a tax.",
+          "sources": [
+            {
+              "title": "Robert Prater — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/robert-prater/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Prater said the federal and state governments must enforce immigration laws and that circumventing the legal immigration process is a practice he does not support, while adding that enforcement agencies must operate within their legal limits and be held accountable if they abuse those powers, and that Congress needs to reform the system.",
+          "quote": "We are a nation of laws, and that includes immigration law. ... Circumventing that process is a practice I do not support.",
+          "sources": [
+            {
+              "title": "Robert Prater — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/robert-prater/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Asked whether Florida's abortion restrictions should be more strict, less strict or stay the same, Prater answered that they should stay the same.",
+          "quote": "Stay the same.",
+          "sources": [
+            {
+              "title": "Robert Prater — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/robert-prater/",
+              "date": "2026-09-30"
+            },
+            {
+              "title": "Voter Guide – General Election 2026 (Oviedo Community News)",
+              "url": "https://oviedocommunitynews.org/voter-guide-general-election-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -179,11 +208,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Prater said he has real concern about the demand data centers place on the water supply and the electrical grid and that the Legislature needs to protect residents from shouldering those costs and quality-of-life effects.",
+          "quote": "The legislature needs to protect residents from shouldering the negative impacts on their quality of life and on their standard of living.",
+          "sources": [
+            {
+              "title": "Robert Prater — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/robert-prater/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -219,7 +254,48 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "BusinessForce",
+          "sources": [
+            {
+              "title": "Robert Prater — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/robert-prater/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Central Florida Hotel and Lodging Association",
+          "sources": [
+            {
+              "title": "Robert Prater — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/robert-prater/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Florida State Fraternal Order of Police",
+          "sources": [
+            {
+              "title": "Robert Prater — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/robert-prater/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Associated Builders and Contractors of Central Florida",
+          "sources": [
+            {
+              "title": "Robert Prater — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/robert-prater/",
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Who's on the Seminole County primary ballot for 2026 (Oviedo Community News)",
@@ -249,11 +325,22 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In the Oviedo Community News general-election questionnaire (Sept. 30, 2026) Aman said she will vote No on Amendment 3, saying property taxes should be approached 'with a scalpel, not a baseball bat' and that the amendment as written would harm public safety and other critical services.",
+          "quote": "I will vote no. I understand that people absolutely need relief, but I believe we should approach property taxes with a scalpel, not a baseball bat.",
+          "sources": [
+            {
+              "title": "Jane Aman — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/jane-aman/",
+              "date": "2026-09-30"
+            },
+            {
+              "title": "Voter Guide – General Election 2026 (Oviedo Community News)",
+              "url": "https://oviedocommunitynews.org/voter-guide-general-election-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "insurance": {
           "stance": 2,
@@ -287,11 +374,17 @@
           ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Aman said the state should not be involved in immigration enforcement, which she said should be handled by the federal government, and that deputizing local law-enforcement officers leaves fewer officers available to patrol and respond.",
+          "quote": "I do not think that the state should be involved in immigration enforcement.",
+          "sources": [
+            {
+              "title": "Jane Aman — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/jane-aman/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "abortion": {
           "stance": 2,
@@ -357,11 +450,17 @@
           ]
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Asked to name the biggest environmental issue for state government, Aman said protecting Seminole County's Rural Boundary, which she said maintains sensitive agricultural and conservation land and limits flood risk from overdevelopment. She also said she would vote to protect locally adopted rural boundaries.",
+          "quote": "The Rural Boundary maintains the integrity of sensitive agricultural and conservation lands. Overdevelopment would have lasting environmental impacts and increase flood risk for existing and future residents.",
+          "sources": [
+            {
+              "title": "Jane Aman — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/jane-aman/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "growth": {
           "stance": 2,
@@ -416,11 +515,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Aman proposed a statewide moratorium on data centers until their full impact on communities and the environment is known, and said she would work to keep the costs of any AI projects from being passed to individual utility customers through rate increases.",
+          "quote": "I propose a statewide moratorium on data centers until we can determine the full impact of these facilities on our communities and environment.",
+          "sources": [
+            {
+              "title": "Jane Aman — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/jane-aman/",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -449,6 +554,66 @@
               "date": "2026-09-10"
             }
           ]
+        },
+        {
+          "by": "U.S. Rep. Maxwell Frost",
+          "sources": [
+            {
+              "title": "Jane Aman — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/jane-aman/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "State Sen. Carlos Guillermo Smith",
+          "sources": [
+            {
+              "title": "Jane Aman — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/jane-aman/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "State Rep. Anna V. Eskamani",
+          "sources": [
+            {
+              "title": "Jane Aman — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/jane-aman/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "State Rep. Rita Harris",
+          "sources": [
+            {
+              "title": "Jane Aman — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/jane-aman/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "State Rep. Leonard Spencer",
+          "sources": [
+            {
+              "title": "Jane Aman — Oviedo Community News 2026 general election candidate profile",
+              "url": "https://oviedocommunitynews.org/profile/jane-aman/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "by": "Equality Florida Action PAC",
+          "sources": [
+            {
+              "title": "Endorsed Candidates — Equality Florida Action PAC (page last updated 09/10/2026)",
+              "url": "https://eqflpac.org/endorsed-candidates/",
+              "date": "2026-09-10"
+            }
+          ]
         }
       ],
       "sources": [
@@ -462,6 +627,24 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Jane_Aman"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
         }
       ]
     }

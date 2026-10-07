@@ -80,52 +80,37 @@
         },
         "immigration": {
           "stance": -2,
-          "confidence": "record",
-          "summary": "Castor voted against the Laken Riley Act in January 2025 (and the 2024 version), voted no on a 2026 extension of Department of Homeland Security funding, and issued a March 2026 statement criticizing House Republicans for not reforming ICE 'without any guardrails or protections' after what she called well-documented abuses.",
-          "quote": null,
+          "confidence": "stated",
+          "summary": "In the Oct. 2 debate Castor said she supports a strong border together with a pathway to citizenship for people who 'play by the rules and pay taxes and learn English,' and objected to Beltran describing errors by immigration agents as mistakes, citing two U.S. citizens killed by federal immigration agents.",
+          "quote": "How can you call the murder of Alex Pretti and Renee Good mistakes?",
           "sources": [
             {
-              "title": "House Roll Call 6 on H.R. 29, Laken Riley Act (264-159)",
-              "url": "https://clerk.house.gov/Votes/20256",
-              "date": "2025-01-07"
+              "title": "Castor and GOP challenger spar over abortion, socialism in CD14 debate (Tampa Bay Times, read via Yahoo syndication)",
+              "url": "https://www.yahoo.com/news/politics/articles/castor-gop-challenger-spar-over-202435456.html",
+              "date": "2026-10-02"
             },
             {
-              "title": "Florida's Voice: Six Florida Democrats vote against Laken Riley Act (Castor, Cherfilus-McCormick, Frankel, Frost, Soto, Wasserman Schultz)",
-              "url": "https://flvoicenews.com/six-florida-democrats-vote-against-laken-riley-act-meant-to-target-illegal-alien-criminals-nationwide/",
-              "date": "2025-01"
-            },
-            {
-              "title": "U.S. Rep. Kathy Castor Statement on Congressional Republicans Putting Americans' Safety at Risk",
-              "url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405143",
-              "date": "2026-03"
-            },
-            {
-              "title": "Kathy Castor - Ballotpedia",
-              "url": "https://ballotpedia.org/Kathy_Castor",
-              "date": null
+              "title": "Listen: On WMNF Tampa, U.S. Rep. Kathy Castor and former State Rep. Mike Beltran debate for Florida's 14th Congressional District",
+              "url": "https://www.wmnf.org/listen-on-wmnf-u-s-rep-kathy-castor-and-former-state-rep-mike-beltran-debate-for-floridas-14th-congressional-district/",
+              "date": "2026-10-02"
             }
           ]
         },
         "abortion": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Castor co-sponsors the Women's Health Protection Act of 2025 (H.R. 12) to codify Roe, has called Florida's six-week law a 'cruel' ban, and voted for House Democrats' bill to protect access to birth control.",
-          "quote": null,
+          "summary": "In the Oct. 2 WMNF radio debate Castor criticized Florida's six-week abortion ban and criticized Beltran for sponsoring a 2024 state bill that would have imposed a near-total ban and subjected health care providers to criminal penalties for performing an abortion for any reason other than to save the pregnant woman's life. She rejected Beltran's claim that a federal vote of hers amounted to supporting infanticide.",
+          "quote": "No one believes that, Mike.",
           "sources": [
             {
-              "title": "H.R. 12 - Women's Health Protection Act of 2025 (cosponsors)",
-              "url": "https://www.congress.gov/bill/119th-congress/house-bill/12/text",
-              "date": null
+              "title": "Listen: On WMNF Tampa, U.S. Rep. Kathy Castor and former State Rep. Mike Beltran debate for Florida's 14th Congressional District",
+              "url": "https://www.wmnf.org/listen-on-wmnf-u-s-rep-kathy-castor-and-former-state-rep-mike-beltran-debate-for-floridas-14th-congressional-district/",
+              "date": "2026-10-02"
             },
             {
-              "title": "Rep. Castor, House Democrats Take Action to Protect Women's Access to Birth Control",
-              "url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=403929",
-              "date": null
-            },
-            {
-              "title": "Kathy Castor on Abortion - OnTheIssues",
-              "url": "https://www.ontheissues.org/FL/Kathy_Castor_Abortion.htm",
-              "date": null
+              "title": "Castor and GOP challenger spar over abortion, socialism in CD14 debate (Tampa Bay Times, read via Yahoo syndication)",
+              "url": "https://www.yahoo.com/news/politics/articles/castor-gop-challenger-spar-over-202435456.html",
+              "date": "2026-10-02"
             }
           ]
         },
@@ -400,6 +385,60 @@
               "date": "2026-09-21"
             }
           ]
+        },
+        {
+          "title": "Called the new congressional map illegal",
+          "summary": "In the Oct. 2 debate Castor called the mid-decade redistricting 'especially egregious and illegal,' pointing to the state constitutional amendment approved in 2010 that bars lawmakers from drawing districts to favor a political party, and said voters 'don't want politicians drawing their own maps, selecting their own voters.'",
+          "sources": [
+            {
+              "title": "Castor and GOP challenger spar over abortion, socialism in CD14 debate (Tampa Bay Times, read via Yahoo syndication)",
+              "url": "https://www.yahoo.com/news/politics/articles/castor-gop-challenger-spar-over-202435456.html",
+              "date": "2026-10-02"
+            },
+            {
+              "title": "Listen: On WMNF Tampa, U.S. Rep. Kathy Castor and former State Rep. Mike Beltran debate for Florida's 14th Congressional District",
+              "url": "https://www.wmnf.org/listen-on-wmnf-u-s-rep-kathy-castor-and-former-state-rep-mike-beltran-debate-for-floridas-14th-congressional-district/",
+              "date": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "title": "Israel and the Palestinians",
+          "summary": "In the Oct. 2 debate Castor said Israel has the right to defend itself and that Israelis deserve to live in safety and stability, 'but the same goes for the Palestinian people.' She said she opposes settler violence under Prime Minister Benjamin Netanyahu and supports a Palestinian state, and rejected Beltran's claim that a vote for her is a vote for anti-Israel members of Congress.",
+          "sources": [
+            {
+              "title": "Castor and GOP challenger spar over abortion, socialism in CD14 debate (Tampa Bay Times, read via Yahoo syndication)",
+              "url": "https://www.yahoo.com/news/politics/articles/castor-gop-challenger-spar-over-202435456.html",
+              "date": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "title": "Third-quarter fundraising of more than $2.5 million",
+          "summary": "Castor's campaign said on Oct. 2 that she raised more than $2.5 million in the third quarter, more than her first six quarters of the cycle combined, pushing her cycle total past $4.5 million from 11,901 donors, with no self-funding. The campaign did not release a cash-on-hand figure; that comes with the Oct. 15 FEC report.",
+          "sources": [
+            {
+              "title": "Kathy Castor raises $2.5M in Q3, more than her first six quarters combined (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823051-kathy-castor-raises-2-5m-in-q3-more-than-her-first-six-quarters-combined/",
+              "date": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "title": "Outside spending on her behalf",
+          "summary": "The DCCC put a negative television ad on the air on Oct. 1 attacking Beltran's Legislature votes on property insurance and rooftop solar, with Castor appearing in the disclaimer; EDF Action, the political arm of the Environmental Defense Fund, began a 30-second ad on Oct. 5 tying Beltran to President Trump's tariffs and foreign policy.",
+          "sources": [
+            {
+              "title": "DCCC ad accuses Mike Beltran of coddling insurers, utilities while in Legislature (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/822749-dccc-ad-accuses-mike-beltran-of-coddling-insurers-utilities-while-in-legislature/",
+              "date": "2026-10-01"
+            },
+            {
+              "title": "EDF Action ad slams Mike Beltran's loyalty to Donald Trump's costly policies (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823191-edf-action-ad-slams-mike-beltrans-loyalty-to-donald-trumps-costly-policies/",
+              "date": "2026-10-05"
+            }
+          ]
         }
       ],
       "record": [
@@ -619,6 +658,36 @@
               "date": "2026-09-16"
             }
           ]
+        },
+        {
+          "item": "Voted for a Republican-led resolution condemning 'socialism in all of its forms,' one of several Democrats to cross the aisle. Asked about it at the Oct. 2 debate she said: 'Too many of our neighbors across the Tampa Bay area fled socialism and authoritarianism, and I've listened very closely to their stories.'",
+          "sources": [
+            {
+              "title": "Castor and GOP challenger spar over abortion, socialism in CD14 debate (Tampa Bay Times, read via Yahoo syndication)",
+              "url": "https://www.yahoo.com/news/politics/articles/castor-gop-challenger-spar-over-202435456.html",
+              "date": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "item": "Voted in July 2026 against a proposed amendment that would have eliminated $3.3 billion in U.S. funding for Israel.",
+          "sources": [
+            {
+              "title": "Castor and GOP challenger spar over abortion, socialism in CD14 debate (Tampa Bay Times, read via Yahoo syndication)",
+              "url": "https://www.yahoo.com/news/politics/articles/castor-gop-challenger-spar-over-202435456.html",
+              "date": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "item": "Co-introduced the Ratepayer Protection Act, which would require states to consider standards making technology companies absorb the cost of energy-use increases from data centers; it passed the House 417-3 on Sept. 16, 2026 and has not received a Senate floor vote.",
+          "sources": [
+            {
+              "title": "DCCC ad accuses Mike Beltran of coddling insurers, utilities while in Legislature (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/822749-dccc-ad-accuses-mike-beltran-of-coddling-insurers-utilities-while-in-legislature/",
+              "date": "2026-10-01"
+            }
+          ]
         }
       ],
       "endorsements": [],
@@ -701,26 +770,36 @@
         "immigration": {
           "stance": 2,
           "confidence": "stated",
-          "summary": "Stands '100% with President Trump on immigration': finish the wall and deport criminals and fraudsters.",
-          "quote": "Mike stands 100% with President Trump on immigration. We need to finish the wall, deport the criminals and fraudsters",
+          "summary": "In the Oct. 2 debate Beltran said the state has rightfully prioritized deporting 'gang members, cartel traffickers, violent criminals and national security threats,' and said Immigration and Customs Enforcement and Customs and Border Protection have made 'a few mistakes' for which officers should be held accountable and better trained.",
+          "quote": "When you're dealing with thousands or tens of thousands of people, there are going to be a few mistakes.",
           "sources": [
             {
-              "title": "Mike Beltran for Congress - Platform",
-              "url": "https://beltranforcongress.com/platform",
-              "date": "2026-09-18"
+              "title": "Castor and GOP challenger spar over abortion, socialism in CD14 debate (Tampa Bay Times, read via Yahoo syndication)",
+              "url": "https://www.yahoo.com/news/politics/articles/castor-gop-challenger-spar-over-202435456.html",
+              "date": "2026-10-02"
+            },
+            {
+              "title": "Listen: On WMNF Tampa, U.S. Rep. Kathy Castor and former State Rep. Mike Beltran debate for Florida's 14th Congressional District",
+              "url": "https://www.wmnf.org/listen-on-wmnf-u-s-rep-kathy-castor-and-former-state-rep-mike-beltran-debate-for-floridas-14th-congressional-district/",
+              "date": "2026-10-02"
             }
           ]
         },
         "abortion": {
           "stance": -2,
           "confidence": "stated",
-          "summary": "Says Dobbs was correctly decided and states should set abortion policy with exceptions for rape, incest and the life of the mother.",
-          "quote": "He believes Dobbs was correctly decided and that states, not Washington bureaucrats, judges, or politicians, should set their own policies",
+          "summary": "In the Oct. 2 WMNF debate Beltran defended the 2024 state bill he sponsored that would have imposed a near-total abortion ban with criminal penalties for providers, saying it contained exceptions, and attacked Castor for voting against a Republican bill requiring doctors to provide medical care to infants born after an attempted abortion.",
+          "quote": "That's infanticide that you voted for.",
           "sources": [
             {
-              "title": "Mike Beltran for Congress - Platform",
-              "url": "https://beltranforcongress.com/platform",
-              "date": "2026-09-18"
+              "title": "Castor and GOP challenger spar over abortion, socialism in CD14 debate (Tampa Bay Times, read via Yahoo syndication)",
+              "url": "https://www.yahoo.com/news/politics/articles/castor-gop-challenger-spar-over-202435456.html",
+              "date": "2026-10-02"
+            },
+            {
+              "title": "Listen: On WMNF Tampa, U.S. Rep. Kathy Castor and former State Rep. Mike Beltran debate for Florida's 14th Congressional District",
+              "url": "https://www.wmnf.org/listen-on-wmnf-u-s-rep-kathy-castor-and-former-state-rep-mike-beltran-debate-for-floridas-14th-congressional-district/",
+              "date": "2026-10-02"
             }
           ]
         },
@@ -980,6 +1059,50 @@
               "title": "Fox News ratings move 7 of Florida's U.S. House contests in Democrats' direction",
               "url": "https://floridapolitics.com/archives/821268-fox-news-ratings-move-7-of-floridas-u-s-house-contests-in-democrats-direction/",
               "date": "2026-09-23"
+            }
+          ]
+        },
+        {
+          "title": "Defended the new congressional map",
+          "summary": "In the Oct. 2 debate Beltran said the redrawn district is now entirely inside Hillsborough County and keeps communities such as Plant City intact. 'This is a fair map,' he said. He also said he was willing to break with Gov. Ron DeSantis as a state representative and would do the same in Congress.",
+          "sources": [
+            {
+              "title": "Castor and GOP challenger spar over abortion, socialism in CD14 debate (Tampa Bay Times, read via Yahoo syndication)",
+              "url": "https://www.yahoo.com/news/politics/articles/castor-gop-challenger-spar-over-202435456.html",
+              "date": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "title": "Israel",
+          "summary": "In the Oct. 2 debate Beltran said he supports Israel and that 'I think we should sell weapons to Israel,' and argued that a vote for Castor is a vote for members of Congress he described as anti-Israel, naming Ilhan Omar and Hakeem Jeffries. Castor called that false.",
+          "sources": [
+            {
+              "title": "Castor and GOP challenger spar over abortion, socialism in CD14 debate (Tampa Bay Times, read via Yahoo syndication)",
+              "url": "https://www.yahoo.com/news/politics/articles/castor-gop-challenger-spar-over-202435456.html",
+              "date": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "title": "Response to the DCCC ad and data-center taxes",
+          "summary": "Beltran dismissed the DCCC's Oct. 1 ad as deflection, saying Castor 'has taken tens of thousands of dollars from data center lobbyists and sold us out to them until she realized about two weeks ago that the voters were against her on this.'",
+          "sources": [
+            {
+              "title": "DCCC ad accuses Mike Beltran of coddling insurers, utilities while in Legislature (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/822749-dccc-ad-accuses-mike-beltran-of-coddling-insurers-utilities-while-in-legislature/",
+              "date": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "title": "Campaign finance: no third-quarter figure announced",
+          "summary": "As of Oct. 2 Beltran had not announced a third-quarter fundraising number. His last report, closing July 29, showed just over $2.01 million of about $2.12 million in receipts came from loans he made to his own campaign, with about $103,000 from individual donors, $1.94 million on hand and $2.02 million in debt owed mostly to himself.",
+          "sources": [
+            {
+              "title": "Kathy Castor raises $2.5M in Q3, more than her first six quarters combined (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823051-kathy-castor-raises-2-5m-in-q3-more-than-her-first-six-quarters-combined/",
+              "date": "2026-10-03"
             }
           ]
         }
@@ -1453,6 +1576,18 @@
           "title": "Is the era of political debates over in Florida? (Tampa Bay Times)",
           "url": "https://www.yahoo.com/news/politics/articles/era-political-debates-over-florida-110000547.html",
           "date": "2026-09-24"
+        }
+      ]
+    },
+    {
+      "date": "Later in October 2026, exact date not announced",
+      "host": "Not yet announced. Roll Call reported on Oct. 1 that Castor and Beltran were set for the WMNF radio debate “as well as a second debate later this month”; no host, venue or date has been published, and no cancellation was found (checked Oct. 7, 2026). (Agreed; date, host and venue not yet announced)",
+      "who": "Kathy Castor (D), Mike Beltran (R)",
+      "sources": [
+        {
+          "title": "At the Races: Debate demands and dodges (Roll Call)",
+          "url": "https://rollcall.com/2026/10/01/at-the-races-debate-demands-and-dodges/",
+          "date": "2026-10-01"
         }
       ]
     }

@@ -383,6 +383,33 @@
               "date": "2026-09-25"
             }
           ]
+        },
+        {
+          "title": "Ad campaign: bipartisan appeal and a Spanish-language radio spot",
+          "summary": "Soto put a high-six-figure buy behind a 30-second ad featuring a self-described conservative Vero Beach voter saying she is crossing party lines, and on Oct. 6 added a one-minute Spanish-language radio spot, 'El Mismo Patron,' with a six-figure buy, saying Dan Green would support legislation stripping health care, raising prices through tariffs and cutting taxes for the wealthiest.",
+          "sources": [
+            {
+              "title": "Darren Soto showcases bipartisan support in 6-figure ad buy (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/822292-darren-soto-showcases-bipartisan-support-in-6-figure-ad-buy/",
+              "date": "2026-09-29"
+            },
+            {
+              "title": "Darren Soto calls Dan Green more of the same in Spanish-language radio spot (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823421-darren-soto-calls-dan-green-more-of-the-same-in-spanish-language-radio-spot/",
+              "date": "2026-10-06"
+            }
+          ]
+        },
+        {
+          "title": "Rated the most vulnerable House Democrat",
+          "summary": "Roll Call placed Soto third on its list of the 10 most vulnerable House members, the highest-ranked Democrat, citing the new map that put him in a district President Trump carried with more than 58% in 2024.",
+          "sources": [
+            {
+              "title": "Roll Call marks Darren Soto as nation's most vulnerable congressional Democrat (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/822831-roll-call-marks-darren-soto-as-nations-most-vulnerable-congressional-democrat/",
+              "date": "2026-10-01"
+            }
+          ]
         }
       ],
       "record": [
@@ -587,9 +614,50 @@
               "date": "2026-09-16"
             }
           ]
+        },
+        {
+          "item": "Chief sponsor of the Firefighter PFAS Injury Compensation Act (HR 10462), which would create a federal program to compensate firefighters and their families harmed by per- and polyfluoroalkyl substances found in firefighting foam and gear.",
+          "sources": [
+            {
+              "title": "Central Florida firefighter unions rally behind Darren Soto (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/822819-central-florida-firefighter-unions-rally-behind-darren-soto/",
+              "date": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "item": "Voted with Republicans and other vulnerable Democrats on a resolution denouncing 'socialism in all its forms' that also included a call for passage of President Trump's voter ID bill, according to Roll Call.",
+          "sources": [
+            {
+              "title": "Roll Call marks Darren Soto as nation's most vulnerable congressional Democrat (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/822831-roll-call-marks-darren-soto-as-nations-most-vulnerable-congressional-democrat/",
+              "date": "2026-10-01"
+            }
+          ]
         }
       ],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "Orange County Fire Fighters Association, IAFF Local 2057",
+          "sources": [
+            {
+              "title": "Central Florida firefighter unions rally behind Darren Soto (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/822819-central-florida-firefighter-unions-rally-behind-darren-soto/",
+              "date": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "by": "Osceola County Professional Firefighters, Local 3284",
+          "sources": [
+            {
+              "title": "Central Florida firefighter unions rally behind Darren Soto (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/822819-central-florida-firefighter-unions-rally-behind-darren-soto/",
+              "date": "2026-10-01"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "dan_green",
@@ -882,6 +950,17 @@
               "date": "2026-09-09"
             }
           ]
+        },
+        {
+          "title": "Television ad 'Courage' on his 9/11 service and priorities",
+          "summary": "Green released a 30-second ad noting he was working at the Pentagon as a civilian policy staffer when Flight 77 struck the building, and naming his priorities as 'getting prices down, protecting our communities from overdevelopment, and defending our nation.'",
+          "sources": [
+            {
+              "title": "Dan Green worked in the Pentagon on 9/11, says courage he saw inspires him as he runs in CD 9 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823292-dan-green-worked-in-the-pentagon-on-9-11-says-courage-he-saw-inspires-him-as-he-runs-in-cd-9/",
+              "date": "2026-10-05"
+            }
+          ]
         }
       ],
       "record": [
@@ -969,6 +1048,16 @@
               "title": "NRCC Announces Latest Additions to 'MAGA Majority' Program",
               "url": "https://nrcc.org/2026/09/08/nrcc-announces-latest-additions-to-maga-majority-program-as-gop-expands-2026-map/",
               "date": "2026-09-08"
+            }
+          ]
+        },
+        {
+          "by": "Florida Police Benevolent Association",
+          "sources": [
+            {
+              "title": "Florida PBA backs 'devoted' Dan Green for CD 9 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/822829-florida-pba-backs-devoted-dan-green-for-cd-9/",
+              "date": "2026-10-01"
             }
           ]
         }

@@ -16,6 +16,21 @@ const server = http.createServer((req, res) => {
 });
 const parse = file => { const js = fs.readFileSync(path.join(ROOT, 'data', file), 'utf8'); return JSON.parse(js.slice(js.indexOf('{'), js.lastIndexOf('}') + 1)); };
 
+// Playwright pins one Chromium build; if the cache holds a different one (the usual case on a shared
+// image), find any installed binary instead of telling the caller to re-download browsers.
+const findChromium = () => {
+  if (process.env.CHROME_PATH) return process.env.CHROME_PATH;
+  const cache = process.env.PLAYWRIGHT_BROWSERS_PATH;
+  if (!cache || !fs.existsSync(cache)) return undefined;
+  for (const dir of fs.readdirSync(cache).sort().reverse()) {
+    for (const rel of ['chrome-linux/chrome', 'chrome-linux/headless_shell', 'chrome-headless-shell-linux64/chrome-headless-shell']) {
+      const f = path.join(cache, dir, rel);
+      if (fs.existsSync(f)) return f;
+    }
+  }
+  return undefined;
+};
+
 (async () => {
   await new Promise(r => server.listen(0, '127.0.0.1', r));
   const base = `http://127.0.0.1:${server.address().port}/`;
@@ -23,7 +38,7 @@ const parse = file => { const js = fs.readFileSync(path.join(ROOT, 'data', file)
   const routes = ['#/', '#/where', '#/races', '#/races/group/U.S.%20House', '#/match', '#/match/results', '#/match/cheatsheet', '#/amendments', '#/judges', '#/vote', '#/about', '#/counties'];
   for (const r of data.races) { routes.push(`#/race/${r.id}`); for (const c of r.candidates || []) routes.push(`#/candidate/${c.id}`); }
   for (const c of Object.values(sw.counties)) routes.push(`#/county/${c.code}`);
-  const browser = await chromium.launch({ executablePath: process.env.CHROME_PATH || undefined });
+  const browser = await chromium.launch({ executablePath: findChromium() });
   const page = await browser.newPage();
   await page.route('**/*', r => (r.request().url().startsWith(base) ? r.continue() : r.abort()));
   const failures = [];

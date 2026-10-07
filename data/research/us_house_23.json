@@ -321,11 +321,17 @@
           ]
         },
         "veterans": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Frankel announced that the No Fallen Heroes Foundation received $750,000 in federal funding through the Department of Veterans Affairs' Staff Sergeant Parker Gordon Fox Suicide Prevention Grant Program, to expand mental health and suicide prevention services in Palm Beach, Monroe, Miami-Dade and Broward counties for veterans not connected to VA care.",
+          "quote": "This investment will expand access to critical mental health and suicide prevention resources for veterans who are not connected to VA care.",
+          "sources": [
+            {
+              "title": "Delegation for 10.6.26: Battleground - offshore drilling - college sports - AI guardrails - pipelines (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823480-delegation-for-10-6-26-battleground-offshore-drilling-college-sports-ai-guardrails-pipelines/",
+              "date": "2026-10-06"
+            }
+          ]
         }
       },
       "other_issues": [
