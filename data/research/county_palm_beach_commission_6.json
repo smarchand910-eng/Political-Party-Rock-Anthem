@@ -39,11 +39,17 @@
           ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "At a Sept. 23, 2026 candidate forum in Wellington and in follow-up coverage, Baxter said she supports Amendment 3, the November state measure expanding homestead property-tax exemptions, and argued the county can absorb the revenue loss by cutting spending. She named Palm Tran's roughly $174 million budget as money she would redirect into a voucher-style transit system.",
+          "quote": "It would force us to take a look at our budgets and get rid of waste.",
+          "sources": [
+            {
+              "title": "Baxter And Waldron Battling For District 6 County Seat",
+              "url": "https://gotowncrier.com/2026/10/baxter-and-waldron-battling-for-district-6-county-seat/",
+              "date": "2026-10-02"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -190,7 +196,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Roads, traffic signals and the Okeechobee Boulevard extension",
+          "summary": "Baxter said the county has begun installing smart traffic signals and that she secured a fully funded five-year road program for the first time in 12 years. She said she would oppose extending Okeechobee Boulevard if it threatens the rural character of Loxahatchee. On hyperscale data centers, which she moved to put under a one-year moratorium, she said she would defer to residents: \"I refuse to say, 'I know better than they do.'\"",
+          "sources": [
+            {
+              "title": "Baxter And Waldron Battling For District 6 County Seat",
+              "url": "https://gotowncrier.com/2026/10/baxter-and-waldron-battling-for-district-6-county-seat/",
+              "date": "2026-10-02"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "A whistleblower complaint by a former county staffer, filed shortly before the Aug. 18 primary and now under investigation by the Palm Beach County Commission on Ethics, alleges Baxter pressured the staffer to pursue a relationship with a wealthy donor. Baxter denies it ('Never have, never would, and it goes against everything I believe in') and has called it a political smear she attributes to her opponent's camp.",
@@ -440,6 +458,19 @@
               "date": "2026-09-28"
             }
           ]
+        },
+        "property_tax": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "At the Sept. 23, 2026 Wellington forum Waldron said she would leave Amendment 3, the state homestead property-tax measure, to the voters, but warned that it could create more problems than solutions for county services.",
+          "quote": "I support letting Floridians decide",
+          "sources": [
+            {
+              "title": "Baxter And Waldron Battling For District 6 County Seat",
+              "url": "https://gotowncrier.com/2026/10/baxter-and-waldron-battling-for-district-6-county-seat/",
+              "date": "2026-10-02"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -451,6 +482,33 @@
               "title": "Palm Beach County mayor denies explosive allegations she pressured staffer into sexual relationship with donor (WFLX)",
               "url": "https://www.wflx.com/2026/09/16/palm-beach-county-mayor-denies-explosive-allegations-she-pressured-staffer-into-sexual-relationship-with-donor/",
               "date": "2026-09-16"
+            }
+          ]
+        },
+        {
+          "title": "Polling and campaign finance in the District 6 race",
+          "summary": "A Beacon Insights poll reported in mid-September showed Waldron leading Baxter 52 percent to 37 percent among registered voters, outside the poll's 5.25-point margin of error; with balanced biographical information read to respondents the numbers moved to 59-41. The Town-Crier reported in October that Baxter had raised more than $500,000 and Waldron about $150,000 with another $150,000 pledged.",
+          "sources": [
+            {
+              "title": "Poll: Katherine Waldron Holds Double-Digit Lead Over Incumbent Sara Baxter",
+              "url": "https://www.bocaratontribune.com/bocaratonnews/2026/09/poll-katherine-waldron-holds-double-digit-lead-over-incumbent-sara-baxter/",
+              "date": "2026-09-15"
+            },
+            {
+              "title": "Baxter And Waldron Battling For District 6 County Seat",
+              "url": "https://gotowncrier.com/2026/10/baxter-and-waldron-battling-for-district-6-county-seat/",
+              "date": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "title": "Transportation and the Okeechobee Boulevard extension",
+          "summary": "Waldron said she favors smart traffic signals that respond dynamically to traffic conditions, and, like Baxter, said she would oppose the Okeechobee Boulevard extension if it threatened the rural lifestyle of Loxahatchee residents.",
+          "sources": [
+            {
+              "title": "Baxter And Waldron Battling For District 6 County Seat",
+              "url": "https://gotowncrier.com/2026/10/baxter-and-waldron-battling-for-district-6-county-seat/",
+              "date": "2026-10-02"
             }
           ]
         }
@@ -561,7 +619,18 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "South Florida Sun Sentinel",
+          "sources": [
+            {
+              "title": "Baxter And Waldron Battling For District 6 County Seat",
+              "url": "https://gotowncrier.com/2026/10/baxter-and-waldron-battling-for-district-6-county-seat/",
+              "date": "2026-10-02"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -572,14 +641,29 @@
   ],
   "events": [
     {
-      "date": "2026-09-28",
+      "date": "2026-09-23",
       "host": "Greater Wellington Chamber of Commerce; video posted by WFLX — Wellington (held)",
-      "who": "sara_baxter, katherine_waldron",
+      "who": "sara_baxter, katherine_waldron (the chamber forum was held Sept. 23; the video was posted Sept. 28)",
       "sources": [
         {
           "title": "Greater Wellington Chamber - Meet the Candidates Forum",
           "url": "https://www.wflx.com/video/2026/09/28/greater-wellington-chamber-meet-candidates-forum/",
           "date": "2026-09-28"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15 — Scheduled",
+      "host": "Acreage Landowners' Association; impartial moderator, randomly drawn audience questions",
+      "who": [
+        "sara_baxter",
+        "katherine_waldron"
+      ],
+      "sources": [
+        {
+          "title": "ALA To Host Candidate Forum On Thursday, Oct. 15",
+          "url": "https://gotowncrier.com/2026/10/ala-to-host-candidate-forum-on-thursday-oct-15/",
+          "date": "2026-10-01"
         }
       ]
     }

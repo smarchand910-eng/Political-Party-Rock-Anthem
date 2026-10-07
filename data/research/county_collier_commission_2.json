@@ -221,9 +221,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "record",
+          "summary": "At the county's final budget hearing on Sept. 18, 2026 Hall voted with a 3-2 majority to cut the Conservation Collier land-acquisition tax, which let the board reach the rolled-back rate and avoid an increase of about $13 a year for the owner of a home taxed at $400,000. He had proposed reducing the conservation millage at an earlier hearing. All five commissioners then adopted the FY2027 budget of more than $3 billion.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Collier's new budget will cut some funding for conservation program",
+              "url": "https://www.wgcu.org/top-story/2026-09-18/collier-will-cut-some-funding-for-conservation-program",
+              "date": "2026-09-18"
+            }
+          ]
+        },
+        "environment": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Hall voted on Sept. 18, 2026 to reduce the dedicated tax for Conservation Collier, cutting the land-preservation program's annual collections from about $35 million to about $30 million in order to hold the overall county tax rate down. Commissioners Rick LoCastro and Burt Saunders voted against the cut; Dan Kowal and William McDaniel joined Hall.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Collier's new budget will cut some funding for conservation program",
+              "url": "https://www.wgcu.org/top-story/2026-09-18/collier-will-cut-some-funding-for-conservation-program",
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Sept. 18, 2026 final budget hearing: voted with the 3-2 majority to cut about $5 million a year from Conservation Collier's dedicated land-acquisition tax (from roughly $35 million to $30 million a year), reaching the rolled-back property-tax rate; the board then adopted the more than $3 billion FY2027 budget unanimously.",
+          "sources": [
+            {
+              "title": "Collier's new budget will cut some funding for conservation program",
+              "url": "https://www.wgcu.org/top-story/2026-09-18/collier-will-cut-some-funding-for-conservation-program",
+              "date": "2026-09-18"
+            }
+          ]
+        }
+      ],
       "endorsements": []
     }
   ]

@@ -574,12 +574,17 @@
           "url": "https://lakeandsumterstyle.com/2026-lake-county-primary-election-results/"
         }
       ],
-      "withdrawn": "Withdrew (Florida Division of Elections, 2026 general election candidate list)",
-      "withdrawn_note": "The state candidate list changed this write-in candidate from Qualified to Withdrew between Sept. 29 and Oct. 7, 2026.",
+      "withdrawn": "Withdrew",
+      "withdrawn_note": null,
       "withdrawn_sources": [
         {
-          "title": "Florida Division of Elections 2026 general election candidate list",
-          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "title": "Lake County Candidates 2026 (Who's Running) - Board of County Commissioners District 4",
+          "url": "https://whosrunning.app/counties/Lake",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "Lake County Commissioner District 4 2026: Campione vs. Emery - The Ballot Brief",
+          "url": "https://theballotbrief.com/state/florida/lake-county/commissioner-district-4",
           "date": "2026-10-07"
         }
       ]
