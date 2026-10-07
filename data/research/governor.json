@@ -42,18 +42,13 @@
     "property_tax": {
      "stance": 2,
      "confidence": "stated",
-     "summary": "Donalds said on Sept. 23, 2026 that he will vote for Amendment 3, which raises the homestead exemption, and described eliminating homestead property taxes as a long-term goal. He told local officials worried about lost revenue to review their budgets and cut spending.",
-     "quote": "",
+     "summary": "Donalds said he supports Amendment 3, the November ballot measure raising the homestead exemption for non-school property taxes to $150,000 in 2027 and $250,000 in 2028.",
+     "quote": "It's not our money. It belongs to the citizen.",
      "sources": [
       {
-       "title": "Byron Donalds, David Jolly outline differences on property taxes, insurance at Fort Lauderdale summit",
-       "url": "https://www.cbsnews.com/miami/news/florida-governor-byron-donalds-david-jolly-fort-lauderdale-summit/",
-       "date": "2026-09-23"
-      },
-      {
-       "title": "Gubernatorial Candidate Byron Donalds talks costs, insurance at Martin County roundtable",
-       "url": "https://cbs12.com/news/local/gubernatorial-candidate-byron-donalds-talks-costs-insurance-at-martin-county-roundtable-gop-trump-republican-amendment-3-property-homestead-9-23-26",
-       "date": "2026-09-23"
+       "title": "Donalds vs. Jolly: Where Florida's governor candidates stand on AI, data centers and Amendment 3",
+       "url": "https://www.news4jax.com/news/politics/2026/10/06/jolly-vs-donalds-where-floridas-governor-candidates-stand-on-ai-data-centers-and-amendment-3/",
+       "date": "2026-10-06"
       }
      ]
     },
@@ -106,23 +101,18 @@
     "immigration": {
      "stance": 2,
      "confidence": "stated",
-     "summary": "Donalds' 'Zero Tolerance' public-safety agenda would mandate full cooperation between state/local agencies and federal immigration authorities, ban sanctuary policies statewide and reserve taxpayer benefits for citizens and legal residents. He defended Florida's 'Alligator Alcatraz' detention facility and the state's enforcement expansion, calling the crackdown 'mission accomplished' while seeking federal repayment; in May 2026 he backed talks to wind the facility down as the federal government takes over detention.",
-     "quote": null,
+     "summary": "At a Florida A&M University student town hall in Lee Hall on Sept. 29, 2026, Donalds defended immigration enforcement and the university's 287(g) agreement with federal immigration authorities, saying Florida would comply with federal immigration law and that lawful residents had nothing to fear.",
+     "quote": "We have a responsibility to comply with federal law, and we will comply with federal law in the state of Florida…There has to be a standard in immigration.",
      "sources": [
       {
-       "title": "Byron Donalds outlines law-and-order agenda at Melbourne public safety roundtable (Florida's Voice)",
-       "url": "https://flvoicenews.com/byron-donalds-outlines-law-and-order-agenda-at-melbourne-public-safety-roundtable/",
-       "date": "2026"
+       "title": "Byron Donalds faces student pushback at tumultuous Florida A&M townhall",
+       "url": "https://www.thefamuanonline.com/2026/09/30/byron-donalds-faces-student-pushback-at-tumultuous-florida-am-townhall/",
+       "date": "2026-09-30"
       },
       {
-       "title": "Byron Donalds calls Florida immigration crackdown 'mission accomplished,' seeks federal repayment (WPTV)",
-       "url": "https://www.wptv.com/news/politics/byron-donalds-calls-florida-immigration-crackdown-mission-accomplished-seeks-federal-repayment",
-       "date": "2026"
-      },
-      {
-       "title": "Byron Donalds Backs Preliminary Talks to Close Alligator Alcatraz (The Floridian)",
-       "url": "https://floridianpress.com/2026/05/byron-donalds-backs-preliminary-talks-to-close-alligator-alcatraz/",
-       "date": "2026-05"
+       "title": "Gubernatorial candidate Byron Donalds speaks to FAMU for first townhall",
+       "url": "https://news.wfsu.org/wfsu-local-news/2026-10-02/gubernatorial-candidate-byron-donalds-speaks-to-famu-for-first-townhall",
+       "date": "2026-10-02"
       }
      ]
     },
@@ -220,23 +210,13 @@
     "education_choice": {
      "stance": 2,
      "confidence": "stated",
-     "summary": "Donalds calls himself a staunch supporter of Florida's universal voucher program and proposes a 'universal scorecard' of outcomes for all schools, co-locating charter, private or parochial schools in under-enrolled district buildings, and a career-pathway plan for every student starting in sixth grade. He did not propose teacher raises in his PTA remarks.",
-     "quote": null,
+     "summary": "At the FAMU town hall Donalds said his focus for the state university system is making sure degrees lead to economic outcomes for graduates.",
+     "quote": "My view and my focus with our state university system is to make sure that when a young adult gets a degree from a state university, that degree is not just a piece of paper.",
      "sources": [
       {
-       "title": "Teacher pay, vouchers: Candidates for Florida governor share education plan (Tampa Bay Times via Yahoo)",
-       "url": "https://www.yahoo.com/news/politics/articles/teacher-pay-vouchers-candidates-florida-195700038.html",
-       "date": "2026"
-      },
-      {
-       "title": "Byron Donalds pushes Florida education plan centered on building student career pathways starting in 6th grade (FOX 13 Tampa Bay)",
-       "url": "https://www.fox13news.com/news/byron-donalds-florida-education-plan-building-student-career-6th-grade",
-       "date": "2026"
-      },
-      {
-       "title": "What Byron and Erika Donalds' gospel of school choice could mean for Florida (WLRN)",
-       "url": "https://www.wlrn.org/government-politics/2026-08-03/what-byron-and-erika-donalds-gospel-of-school-choice-could-mean-for-florida",
-       "date": "2026-08-03"
+       "title": "Gubernatorial candidate Byron Donalds' town hall at FAMU flares in heated debate, interrupted by fire alarm",
+       "url": "https://www.wctv.tv/2026/09/30/gubernatorial-candidate-byron-donalds-town-hall-famu-flares-heated-debate-interrupted-by-fire-alarm/",
+       "date": "2026-09-30"
       }
      ]
     },
@@ -266,18 +246,13 @@
     "growth": {
      "stance": 0,
      "confidence": "stated",
-     "summary": "Mixed: Donalds says Florida needs growth management, calling for every local government to adopt comprehensive plans that mesh with a state plan and are approved by the state, and for 'concurrency' so roads, sewers and other infrastructure are funded before development. At the same time he wants to cut permitting timelines and zoning restraints to lower housing costs.",
-     "quote": null,
+     "summary": "On data centers, Donalds said siting decisions belong to local governments rather than the state and that he would not impose a state moratorium, while saying existing permit requirements should keep utility bills from rising and protect fresh water.",
+     "quote": "County commissioners issue building permits, not governors.",
      "sources": [
       {
-       "title": "GOP frontrunner for governor says Florida needs growth management (Florida Phoenix)",
-       "url": "https://floridaphoenix.com/2026/05/21/gop-frontrunner-for-governor-says-florida-needs-growth-management/",
-       "date": "2026-05-21"
-      },
-      {
-       "title": "Byron Donalds says Miami-Dade must 'get creative' in homebuilding for first-time owners (Florida Politics)",
-       "url": "https://floridapolitics.com/archives/819981-byron-donalds-says-miami-dade-must-get-creative-in-homebuilding-for-first-time-owners/",
-       "date": "2026-09"
+       "title": "Donalds vs. Jolly: Where Florida's governor candidates stand on AI, data centers and Amendment 3",
+       "url": "https://www.news4jax.com/news/politics/2026/10/06/jolly-vs-donalds-where-floridas-governor-candidates-stand-on-ai-data-centers-and-amendment-3/",
+       "date": "2026-10-06"
       }
      ]
     },
@@ -636,6 +611,60 @@
        "date": "2026-09-23"
       }
      ]
+    },
+    {
+     "title": "Appeared at FAMU student town hall; questioned on DEI and merit",
+     "summary": "Donalds appeared before several hundred students at FAMU on Sept. 29, 2026 in a town hall arranged after the university cancelled its planned gubernatorial debate. He broke with the organizers' plan to take questions only from preselected students, argued over immigration and DEI with members of the audience, and the event was cut short by a fire alarm around 9 p.m. He defended Florida's ban on government DEI programs while saying he supports diversity but not the 'equity' component.",
+     "sources": [
+      {
+       "title": "Byron Donalds faces student pushback at tumultuous Florida A&M townhall",
+       "url": "https://www.thefamuanonline.com/2026/09/30/byron-donalds-faces-student-pushback-at-tumultuous-florida-am-townhall/",
+       "date": "2026-09-30"
+      },
+      {
+       "title": "Gubernatorial candidate Byron Donalds speaks to FAMU for first townhall",
+       "url": "https://news.wfsu.org/wfsu-local-news/2026-10-02/gubernatorial-candidate-byron-donalds-speaks-to-famu-for-first-townhall",
+       "date": "2026-10-02"
+      }
+     ]
+    },
+    {
+     "title": "Artificial intelligence",
+     "summary": "Donalds said AI adoption cannot be stopped by regulating the largest companies and that his priority is protecting children, pointing to Space Coast commercial development as an economic opportunity.",
+     "sources": [
+      {
+       "title": "Donalds vs. Jolly: Where Florida's governor candidates stand on AI, data centers and Amendment 3",
+       "url": "https://www.news4jax.com/news/politics/2026/10/06/jolly-vs-donalds-where-floridas-governor-candidates-stand-on-ai-data-centers-and-amendment-3/",
+       "date": "2026-10-06"
+      }
+     ]
+    },
+    {
+     "title": "'Defending the Florida Dream' tour and new ad (campaign activity, not a position)",
+     "summary": "Donalds held a rally in Kissimmee and a Suncoast stop at Owen's Fish Camp in Lakewood Ranch as part of a statewide tour, telling supporters 'We want the people of Florida to be successful because we want Florida to continue to be the best state in America.' On Oct. 6 his campaign released an ad arguing Jolly would reverse Gov. Ron DeSantis' agenda.",
+     "sources": [
+      {
+       "title": "Florida governor's race intensifies as Donalds and Jolly court voters statewide",
+       "url": "https://www.mysuncoast.com/2026/10/03/florida-governors-race-intensifies-donalds-jolly-court-voters-statewide/",
+       "date": "2026-10-03"
+      }
+     ]
+    },
+    {
+     "title": "Polling (not a position)",
+     "summary": "An NBC 6/Telemundo poll by Mason-Dixon taken Sept. 28-Oct. 1 and released Oct. 6 put Donalds at 48% and Jolly at 41% among likely voters, margin of error about 4 points. An earlier Change Research survey dated Sept. 28 had Jolly 48%, Donalds 46%.",
+     "sources": [
+      {
+       "title": "Ashley Moody Comfortably Leads in Florida Senate Race (NBC6/Telemundo/Mason-Dixon)",
+       "url": "https://politicalwire.com/2026/10/06/moody-leads-nixon-in-florida-senate-race-3/",
+       "date": "2026-10-06"
+      },
+      {
+       "title": "2026 Polls: Florida Governor",
+       "url": "https://www.270towin.com/2026-governor-polls/florida",
+       "date": "2026-10-07"
+      }
+     ]
     }
    ],
    "record": [
@@ -983,18 +1012,13 @@
     "property_tax": {
      "stance": -1,
      "confidence": "stated",
-     "summary": "Jolly said on Sept. 23 and Sept. 28, 2026 that he opposes Amendment 3 because it would handcuff local governments and shift power to Tallahassee, though he would respect the voters' decision. He proposes a targeted property-tax break for first-time homebuyers instead.",
-     "quote": "",
+     "summary": "Jolly said he will vote against Amendment 3, arguing it would cut funding for law enforcement and other local services, and that he would instead target property-tax relief at first-time homebuyers and seniors.",
+     "quote": "defund law enforcement along with critical services",
      "sources": [
       {
-       "title": "Byron Donalds, David Jolly outline differences on property taxes, insurance at Fort Lauderdale summit",
-       "url": "https://www.cbsnews.com/miami/news/florida-governor-byron-donalds-david-jolly-fort-lauderdale-summit/",
-       "date": "2026-09-23"
-      },
-      {
-       "title": "David Jolly implores national Democrats to help in the Florida governor's race",
-       "url": "https://news.wfsu.org/state-news/2026-09-28/david-jolly-implores-national-democrats-to-help-in-the-florida-governors-race",
-       "date": "2026-09-28"
+       "title": "Donalds vs. Jolly: Where Florida's governor candidates stand on AI, data centers and Amendment 3",
+       "url": "https://www.news4jax.com/news/politics/2026/10/06/jolly-vs-donalds-where-floridas-governor-candidates-stand-on-ai-data-centers-and-amendment-3/",
+       "date": "2026-10-06"
       }
      ]
     },
@@ -1182,13 +1206,13 @@
     "growth": {
      "stance": 2,
      "confidence": "stated",
-     "summary": "Jolly campaigned through late September 2026 on halting data-center construction, telling the Sept. 23 summit that about 75% of Floridians want the state to slow down; PolitiFact rated that claim Mostly True, citing surveys showing 49% to 79% opposition.",
-     "quote": "75% of the state is saying 'please don't do this right now. Give us more time.'",
+     "summary": "Jolly repeated that he would impose an immediate moratorium on new data centers, citing health concerns, the pace of development and polling showing most Florida voters oppose the facilities.",
+     "quote": "This is moving too quickly.",
      "sources": [
       {
-       "title": "Florida governor's race: Fact-checking Byron Donalds, David Jolly at WLRN's Sunshine Economy Summit",
-       "url": "https://politifact.com/article/2026/sep/23/florida-governor-jolly-donalds-wlrn-economy-summit/",
-       "date": "2026-09-23"
+       "title": "Donalds vs. Jolly: Where Florida's governor candidates stand on AI, data centers and Amendment 3",
+       "url": "https://www.news4jax.com/news/politics/2026/10/06/jolly-vs-donalds-where-floridas-governor-candidates-stand-on-ai-data-centers-and-amendment-3/",
+       "date": "2026-10-06"
       }
      ]
     },
@@ -1562,6 +1586,39 @@
        "date": "2026-09-25"
       }
      ]
+    },
+    {
+     "title": "Artificial intelligence in schools",
+     "summary": "Jolly said he supports AI as a classroom tool but opposes using it to replace teachers, and proposed retraining programs modeled on trade-adjustment assistance if AI displaces workers. He said 'AI should not replace a teacher.'",
+     "sources": [
+      {
+       "title": "Donalds vs. Jolly: Where Florida's governor candidates stand on AI, data centers and Amendment 3",
+       "url": "https://www.news4jax.com/news/politics/2026/10/06/jolly-vs-donalds-where-floridas-governor-candidates-stand-on-ai-data-centers-and-amendment-3/",
+       "date": "2026-10-06"
+      }
+     ]
+    },
+    {
+     "title": "Public education funding and tourist-development taxes",
+     "summary": "Jolly met the Sarasota County School Board on Saturday, Oct. 3, 2026 to discuss his education plan, calling for more public-education investment and for redirecting tourist-tax dollars to schools: 'I just don't think we have a crisis in convention centers. I think we have a crisis in public education.' He also campaigned on wages and affordability and appeared in Coconut Creek with former U.S. Ambassador Rahm Emanuel.",
+     "sources": [
+      {
+       "title": "Florida governor's race intensifies as Donalds and Jolly court voters statewide",
+       "url": "https://www.mysuncoast.com/2026/10/03/florida-governors-race-intensifies-donalds-jolly-court-voters-statewide/",
+       "date": "2026-10-03"
+      }
+     ]
+    },
+    {
+     "title": "Polling (not a position)",
+     "summary": "An NBC 6/Telemundo poll by Mason-Dixon taken Sept. 28-Oct. 1 and released Oct. 6 put Donalds at 48% and Jolly at 41%, with about one in four independents undecided.",
+     "sources": [
+      {
+       "title": "Ashley Moody Comfortably Leads in Florida Senate Race (NBC6/Telemundo/Mason-Dixon)",
+       "url": "https://politicalwire.com/2026/10/06/moody-leads-nixon-in-florida-senate-race-3/",
+       "date": "2026-10-06"
+      }
+     ]
     }
    ],
    "record": [
@@ -1784,6 +1841,16 @@
        "title": "Hakeem Jeffries Endorses David Jolly For Governor - The Floridian",
        "url": "https://floridianpress.com/2026/09/hakeem-jeffries-endorses-david-jolly-for-governor/",
        "date": "2026-09-13"
+      }
+     ]
+    },
+    {
+     "by": "Miami Herald Editorial Board",
+     "sources": [
+      {
+       "title": "Miami Herald Endorses David Jolly For Governor",
+       "url": "https://floridianpress.com/2026/10/miami-herald-endorses-david-jolly-for-governor/",
+       "date": "2026-10-01"
       }
      ]
     }
@@ -3895,6 +3962,40 @@
      "title": "'Disappointed': FAMU cancels gubernatorial debate",
      "url": "https://www.wctv.tv/2026/09/24/disappointed-famu-cancels-gubernatorial-debate/",
      "date": "2026-09-24"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-12 — Scheduled — student town hall, not a debate",
+   "host": "FAMU Student Government Association, Lee Hall, Tallahassee, 7 p.m.",
+   "who": "Jolly is to take students' questions alone, the second of the two separate town halls FAMU substituted for the cancelled Donalds-Jolly debate.",
+   "sources": [
+    {
+     "title": "Gubernatorial candidate Byron Donalds speaks to FAMU for first townhall",
+     "url": "https://news.wfsu.org/wfsu-local-news/2026-10-02/gubernatorial-candidate-byron-donalds-speaks-to-famu-for-first-townhall",
+     "date": "2026-10-02"
+    },
+    {
+     "title": "Gubernatorial candidate Byron Donalds' town hall at FAMU flares in heated debate, interrupted by fire alarm",
+     "url": "https://www.wctv.tv/2026/09/30/gubernatorial-candidate-byron-donalds-town-hall-famu-flares-heated-debate-interrupted-by-fire-alarm/",
+     "date": "2026-09-30"
+    }
+   ]
+  },
+  {
+   "date": "",
+   "host": "No debate or forum has been scheduled in this race (checked Oct. 7, 2026)",
+   "who": "No governor debate has been agreed since Jolly declined all general-election debates on Sept. 20-21, 2026. Nothing newly scheduled was found through Oct. 7. The Miami Herald, in endorsing Jolly on Oct. 1, called his refusal 'a misstep, and voters are the ones who will pay the price.' Reporting notes Florida has not had a general-election governor's race without a debate since 1974.",
+   "sources": [
+    {
+     "title": "Donalds vs. Jolly: Where Florida's governor candidates stand on AI, data centers and Amendment 3 (no debate mentioned)",
+     "url": "https://www.news4jax.com/news/politics/2026/10/06/jolly-vs-donalds-where-floridas-governor-candidates-stand-on-ai-data-centers-and-amendment-3/",
+     "date": "2026-10-06"
+    },
+    {
+     "title": "Miami Herald Endorses David Jolly For Governor",
+     "url": "https://floridianpress.com/2026/10/miami-herald-endorses-david-jolly-for-governor/",
+     "date": "2026-10-01"
     }
    ]
   }
