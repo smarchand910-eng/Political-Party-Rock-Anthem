@@ -573,6 +573,15 @@
           "title": "2026 Lake County Primary Election Results",
           "url": "https://lakeandsumterstyle.com/2026-lake-county-primary-election-results/"
         }
+      ],
+      "withdrawn": "Withdrew (Florida Division of Elections, 2026 general election candidate list)",
+      "withdrawn_note": "The state candidate list changed this write-in candidate from Qualified to Withdrew between Sept. 29 and Oct. 7, 2026.",
+      "withdrawn_sources": [
+        {
+          "title": "Florida Division of Elections 2026 general election candidate list",
+          "url": "https://dos.elections.myflorida.com/candidates/CanList.asp",
+          "date": "2026-10-07"
+        }
       ]
     },
     {

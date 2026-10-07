@@ -14,9 +14,10 @@
       "notes": "URL seen in search result (votealachua.gov/325/File-to-Run-in-2026). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Mon Oct 19 – Sun Nov 1, 2026",
-        "hours": "9 a.m.–6 p.m. daily",
+        "hours": "9 a.m.–6 p.m.",
         "sites_url": "https://www.votealachua.gov/213/Early-Voting",
-        "note": "From the Alachua County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 9 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 9
       }
     },
     "Baker": {
@@ -26,10 +27,11 @@
       "county_seat": "Macclenny",
       "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": "8:30 a.m.–6 p.m. at most sites; some sites or days differ",
         "sites_url": "https://votebakerfl.gov/early-voting/",
-        "note": "General Election early-voting dates and hours had not been posted on the Baker County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "Official filing with the state: 1 early-voting sites, open 8 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 1
       }
     },
     "Bay": {
@@ -40,9 +42,10 @@
       "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Mon Oct 19 – Sat Oct 31, 2026",
-        "hours": null,
+        "hours": "10 a.m.–6 p.m. at most sites; some sites or days differ",
         "sites_url": "https://www.bayvotesfl.gov/voters/vote-early/",
-        "note": "From the Bay County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go. Daily hours were not yet posted when checked."
+        "note": "Official filing with the state: 9 early-voting sites, open 13 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 9
       }
     },
     "Bradford": {
@@ -55,7 +58,8 @@
         "dates": "Mon Oct 19 – Sun Nov 1, 2026",
         "hours": "9 a.m.–6 p.m.",
         "sites_url": "https://www.votebradfordfl.gov/election/early_voting.php",
-        "note": "From the Bradford County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 2 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 2
       }
     },
     "Brevard": {
@@ -65,10 +69,11 @@
       "county_seat": "Titusville",
       "notes": "URL seen in search result (votebrevard.gov/Candidate-Information/2026-Candidates). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
-        "hours": "Mon–Fri 8 a.m.–6 p.m.; Sat–Sun 8 a.m.–4 p.m.",
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "8 a.m.–6 p.m. at most sites; some sites or days differ",
         "sites_url": "https://www.votebrevard.gov/Election-Information/Early-Voting",
-        "note": "From the Brevard County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 11 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 11
       }
     },
     "Broward": {
@@ -81,7 +86,8 @@
         "dates": "Mon Oct 19 – Sun Nov 1, 2026",
         "hours": "7 a.m.–7 p.m.",
         "sites_url": "https://browardvotes.gov/voters/early-voting-ballot-return",
-        "note": "From the Broward County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 30 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 30
       }
     },
     "Calhoun": {
@@ -91,10 +97,11 @@
       "county_seat": "Blountstown",
       "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": "7 a.m.–5 p.m. at most sites; some sites or days differ",
         "sites_url": "https://votecalhounfl.gov/ways-to-vote/early-voting/",
-        "note": "General Election early-voting dates and hours had not been posted on the Calhoun County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "Official filing with the state: 2 early-voting sites, open 13 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 2
       }
     },
     "Charlotte": {
@@ -104,10 +111,11 @@
       "county_seat": "Punta Gorda",
       "notes": "No SOE URL seen in search results. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
         "hours": "7 a.m.–7 p.m.",
         "sites_url": "https://www.soecharlottecountyfl.gov/Calendar.aspx?EID=338",
-        "note": "From the Charlotte County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 5 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 5
       }
     },
     "Citrus": {
@@ -117,10 +125,11 @@
       "county_seat": "Inverness",
       "notes": "URL seen in search result (votecitrus.gov). 2026 offices page: https://www.votecitrus.gov/188/2026-Offices-Up-for-Election Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Thu Oct 22 – Sat Oct 31, 2026 (includes weekends)",
+        "dates": "Thu Oct 22 – Sat Oct 31, 2026",
         "hours": "9 a.m.–6 p.m.",
         "sites_url": "https://www.votecitrus.gov/238/2026-Early-Voting-Sites-Schedule",
-        "note": "From the Citrus County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 6 early-voting sites, open 10 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 6
       }
     },
     "Clay": {
@@ -131,9 +140,10 @@
       "notes": "Domain ClayElections.gov listed in a search snippet of the state directory; not independently verified. Supervisor: Chris H. Chambless. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Fri Oct 23 – Sat Oct 31, 2026",
-        "hours": "9 a.m.–6 p.m. daily at all 7 sites",
+        "hours": "9 a.m.–6 p.m.",
         "sites_url": "https://clayelections.gov/election-information/early-voting-sites/",
-        "note": "From the Clay County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 7 early-voting sites, open 9 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 7
       }
     },
     "Collier": {
@@ -143,10 +153,11 @@
       "county_seat": "Naples (East Naples)",
       "notes": "URL seen in search result (colliervotes.gov/m/newsflash/home/detail/105). Supervisor: Melissa Blazier. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Thu Oct 22 – Sat Oct 31, 2026",
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
         "hours": "9 a.m.–6 p.m.",
         "sites_url": "https://www.colliervotes.gov/202/Vote-Early",
-        "note": "From the Collier County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 12 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 12
       }
     },
     "Columbia": {
@@ -156,10 +167,11 @@
       "county_seat": "Lake City",
       "notes": "Domain VoteColumbiaFL.gov listed in a search snippet of the state directory; not independently verified. Supervisor: Tomi Stinson Brown. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
-        "hours": "8:30 a.m.–6:30 p.m. (6 p.m. in Fort White)",
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "8:30 a.m.–6 p.m. at most sites; some sites or days differ",
         "sites_url": "https://www.votecolumbiafl.gov/voter_information/early_voting.php",
-        "note": "From the Columbia County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 2 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 2
       }
     },
     "DeSoto": {
@@ -169,10 +181,11 @@
       "county_seat": "Arcadia",
       "notes": "Domain VoteDeSoto.com listed in a search snippet of the state directory; not independently verified. Supervisor: Debbie Wertz. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Thu Oct 22 – Sat Oct 31, 2026",
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
         "hours": "8 a.m.–5 p.m.",
         "sites_url": "https://votedesotofl.gov/voter-information/how-to-vote/early-voting/",
-        "note": "From the DeSoto County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 2 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 2
       }
     },
     "Dixie": {
@@ -183,9 +196,10 @@
       "notes": "Domain DixieVotes.com listed in a search snippet of the state directory; not independently verified. Supervisor: Darbi Chaires. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Thu Oct 22 – Sat Oct 31, 2026",
-        "hours": "Mon–Sat 8 a.m.–6 p.m.; Sun 8 a.m.–4 p.m.",
+        "hours": "8 a.m.–6 p.m. at most sites; some sites or days differ",
         "sites_url": "https://dixievotes.gov/election-information/early-voting/",
-        "note": "From the Dixie County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 1 early-voting sites, open 10 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 1
       }
     },
     "Duval": {
@@ -195,10 +209,11 @@
       "county_seat": "Jacksonville",
       "notes": "Snippet listed 'DuvalElections.com'; current domain uncertain (may be duvalelections.gov) so left null. Supervisor: Jerry Holland. Duval is consolidated with the City of Jacksonville (no county commission; City Council instead). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Tue Oct 20 – Sun Nov 1, 2026",
-        "hours": "Oct 20–23: 8 a.m.–6 p.m.; Oct 24–25 and Oct 31–Nov 1: 9 a.m.–5 p.m.; Oct 26–30: 7 a.m.–7 p.m.",
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "7 a.m.–7 p.m. at most sites; some sites or days differ",
         "sites_url": "https://www.duvalelections.gov/236/Early-Voting",
-        "note": "From the Duval County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 25 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 25
       }
     },
     "Escambia": {
@@ -208,10 +223,11 @@
       "county_seat": "Pensacola",
       "notes": "Domain EscambiaVotes.gov listed in a search snippet of the state directory; not independently verified. Supervisor: Robert Bender. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
         "hours": "8 a.m.–6 p.m.",
         "sites_url": "https://escambiavotes.gov/early-voting-locations",
-        "note": "From the Escambia County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 11 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 11
       }
     },
     "Flagler": {
@@ -221,10 +237,11 @@
       "county_seat": "Bunnell",
       "notes": "Domain FlaglerElections.com listed in a search snippet of the state directory; not independently verified. Supervisor: Kaiti Lenhart. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": "10 a.m.–6 p.m.",
         "sites_url": "https://www.flaglerelections.gov/Voters/Early-Voting",
-        "note": "General Election early-voting dates and hours had not been posted on the Flagler County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "Official filing with the state: 5 early-voting sites, open 13 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 5
       }
     },
     "Franklin": {
@@ -232,7 +249,14 @@
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Apalachicola",
-      "notes": "An older directory snippet listed votefranklin.com; not confident it is current. Supervisor: Heather Riley. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "An older directory snippet listed votefranklin.com; not confident it is current. Supervisor: Heather Riley. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": "8:30 a.m.–5:30 p.m.",
+        "sites": 2,
+        "note": "Official filing with the state: 2 early-voting sites, open 8 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites_url": "https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/"
+      }
     },
     "Gadsden": {
       "soe_name": "Gadsden County Supervisor of Elections",
@@ -242,9 +266,10 @@
       "notes": "URL seen in search result (votegadsdenfl.gov). Supervisor: Kenya Williams. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Mon Oct 19 – Sun Nov 1, 2026",
-        "hours": null,
+        "hours": "10 a.m.–6 p.m.",
         "sites_url": "https://votegadsdenfl.gov/election-info/early-voting/",
-        "note": "From the Gadsden County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go. Daily hours were not yet posted when checked."
+        "note": "Official filing with the state: 4 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 4
       }
     },
     "Gilchrist": {
@@ -254,10 +279,11 @@
       "county_seat": "Trenton",
       "notes": "An older directory snippet listed votegilchrist.com; not confident it is current. Supervisor: Lisa Darus. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": "8:30 a.m.–6 p.m. at most sites; some sites or days differ",
         "sites_url": "https://www.votegilchrist.com/information_for_voters/early_voting.php",
-        "note": "General Election early-voting dates and hours had not been posted on the Gilchrist County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "Official filing with the state: 1 early-voting sites, open 8 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 1
       }
     },
     "Glades": {
@@ -267,10 +293,11 @@
       "county_seat": "Moore Haven",
       "notes": "An older directory snippet listed voteglades.com; not confident it is current. Supervisor: Aletris Farnam. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
         "hours": "8:30 a.m.–4:30 p.m.",
         "sites_url": "https://voteglades.gov/voting-info/early-voting/",
-        "note": "From the Glades County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 1 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 1
       }
     },
     "Gulf": {
@@ -281,9 +308,10 @@
       "notes": "An older directory snippet listed votegulf.com; not confident it is current. Supervisor: Rhonda Pierce. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Sat Oct 24 – Sat Oct 31, 2026",
-        "hours": null,
+        "hours": "8 a.m.–5 p.m. at most sites; some sites or days differ",
         "sites_url": "https://votegulf.gov/voters/early-voting/",
-        "note": "From the Gulf County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go. Daily hours were not yet posted when checked."
+        "note": "Official filing with the state: 2 early-voting sites, open 8 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 2
       }
     },
     "Hamilton": {
@@ -296,7 +324,8 @@
         "dates": "Sat Oct 24 – Sat Oct 31, 2026",
         "hours": "9 a.m.–5 p.m.",
         "sites_url": "https://www.hamiltonvotesFL.gov/voters/vote-early/",
-        "note": "From the Hamilton County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 1 early-voting sites, open 8 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 1
       }
     },
     "Hardee": {
@@ -306,10 +335,11 @@
       "county_seat": "Wauchula",
       "notes": "URL seen in search result (hardeeflvotes.gov). Supervisor: Diane Smith. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Tue Oct 20 – Sun Nov 1, 2026",
+        "hours": "8:30 a.m.–5 p.m.",
         "sites_url": "https://hardeeflvotes.gov/",
-        "note": "General Election early-voting dates and hours had not been posted on the Hardee County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "Official filing with the state: 1 early-voting sites, open 13 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 1
       }
     },
     "Hendry": {
@@ -319,10 +349,11 @@
       "county_seat": "LaBelle",
       "notes": "An older directory snippet listed hendryelections.org; not confident it is current. Supervisor: Sherry Taylor. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
-        "hours": "9 a.m.–6 p.m. daily",
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "9 a.m.–6 p.m.",
         "sites_url": "https://www.hendryelections.gov/elections/early_voting.php",
-        "note": "From the Hendry County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 2 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 2
       }
     },
     "Hernando": {
@@ -332,10 +363,11 @@
       "county_seat": "Brooksville",
       "notes": "URL seen in search result (hernandovotes.gov). Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Thu Oct 22 – Sat Oct 31, 2026",
+        "hours": "8 a.m.–6 p.m.",
         "sites_url": "https://www.hernandovotes.gov/Voters/Early-Voting",
-        "note": "General Election early-voting dates and hours had not been posted on the Hernando County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "Official filing with the state: 5 early-voting sites, open 10 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 5
       }
     },
     "Highlands": {
@@ -345,10 +377,11 @@
       "county_seat": "Sebring",
       "notes": "URL listed in search snippet. Supervisor: Karen Healy. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "8:30 a.m.–4:30 p.m.",
         "sites_url": "https://www.votehighlands.gov/early-voting",
-        "note": "General Election early-voting dates and hours had not been posted on the Highlands County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "Official filing with the state: 4 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 4
       }
     },
     "Hillsborough": {
@@ -358,10 +391,11 @@
       "county_seat": "Tampa",
       "notes": "URL seen in search result (votehillsborough.gov). Supervisor: Craig Latimer. 'On the Ballot' page: https://www.votehillsborough.gov/180/On-the-Ballot Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "7 a.m.–7 p.m.",
         "sites_url": "https://www.votehillsborough.gov/VOTERS/Early-Voting",
-        "note": "General Election early-voting dates and hours had not been posted on the Hillsborough County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "Official filing with the state: 27 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 27
       }
     },
     "Holmes": {
@@ -374,7 +408,8 @@
         "dates": "Sat Oct 24 – Sat Oct 31, 2026",
         "hours": "8 a.m.–4 p.m.",
         "sites_url": "https://holmeselectionsfl.gov/voter-information/3-ways-to-vote/#early",
-        "note": "From the Holmes County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 1 early-voting sites, open 8 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 1
       }
     },
     "Indian River": {
@@ -384,10 +419,11 @@
       "county_seat": "Vero Beach",
       "notes": "No SOE URL seen in search results. Supervisor: Leslie Rossway Swan. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
-        "hours": "8 a.m.–4 p.m. (Thursdays to 6 p.m.)",
+        "dates": "Tue Oct 20 – Sun Nov 1, 2026",
+        "hours": "8 a.m.–4 p.m. at most sites; some sites or days differ",
         "sites_url": "https://www.voteindianriver.gov/election_information/early_voting_information.php",
-        "note": "From the Indian River County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 4 early-voting sites, open 13 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 4
       }
     },
     "Jackson": {
@@ -397,10 +433,11 @@
       "county_seat": "Marianna",
       "notes": "No SOE URL seen in search results. Supervisor: Carol A. Dunaway. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Thu Oct 22 – Sat Oct 31, 2026",
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
         "hours": "8 a.m.–5:30 p.m.",
         "sites_url": "https://votejacksonfl.gov/event/early-voting-for-general-election/",
-        "note": "From the Jackson County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 3 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 3
       }
     },
     "Jefferson": {
@@ -410,10 +447,11 @@
       "county_seat": "Monticello",
       "notes": "No SOE URL seen in search results. Supervisor: Michelle Milligan. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
         "hours": "8 a.m.–5 p.m.",
         "sites_url": "https://jeffersonvotesfl.gov/vote-early/",
-        "note": "From the Jefferson County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 1 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 1
       }
     },
     "Lafayette": {
@@ -423,10 +461,11 @@
       "county_seat": "Mayo",
       "notes": "No SOE URL seen in search results. Supervisor: Travis Hart. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
         "hours": "8:30 a.m.–4:30 p.m.",
         "sites_url": "https://lafayettevotes.net/early-voting/",
-        "note": "From the Lafayette County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 2 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 2
       }
     },
     "Lake": {
@@ -436,10 +475,11 @@
       "county_seat": "Tavares",
       "notes": "URL seen in search result (lakevotes.gov). Supervisor: Alan Hays. Candidates page: https://www.lakevotes.gov/190/Current-County-Candidates-Committees Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "10 a.m.–6 p.m.",
         "sites_url": "https://www.lakevotes.gov/Voters/Early-Voting",
-        "note": "General Election early-voting dates and hours had not been posted on the Lake County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "Official filing with the state: 12 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 12
       }
     },
     "Lee": {
@@ -449,10 +489,11 @@
       "county_seat": "Fort Myers",
       "notes": "URL seen in search result (lee.vote/246/Offices-to-Be-Elected). Supervisor: Jenna Persons-Mulicka. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
-        "hours": "10 a.m.–6 p.m. daily",
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "10 a.m.–6 p.m.",
         "sites_url": "https://www.lee.vote/229/Early-Voting-Dates-and-Locations",
-        "note": "From the Lee County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 13 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 13
       }
     },
     "Leon": {
@@ -462,10 +503,11 @@
       "county_seat": "Tallahassee",
       "notes": "No SOE URL seen in search results. Supervisor: Mark Earley. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "8:30 a.m.–6 p.m. at most sites; some sites or days differ",
         "sites_url": "https://www.leonvotes.gov/Voters/Early-Voting",
-        "note": "General Election early-voting dates and hours had not been posted on the Leon County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "Official filing with the state: 11 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 11
       }
     },
     "Levy": {
@@ -475,10 +517,11 @@
       "county_seat": "Bronson",
       "notes": "No SOE URL seen in search results. Supervisor: Tammy Jones. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Thu Oct 22 – Sun Nov 1, 2026",
-        "hours": "8 a.m.–5 p.m. daily",
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "8 a.m.–5 p.m.",
         "sites_url": "https://www.votelevy.gov/voters/vote-early/",
-        "note": "From the Levy County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 2 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 2
       }
     },
     "Liberty": {
@@ -486,7 +529,14 @@
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "Bristol",
-      "notes": "No SOE URL seen in search results. Supervisor: Grant Conyers. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Supervisor: Grant Conyers. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": "8 a.m.–4 p.m.",
+        "sites": 1,
+        "note": "Official filing with the state: 1 early-voting sites, open 8 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites_url": "https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/"
+      }
     },
     "Madison": {
       "soe_name": "Madison County Supervisor of Elections",
@@ -496,9 +546,10 @@
       "notes": "No SOE URL seen in search results. Supervisor: Heath Driggers. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Sat Oct 24 – Sat Oct 31, 2026",
-        "hours": "Mon–Fri 8 a.m.–6 p.m.; Sat–Sun 7 a.m.–3 p.m.",
+        "hours": "8 a.m.–6 p.m. at most sites; some sites or days differ",
         "sites_url": "https://www.votemadison.com/vote-early/",
-        "note": "From the Madison County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 4 early-voting sites, open 8 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 4
       }
     },
     "Manatee": {
@@ -509,9 +560,10 @@
       "notes": "URL seen in search result (votemanatee.gov). Supervisor: Scott Farrington. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Mon Oct 19 – Sun Nov 1, 2026",
-        "hours": "8:30 a.m.–6 p.m. daily",
+        "hours": "8:30 a.m.–6 p.m.",
         "sites_url": "https://www.votemanatee.gov/early-voting/",
-        "note": "From the Manatee County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 8 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 8
       }
     },
     "Marion": {
@@ -524,7 +576,8 @@
         "dates": "Thu Oct 22 – Sat Oct 31, 2026",
         "hours": "8 a.m.–6 p.m.",
         "sites_url": "https://www.votemarion.gov/317/Vote-Early",
-        "note": "From the Marion County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 10 early-voting sites, open 10 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 10
       }
     },
     "Martin": {
@@ -535,9 +588,10 @@
       "notes": "No SOE URL seen in search results. Supervisor: Vicki Davis. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Wed Oct 21 – Sat Oct 31, 2026",
-        "hours": "8 a.m.–5 p.m. daily",
+        "hours": "8 a.m.–5 p.m.",
         "sites_url": "https://www.martinvotes.gov/election-information/early-voting/",
-        "note": "From the Martin County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 6 early-voting sites, open 11 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 6
       }
     },
     "Miami-Dade": {
@@ -548,9 +602,10 @@
       "notes": "URL seen in search result (votemiamidade.gov/elections/home.page; also miamidade.gov/elections). Supervisor: Alina Garcia. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Mon Oct 19 – Sun Nov 1, 2026",
-        "hours": "7 a.m.–7 p.m. daily",
+        "hours": "7 a.m.–7 p.m.",
         "sites_url": "https://www.miamidade.gov/elections/early-voting.page",
-        "note": "From the Miami-Dade Elections Department's published General Election early-voting schedule (checked Sept. 29, 2026); a secure ballot intake station is staffed at each site during early-voting hours."
+        "note": "Official filing with the state: 28 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 28
       }
     },
     "Monroe": {
@@ -558,7 +613,14 @@
       "soe_url": "https://www.keyselections.org/",
       "sample_ballot_url": null,
       "county_seat": "Key West",
-      "notes": "Domain KeysElections.org listed in search snippet; not independently verified. Supervisor: Sherri Hodies. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "Domain KeysElections.org listed in search snippet; not independently verified. Supervisor: Sherri Hodies. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sat Oct 31, 2026",
+        "hours": "8:30 a.m.–5 p.m.",
+        "sites": 5,
+        "note": "Official filing with the state: 5 early-voting sites, open 13 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites_url": "https://www.keyselections.org/"
+      }
     },
     "Nassau": {
       "soe_name": "Nassau County Supervisor of Elections",
@@ -570,7 +632,8 @@
         "dates": "Thu Oct 22 – Sat Oct 31, 2026",
         "hours": "9 a.m.–6 p.m.",
         "sites_url": "https://www.votenassaufl.gov/early-voting",
-        "note": "From the Nassau County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 6 early-voting sites, open 10 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 6
       }
     },
     "Okaloosa": {
@@ -581,9 +644,10 @@
       "notes": "URL seen in search result (voteokaloosa.gov). Supervisor: Paul A. Lux. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Mon Oct 19 – Sat Oct 31, 2026",
-        "hours": "7 a.m.–7 p.m. daily",
+        "hours": "7 a.m.–7 p.m.",
         "sites_url": "https://www.voteokaloosa.gov/voters/vote-early/",
-        "note": "From the Okaloosa County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 6 early-voting sites, open 13 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 6
       }
     },
     "Okeechobee": {
@@ -593,10 +657,11 @@
       "county_seat": "Okeechobee",
       "notes": "Domain VoteOkeechobee.gov listed in search snippet; not independently verified. Supervisor: David May. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
+        "hours": "8:30 a.m.–6 p.m.",
         "sites_url": "https://voteokeechobee.gov/voter-education/early-voting/",
-        "note": "General Election early-voting dates and hours had not been posted on the Okeechobee County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "Official filing with the state: 1 early-voting sites, open 8 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 1
       }
     },
     "Orange": {
@@ -609,7 +674,8 @@
         "dates": "Mon Oct 19 – Sun Nov 1, 2026",
         "hours": "8 a.m.–8 p.m.",
         "sites_url": "https://voteorangefl.gov/event/early-voting-general-election/",
-        "note": "From the Orange County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 27 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 27
       }
     },
     "Osceola": {
@@ -617,7 +683,14 @@
       "soe_url": "https://www.voteosceola.gov/",
       "sample_ballot_url": null,
       "county_seat": "Kissimmee",
-      "notes": "Domain VoteOsceola.gov listed in search snippet (osceola.org directory page also seen); not independently verified. Supervisor: Mary Jane Arrington. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "Domain VoteOsceola.gov listed in search snippet (osceola.org directory page also seen); not independently verified. Supervisor: Mary Jane Arrington. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "8 a.m.–8 p.m.",
+        "sites": 11,
+        "note": "Official filing with the state: 11 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites_url": "https://www.voteosceola.gov/"
+      }
     },
     "Palm Beach": {
       "soe_name": "Palm Beach County Supervisor of Elections",
@@ -629,7 +702,8 @@
         "dates": "Mon Oct 19 – Sun Nov 1, 2026",
         "hours": "7 a.m.–7 p.m.",
         "sites_url": "https://www.votepalmbeach.gov/167/Early-Voting",
-        "note": "From the Palm Beach County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 29 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 29
       }
     },
     "Pasco": {
@@ -642,7 +716,8 @@
         "dates": "Mon Oct 19 – Sat Oct 31, 2026",
         "hours": "7 a.m.–7 p.m.",
         "sites_url": "https://www.pascovotes.gov/elections/early_voting/early_voting_schedule.php",
-        "note": "From the Pasco County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 13 early-voting sites, open 13 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 13
       }
     },
     "Pinellas": {
@@ -653,9 +728,10 @@
       "notes": "URL seen in search result (votepinellas.gov). Supervisor: Julie Marcus. Nov 3, 2026 info page: https://www.votepinellas.gov/382/November-3-2026-General-Election-Informa Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Mon Oct 19 – Sun Nov 1, 2026",
-        "hours": "7 a.m.–7 p.m., Monday through Sunday",
+        "hours": "7 a.m.–7 p.m.",
         "sites_url": "https://www.votepinellas.gov/200/Early-Voting",
-        "note": "From the Pinellas County Supervisor of Elections early-voting page (checked Sept. 29, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 8 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 8
       }
     },
     "Polk": {
@@ -665,10 +741,11 @@
       "county_seat": "Bartow",
       "notes": "URL seen in search result (polkelections.gov/31/Candidates). Supervisor: Melony Bell. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "9 a.m.–6 p.m. at most sites; some sites or days differ",
         "sites_url": "https://www.polkelections.gov/Voters/Early-Voting",
-        "note": "General Election early-voting dates and hours had not been posted on the Polk County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "Official filing with the state: 11 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 11
       }
     },
     "Putnam": {
@@ -678,10 +755,11 @@
       "county_seat": "Palatka",
       "notes": "No SOE URL seen in search results. Supervisor: Charles Overturf. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "8:30 a.m.–5:30 p.m.",
         "sites_url": "https://www.voteputnamflorida.gov/election_information/early_voting.php",
-        "note": "General Election early-voting dates and hours had not been posted on the Putnam County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "Official filing with the state: 3 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 3
       }
     },
     "St. Johns": {
@@ -689,7 +767,14 @@
       "soe_url": null,
       "sample_ballot_url": null,
       "county_seat": "St. Augustine",
-      "notes": "No SOE URL seen in search results. Supervisor: Vicky Oakes. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/)."
+      "notes": "No SOE URL seen in search results. Supervisor: Vicky Oakes. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
+      "early_voting": {
+        "dates": "Wed Oct 21 – Sat Oct 31, 2026",
+        "hours": "8 a.m.–6 p.m.",
+        "sites": 10,
+        "note": "Official filing with the state: 10 early-voting sites, open 11 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites_url": "https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/"
+      }
     },
     "St. Lucie": {
       "soe_name": "St. Lucie County Supervisor of Elections",
@@ -699,9 +784,10 @@
       "notes": "No SOE URL seen in search results. Supervisor: Gertrude Walker. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Mon Oct 19 – Sat Oct 31, 2026",
-        "hours": "10 a.m.–6 p.m. daily, including Sun Oct 25",
+        "hours": "10 a.m.–6 p.m.",
         "sites_url": "https://www.stlucievotes.gov/public_records/public_notices/early_voting_election_dates.php",
-        "note": "From the St. Lucie County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 9 early-voting sites, open 13 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 9
       }
     },
     "Santa Rosa": {
@@ -711,10 +797,11 @@
       "county_seat": "Milton",
       "notes": "No SOE URL seen in search results. Supervisor: Tappie A. Villane. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "8 a.m.–6 p.m.",
         "sites_url": "https://votesantarosa.gov/voter-information/how-to-vote/early-voting/",
-        "note": "General Election early-voting dates and hours had not been posted on the Santa Rosa County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "Official filing with the state: 6 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 6
       }
     },
     "Sarasota": {
@@ -725,9 +812,10 @@
       "notes": "URL seen in search result (sarasotavotes.gov). Supervisor: Ron Turner. Offices up for election: https://www.sarasotavotes.gov/181/Offices-up-for-Election Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Mon Oct 19 – Sun Nov 1, 2026",
-        "hours": "8:30 a.m.–6:30 p.m. daily",
+        "hours": "8:30 a.m.–6:30 p.m.",
         "sites_url": "https://www.sarasotavotes.gov/171/Early-Voting",
-        "note": "From the Sarasota County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 11 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 11
       }
     },
     "Seminole": {
@@ -740,7 +828,8 @@
         "dates": "Mon Oct 19 – Sun Nov 1, 2026",
         "hours": "7 a.m.–7 p.m.",
         "sites_url": "https://voteseminole.gov/how-to-vote/early-voting/",
-        "note": "From the Seminole County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 7 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 7
       }
     },
     "Sumter": {
@@ -751,9 +840,10 @@
       "notes": "URL seen in search result. Supervisor: William 'Bill' Keen. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Sat Oct 24 – Sat Oct 31, 2026",
-        "hours": "10 a.m.–6 p.m. daily",
+        "hours": "10 a.m.–6 p.m.",
         "sites_url": "https://elections.sumtercountyfl.gov/",
-        "note": "From the Sumter County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 8 early-voting sites, open 8 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 8
       }
     },
     "Suwannee": {
@@ -766,7 +856,8 @@
         "dates": "Sat Oct 24 – Sat Oct 31, 2026",
         "hours": "8:30 a.m.–5 p.m.",
         "sites_url": "https://www.suwanneevotes.com/vote-early/",
-        "note": "From the Suwannee County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 3 early-voting sites, open 8 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 3
       }
     },
     "Taylor": {
@@ -779,7 +870,8 @@
         "dates": "Sat Oct 24 – Sat Oct 31, 2026",
         "hours": "8 a.m.–5 p.m.",
         "sites_url": "https://www.taylorelectionsfl.gov/early-voting/",
-        "note": "From the Taylor County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 1 early-voting sites, open 8 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 1
       }
     },
     "Union": {
@@ -790,9 +882,10 @@
       "notes": "Domain UnionFLVotes.com listed in search snippet; not independently verified. Supervisor: Deborah K. Osborne. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Sat Oct 24 – Sat Oct 31, 2026",
-        "hours": null,
+        "hours": "8 a.m.–6 p.m.",
         "sites_url": "https://unionflvotes.com/voters/vote-early/",
-        "note": "From the Union County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go. Daily hours were not yet posted when checked."
+        "note": "Official filing with the state: 1 early-voting sites, open 8 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 1
       }
     },
     "Volusia": {
@@ -805,7 +898,8 @@
         "dates": "Mon Oct 19 – Sat Oct 31, 2026",
         "hours": "8 a.m.–6 p.m.",
         "sites_url": "https://www.volusiaelections.gov/elections/early-voting.stml",
-        "note": "From the Volusia County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 9 early-voting sites, open 13 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 9
       }
     },
     "Wakulla": {
@@ -815,10 +909,11 @@
       "county_seat": "Crawfordville",
       "notes": "URL seen in search result (wakullavotes.gov). Supervisor: Joseph 'Joe' Morgan. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": null,
-        "hours": null,
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "8:30 a.m.–5 p.m.",
         "sites_url": "https://vls.vrswebapps.com/#county=wakulla",
-        "note": "General Election early-voting dates and hours had not been posted on the Wakulla County Supervisor of Elections site when checked on Sept. 18, 2026 (or the site blocked automated checks). Florida law requires at least Oct. 24–31; the county may add Oct. 19–23 and Nov. 1."
+        "note": "Official filing with the state: 3 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 3
       }
     },
     "Walton": {
@@ -829,9 +924,10 @@
       "notes": "Domain VoteWalton.gov listed in search snippet; not independently verified. Supervisor: Ryan Messer. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
         "dates": "Mon Oct 19 – Sat Oct 31, 2026",
-        "hours": "Mon–Sat 8:30 a.m.–4:30 p.m.; Sun Oct 25 1–9 p.m.",
+        "hours": "8:30 a.m.–4:30 p.m. at most sites; some sites or days differ",
         "sites_url": "https://votewalton.gov/ways-to-vote/#vearly",
-        "note": "From the Walton County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 4 early-voting sites, open 13 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 4
       }
     },
     "Washington": {
@@ -841,10 +937,11 @@
       "county_seat": "Chipley",
       "notes": "URL seen in search result (wcsoe.gov). Supervisor: Deidra Pettis. Florida Division of Elections supervisor directory: https://dos.fl.gov/elections/contacts/supervisor-of-elections/ (also https://dos.elections.myflorida.com/supervisors/).",
       "early_voting": {
-        "dates": "Sat Oct 24 – Sat Oct 31, 2026",
-        "hours": "Mon–Sat 8:30 a.m.–4:30 p.m.; Sun 9 a.m.–4 p.m.",
+        "dates": "Mon Oct 19 – Sun Nov 1, 2026",
+        "hours": "8:30 a.m.–4:30 p.m. at most sites; some sites or days differ",
         "sites_url": "https://wcsoe.gov/early-voting/",
-        "note": "From the Washington County Supervisor of Elections early-voting page (checked Sept. 18, 2026); sites and hours can change, so confirm before you go."
+        "note": "Official filing with the state: 2 early-voting sites, open 14 days. Sites each have a drop box for mail ballots. Source: Florida Division of Elections, early voting and secure ballot intake station locations for the Nov. 3, 2026 general election (per-county filings published Oct. 2, 2026): https://dos.fl.gov/elections/for-voters/voting/early-voting-and-secure-ballot-intake-stations/",
+        "sites": 2
       }
     }
   }
