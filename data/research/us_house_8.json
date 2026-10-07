@@ -100,18 +100,13 @@
         "abortion": {
           "stance": -1,
           "confidence": "record",
-          "summary": "SBA Pro-Life America lists Haridopolos as a pro-life member who 'has consistently advocated for innocent babies, their mothers & the taxpayers,' and Reproductive Freedom for All's scorecard tracks his votes as opposing abortion rights. No statement specific to Florida's six-week ban was found.",
+          "summary": "Reproductive Freedom for All's congressional scorecard gives Haridopolos a 0 percent 2025 rating: he voted for final passage of H.R. 21, the Born-Alive Abortion Survivors Protection Act, and for H.R. 1, which disqualified Planned Parenthood from Medicaid funding. He has no published position on Florida's six-week ban itself, so this is coded from the federal votes rather than from a statement about state law.",
           "quote": null,
           "sources": [
             {
-              "title": "Mike Haridopolos - SBA Pro-Life America",
-              "url": "https://sbaprolife.org/candidate/mike-haridopolos",
-              "date": null
-            },
-            {
               "title": "Mike Haridopolos's Congressional Scorecard - Reproductive Freedom for All",
               "url": "https://reproductivefreedomforall.org/lawmaker/mike-haridopolos/",
-              "date": null
+              "date": "2025"
             }
           ]
         },

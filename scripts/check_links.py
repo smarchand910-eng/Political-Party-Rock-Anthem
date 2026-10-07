@@ -21,7 +21,7 @@ def probe(u):
     if code in ('404', '410'): return u, 'dead', f'HTTP {code}'
     if code.startswith('2') or code.startswith('3'): return u, 'ok', code
     return u, 'unverified', f'HTTP {code}' if code not in ('000', '') else f'timeout/curl {exit_}'
-with cf.ThreadPoolExecutor(16) as ex: results = list(ex.map(probe, sorted(links)))
+with cf.ThreadPoolExecutor(48) as ex: results = list(ex.map(probe, sorted(links)))
 dead = [(u, why) for u, st, why in results if st == 'dead']
 unv = [(u, why) for u, st, why in results if st == 'unverified']
 lines = [f'# Source link check', '', f'{len(results)} distinct links checked: {len(results) - len(dead) - len(unv)} reachable, {len(dead)} dead, {len(unv)} could not be verified automatically.', '']
