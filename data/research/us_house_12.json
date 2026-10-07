@@ -958,11 +958,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Scrivener lists driving housing costs down as a priority and says government should ensure everyone has access to food, water and housing. He did not name specific housing programs.",
+          "quote": "Everyone needs access to food, water, and housing.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Branden Scrivener (2026)",
+              "url": "https://ballotpedia.org/Branden_Scrivener",
+              "date": "2026-02-06"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -986,18 +992,30 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In his Ballotpedia survey, Scrivener says he would advocate a reformed health system built on expanding Medicaid and Medicare, drawing on his work securing insurance authorizations for patients.",
+          "quote": "I will advocate for a reformed healthcare system in the form of expansions to Medicaid and Medicare",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Branden Scrivener (2026)",
+              "url": "https://ballotpedia.org/Branden_Scrivener",
+              "date": "2026-02-06"
+            }
+          ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Scrivener says he would work to strengthen Social Security to protect seniors' quality of life. He did not address benefit cuts or new revenue specifically.",
+          "quote": "a strengthening of our social security program to ensure quality of life for our seniors",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Branden Scrivener (2026)",
+              "url": "https://ballotpedia.org/Branden_Scrivener",
+              "date": "2026-02-06"
+            }
+          ]
         },
         "education_choice": {
           "stance": -1,

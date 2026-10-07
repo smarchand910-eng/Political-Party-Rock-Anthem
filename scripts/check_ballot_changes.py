@@ -46,13 +46,20 @@ def main():
         except ValueError: continue
         if not num: continue
         on_ballot.setdefault(pat % num, []).append(r)
-    uncontested = []
+    uncontested, contested = [], []
     for rid, rows in sorted(on_ballot.items()):
         running = [x for x in rows if x['StatusCode'] in ('QUA', 'UNO')]
-        if len(running) > 1: continue
         f = os.path.join('data', 'research', rid + '.json')
         if not os.path.exists(f): continue
         g = json.load(open(f, encoding='utf-8'))
+        if len(running) > 1:
+            # The opposite mistake is worse: telling voters a seat is decided hides a live contest from their ballot,
+            # the quiz and the cheat sheet. It happens when a seat is marked decided from a report published before
+            # qualifying closed and an opponent qualifies afterwards.
+            if g.get('on_november_ballot') is False:
+                who = ', '.join(f"{x['NameFirst']} {x['NameLast']} ({x['PartyCode']})" for x in running)
+                contested.append(f"- {g.get('title', rid)}: the guide marks this seat as decided, but the state lists {len(running)} qualified candidates ({who}). Set on_november_ballot back to true.")
+            continue
         if g.get('on_november_ballot') is False: continue
         who = ', '.join(f"{x['NameFirst']} {x['NameLast']} ({x['StatusDesc']})" for x in running) or 'nobody'
         uncontested.append(f"- {g.get('title', rid)}: the state now shows only {who} on the ballot, but the guide still presents it as a November contest. Mark it decided if the seat is filled without a vote.")
@@ -60,6 +67,10 @@ def main():
         changes.append('')
         changes.append('### Races the state now shows as uncontested')
         changes += uncontested
+    if contested:
+        changes.append('')
+        changes.append('### Races the guide marks as decided that are live contests')
+        changes += contested
     if changes:
         print('## Ballot status changes since the committed extract\n')
         print('\n'.join(changes))

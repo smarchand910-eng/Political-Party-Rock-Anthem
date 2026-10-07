@@ -16,7 +16,7 @@
   "on_november_ballot": true,
   "decided_note": null,
   "coverage": "partial",
-  "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
+  "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings.",
   "candidates": [
     {
       "id": "imtiaz_mohammad",
@@ -38,7 +38,39 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "crime": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His campaign site says he will \"support law enforcement\" and lists standing with law enforcement and first responders among his priorities. He has not described specific penalty or funding proposals.",
+          "quote": "Stand with law enforcement, first responders, and neighborhood safety initiatives.",
+          "sources": [
+            {
+              "title": "Imtiaz Mohammad for Florida House District 103, campaign website (accessed Oct. 7, 2026)",
+              "url": "http://imtiazforflorida.com/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He lists the housing crisis among his campaign focuses and says he will support housing options for working families, without naming specific programs, subsidies or zoning changes.",
+          "quote": "Support responsible growth and housing options that help working families stay in the communities they serve.",
+          "sources": [
+            {
+              "title": "Imtiaz Mohammad for Florida House District 103, campaign website (accessed Oct. 7, 2026)",
+              "url": "http://imtiazforflorida.com/",
+              "date": "2026-10-07"
+            },
+            {
+              "title": "Ballotpedia Candidate Connection survey, Imtiaz Mohammad (submitted June 7, 2026)",
+              "url": "https://ballotpedia.org/Imtiaz_Mohammad",
+              "date": "2026-06-07"
+            }
+          ]
+        }
+      },
       "other_issues": [
         {
           "title": "Affordability",

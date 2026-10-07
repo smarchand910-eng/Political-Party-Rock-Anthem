@@ -1425,6 +1425,84 @@
               "date": "2026-09"
             }
           ]
+        },
+        "guns": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Lambert supports nationwide permitless (constitutional) carry for law-abiding adults and national reciprocity, and opposes bans on commonly owned firearms and magazines.",
+          "quote": "I support constitutional carry nationwide for law-abiding adults. No permit. No government permission slip.",
+          "sources": [
+            {
+              "title": "Brian Lambert for Congress: Second Amendment (campaign website, undated; read 2026-10-07)",
+              "url": "https://www.brianlambertforcongress.com/issues/second-amendment",
+              "date": "2026-10"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lambert supports securing all borders and ports of entry with enforcement, technology, staffing and barriers where practical, consistent enforcement of immigration law and ending incentives for illegal entry, while supporting legal immigration. He does not call for mass deportation.",
+          "quote": "I support securing all of America's borders and ports of entry through effective enforcement, modern technology, properly staffed personnel, and physical barriers where they are practical and effective.",
+          "sources": [
+            {
+              "title": "Brian Lambert for Congress: Border Security & Immigration (campaign website, undated; read 2026-10-07)",
+              "url": "https://www.brianlambertforcongress.com/issues/border-security",
+              "date": "2026-10"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lambert says parents should be free to choose public, charter, private, home or career-technical schooling and lists educational choice among his commitments, with less federal involvement. He does not say how public funding should follow students.",
+          "quote": "They deserve the freedom to choose the educational environment that gives their child the greatest opportunity to succeed, whether that's a public school, charter school, private school, homeschool, career and technical education, or another path",
+          "sources": [
+            {
+              "title": "Brian Lambert for Congress: Education (campaign website, undated; read 2026-10-07)",
+              "url": "https://www.brianlambertforcongress.com/issues/education",
+              "date": "2026-10"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Lambert favors patient choice, price transparency, market competition and fewer federal mandates, saying access does not improve when Washington makes more decisions; he also says the government must keep its health-care promises to veterans.",
+          "quote": "I support expanding patient choice through free-market competition, greater price transparency, and fewer unnecessary federal mandates.",
+          "sources": [
+            {
+              "title": "Brian Lambert for Congress: Healthcare Reform (campaign website, undated; read 2026-10-07)",
+              "url": "https://www.brianlambertforcongress.com/issues/healthcare",
+              "date": "2026-10"
+            }
+          ]
+        },
+        "energy": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Lambert backs an all-of-the-above energy strategy, including oil, gas, nuclear and renewables where economical, driven by free markets rather than government mandates or subsidies.",
+          "quote": "I support an all-of-the-above energy strategy that allows American producers to compete and innovate in a free market.",
+          "sources": [
+            {
+              "title": "Brian Lambert for Congress: Energy & American Independence (campaign website, undated; read 2026-10-07)",
+              "url": "https://www.brianlambertforcongress.com/issues/energy",
+              "date": "2026-10"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Lambert says elections should be secure, transparent and easy for eligible citizens to use while making fraud hard to commit, with states continuing to run elections. He neither calls for new restrictions nor for expanded mail voting.",
+          "quote": "I support election systems that are secure, transparent, and easy for eligible citizens to use while making fraud difficult to commit and easy to detect.",
+          "sources": [
+            {
+              "title": "Brian Lambert for Congress: Election Integrity (campaign website, undated; read 2026-10-07)",
+              "url": "https://www.brianlambertforcongress.com/issues/election-integrity",
+              "date": "2026-10"
+            }
+          ]
         }
       },
       "other_issues": [

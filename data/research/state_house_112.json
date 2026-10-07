@@ -13,7 +13,7 @@
   ],
   "what_it_does": "Represents District 112 in the Florida House of Representatives; votes on state laws and the state budget.",
   "on_november_ballot": false,
-  "decided_note": "Provisional: Florida Politics reported on June 8, 2026 (four days before candidate qualifying closed at noon June 12) that the incumbent had drawn no opponent. Whether anyone qualified in the final days could NOT be verified in this sandbox (Division of Elections, Ballotpedia and Wikipedia were blocked), so treat 'not on ballot' as provisional.",
+  "decided_note": "Alex Rizo (Republican) is listed as unopposed by the Florida Division of Elections and is elected without appearing on the November ballot. Source: https://dos.elections.myflorida.com/candidates/CanList.asp",
   "coverage": "partial",
   "verified_ballot_note": "Florida Politics (June 8, 2026) reported incumbent Republican Rep. Alex Rizo had no opposition in HD 112 ahead of the June 12 qualifying deadline (https://floridapolitics.com/archives/800374-with-qualifying-days-away-5-competitive-house-seats-remain-unchallenged/). Final qualifying status not verified. Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
   "candidates": [

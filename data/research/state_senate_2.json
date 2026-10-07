@@ -446,9 +446,9 @@
       "photo_url": "assets/photos/lauren_donahoo.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,
-      "occupation": null,
+      "occupation": "Nurse (15 years); holds bachelor's and master's degrees in public health",
       "residence": null,
-      "background": "Donahoo qualified in June 2026 as the Democratic candidate for Senate District 2 (WUWF). No further biographical information was found in search results.",
+      "background": "Lauren Donahoo describes herself as a nurse of 15 years with bachelor's and master's degrees in public health who has lived on the Gulf Coast most of her life and is a single mother. In her 2026 Ballotpedia survey she lists healthcare access, more funding for public schools and higher teacher pay, and environmental protection as her campaign's main messages.",
       "primary_result": "Sole Democrat reported at qualifying (WUWF).",
       "ballot_status": "verified",
       "roster_sources": [
@@ -509,11 +509,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Donahoo calls healthcare a human right and says she would support legislation to give Floridians better access to affordable, quality care. She did not name specific steps such as Medicaid expansion.",
+          "quote": "Healthcare is a human right and Floridians need better access to affordable quality healthcare.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Lauren Donahoo (2026)",
+              "url": "https://ballotpedia.org/Lauren_Donahoo",
+              "date": "2026-06-30"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -530,11 +536,17 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Donahoo says she wants to support efforts such as the Everglades restoration project to protect and restore Florida's natural resources, parks and beaches. She did not address trade-offs with development.",
+          "quote": "I want to support efforts like these to protect and restore our natural resources, parks, and beaches.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Lauren Donahoo (2026)",
+              "url": "https://ballotpedia.org/Lauren_Donahoo",
+              "date": "2026-06-30"
+            }
+          ]
         },
         "growth": {
           "stance": null,

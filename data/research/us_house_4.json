@@ -931,6 +931,45 @@
               "date": "2026-09"
             }
           ]
+        },
+        "tariffs": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Schaefer's campaign site says tariffs should be a last resort, that American consumers rather than foreign producers pay them, and that tariffs used to shield corporations leave consumers paying higher prices; he also criticizes U.S. use of sanctions and tariffs as foreign-policy tools.",
+          "quote": "To be clear: The American consumer pays the tariff, not the producer in the foreign country.",
+          "sources": [
+            {
+              "title": "Todd Schaefer for Congress: Diplomatic Foreign Policy Solutions (campaign website, undated; read 2026-10-07)",
+              "url": "https://www.toddforfl4.com/issues/diplomatic-foreign-policy-solutions",
+              "date": "2026-10"
+            }
+          ]
+        },
+        "ukraine": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Schaefer lists military aid to Ukraine and Israel among foreign commitments he would cut back as part of reducing defense spending and redirecting money to domestic needs. He does not single out Ukraine aid beyond that.",
+          "quote": "we're still engaged in Iraq, Libya, Somalia, Syria, and Yemen, plus providing extensive military aid and support in Ukraine and Israel, and recent escalations with Iran.",
+          "sources": [
+            {
+              "title": "Todd Schaefer for Congress: Reduce 'Defense' Spending (campaign website, undated; read 2026-10-07)",
+              "url": "https://www.toddforfl4.com/issues/reduce-defense-spending",
+              "date": "2026-10"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Schaefer supports ranked-choice voting so voters can back third-party or independent candidates without the spoiler effect, citing the large share of eligible Americans who do not vote.",
+          "quote": "More choice is more democracy.",
+          "sources": [
+            {
+              "title": "Todd Schaefer for Congress: Issues (campaign website, undated; read 2026-10-07)",
+              "url": "https://www.toddforfl4.com/issues",
+              "date": "2026-10"
+            }
+          ]
         }
       },
       "other_issues": [

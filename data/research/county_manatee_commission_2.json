@@ -225,9 +225,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Business owner (Manatee Harvesting Co.; Smith Global Enterprises Inc.)",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Democrat Charles B. Smith Sr. is a Palmetto businessman and former Palmetto city commissioner and vice mayor. He won the Manatee County Commission District 2 seat in 2014 with 71.2% of the vote, and he ran for the District 2 Democratic nomination again in 2022. He is a founding member of the Manatee-Sarasota chapter of the Southern Christian Leadership Conference and faces incumbent Republican Amanda Ballard in 2026.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -237,8 +237,52 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
-      "other_issues": [],
+      "positions": {
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "At a June 2026 Tiger Bay debate he said infrastructure should be built before new building permits are awarded and criticized building that destroys the environment. In a 2022 questionnaire he said the public should not pay for development's infrastructure and criticized his opponent for supporting every development that came before the commission.",
+          "quote": "I’m for business, however, the public should not be footing the infrastructure cost.",
+          "sources": [
+            {
+              "title": "Manatee County Commission D2 & D1 Debate at Manatee Tiger Bay, June 2026 - The Manatee Muse",
+              "url": "https://themanateemuse.substack.com/p/manatee-county-commission-d2-and",
+              "date": "2026-06-25"
+            },
+            {
+              "title": "Charles B. Smith Runs For Manatee County Commission District 2 Seat - Patch (2022 questionnaire)",
+              "url": "https://patch.com/florida/bradenton/charles-b-smith-runs-manatee-county-commission-district-2-seat",
+              "date": "2022-08-19"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "At the June 2026 Tiger Bay debate he criticized the incumbent for votes he called against the environment and in favor of phosphate company Mosaic, and said the county should pursue economic development rather than building that destroys the environment.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Manatee County Commission D2 & D1 Debate at Manatee Tiger Bay, June 2026 - The Manatee Muse",
+              "url": "https://themanateemuse.substack.com/p/manatee-county-commission-d2-and",
+              "date": "2026-06-25"
+            }
+          ]
+        }
+      },
+      "other_issues": [
+        {
+          "title": "Homelessness",
+          "summary": "At the June 2026 Tiger Bay debate Smith said he had 'no intention of putting homeless people in jail if elected.'",
+          "sources": [
+            {
+              "title": "Manatee County Commission D2 & D1 Debate at Manatee Tiger Bay, June 2026 - The Manatee Muse",
+              "url": "https://themanateemuse.substack.com/p/manatee-county-commission-d2-and",
+              "date": "2026-06-25"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": []

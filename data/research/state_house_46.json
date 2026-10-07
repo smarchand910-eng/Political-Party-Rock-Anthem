@@ -16,7 +16,7 @@
   "on_november_ballot": true,
   "decided_note": null,
   "coverage": "partial",
-  "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
+  "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings.",
   "candidates": [
     {
       "id": "michael_cruz",
@@ -301,9 +301,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Medical professional",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Ivan Rivera is a Kissimmee resident running with no party affiliation; local coverage describes him as a medical professional and refers to him as Dr. Ivan Rivera. He also ran for House District 46 as an NPA candidate in 2022 and 2024, receiving about 3.4% of the vote in 2024. In 2026 he faces Democratic incumbent Jose Alvarez and Republican Michael Cruz.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -314,7 +314,24 @@
         }
       ],
       "positions": {},
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Background sources",
+          "summary": "No campaign website, questionnaire answers or public issue statements were found; biographical details come from local election coverage.",
+          "sources": [
+            {
+              "title": "State, federal seats on August primary ballot (Around Osceola)",
+              "url": "https://www.aroundosceola.com/news/state-federal-seats-august-primary-ballot",
+              "date": "2022-08-17"
+            },
+            {
+              "title": "OSCEOLA VOTES 2026: Nieves headed to House, Alvarez wins primary (Around Osceola)",
+              "url": "https://www.aroundosceola.com/node/22260",
+              "date": "2026-08-18"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [

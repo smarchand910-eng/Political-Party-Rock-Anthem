@@ -213,9 +213,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Information technology and cybersecurity professional",
       "residence": null,
-      "background": "Democratic nominee for District 1.",
+      "background": "Democrat Sari Lindroos-Valimaki of Palmetto is a native of Finland and a naturalized U.S. citizen with an MBA and a career in information technology, cybersecurity and infrastructure. She ran for the at-large District 7 commission seat in 2024 and says the 2021 Piney Point wastewater emergency near her neighborhood spurred that run. In 2026 she faces Republican Elizabeth 'Liz' Arnold and a write-in candidate in District 1.",
       "primary_result": null,
       "positions": {
         "taxes": {
@@ -246,11 +246,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In a 2024 Manatee Chamber of Commerce questionnaire she called for upzoning in strategic locations, inclusionary zoning that mandates a share of affordable units in new developments, fast-track approvals, community land trusts on county land, tax abatements and low-interest loans for affordable housing developers, density bonuses and reduced impact fees for affordable projects.",
+          "quote": "Inclusionary Zoning: Mandate that a percentage of new residential developments be designated for affordable housing to ensure a balanced housing market.",
+          "sources": [
+            {
+              "title": "Sari A. Lindroos-Valimaki - Manatee Chamber of Commerce candidate questionnaire (2024, District 7 race)",
+              "url": "https://www.manateechamber.com/sari-a-lindroos-valimaki/",
+              "date": "2024-08-09"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -295,11 +301,22 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In 2024 she called the commission's easing of wetland buffer protections its biggest mistake and said she would push to reinstate and strengthen them, citing biodiversity and climate resilience. At a June 2026 Tiger Bay debate she said she is 'passionate against Mosaic and phosphates' and stressed protecting farmland.",
+          "quote": "As a commissioner, I would advocate for reinstating and strengthening wetland protections.",
+          "sources": [
+            {
+              "title": "Six questions for Manatee County Commission candidate Sari Lindroos-Valimaki - The Bradenton Journal (2024)",
+              "url": "https://thebradentonjournal.substack.com/p/six-questions-for-manatee-county-2b9",
+              "date": "2024-03-26"
+            },
+            {
+              "title": "Manatee County Commission D2 & D1 Debate at Manatee Tiger Bay, June 2026 - The Manatee Muse",
+              "url": "https://themanateemuse.substack.com/p/manatee-county-commission-d2-and",
+              "date": "2026-06-25"
+            }
+          ]
         },
         "growth": {
           "stance": 2,

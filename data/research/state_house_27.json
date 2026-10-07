@@ -14,10 +14,9 @@
     "Volusia"
   ],
   "what_it_does": "Represents District 27 in the Florida House of Representatives; votes on state laws and the state budget.",
-  "on_november_ballot": false,
-  "decided_note": "Provisional: Florida Politics reported on June 8, 2026 (four days before candidate qualifying closed at noon June 12) that the incumbent had drawn no opponent. Whether anyone qualified in the final days could NOT be verified in this sandbox (Division of Elections, Ballotpedia and Wikipedia were blocked), so treat 'not on ballot' as provisional.",
+  "on_november_ballot": true,
   "coverage": "partial",
-  "verified_ballot_note": "Florida Politics (June 8, 2026) listed HD 27 (R+37; parts of Lake, Marion and Volusia counties) among seats where incumbent Republican Rep. Richard Gentry faced no opposition ahead of the June 12 qualifying deadline (https://floridapolitics.com/archives/800374-with-qualifying-days-away-5-competitive-house-seats-remain-unchallenged/). Final qualifying status not verified. Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
+  "verified_ballot_note": "On the Nov. 3 ballot. The Florida Division of Elections 2026 general-election candidate list (checked Oct. 7, 2026) shows 2 qualified candidates: Andy Ferrari (Democrat), Richard Gentry (Republican). An earlier version of this guide marked the seat as decided, based on a report published before candidate qualifying closed on June 12; that was wrong. Source: https://dos.elections.myflorida.com/candidates/CanList.asp",
   "candidates": [
     {
       "id": "richard_gentry",
@@ -27,9 +26,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": "https://voterichardgentry.com",
-      "occupation": null,
+      "occupation": "Attorney; former staff of the state Office of Public Counsel",
       "residence": null,
-      "background": "Incumbent Republican state representative for HD 27, which spans parts of Lake, Marion and Volusia counties. Reported unopposed as of June 8, 2026.",
+      "background": "Richard Gentry, a Volusia County native who lives in Astor, is an attorney with law and undergraduate degrees from the University of Miami. His campaign says he most recently advocated for consumers before the Public Service Commission and earlier worked with builders and communities on the Growth Management Act and the Sadowski affordable-housing act. He was elected to the House in 2024.",
       "primary_result": null,
       "positions": {
         "taxes": {
@@ -58,11 +57,17 @@
           ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His platform pledges to bring down home insurance premiums and to hold insurance companies accountable for paying legitimate claims; it does not name specific measures such as rate caps.",
+          "quote": "Holding big insurance companies accountable for legitimate claims",
+          "sources": [
+            {
+              "title": "Richard Gentry for State Representative campaign website (2024 platform, still posted)",
+              "url": "https://voterichardgentry.com",
+              "date": "2026-10"
+            }
+          ]
         },
         "housing": {
           "stance": null,
@@ -90,18 +95,55 @@
           ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "His platform lists \"fostering a culture of life\" among his priorities. In the House he voted for bills in 2025 (HB 1517) and 2026 (HB 289) to allow wrongful-death lawsuits over an unborn child.",
+          "quote": "Fostering a culture of LIFE",
+          "sources": [
+            {
+              "title": "Richard Gentry for State Representative campaign website (2024 platform, still posted)",
+              "url": "https://voterichardgentry.com",
+              "date": "2026-10"
+            },
+            {
+              "title": "House roll call, CS/HB 289 (2026) passage, 76-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/289/Vote/HouseVote_h00289c1449.PDF",
+              "date": "2026-01-15"
+            }
+          ]
         },
         "guns": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on HB 759 (March 26, 2025) and voted yes on HB 133 (Jan. 15, 2026); both bills would have lowered the minimum age to buy a rifle from 21 to 18; each passed the House and died in the Senate.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida Senate bill page: HB 759 (2025) Minimum Age for Firearm Purchase or Transfer",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759",
+              "date": "2025-06-16"
+            },
+            {
+              "title": "House roll call, HB 759 (2025) passage, 78-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/759/Vote/HouseVote_h00759__026.PDF",
+              "date": "2025-03-26"
+            },
+            {
+              "title": "Florida Senate bill page: HB 133 (2026) Minimum Age for Firearm Purchase or Transfer",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133",
+              "date": "2026-03-13"
+            },
+            {
+              "title": "House roll call, HB 133 (2026) passage, 74-37",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Florida 2026 legislative session ends: what passed, what failed, what's next (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-03-13/florida-2026-legislative-session-ends-what-passed-what-failed-whats-next",
+              "date": "2026-03-13"
+            }
+          ]
         },
         "healthcare": {
           "stance": null,
@@ -132,11 +174,17 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "His campaign platform lists giving local governments more power to control growth among his priorities.",
+          "quote": "Granting local government more power to control runaway growth",
+          "sources": [
+            {
+              "title": "Richard Gentry for State Representative campaign website (2024 platform, still posted)",
+              "url": "https://voterichardgentry.com",
+              "date": "2026-10"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -146,11 +194,37 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted yes on CS/CS/HB 991 when it passed the House on Feb. 25, 2026 and yes on final House passage March 12, 2026. CS/CS/HB 991 (2026), now law (Ch. 2026-26), requires the state to verify voters' U.S. citizenship using driver-license and other government records and removes student and retirement-home IDs from the IDs accepted at the polls. His platform also lists putting election security and integrity at the forefront of policy.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida Senate bill page: CS/CS/HB 991 (2026) Elections, Chapter 2026-26",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/991",
+              "date": "2026-04-02"
+            },
+            {
+              "title": "House roll call, CS/CS/HB 991 (2026) third-reading passage, 83-31",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/991/Vote/HouseVote_h00991c2602.PDF",
+              "date": "2026-02-25"
+            },
+            {
+              "title": "House roll call, CS/CS/HB 991 (2026) final passage, 77-28",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/991/Vote/HouseVote_h00991e1847.PDF",
+              "date": "2026-03-12"
+            },
+            {
+              "title": "Florida 2026 legislative session ends: what passed, what failed, what's next (WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-03-13/florida-2026-legislative-session-ends-what-passed-what-failed-whats-next",
+              "date": "2026-03-13"
+            },
+            {
+              "title": "Richard Gentry for State Representative campaign website (2024 platform, still posted)",
+              "url": "https://voterichardgentry.com",
+              "date": "2026-10"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -160,11 +234,17 @@
           "sources": []
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His platform pledges to stop what it calls \"woke indoctrination\" of children in public schools.",
+          "quote": "Stopping the WOKE indoctrination of our children in public schools",
+          "sources": [
+            {
+              "title": "Richard Gentry for State Representative campaign website (2024 platform, still posted)",
+              "url": "https://voterichardgentry.com",
+              "date": "2026-10"
+            }
+          ]
         },
         "energy": {
           "stance": null,
@@ -215,6 +295,51 @@
               "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
             }
           ]
+        },
+        {
+          "item": "Voted yes on CS/HB 1517 (2025), which would have allowed parents to sue for the wrongful death of an unborn child (excluding the mother and providers of lawful care); passed the House 79-32 on April 9, 2025 and died in the Senate.",
+          "sources": [
+            {
+              "title": "House roll call, CS/HB 1517 (2025) passage, 79-32",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1517/Vote/HouseVote_h01517c1079.PDF",
+              "date": "2025-04-09"
+            },
+            {
+              "title": "Florida Senate bill page: CS/HB 1517 (2025)",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1517",
+              "date": "2025-06-16"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on CS/HB 289 (2026), which would have allowed parents to sue for the wrongful death of an unborn child (excluding the mother and providers of lawful care); passed the House 76-34 on Jan. 15, 2026 and died in the Senate.",
+          "sources": [
+            {
+              "title": "House roll call, CS/HB 289 (2026) passage, 76-34",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/289/Vote/HouseVote_h00289c1449.PDF",
+              "date": "2026-01-15"
+            },
+            {
+              "title": "Florida Senate bill page: CS/HB 289 (2026)",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/289",
+              "date": "2026-03-13"
+            }
+          ]
+        },
+        {
+          "item": "Voted yes on final House passage of CS/HB 1205 (2025), the law (Ch. 2025-21) that added new rules, registration requirements and penalties for citizen initiative petition drives; passed 81-30 on May 1, 2025.",
+          "sources": [
+            {
+              "title": "House roll call, CS/HB 1205 (2025) final passage, 81-30",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1205/Vote/HouseVote_h01205e1403.PDF",
+              "date": "2025-05-01"
+            },
+            {
+              "title": "Florida Senate bill page: CS/HB 1205 (2025)",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1205",
+              "date": "2025-05-05"
+            }
+          ]
         }
       ],
       "endorsements": [],
@@ -240,9 +365,9 @@
       "photo_url": null,
       "photo_source": null,
       "website": null,
-      "occupation": null,
+      "occupation": "Administrative assistant at an accounting firm; notary public; owner of A+ Rides",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Andy Ferrari, 49, lives in DeLeon Springs in Volusia County and holds an associate degree in psychology from Daytona State College. He was the Democratic nominee for House District 27 in 2024, losing to Republican Richard Gentry with about 30% of the vote, and is challenging Gentry again in 2026. In his 2026 VOTE411 answers he names housing prices, property insurance and public schools as his top concerns.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -252,7 +377,47 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In his 2026 League of Women Voters questionnaire he said he supports full access to abortion.",
+          "quote": "I support any and all access to Abortion. I believe that Abortion should be legal, free and rare.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) 2026 general election guide, State Representative 27 (candidate's own answers; accessed Oct. 7, 2026)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128959",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He said he would support a bill capping how much residential housing costs can rise by law, along with tax incentives for small landlords who own up to five rental houses.",
+          "quote": "I would support any bill that caps the amount of increase allowed by law on residential housing.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) 2026 general election guide, State Representative 27 (candidate's own answers; accessed Oct. 7, 2026)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128959",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked about property insurance and taxes, he warned that if Amendment 3 (the 2026 homestead-exemption increase) passes, Volusia County special-district taxes could be replaced by fees without limits.",
+          "quote": "If Amendment 3 passes, all those current taxes (limited by law) could become fees with no maximum limit.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) 2026 general election guide, State Representative 27 (candidate's own answers; accessed Oct. 7, 2026)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128959",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      },
       "other_issues": [],
       "record": [],
       "endorsements": [],

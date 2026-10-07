@@ -520,7 +520,7 @@
       "website": "https://voteforvarnadore.com/",
       "occupation": "Marketing professional and musician",
       "residence": null,
-      "background": "Republican candidate in the Aug. 18, 2026 HD 71 Republican primary (result unverified).",
+      "background": "Jordan Varnadore is a lifelong Palmetto resident and Palmetto High graduate with a marketing and communications degree from the University of Mississippi. He is vice president of marketing at GarrettRichard, a Palmetto commercial insurance and PEO brokerage he co-founded with his father, and performs locally as a dueling pianist. He was appointed secretary of the Manatee County Republican Executive Committee and won the Aug. 18, 2026 Republican primary.",
       "primary_result": null,
       "positions": {
         "taxes": {
@@ -635,11 +635,22 @@
           "sources": []
         },
         "lgbtq": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His campaign site says schools should teach values, not \"extremist ideologies,\" and that he will protect children from \"radical classroom agendas.\"",
+          "quote": "He’ll ensure our schools teach values—not extremist ideologies.",
+          "sources": [
+            {
+              "title": "Jordan Varnadore for House District 71 (campaign website)",
+              "url": "https://voteforvarnadore.com/",
+              "date": "2026-10"
+            },
+            {
+              "title": "Race Analysis: House District 71 Republican Primary (The Bradenton Times)",
+              "url": "https://thebradentontimes.com/stories/house-district-71-republican-primary-jordan-varnadore-melton-little-and-dylan-modarelli,205493",
+              "date": "2026-07-18"
+            }
+          ]
         },
         "energy": {
           "stance": null,
@@ -744,7 +755,7 @@
       "website": "https://www.oceanforflorida.com/",
       "occupation": "Public policy and administration student, St. Petersburg College; Palmetto",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified). Not yet researched.",
+      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Qualified).",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [

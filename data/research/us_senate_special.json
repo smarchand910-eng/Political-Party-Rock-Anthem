@@ -2144,7 +2144,7 @@
       "incumbent": false,
       "photo_url": "assets/photos/neil_gillespie.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
-      "website": "https://neil4justice.blogspot.com/",
+      "website": "https://neilgillespie4senate.blogspot.com/",
       "occupation": "Blogger and self-described public-interest advocate; pro se litigant and justice-reform activist",
       "residence": "Ocala, Marion County",
       "background": "Neil J. Gillespie, 68, is an Ocala (Oak Run) resident, blogger and founder of 'Justice Network,' which he describes as advocacy, education and news-gathering to help people fight injustice. Describing himself as a disabled non-lawyer, he has litigated pro se for years, including a challenge to the constitutionality of the federal Home Equity Conversion (reverse) Mortgage program arising from a foreclosure on his homestead that he took to the Florida Supreme Court and, by certiorari petitions, to the U.S. Supreme Court (Nos. 17-8689 and 18-7225). He has previously run for Ocala mayor and filed federal committees for president. He filed for the U.S. Senate special election in March 2026, paid the $6,060 no-party-affiliation qualifying fee in June 2026 and, as an NPA candidate, advanced directly to the November 3 general election without a primary. He describes himself as a 'working-class capitalist,' says he is fed up with the two-party 'duopoly,' invokes George Washington's warning about political factions, and promises an 'independent voice' in Washington. He has not completed Ballotpedia's candidate survey. His blog (2026) gives his age as 70, says he funds his advocacy from Social Security retirement income, and describes a 1988 traumatic brain injury and a speech impairment.",
@@ -2179,11 +2179,17 @@
           "sources": []
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Gillespie says he supports secure borders, vetting of immigrants and the lawful removal of people who enter the U.S. illegally, while also supporting a path to citizenship for immigrants who follow the rules and calling immigrants essential to the economy.",
+          "quote": "I support the lawful removal of people who enter the United States illegally, but not the spectacle created by activists confronting ICE.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Neil Gillespie (2026)",
+              "url": "https://ballotpedia.org/Neil_Gillespie",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "abortion": {
           "stance": null,
@@ -2200,11 +2206,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026. Gillespie has not completed Ballotpedia's candidate survey and his campaign blog (Blogger) is blocked from this environment and no issue-specific statement surfaced in search snippets.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In his 2026 Ballotpedia survey, Gillespie proposes national health coverage with the ability to opt out, citing his own past denial of coverage for a preexisting condition and the health systems of other capitalist democracies.",
+          "quote": "I propose national health coverage, with the ability to opt-out.",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Neil Gillespie (2026)",
+              "url": "https://ballotpedia.org/Neil_Gillespie",
+              "date": "2026-09-30"
+            }
+          ]
         },
         "social_security": {
           "stance": null,

@@ -15,8 +15,8 @@
   "what_it_does": "Represents District 98 (Part of Broward) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": false,
   "decided_note": "Mitch Rosenwald (Democratic) is listed as unopposed by the Florida Division of Elections and is elected without appearing on the November ballot. Source: https://dos.elections.myflorida.com/candidates/CanList.asp",
-  "coverage": "roster",
-  "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
+  "coverage": "partial",
+  "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings.",
   "candidates": [
     {
       "id": "mitch_rosenwald",
@@ -26,9 +26,9 @@
       "photo_url": "assets/photos/mitch_rosenwald.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.mitchrosenwald.com/",
-      "occupation": null,
+      "occupation": "Professor of social work at Barry University; licensed clinical social worker",
       "residence": null,
-      "background": "Qualified for the Nov. 3, 2026 ballot according to the Florida Division of Elections, 2026 general election candidate list (Unopposed). Not yet researched.",
+      "background": "Mitch Rosenwald is a professor of social work and director of doctoral studies at Barry University's School of Social Work and a licensed clinical social worker. He served on the Oakland Park city commission and as mayor of Oakland Park (2023-2024) before winning House District 98 in 2024. In the House he has served on the Health & Human Services Committee. He won the Aug. 18, 2026 Democratic primary over Keith Abel with 56.6% of the vote.",
       "primary_result": null,
       "ballot_status": "verified",
       "roster_sources": [
@@ -38,10 +38,138 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "property_tax": {
+          "stance": -1,
+          "confidence": "record",
+          "summary": "He voted against CS/CS/HJR 203 (2026), a proposed constitutional amendment to exempt homesteads from all non-school property taxes; it passed the House 80-30 on Feb. 19, 2026, then died in the Senate. He did not vote on HJR 1-F in the June 2026 special session.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/CS/HJR 203 (2026) passage, Feb. 19, 2026 (Rosenwald-98: Nay)",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/203/Vote/HouseVote_h00203c2523.PDF",
+              "date": "2026-02-19"
+            }
+          ]
+        },
+        "guns": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "He voted against HB 133 (2026), which would lower the minimum age to buy long guns from 21 to 18; it passed the House 74-37 on Jan. 15, 2026. He did not vote on the 2025 version (HB 759).",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 133 (2026) passage, Jan. 15, 2026 (Rosenwald-98: Nay)",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/133/Vote/HouseVote_h00133__451.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "He voted against CS/HB 1205 (2025), which added new rules and penalties for the citizen-initiative petition process; it passed the House 81-30 on May 1, 2025.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, CS/HB 1205 (2025) final passage, May 1, 2025 (Rosenwald-98: Nay)",
+              "url": "https://www.flsenate.gov/Session/Bill/2025/1205/Vote/HouseVote_h01205e1403.PDF",
+              "date": "2025-05-01"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "record",
+          "summary": "He was one of the few Democrats who voted for HB 197 (2026), which would require all private employers to use E-Verify to check new hires' work eligibility; it passed the House 80-30 on Jan. 15, 2026. He did not vote on SB 2-C, the February 2025 special-session immigration law.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Florida House roll call, HB 197 (2026) passage, Jan. 15, 2026 (Rosenwald-98: Yea)",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/197/Vote/HouseVote_h00197__452.PDF",
+              "date": "2026-01-15"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "His campaign site says he is working to expand affordable housing and lower property-insurance costs. He has not named specific programs.",
+          "quote": "fighting every day to lower property insurance costs, expand affordable housing",
+          "sources": [
+            {
+              "title": "Mitch Rosenwald, campaign website (accessed Oct. 7, 2026)",
+              "url": "https://www.mitchrosenwald.com/",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
-      "endorsements": [],
+      "record": [
+        {
+          "item": "Voted against SB 1134 (2026), barring local governments from funding or promoting diversity, equity and inclusion initiatives; it passed the House 77-37 on Mar. 10, 2026.",
+          "sources": [
+            {
+              "title": "Florida House roll call, SB 1134 (2026) passage, Mar. 10, 2026 (Rosenwald-98: Nay)",
+              "url": "https://www.flsenate.gov/Session/Bill/2026/1134/Vote/HouseVote_s01134e1761.PDF",
+              "date": "2026-03-10"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Florida Education Association",
+          "sources": [
+            {
+              "title": "Ballotpedia: Mitch Rosenwald (biography, 2026 primary, endorsements; accessed Oct. 7, 2026)",
+              "url": "https://ballotpedia.org/Mitch_Rosenwald",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "by": "Florida AFL-CIO",
+          "sources": [
+            {
+              "title": "Ballotpedia: Mitch Rosenwald (biography, 2026 primary, endorsements; accessed Oct. 7, 2026)",
+              "url": "https://ballotpedia.org/Mitch_Rosenwald",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "by": "1199SEIU",
+          "sources": [
+            {
+              "title": "Ballotpedia: Mitch Rosenwald (biography, 2026 primary, endorsements; accessed Oct. 7, 2026)",
+              "url": "https://ballotpedia.org/Mitch_Rosenwald",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "by": "Associated Industries of Florida",
+          "sources": [
+            {
+              "title": "Ballotpedia: Mitch Rosenwald (biography, 2026 primary, endorsements; accessed Oct. 7, 2026)",
+              "url": "https://ballotpedia.org/Mitch_Rosenwald",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "by": "South Florida Sun Sentinel Editorial Board",
+          "sources": [
+            {
+              "title": "Ballotpedia: Mitch Rosenwald (biography, 2026 primary, endorsements; accessed Oct. 7, 2026)",
+              "url": "https://ballotpedia.org/Mitch_Rosenwald",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

@@ -590,11 +590,22 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists voter disenfranchisement as an issue and proposes semi-open primaries so voters with no party affiliation can vote in primaries.",
+          "quote": "The need for Semi-Open primaries to allow the Non-affiliated voters have a choice in the Primary elections",
+          "sources": [
+            {
+              "title": "Ballotpedia Candidate Connection survey: Christopher Anger",
+              "url": "https://ballotpedia.org/Christopher_Anger",
+              "date": "2026-09-19"
+            },
+            {
+              "title": "Christopher Anger for Florida House District 53: Solutions",
+              "url": "https://www.christopheranger.com/solutions",
+              "date": "2026-10"
+            }
+          ]
         },
         "crime": {
           "stance": null,

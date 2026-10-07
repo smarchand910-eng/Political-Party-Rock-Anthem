@@ -935,11 +935,22 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Maxime's platform calls for expanding affordable housing and for first-time-homebuyer assistance to help renters become owners. It does not specify zoning or rent measures.",
+          "quote": "Expand affordable housing so working families, seniors, and young people can find a home they can actually afford.",
+          "sources": [
+            {
+              "title": "Kedner Maxime for Congress: Lower Costs (campaign website, undated; read 2026-10-07)",
+              "url": "https://www.maximeforcongress.com/lower-costs",
+              "date": "2026-10"
+            },
+            {
+              "title": "Maxime for Congress: Ownership & Equity (campaign website, undated; read 2026-10-07)",
+              "url": "https://www.maximeforcongress.com/ownership-equity",
+              "date": "2026-10"
+            }
+          ]
         },
         "immigration": {
           "stance": 0,
@@ -982,11 +993,22 @@
           ]
         },
         "social_security": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Maxime's campaign platform pledges to protect Social Security and Medicare and defend these earned benefits from cuts. It does not address revenue changes.",
+          "quote": "Defend earned benefits — Social Security, Medicare, and workplace protections — from cuts.",
+          "sources": [
+            {
+              "title": "Maxime for Congress: Jobs & Economic Security (campaign website, undated; read 2026-10-07)",
+              "url": "https://www.maximeforcongress.com/jobs",
+              "date": "2026-10"
+            },
+            {
+              "title": "Kedner Maxime for Congress: Lower Costs (campaign website, undated; read 2026-10-07)",
+              "url": "https://www.maximeforcongress.com/lower-costs",
+              "date": "2026-10"
+            }
+          ]
         },
         "education_choice": {
           "stance": null,
