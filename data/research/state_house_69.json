@@ -121,6 +121,58 @@
               "date": "2026-09-25"
             }
           ]
+        },
+        "healthcare": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Alvarez said Florida should focus health spending on the most vulnerable and that he does not believe Medicaid should be expanded to working-aged, able-bodied adults at the expense of other groups.",
+          "quote": "I don't believe we should expand it to work-aged, able-bodied adults at the expense of other groups.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Alvarez named protecting Florida land from rampant overdevelopment that adds traffic and congestion one of his three priorities, and said decisions about data centers should be made at the local level.",
+          "quote": "Protect our pristine, untouched Florida land from rampant overdevelopment that adds traffic and congestion to our roads.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Alvarez said Florida has to keep adjusting its insurance market so insurers are not padding profits and pass savings on, while maintaining a legal climate that brings carriers to the market.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Alvarez said utilities need to be properly regulated to keep costs low.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -334,15 +386,15 @@
           ]
         },
         "growth": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "She calls for stopping reckless development, including repealing the law that blocks stronger local rebuilding rules after hurricanes.",
-          "quote": "",
+          "summary": "Herrmann said she would repeal HB 399 so counties can set their own development standards and SB 180 so counties can enforce stronger post-storm rebuilding rules, and would require a binding community benefit agreement before any data center is considered, with a full ban until then.",
+          "quote": "Require a binding community benefit agreement before any data center is even considered... Until then, full ban, no exemptions.",
           "sources": [
             {
-              "title": "Ashley Herrmann for Florida House - Environment & Climate",
-              "url": "https://ashleyforfloridahouse.com/environment",
-              "date": "2026-09"
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         },
@@ -376,6 +428,28 @@
               "date": "2026-09-25"
             }
           ]
+        },
+        {
+          "title": "Repealing state preemptions of local rules",
+          "summary": "Herrmann said she would repeal Florida's ban on rent control and its short-term-rental, heat-protection and living-wage preemptions, create a wage-theft enforcement unit, cap rental deposits and junk fees, and fund a right-to-counsel pilot for Hillsborough tenants facing eviction.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "title": "School-entry vaccination rule",
+          "summary": "Herrmann said she would fight to keep science-based school-entry vaccination requirements, criticizing a Florida Department of Health rule she said strips hepatitis B, chickenpox, Hib and pneumococcal vaccines from school-entry requirements.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       ],
       "record": [],
@@ -395,6 +469,24 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Ashley_Herrmann"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
         }
       ]
     }

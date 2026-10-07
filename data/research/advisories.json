@@ -1,0 +1,54 @@
+{
+  "_note": "Time-limited notices for the how-to-vote page. Each entry shows until its `expires` date (inclusive, Eastern). `counties` limits it to voters in those counties; an empty list shows it to everyone. Keep them factual and sourced: these are things that could affect whether or when someone's vote is counted, not general news.",
+  "advisories": [
+    {
+      "id": "td9_2026",
+      "expires": "2026-10-14",
+      "counties": [
+        "Baker",
+        "Bay",
+        "Calhoun",
+        "Columbia",
+        "Dixie",
+        "Escambia",
+        "Franklin",
+        "Gadsden",
+        "Gilchrist",
+        "Gulf",
+        "Hamilton",
+        "Holmes",
+        "Jackson",
+        "Jefferson",
+        "Lafayette",
+        "Leon",
+        "Liberty",
+        "Madison",
+        "Okaloosa",
+        "Santa Rosa",
+        "Suwannee",
+        "Taylor",
+        "Walton",
+        "Wakulla",
+        "Washington"
+      ],
+      "headline_en": "Storm warning in 25 North Florida counties while mail ballots are out",
+      "headline_es": "Alerta de tormenta en 25 condados del norte de Florida mientras hay boletas por correo",
+      "headline_county_en": "Storm warning in your county while mail ballots are out",
+      "headline_county_es": "Alerta de tormenta en su condado mientras hay boletas por correo",
+      "body_en": "Gov. DeSantis signed Executive Order 26-202 on Oct. 6, 2026, declaring a state of emergency in 25 North Florida counties ahead of Tropical Depression Nine. The order does not change any election date, deadline or polling place. Mail ballots still have to reach your Supervisor of Elections by 7 p.m. on Nov. 3 — postmarks do not count — so if you have a ballot at home, returning it early or using a drop box protects it against mail delays. Early voting and Election Day are weeks away, but polling places can be relocated after a storm, so check your Supervisor of Elections before you go.",
+      "body_es": "El gobernador DeSantis firmó la Orden Ejecutiva 26-202 el 6 de octubre de 2026, declarando estado de emergencia en 25 condados del norte de Florida antes de la Depresión Tropical Nueve. La orden no cambia ninguna fecha, plazo ni lugar de votación. Las boletas por correo todavía deben llegar a su Supervisor de Elecciones antes de las 7 p.m. del 3 de noviembre — el matasellos no cuenta — así que si tiene una boleta en casa, enviarla pronto o usar un buzón la protege de retrasos del correo. La votación anticipada y el día de la elección son dentro de varias semanas, pero los lugares de votación pueden cambiarse después de una tormenta, así que confirme con su Supervisor de Elecciones antes de ir.",
+      "sources": [
+        {
+          "title": "Governor Ron DeSantis Issues Executive Order In Preparation For Tropical Depression Nine (Executive Order 26-202)",
+          "url": "https://www.flgov.com/eog/news/press/2026/governor-ron-desantis-issues-executive-order-preparation-tropical-depression-nine",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "Find your county Supervisor of Elections (Florida Division of Elections)",
+          "url": "https://dos.fl.gov/elections/contacts/supervisor-of-elections/",
+          "date": "2026-10-07"
+        }
+      ]
+    }
+  ]
+}

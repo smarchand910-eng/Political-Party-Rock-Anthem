@@ -40,15 +40,15 @@
       ],
       "positions": {
         "property_tax": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "Her priorities list includes property-tax affordability and relief for homeowners.",
-          "quote": "Property-tax affordability and relief for homeowners",
+          "summary": "Asked what policies she would pursue to help with the cost of living, Bonano answered in full: eliminate residential property taxes.",
+          "quote": "Eliminate residential property taxes.",
           "sources": [
             {
-              "title": "Lisette Bonano for Florida House District 67 (campaign website)",
-              "url": "https://votebonano.com/",
-              "date": "2026-09"
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         },
@@ -103,6 +103,45 @@
               "date": "2026-09"
             }
           ]
+        },
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Bonano's stated priorities are holding agencies to measurable performance standards before further funding, focusing tax dollars on core services, and reducing administrative bureaucracy by eliminating redundant positions and processes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked whether Medicaid should be cut or expanded, Bonano said it should be revised to ensure there is no fraud, waste or abuse.",
+          "quote": "It should be revised to ensure there is no fraud, waste or abuse.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Bonano said county commissioners should negotiate with businesses that want to build data centers for services and benefits to the community, leaving the decision at the local level.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -125,6 +164,17 @@
               "title": "Lisette Bonano for Florida House District 67 (campaign website)",
               "url": "https://votebonano.com/",
               "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Sports and locker rooms by biological sex",
+          "summary": "Among her reasons for running, Bonano told the Times she believes sports and locker rooms should be designated by biological sex.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         }
@@ -173,20 +223,15 @@
           ]
         },
         "healthcare": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "He says he will expand access to affordable health care and strengthen the Medicaid waiver program for people with intellectual disabilities.",
-          "quote": "You could put that money in Medicaid waiver",
+          "summary": "Viera said he strongly backs Medicaid expansion and strongly opposes any Medicaid cuts, saying 500,000 to 750,000 Floridians from working households are denied coverage.",
+          "quote": "I strongly back Medicaid expansion. And I strongly oppose any Medicaid cuts.",
           "sources": [
             {
-              "title": "Luis Viera for Florida State House (campaign website)",
-              "url": "https://www.vieraforflorida.com/",
-              "date": "2026-09"
-            },
-            {
-              "title": "Tampa City Council member Luis Viera announces run for Florida State House (WMNF)",
-              "url": "https://www.wmnf.org/tampa-city-council-member-luis-viera-announces-run-for-florida-state-house/",
-              "date": "2025-04-03"
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         },
@@ -204,15 +249,15 @@
           ]
         },
         "housing": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "He cites pushing for $3.2 million in housing assistance for working-class families on the council and wants to fund disability-accessible housing.",
-          "quote": "pushed for $3.2 million in housing assistance for working class families",
+          "summary": "Viera named affordable and workforce housing for working-class Floridians his first legislative priority and said Florida needs to act now to make housing accessible and affordable.",
+          "quote": "We need to act now for making housing accessible and affordable.",
           "sources": [
             {
-              "title": "Luis Viera for Florida State House (campaign website)",
-              "url": "https://www.vieraforflorida.com/",
-              "date": "2026-09"
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         },
@@ -231,6 +276,32 @@
               "title": "Tampa councilman Luis Viera to resign, seek House District 67 seat (Bay News 9)",
               "url": "https://baynews9.com/fl/tampa/news/2026/05/18/tampa-councilman-luis-viera-to-resign--seek-house-district-67-seat-",
               "date": "2026-05-18"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Viera said he backs bipartisan proposals for a pause on AI data centers so the Legislature can write an 'AI Data Center Bill of Rights' with safeguards for community planning and environmental stewardship.",
+          "quote": "I back bipartisan proposals for a pause on AI Data Centers...",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Viera said property-insurance reform needs robust state action for working-class Florida.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         }
@@ -257,6 +328,17 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "title": "Apprenticeships, transit and disability services",
+          "summary": "Viera said he would fund a skilled-trade apprenticeship facility in North Tampa with a $1 million appropriation, wants a local transit revenue source for Hillsborough, and lists full funding of the Medicaid waiver for people with intellectual disabilities among his three priorities.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       ],
       "record": [],
@@ -265,6 +347,24 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Luis_Viera"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
         }
       ]
     }

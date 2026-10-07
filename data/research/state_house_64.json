@@ -77,6 +77,32 @@
               "date": "2026-09"
             }
           ]
+        },
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked whether Medicaid should be cut or expanded, Weldon said he supports what Florida has done, ensuring access for seniors without burdening taxpayers; he did not call for expansion.",
+          "quote": "I support what Florida has done with Medicaid by ensuring access to Medicaid for our seniors without crippling taxpayers.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Weldon said data centers should pay for any power and water upgrades they require so the community does not pay more, and that AI companies should be held accountable when they cause harm.",
+          "quote": "Data centers should pay for any upgrades needed for the power and water they consume.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -126,6 +152,17 @@
               "title": "iVoterGuide profile: FL State Rep., Dist. 64 candidate Dan Weldon",
               "url": "https://ivoterguide.com/candidate/92864/race/28604/election/1431",
               "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Tampa airport-to-downtown rail",
+          "summary": "Asked where he would direct a $1 million appropriation, Weldon said he would put it toward starting the monorail or light-rail line from Tampa International Airport to downtown.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         }
@@ -266,6 +303,19 @@
               "date": "2026-09"
             }
           ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Salazar told the Times he believes artificial intelligence should be regulated because it will affect the workforce and threaten employment, and that a balance is needed between AI use and protecting workers.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -288,6 +338,17 @@
               "title": "VOTE411 Voter Guide: State Representative 64 (League of Women Voters of Florida)",
               "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690951",
               "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Funding nonprofits",
+          "summary": "Salazar said he would direct a $1 million appropriation to nonprofits so they are equipped to deliver services to people most in need.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         }

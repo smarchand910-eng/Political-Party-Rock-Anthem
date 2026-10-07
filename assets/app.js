@@ -791,6 +791,31 @@
 
   const DEADLINES = { register: '2026-10-05', vbm: '2026-10-22' };
   function past(iso) { const t = new Date(); t.setHours(0, 0, 0, 0); return new Date(iso + 'T00:00:00') < t; }
+  /* Time-limited voting notices from data/research/advisories.json. An advisory shows until its
+     `expires` date passes. `counties` is who it is about: a visitor whose county is on the list is
+     addressed directly, a visitor who has not told us a county sees it with the counties named (the
+     profile is in-memory only, so most visitors have no county and would otherwise never see it),
+     and a visitor in some other county does not see it at all. Nothing here changes a deadline — it
+     says what a disruption means for one. */
+  function advisoriesHtml(county) {
+    const list = (DATA.advisories || []).filter(a => {
+      if (a.expires && past(a.expires)) return false;
+      const cs = a.counties || [];
+      return !cs.length || !county || cs.some(c => c.toLowerCase() === String(county).toLowerCase());
+    });
+    if (!list.length) return '';
+    return list.map(a => {
+      const cs = a.counties || [];
+      const mine = county && cs.some(c => c.toLowerCase() === String(county).toLowerCase());
+      const scope = cs.length && !mine
+        ? `<br><small class="muted">${T('Applies to', 'Se aplica a')} ${esc(cs.join(', '))}.</small>` : '';
+      const head = mine && a.headline_county_en
+        ? T(a.headline_county_en, a.headline_county_es || a.headline_county_en)
+        : T(a.headline_en, a.headline_es || a.headline_en);
+      return `<div class="notice notice-warn"><strong>${esc(head)}</strong><br>${esc(T(a.body_en, a.body_es || a.body_en))}${scope}${sourcesHtml(a.sources)}</div>`;
+    }).join('');
+  }
+
   function deadlineRow(label, value, iso) {
     if (!past(iso)) return [label, value];
     return [label, `${value} — ${T('this deadline has passed', 'este plazo ya pasó')}`];
@@ -805,13 +830,13 @@
       const ci = county ? (COUNTY_INFO[county] || {}) : {};
       const code = countyCodeFor(county);
       const sw = window.STATEWIDE_DATA; const soeSw = code && sw ? sw.counties[code].supervisor : null;
-      return `<h1>${county ? T(`How and where to vote in ${esc(county)} County`, `Cómo y dónde votar en el condado de ${esc(county)}`) : T('How and where to vote in Florida', 'Cómo y dónde votar en Florida')}</h1>${county ? addressPanel(true) : addressPanel(false)}
+      return `<h1>${county ? T(`How and where to vote in ${esc(county)} County`, `Cómo y dónde votar en el condado de ${esc(county)}`) : T('How and where to vote in Florida', 'Cómo y dónde votar en Florida')}</h1>${county ? addressPanel(true) : addressPanel(false)}${advisoriesHtml(county)}
         <div class="card"><dl class="kv">${row(T('Election Day', 'Día de la elección'), T('Tuesday, November 3, 2026, 7 a.m. to 7 p.m. at your assigned precinct', 'Martes 3 de noviembre de 2026, de 7 a.m. a 7 p.m. en su recinto asignado'))}${row(...deadlineRow(T('Register / update party by', 'Regístrese o cambie de partido antes del'), T('Monday, October 5, 2026', 'Lunes 5 de octubre de 2026'), DEADLINES.register))}${row(...deadlineRow(T('Request a mail ballot by', 'Solicite una boleta por correo antes del'), T('Thursday, October 22, 2026, 5 p.m.', 'Jueves 22 de octubre de 2026, 5 p.m.'), DEADLINES.vbm))}${row(T('Mail ballot must arrive by', 'La boleta por correo debe llegar antes de'), T('7 p.m. on Election Day (postmarks do not count); drop boxes at early-voting sites and the Supervisor\'s office', 'las 7 p.m. del día de la elección (el matasellos no cuenta); buzones en los sitios de votación anticipada y en la oficina del Supervisor'))}${row(T('Early voting', 'Votación anticipada'), ci.early_voting && ci.early_voting.dates ? `${ci.early_voting.dates}${ci.early_voting.hours ? ', ' + ci.early_voting.hours : ''}${ci.early_voting.sites ? T(` · ${ci.early_voting.sites} sites`, ` · ${ci.early_voting.sites} sitios`) : ''}` : T('Oct. 19–Nov. 1, 2026, depending on the county; every county offers at least Oct. 24–31', 'Del 19 de oct. al 1 de nov. de 2026, según el condado; todos ofrecen al menos del 24 al 31 de oct.'))}${row(T('ID required', 'Identificación requerida'), v.id_requirements)}</dl>
         <div class="btn-row">${ci.soe_url || (soeSw && soeSw.website) ? `<a class="btn btn-primary" href="${esc(ci.soe_url || soeSw.website)}" target="_blank" rel="noopener">${T(`${esc(county)} County Supervisor of Elections ↗`, `Supervisor de Elecciones del condado de ${esc(county)} ↗`)}</a>` : `<a class="btn btn-primary" href="#/counties">${T("Find your county's Supervisor of Elections", 'Encuentre el Supervisor de Elecciones de su condado')}</a>`}${soeSw ? `<span class="muted" style="align-self:center">${esc(soeSw.supervisor)} · ${esc(soeSw.phone)}</span>` : ''}<a class="btn" href="https://registration.elections.myflorida.com/CheckVoterStatus" target="_blank" rel="noopener">${T('Check registration &amp; precinct ↗', 'Verificar registro y recinto ↗')}</a><a class="btn" href="#/match/cheatsheet">${T('Printable ballot cheat sheet', 'Guía rápida imprimible')}</a><a class="btn" href="https://registertovoteflorida.gov/" target="_blank" rel="noopener">${T('Register ↗', 'Registrarse ↗')}</a></div>
         ${ci.notes ? `<p class="muted">${esc(ci.notes)}</p>` : ''}</div>
         <p class="notice notice-warn">${T('Statewide deadlines above come from Florida law. Early-voting days, hours and locations are set by each county: confirm them with your Supervisor of Elections.', 'Los plazos estatales anteriores provienen de la ley de Florida. Los días, horarios y lugares de votación anticipada los fija cada condado: confírmelos con su Supervisor de Elecciones.')}</p>`;
     }
-    return `<h1>${T('How and where to vote in Sumter County', 'Cómo y dónde votar en el condado de Sumter')}</h1>${addressPanel(!!prof)}
+    return `<h1>${T('How and where to vote in Sumter County', 'Cómo y dónde votar en el condado de Sumter')}</h1>${addressPanel(!!prof)}${advisoriesHtml('Sumter')}
       <div class="card">
         <dl class="kv">
           ${row(T('Election Day', 'Día de la elección'), v.election_date)}${row(T('Polls open', 'Horario de votación'), v.election_day_hours)}${row(T('Register / update party by', 'Regístrese o cambie de partido antes del'), v.registration_deadline)}

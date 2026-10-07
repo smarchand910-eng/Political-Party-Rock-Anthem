@@ -114,6 +114,32 @@
               "date": "2026-09"
             }
           ]
+        },
+        "healthcare": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Owen said Florida should preserve Medicaid for those who qualify and focus on access, accountability and efficient use of taxpayer dollars rather than expansion.",
+          "quote": "Florida should preserve Medicaid for those who qualify and focus on access, accountability, and efficient use of taxpayer dollars rather than expansion.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Owen listed protecting Florida's natural resources and quality of life as the state grows among his three top priorities, and said data-center rules should include protections for utility customers, water resources and public transparency.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -195,15 +221,15 @@
           ]
         },
         "growth": {
-          "stance": 1,
+          "stance": 2,
           "confidence": "stated",
-          "summary": "He says new development should be matched by investment in roads, schools, public safety, utilities and environmental protection.",
-          "quote": "New development should be matched by investments in transportation, roads, schools, public safety, utilities, and environmental protection.",
+          "summary": "Wilkins said he would protect local communities by defending home rule, safeguard the environment and ensure responsible growth, and that new development should help pay for the infrastructure growing communities need.",
+          "quote": "...protecting local communities by defending home rule, safeguarding our environment, and ensuring responsible growth and development.",
           "sources": [
             {
-              "title": "Elect Luther Wilkins (campaign website)",
-              "url": "https://www.lutherforfl.com/",
-              "date": "2026-09"
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         },
@@ -219,11 +245,42 @@
               "date": "2026-09"
             }
           ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wilkins said data centers should meet strong requirements for water and energy efficiency, noise mitigation, environmental protection and infrastructure costs so residents and taxpayers are not left carrying the burden.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [],
       "record": [],
       "endorsements": []
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
+        }
+      ]
     }
   ]
 }

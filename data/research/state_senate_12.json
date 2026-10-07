@@ -288,7 +288,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Did not return the LkldNow questionnaire",
+          "summary": "LkldNow's November 2026 voter guide reports that Sen. Burton, like all other incumbent state legislators it contacted, did not return its candidate questionnaire; her profile was completed from public information. The guide lists no endorsements for her and reports $178,450 raised to Reynolds' $2,250.",
+          "sources": [
+            {
+              "title": "Florida Senate, District 12 - LkldNow November 2026 Voter Guide",
+              "url": "https://www.lkldnow.com/florida-senate-district-12/",
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
@@ -520,25 +532,43 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked how he would improve Polk County's school funding, Reynolds listed implementing 'Universal Voucher Accountability & Reconciliation' alongside overhauling the District Cost Differential formula and increasing the Base Student Allocation.",
+          "quote": "Implement Universal Voucher Accountability & Reconciliation",
+          "sources": [
+            {
+              "title": "Florida Senate, District 12 - LkldNow November 2026 Voter Guide",
+              "url": "https://www.lkldnow.com/florida-senate-district-12/",
+              "date": "2026-10-06"
+            }
+          ]
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Reynolds said the Legislature should fully fund land and water conservation, support conservation acquisitions and expand agricultural easements to protect Florida's natural beauty and rural lands.",
+          "quote": "Fully Fund Land and Water Conservation (support conservation acquisitions and expand agricultural easements)",
+          "sources": [
+            {
+              "title": "Florida Senate, District 12 - LkldNow November 2026 Voter Guide",
+              "url": "https://www.lkldnow.com/florida-senate-district-12/",
+              "date": "2026-10-06"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In LkldNow's questionnaire Reynolds said he supports city and county governments' right to local control and would strengthen home rule, vote against blanket preemption, empower local planning and public input, and reject state preemptions that bypass community oversight.",
+          "quote": "To protect Florida's natural beauty and rural lands, the Florida Legislature should empower local planning, fully fund conservation programs, and reject state-level pre-emptions that bypass community oversight.",
+          "sources": [
+            {
+              "title": "Florida Senate, District 12 - LkldNow November 2026 Voter Guide",
+              "url": "https://www.lkldnow.com/florida-senate-district-12/",
+              "date": "2026-10-06"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -646,14 +676,95 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "title": "Education funding formula",
+          "summary": "Reynolds said education is his top priority and that he would address the Florida Education Finance Program's structural formulas: overhauling the District Cost Differential formula, increasing the Base Student Allocation and categorical funding, and providing weighted VPK funding for students with disabilities. Polk County ranked 53rd of 67 counties for student funding in the district's 2026-27 budget report.",
+          "sources": [
+            {
+              "title": "Florida Senate, District 12 - LkldNow November 2026 Voter Guide",
+              "url": "https://www.lkldnow.com/florida-senate-district-12/",
+              "date": "2026-10-06"
+            }
+          ]
+        },
+        {
+          "title": "Community policing",
+          "summary": "Reynolds listed community policing among his constituents' top three priorities, saying police officers and sheriff's deputies 'need to be more proactive and be involved in our communities.'",
+          "sources": [
+            {
+              "title": "Florida Senate, District 12 - LkldNow November 2026 Voter Guide",
+              "url": "https://www.lkldnow.com/florida-senate-district-12/",
+              "date": "2026-10-06"
+            }
+          ]
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Mental Health Now",
+          "sources": [
+            {
+              "title": "Florida Senate, District 12 - LkldNow November 2026 Voter Guide",
+              "url": "https://www.lkldnow.com/florida-senate-district-12/",
+              "date": "2026-10-06"
+            }
+          ]
+        },
+        {
+          "by": "U.S. Term Limits",
+          "sources": [
+            {
+              "title": "Florida Senate, District 12 - LkldNow November 2026 Voter Guide",
+              "url": "https://www.lkldnow.com/florida-senate-district-12/",
+              "date": "2026-10-06"
+            }
+          ]
+        },
+        {
+          "by": "Moms Demand Action Gun Sense",
+          "sources": [
+            {
+              "title": "Florida Senate, District 12 - LkldNow November 2026 Voter Guide",
+              "url": "https://www.lkldnow.com/florida-senate-district-12/",
+              "date": "2026-10-06"
+            }
+          ]
+        },
+        {
+          "by": "Democratic Environmental Caucus of Florida",
+          "sources": [
+            {
+              "title": "Florida Senate, District 12 - LkldNow November 2026 Voter Guide",
+              "url": "https://www.lkldnow.com/florida-senate-district-12/",
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Alfred_Reynolds_%28Florida%29"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
         }
       ]
     }

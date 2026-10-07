@@ -179,6 +179,7 @@ def main():
         'counties': (load(os.path.join(RESEARCH, 'counties.json'), {}) or {}).get('counties', {}),
         'coverage': {fn[1:-5]: load(os.path.join(RESEARCH, fn), {}) for fn in os.listdir(RESEARCH) if fn.startswith('_coverage') and fn.endswith('.json')},
         'school_board': load(os.path.join(RESEARCH, 'school_board_results.json'), {}) or {},
+        'advisories': (load(os.path.join(RESEARCH, 'advisories.json'), {}) or {}).get('advisories', []),
     }
     js = 'window.GUIDE_DATA = ' + json.dumps(out, ensure_ascii=False, indent=1) + ';\n'
     with open(os.path.join(DATA, 'guide.js'), 'w', encoding='utf-8') as f:

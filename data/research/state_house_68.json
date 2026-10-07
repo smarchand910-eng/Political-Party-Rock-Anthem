@@ -38,7 +38,86 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "taxes": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Gill said he would cut the cost of living by reducing insurance, energy and tax burdens and red tape, and would make government live within its means so families keep more of their paychecks.",
+          "quote": "Make government live within its means so working families keep more of their paycheck.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Asked what he would do about the cost of living, Gill said he would cut property insurance and property tax.",
+          "quote": "Cut property insurance and property tax.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Gill listed defending the Second Amendment, along with parental rights and constitutional limits on government, among his three top priorities.",
+          "quote": "Back law enforcement, secure communities and defend parental rights, the Second Amendment and constitutional limits on government.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Gill said Medicaid and health spending should center on children, eliminating the waitlist for Floridians with disabilities and extending benefits for new mothers, which he said protects the state budget; he did not back expansion.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Gill's answers point both ways: he says data centers should be stopped from draining water and paving over farmland and that 'water and land come first,' while also saying he is running to stop government from overregulating landowners and farmers and wants 'targeted yes, blanket no' rules.",
+          "quote": "Targeted yes, blanket no.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Gill, a former chair of the Hillsborough Soil and Water Conservation District, said water and land come first and that data centers should be stopped from draining the state's water and paving over farmland.",
+          "quote": "As a rancher and former Soil and Water chairman, water and land come first.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      },
       "other_issues": [
         {
           "title": "Affordability and the next generation",
@@ -69,6 +148,17 @@
               "title": "VOTE411 Voter Guide: State Representative 68 (League of Women Voters of Florida)",
               "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940660",
               "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "AI disclosure and foreign firms",
+          "summary": "Gill said Florida should require disclosure when AI is used in politics and commerce, protect children from companion chatbots, and block Chinese-tied firms from critical infrastructure.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         }
@@ -160,6 +250,45 @@
               "date": "2026-09"
             }
           ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Smith said Florida should expand Medicaid, with a focus on preventive care, reducing fraud and stronger drug and insurance negotiations.",
+          "quote": "At this time, I believe we should expand Medicaid.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Smith said he would start with stronger regulation of TECO's pricing practices, is open to bringing in additional energy companies to increase competition, and would explore solar and wind power, especially for public buildings.",
+          "quote": "I would begin with stronger regulation of TECO's pricing practices.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Smith listed access to affordable housing among the everyday costs he would address for working families.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -182,6 +311,17 @@
               "title": "VOTE411 Voter Guide: State Representative 68 (League of Women Voters of Florida)",
               "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940660",
               "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Flock cameras and a reading program",
+          "summary": "Smith called for responsible oversight of Flock cameras alongside fully funded police and fire services, and said he would use a $1 million appropriation to create a 'Level Up' program providing tutoring for elementary students reading below grade level.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
             }
           ]
         }
@@ -209,6 +349,24 @@
         }
       ],
       "endorsements": []
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
+        }
+      ]
     }
   ]
 }

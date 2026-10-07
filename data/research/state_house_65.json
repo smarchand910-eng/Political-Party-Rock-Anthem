@@ -103,6 +103,71 @@
               "date": "2023-03-17"
             }
           ]
+        },
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Gonzalez Pittman said she would extend Florida's 1977 excess-profits law, which covers auto and commercial lines, to homeowners policies so homeowners get refunds when insurers make too much, and that refunds from utilities or local governments should be automatic.",
+          "quote": "Expand a 1977 excess profits law that applies to car insurance and commercial insurance lines to homeowners policies.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Gonzalez Pittman said stormwater needs to move faster and that Florida has to stop paving over quality of life before neighborhoods can handle new growth; she says she authored the state's new stormwater law.",
+          "quote": "...we have to stop paving over our quality of life before our neighborhoods are ready to handle the new growth.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Gonzalez Pittman said safeguarding power and water supplies should be one of two guiding principles on data centers, and that she would spend a $1 million appropriation accelerating a flood-reduction project.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Gonzalez Pittman said refunds should be automatic when big utilities or local governments overcharge residents, and that she supported SB 484 so no Floridian is billed for power sent to a data center.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Asked whether Medicaid should be cut or expanded, Gonzalez Pittman took neither side, saying she supports strong oversight of managed-care plans, timely payments to providers and increased transparency.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -225,6 +290,71 @@
               "date": "2026-08"
             }
           ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Braver said Medicaid needs to be expanded, which he said would cover about 800,000 more people with federal tax dollars Floridians have already paid.",
+          "quote": "Medicaid needs to be expanded.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Braver said bringing down insurance rates is a top priority and that the cost of living is high because monopolies control insurance, housing and energy; he would regulate companies with too much control and create a public option where competition does not exist.",
+          "quote": "We can regulate companies that have too much control over you, ensure there is real competition and create a public option where there isn't.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Braver said Florida should further regulate data centers, citing water use during the state's worst drought in 25 years, few permanent jobs, and public opposition.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Braver said investing in solar energy is part of his plan to lower the cost of living.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Braver said building truly affordable housing and mass transit is part of how he would lower living costs, and that money spent on data centers would do more good invested in affordable housing and schools.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -271,6 +401,17 @@
               "date": "2026-06-30"
             }
           ]
+        },
+        {
+          "title": "Teacher pay and money in politics",
+          "summary": "Braver named raising teacher wages his first priority, saying teachers must be able to afford to live in Florida, and getting big money out of politics his third. He said he would spend a $1 million appropriation on after-school programs in Hillsborough County schools.",
+          "sources": [
+            {
+              "title": "2026 Florida election candidates: Midterm voter guide (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/09/30/florida-election-candidates-midterm-2026/",
+              "date": "2026-09-30"
+            }
+          ]
         }
       ],
       "record": [],
@@ -279,6 +420,24 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Ben_Braver"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "sources": [
+        {
+          "title": "Upcoming Florida Debates and Forums (VOTE411)",
+          "url": "https://www.vote411.org/upcoming/32/debates-forums",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "News (League of Women Voters of Florida)",
+          "url": "https://www.lwvfl.org/news/",
+          "date": "2026-10-07"
         }
       ]
     }

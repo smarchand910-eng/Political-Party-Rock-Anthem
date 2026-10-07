@@ -241,5 +241,19 @@
         }
       ]
     }
+  ],
+  "events": [
+    {
+      "date": "2026-10-08",
+      "host": "Informed Voter Coalition (same nine Charlotte County groups); St. Mary's Baptist Church, 605 Mary St., Punta Gorda, 5:30-8:30 p.m. (scheduled)",
+      "who": "Phillip Carter (D) is listed as attending. Rep. Vanessa Oliver (R) had not responded to the invitation as of Oct. 6.",
+      "sources": [
+        {
+          "title": "Political forums scheduled (The Daily Sun, Englewood)",
+          "url": "https://www.yoursun.com/englewood/news/political-forums-scheduled/article_1b43d135-91fd-4ff1-9f1a-cf78f825a7cd.html",
+          "date": "2026-10-06"
+        }
+      ]
+    }
   ]
 }
