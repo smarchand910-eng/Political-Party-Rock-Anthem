@@ -55,7 +55,7 @@
         "property_tax": {
           "stance": 1,
           "confidence": "record",
-          "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+          "summary": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; because the vote sent the question to voters rather than cutting taxes itself, a vote for it is coded as leaning toward sharply reducing homestead property taxes rather than as full agreement.",
           "quote": null,
           "sources": [
             {
@@ -303,7 +303,7 @@
       "other_issues": [],
       "record": [
         {
-          "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning.",
+          "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; because the vote sent the question to voters rather than cutting taxes itself, a vote for it is coded as leaning toward sharply reducing homestead property taxes rather than as full agreement.",
           "sources": [
             {
               "title": "Bill page",

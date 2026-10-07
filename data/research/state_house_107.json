@@ -15,14 +15,14 @@
   "what_it_does": "Represents District 107 (Part of Miami-Dade) in the Florida House; votes on state laws and the state budget.",
   "on_november_ballot": false,
   "decided_note": "Wallace Aristide (Democratic) is listed as unopposed by the Florida Division of Elections and is elected without appearing on the November ballot. Source: https://dos.elections.myflorida.com/candidates/CanList.asp",
-  "coverage": "roster",
+  "coverage": "partial",
   "verified_ballot_note": "Candidate list taken from the Florida Division of Elections, 2026 general election candidate list on 2026-09-18 (https://dos.elections.myflorida.com/candidates/CanList.asp); statuses Qualified/Unopposed only. Counties from the Legislature's district listings. Positions have not been researched yet.",
   "candidates": [
     {
       "id": "wallace_aristide",
       "name": "Wallace Aristide",
       "party": "Democratic",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
       "website": null,
@@ -38,9 +38,42 @@
           "date": "2026-09-18"
         }
       ],
-      "positions": {},
+      "positions": {
+        "immigration": {
+          "stance": -2,
+          "confidence": "record",
+          "summary": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+          "quote": null,
+          "sources": [
+            {
+              "title": "SB 2-C (2025) bill page - The Florida Senate",
+              "url": "https://www.flsenate.gov/Session/Bill/2025C/2C",
+              "date": "2025-02-13"
+            },
+            {
+              "title": "SB 2-C (2025) roll-call vote (House)",
+              "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF",
+              "date": "2025-02-13"
+            }
+          ]
+        }
+      },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Voted against SB 2-C (2025), the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention.",
+          "sources": [
+            {
+              "title": "Bill page",
+              "url": "https://www.flsenate.gov/Session/Bill/2025C/2C"
+            },
+            {
+              "title": "Roll-call vote",
+              "url": "https://www.flsenate.gov/Session/Bill/2025C/2C/Vote/HouseVote_s00002C__013.PDF"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "links": [
         {
