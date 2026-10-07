@@ -734,5 +734,632 @@
   "crime": "Y Beltran|57",
   "energy": "-",
   "housing": "N Beltran|70"
+ },
+ "michelle_salzman": {
+  "property_tax": "Y Salzman|1",
+  "immigration": "Y Salzman|1",
+  "abortion": "Y Salzman|1",
+  "education_choice": "Y Salzman|1",
+  "lgbtq": "Y Salzman|1",
+  "elections": "Y Salzman|1",
+  "insurance": "Y Salzman|1",
+  "energy": "Y Salzman|1",
+  "housing": "Y Salzman|1",
+  "_chamber": "H"
+ },
+ "hillary_cassel": {
+  "property_tax": "Y Cassel|101",
+  "immigration": "Y Cassel|101",
+  "abortion": "N Cassel|101",
+  "guns": "N Cassel|101",
+  "education_choice": "N Cassel|101",
+  "lgbtq": "N Cassel|101",
+  "elections": "N Cassel|101",
+  "insurance": "N Cassel|101",
+  "energy": "N Cassel|101",
+  "housing": "Y Cassel|101",
+  "_chamber": "H"
+ },
+ "robin_bartleman": {
+  "property_tax": "N Bartleman|103",
+  "immigration": "N Bartleman|103",
+  "abortion": "N Bartleman|103",
+  "guns": "N Bartleman|103",
+  "education_choice": "N Bartleman|103",
+  "lgbtq": "N Bartleman|103",
+  "elections": "N Bartleman|103",
+  "insurance": "N Bartleman|103",
+  "energy": "N Bartleman|103",
+  "housing": "Y Bartleman|103",
+  "_chamber": "H"
+ },
+ "fabian_basabe": {
+  "property_tax": "Y Basabe|106",
+  "immigration": "Y Basabe|106",
+  "guns": "Y Basabe|106",
+  "education_choice": "Y Basabe|106",
+  "lgbtq": "Y Basabe|106",
+  "elections": "Y Basabe|106",
+  "insurance": "Y Basabe|106",
+  "energy": "Y Basabe|106",
+  "housing": "Y Basabe|106",
+  "_chamber": "H"
+ },
+ "wallace_aristide": {
+  "immigration": "N Aristide|107",
+  "_chamber": "H"
+ },
+ "sam_garrison": {
+  "property_tax": "Y Garrison|11",
+  "immigration": "Y Garrison|11",
+  "abortion": "Y Garrison|11",
+  "guns": "Y Garrison|11",
+  "education_choice": "Y Garrison|11",
+  "lgbtq": "Y Garrison|11",
+  "elections": "Y Garrison|11",
+  "insurance": "Y Garrison|11",
+  "energy": "Y Garrison|11",
+  "housing": "Y Garrison|11",
+  "_chamber": "H"
+ },
+ "demi_busatta": {
+  "property_tax": "Y Busatta|114",
+  "immigration": "Y Busatta|114",
+  "abortion": "Y Busatta Cabrera|114",
+  "guns": "Y Busatta Cabrera|114",
+  "education_choice": "Y Busatta Cabrera|114",
+  "lgbtq": "Y Busatta Cabrera|114",
+  "elections": "Y Busatta Cabrera|114",
+  "insurance": "Y Busatta Cabrera|114",
+  "energy": "Y Busatta Cabrera|114",
+  "housing": "Y Busatta Cabrera|114",
+  "_chamber": "H"
+ },
+ "omar_blanco": {
+  "property_tax": "Y Blanco|115",
+  "immigration": "Y Blanco|115",
+  "_chamber": "H"
+ },
+ "kevin_chambliss": {
+  "property_tax": "N Chambliss|117",
+  "immigration": "N Chambliss|117",
+  "abortion": "N Chambliss|117",
+  "education_choice": "N Chambliss|117",
+  "lgbtq": "N Chambliss|117",
+  "elections": "N Chambliss|117",
+  "insurance": "N Chambliss|117",
+  "energy": "N Chambliss|117",
+  "_chamber": "H"
+ },
+ "mike_redondo": {
+  "property_tax": "Y Redondo|118",
+  "immigration": "Y Redondo|118",
+  "energy": "Y Redondo|118",
+  "_chamber": "H"
+ },
+ "juan_porras": {
+  "property_tax": "Y Porras|119",
+  "immigration": "Y Porras|119",
+  "abortion": "Y Porras|119",
+  "guns": "Y Porras|119",
+  "education_choice": "Y Porras|119",
+  "lgbtq": "Y Porras|119",
+  "elections": "Y Porras|119",
+  "insurance": "Y Porras|119",
+  "energy": "Y Porras|119",
+  "housing": "Y Porras|119",
+  "_chamber": "H"
+ },
+ "james_vernon_jim_mooney_jr": {
+  "property_tax": "Y Mooney|120",
+  "immigration": "Y Mooney|120",
+  "guns": "Y Mooney|120",
+  "education_choice": "Y Mooney|120",
+  "lgbtq": "Y Mooney|120",
+  "elections": "Y Mooney|120",
+  "insurance": "Y Mooney|120",
+  "energy": "Y Mooney|120",
+  "housing": "Y Mooney|120",
+  "_chamber": "H"
+ },
+ "dean_black": {
+  "property_tax": "Y Black|15",
+  "immigration": "Y Black|15",
+  "abortion": "Y Black|15",
+  "guns": "Y Black|15",
+  "education_choice": "Y Black|15",
+  "lgbtq": "Y Black|15",
+  "elections": "Y Black|15",
+  "insurance": "Y Black|15",
+  "energy": "Y Black|15",
+  "housing": "Y Black|15",
+  "_chamber": "H"
+ },
+ "kiyan_michael": {
+  "property_tax": "Y Michael|16",
+  "immigration": "Y Michael|16",
+  "abortion": "Y Michael|16",
+  "guns": "Y Michael|16",
+  "education_choice": "Y Michael|16",
+  "lgbtq": "Y Michael|16",
+  "elections": "Y Michael|16",
+  "insurance": "Y Michael|16",
+  "energy": "Y Michael|16",
+  "housing": "Y Michael|16",
+  "_chamber": "H"
+ },
+ "jessica_baker": {
+  "property_tax": "Y Baker|17",
+  "immigration": "Y Baker|17",
+  "abortion": "Y Baker|17",
+  "guns": "Y Baker|17",
+  "education_choice": "Y Baker|17",
+  "lgbtq": "Y Baker|17",
+  "elections": "Y Baker|17",
+  "insurance": "Y Baker|17",
+  "energy": "Y Baker|17",
+  "housing": "Y Baker|17",
+  "_chamber": "H"
+ },
+ "kim_kendall": {
+  "property_tax": "Y Kendall|18",
+  "immigration": "Y Kendall|18",
+  "_chamber": "H"
+ },
+ "sam_greco": {
+  "property_tax": "Y Greco|19",
+  "immigration": "Y Greco|19",
+  "_chamber": "H"
+ },
+ "judson_sapp": {
+  "immigration": "Y Sapp|20",
+  "_chamber": "H"
+ },
+ "chad_johnson": {
+  "property_tax": "Y Johnson|22",
+  "immigration": "Y Johnson|22",
+  "_chamber": "H"
+ },
+ "nan_cobb": {
+  "property_tax": "Y Cobb|26",
+  "immigration": "Y Cobb|26",
+  "_chamber": "H"
+ },
+ "bill_partington": {
+  "property_tax": "Y Partington|28",
+  "immigration": "Y Partington|28",
+  "_chamber": "H"
+ },
+ "webster_barnaby": {
+  "property_tax": "Y Barnaby|29",
+  "immigration": "Y Barnaby|29",
+  "abortion": "Y Barnaby|29",
+  "guns": "Y Barnaby|29",
+  "education_choice": "Y Barnaby|29",
+  "lgbtq": "Y Barnaby|29",
+  "elections": "Y Barnaby|29",
+  "insurance": "Y Barnaby|29",
+  "energy": "Y Barnaby|29",
+  "housing": "Y Barnaby|29",
+  "_chamber": "H"
+ },
+ "nathan_boyles": {
+  "property_tax": "N Boyles|3",
+  "_chamber": "H"
+ },
+ "chase_tramont": {
+  "property_tax": "Y Tramont|30",
+  "immigration": "Y Tramont|30",
+  "abortion": "Y Tramont|30",
+  "guns": "Y Tramont|30",
+  "education_choice": "Y Tramont|30",
+  "lgbtq": "Y Tramont|30",
+  "elections": "Y Tramont|30",
+  "insurance": "Y Tramont|30",
+  "housing": "Y Tramont|30",
+  "_chamber": "H"
+ },
+ "brian_hodgers": {
+  "property_tax": "Y Hodgers|32",
+  "_chamber": "H"
+ },
+ "monique_miller": {
+  "property_tax": "Y Miller|33",
+  "immigration": "Y Miller|33",
+  "_chamber": "H"
+ },
+ "robert_brackett": {
+  "property_tax": "Y Brackett|34",
+  "immigration": "Y Brackett|34",
+  "abortion": "Y Brackett|34",
+  "guns": "Y Brackett|34",
+  "education_choice": "Y Brackett|34",
+  "lgbtq": "Y Brackett|34",
+  "elections": "Y Brackett|34",
+  "insurance": "Y Brackett|34",
+  "energy": "Y Brackett|34",
+  "housing": "Y Brackett|34",
+  "_chamber": "H"
+ },
+ "rachel_plakon": {
+  "property_tax": "Y Plakon|36",
+  "immigration": "Y Plakon|36",
+  "abortion": "Y Plakon|36",
+  "guns": "Y Plakon|36",
+  "education_choice": "Y Plakon|36",
+  "lgbtq": "Y Plakon|36",
+  "elections": "Y Plakon|36",
+  "insurance": "Y Plakon|36",
+  "energy": "Y Plakon|36",
+  "housing": "Y Plakon|36",
+  "_chamber": "H"
+ },
+ "patt_maney": {
+  "property_tax": "N Maney|4",
+  "immigration": "Y Maney|4",
+  "abortion": "Y Maney|4",
+  "guns": "Y Maney|4",
+  "education_choice": "Y Maney|4",
+  "lgbtq": "Y Maney|4",
+  "elections": "Y Maney|4",
+  "insurance": "Y Maney|4",
+  "energy": "Y Maney|4",
+  "housing": "Y Maney|4",
+  "_chamber": "H"
+ },
+ "rita_harris": {
+  "property_tax": "N Harris|44",
+  "immigration": "N Harris|44",
+  "abortion": "N Harris|44",
+  "guns": "N Harris|44",
+  "education_choice": "N Harris|44",
+  "lgbtq": "N Harris|44",
+  "elections": "N Harris|44",
+  "insurance": "N Harris|44",
+  "energy": "N Harris|44",
+  "housing": "N Harris|44",
+  "_chamber": "H"
+ },
+ "leonard_spencer": {
+  "property_tax": "N Spencer|45",
+  "immigration": "N Spencer|45",
+  "_chamber": "H"
+ },
+ "jose_alvarez": {
+  "property_tax": "N Alvarez, J.|46",
+  "immigration": "N Alvarez, J.|46",
+  "_chamber": "H"
+ },
+ "shane_abbott": {
+  "property_tax": "Y Abbott|5",
+  "immigration": "Y Abbott|5",
+  "abortion": "Y Abbott|5",
+  "guns": "Y Abbott|5",
+  "education_choice": "Y Abbott|5",
+  "lgbtq": "Y Abbott|5",
+  "elections": "Y Abbott|5",
+  "insurance": "Y Abbott|5",
+  "energy": "Y Abbott|5",
+  "housing": "Y Abbott|5",
+  "_chamber": "H"
+ },
+ "hilary_holley": {
+  "property_tax": "Y Holley|51",
+  "_chamber": "H"
+ },
+ "samantha_scott": {
+  "property_tax": "Y Scott|52",
+  "_chamber": "H"
+ },
+ "adam_anderson": {
+  "immigration": "Y Anderson|57",
+  "abortion": "Y Anderson|57",
+  "guns": "Y Anderson|57",
+  "education_choice": "Y Anderson|57",
+  "lgbtq": "Y Anderson|57",
+  "elections": "Y Anderson|57",
+  "insurance": "Y Anderson|57",
+  "energy": "Y Anderson|57",
+  "housing": "Y Anderson|57",
+  "_chamber": "H"
+ },
+ "kimberly_berfield": {
+  "property_tax": "Y Berfield|58",
+  "immigration": "Y Berfield|58",
+  "abortion": "Y Berfield|58",
+  "guns": "Y Berfield|58",
+  "education_choice": "Y Berfield|58",
+  "lgbtq": "Y Berfield|58",
+  "elections": "Y Berfield|58",
+  "insurance": "Y Berfield|58",
+  "energy": "Y Berfield|58",
+  "housing": "Y Berfield|58",
+  "_chamber": "H"
+ },
+ "berny_jacques": {
+  "property_tax": "Y Jacques|59",
+  "immigration": "Y Jacques|59",
+  "abortion": "Y Jacques|59",
+  "guns": "Y Jacques|59",
+  "education_choice": "Y Jacques|59",
+  "lgbtq": "Y Jacques|59",
+  "elections": "Y Jacques|59",
+  "insurance": "Y Jacques|59",
+  "energy": "Y Jacques|59",
+  "housing": "Y Jacques|59",
+  "_chamber": "H"
+ },
+ "linda_chaney": {
+  "property_tax": "Y Chaney|61",
+  "immigration": "Y Chaney|61",
+  "abortion": "Y Chaney|61",
+  "education_choice": "Y Chaney|61",
+  "lgbtq": "Y Chaney|61",
+  "elections": "Y Chaney|61",
+  "insurance": "Y Chaney|61",
+  "energy": "Y Chaney|61",
+  "_chamber": "H"
+ },
+ "karen_gonzalez_pittman": {
+  "property_tax": "Y Gonzalez Pittman|65",
+  "immigration": "Y Gonzalez Pittman|65",
+  "abortion": "N Gonzalez Pittman|65",
+  "guns": "Y Gonzalez Pittman|65",
+  "education_choice": "Y Gonzalez Pittman|65",
+  "lgbtq": "Y Gonzalez Pittman|65",
+  "elections": "Y Gonzalez Pittman|65",
+  "insurance": "Y Gonzalez Pittman|65",
+  "energy": "Y Gonzalez Pittman|65",
+  "housing": "Y Gonzalez Pittman|65",
+  "_chamber": "H"
+ },
+ "traci_koster": {
+  "property_tax": "Y Koster|66",
+  "immigration": "Y Koster|66",
+  "guns": "Y Koster|66",
+  "education_choice": "Y Koster|66",
+  "lgbtq": "Y Koster|66",
+  "elections": "Y Koster|66",
+  "insurance": "Y Koster|66",
+  "energy": "Y Koster|66",
+  "housing": "Y Koster|66",
+  "_chamber": "H"
+ },
+ "daniel_alvarez": {
+  "property_tax": "Y Alvarez, D.|69",
+  "immigration": "Y Alvarez, D.|69",
+  "abortion": "Y Alvarez|69",
+  "guns": "Y Alvarez|69",
+  "education_choice": "Y Alvarez|69",
+  "lgbtq": "Y Alvarez|69",
+  "elections": "Y Alvarez|69",
+  "insurance": "Y Alvarez|69",
+  "energy": "Y Alvarez|69",
+  "housing": "Y Alvarez|69",
+  "_chamber": "H"
+ },
+ "jason_shoaf": {
+  "property_tax": "Y Shoaf|7",
+  "immigration": "Y Shoaf|7",
+  "abortion": "Y Shoaf|7",
+  "guns": "Y Shoaf|7",
+  "education_choice": "Y Shoaf|7",
+  "lgbtq": "Y Shoaf|7",
+  "elections": "Y Shoaf|7",
+  "insurance": "Y Shoaf|7",
+  "energy": "Y Shoaf|7",
+  "housing": "Y Shoaf|7",
+  "_chamber": "H"
+ },
+ "michael_owen": {
+  "property_tax": "Y Owen|70",
+  "immigration": "Y Owen|70",
+  "_chamber": "H"
+ },
+ "william_conerly": {
+  "property_tax": "Y Conerly|72",
+  "immigration": "Y Conerly|72",
+  "_chamber": "H"
+ },
+ "fiona_mcfarland": {
+  "property_tax": "Y McFarland|73",
+  "immigration": "Y McFarland|73",
+  "guns": "Y McFarland|73",
+  "education_choice": "Y McFarland|73",
+  "lgbtq": "Y McFarland|73",
+  "insurance": "Y McFarland|73",
+  "energy": "Y McFarland|73",
+  "housing": "Y McFarland|73",
+  "_chamber": "H"
+ },
+ "danny_nix_jr": {
+  "property_tax": "Y Nix|75",
+  "immigration": "Y Nix|75",
+  "_chamber": "H"
+ },
+ "vanessa_oliver": {
+  "property_tax": "Y Oliver|76",
+  "immigration": "Y Oliver|76",
+  "_chamber": "H"
+ },
+ "tiffany_esposito": {
+  "property_tax": "Y Esposito|77",
+  "immigration": "Y Esposito|77",
+  "abortion": "Y Esposito|77",
+  "guns": "Y Esposito|77",
+  "education_choice": "Y Esposito|77",
+  "lgbtq": "Y Esposito|77",
+  "elections": "Y Esposito|77",
+  "insurance": "Y Esposito|77",
+  "energy": "Y Esposito|77",
+  "housing": "Y Esposito|77",
+  "_chamber": "H"
+ },
+ "mike_giallombardo": {
+  "immigration": "Y Giallombardo|79",
+  "abortion": "Y Giallombardo|79",
+  "guns": "Y Giallombardo|79",
+  "education_choice": "Y Giallombardo|79",
+  "lgbtq": "Y Giallombardo|79",
+  "elections": "Y Giallombardo|79",
+  "insurance": "Y Giallombardo|79",
+  "energy": "Y Giallombardo|79",
+  "housing": "Y Giallombardo|79",
+  "_chamber": "H"
+ },
+ "gallop_franklin": {
+  "immigration": "N Franklin|8",
+  "abortion": "N Franklin|8",
+  "education_choice": "Y Franklin|8",
+  "elections": "N Franklin|8",
+  "insurance": "N Franklin|8",
+  "housing": "Y Franklin|8",
+  "_chamber": "H"
+ },
+ "adam_botana": {
+  "property_tax": "Y Botana|80",
+  "immigration": "Y Botana|80",
+  "abortion": "Y Botana|80",
+  "guns": "Y Botana|80",
+  "education_choice": "Y Botana|80",
+  "lgbtq": "Y Botana|80",
+  "elections": "Y Botana|80",
+  "insurance": "Y Botana|80",
+  "energy": "Y Botana|80",
+  "housing": "Y Botana|80",
+  "_chamber": "H"
+ },
+ "yvette_benarroch": {
+  "property_tax": "Y Benarroch|81",
+  "immigration": "Y Benarroch|81",
+  "_chamber": "H"
+ },
+ "kaylee_tuck": {
+  "property_tax": "Y Tuck|83",
+  "immigration": "Y Tuck|83",
+  "abortion": "Y Tuck|83",
+  "guns": "Y Tuck|83",
+  "education_choice": "Y Tuck|83",
+  "lgbtq": "Y Tuck|83",
+  "elections": "Y Tuck|83",
+  "insurance": "Y Tuck|83",
+  "energy": "Y Tuck|83",
+  "housing": "Y Tuck|83",
+  "_chamber": "H"
+ },
+ "dana_trabulsy": {
+  "immigration": "Y Trabulsy|84",
+  "abortion": "Y Trabulsy|84",
+  "guns": "Y Trabulsy|84",
+  "education_choice": "Y Trabulsy|84",
+  "lgbtq": "Y Trabulsy|84",
+  "elections": "Y Trabulsy|84",
+  "insurance": "Y Trabulsy|84",
+  "energy": "Y Trabulsy|84",
+  "housing": "Y Trabulsy|84",
+  "_chamber": "H"
+ },
+ "john_snyder": {
+  "property_tax": "Y Snyder|86",
+  "immigration": "Y Snyder|86",
+  "abortion": "Y Snyder|86",
+  "guns": "Y Snyder|86",
+  "education_choice": "Y Snyder|86",
+  "lgbtq": "Y Snyder|86",
+  "elections": "Y Snyder|86",
+  "insurance": "Y Snyder|86",
+  "energy": "Y Snyder|86",
+  "housing": "Y Snyder|86",
+  "_chamber": "H"
+ },
+ "emily_gregory": {
+  "property_tax": "N Gregory|87",
+  "_chamber": "H"
+ },
+ "jervonte_edmonds": {
+  "abortion": "N Edmonds|88",
+  "guns": "N Edmonds|88",
+  "education_choice": "N Edmonds|88",
+  "elections": "N Edmonds|88",
+  "insurance": "N Edmonds|88",
+  "housing": "Y Edmonds|88",
+  "_chamber": "H"
+ },
+ "debra_tendrich": {
+  "property_tax": "N Tendrich|89",
+  "immigration": "N Tendrich|89",
+  "_chamber": "H"
+ },
+ "allison_tant": {
+  "property_tax": "N Tant|9",
+  "immigration": "N Tant|9",
+  "abortion": "N Tant|9",
+  "guns": "N Tant|9",
+  "education_choice": "N Tant|9",
+  "lgbtq": "N Tant|9",
+  "elections": "N Tant|9",
+  "housing": "Y Tant|9",
+  "_chamber": "H"
+ },
+ "peggy_gossett_seidman": {
+  "property_tax": "Y Gossett-Seidman|91",
+  "immigration": "Y Gossett-Seidman|91",
+  "abortion": "N Gossett-Seidman|91",
+  "guns": "Y Gossett-Seidman|91",
+  "education_choice": "Y Gossett-Seidman|91",
+  "lgbtq": "Y Gossett-Seidman|91",
+  "elections": "Y Gossett-Seidman|91",
+  "insurance": "Y Gossett-Seidman|91",
+  "energy": "Y Gossett-Seidman|91",
+  "housing": "Y Gossett-Seidman|91",
+  "_chamber": "H"
+ },
+ "kelly_skidmore": {
+  "property_tax": "N Skidmore|92",
+  "immigration": "N Skidmore|92",
+  "abortion": "N Skidmore|92",
+  "guns": "N Skidmore|92",
+  "education_choice": "N Skidmore|92",
+  "lgbtq": "N Skidmore|92",
+  "elections": "N Skidmore|92",
+  "insurance": "N Skidmore|92",
+  "housing": "Y Skidmore|92",
+  "_chamber": "H"
+ },
+ "anne_gerwig": {
+  "property_tax": "Y Gerwig|93",
+  "immigration": "Y Gerwig|93",
+  "_chamber": "H"
+ },
+ "megan_weinberger": {
+  "property_tax": "Y Weinberger|94",
+  "immigration": "Y Weinberger|94",
+  "_chamber": "H"
+ },
+ "christine_hunschofsky": {
+  "property_tax": "N Hunschofsky|95",
+  "immigration": "N Hunschofsky|95",
+  "abortion": "N Hunschofsky|95",
+  "guns": "N Hunschofsky|95",
+  "education_choice": "N Hunschofsky|95",
+  "lgbtq": "N Hunschofsky|95",
+  "elections": "N Hunschofsky|95",
+  "insurance": "N Hunschofsky|95",
+  "energy": "N Hunschofsky|95",
+  "housing": "Y Hunschofsky|95",
+  "_chamber": "H"
+ },
+ "dan_daley": {
+  "property_tax": "N Daley|96",
+  "immigration": "N Daley|96",
+  "abortion": "N Daley|96",
+  "guns": "N Daley|96",
+  "education_choice": "N Daley|96",
+  "lgbtq": "N Daley|96",
+  "elections": "N Daley|96",
+  "insurance": "N Daley|96",
+  "energy": "N Daley|96",
+  "housing": "Y Daley|96",
+  "_chamber": "H"
  }
 }

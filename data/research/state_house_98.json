@@ -22,7 +22,7 @@
       "id": "mitch_rosenwald",
       "name": "Mitch Rosenwald",
       "party": "Democratic",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": "assets/photos/mitch_rosenwald.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": "https://www.mitchrosenwald.com/",

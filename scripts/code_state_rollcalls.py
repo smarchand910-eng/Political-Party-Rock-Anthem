@@ -10,7 +10,7 @@ SENATE={'jason_brodeur','colleen_burton','brian_nathan','nick_diceglie','jay_tru
 HOUSE={'mike_beltran','katherine_waldron','jeff_holcomb','josie_tomkow','fentrice_driskell','james_buchanan','david_silvers','rick_roth','lauren_melo','ashley_gantt','elizabeth_fetterhoff','felicia_robinson','marie_woodson','tom_fabricio','david_borrero','alex_rizo','kimberly_daniels','j_j_grow','ryan_chamberlin','taylor_yarkosky','richard_gentry','erika_booth','doug_bankson','rashon_young','bruce_antone','jon_albert','jennifer_canady','randy_maggard','brad_yeager','lisa_dunkley','daryl_campbell'}
 FS='https://www.flsenate.gov/Session/Bill/'
 B={
- 'property_tax':('property_tax',1,-1,'CS/HJR 1-F (2026)',FS+'2026F/1F','SenateVote_h00001Fc1005.PDF','HouseVote_h00001Fc1900.PDF','the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; a vote to refer the amendment is coded as leaning','2026-06-02'),
+ 'property_tax':('property_tax',1,-1,'CS/HJR 1-F (2026)',FS+'2026F/1F','SenateVote_h00001Fc1005.PDF','HouseVote_h00001Fc1900.PDF','the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; because the vote sent the question to voters rather than cutting taxes itself, a vote for it is coded as leaning toward sharply reducing homestead property taxes rather than as full agreement','2026-06-02'),
  'immigration':('immigration',2,-2,'SB 2-C (2025)',FS+'2025C/2C','SenateVote_s00002C__004.PDF','HouseVote_s00002C__013.PDF','the February 2025 special-session immigration law that created a State Board of Immigration Enforcement, made entering Florida as an unauthorized immigrant a state crime and required local cooperation with federal detention','2025-02-13'),
  'abortion':('abortion',-2,2,'SB 300 (2023)',FS+'2023/300','SenateVote_s00300e1018.PDF','HouseVote_s00300e1107.PDF','the 2023 law limiting most abortions to six weeks of pregnancy','2023-04'),
  'guns':('guns',-2,2,'HB 543 (2023)',FS+'2023/543','SenateVote_h00543e1002.PDF','HouseVote_h00543e1046.PDF','the 2023 law allowing adults to carry a concealed firearm without a permit','2023-03'),
@@ -37,6 +37,7 @@ for f in sorted(glob.glob('data/research/*.json')):
         if not row: continue
         if c['id'] in SENATE: chamber='S'
         elif c['id'] in HOUSE: chamber='H'
+        elif row.get('_chamber') in ('S','H'): chamber=row['_chamber']   # rows added by build_state_matrix.py
         else: unknown_chamber.add(c['id']); continue
         rec=[]
         for key in ORDER:
