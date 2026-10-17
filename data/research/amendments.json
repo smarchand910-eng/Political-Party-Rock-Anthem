@@ -1,6 +1,6 @@
 {
   "election": "Florida General Election, November 3, 2026",
-  "research_note": "Third pass Sept 17, 2026. The official Florida Division of Elections booklet 'Proposed Constitutional Amendments for the General Election (November 3, 2026)' (25 pages, updated Aug. 21, 2026) was downloaded and its text extracted; every ballot title and ballot summary below is copied from that PDF. The Sumter County 2026 General Election sample ballot (posted by the Supervisor of Elections, DocumentCenter/View/332) was also viewed and shows the same three amendments with identical text. Count confirmed: exactly three legislatively referred amendments (Nos. 1-3); no citizen initiative or additional legislative referral appears in the booklet or on the Sumter sample ballot. Booklet: https://files.floridados.gov/media/711355/eng-2026-booklet-constitutional-amendpub-updated-20260821.pdf ; Sumter sample ballot: https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
+  "research_note": "Third pass Sept 17, 2026. The official Florida Division of Elections booklet 'Proposed Constitutional Amendments for the General Election (November 3, 2026)' (25 pages, updated Aug. 21, 2026) was downloaded and its text extracted; every ballot title and ballot summary below is copied from that PDF. The Sumter County 2026 General Election sample ballot (posted by the Supervisor of Elections, DocumentCenter/View/332) was also viewed and shows the same three amendments with identical text. Count confirmed: exactly three legislatively referred amendments (Nos. 1-3); no citizen initiative or additional legislative referral appears in the booklet or on the Sumter sample ballot. (The Division has since taken that booklet down; each amendment now cites its entry in the Division's Initiatives/Amendments/Revisions database, which shows the same ballot number and title: https://constitutionalinitiatives.dos.fl.gov/ .) Sumter sample ballot: https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
   "threshold_note": "All three are legislatively referred constitutional amendments; each requires approval by at least 60% of those voting on the question (Fla. Const. art. XI, s. 5(e)).",
   "amendments": [
     {
@@ -78,7 +78,7 @@
       ],
       "threshold": "60%",
       "sources": [
-        "https://files.floridados.gov/media/711355/eng-2026-booklet-constitutional-amendpub-updated-20260821.pdf",
+        "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=108",
         "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
         "https://www.flsenate.gov/Session/Bill/2025/5019",
         "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=108",
@@ -237,7 +237,7 @@
       ],
       "threshold": "60%",
       "sources": [
-        "https://files.floridados.gov/media/711355/eng-2026-booklet-constitutional-amendpub-updated-20260821.pdf",
+        "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=109",
         "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
         "https://www.flsenate.gov/Session/Bill/2025/1215",
         "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=109",
@@ -497,7 +497,7 @@
       ],
       "threshold": "60%",
       "sources": [
-        "https://files.floridados.gov/media/711355/eng-2026-booklet-constitutional-amendpub-updated-20260821.pdf",
+        "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=110",
         "https://elections.sumtercountyfl.gov/DocumentCenter/View/332/2026-General-Sample-Ballot",
         "https://www.flhouse.gov/Sections/Bills/billsdetail.aspx?BillId=84452",
         "https://constitutionalinitiatives.dos.fl.gov/Home/InitDetail?account=10&seqnum=110",

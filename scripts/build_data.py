@@ -114,7 +114,8 @@ def main():
                 lp = os.path.join(ROOT, 'assets', 'photos', f"{c.get('id')}.{ext}")
                 if os.path.exists(lp):
                     c['photo_local'] = f"assets/photos/{c.get('id')}.{ext}"
-                    c['photo_source'] = 'Ballotpedia candidate photo (downloaded copy in assets/photos)'
+                    # keep the recorded source (official portraits, campaign photos); fall back only when none was noted
+                    if not c.get('photo_source'): c['photo_source'] = 'Ballotpedia candidate photo (downloaded copy in assets/photos)'
                     break
             fin = fec_lookup(fec_rows, c, meta['id'])
             if fin: c['finance'] = fin
