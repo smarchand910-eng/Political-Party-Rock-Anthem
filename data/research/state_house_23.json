@@ -426,6 +426,45 @@
               "date": "2026-09-18"
             }
           ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Baker told VOTE411 he would combine anti-fraud and mitigation steps with requiring insurers to pass savings to consumers and strengthening the state's storm-coverage backup programs.",
+          "quote": "require insurers to pass savings from reduced litigation and lower reinsurance costs directly to consumers",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 23 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129051",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Baker said he would restore local authority over zoning, land use, density and growth planning and make state preemption harder to pass.",
+          "quote": "I can strengthen Home Rule by restoring local authority over zoning, land use, building density, environmental protections, and growth planning.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 23 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129051",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "In the News 6/News Collaborative questionnaire Baker said current immigration enforcement wastes money, separates families and hurts the economy, and called for legal pathways and reform.",
+          "quote": "the current approach often destroys families, hurts the economy by removing workers and consumers",
+          "sources": [
+            {
+              "title": "WKMG News 6 ClickOrlando, 2026 Voter's Guide - Florida House District 23",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-house-district-23/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -442,7 +481,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

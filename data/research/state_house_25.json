@@ -448,11 +448,17 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Helfrich said he opposes the homestead-exemption increase on the ballot because it would cut funding for first responders and local services.",
+          "quote": "I oppose the proposed increase in the homestead exemption on the ballot, because it would reduce funding for first responders and essential local services.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 25 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129055",
+              "date": "2026-10-17"
+            }
+          ]
         },
         "insurance": {
           "stance": 0,
@@ -468,11 +474,17 @@
           ]
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Helfrich said he supports expanding state programs for renters and first-time homebuyers and development that favors smaller, attainable homes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 25 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129055",
+              "date": "2026-10-17"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -482,11 +494,17 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Helfrich told VOTE411 that decisions about pregnancy belong to a woman, her doctor and her faith community, not politicians.",
+          "quote": "Decisions about pregnancy belong between a woman, her doctor, and her faith community if she chooses, not politicians.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 25 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129055",
+              "date": "2026-10-17"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -496,11 +514,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Helfrich said Florida should study other states' models and adopt practices that expand coverage and lower costs, without naming a specific plan.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 25 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129055",
+              "date": "2026-10-17"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -550,11 +574,17 @@
           "sources": []
         },
         "elections": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "If proof of citizenship is required to register, Helfrich said the state should cut fees and simplify access to birth and marriage records so eligible voters are not blocked.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 25 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129055",
+              "date": "2026-10-17"
+            }
+          ]
         },
         "crime": {
           "stance": null,
@@ -594,7 +624,18 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Orlando Sentinel editorial board",
+          "sources": [
+            {
+              "title": "Orlando Sentinel editorial board, Endorsements: These House hopefuls could cut into GOP stronghold",
+              "url": "https://www.orlandosentinel.com/2026/10/14/endorsements-these-house-hopefuls-could-cut-into-gop-stronghold/",
+              "date": "2026-10-14"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "Live updates: Key Primary Election results in Central Florida (Central Florida Public Media)",
@@ -607,7 +648,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

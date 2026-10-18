@@ -346,6 +346,32 @@
               "date": "2026-09"
             }
           ]
+        },
+        "immigration": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Funkhouser said he does not agree with current enforcement, calling its tactics cruel, and wants better legal pathways.",
+          "quote": "I do not agree with the current approaches to immigration enforcement.",
+          "sources": [
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 55 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Funkhouser said he would crack down on insurance companies and their junk fees.",
+          "quote": "We would also crack down on insurance companies and their junk fees",
+          "sources": [
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 55 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -407,7 +433,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

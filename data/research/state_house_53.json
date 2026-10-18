@@ -260,11 +260,17 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Claude said property taxes should be revamped rather than removed, with a staged structure in which seniors pay least.",
+          "quote": "Property taxes need to be revamped not just removed.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 53 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128956",
+              "date": "2026-10-17"
+            }
+          ]
         },
         "insurance": {
           "stance": 2,
@@ -300,11 +306,17 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Claude told VOTE411 a woman has a right to choose until a heartbeat can be detected, and after that only to save her life, which is close to Florida's current six-week limit.",
+          "quote": "I believe the woman has a right to choose up until the heartbeat can be detected.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 53 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128956",
+              "date": "2026-10-17"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -494,11 +506,17 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Anger answered yes on the property-tax amendment and proposed exempting homesteads after seven years of residency, phased in by year.",
+          "quote": "Yes , 7 year residency to be tax exempt.",
+          "sources": [
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 53 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -522,11 +540,17 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked about abortion restrictions, Anger gave a personal view against abortion without proposing a policy change.",
+          "quote": "Personally , the killing of babies is wrong.",
+          "sources": [
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 53 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -681,7 +705,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

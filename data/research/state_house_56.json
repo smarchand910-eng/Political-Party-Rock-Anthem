@@ -508,6 +508,32 @@
               "date": "2026-09"
             }
           ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Freites said abortion restrictions should be less strict and supports putting a right to abortion in Florida's constitution.",
+          "quote": "Less strict. I support codifying the right to an abortion into Florida's constitution.",
+          "sources": [
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 56 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Freites said he will vote no, calling elimination of property tax catastrophic for working-class Floridians without a replacement plan.",
+          "quote": "I vote no. Eliminating property tax would be catastrophic for the working class of Florida.",
+          "sources": [
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 56 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -536,7 +562,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

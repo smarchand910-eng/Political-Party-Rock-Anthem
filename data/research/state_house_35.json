@@ -57,11 +57,17 @@
           ]
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Booth said Florida's excess-profit law should cover homeowners insurance; she voted for HB 1399 to do that and plans to push it again.",
+          "quote": "Florida has had an excess profit law on the books since 1977.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Erika Booth, Florida House District 35",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-erika-booth-running-for-florida-house-district-35/",
+              "date": "2026-10-12"
+            }
+          ]
         },
         "housing": {
           "stance": null,
@@ -150,18 +156,30 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Booth named stormwater and water quality as the top environmental issue, citing unfunded drainage work and subdivisions that pave over land that used to absorb water.",
+          "quote": "Water, and specifically, where it goes when it rains.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Erika Booth, Florida House District 35",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-erika-booth-running-for-florida-house-district-35/",
+              "date": "2026-10-12"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Booth said she would vote to protect Orange County's voter-approved rural boundary and that growth should pay for roads, schools and drainage before homes are built; on preemption she backs it only where it protects individual rights.",
+          "quote": "Growth should pay for growth: roads, schools, and drainage in the ground before the rooftops go up.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Erika Booth, Florida House District 35",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-erika-booth-running-for-florida-house-district-35/",
+              "date": "2026-10-12"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -245,7 +263,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Fundraising",
+          "summary": "The Orlando Sentinel reported Booth had raised about $258,000, much of it from corporate donors and groups, to Gray's about $83,000.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel, Dem political newcomer Gray looks to unseat GOP freshman state Rep. Booth",
+              "url": "https://www.orlandosentinel.com/2026/10/12/dem-political-newcomer-gray-looks-to-unseat-gop-freshman-state-rep-booth/",
+              "date": "2026-10-12"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; because the vote sent the question to voters rather than cutting taxes itself, a vote for it is coded as leaning toward sharply reducing homestead property taxes rather than as full agreement.",
@@ -371,11 +401,17 @@
           ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Gray said he will vote no on the property-tax amendment, saying it cuts billions from local services with no replacement; he favors targeted relief instead.",
+          "quote": "But this amendment is not a careful plan for relief. It is fiscal whiplash.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Eric Gray, Florida House District 35",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-eric-gray-running-for-florida-house-district-35/",
+              "date": "2026-10-12"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -439,11 +475,17 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Gray said he understands why parents want options but that schools receiving public money should report how students are doing.",
+          "quote": "Choice matters. Accountability does too.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Eric Gray, Florida House District 35",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-eric-gray-running-for-florida-house-district-35/",
+              "date": "2026-10-12"
+            }
+          ]
         },
         "environment": {
           "stance": 1,
@@ -459,11 +501,17 @@
           ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Gray said preemption should be limited to genuine statewide concerns and described rural boundaries as a way to direct growth while protecting farms and wetlands.",
+          "quote": "Preemption should be limited to genuine statewide concerns, not to silence local innovation or local democracy.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Eric Gray, Florida House District 35",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-eric-gray-running-for-florida-house-district-35/",
+              "date": "2026-10-12"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -527,7 +575,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Fundraising",
+          "summary": "The Orlando Sentinel reported Gray had raised about $83,000, almost entirely from individuals, to Booth's about $258,000.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel, Dem political newcomer Gray looks to unseat GOP freshman state Rep. Booth",
+              "url": "https://www.orlandosentinel.com/2026/10/12/dem-political-newcomer-gray-looks-to-unseat-gop-freshman-state-rep-booth/",
+              "date": "2026-10-12"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [
         {
@@ -537,6 +597,26 @@
               "title": "Equality Florida PAC | Endorsed Candidates",
               "url": "https://eqflpac.org/endorsed-candidates/",
               "date": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "by": "Orlando Sentinel editorial board",
+          "sources": [
+            {
+              "title": "Orlando Sentinel editorial board, Endorsement: Eric Gray would serve District 35 well",
+              "url": "https://www.orlandosentinel.com/2026/10/07/endorsement-eric-gray-would-serve-district-35-well/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "by": "Unite Here Locals 362 and 737",
+          "sources": [
+            {
+              "title": "Florida Politics, Disney World union workers knock on doors to support Democrats in Orange County",
+              "url": "https://floridapolitics.com/archives/823660-disney-world-union-workers-knock-on-doors-to-support-democrats-in-orange-county/",
+              "date": "2026-10-07"
             }
           ]
         }
@@ -564,7 +644,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

@@ -203,6 +203,19 @@
               "date": "2026-07-31"
             }
           ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Hodgers said he agrees with current federal and state enforcement and supports border security, enforcement of existing law and state-federal cooperation.",
+          "quote": "I support strong border security, enforcement of existing immigration laws, and cooperation between state and federal agencies.",
+          "sources": [
+            {
+              "title": "WKMG News 6 ClickOrlando, 2026 Voter's Guide - Florida House District 32",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-house-district-32/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -376,7 +389,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

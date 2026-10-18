@@ -94,11 +94,17 @@
           ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked whether Florida's abortion restrictions should change, Freeman said they should stay the same and the focus should be on supporting mothers and families.",
+          "quote": "Stay the same. Florida has already established its current abortion laws through the legislative process.",
+          "sources": [
+            {
+              "title": "Jacksonville Today, Compare the candidates | Nov. 3 Duval County voter guide",
+              "url": "https://jaxtoday.org/2026/10/14/nov-3-duval-county-voter-guide/",
+              "date": "2026-10-14"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -284,11 +290,17 @@
           ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Sandlin called current state and federal immigration enforcement inhumane, said ICE should be abolished and that undocumented immigrants without a criminal record should get a path to citizenship.",
+          "quote": "Undocumented immigrants without a criminal record should absolutely be granted a path to citizenship.",
+          "sources": [
+            {
+              "title": "Jacksonville Today, Compare the candidates | Nov. 3 Duval County voter guide",
+              "url": "https://jaxtoday.org/2026/10/14/nov-3-duval-county-voter-guide/",
+              "date": "2026-10-14"
+            }
+          ]
         },
         "abortion": {
           "stance": 2,
@@ -414,11 +426,17 @@
           ]
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Sandlin called for a moratorium on data centers and said the state should be more open to green and renewable energy.",
+          "quote": "We need to, as a state, be more open to green and renewable energy.",
+          "sources": [
+            {
+              "title": "Jacksonville Today, Compare the candidates | Nov. 3 Duval County voter guide",
+              "url": "https://jaxtoday.org/2026/10/14/nov-3-duval-county-voter-guide/",
+              "date": "2026-10-14"
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -473,7 +491,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

@@ -101,9 +101,60 @@
               "date": "2026-09"
             }
           ]
+        },
+        "property_tax": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Huntley said she supports reducing homestead property taxes while protecting schools, emergency services and infrastructure, and would look first to cutting wasteful spending.",
+          "quote": "I support reducing homestead property taxes, while protecting schools, emergency services, and infrastructure.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Erin Huntley, Florida House District 45",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-erin-huntley-running-for-florida-house-district-45/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Huntley said she believes in strong borders and enforcing the law, which she said voters have asked for.",
+          "quote": "I believe in strong borders and enforcing the law.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Erin Huntley, Florida House District 45",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-erin-huntley-running-for-florida-house-district-45/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Huntley said she would lower insurance costs mainly by fighting fraud.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Erin Huntley, Florida House District 45",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-erin-huntley-running-for-florida-house-district-45/",
+              "date": "2026-10-12"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Fundraising",
+          "summary": "The Orlando Sentinel reported Huntley had raised about $277,000 and spent about $80,000.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel, Freshman Democrat Spencer faces Orange GOP chair Huntley for key swing seat",
+              "url": "https://www.orlandosentinel.com/2026/10/09/freshman-democrat-spencer-faces-orange-gop-chair-huntley-for-key-swing-seat/",
+              "date": "2026-10-09"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Did not respond to the 2026 Vote411 questionnaire.",
@@ -299,9 +350,34 @@
               "date": "2026-09"
             }
           ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Spencer named protecting clean water as Florida's top environmental issue, calling for wastewater and septic-to-sewer investment and protection of wetlands and aquifer recharge areas from irresponsible development.",
+          "quote": "The most pressing environmental issue Florida must address is protecting our clean water.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Leonard Spencer, Florida House District 45",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-leonard-spencer-running-for-florida-house-district-45/",
+              "date": "2026-10-12"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Fundraising",
+          "summary": "The Orlando Sentinel reported Spencer had raised about $93,000 (including a $17,500 self-loan) and spent about $67,000, with about $72,000 on hand in his political committee.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel, Freshman Democrat Spencer faces Orange GOP chair Huntley for key swing seat",
+              "url": "https://www.orlandosentinel.com/2026/10/09/freshman-democrat-spencer-faces-orange-gop-chair-huntley-for-key-swing-seat/",
+              "date": "2026-10-09"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; because the vote sent the question to voters rather than cutting taxes itself, a vote for it is coded as leaning toward sharply reducing homestead property taxes rather than as full agreement.",
@@ -340,6 +416,46 @@
               "date": "2026-09-10"
             }
           ]
+        },
+        {
+          "by": "Orlando Sentinel editorial board",
+          "sources": [
+            {
+              "title": "Orlando Sentinel editorial board, Endorsement: These Florida House candidates have the right focus",
+              "url": "https://www.orlandosentinel.com/2026/10/15/endorsement-these-florida-house-candidates-have-the-right-focus/",
+              "date": "2026-10-15"
+            }
+          ]
+        },
+        {
+          "by": "Florida Planned Parenthood PAC",
+          "sources": [
+            {
+              "title": "Florida Politics, Florida Planned Parenthood PAC backs Democrats to fight for abortion rights",
+              "url": "https://floridapolitics.com/archives/824483-florida-planned-parenthood-pac-backs-democrats-to-fight-for-abortion-rights/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "by": "Unite Here Locals 362 and 737",
+          "sources": [
+            {
+              "title": "Florida Politics, Disney World union workers knock on doors to support Democrats in Orange County",
+              "url": "https://floridapolitics.com/archives/823660-disney-world-union-workers-knock-on-doors-to-support-democrats-in-orange-county/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "by": "Central Florida Hotel and Lodging Association PAC",
+          "sources": [
+            {
+              "title": "Florida Politics, Hoteliers endorse a bipartisan slate for Central Florida House races",
+              "url": "https://floridapolitics.com/archives/823745-hoteliers-endorse-a-bipartisan-slate-for-central-florida-house-races/",
+              "date": "2026-10-07"
+            }
+          ]
         }
       ],
       "links": [
@@ -353,7 +469,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

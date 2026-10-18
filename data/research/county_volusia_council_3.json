@@ -39,11 +39,17 @@
           ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says he will vote yes on Amendment 3; argues homeowners should not keep paying on unrealized gains and that lost revenue need not all be replaced, with spending set by public priorities.",
+          "quote": "Yes, I will be voting Yes on Amendment 3. If you truly own your home, you shouldn’t have to pay unrealized gains continuously to the government.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council District 3 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-volusia-county-council-district-3-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -252,6 +258,21 @@
               "date": "2026-09-23"
             }
           ]
+        },
+        {
+          "item": "Oct. 6, 2026: cast the lone vote against first reading of the county ordinance banning large-scale (50 MW+) data centers in unincorporated Volusia (passed 6-1). In the News 6 guide he said data centers should be judged on compatibility, tax benefit, jobs and utility rates.",
+          "sources": [
+            {
+              "title": "County moves to ban huge AI complexes in its domain (The West Volusia Beacon)",
+              "url": "https://www.beacononlinenews.com/articles/news/county-moves-to-ban-huge-ai-complexes-in-its-domain/",
+              "date": "2026-10-16"
+            },
+            {
+              "title": "2026 Voter's Guide - Volusia County Council District 3 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-volusia-county-council-district-3-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       ],
       "endorsements": [],
@@ -456,7 +477,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Campaign contributions and conservation land",
+          "summary": "Pledges to accept no campaign contributions from development interests; supports a ballot measure requiring voter approval before county conservation land can be sold or repurposed; opposes data centers in their current form.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council District 3 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-volusia-county-council-district-3-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [

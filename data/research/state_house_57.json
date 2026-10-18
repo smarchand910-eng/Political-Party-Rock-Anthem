@@ -561,6 +561,19 @@
               "date": "2026-09-30"
             }
           ]
+        },
+        "immigration": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Hoy said current federal and state immigration policies are harsh and politically driven and wants enforcement focused on real public-safety threats, with due process.",
+          "quote": "focus enforcement on real public-safety threats, stop detaining people who are here legally, protect due process",
+          "sources": [
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 57 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -600,7 +613,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

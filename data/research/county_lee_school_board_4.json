@@ -77,6 +77,19 @@
               "date": "2026-09"
             }
           ]
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says the district must keep finding ways to raise teacher pay across the board and would review the operating budget for redundancies.",
+          "quote": "We have to continue to find ways to improve teacher pay across the board, leveraging every possible tool at our disposal.",
+          "sources": [
+            {
+              "title": "Lee County School Board candidate Tony Beougher touts business skills for District 4 (The News-Press, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/lee-county-school-board-candidate-090051526.html",
+              "date": "2026-10-13"
+            }
+          ]
         }
       },
       "other_issues": [

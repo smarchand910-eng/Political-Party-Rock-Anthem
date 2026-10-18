@@ -64,6 +64,84 @@
               "date": "2026"
             }
           ]
+        },
+        "property_tax": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Cruz said he will vote yes on the property-tax amendment and supports replacing property taxes with another funding system for schools and public safety.",
+          "quote": "Yes. Property taxes place a heavy burden on homeowners.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Michael Cruz, Florida House District 46",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-michael-cruz-running-for-florida-house-district-46/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Cruz said he supports increasing the supply of affordable and workforce housing and speeding up permitting.",
+          "quote": "Increase the supply of affordable and workforce housing, speed up permitting for new homes",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Michael Cruz, Florida House District 46",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-michael-cruz-running-for-florida-house-district-46/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Cruz said new developments should be required to help fund the infrastructure growth needs.",
+          "quote": "require new developments to help fund the infrastructure needed to support growth",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Michael Cruz, Florida House District 46",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-michael-cruz-running-for-florida-house-district-46/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Cruz named flooding and water quality caused by rapid development as the top environmental issue and supports protecting wetlands and requiring stormwater management in new growth.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Michael Cruz, Florida House District 46",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-michael-cruz-running-for-florida-house-district-46/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Cruz said immigration policy should be balanced, combining border security, due process and a reliable legal pathway for immigrants who contribute.",
+          "quote": "Immigration policy should be effective and balanced, focusing on border security, due process, and a reliable legal pathway",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Michael Cruz, Florida House District 46",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-michael-cruz-running-for-florida-house-district-46/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Cruz said he personally holds pro-life views but that abortion policy should be governed by existing law.",
+          "quote": "I personally hold pro-life views, but I believe abortion policy should be governed by existing law",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Michael Cruz, Florida House District 46",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-michael-cruz-running-for-florida-house-district-46/",
+              "date": "2026-10-12"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -239,6 +317,19 @@
               "date": "2026-09"
             }
           ]
+        },
+        "abortion": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Asked whether Florida's abortion restrictions should be stricter or looser, Alvarez answered \"less strict\" without elaborating.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Central Florida Public Media / News Collaborative 2026 Voter Guide, Florida State House District 46 (undated; accessed 2026-10-17)",
+              "url": "https://www.cfpublic.org/voter-guide-2026",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -288,6 +379,36 @@
               "title": "Equality Florida PAC | Endorsed Candidates",
               "url": "https://eqflpac.org/endorsed-candidates/",
               "date": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "by": "Orlando Sentinel editorial board",
+          "sources": [
+            {
+              "title": "Orlando Sentinel editorial board, Endorsement: These Florida House candidates have the right focus",
+              "url": "https://www.orlandosentinel.com/2026/10/15/endorsement-these-florida-house-candidates-have-the-right-focus/",
+              "date": "2026-10-15"
+            }
+          ]
+        },
+        {
+          "by": "Florida Planned Parenthood PAC",
+          "sources": [
+            {
+              "title": "Florida Politics, Florida Planned Parenthood PAC backs Democrats to fight for abortion rights",
+              "url": "https://floridapolitics.com/archives/824483-florida-planned-parenthood-pac-backs-democrats-to-fight-for-abortion-rights/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "by": "Unite Here Locals 362 and 737",
+          "sources": [
+            {
+              "title": "Florida Politics, Disney World union workers knock on doors to support Democrats in Orange County",
+              "url": "https://floridapolitics.com/archives/823660-disney-world-union-workers-knock-on-doors-to-support-democrats-in-orange-county/",
+              "date": "2026-10-07"
             }
           ]
         }
@@ -345,7 +466,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

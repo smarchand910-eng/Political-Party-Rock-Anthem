@@ -140,11 +140,17 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Buckley said she supports school choice so families of any income have options, with reasonable accountability for schools that take public money.",
+          "quote": "I support school choice because families, regardless of income, deserve options that fit their child.",
+          "sources": [
+            {
+              "title": "Central Florida Public Media / News Collaborative 2026 Voter Guide, Florida State House District 38 (undated; accessed 2026-10-17)",
+              "url": "https://www.cfpublic.org/voter-guide-2026",
+              "date": "2026-10-17"
+            }
+          ]
         },
         "environment": {
           "stance": 1,
@@ -228,7 +234,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Fundraising",
+          "summary": "As of Oct. 2 Buckley had raised $309,140, including $49,500 from the Florida House Republican Campaign, per the Orlando Sentinel.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel, Buckley, Dean vie for Seminole state House seat to succeed Rep. David Smith",
+              "url": "https://www.orlandosentinel.com/2026/10/14/buckley-dean-vie-for-seminole-state-house-seat-to-succeed-rep-david-smith/",
+              "date": "2026-10-14"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [
         {
@@ -772,6 +790,17 @@
               "date": "2026-08-31"
             }
           ]
+        },
+        {
+          "title": "Fundraising",
+          "summary": "As of Oct. 2 Dean had raised nearly $37,000, including $23,000 from the Florida House Democratic Campaign, per the Orlando Sentinel.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel, Buckley, Dean vie for Seminole state House seat to succeed Rep. David Smith",
+              "url": "https://www.orlandosentinel.com/2026/10/14/buckley-dean-vie-for-seminole-state-house-seat-to-succeed-rep-david-smith/",
+              "date": "2026-10-14"
+            }
+          ]
         }
       ],
       "record": [],
@@ -795,6 +824,16 @@
               "date": "2026-09-30"
             }
           ]
+        },
+        {
+          "by": "Orlando Sentinel editorial board",
+          "sources": [
+            {
+              "title": "Orlando Sentinel editorial board, Endorsement: These Florida House candidates have the right focus",
+              "url": "https://www.orlandosentinel.com/2026/10/15/endorsement-these-florida-house-candidates-have-the-right-focus/",
+              "date": "2026-10-15"
+            }
+          ]
         }
       ],
       "links": [
@@ -808,7 +847,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

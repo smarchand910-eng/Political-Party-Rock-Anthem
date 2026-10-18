@@ -311,9 +311,34 @@
               "date": "2026-10-07"
             }
           ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Says he would vote no on Amendment 3, the homestead property-tax cut, because the relief is not targeted to those who need it most; he expects cuts to bus routes, road maintenance and parks if it passes.",
+          "quote": "No - Because the relief is not targeted to those who need it most and would help wealthy homeowners who already benefit from Florida tax code.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County Commission District 1 (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-brevard-county-commission-district-1/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Data centers",
+          "summary": "Says he opposes any data center in Brevard County and would try to stop ones already approved.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County Commission District 1 (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-brevard-county-commission-district-1/",
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     },

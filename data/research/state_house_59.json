@@ -247,6 +247,19 @@
               "date": "2022-12"
             }
           ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Jacques named cost of living as the top issue and listed lowering taxes and fees first among his fixes.",
+          "quote": "The issue can be fixed by lowering taxes/fees, lowering insurance rates, attracting high paying jobs, and by stopping corporate ownership single-family homes.",
+          "sources": [
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 59 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -442,6 +455,16 @@
               "url": "https://www.flsenate.gov/Session/Bill/2022A/2A/Vote/HouseVote_s00002A__009.PDF"
             }
           ]
+        },
+        {
+          "item": "Sept. 25-Oct. 1, 2026: Jacques sent the City of Seminole a letter saying its Amendment 3 web page amounted to taxpayer-funded electioneering and warning of a possible Florida Elections Commission complaint; on Sept. 30 the City Council voted to keep the page but remove two news articles and outside groups' statements opposing the amendment.",
+          "sources": [
+            {
+              "title": "St. Pete Catalyst, Seminole pushes back on Jacques, removes disputed links",
+              "url": "https://stpetecatalyst.com/seminole-pushes-back-on-jacques-removes-disputed-links/",
+              "date": "2026-10-01"
+            }
+          ]
         }
       ],
       "endorsements": [],
@@ -576,6 +599,19 @@
               "date": "2026-09-30"
             }
           ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Leff told VOTE411 that if proof of citizenship is required she would support free or low-cost records and having election officials verify citizenship through government records rather than placing the burden on voters.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 59 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128999",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -626,7 +662,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

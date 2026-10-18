@@ -86,7 +86,19 @@
           ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Data centers",
+          "summary": "Told News 6 he is a 'hard NO' on data centers in Marion County; on Amendment 3 he did not say how he would vote but said lost revenue could be replaced with impact fees and budget discipline.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Marion County Commission District 4 (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-marion-county-commission-district-4/",
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": []
     },

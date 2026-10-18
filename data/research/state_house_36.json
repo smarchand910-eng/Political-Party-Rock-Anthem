@@ -269,7 +269,19 @@
           ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Fundraising",
+          "summary": "As of Sept. 18 Plakon had raised $196,285, including $61,406 from Republican groups, according to state records cited by the Orlando Sentinel.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel, Sanford Democrat Darryl Block challenges GOP's Rachel Plakon for state House",
+              "url": "https://www.orlandosentinel.com/2026/10/07/sanford-democrat-darryl-block-challenges-gops-rachel-plakon-for-state-house/",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Did not respond to the News 6 or Vote411 2026 questionnaires.",
@@ -660,6 +672,17 @@
               "date": "2026-09-30"
             }
           ]
+        },
+        {
+          "title": "Fundraising",
+          "summary": "As of Sept. 18 Block had raised $33,972, mostly small donations plus $15,025 of his own money, according to state records cited by the Orlando Sentinel.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel, Sanford Democrat Darryl Block challenges GOP's Rachel Plakon for state House",
+              "url": "https://www.orlandosentinel.com/2026/10/07/sanford-democrat-darryl-block-challenges-gops-rachel-plakon-for-state-house/",
+              "date": "2026-10-07"
+            }
+          ]
         }
       ],
       "record": [],
@@ -733,6 +756,16 @@
               "date": "2026-09-10"
             }
           ]
+        },
+        {
+          "by": "Orlando Sentinel editorial board",
+          "sources": [
+            {
+              "title": "Orlando Sentinel editorial board, Endorsements: These House hopefuls could cut into GOP stronghold",
+              "url": "https://www.orlandosentinel.com/2026/10/14/endorsements-these-house-hopefuls-could-cut-into-gop-stronghold/",
+              "date": "2026-10-14"
+            }
+          ]
         }
       ],
       "links": [
@@ -746,7 +779,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

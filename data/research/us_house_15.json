@@ -353,6 +353,17 @@
               "date": null
             }
           ]
+        },
+        {
+          "title": "Did not attend Oct. 16 Tiger Bay forum",
+          "summary": "Lee did not attend the Tampa Tiger Bay Club congressional forum her opponent attended.",
+          "sources": [
+            {
+              "title": "Kathy Castor, Mike Beltran square off in a rare debate for Congress",
+              "url": "https://www.wusf.org/politics-issues/2026-10-17/kathy-castor-mike-beltran-square-off-in-a-rare-debate-for-congress",
+              "date": "2026-10-17"
+            }
+          ]
         }
       ],
       "record": [
@@ -569,9 +580,30 @@
               "date": "2026-10-06"
             }
           ]
+        },
+        {
+          "item": "Co-signed the Moody-Buchanan letter asking the Department of War to increase Florida's National Guard allocation after Hurricane Isaias.",
+          "sources": [
+            {
+              "title": "In Aftermath of Isaias, Senator Moody Calls for Increase in Total Allocation for Florida National Guard to Better Protect Floridians",
+              "url": "https://www.moody.senate.gov/press-releases/in-aftermath-of-isaias-senator-moody-calls-for-increase-in-total-allocation-for-florida-national-guard-to-better-protect-floridians/",
+              "date": "2026-10-14"
+            }
+          ]
         }
       ],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "Tampa Bay Times (Gallaty and Brink both chose Lee)",
+          "sources": [
+            {
+              "title": "Our picks for U.S. House of Representatives | Recommendations",
+              "url": "https://www.tampabay.com/viewpoints/2026/10/09/congress-candidates-recommendations-florida/",
+              "date": "2026-10-09"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "robert_people",
@@ -856,6 +888,22 @@
               "date": "2026-08"
             }
           ]
+        },
+        {
+          "title": "Tiger Bay forum remarks",
+          "summary": "At the Oct. 16 Tiger Bay forum People said he supports Medicare for All, opposed federal Medicaid cuts, called for congressional oversight of President Trump including impeachment, and advocated a ban on data centers over electricity-cost concerns.",
+          "sources": [
+            {
+              "title": "Kathy Castor and Mike Beltran put each other’s political records on trial at Tampa forum",
+              "url": "https://floridapolitics.com/archives/825388-kathy-castor-and-mike-beltran-put-each-others-political-records-on-trial-at-tampa-forum/",
+              "date": "2026-10-16"
+            },
+            {
+              "title": "Kathy Castor, Mike Beltran square off in a rare debate for Congress",
+              "url": "https://www.wusf.org/politics-issues/2026-10-17/kathy-castor-mike-beltran-square-off-in-a-rare-debate-for-congress",
+              "date": "2026-10-17"
+            }
+          ]
         }
       ],
       "record": [],
@@ -901,18 +949,6 @@
   ],
   "events": [
     {
-      "date": "",
-      "host": "No debate has been scheduled, despite the challenger asking for one (checked 2026-09-24)",
-      "who": "Laurel Lee, Robert People",
-      "sources": [
-        {
-          "title": "Is the era of political debates over in Florida? (Tampa Bay Times)",
-          "url": "https://www.yahoo.com/news/politics/articles/era-political-debates-over-florida-110000547.html",
-          "date": "2026-09-24"
-        }
-      ]
-    },
-    {
       "host": "None found. The Oct. 2 CD 14 debate coverage noted that GOP congressional incumbents in Tampa Bay have turned down debates. (No debate scheduled - unchanged (checked 2026-10-07))",
       "who": "Laurel Lee (R), Robert People (D), Angie Boone (write-in)",
       "sources": [
@@ -925,6 +961,23 @@
           "title": "At the Races: Debate demands and dodges (Roll Call)",
           "url": "https://rollcall.com/2026/10/01/at-the-races-debate-demands-and-dodges/",
           "date": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "host": "Tampa Tiger Bay Club forum, Cuban Club, Ybor City. Held.",
+      "who": "Robert People (D) took part; incumbent Laurel Lee (R) did not attend.",
+      "sources": [
+        {
+          "title": "Kathy Castor, Mike Beltran square off in a rare debate for Congress",
+          "url": "https://www.wusf.org/politics-issues/2026-10-17/kathy-castor-mike-beltran-square-off-in-a-rare-debate-for-congress",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Castor, Beltran get testy during congressional candidate forum (Tampa Bay Times, via Yahoo News)",
+          "url": "https://www.yahoo.com/news/politics/articles/castor-beltran-testy-during-congressional-214426705.html",
+          "date": "2026-10-16"
         }
       ]
     }

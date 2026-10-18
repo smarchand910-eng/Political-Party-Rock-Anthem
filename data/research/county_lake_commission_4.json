@@ -64,11 +64,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "On affordability, says government-engineered solutions tend to backfire and that lowering homeowners' insurance premiums would help most.",
+          "quote": "Ordinarily, solutions engineered by the government tend to have consequences that backfire.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Lake County Commission District 4 (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-lake-county-commission-district-4/",
+              "date": "2026-10-16"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -208,7 +214,23 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Oct. 13, 2026: voted against the 3-2 decision to postpone authorizing a hearing on draft data-center rules; reported as wanting a longer ban (per a Mid Florida Newspapers report summarized by Strisker). Told News 6 that Florida's ecology and grid are too fragile for data centers.",
+          "sources": [
+            {
+              "title": "Data Centers: Daily Notes, October 15, 2026 (Strisker; summarizes Mid Florida Newspapers report 'Lake County delays vote on data center rules, weighs moratorium extension')",
+              "url": "https://writing.strisker.com/data-centers-daily-notes-october-15-2026/",
+              "date": "2026-10-15"
+            },
+            {
+              "title": "2026 Voter's Guide - Lake County Commission District 4 (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-lake-county-commission-district-4/",
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "sources": [
         {
@@ -242,11 +264,17 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Says he will vote against Amendment 3 because it helps only homesteaded owners and not other property owners or renters.",
+          "quote": "Amendment 3 does not slash property taxes. It does reduce the property tax of homesteaded property owners like me. It does not help any other property owners or renters.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Lake County Commission District 4 (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-lake-county-commission-district-4/",
+              "date": "2026-10-16"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -394,7 +422,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Data centers",
+          "summary": "Supports comprehensive-plan changes to make large data centers harder to build and a longer moratorium than the 3-month pause the commission adopted.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Lake County Commission District 4 (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-lake-county-commission-district-4/",
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [

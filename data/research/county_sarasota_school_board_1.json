@@ -269,7 +269,18 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Venice Gondolier / Daily Sun editorial board (runoff recommendation)",
+          "sources": [
+            {
+              "title": "EDITORIAL: Glover, Brandt in runoff for School Board (Venice Gondolier / Daily Sun)",
+              "url": "https://www.yoursun.com/venice/opinion/editorials/editorial-glover-brandt-in-runoff-for-school-board/article_6684587d-bbc9-4f6f-8dc1-27fcaff768fe.html",
+              "date": "2026-10-10"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

@@ -114,6 +114,16 @@
               "date": "2026-07-31"
             }
           ]
+        },
+        {
+          "by": "Volusia/Flagler Central Labor Council",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-volusia-county-school-board-district-1-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       ],
       "links": [
@@ -127,7 +137,7 @@
       "id": "jamie_haynes",
       "name": "Jamie Haynes",
       "party": "Nonpartisan",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
       "website": "https://jamiemhaynesforschoolboard.com/",
@@ -291,6 +301,36 @@
               "title": "2026 Voter's Guide - Volusia County School Board District 1",
               "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-volusia-county-school-board-district-1/",
               "date": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "by": "State Sen. Tom A. Wright",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-volusia-county-school-board-district-1-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "by": "Volusia County Sheriff Mike Chitwood",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-volusia-county-school-board-district-1-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "by": "Dr. John M. Hill",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County School Board District 1 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-volusia-county-school-board-district-1-runoff/",
+              "date": "2026-10-16"
             }
           ]
         }

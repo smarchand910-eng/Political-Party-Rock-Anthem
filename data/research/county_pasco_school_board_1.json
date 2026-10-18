@@ -115,7 +115,19 @@
           ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Science standards and classroom order",
+          "summary": "Calls for more safety and classroom-order measures and a move away from classroom technology; recently praised the state's science-standards revisions.",
+          "sources": [
+            {
+              "title": "Pasco school board candidates weigh in on safety, falling enrollment, more (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/education/2026/10/14/pasco-florida-school-board-election-candidates/",
+              "date": "2026-10-14"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [
         {
@@ -268,6 +280,17 @@
               "title": "Kimberly Coward campaign website, quoted on Ballotpedia",
               "url": "https://ballotpedia.org/Kimberly_Coward",
               "date": "2026-07-17"
+            }
+          ]
+        },
+        {
+          "title": "Counselors and student mental health",
+          "summary": "Puts student mental health at the top of her list; said at a recent forum she would ask state leaders to fund more guidance counselors.",
+          "sources": [
+            {
+              "title": "Pasco school board candidates weigh in on safety, falling enrollment, more (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/education/2026/10/14/pasco-florida-school-board-election-candidates/",
+              "date": "2026-10-14"
             }
           ]
         }

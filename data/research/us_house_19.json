@@ -614,6 +614,17 @@
               "date": "2026-08"
             }
           ]
+        },
+        {
+          "title": "League of Women Voters of Lee County event remarks",
+          "summary": "At the same Fort Myers gathering, Arias raised concerns about the economy and job availability for young people and tied clean water and beaches to tourism jobs.",
+          "sources": [
+            {
+              "title": "Lee League of Women Voters gathers candidates and community members for discussion ahead of election",
+              "url": "https://www.wgcu.org/government-politics/2026-10-11/lee-league-of-women-voters-gathers-candidates-and-community-members-for-discussion-ahead-of-election",
+              "date": "2026-10-11"
+            }
+          ]
         }
       ],
       "record": [
@@ -730,6 +741,17 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "title": "League of Women Voters of Lee County event remarks",
+          "summary": "At a Lee County League of Women Voters candidate gathering in Fort Myers, Haskin focused on federal spending, calling for less borrowing and lower inflation and protection of savings and retirement accounts, and proposed increasing the number of U.S. House members.",
+          "sources": [
+            {
+              "title": "Lee League of Women Voters gathers candidates and community members for discussion ahead of election",
+              "url": "https://www.wgcu.org/government-politics/2026-10-11/lee-league-of-women-voters-gathers-candidates-and-community-members-for-discussion-ahead-of-election",
+              "date": "2026-10-11"
+            }
+          ]
         }
       ],
       "record": [],
@@ -800,6 +822,20 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Alexandra_Zakhvatayev"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "On or shortly before 2026-10-11 (article says 'recently')",
+      "host": "League of Women Voters of Lee County candidate and ballot-measure gathering at the Collaboratory, Fort Myers (2-minute candidate remarks, then informal conversation). Held.",
+      "who": "Victor Arias (D) and Seth Haskin (NPA) spoke; Jim Schwartzel (R) is not listed among participants.",
+      "sources": [
+        {
+          "title": "Lee League of Women Voters gathers candidates and community members for discussion ahead of election",
+          "url": "https://www.wgcu.org/government-politics/2026-10-11/lee-league-of-women-voters-gathers-candidates-and-community-members-for-discussion-ahead-of-election",
+          "date": "2026-10-11"
         }
       ]
     }

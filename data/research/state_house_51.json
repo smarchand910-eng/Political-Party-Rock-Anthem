@@ -141,7 +141,19 @@
           ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Fundraising",
+          "summary": "LkldNow reported Holley had raised $55,450 for re-election.",
+          "sources": [
+            {
+              "title": "LkldNow 2026 Voter Guide, Florida House, District 51",
+              "url": "https://www.lkldnow.com/florida-house-district-51/",
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Did not respond to the 2026 Vote411 questionnaire.",
@@ -331,9 +343,47 @@
               "date": "2026-10-06"
             }
           ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Hernandez said no on the property-tax amendment, saying it would shift the burden to other taxes and strain local budgets.",
+          "quote": "No, it would just pass the buck to other forms of taxation",
+          "sources": [
+            {
+              "title": "Central Florida Public Media / News Collaborative 2026 Voter Guide, Florida State House District 51 (undated; accessed 2026-10-17)",
+              "url": "https://www.cfpublic.org/voter-guide-2026",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Hernandez said he does not agree with current enforcement, objecting mainly to making local police responsible for immigration enforcement.",
+          "quote": "No, I do not believe local law enforcement should be responsible for enforcing immigration.",
+          "sources": [
+            {
+              "title": "Central Florida Public Media / News Collaborative 2026 Voter Guide, Florida State House District 51 (undated; accessed 2026-10-17)",
+              "url": "https://www.cfpublic.org/voter-guide-2026",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Fundraising",
+          "summary": "LkldNow reported Hernandez had raised $3,206.87.",
+          "sources": [
+            {
+              "title": "LkldNow 2026 Voter Guide, Florida House, District 51",
+              "url": "https://www.lkldnow.com/florida-house-district-51/",
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [
         {
@@ -398,7 +448,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

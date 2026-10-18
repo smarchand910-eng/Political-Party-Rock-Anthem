@@ -476,11 +476,17 @@
           "sources": []
         },
         "insurance": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Bivins said government can lower property-insurance costs through financial assistance, rate regulation and disaster preparedness.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 52 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128958",
+              "date": "2026-10-17"
+            }
+          ]
         },
         "housing": {
           "stance": 1,
@@ -508,11 +514,17 @@
           "sources": []
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Bivins told VOTE411 she supports abortion access when medically necessary and that the decision should rest with the woman, the father and her doctor, not government.",
+          "quote": "I would support access to abortion when it is medically necessary.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 52 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128958",
+              "date": "2026-10-17"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -770,7 +782,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

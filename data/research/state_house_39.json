@@ -308,6 +308,17 @@
               "date": "2026-09-30"
             }
           ]
+        },
+        {
+          "title": "Replacing local revenue if Amendment 3 passes",
+          "summary": "In the Central Florida Public Media guide, Bankson listed ways to fund a state trust fund for local governments if the homestead amendment passes, including a 1% sales-tax increase, a tourist-stay surcharge and front license-plate revenue.",
+          "sources": [
+            {
+              "title": "Central Florida Public Media / News Collaborative 2026 Voter Guide, Florida State House District 39 (undated; accessed 2026-10-17)",
+              "url": "https://www.cfpublic.org/voter-guide-2026",
+              "date": "2026-10-17"
+            }
+          ]
         }
       ],
       "record": [
@@ -603,11 +614,17 @@
           ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Fox said he does not agree with the current approach, objects to pulling local police into federal enforcement, and wants pathways for long-settled immigrants, while backing enforcement aimed at public-safety threats.",
+          "quote": "I do not agree with the current approach.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Jarod Fox, Florida House District 39",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-jarod-fox-running-for-florida-house-district-39/",
+              "date": "2026-10-12"
+            }
+          ]
         },
         "abortion": {
           "stance": 2,
@@ -717,11 +734,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Fox said regulators should make data centers pay the full cost of serving them and that he supports investing in renewable clean energy.",
+          "quote": "Florida families should not be forced to subsidize the enormous energy demands of data centers and other large industrial users.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Jarod Fox, Florida House District 39",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-jarod-fox-running-for-florida-house-district-39/",
+              "date": "2026-10-12"
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -815,6 +838,26 @@
               "date": "2026-09-10"
             }
           ]
+        },
+        {
+          "by": "Orlando Sentinel editorial board",
+          "sources": [
+            {
+              "title": "Orlando Sentinel editorial board, Endorsements: These House hopefuls could cut into GOP stronghold",
+              "url": "https://www.orlandosentinel.com/2026/10/14/endorsements-these-house-hopefuls-could-cut-into-gop-stronghold/",
+              "date": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "by": "Unite Here Locals 362 and 737",
+          "sources": [
+            {
+              "title": "Florida Politics, Disney World union workers knock on doors to support Democrats in Orange County",
+              "url": "https://floridapolitics.com/archives/823660-disney-world-union-workers-knock-on-doors-to-support-democrats-in-orange-county/",
+              "date": "2026-10-07"
+            }
+          ]
         }
       ],
       "sources": [
@@ -840,7 +883,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

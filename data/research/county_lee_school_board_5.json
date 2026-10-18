@@ -56,6 +56,32 @@
               "date": "2026-09"
             }
           ]
+        },
+        "teacher_pay": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says teachers and support staff are underpaid and should be prioritized in the budget, with unnecessary spending cut.",
+          "quote": "Teachers and support staff are underpaid, especially with the rising cost of living. We need to prioritize them in the budget and cut unnecessary spending.",
+          "sources": [
+            {
+              "title": "Meet Lee County School Board candidate Crystal Johnson before election (The News-Press, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-lee-county-school-board-090947283.html",
+              "date": "2026-10-14"
+            }
+          ]
+        },
+        "school_safety": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Describes safety as a mix of trained personnel on campus, relationships with students, clear procedures and attention to mental health.",
+          "quote": "Safety is non-negotiable. That includes trained personnel on campus, strong relationships with students, clear procedures and addressing mental health needs before situations escalate.",
+          "sources": [
+            {
+              "title": "Meet Lee County School Board candidate Crystal Johnson before election (The News-Press, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/meet-lee-county-school-board-090947283.html",
+              "date": "2026-10-14"
+            }
+          ]
         }
       },
       "other_issues": [

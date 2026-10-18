@@ -344,6 +344,22 @@
               "date": "2026-09-30"
             }
           ]
+        },
+        {
+          "title": "'Seven Times' TV ad",
+          "summary": "Singer's second TV ad says Boca Raton cut its tax rate seven times while he was mayor and that he would target fraud and waste and ban congressional stock trading. Florida Politics found the millage rate did fall in seven of eight years but property-tax revenue rose about 82% as values climbed; his campaign said 'That’s a tax rate cut — simple as that.'",
+          "sources": [
+            {
+              "title": "Scott Singer highlights local tax cuts, anti-fraud agenda in second TV ad for CD 25",
+              "url": "https://floridapolitics.com/archives/824697-scott-singer-highlights-local-tax-cuts-anti-fraud-agenda-in-second-tv-ad-for-cd-25/",
+              "date": "2026-10-13"
+            },
+            {
+              "title": "Scott Singer says he cut tax rates in Boca Raton, but property value increases means most homeowners paid the city more",
+              "url": "https://floridapolitics.com/archives/825188-scott-singer-says-he-cut-tax-rates-in-boca-raton-but-property-value-increases-means-most-homeowners-paid-the-city-more/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       ],
       "record": [
@@ -928,6 +944,17 @@
               "date": "2026-09-25"
             }
           ]
+        },
+        {
+          "title": "Statement on Mamdani's Oct. 7 anniversary message",
+          "summary": "Moskowitz criticized New York City Mayor Zohran Mamdani's statement on the anniversary of the Oct. 7 Hamas attack as 'atrocious.'",
+          "sources": [
+            {
+              "title": "Jared Moskowitz slams Zohran Mamdani over Oct. 7 anniversary statement",
+              "url": "https://floridapolitics.com/archives/823830-jared-moskowitz-slams-zohran-mamdani-over-oct-7-anniversary-statement/",
+              "date": "2026-10-07"
+            }
+          ]
         }
       ],
       "record": [
@@ -1388,41 +1415,14 @@
   ],
   "events": [
     {
-      "host": "WPLG Local 10 (televised debate proposed; cancelled after Moskowitz's campaign did not accept)",
-      "who": "Scott Singer accepted; Jared Moskowitz declined",
+      "date": "Dates not announced",
+      "host": "No televised debate (the WPLG Local 10 debate was canceled in September). On Oct. 14 Moskowitz told CBS News Miami the two will face off on a Sun Sentinel Zoom and at two community forums; no dates or hosts given. Scheduled per Moskowitz, not confirmed.",
+      "who": "Jared Moskowitz (D), Scott Singer (R)",
       "sources": [
         {
-          "title": "Scott Singer Calls Out Moskowitz For Refusing to Debate on TV (The Floridian)",
-          "url": "https://floridianpress.com/2026/09/scott-singer-calls-out-moskowitz-for-refusing-to-debate-on-tv/",
-          "date": "2026-09-18"
-        },
-        {
-          "title": "Moskowitz ducks Local 10 debate (Florida's Voice)",
-          "url": "https://flvoicenews.com/moskowitz-ducks-local-10-debate-as-singer-demands-answers-on-ethics-israel-and-taxes/",
-          "date": "2026-09-18"
-        }
-      ]
-    },
-    {
-      "date": "",
-      "host": "WPLG Local 10 (proposed televised debate)",
-      "who": "Unchanged since the last sweep; no debate scheduled as of 20 · Scott Singer accepted; Jared Moskowitz did not accept",
-      "sources": [
-        {
-          "title": "Scott Singer Calls Out Moskowitz For Refusing to Debate on TV (The Floridian)",
-          "url": "https://floridianpress.com/2026/09/scott-singer-calls-out-moskowitz-for-refusing-to-debate-on-tv/",
-          "date": "2026-09"
-        }
-      ]
-    },
-    {
-      "host": "WPLG Local 10's proposed televised debate remains unaccepted by Moskowitz; nothing new found in the sweep window. (No debate scheduled - unchanged (checked 2026-10-07))",
-      "who": "Scott Singer (R) accepted; Jared Moskowitz (D) has not accepted",
-      "sources": [
-        {
-          "title": "At the Races: Debate demands and dodges (Roll Call)",
-          "url": "https://rollcall.com/2026/10/01/at-the-races-debate-demands-and-dodges/",
-          "date": "2026-10-01"
+          "title": "Democrat Jared Moskowitz taking on Republican Scott Singer in race for Florida's District 25",
+          "url": "https://www.cbsnews.com/miami/news/democrat-jared-moskowitz-republican-scott-singer-floridas-district-25/",
+          "date": "2026-10-14"
         }
       ]
     }

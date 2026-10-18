@@ -90,11 +90,17 @@
           ]
         },
         "abortion": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Vilchez Santiago said abortion restrictions should be less strict and that he opposes the six-week ban.",
+          "quote": "Less strict. I oppose Florida’s 6-week abortion ban",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Samuel Vilchez Santiago, Florida House District 43",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-samuel-vilchez-santiago-running-for-florida-house-district-43/",
+              "date": "2026-10-12"
+            }
+          ]
         },
         "guns": {
           "stance": null,
@@ -137,18 +143,30 @@
           ]
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He named clean water, clean air and protected green spaces as the top environmental issue and cited his work to protect Split Oak Forest.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Samuel Vilchez Santiago, Florida House District 43",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-samuel-vilchez-santiago-running-for-florida-house-district-43/",
+              "date": "2026-10-12"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "He said he would vote to protect local governments' ability to set rural boundaries and opposes routine state preemption.",
+          "quote": "In Tallahassee, I would vote to protect local governments’ ability to establish rural boundaries and protect environmentally sensitive land.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Samuel Vilchez Santiago, Florida House District 43",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-samuel-vilchez-santiago-running-for-florida-house-district-43/",
+              "date": "2026-10-12"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -185,11 +203,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "He said data centers should bear their full infrastructure costs and that the state should invest in clean, renewable energy and grid modernization.",
+          "quote": "We should also invest in clean, renewable energy sources and grid modernization",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Samuel Vilchez Santiago, Florida House District 43",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-samuel-vilchez-santiago-running-for-florida-house-district-43/",
+              "date": "2026-10-12"
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -216,6 +240,16 @@
               "title": "Equality Florida PAC | Endorsed Candidates",
               "url": "https://eqflpac.org/endorsed-candidates/",
               "date": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "by": "Orlando Sentinel editorial board",
+          "sources": [
+            {
+              "title": "Orlando Sentinel editorial board, Endorsement: Samuel Vilchez Santiago, Jane Aman have the right priorities for Florida",
+              "url": "https://www.orlandosentinel.com/2026/10/16/endorsement-samuel-vilchez-santiago-jane-aman-have-the-right-priorities-for-florida/",
+              "date": "2026-10-16"
             }
           ]
         }
@@ -337,6 +371,45 @@
               "date": "2026-09-18"
             }
           ]
+        },
+        "abortion": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Malavet told VOTE411 he is pro-life and supports exceptions for rape, incest, human trafficking and serious risk to the mother's life.",
+          "quote": "I am pro-life and believe every human life has value.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 43 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129048",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Malavet said he supports stabilizing the insurance market while also pursuing meaningful property-tax relief for homeowners.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 43 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129048",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "On health coverage, Malavet emphasized efficiency, competition and making sure Medicaid serves those most in need, without supporting expansion.",
+          "quote": "Florida should focus on increasing access to affordable care through greater efficiency, competition, and innovation.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 43 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129048",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -347,7 +420,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

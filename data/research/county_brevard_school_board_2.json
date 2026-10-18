@@ -100,6 +100,19 @@
               "date": "2026-08-12"
             }
           ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says Brevard's falling enrollment and school closures are driven largely by the state voucher program; wants the district to compete by expanding VPK and building a vocational-technical center.",
+          "quote": "Brevard is losing students, driven in large part by the state’s voucher program pulling kids out of public schools.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 2 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-brevard-county-school-board-district-2-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -124,6 +137,26 @@
               "date": "2026-08-12"
             }
           ]
+        },
+        {
+          "by": "Brevard Federation of Teachers",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 2 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-brevard-county-school-board-district-2-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "by": "Space Coast AFL-CIO Central Labor Council",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 2 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-brevard-county-school-board-district-2-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       ],
       "links": [
@@ -137,7 +170,7 @@
       "id": "gene_trent",
       "name": "Gene Trent",
       "party": "Nonpartisan",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
       "website": "https://www.votegenetrent.com/",
@@ -261,6 +294,56 @@
               "title": "Brevard County School Board District 2 overview",
               "url": "https://floridatrib.org/2026/08/12/brevard-county-school-board-district-2/",
               "date": "2026-08-12"
+            }
+          ]
+        },
+        {
+          "by": "U.S. Rep. Mike Haridopolos (as listed by Central Florida Public Media; Trent did not answer the questionnaire)",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 2 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-brevard-county-school-board-district-2-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "by": "Brevard County Sheriff Wayne Ivey (as listed by Central Florida Public Media; Trent did not answer the questionnaire)",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 2 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-brevard-county-school-board-district-2-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "by": "Space Coast Young Republicans (as listed by Central Florida Public Media; Trent did not answer the questionnaire)",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 2 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-brevard-county-school-board-district-2-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "by": "Brevard School Board Chair Matt Susin (as listed by Central Florida Public Media; Trent did not answer the questionnaire)",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 2 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-brevard-county-school-board-district-2-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "by": "Palm Bay Mayor Rob Medina (as listed by Central Florida Public Media; Trent did not answer the questionnaire)",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Brevard County School Board District 2 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-brevard-county-school-board-district-2-runoff/",
+              "date": "2026-10-16"
             }
           ]
         }

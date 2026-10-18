@@ -22,7 +22,7 @@
       "id": "troy_ingersoll",
       "name": "Troy Ingersoll",
       "party": "Nonpartisan",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": "assets/photos/troy_ingersoll.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,

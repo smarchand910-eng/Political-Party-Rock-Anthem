@@ -626,7 +626,18 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "U.S. Chamber of Commerce",
+          "sources": [
+            {
+              "title": "U.S. Chamber lines up behind Austin Rogers in CD 2 race",
+              "url": "https://floridapolitics.com/archives/823821-u-s-chamber-lines-up-behind-austin-rogers-in-cd-2-race/",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
