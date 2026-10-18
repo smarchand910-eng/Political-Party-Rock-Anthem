@@ -42,9 +42,14 @@
         "school_books": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Bedinghaus' campaign website says Florida's academic mandate is reading, math, writing and science and that classrooms should not carry political agendas. It says parents and teachers, rather than bureaucrats or activists, should decide what happens in the classroom, and calls for a parent portal showing what children are taught.",
-          "quote": "Parents and teachers, the people closest to students, should decide what happens in the classroom....not distant bureaucrats or activists.",
+          "summary": "At the Oct. 1 League forum Bedinghaus said sexually explicit or otherwise age-inappropriate material should be removed, noting parents can still buy such books themselves. His campaign site says parents and teachers, rather than bureaucrats or activists, should decide what happens in the classroom.",
+          "quote": "then I don't see a problem with removing that.",
           "sources": [
+            {
+              "title": "2026 School Board of Manatee County District 5 Candidate Forum (League of Women Voters of Manatee County; held Oct. 1, 2026, posted Oct. 7; quotes from YouTube's automatic transcript)",
+              "url": "https://www.youtube.com/watch?v=YtEeSkvro_I",
+              "date": "2026-10-01"
+            },
             {
               "title": "Campaign website, quoted on Ballotpedia",
               "url": "https://ballotpedia.org/Camden_Bedinghaus",
@@ -55,13 +60,44 @@
         "teacher_pay": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Bedinghaus proposes cutting district programs that serve fewer than 80% of students and redirecting that money into teacher bonuses tied to student progress.",
-          "quote": "incentivized bonuses for teachers based on the progress of the students they're teaching",
+          "summary": "Bedinghaus proposes teacher bonuses tied to student progress, to be paid by redirecting money from district programs that are not producing results and, he said at the Oct. 1 League forum, from about $2.4 million the county returned to the district.",
+          "quote": "I plan on introducing incentive based bonuses based on student progress.",
           "sources": [
+            {
+              "title": "2026 School Board of Manatee County District 5 Candidate Forum (League of Women Voters of Manatee County; held Oct. 1, 2026, posted Oct. 7; quotes from YouTube's automatic transcript)",
+              "url": "https://www.youtube.com/watch?v=YtEeSkvro_I",
+              "date": "2026-10-01"
+            },
             {
               "title": "Turning Point USA director, volunteer and businessman compete for Manatee School Board District 5",
               "url": "https://floridatrib.org/2026/07/27/manatee-county-school-board-district-5/",
               "date": "2026-07-27"
+            }
+          ]
+        },
+        "taxes": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "At the Oct. 1 League forum Bedinghaus said he supported the 2024 one-mill school property tax and expects some level of renewal, while first putting returned tax money toward teacher bonuses and cutting programs that are not producing results.",
+          "quote": "Yeah, I supported it",
+          "sources": [
+            {
+              "title": "2026 School Board of Manatee County District 5 Candidate Forum (League of Women Voters of Manatee County; held Oct. 1, 2026, posted Oct. 7; quotes from YouTube's automatic transcript)",
+              "url": "https://www.youtube.com/watch?v=YtEeSkvro_I",
+              "date": "2026-10-01"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "At the Oct. 1 League forum Bedinghaus said parents have the ultimate right to choose where their children go to school and called Florida's school choice a gift, while saying the district must make its public schools the best choice so families come back.",
+          "quote": "they have the ultimate right of where their children go to school. And that's an amazing thing, amazing gift we have here in Florida",
+          "sources": [
+            {
+              "title": "2026 School Board of Manatee County District 5 Candidate Forum (League of Women Voters of Manatee County; held Oct. 1, 2026, posted Oct. 7; quotes from YouTube's automatic transcript)",
+              "url": "https://www.youtube.com/watch?v=YtEeSkvro_I",
+              "date": "2026-10-01"
             }
           ]
         }
@@ -174,11 +210,16 @@
       ],
       "positions": {
         "education_choice": {
-          "stance": 1,
+          "stance": 0,
           "confidence": "stated",
-          "summary": "Mullis's campaign site lists career and technical education and school choice together, saying every family should be able to find the best path for their child.",
-          "quote": "career and technical education, and school choice—so every family can find the best path for their child",
+          "summary": "Mixed. Mullis calls himself a strong supporter of school choice and lists it on his campaign site, but at the Oct. 1 League forum he said he does not agree with the Legislature's removal of the scholarship income limits, which sends checks to families already paying for private or home school, and wants the program modified.",
+          "quote": "I'd like to see the legislature make some modifications to it.",
           "sources": [
+            {
+              "title": "2026 School Board of Manatee County District 5 Candidate Forum (League of Women Voters of Manatee County; held Oct. 1, 2026, posted Oct. 7; quotes from YouTube's automatic transcript)",
+              "url": "https://www.youtube.com/watch?v=YtEeSkvro_I",
+              "date": "2026-10-01"
+            },
             {
               "title": "Vote Mullis - Manatee County School Board District 5",
               "url": "https://votemullis.com/",
@@ -202,9 +243,14 @@
         "school_books": {
           "stance": 0,
           "confidence": "stated",
-          "summary": "Asked about book policies, Mullis said the district should simply follow the policies and procedures already in place, rather than taking a position for or against removals.",
-          "quote": "we just really need to follow the rules...we just need to follow the policies and procedures that we have.",
+          "summary": "At the Oct. 1 League forum Mullis said he is not in favor of removing books entirely but wants library books to be age-appropriate, possibly restricting some to older grades, and that the district should follow its review policy promptly. He has also said the district should follow its existing policies.",
+          "quote": "I'm not a fan of taking the books out completely, but I definitely think we need to have books age appropriate.",
           "sources": [
+            {
+              "title": "2026 School Board of Manatee County District 5 Candidate Forum (League of Women Voters of Manatee County; held Oct. 1, 2026, posted Oct. 7; quotes from YouTube's automatic transcript)",
+              "url": "https://www.youtube.com/watch?v=YtEeSkvro_I",
+              "date": "2026-10-01"
+            },
             {
               "title": "Turning Point USA director, volunteer and businessman compete for Manatee School Board District 5",
               "url": "https://floridatrib.org/2026/07/27/manatee-county-school-board-district-5/",
@@ -213,11 +259,16 @@
           ]
         },
         "taxes": {
-          "stance": 0,
+          "stance": -1,
           "confidence": "stated",
-          "summary": "Mullis calls for responsible budgeting and oversight of taxpayer funds and for prioritizing classroom needs over administrative expansion, but has not proposed cutting taxes or the school millage.",
-          "quote": "Advocating for responsible budgeting and oversight of taxpayer funds",
+          "summary": "At the Oct. 1 League forum Mullis said he supported the 2024 one-mill school property tax and expects to support renewing some level of it in 2028 to keep paying teachers, while sizing it to what the district needs. His campaign site also calls for responsible budgeting.",
+          "quote": "I will most likely support something.",
           "sources": [
+            {
+              "title": "2026 School Board of Manatee County District 5 Candidate Forum (League of Women Voters of Manatee County; held Oct. 1, 2026, posted Oct. 7; quotes from YouTube's automatic transcript)",
+              "url": "https://www.youtube.com/watch?v=YtEeSkvro_I",
+              "date": "2026-10-01"
+            },
             {
               "title": "Vote Mullis - Manatee County School Board District 5",
               "url": "https://votemullis.com/",
@@ -262,19 +313,14 @@
   ],
   "events": [
     {
-      "date": "2026-10-07",
-      "host": "League of Women Voters of Manatee County, Zoom, 5-6 p.m. Held: LWV posted a recording (YouTube, published Oct. 7). The video could not be watched (YouTube blocked automated access) and no written account was found, so nothing said there is coded. The posted recording's description dates the forum Oct. 1, 2026 (checked Oct. 18).",
+      "date": "2026-10-01 — Held",
+      "host": "League of Women Voters of Manatee County candidate forum (moderator Alice Nulan); recording posted Oct. 7 on the League's YouTube channel. Both candidates took part.",
       "who": "Camden T. Bedinghaus and Jonathan Mullis (listed by LWV)",
       "sources": [
         {
-          "title": "Candidate Forums Guide (League of Women Voters of Manatee County) (undated; accessed 2026-10-17)",
-          "url": "https://lwvmanatee.org/voting-videos/",
-          "date": "2026-10-17"
-        },
-        {
-          "title": "2026 School Board of Manatee Country District 5 Candidate Forum (LWV Manatee County YouTube video; title and Oct. 7 publish date read from YouTube metadata, video not watched)",
-          "url": "https://youtu.be/YtEeSkvro_I",
-          "date": "2026-10-07"
+          "title": "2026 School Board of Manatee County District 5 Candidate Forum (League of Women Voters of Manatee County; held Oct. 1, 2026, posted Oct. 7; quotes from YouTube's automatic transcript)",
+          "url": "https://www.youtube.com/watch?v=YtEeSkvro_I",
+          "date": "2026-10-01"
         }
       ]
     }

@@ -42,20 +42,25 @@
         "school_books": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "Jefferson said she does not support book bans while acknowledging the district's authority to decide which books are used, and has called for instructional materials that are balanced, age-appropriate and free of vendor influence.",
+          "summary": "Jefferson said she does not support book bans while acknowledging the district's authority to decide which books are used, and has called for instructional materials that are balanced, age-appropriate and free of vendor influence. At the Sept. 23 League forum she said, 'I don't believe in banning books,' favoring placing books with the appropriate age group instead.",
           "quote": "I don't believe in book bans, but the school has the authority to choose what books are being used",
           "sources": [
             {
               "title": "Four candidates challenge an incumbent in the race to be on the Manatee School Board",
               "url": "https://www.wusf.org/local-state/2026-07-27/four-candidates-challenge-incumbent-race-manatee-school-board",
               "date": "2026-07-27"
+            },
+            {
+              "title": "2026 School Board of Manatee County District 2 Candidate Forum (League of Women Voters of Manatee County; held Sept. 23, 2026; quotes from YouTube's automatic transcript)",
+              "url": "https://www.youtube.com/watch?v=4GLlYosRHqM",
+              "date": "2026-09-23"
             }
           ]
         },
         "school_safety": {
           "stance": -1,
           "confidence": "stated",
-          "summary": "Jefferson has said school security should not be modeled on the criminal justice system, prioritizing screening of people who work on campus and addressing internal threats, and her campaign emphasizes students' social and emotional needs.",
+          "summary": "Jefferson has said school security should not be modeled on the criminal justice system, prioritizing screening of people who work on campus and addressing internal threats, and her campaign emphasizes students' social and emotional needs. At the Sept. 23 League forum she called for ending the 'school to prison pipeline' by handling discipline without reassigning students out of their schools.",
           "quote": "They could be social, emotional, physical…there are so many different factors that go into understanding why students are not performing.",
           "sources": [
             {
@@ -67,6 +72,11 @@
               "title": "Meet the Manatee County School Board candidates seeking change",
               "url": "https://suncoastsearchlight.org/manatee-county-school-board-race-election/",
               "date": "2026-07"
+            },
+            {
+              "title": "2026 School Board of Manatee County District 2 Candidate Forum (League of Women Voters of Manatee County; held Sept. 23, 2026; quotes from YouTube's automatic transcript)",
+              "url": "https://www.youtube.com/watch?v=4GLlYosRHqM",
+              "date": "2026-09-23"
             }
           ]
         },
@@ -80,6 +90,32 @@
               "title": "Manatee County District 2 School Board candidates share views",
               "url": "https://www.tampabaybeacons.com/2026/07/02/manatee-county-district-2-school-board-candidates-share-views/",
               "date": "2026-07-02"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "At the Sept. 23 League forum Jefferson said the voucher system 'has gotten out of hand' and needs better oversight and accountability, while saying she is not entirely opposed, citing private schools that serve children with autism or behavior needs.",
+          "quote": "I do believe that the voucher system has gotten out of hand.",
+          "sources": [
+            {
+              "title": "2026 School Board of Manatee County District 2 Candidate Forum (League of Women Voters of Manatee County; held Sept. 23, 2026; quotes from YouTube's automatic transcript)",
+              "url": "https://www.youtube.com/watch?v=4GLlYosRHqM",
+              "date": "2026-09-23"
+            }
+          ]
+        },
+        "teacher_pay": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Jefferson says recruiting and retaining experienced teachers is a priority, noting some schools where more than half the teachers are inexperienced, and said at the Sept. 23 League forum that she would advocate in Tallahassee for higher teacher pay.",
+          "quote": "to be able to advocate for higher teacher pay.",
+          "sources": [
+            {
+              "title": "2026 School Board of Manatee County District 2 Candidate Forum (League of Women Voters of Manatee County; held Sept. 23, 2026; quotes from YouTube's automatic transcript)",
+              "url": "https://www.youtube.com/watch?v=4GLlYosRHqM",
+              "date": "2026-09-23"
             }
           ]
         }
@@ -129,13 +165,18 @@
         "school_books": {
           "stance": 0,
           "confidence": "stated",
-          "summary": "Asked about library books, Spray framed the issue as compliance with state law, saying she would not put the district at risk of being fined. Her campaign emphasis is on 'getting back to the basics' of reading, writing and math.",
+          "summary": "Asked about library books, Spray framed the issue as compliance with state law, saying she would not put the district at risk of being fined. Her campaign emphasis is on 'getting back to the basics' of reading, writing and math. At the Sept. 23 League forum she said every state statute on books has been addressed and she works with the board attorney to keep the district in compliance.",
           "quote": "That's just the way it's going to be. I'm not going to, you know, risk our district being fined.",
           "sources": [
             {
               "title": "Four candidates challenge an incumbent in the race to be on the Manatee School Board",
               "url": "https://www.wusf.org/local-state/2026-07-27/four-candidates-challenge-incumbent-race-manatee-school-board",
               "date": "2026-07-27"
+            },
+            {
+              "title": "2026 School Board of Manatee County District 2 Candidate Forum (League of Women Voters of Manatee County; held Sept. 23, 2026; quotes from YouTube's automatic transcript)",
+              "url": "https://www.youtube.com/watch?v=4GLlYosRHqM",
+              "date": "2026-09-23"
             }
           ]
         },
@@ -155,13 +196,18 @@
         "education_choice": {
           "stance": 1,
           "confidence": "stated",
-          "summary": "Spray says she supports school choice, and as a board member she voted to extend a share of the voter-approved one-mill school tax referendum money to charter schools.",
+          "summary": "Spray says she supports school choice, and as a board member she voted to extend a share of the voter-approved one-mill school tax referendum money to charter schools. At the Sept. 23 League forum she said vouchers have unintended consequences, chiefly that money does not follow a student who leaves a private school mid-year, and called for more oversight of how the funds are paid out.",
           "quote": "",
           "sources": [
             {
               "title": "Meet the Manatee County School Board candidates seeking change (Suncoast Searchlight)",
               "url": "https://suncoastsearchlight.org/manatee-county-school-board-race-election/",
               "date": "2026-07-24"
+            },
+            {
+              "title": "2026 School Board of Manatee County District 2 Candidate Forum (League of Women Voters of Manatee County; held Sept. 23, 2026; quotes from YouTube's automatic transcript)",
+              "url": "https://www.youtube.com/watch?v=4GLlYosRHqM",
+              "date": "2026-09-23"
             }
           ]
         }
@@ -213,10 +259,15 @@
   ],
   "events": [
     {
-      "date": "2026-09-23",
-      "host": "League of Women Voters of Manatee County — Zoom; recording posted at https://youtu.be/4GLlYosRHqM (held)",
+      "date": "2026-09-23 — Held",
+      "host": "League of Women Voters of Manatee County virtual candidate forum (moderator Felicia Jet); recording posted on the League's YouTube channel. Both candidates took part.",
       "who": "sharon_jefferson, cindy_spray",
       "sources": [
+        {
+          "title": "2026 School Board of Manatee County District 2 Candidate Forum (League of Women Voters of Manatee County; held Sept. 23, 2026; quotes from YouTube's automatic transcript)",
+          "url": "https://www.youtube.com/watch?v=4GLlYosRHqM",
+          "date": "2026-09-23"
+        },
         {
           "title": "Candidate Forums Offer Sarasota, Manatee Voters a Chance to Hear From Contenders",
           "url": "https://www.sarasotamagazine.com/news-and-profiles/2026/09/candidate-forums-offer-sarasota-manatee-voters-a-chance-to-hear-from-contenders",
