@@ -10,11 +10,11 @@
   },
   "what_it_does": "County commissioners set the county budget and property-tax (millage) rate, adopt land-use and zoning rules, and oversee county services such as roads, parks, libraries, fire/EMS and utilities. District 8 is a newly created seat in 2026.",
   "coverage": "partial",
-  "verified_ballot_note": "Runoff per Florida Politics (https://floridapolitics.com/archives/814394-crowded-orange-county-commission-races-get-whittled-down-to-runoffs/).",
+  "verified_ballot_note": "Confirmed Oct. 18, 2026 from county sources (the state's candidate list is incomplete for county offices): Official Aug. 18 nonpartisan results: Torres 5,982 (33.57%), Quinones Hernandez 3,546 (19.90%), Haas 15.35%, Fernandez 13.27%, Anderson 11.57%, Rocha 6.34%. Nobody won a majority, so the top two go to a runoff. The SOE's Nov. 3 composite sample ballot lists County Commissioner District 8 with Jeannette Quinones Hernandez and Victor M. Torres Jr. only. The ballot name is 'Victor M. Torres Jr.', and the guide may want to match it.",
   "candidates": [
     {
       "id": "victor_torres",
-      "name": "Victor Torres",
+      "name": "Victor M. Torres Jr.",
       "party": "Nonpartisan",
       "incumbent": false,
       "photo_url": "assets/photos/victor_torres.jpg",
@@ -419,6 +419,23 @@
           "url": "https://ballotpedia.org/Jeannette_Quinones_Hernandez"
         }
       ]
+    }
+  ],
+  "verified_ballot_sources": [
+    {
+      "title": "Orange SOE: Composite Sample Ballot, November 03, 2026 (English; file stamped 26-10-1)",
+      "url": "https://voteorangefl.gov/wp-content/uploads/2026/10/26GEN113-CB-EN-26-10-1-15-9-21.pdf",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Orange SOE ENR - 2026 Primary Election, Official Election Results (updated 08/25/2026)",
+      "url": "https://enr.electionsfl.org/ORA/3998/Summary/",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "Orange SOE candidate reports, Election 11/3/2026 (Quinones Hernandez 'Runoff', Torres Jr. 'Runoff') (undated; accessed 2026-10-18)",
+      "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=orange",
+      "date": "2026-10-18"
     }
   ]
 }

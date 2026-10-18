@@ -178,6 +178,16 @@
               "date": "2026-09-21"
             }
           ]
+        },
+        {
+          "by": "Chief Executive Officers of Management Companies (CEOMC), trade group for Florida community association managers",
+          "sources": [
+            {
+              "title": "Community association managers back Byron Donalds, Blaise Ingoglia in group's first statewide endorsements (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823217-community-association-managers-back-byron-donalds-blaise-ingoglia-in-groups-first-statewide-endorsements/",
+              "date": "2026-10-05"
+            }
+          ]
         }
       ],
       "links": [
@@ -434,6 +444,16 @@
               "date": "2026-08-21"
             }
           ]
+        },
+        {
+          "by": "Sen. Brian Nathan; Rep. Mitch Rosenwald; Rep. Johanna Lopez; Engage Y'all; The Hillsborough Society; AFL-CIO (listed on campaign website)",
+          "sources": [
+            {
+              "title": "Endorsements - Luis Salazar for Florida State House Representative (campaign website, undated; accessed 2026-10-18)",
+              "url": "https://www.voteluis.com/endorsements/",
+              "date": "2026-10-18"
+            }
+          ]
         }
       ],
       "links": [
@@ -447,15 +467,15 @@
   "events": [
     {
       "date": "2026-10-08",
+      "host": "Hillsborough County Democratic Black Caucus general-election candidate forum, First Baptist Church of Progress Village, Tampa, 6-8 p.m. Whether it took place could not be confirmed: no post-event report, video or campaign post was found as of Oct. 18; what candidates said is unknown.",
+      "who": "Luis Salazar (D) was listed by organizers before the event; no listing for Dan Weldon (R).",
       "sources": [
         {
-          "title": "Hillsborough County Democratic Black Caucus holds general election candidate forum next month — Creative Loafing Tampa",
+          "title": "Hillsborough County Democratic Black Caucus holds general election candidate forum next month (Creative Loafing Tampa)",
           "url": "https://www.cltampa.com/news/hillsborough-county-democratic-black-caucus-holds-general-election-candidate-forum-next-month/",
           "date": "2026-09-09"
         }
-      ],
-      "host": "Hillsborough County Democratic Black Caucus, First Baptist Church of Progress Village, 8722 Progress Village Blvd., Tampa (still scheduled (has not yet happened as of Oct. 7))",
-      "who": "House District 64 Democratic nominee Luis Salazar, plus school board, county commission and congressional candidates (Karen Perez, Daniela Simic, Aileen Rodriguez, Neil Manimala, Robert Peoples, Kathy Castor); Angie Nixon, David Jolly, Gwen Graham and Kim Overman invited, confirmation pending"
+      ]
     }
   ]
 }

@@ -487,6 +487,16 @@
               "date": "2025-09"
             }
           ]
+        },
+        {
+          "by": "Chief Executive Officers of Management Companies (CEOMC), trade group for Florida community association managers",
+          "sources": [
+            {
+              "title": "Community association managers back Byron Donalds, Blaise Ingoglia in group's first statewide endorsements (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823217-community-association-managers-back-byron-donalds-blaise-ingoglia-in-groups-first-statewide-endorsements/",
+              "date": "2026-10-05"
+            }
+          ]
         }
       ],
       "links": [
@@ -637,6 +647,32 @@
               "title": "Manatee Chamber of Commerce candidate questionnaire - Lew Wasserman",
               "url": "https://www.manateechamber.com/lew-wasserman/",
               "date": "2026-08"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports expanding Medicaid and moving toward a system where every Floridian has access to affordable care.",
+          "quote": "I support expanding Medicaid and pursuing practical approaches that move us toward a healthcare system in which every Floridian has access to quality, affordable care.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Lew Wasserman - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/Lew_Wasserman",
+              "date": "2026-10-18"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Wants stronger investment in water quality, wastewater and stormwater, and greater protection of wetlands as the region grows.",
+          "quote": "Growth should not require sacrificing the natural resources that make our communities special.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Lew Wasserman - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/Lew_Wasserman",
+              "date": "2026-10-18"
             }
           ]
         }

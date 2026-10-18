@@ -90,6 +90,32 @@
               "date": "2026-09"
             }
           ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Pro-life; supports abortion access only when the mother's life is at risk.",
+          "quote": "I am a pro-life candidate, but if a mother's life is at risk, I support access to abortion.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Cathy Higgins, State Representative 89 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690989",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Favors more insurers competing across states, fighting fraud and nonprofit free clinics rather than expanded public coverage.",
+          "quote": "We need to have more insurance companies in the market across states to offer more competitive pricing.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Cathy Higgins, State Representative 89 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690989",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -323,6 +349,17 @@
               "date": "2026-09-28"
             }
           ]
+        },
+        {
+          "title": "Domestic violence honors",
+          "summary": "In October she received a Palm Beach County domestic-violence response team plaque and proclamations from Lake Worth Beach and Riviera Beach; her 2026 law raised penalties for repeat domestic-violence offenders.",
+          "sources": [
+            {
+              "title": "Debra Tendrich collects more honors for anti-domestic violence legislation, advocacy (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824527-debra-tendrich-collects-more-honors-for-anti-domestic-violence-legislation-advocacy/",
+              "date": "2026-10-12"
+            }
+          ]
         }
       ],
       "record": [
@@ -438,6 +475,46 @@
               "date": "2026-09-28"
             }
           ]
+        },
+        {
+          "by": "Associated Builders and Contractors (ABC) Florida East Coast Chapter",
+          "sources": [
+            {
+              "title": "ABC Florida East Coast Announces 2026 General Election Endorsements",
+              "url": "https://abceastflorida.com/abc-florida-east-coast-announces-2026-general-election-endorsements/",
+              "date": "2026-10-15"
+            }
+          ]
+        },
+        {
+          "by": "Florida Planned Parenthood PAC",
+          "sources": [
+            {
+              "title": "Florida Planned Parenthood PAC backs Democrats to fight for abortion rights (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824483-florida-planned-parenthood-pac-backs-democrats-to-fight-for-abortion-rights/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "by": "Palm Beach Post Editorial Board",
+          "sources": [
+            {
+              "title": "Palm Beach Post Editorial Board endorsements for the Nov. 3 election (Palm Beach Post, via AOL)",
+              "url": "https://www.aol.com/articles/palm-beach-post-editorial-board-172841000.html",
+              "date": "2026-10-06"
+            }
+          ]
+        },
+        {
+          "by": "All five members of the Lantana Town Council (Mayor Karen Lythgoe, Vice Mayor Chris Castle, Council Members Kem Mason, Jesse Rivero and Mark Zeitler)",
+          "sources": [
+            {
+              "title": "'A Statesperson': All 5 Lantana Council members endorse Debra Tendrich for HD 89 re-election (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823897-a-statesperson-all-5-lantana-council-members-endorse-debra-tendrich-for-hd-89-re-election/",
+              "date": "2026-10-08"
+            }
+          ]
         }
       ],
       "links": [
@@ -451,7 +528,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

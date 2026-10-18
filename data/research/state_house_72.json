@@ -100,6 +100,84 @@
               "date": "2026-09"
             }
           ]
+        },
+        "abortion": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Describes himself as pro-life but supports exceptions for the mother's life and health, rape, incest, human trafficking and fatal fetal abnormalities.",
+          "quote": "Therefore, I am a pro-life and my goal is to protect & value every human life while ensuring that our legal system remains compassionate, realistic, and supports Florida families.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): William \"Bill\" Edwin Conerly, State Representative 72 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690959",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants SHIP and SAIL housing programs fully funded plus zoning and permitting reform, production incentives and homeownership help.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): William \"Bill\" Edwin Conerly, State Representative 72 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690959",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says broad state preemption is undermining local governance on growth, infrastructure and environment and should be recalibrated, citing the Live Local Act's loss of local control.",
+          "quote": "The goal should not be to eliminate preemption, but to recalibrate it",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): William \"Bill\" Edwin Conerly, State Representative 72 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690959",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Proposes a state reinsurance or subsidy to offset expiring ACA credits and targeted Medicaid eligibility expansions or waivers for working adults.",
+          "quote": "Establish a state reinsurance or subsidy to offset premium spikes from expiring ACA credits and prevent coverage losses.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): William \"Bill\" Edwin Conerly, State Representative 72 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690959",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Favors mitigation incentives, stronger building codes, addressing litigation and reinsurance costs and more competition rather than direct state intervention.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): William \"Bill\" Edwin Conerly, State Representative 72 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690959",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Accepts the HB 991 proof-of-citizenship framework but wants database verification first, fee waivers and local help so eligible voters can comply.",
+          "quote": "Lead with verification, not paperwork",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): William \"Bill\" Edwin Conerly, State Representative 72 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690959",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -174,7 +252,18 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "Chief Executive Officers of Management Companies (CEOMC), trade group for Florida community association managers",
+          "sources": [
+            {
+              "title": "Community association managers back Byron Donalds, Blaise Ingoglia in group's first statewide endorsements (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823217-community-association-managers-back-byron-donalds-blaise-ingoglia-in-groups-first-statewide-endorsements/",
+              "date": "2026-10-05"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "harvey_shifrin",
@@ -300,7 +389,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

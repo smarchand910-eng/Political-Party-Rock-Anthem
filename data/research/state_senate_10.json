@@ -619,18 +619,30 @@
           ]
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Ties preserving rural lands to protecting water resources and wildlife, while respecting property owners' rights.",
+          "quote": "Seminole County’s rural area plays an important role in protecting our water resources, wildlife, and community character, and residents have made clear they want it preserved.",
+          "sources": [
+            {
+              "title": "Ballotpedia: John Lowndes - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/John_Lowndes",
+              "date": "2026-10-18"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Wants to protect Seminole County's rural boundary and restore home rule over land use, directing growth to areas with infrastructure.",
+          "quote": "I will fight to protect Seminole County’s rural boundary, preserving natural and rural lands, water resources, and the quality of life that defines Central Florida.",
+          "sources": [
+            {
+              "title": "Ballotpedia: John Lowndes - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/John_Lowndes",
+              "date": "2026-10-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -661,11 +673,17 @@
           "sources": []
         },
         "energy": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to oppose unnecessary utility rate increases.",
+          "quote": "opposing unnecessary utility rate increases",
+          "sources": [
+            {
+              "title": "Ballotpedia: John Lowndes - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/John_Lowndes",
+              "date": "2026-10-18"
+            }
+          ]
         },
         "trump": {
           "stance": null,
@@ -697,7 +715,18 @@
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Unite Here Locals 362 and 737 (Disney World hospitality workers' union)",
+          "sources": [
+            {
+              "title": "Disney World union workers knock on doors to support Democrats in Orange County (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823660-disney-world-union-workers-knock-on-doors-to-support-democrats-in-orange-county/",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -709,7 +738,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

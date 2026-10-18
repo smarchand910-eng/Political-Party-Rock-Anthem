@@ -10,7 +10,7 @@
   },
   "what_it_does": "County commissioners set the county budget and property-tax (millage) rate, adopt land-use and zoning rules, and oversee county services such as roads, parks, libraries, fire/EMS and utilities.",
   "coverage": "partial",
-  "verified_ballot_note": "Only the Democratic candidate was confirmed in snippets (Indivisible North Pinellas / Tampa Bay Times guide). Opponent(s) not verified; see https://www.votepinellas.gov/222/Offices-up-for-Election.",
+  "verified_ballot_note": "Confirmed Oct. 18, 2026 from county sources (the state's candidate list is incomplete for county offices): There was no primary for this seat: one Republican and one Democrat qualified, with no write-in. The Pinellas SOE candidate list shows David Glenn Jr. (DEM) and Kathleen Peters (REP) both 'Qualified' and no other candidate. I could not open a Pinellas sample ballot or general-election results page: votepinellas.gov returns 403 to curl and WebFetch, and Pinellas does not use the enr.electionsfl.org results site. The confirmation therefore rests on the SOE candidate list plus local media.",
   "candidates": [
     {
       "id": "david_glenn_jr",
@@ -381,6 +381,18 @@
           "url": "https://ballotpedia.org/Kathleen_Peters"
         }
       ]
+    }
+  ],
+  "verified_ballot_sources": [
+    {
+      "title": "Pinellas SOE candidate reports, 2026 Candidate Election Cycle (BCC Dist. 6: Glenn Jr. (DEM) 'Qualified', Peters (REP) 'Qualified') (undated; accessed 2026-10-18)",
+      "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=pinellas",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Tampa Bay 28 (WFTS): Meet the candidates: Questionnaire for Pinellas County Board of County Commissioners D-6 (David Glenn Jr./Kathleen Peters) (undated; accessed 2026-10-18)",
+      "url": "https://www.tampabay28.com/news/local-news/meet-the-candidates-questionnaire-for-pinellas-county-board-of-county-commissioners-d-6",
+      "date": "2026-10-18"
     }
   ]
 }

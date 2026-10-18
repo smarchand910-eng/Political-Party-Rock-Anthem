@@ -170,11 +170,17 @@
           ]
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Cites securing $45 million a year to expand KidCare and leading $30 million bridge funding for the HIV drug assistance program.",
+          "quote": "I secured $45 million annually to expand Florida KidCare, helping low- and moderate-income families access affordable health insurance for their children.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Alexis Calatayud - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/Alexis_Calatayud",
+              "date": "2026-10-18"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -209,11 +215,17 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says she opposed a House effort to lower the Miami-Dade Commission vote needed to move the Urban Development Boundary and amended HB 399 to keep local control.",
+          "quote": "I stood in opposition to legislation that attempted to reduce the current voting threshold of the Miami-Dade County Commission required to change the Urban Development Boundary.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Alexis Calatayud - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/Alexis_Calatayud",
+              "date": "2026-10-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -298,7 +310,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Poll",
+          "summary": "A Democratic firm, Impact Research, released an Oct. 5-8 poll of 400 likely voters showing Calatayud and Lamondin tied at 40%, Solomon at 4%, 15% undecided (margin of error 4.9 points).",
+          "sources": [
+            {
+              "title": "Poll: Richard Lamondin tied with incumbent Alexis Calatayud in SD 38 as Election Day nears (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824673-poll-richard-lamondin-tied-with-incumbent-alexis-calatayud-in-sd-38-as-election-day-nears/",
+              "date": "2026-10-13"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; because the vote sent the question to voters rather than cutting taxes itself, a vote for it is coded as leaning toward sharply reducing homestead property taxes rather than as full agreement.",
@@ -431,7 +455,28 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Chief Executive Officers of Management Companies (CEOMC), trade group for Florida community association managers",
+          "sources": [
+            {
+              "title": "Community association managers back Byron Donalds, Blaise Ingoglia in group's first statewide endorsements (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823217-community-association-managers-back-byron-donalds-blaise-ingoglia-in-groups-first-statewide-endorsements/",
+              "date": "2026-10-05"
+            }
+          ]
+        },
+        {
+          "by": "Associated Builders and Contractors (ABC) Florida East Coast Chapter",
+          "sources": [
+            {
+              "title": "ABC Florida East Coast Announces 2026 General Election Endorsements",
+              "url": "https://abceastflorida.com/abc-florida-east-coast-announces-2026-general-election-endorsements/",
+              "date": "2026-10-15"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -630,6 +675,17 @@
               "date": "2026-04-07"
             }
           ]
+        },
+        {
+          "title": "Poll",
+          "summary": "A Democratic firm, Impact Research, released an Oct. 5-8 poll showing Lamondin and Calatayud tied at 40%; Lamondin's campaign promoted the result.",
+          "sources": [
+            {
+              "title": "Poll: Richard Lamondin tied with incumbent Alexis Calatayud in SD 38 as Election Day nears (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824673-poll-richard-lamondin-tied-with-incumbent-alexis-calatayud-in-sd-38-as-election-day-nears/",
+              "date": "2026-10-13"
+            }
+          ]
         }
       ],
       "record": [],
@@ -768,7 +824,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

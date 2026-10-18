@@ -105,6 +105,19 @@
               "date": "2025-02-13"
             }
           ]
+        },
+        "abortion": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says she would not have supported the six-week ban and that a 12-week limit with exceptions for rape, incest and the woman's health was easily supported.",
+          "quote": "The six week ban was not something that I would have supported.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Anne Gerwig, State Representative 93 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940718",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -173,7 +186,43 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Chief Executive Officers of Management Companies (CEOMC), trade group for Florida community association managers",
+          "sources": [
+            {
+              "title": "Community association managers back Byron Donalds, Blaise Ingoglia in group's first statewide endorsements (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823217-community-association-managers-back-byron-donalds-blaise-ingoglia-in-groups-first-statewide-endorsements/",
+              "date": "2026-10-05"
+            }
+          ]
+        },
+        {
+          "by": "Associated Builders and Contractors (ABC) Florida East Coast Chapter",
+          "sources": [
+            {
+              "title": "ABC Florida East Coast Announces 2026 General Election Endorsements",
+              "url": "https://abceastflorida.com/abc-florida-east-coast-announces-2026-general-election-endorsements/",
+              "date": "2026-10-15"
+            }
+          ]
+        },
+        {
+          "by": "Sun Sentinel Editorial Board",
+          "sources": [
+            {
+              "title": "Keep Gossett-Seidman and Gerwig in House | Endorsement (Sun Sentinel)",
+              "url": "https://www.sun-sentinel.com/2026/10/01/keep-gossett-seidman-and-gerwig-in-house-endorsement/",
+              "date": "2026-10-01"
+            },
+            {
+              "title": "List of Sun Sentinel endorsements | Editorial (updated Oct. 16)",
+              "url": "https://www.sun-sentinel.com/2026/10/03/list-of-sun-sentinel-endorsements-editorial/",
+              "date": "2026-10-03"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -253,6 +302,45 @@
               "date": "2026-09-18"
             }
           ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports a woman's right to choose and opposes laws restricting abortion care or criminalizing patients or doctors.",
+          "quote": "I support a woman’s right to choose.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): August Mangeney, State Representative 93 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940720",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says Florida should expand Medicaid and calls refusing federal funds a moral failure.",
+          "quote": "Florida should expand Medicaid.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): August Mangeney, State Representative 93 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940720",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says the state cannot impose cost-based barriers to voting; supports free records, help with name changes and a cure process.",
+          "quote": "Voting is a fundamental right and the 24th Amendment to the Constitution banning the poll tax means that we cannot have barriers to voting that are based on cost.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): August Mangeney, State Representative 93 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940720",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -286,7 +374,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

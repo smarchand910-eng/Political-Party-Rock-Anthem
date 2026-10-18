@@ -185,6 +185,32 @@
               "date": "2026-02-19"
             }
           ]
+        },
+        "housing": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Supports more attainable housing through fewer regulations and permitting delays and public-private partnerships, while avoiding one-size-fits-all mandates.",
+          "quote": "My focus is increasing housing opportunities and homeownership while removing unnecessary barriers and avoiding one-size-fits-all mandates.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Yvette Benarroch, State Representative 81 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940688",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Supports home rule but says the Legislature may need to act when local governments fail residents; weighs preemption case by case.",
+          "quote": "Preemption should be used carefully and deliberately",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Yvette Benarroch, State Representative 81 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940688",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -409,6 +435,32 @@
               "date": "2026-09"
             }
           ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says pregnancy decisions belong solely to patients and physicians without legislative interference.",
+          "quote": "Medical procedures should be decided solely by a patient in consultation and with guidance from their physician, free from the interference of unqualified legislators.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Kim R Finer, State Representative 81 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940690",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Calls property taxes necessary for local services while urging fairer appraisals; ranks insurance as the priority.",
+          "quote": "Necessary property taxes fund tangible services (trash collection, libraries, parks, streets, and mosquito control), but property appraisal fairness must be addressed.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Kim R Finer, State Representative 81 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940690",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -427,6 +479,17 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "title": "Data centers and water",
+          "summary": "Calls for a state moratorium on hyperscale data centers to protect groundwater and springs.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Kim R Finer, State Representative 81 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940690",
+              "date": "2026-10-17"
+            }
+          ]
         }
       ],
       "record": [],
@@ -436,7 +499,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

@@ -305,6 +305,17 @@
               "date": "2026-10-02"
             }
           ]
+        },
+        {
+          "title": "Fundraising",
+          "summary": "Raised more than $121,000 and spent about $206,000 between Aug. 1 and Oct. 2; held about $201,500 across his campaign and political committee as of Oct. 3.",
+          "sources": [
+            {
+              "title": "David Silvers outraises, outspends Rick Roth as SD 26 race enters final month (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824577-david-silvers-outraises-outspends-rick-roth-as-sd-26-race-enters-final-month/",
+              "date": "2026-10-12"
+            }
+          ]
         }
       ],
       "record": [
@@ -484,7 +495,23 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Palm Beach Post Editorial Board",
+          "sources": [
+            {
+              "title": "Palm Beach Post endorses candidates for state Senate | Endorsement (Palm Beach Post, via Yahoo News; updated Oct. 13)",
+              "url": "https://www.yahoo.com/news/politics/articles/palm-beach-post-endorses-candidates-163440008.html",
+              "date": "2026-10-13"
+            },
+            {
+              "title": "Palm Beach Post Editorial Board endorsements for the Nov. 3 election (Palm Beach Post, via AOL)",
+              "url": "https://www.aol.com/articles/palm-beach-post-editorial-board-172841000.html",
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -809,6 +836,17 @@
               "title": "2026 midterms: Roth vs. Silvers for Florida Senate (WLRN/Stet News Palm Beach)",
               "url": "https://www.wlrn.org/government-politics/2026-10-02/2026-midterms-roth-vs-silvers-for-florida-senate",
               "date": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "title": "Fundraising",
+          "summary": "Raised $2,000 and spent about $130,500 between Aug. 1 and Oct. 2; held about $51,500 across his campaign and political committee as of Oct. 3.",
+          "sources": [
+            {
+              "title": "David Silvers outraises, outspends Rick Roth as SD 26 race enters final month (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824577-david-silvers-outraises-outspends-rick-roth-as-sd-26-race-enters-final-month/",
+              "date": "2026-10-12"
             }
           ]
         }

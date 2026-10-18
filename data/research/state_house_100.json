@@ -195,7 +195,18 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Associated Builders and Contractors (ABC) Florida East Coast Chapter",
+          "sources": [
+            {
+              "title": "ABC Florida East Coast Announces 2026 General Election Endorsements",
+              "url": "https://abceastflorida.com/abc-florida-east-coast-announces-2026-general-election-endorsements/",
+              "date": "2026-10-15"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -334,7 +345,24 @@
           ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Ad campaign",
+          "summary": "Launched a six-figure TV and digital buy with a 30-second spot, 'Protect,' on property insurance and household costs (Oct. 5), followed by a second spot, 'Answer' (Oct. 8).",
+          "sources": [
+            {
+              "title": "Michael Ferguson targets affordability issues with 6-figure ad buy for HD 100 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823287-michael-ferguson-targets-affordability-issues-with-6-figure-ad-buy-for-hd-100/",
+              "date": "2026-10-05"
+            },
+            {
+              "title": "'Answering the call': Michael Ferguson debuts second ad toward bid to flip HD 100 in Broward (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824054-answering-the-call-michael-ferguson-debuts-second-ad-toward-bid-to-flip-hd-100-in-broward/",
+              "date": "2026-10-08"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [
         {
@@ -356,6 +384,31 @@
               "date": "2026-09-10"
             }
           ]
+        },
+        {
+          "by": "Chief Executive Officers of Management Companies (CEOMC), trade group for Florida community association managers",
+          "sources": [
+            {
+              "title": "Community association managers back Byron Donalds, Blaise Ingoglia in group's first statewide endorsements (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823217-community-association-managers-back-byron-donalds-blaise-ingoglia-in-groups-first-statewide-endorsements/",
+              "date": "2026-10-05"
+            }
+          ]
+        },
+        {
+          "by": "Sun Sentinel Editorial Board",
+          "sources": [
+            {
+              "title": "Michael Ferguson for House District 100 | Endorsement (Sun Sentinel)",
+              "url": "https://www.sun-sentinel.com/2026/10/05/michael-ferguson-for-house-district-100-endorsement/",
+              "date": "2026-10-05"
+            },
+            {
+              "title": "List of Sun Sentinel endorsements | Editorial (updated Oct. 16)",
+              "url": "https://www.sun-sentinel.com/2026/10/03/list-of-sun-sentinel-endorsements-editorial/",
+              "date": "2026-10-03"
+            }
+          ]
         }
       ],
       "links": [
@@ -369,7 +422,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

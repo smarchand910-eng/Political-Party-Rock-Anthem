@@ -175,6 +175,32 @@
               "date": "2026-09"
             }
           ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says aggressive state preemption overrides local self-governance and community needs.",
+          "quote": "aggressive state preemption frequently overrides local self-governance and community needs.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): William Joseph, State Representative 88 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940712",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Suggests the state fund local subsidy programs and cap provider price growth to address insurance and Medicaid costs.",
+          "quote": "The States can address rising health insurance and Medicaid costs by funding local subsidy programs, streamlining administrative processes, and capping provider price growth.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): William Joseph, State Representative 88 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940712",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -313,6 +339,45 @@
               "date": "2022-12"
             }
           ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says Florida has moved too far toward state decision-making and preemption should be the exception.",
+          "quote": "But preemption should be the exception, not the default.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Jervonte Edmonds, State Representative 88 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940710",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports maximizing federal funding, community clinics and evaluating responsible ways to close coverage gaps.",
+          "quote": "Florida should also evaluate responsible ways to close coverage gaps.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Jervonte Edmonds, State Representative 88 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940710",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Says property taxes deserve relief but fund critical services; prioritizes insurance relief.",
+          "quote": "Property taxes deserve responsible relief, but they also fund critical services",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Jervonte Edmonds, State Representative 88 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940710",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -436,7 +501,28 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Florida Planned Parenthood PAC",
+          "sources": [
+            {
+              "title": "Florida Planned Parenthood PAC backs Democrats to fight for abortion rights (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824483-florida-planned-parenthood-pac-backs-democrats-to-fight-for-abortion-rights/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "by": "Palm Beach Post Editorial Board",
+          "sources": [
+            {
+              "title": "Palm Beach Post Editorial Board endorsements for the Nov. 3 election (Palm Beach Post, via AOL)",
+              "url": "https://www.aol.com/articles/palm-beach-post-editorial-board-172841000.html",
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -448,7 +534,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

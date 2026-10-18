@@ -10,7 +10,7 @@
   },
   "what_it_does": "County commissioners set the county budget and property-tax (millage) rate, adopt land-use and zoning rules, and oversee county services such as roads, parks, libraries, fire/EMS and utilities.",
   "coverage": "partial",
-  "verified_ballot_note": "Two-way general election per Florida Politics and Wesley Chapel Community (https://wesleychapelcommunity.com/posts/wesley-chapel-s-vazquez-officially-set-to-challenge-weightman-for-pasco-commission-seat); Pasco SOE candidate list at https://www.pascovotes.gov/candidates/ and Notice of General Election PDF not directly readable.",
+  "verified_ballot_note": "Confirmed Oct. 18, 2026 from county sources (the state's candidate list is incomplete for county offices): Only one Republican and one Democrat qualified and there was no write-in, so there was no primary for this seat. The SOE's 2026 Local Candidates list (9/16/2026) shows Vazquez (DEM) and Weightman (REP) both 'Qualified' and no one else. The SOE's Nov. 3 results page lists exactly Seth Weightman (REP) and Stephanie C. Vazquez (DEM).",
   "candidates": [
     {
       "id": "seth_weightman",
@@ -229,7 +229,7 @@
     },
     {
       "id": "stephanie_vazquez",
-      "name": "Stephanie Vazquez",
+      "name": "Stephanie C. Vazquez",
       "party": "Democratic",
       "incumbent": false,
       "photo_url": null,
@@ -438,6 +438,23 @@
           "url": "https://floridapolitics.com/archives/737626-stephanie-vazquez-announces-run-for-pasco-county-commission-seat-2/"
         }
       ]
+    }
+  ],
+  "verified_ballot_sources": [
+    {
+      "title": "Pasco SOE ENR - 2026 General Election summary (ballot setup, 0 votes; updated 09/23/2026)",
+      "url": "https://enr.electionsfl.org/PAS/4085/Summary/",
+      "date": "2026-09-23"
+    },
+    {
+      "title": "Pasco SOE: 2026 Local Candidates, Pasco County, FL (dated 9/16/2026 1:05 PM)",
+      "url": "https://www.pascovotes.gov/Documents/Candidates/List%20Of%202026%20Candidates/Tot2026.pdf",
+      "date": "2026-09-16"
+    },
+    {
+      "title": "Pasco SOE candidate reports, 2026 Election Cycle (undated; accessed 2026-10-18)",
+      "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=pasco",
+      "date": "2026-10-18"
     }
   ]
 }

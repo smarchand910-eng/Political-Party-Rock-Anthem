@@ -28,7 +28,7 @@
       "website": "https://electanamaria.com/",
       "occupation": "State Senator",
       "residence": "Doral, Miami-Dade County",
-      "background": "Rodriguez, a Doral Republican, served in the Florida House before winning the Senate in 2020 and re-election in SD 40 in 2022; per Ballotpedia she was re-elected without opposition in 2026.",
+      "background": "Rodriguez, a Doral Republican, served in the Florida House before winning the Senate in 2020 and re-election in SD 40 in 2022. In 2026 she faces Democrat Jose Stoute and Ramiro Orta (no party affiliation) on the Nov. 3 ballot, per the Florida Division of Elections candidate list.",
       "primary_result": "No primary opponent",
       "ballot_status": "Qualified (Florida Division of Elections candidate list, checked Oct. 7, 2026); faces Jose Stoute (D) and Ramiro Orta (NPA) on Nov. 3",
       "roster_sources": [
@@ -45,11 +45,17 @@
       ],
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her campaign site lists cutting taxes and fees as an affordability priority.",
+          "quote": "Cut taxes and fees so residents can keep more of what they earn.",
+          "sources": [
+            {
+              "title": "Miami-Dade County - Ana Maria Rodriguez (campaign website, undated; accessed 2026-10-18)",
+              "url": "https://electanamaria.com/miami-dade-county/",
+              "date": "2026-10-18"
+            }
+          ]
         },
         "property_tax": {
           "stance": 1,
@@ -192,18 +198,30 @@
           ]
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her site calls water quality a top priority, backs coral-reef restoration, septic-to-sewer conversion and funding for sea-level rise and flooding, while saying environmental rules should also recognize residents' and businesses' needs.",
+          "quote": "Make water quality a top priority and highlight the Keys as a model for septic-to-sewer conversions.",
+          "sources": [
+            {
+              "title": "Monroe County - Ana Maria Rodriguez (campaign website, undated; accessed 2026-10-18)",
+              "url": "https://electanamaria.com/monroe-county/",
+              "date": "2026-10-18"
+            }
+          ]
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Her campaign site pledges to protect Miami-Dade's Urban Development Boundary to preserve the Everglades.",
+          "quote": "Protect the integrity of Miami-Dade County’s Urban Development Boundary to preserve the Everglades and safeguard this irreplaceable ecosystem for future generations.",
+          "sources": [
+            {
+              "title": "Miami-Dade County - Ana Maria Rodriguez (campaign website, undated; accessed 2026-10-18)",
+              "url": "https://electanamaria.com/miami-dade-county/",
+              "date": "2026-10-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -484,7 +502,38 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Chief Executive Officers of Management Companies (CEOMC), trade group for Florida community association managers",
+          "sources": [
+            {
+              "title": "Community association managers back Byron Donalds, Blaise Ingoglia in group's first statewide endorsements (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823217-community-association-managers-back-byron-donalds-blaise-ingoglia-in-groups-first-statewide-endorsements/",
+              "date": "2026-10-05"
+            }
+          ]
+        },
+        {
+          "by": "Associated Builders and Contractors (ABC) Florida East Coast Chapter",
+          "sources": [
+            {
+              "title": "ABC Florida East Coast Announces 2026 General Election Endorsements",
+              "url": "https://abceastflorida.com/abc-florida-east-coast-announces-2026-general-election-endorsements/",
+              "date": "2026-10-15"
+            }
+          ]
+        },
+        {
+          "by": "President Donald Trump; Associated Industries of Florida; Florida Chamber of Commerce (listed by Ballotpedia for 2026)",
+          "sources": [
+            {
+              "title": "Ballotpedia: Ana Maria Rodriguez (2026 endorsements section) (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/Ana_Maria_Rodriguez",
+              "date": "2026-10-18"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -556,9 +605,123 @@
               "date": "2026-10"
             }
           ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says Florida should expand Medicaid and affordable coverage; as a physician he backs universal health care as a national goal and keeping medical decisions between patients and doctors.",
+          "quote": "I will support Medicaid expansion and affordable coverage while protecting access to preventive care and medications.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Jose Antonio Stoute, State Senator 40 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940815",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports abortion access through 21 weeks of pregnancy, and later when the patient's life or serious health is at risk or the fetus has a lethal condition.",
+          "quote": "I support access to abortion through 21 weeks of pregnancy.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Jose Antonio Stoute, State Senator 40 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940815",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Opposes barriers for eligible voters; if proof of citizenship is required, wants the state to verify through existing records and make documents free or very low-cost.",
+          "quote": "I oppose unnecessary barriers that make it harder for eligible citizens to vote.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Jose Antonio Stoute, State Senator 40 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940815",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports relaxing zoning for multifamily housing near jobs and transit, office-to-housing conversions, incentives tied to affordable units, and stronger renter protections against corporate landlords.",
+          "quote": "I support relaxing unnecessary zoning restrictions to allow more multifamily housing, apartments, townhomes, and condominiums, particularly near employment centers and public transportation.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Jose Antonio Stoute, State Senator 40 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940815",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Wants more local home rule and room for communities to adopt stronger standards, but also backs relaxing zoning to allow more housing; his answers point both ways on regulating development.",
+          "quote": "Florida should restore a healthier balance between state authority and local home rule.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Jose Antonio Stoute, State Senator 40 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940815",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Calls insurance the more urgent cost problem; supports reforms that increase competition, holding insurers accountable and examining a stronger statewide risk pool.",
+          "quote": "I support examining a stronger statewide risk-pooling approach while holding insurers accountable and addressing the underlying costs that drive premiums.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Jose Antonio Stoute, State Senator 40 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940815",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says insurance needs urgent action while property taxes support schools, public safety and infrastructure and are already limited by homestead protections.",
+          "quote": "Property taxes matter, but homeowners generally understand that those taxes support schools, public safety, infrastructure, and other local services",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Jose Antonio Stoute, State Senator 40 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940815",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "School vaccination requirements",
+          "summary": "Says Florida should keep evidence-based school vaccination requirements and that the state has a legitimate role in setting minimum public-health standards.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Jose Antonio Stoute, State Senator 40 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940815",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        {
+          "title": "Interview on The Johnny Farias Show",
+          "summary": "Appeared in an Oct. 6 video interview (CNEWS TV) about his career in the Army, medicine and science and his Senate run; the guide could not review the video itself.",
+          "sources": [
+            {
+              "title": "The Johnny Farias Show: Jose A. Stoute on Service, Science & Florida Senate District 40 (Community Newspapers / CNEWS TV)",
+              "url": "https://communitynewspapers.com/cnewstv/the-johnny-farias-show-jose-a-stoute-on-service-science-florida-senate-district-40/",
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [
         {

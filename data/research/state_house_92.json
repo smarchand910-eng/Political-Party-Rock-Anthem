@@ -382,6 +382,32 @@
               "date": "2022-12"
             }
           ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls legislative efforts to dismantle local control and impose unfunded mandates inappropriate.",
+          "quote": "the ongoing attack is highly inappropriate, inefficient, and arrogant, to say the least.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Kelly Skidmore, State Representative 92 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020249",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Will keep pushing Medicaid expansion through the legislative and budget process.",
+          "quote": "I will continue to pursue the expansion through the legislative and budget process.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Kelly Skidmore, State Representative 92 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020249",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -539,7 +565,43 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Chief Executive Officers of Management Companies (CEOMC), trade group for Florida community association managers",
+          "sources": [
+            {
+              "title": "Community association managers back Byron Donalds, Blaise Ingoglia in group's first statewide endorsements (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823217-community-association-managers-back-byron-donalds-blaise-ingoglia-in-groups-first-statewide-endorsements/",
+              "date": "2026-10-05"
+            }
+          ]
+        },
+        {
+          "by": "Florida Planned Parenthood PAC",
+          "sources": [
+            {
+              "title": "Florida Planned Parenthood PAC backs Democrats to fight for abortion rights (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824483-florida-planned-parenthood-pac-backs-democrats-to-fight-for-abortion-rights/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "by": "Sun Sentinel Editorial Board",
+          "sources": [
+            {
+              "title": "A trio for the state House in Palm Beach County | Endorsement (Sun Sentinel)",
+              "url": "https://www.sun-sentinel.com/2026/09/23/a-trio-for-the-state-house-in-palm-beach-county-endorsement/",
+              "date": "2026-09-23"
+            },
+            {
+              "title": "List of Sun Sentinel endorsements | Editorial (updated Oct. 16)",
+              "url": "https://www.sun-sentinel.com/2026/10/03/list-of-sun-sentinel-endorsements-editorial/",
+              "date": "2026-10-03"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -551,7 +613,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

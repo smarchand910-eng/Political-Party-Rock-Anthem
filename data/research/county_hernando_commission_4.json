@@ -10,7 +10,7 @@
   },
   "what_it_does": "County commissioners set the county budget and property-tax (millage) rate, adopt land-use and zoning rules, and oversee county services such as roads, parks, libraries, fire/EMS and utilities.",
   "coverage": "partial",
-  "verified_ballot_note": "Republican primary result from Hernando Sun (https://www.hernandosun.com/2026/08/18/the-votes-are-in-who-won-hernando-county-commission-and-school-board-races/); article says Holcomb 'advances to the November General Election' but the opponent's name was not in snippets. District 2 (Kathryn Birren) was decided in the primary with no November opponent.",
+  "verified_ballot_note": "Confirmed Oct. 18, 2026 from county sources (the state's candidate list is incomplete for county offices): Holcomb won the closed Aug. 18 Republican primary 13,141 (59.07%) to 9,106 (40.93%) over Marvin Baynham (official results). The SOE's Nov. 3 results page lists only Jeff Holcomb (REP) and a Write-in line. The SOE candidate list shows Donald Bigelow as 'Qualified Write-In', so he is the only qualified write-in. His name is not printed on the ballot; voters must write it in. No Democrat or NPA qualified.",
   "candidates": [
     {
       "id": "jeff_holcomb",
@@ -434,6 +434,33 @@
       "other_issues": [],
       "record": [],
       "endorsements": []
+    }
+  ],
+  "verified_ballot_sources": [
+    {
+      "title": "Hernando SOE ENR - 2026 General Election summary (ballot setup, 0 votes; site updated 10/09/2026)",
+      "url": "https://enr.electionsfl.org/HER/4106/Summary/",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Hernando SOE candidate reports, 2026 Candidate Election Cycle (Bigelow WRI 'Active- Qualified Write-In'; Holcomb 'Qualified'; Baynham 'Defeated') (undated; accessed 2026-10-18)",
+      "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=hernando",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Hernando SOE ENR - 2026 Primary Election, OFFICIAL RESULTS (updated 08/26/2026)",
+      "url": "https://enr.electionsfl.org/HER/4046/Summary/",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Tampa Bay Beacons: Hawkins resigns from County Commission; Campbell won't seek re-election (D4 qualifiers: Holcomb, Baynham, write-in Bigelow)",
+      "url": "https://www.tampabaybeacons.com/2026/07/13/hawkins-resigns-from-county-commission-campbell-wont-seek-re-election/",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Tampa Bay Beacons: Birren wins seat, Holcomb beats Baynham in primary for county commission",
+      "url": "https://www.tampabaybeacons.com/2026/08/19/birren-wins-seat-holcomb-beats-baynham-in-primary-for-county-commission/",
+      "date": "2026-08-19"
     }
   ]
 }

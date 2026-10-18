@@ -283,7 +283,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Ad campaign",
+          "summary": "Released a 30- and 60-second ad, 'Survivor,' about her childhood sexual abuse and her advocacy for children and families.",
+          "sources": [
+            {
+              "title": "Lauren Book spotlights survivor advocacy, support for families in new Senate campaign ad (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823845-lauren-book-spotlights-survivor-advocacy-support-for-families-in-new-senate-campaign-ad/",
+              "date": "2026-10-08"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted against SB 300 (2023), the 2023 law limiting most abortions to six weeks of pregnancy.",
@@ -472,6 +484,46 @@
               "date": "2026-09-24"
             }
           ]
+        },
+        {
+          "by": "Associated Builders and Contractors (ABC) Florida East Coast Chapter",
+          "sources": [
+            {
+              "title": "ABC Florida East Coast Announces 2026 General Election Endorsements",
+              "url": "https://abceastflorida.com/abc-florida-east-coast-announces-2026-general-election-endorsements/",
+              "date": "2026-10-15"
+            }
+          ]
+        },
+        {
+          "by": "Sun Sentinel Editorial Board",
+          "sources": [
+            {
+              "title": "Lauren Book for Florida Senate | Endorsement (Sun Sentinel)",
+              "url": "https://www.sun-sentinel.com/2026/10/06/lauren-book-for-florida-senate-endorsement/",
+              "date": "2026-10-06"
+            },
+            {
+              "title": "List of Sun Sentinel endorsements | Editorial (updated Oct. 16)",
+              "url": "https://www.sun-sentinel.com/2026/10/03/list-of-sun-sentinel-endorsements-editorial/",
+              "date": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "by": "Palm Beach Post Editorial Board",
+          "sources": [
+            {
+              "title": "Palm Beach Post endorses candidates for state Senate | Endorsement (Palm Beach Post, via Yahoo News; updated Oct. 13)",
+              "url": "https://www.yahoo.com/news/politics/articles/palm-beach-post-endorses-candidates-163440008.html",
+              "date": "2026-10-13"
+            },
+            {
+              "title": "Palm Beach Post Editorial Board endorsements for the Nov. 3 election (Palm Beach Post, via AOL)",
+              "url": "https://www.aol.com/articles/palm-beach-post-editorial-board-172841000.html",
+              "date": "2026-10-06"
+            }
+          ]
         }
       ],
       "links": [
@@ -510,11 +562,17 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Proposes expanding homestead exemptions while guaranteeing full funding for police, firefighters and schools.",
+          "quote": "Property Tax Relief: Expanding homestead savings while guaranteeing full funding for police, firefighters, and classrooms.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Hector Rivera - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/Hector_Rivera",
+              "date": "2026-10-18"
+            }
+          ]
         },
         "insurance": {
           "stance": 1,
@@ -660,7 +718,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Condo and HOA costs",
+          "summary": "Proposes a state-backed, low-rate bond program to finance condo and HOA special assessments, plus policyholder-owned reciprocal insurance exchanges.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Hector Rivera - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/Hector_Rivera",
+              "date": "2026-10-18"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -674,7 +744,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",
