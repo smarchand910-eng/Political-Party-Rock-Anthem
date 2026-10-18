@@ -10,7 +10,7 @@
   },
   "what_it_does": "County commissioners set the county budget and property-tax (millage) rate, adopt land-use and zoning rules, and oversee county services such as roads, parks, libraries, fire/EMS and utilities. Orange County commission seats are nonpartisan; the commission expanded to eight districts for 2026.",
   "coverage": "partial",
-  "verified_ballot_note": "Runoff per Florida Politics (https://floridapolitics.com/archives/814394-crowded-orange-county-commission-races-get-whittled-down-to-runoffs/) and ClickOrlando (https://www.clickorlando.com/news/local/2026/09/04/orange-county-dist-2-candidates-talk-water-traffic-and-property-taxes-ahead-of-2026-runoff/).",
+  "verified_ballot_note": "Confirmed Oct. 18, 2026 from county sources (the state's candidate list is incomplete for county offices): Official Aug. 18 nonpartisan results: Brown 7,869 (32.24%), Crabb 6,205 (25.42%), Hodge 19.86%, Oliver 14.98%, Summersill 7.50%. Nobody won a majority, so the top two go to a runoff. The SOE's Nov. 3 composite sample ballot lists County Commissioner District 2 with Kamia Brown and Mike Crabb only. Crabb is the appointed incumbent, sworn in Aug. 25.",
   "candidates": [
     {
       "id": "kamia_brown",
@@ -576,6 +576,28 @@
           "date": "2026-09-23"
         }
       ]
+    }
+  ],
+  "verified_ballot_sources": [
+    {
+      "title": "Orange SOE: Composite Sample Ballot, November 03, 2026 (English; file stamped 26-10-1)",
+      "url": "https://voteorangefl.gov/wp-content/uploads/2026/10/26GEN113-CB-EN-26-10-1-15-9-21.pdf",
+      "date": "2026-10-01"
+    },
+    {
+      "title": "Orange SOE ENR - 2026 Primary Election, Official Election Results (updated 08/25/2026)",
+      "url": "https://enr.electionsfl.org/ORA/3998/Summary/",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "Orange SOE candidate reports, Election 11/3/2026 (Brown 'Runoff', Crabb 'Runoff') (undated; accessed 2026-10-18)",
+      "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=orange",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "The Apopka Chief: Crabb sworn in as Orange County's District 2 commissioner",
+      "url": "https://theapopkachief.com/crabb-sworn-in-as-orange-countys-district-2-commissioner/",
+      "date": "2026-08-25"
     }
   ]
 }

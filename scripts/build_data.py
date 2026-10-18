@@ -86,7 +86,8 @@ def main():
         text = re.split(r'\bSources?:', note)[0].strip()
         text = re.sub(r'\(?https?://[^\s;)\]]+\)?', '', text).strip()
         r['verified_ballot_note'] = text
-        r['verified_ballot_sources'] = [{'title': re.sub(r'^www\.', '', u.split('/')[2]), 'url': u.rstrip('.,')} for u in urls]
+        # a research file can carry titled sources for the note; otherwise use the URLs written into it
+        r['verified_ballot_sources'] = research.get('verified_ballot_sources') or [{'title': re.sub(r'^www\.', '', u.split('/')[2]), 'url': u.rstrip('.,')} for u in urls]
         if research.get('events'): r['events'] = research['events']
         cands = []
         for c in research.get('candidates', []):

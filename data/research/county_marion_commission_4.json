@@ -10,7 +10,7 @@
   },
   "what_it_does": "County commissioners set the county budget and property-tax (millage) rate, adopt land-use and zoning rules, and oversee county services such as roads, parks, libraries, fire/EMS and utilities.",
   "coverage": "partial",
-  "verified_ballot_note": "Incumbent Carl Zalak did not seek re-election after 16 years (WCJB, June 4, 2026, https://www.wcjb.com/2026/06/04/marion-county-commission-chairman-carl-zalak-not-seeking-reelection-after-16-years-board/). Four Republicans ran in the Aug. 18 primary (WCJB, Aug. 2, 2026); the Florida Division of Elections candidate list shows Jeff Bairstow as the qualified Republican and Randall Alvord, Wanda Lasher and Sherri Meadows as defeated, with write-in Leonard Michael Racioppi qualified for November (https://dos.elections.myflorida.com/candidates/CanList.asp).",
+  "verified_ballot_note": "Confirmed Oct. 18, 2026 from county sources (the state's candidate list is incomplete for county offices): Official Aug. 18 Republican primary: Bairstow 16,478 (39.02%), Meadows 10,015 (23.72%), Alvord 8,354 (19.78%), Lasher 7,382 (17.48%). The SOE's Nov. 3 results page lists Jeff Bairstow (REP) and a Write-in line. The SOE candidate list shows Racioppi (WRI) as 'Advanced'. NPA candidate Anthony Barriner-Massa withdrew, so no Democrat or NPA is on the ballot. Racioppi's name is not printed; voters must write it in.",
   "candidates": [
     {
       "id": "jeff_bairstow",
@@ -126,6 +126,33 @@
       "other_issues": [],
       "record": [],
       "endorsements": []
+    }
+  ],
+  "verified_ballot_sources": [
+    {
+      "title": "Marion SOE ENR - 2026 General Election summary (ballot setup, 0 votes; updated 10/16/2026)",
+      "url": "https://enr.electionsfl.org/MRN/4099/Summary/",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Marion SOE candidate reports, General Election 11/3/2026 (Commissioner - 4: Bairstow 'Advanced', Racioppi (WRI) 'Advanced', Barriner-Massa (NPA) 'Withdrawn') (undated; accessed 2026-10-18)",
+      "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=marion",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Marion SOE ENR - 2026 Primary Election, OFFICIAL RESULTS (updated 08/21/2026)",
+      "url": "https://enr.electionsfl.org/MRN/4007/Summary/",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "WKMG/ClickOrlando: 2026 Voter's Guide - Marion County Commission District 4 Republican primary (winner faces write-in Leonard Michael Racioppi)",
+      "url": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-marion-county-commission-district-4-republican-primary/",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "WCJB: Two Marion County Commission primary races decided",
+      "url": "https://www.wcjb.com/2026/08/19/two-marion-county-commission-primary-races-decided/",
+      "date": "2026-08-18"
     }
   ]
 }

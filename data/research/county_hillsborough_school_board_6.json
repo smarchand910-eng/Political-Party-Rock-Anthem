@@ -10,7 +10,7 @@
   },
   "what_it_does": "School board members set the district budget and school millage, hire and evaluate the superintendent, approve curriculum materials, and set district policy.",
   "coverage": "partial",
-  "verified_ballot_note": "Runoff per Tampa Bay Times/WUSF snippets (Sally Harris Williamson eliminated). Nonpartisan.",
+  "verified_ballot_note": "Confirmed Oct. 18, 2026 from county sources (the state's candidate list is incomplete for county offices): Official Aug. 18 results: Perez 93,616 (48.27%), Gay 52,808 (27.23%) and Sally Harris Williamson 47,517 (24.50%). Nobody won a majority, so Perez and Gay go to a Nov. 3 runoff. The SOE's general-election results page lists only Gay and Perez, and the SOE candidate list marks both 'Runoff' and Williamson 'Defeated'. The ballot spells his name Kenneth \"Ken\" Gay.",
   "candidates": [
     {
       "id": "karen_perez",
@@ -255,7 +255,7 @@
     },
     {
       "id": "kenneth_gay",
-      "name": "Kenneth Gay",
+      "name": "Kenneth \"Ken\" Gay",
       "party": "Nonpartisan",
       "incumbent": false,
       "photo_url": null,
@@ -482,6 +482,28 @@
           "url": "https://ballotpedia.org/Kenneth_Gay"
         }
       ]
+    }
+  ],
+  "verified_ballot_sources": [
+    {
+      "title": "Hillsborough SOE ENR - 2026 General Election summary (ballot setup, 0 votes; updated 10/08/2026; registered-voter field shows placeholder 123,456,789)",
+      "url": "https://enr.electionsfl.org/HIL/4074/Summary/",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Hillsborough SOE ENR - 2026 Primary Election, Official Results (updated 08/25/2026)",
+      "url": "https://enr.electionsfl.org/HIL/4002/Summary/",
+      "date": "2026-08-25"
+    },
+    {
+      "title": "Hillsborough SOE candidate reports, 2026 Candidate Election Cycle (School Board Dist. 6: Gay 'Runoff', Perez 'Runoff', Williamson 'Defeated') (undated; accessed 2026-10-18)",
+      "url": "https://www.voterfocus.com/CampaignFinance/candidate_pr.php?c=hillsborough",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Tampa Bay Beacons/Tampa Bay Times: 4 candidates will advance in Hillsborough school board race",
+      "url": "https://www.tampabaybeacons.com/2026/08/25/4-candidates-will-advance-in-hillsborough-school-board-race/",
+      "date": "2026-08-25"
     }
   ]
 }
