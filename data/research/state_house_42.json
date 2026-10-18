@@ -326,6 +326,26 @@
               "date": "2026-09-10"
             }
           ]
+        },
+        {
+          "by": "Orlando Sentinel editorial board",
+          "sources": [
+            {
+              "title": "Orlando Sentinel editorial board, Endorsement: Sousa-Lazaballet a worthy heir in House District 42",
+              "url": "https://www.orlandosentinel.com/2026/10/07/endorsement-sousa-lazaballet-a-worthy-heir-in-house-district-42/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "by": "Central Florida Hotel and Lodging Association PAC",
+          "sources": [
+            {
+              "title": "Florida Politics, Hoteliers endorse a bipartisan slate for Central Florida House races",
+              "url": "https://floridapolitics.com/archives/823745-hoteliers-endorse-a-bipartisan-slate-for-central-florida-house-races/",
+              "date": "2026-10-07"
+            }
+          ]
         }
       ],
       "sources": [
@@ -406,11 +426,17 @@
           ]
         },
         "immigration": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Asked if she agrees with current federal and state immigration enforcement, Jackson said yes, saying Floridians expect the law to be enforced.",
+          "quote": "Floridians have the right to safe communities and an expectation that the law will be enforced.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Bonnie Jackson, Florida House District 42",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-bonnie-jackson-running-for-florida-house-district-42/",
+              "date": "2026-10-12"
+            }
+          ]
         },
         "abortion": {
           "stance": -1,
@@ -573,7 +599,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

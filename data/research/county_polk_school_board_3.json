@@ -226,9 +226,41 @@
               "date": "2026"
             }
           ]
+        },
+        {
+          "title": "Fundraising and outside mailers",
+          "summary": "More than $78,000 raised through Sept. 18. In early October, mailers repeating claims about Sims and styled like her campaign's ads were paid for by the political committee Celebrate Achievement.",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
         }
       ],
-      "record": [],
+      "record": [
+        {
+          "item": "Aug. 2026: voted with the board majority to retain two challenged library books ('Thirteen Reasons Why' and 'Check and Mate'), citing the district's parent opt-out policy; says she is open to an opt-in system.",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "item": "Sept. 8, 2026: voted against a motion (passed 4-3) to include rehired teachers in a union pay grievance; in July she had joined a 6-1 majority upholding the grievance.",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
+        }
+      ],
       "endorsements": [
         {
           "by": "Polk County Sheriff Grady Judd",
@@ -247,6 +279,56 @@
               "title": "Kate Wallace for Polk County School Board - campaign site",
               "url": "https://kateforkids.com",
               "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "State Board of Education Chair Ryan Petty",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "by": "All four of Polk County's state representatives",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "by": "Polk County Sheriff Grady Judd",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "by": "School Board Member Justin Sharpless",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "by": "Polk County Republican Executive Committee (voter guide also recommends NO on the school millage referendum)",
+          "sources": [
+            {
+              "title": "Polk County GOP Voter Guide: November 3, 2026 General Election (Polk County Republican Executive Committee; published Oct. 3, updated Oct. 14)",
+              "url": "https://www.polk.gop/updates/general-election-voter-guide-2026",
+              "date": "2026-10-14"
             }
           ]
         }
@@ -282,11 +364,17 @@
       "primary_result": "Second in Aug 18 primary with 35.8% (31,212)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Supports the district's 1-mill property-tax referendum on the Nov. 3 ballot, which would raise money mostly for employee pay.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
         },
         "property_tax": {
           "stance": null,
@@ -345,11 +433,17 @@
           "sources": []
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Has called the voucher system a primary threat to public education because of the transfer of state funds, though he says he would accept a voucher to home-school his own daughter.",
+          "quote": "I can have concerns about the impact that a major expansion of vouchers may have on Florida's public education system while also recognizing that the program exists",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
         },
         "environment": {
           "stance": null,
@@ -453,6 +547,19 @@
               "date": "2026-07-05"
             }
           ]
+        },
+        "school_books": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Says a parent may keep their own child from a challenged book, but other parents should be able to choose to opt in; one family's objection should not decide for all.",
+          "quote": "If a parent doesn't want their child reading a challenged book, I respect that. But another parent should have the ability to review it and choose to opt in. One family's choice shouldn't have to become every family's choice.",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -532,6 +639,17 @@
               "date": "2026-07-05"
             }
           ]
+        },
+        {
+          "title": "Fundraising",
+          "summary": "Just under $45,000 raised through Sept. 18 (vs. more than $78,000 for Wallace).",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
         }
       ],
       "record": [],
@@ -563,6 +681,86 @@
               "title": "Ballotpedia Candidate Connection survey - Victor Sims",
               "url": "https://ballotpedia.org/Victor_Sims",
               "date": "2026-07-05"
+            }
+          ]
+        },
+        {
+          "by": "Polk Education Association PAC",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "by": "Florida Education Association",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "by": "The School Board Project",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "by": "Southern Poverty Law Center Action Fund",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "by": "Equality Florida Action PAC",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "by": "Lakeland City Commissioner Terry Coney",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "by": "Haines City Mayor Vernel Smith",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "by": "Three Lake Wales city commissioners",
+          "sources": [
+            {
+              "title": "Runoff for Polk School Board pits Victor Sims against Kate Wallace (The Ledger, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/runoff-polk-school-board-pits-090116223.html",
+              "date": "2026-10-09"
             }
           ]
         }

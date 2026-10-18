@@ -121,6 +121,37 @@
               "date": "2026-09-30"
             }
           ]
+        },
+        "abortion": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Rutland said she supports Florida's abortion law as it stands, with its existing exceptions, and is not running to reopen the issue.",
+          "quote": "I support Florida law as it currently stands",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 60 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129075",
+              "date": "2026-10-17"
+            },
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 60 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Rutland said she supports Florida's enforcement laws and cooperation with federal authorities to remove violent criminals, with enforcement that is firm but lawful.",
+          "quote": "I support Florida's enforcement laws and our cooperation with federal authorities to remove violent criminals who put our communities at risk.",
+          "sources": [
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 60 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -267,6 +298,58 @@
               "date": "2026-09-30"
             }
           ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Polega-Quigley told VOTE411 that a documentary-proof requirement would burden women whose names changed, seniors and storm victims, and that she would keep working for equitable access to the ballot.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 60 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129075",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Polega-Quigley said no, citing family separations, detention conditions and due-process concerns, and supports comprehensive reform with pathways to citizenship.",
+          "quote": "We need comprehensive immigration reform that creates fair pathways to citizenship.",
+          "sources": [
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 60 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Polega-Quigley said no on the amendment, calling it a tax shift that would cost services, and favors data-driven relief.",
+          "quote": "No. Floridians need relief at the gas pump, the grocery store, on utilities, and on insurance. But this proposal is not a tax cut. It's a tax shift.",
+          "sources": [
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 60 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "She named protecting waters and preparing for storms and flooding as District 60's top environmental challenge, including restoring mangroves and modernizing stormwater and wastewater systems.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 60 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -306,7 +389,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

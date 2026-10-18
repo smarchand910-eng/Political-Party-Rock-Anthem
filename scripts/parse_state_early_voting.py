@@ -10,14 +10,10 @@ It reports the first and last day any site is open, the daily hours when every s
 sites. --write updates data/research/counties.json in place; without it the script only writes the review file.
 Site addresses are left to the county pages the guide already links, because the PDFs do not carry them in a
 machine-readable form."""
-import json, re, sys, os, glob, datetime, collections
+import json, re, sys, os, glob, datetime, collections, subprocess
 
 src_dir, out_path = sys.argv[1], sys.argv[2]
 write = '--write' in sys.argv
-try:
-    import pymupdf
-except ImportError:
-    import fitz as pymupdf
 
 CODE_TO_NAME = None
 counties_path = os.path.join('data', 'research', 'counties.json')
@@ -35,37 +31,48 @@ def pretty(d):
     return d.strftime('%a %b %-d') if os.name != 'nt' else d.strftime('%a %b %d')
 
 out = {}
+MONTHS = {'october': 10, 'november': 11}
+ROW_DATE = re.compile(r'(October|November)\s+(\d{1,2}),\s*2026|(\d{1,2})/(\d{1,2})/2026(?:\s*[-–]\s*(\d{1,2})/(\d{1,2})/2026)?', re.I)
+
+def row_days(m):
+    """The day (or, for a '10/24/2026-10/31/2026' row, every day) a row's date cell covers."""
+    if m.group(1):
+        return [datetime.date(2026, MONTHS[m.group(1).lower()], int(m.group(2)))]
+    a = datetime.date(2026, int(m.group(3)), int(m.group(4)))
+    if not m.group(5): return [a]
+    b = datetime.date(2026, int(m.group(5)), int(m.group(6)))
+    return [a + datetime.timedelta(days=k) for k in range((b - a).days + 1)]
+
 for pdf in sorted(glob.glob(os.path.join(src_dir, '*.pdf'))):
     code = os.path.basename(pdf).split(' ')[0].upper()
     name = (CODE_TO_NAME or {}).get(code, code)
-    doc = pymupdf.open(pdf)
-    text = '\n'.join(p.get_text() for p in doc)
-    tokens = []
-    # counties file these on three different forms: "October 19, 2026", "10/19/2026", and a single "10/24/2026-10/31/2026" range
-    pat = r'(October|November)\s+(\d{1,2}),\s*2026|(\d{1,2})/(\d{1,2})/2026|(\d{1,2}:\d{2})\s*(AM|PM)'
-    for m in re.finditer(pat, text, re.I):
-        if m.group(1):
-            tokens.append(('date', datetime.date(2026, 10 if m.group(1).lower() == 'october' else 11, int(m.group(2)))))
-        elif m.group(3):
-            mo, dy = int(m.group(3)), int(m.group(4))
-            if mo in (10, 11) and 1 <= dy <= 31: tokens.append(('date', datetime.date(2026, mo, dy)))
+    # Every county files the state's form, whose rows read: weekday, date, Available (Yes/No), start time, end time.
+    # The optional days (the Monday-Wednesday before the required week, and the Sunday after) are listed on every
+    # form whether or not the county uses them, so a day counts ONLY when its row says Yes or carries opening times.
+    # (Reading every listed date showed counties that open Oct. 22 or 24 as opening Oct. 19.)
+    text = subprocess.run(['pdftotext', '-layout', pdf, '-'], capture_output=True, text=True).stdout
+    days, spans, unclear = set(), collections.Counter(), 0
+    for line in text.splitlines():
+        m = ROW_DATE.search(line)
+        if not m: continue
+        rest = line[m.end():]
+        times = TIME_RE.findall(rest)
+        if re.search(r'\bNo\b', rest) and not times: continue          # listed, not open
+        if re.search(r'\bYes\b', rest) or times:
+            days.update(row_days(m))
+            if len(times) >= 2: spans[(f"{times[0][0]} {times[0][1].upper()}", f"{times[1][0]} {times[1][1].upper()}")] += 1
         else:
-            tokens.append(('time', f"{m.group(5)} {m.group(6).upper()}"))
-    days, spans = set(), collections.Counter()
-    # a county that files one date range covers every day in it
-    for a, b in re.findall(r'(\d{1,2}/\d{1,2}/2026)\s*[-–]\s*(\d{1,2}/\d{1,2}/2026)', text):
-        d1 = datetime.date(2026, int(a.split('/')[0]), int(a.split('/')[1]))
-        d2 = datetime.date(2026, int(b.split('/')[0]), int(b.split('/')[1]))
-        while d1 <= d2:
-            days.add(d1); d1 += datetime.timedelta(days=1)
-    i = 0
-    while i < len(tokens):
-        if tokens[i][0] == 'date':
-            days.add(tokens[i][1])
-            if i + 2 < len(tokens) and tokens[i + 1][0] == 'time' and tokens[i + 2][0] == 'time':
-                spans[(tokens[i + 1][1], tokens[i + 2][1])] += 1
-                i += 3; continue
-        i += 1
+            unclear += 1
+    if not days:
+        # a few counties put one date range in the form's header row ("Days of Operation 10/24/2026-10/31/2026")
+        # and leave the per-day rows dated only by their opening times; that range is the open period
+        for a, b in re.findall(r'(\d{1,2}/\d{1,2}/2026)\s*[-–]\s*(\d{1,2}/\d{1,2}/2026)', text):
+            d1 = datetime.date(2026, int(a.split('/')[0]), int(a.split('/')[1]))
+            d2 = datetime.date(2026, int(b.split('/')[0]), int(b.split('/')[1]))
+            while d1 <= d2: days.add(d1); d1 += datetime.timedelta(days=1)
+        for line in text.splitlines():
+            t = TIME_RE.findall(line)
+            if len(t) >= 2: spans[(f"{t[0][0]} {t[0][1].upper()}", f"{t[1][0]} {t[1][1].upper()}")] += 1
     sites = len(re.findall(r'Location Name', text)) or len(re.findall(r'Location\s+\d+\b', text))
     if not days:
         out[name] = {'county_code': code, 'error': 'no dates found in the state PDF'}
@@ -86,7 +93,7 @@ for pdf in sorted(glob.glob(os.path.join(src_dir, '*.pdf'))):
         if len(top) > 1:
             hours += ' at most sites; some sites or days differ'
     out[name] = {'county_code': code, 'dates': f'{pretty(first)} – {pretty(last)}, 2026', 'hours': hours,
-                 'sites': sites, 'days': len(days)}
+                 'sites': sites, 'days': len(days), 'unclear_rows': unclear}
 json.dump(out, open(out_path, 'w', encoding='utf-8'), indent=1, ensure_ascii=False)
 ok = [k for k, v in out.items() if 'dates' in v]
 print(f'parsed {len(out)} county files, {len(ok)} with dates -> {out_path}')

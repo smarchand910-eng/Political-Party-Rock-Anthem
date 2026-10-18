@@ -714,6 +714,19 @@
               "date": "2026-09"
             }
           ]
+        },
+        "immigration": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Charland said he does not agree with current state and federal immigration policy, calling it cruel, and said he sees immigrants as an opportunity for Florida.",
+          "quote": "I see immigrants as a wonderful opportunity for Florida, an opportunity to grow and learn and thrive, not a \"problem.\"",
+          "sources": [
+            {
+              "title": "Jacksonville Today, Compare the candidates | Nov. 3 Duval County voter guide",
+              "url": "https://jaxtoday.org/2026/10/14/nov-3-duval-county-voter-guide/",
+              "date": "2026-10-14"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -730,7 +743,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

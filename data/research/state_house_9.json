@@ -364,6 +364,45 @@
               "date": "2023-04"
             }
           ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "In her VOTE411 answers Tant said she would keep working on homeowners insurance by limiting how long claims can stay open and limiting insurers' ability to delay or deny claims, along with state home-hardening help.",
+          "quote": "limiting the # of days claims can be outstanding, limiting the actions of insurance companies to prolong or deny claims",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 9 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128948",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Tant told VOTE411 she has voted against nearly all efforts to override local home rule, opposed the 2026 data-center law, and would require developers to dedicate a share of units in every development to affordable housing.",
+          "quote": "I have voted against all if not nearly all of the efforts to override home rule since I became elected in 2020.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 9 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128948",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Tant told VOTE411 that state budget writers should increase Medicaid funding for vulnerable families.",
+          "quote": "Florida budget writers need to increase funding to Medicaid in order to fund the needs of vulnerable families.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 9 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27128948",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -530,7 +569,18 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Florida Planned Parenthood PAC",
+          "sources": [
+            {
+              "title": "Florida Politics, Florida Planned Parenthood PAC backs Democrats to fight for abortion rights",
+              "url": "https://floridapolitics.com/archives/824483-florida-planned-parenthood-pac-backs-democrats-to-fight-for-abortion-rights/",
+              "date": "2026-10-12"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

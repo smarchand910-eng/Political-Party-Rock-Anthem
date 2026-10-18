@@ -204,7 +204,33 @@
         }
       },
       "other_issues": [],
-      "record": [],
+      "record": [
+        {
+          "item": "Oct. 8, 2026: commission unanimously adopted Ordinance 26-42, a 12-month moratorium on new data-center applications in unincorporated Manatee; Ballard was quoted supporting it as time to set rules on 'where, how and if' such facilities fit.",
+          "sources": [
+            {
+              "title": "Manatee County Commissioners Approve 12-Month Data Center Moratorium (Manatee County news release)",
+              "url": "https://www.mymanatee.org/connect/news-and-information/news-and-information/article-detail/board-of-county-commissioners/2026/10/09/manatee-county-commissioners-approve-12-month-data-center-moratorium",
+              "date": "2026-10-08"
+            },
+            {
+              "title": "Manatee Commissioners put AI data centers on ice with 12-month moratorium (Florida Politics; text read via site RSS feed)",
+              "url": "https://floridapolitics.com/archives/824030-manatee-commissioners-put-ai-data-centers-on-ice-with-12-month-moratorium/",
+              "date": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "item": "Oct. 2026 (release dated Oct. 7): board approved the first round of more than $100 million in federal disaster-recovery (CDBG-DR) infrastructure projects for drainage, stormwater and hardening; Ballard was quoted praising the focus on resiliency and low- and moderate-income areas.",
+          "sources": [
+            {
+              "title": "Manatee County Approves Over $100 Million in Project Funding for Infrastructure Recovery (Manatee County news release)",
+              "url": "https://www.mymanatee.org/connect/news-and-information/news-and-information/article-detail/board-of-county-commissioners/2026/10/08/manatee-county-approves-over--100-million-in-project-funding-for-infrastructure-recovery",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "sources": [
         {
@@ -284,7 +310,18 @@
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "The Bradenton Times (editorial recommendation)",
+          "sources": [
+            {
+              "title": "For Manatee County Commission District 2, we recommend Charles Smith (The Bradenton Times)",
+              "url": "https://thebradentontimes.com/stories/for-manatee-county-commission-district-2-we-recommend-charles-smith,215516",
+              "date": "2026-10-06"
+            }
+          ]
+        }
+      ],
       "links": []
     }
   ],

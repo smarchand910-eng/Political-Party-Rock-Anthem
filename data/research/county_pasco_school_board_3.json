@@ -133,6 +133,17 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "title": "Teacher housing proposal",
+          "summary": "Has published position papers including a new teacher pay scale and district employee housing; withdrew the housing concept after public criticism.",
+          "sources": [
+            {
+              "title": "Pasco school board candidates weigh in on safety, falling enrollment, more (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/education/2026/10/14/pasco-florida-school-board-election-candidates/",
+              "date": "2026-10-14"
+            }
+          ]
         }
       ],
       "record": [],
@@ -232,6 +243,17 @@
               "date": "2026-07-27"
             }
           ]
+        },
+        {
+          "title": "Teacher housing",
+          "summary": "Said a rent-controlled teacher village would not work in Pasco and called instead for down-payment assistance.",
+          "sources": [
+            {
+              "title": "Pasco school board candidates weigh in on safety, falling enrollment, more (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/education/2026/10/14/pasco-florida-school-board-election-candidates/",
+              "date": "2026-10-14"
+            }
+          ]
         }
       ],
       "record": [],
@@ -273,6 +295,36 @@
               "title": "Veterans, teachers, podcasters and constitutionalists vie for Pasco County school board seats",
               "url": "https://wusf.org/text/education/2026-07-27/veterans-teachers-podcasters-constitutionalists-vie-for-pasco-county-school-board-seats",
               "date": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "by": "Pasco Sheriff Chris Nocco",
+          "sources": [
+            {
+              "title": "School board candidate's alleged affairs rile critics in Pasco (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/education/2026/10/12/pasco-florida-school-board-mollyana-ward/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "by": "State Sen. Ed Hooper",
+          "sources": [
+            {
+              "title": "School board candidate's alleged affairs rile critics in Pasco (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/education/2026/10/12/pasco-florida-school-board-mollyana-ward/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "by": "Pasco Superintendent John Legg (endorsement appears in her online advertising)",
+          "sources": [
+            {
+              "title": "School board candidate's alleged affairs rile critics in Pasco (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/education/2026/10/12/pasco-florida-school-board-mollyana-ward/",
+              "date": "2026-10-12"
             }
           ]
         }

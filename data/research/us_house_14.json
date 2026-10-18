@@ -169,11 +169,22 @@
           ]
         },
         "education_choice": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "At the Oct. 16 Tampa Tiger Bay forum, Castor criticized Florida's voucher system and said private schools that receive public voucher money should meet the same accountability requirements as public schools. She did not call for ending vouchers.",
+          "quote": "We're talking about public money. It should be subjected to the same accountability measures that happens in public schools.",
+          "sources": [
+            {
+              "title": "Kathy Castor, Mike Beltran square off in a rare debate for Congress",
+              "url": "https://www.wusf.org/politics-issues/2026-10-17/kathy-castor-mike-beltran-square-off-in-a-rare-debate-for-congress",
+              "date": "2026-10-17"
+            },
+            {
+              "title": "Kathy Castor and Mike Beltran put each other’s political records on trial at Tampa forum",
+              "url": "https://floridapolitics.com/archives/825388-kathy-castor-and-mike-beltran-put-each-others-political-records-on-trial-at-tampa-forum/",
+              "date": "2026-10-16"
+            }
+          ]
         },
         "environment": {
           "stance": 2,
@@ -439,6 +450,44 @@
               "date": "2026-10-05"
             }
           ]
+        },
+        {
+          "title": "Transgender athletes in women's sports",
+          "summary": "Asked at the Oct. 16 Tiger Bay forum whether transgender women should be allowed to compete in women's sports, Castor answered, 'The answer is no.'",
+          "sources": [
+            {
+              "title": "Castor, Beltran get testy during congressional candidate forum (Tampa Bay Times, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/castor-beltran-testy-during-congressional-214426705.html",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "title": "Forum remarks on costs, health care and property taxes",
+          "summary": "Castor said health-care costs and lost tax credits are hurting families, accused Republicans of cutting Medicaid to fund tax cuts, cautioned that property-tax cuts could affect police and fire services, and backed more federal involvement in mass transit.",
+          "sources": [
+            {
+              "title": "Kathy Castor and Mike Beltran put each other’s political records on trial at Tampa forum",
+              "url": "https://floridapolitics.com/archives/825388-kathy-castor-and-mike-beltran-put-each-others-political-records-on-trial-at-tampa-forum/",
+              "date": "2026-10-16"
+            },
+            {
+              "title": "District 14 Congressional candidates take part in nonpartisan political forum (WFLA, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/district-14-congressional-candidates-part-213736784.html",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "title": "Former Pinellas nuclear plant workers",
+          "summary": "Castor said former Pinellas Plant workers seeking federal medical compensation deserve answers, a fair process and urgent action.",
+          "sources": [
+            {
+              "title": "Tampa Bay members of Congress demand answers for sick nuclear workers",
+              "url": "https://www.tampabay.com/news/environment/2026/10/07/anna-paulina-luna-bilirakis-castor-ashley-moody-florida/",
+              "date": "2026-10-07"
+            }
+          ]
         }
       ],
       "record": [
@@ -690,7 +739,18 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Tampa Bay Times (Gallaty and Brink both chose Castor)",
+          "sources": [
+            {
+              "title": "Our picks for U.S. House of Representatives | Recommendations",
+              "url": "https://www.tampabay.com/viewpoints/2026/10/09/congress-candidates-recommendations-florida/",
+              "date": "2026-10-09"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -1103,6 +1163,49 @@
               "title": "Kathy Castor raises $2.5M in Q3, more than her first six quarters combined (Florida Politics)",
               "url": "https://floridapolitics.com/archives/823051-kathy-castor-raises-2-5m-in-q3-more-than-her-first-six-quarters-combined/",
               "date": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "title": "Transgender athletes in women's sports",
+          "summary": "At the Oct. 16 Tiger Bay forum Beltran agreed with Castor that transgender women should not compete in women's sports.",
+          "sources": [
+            {
+              "title": "Castor, Beltran get testy during congressional candidate forum (Tampa Bay Times, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/castor-beltran-testy-during-congressional-214426705.html",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "title": "Federal role in education",
+          "summary": "Beltran said education should be handled mainly at the state and local level and that 'as a Congressman I’m not going to do that much on education'; he defended Florida's school choice system.",
+          "sources": [
+            {
+              "title": "Kathy Castor, Mike Beltran square off in a rare debate for Congress",
+              "url": "https://www.wusf.org/politics-issues/2026-10-17/kathy-castor-mike-beltran-square-off-in-a-rare-debate-for-congress",
+              "date": "2026-10-17"
+            },
+            {
+              "title": "Kathy Castor and Mike Beltran put each other’s political records on trial at Tampa forum",
+              "url": "https://floridapolitics.com/archives/825388-kathy-castor-and-mike-beltran-put-each-others-political-records-on-trial-at-tampa-forum/",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "title": "Amendment 3, Rays stadium, transit and the federal deficit",
+          "summary": "Beltran urged voters to support Amendment 3's property-tax cuts, called Hillsborough County's roughly $796 million Rays stadium commitment a 'boondoggle,' defended his opposition to the transportation sales tax, and said Congress must address the federal debt and deficit.",
+          "sources": [
+            {
+              "title": "Kathy Castor and Mike Beltran put each other’s political records on trial at Tampa forum",
+              "url": "https://floridapolitics.com/archives/825388-kathy-castor-and-mike-beltran-put-each-others-political-records-on-trial-at-tampa-forum/",
+              "date": "2026-10-16"
+            },
+            {
+              "title": "District 14 Congressional candidates take part in nonpartisan political forum (WFLA, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/district-14-congressional-candidates-part-213736784.html",
+              "date": "2026-10-16"
             }
           ]
         }
@@ -1629,43 +1732,46 @@
   ],
   "events": [
     {
-      "date": "2026-10-02 — Scheduled",
-      "host": "WMNF 88.5 FM (live radio debate, 11 a.m.)",
+      "date": "2026-10-02 — Held",
+      "host": "WMNF 88.5 FM, Tampa: live radio debate of nearly an hour, moderated by Mitch Perry (Florida Phoenix) and Ray Roa (Creative Loafing); audio posted by WMNF",
       "who": "Kathy Castor, Mike Beltran",
       "sources": [
         {
-          "title": "Kathy Castor agrees to 2 debates, Mike Beltran wants more",
-          "url": "https://floridapolitics.com/archives/821051-kathy-castor-agrees-to-2-debates-mike-beltran-wants-more/",
-          "date": "2026-09-21"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-16 — Scheduled",
-      "host": "Tiger Bay Club, Cuban Club, Ybor City (in-person candidate forum, noon)",
-      "who": "Kathy Castor, Mike Beltran",
-      "sources": [
-        {
-          "title": "Kathy Castor agrees to 2 debates, Mike Beltran wants more",
-          "url": "https://floridapolitics.com/archives/821051-kathy-castor-agrees-to-2-debates-mike-beltran-wants-more/",
-          "date": "2026-09-21"
+          "title": "Listen: On WMNF Tampa, U.S. Rep. Kathy Castor and former State Rep. Mike Beltran debate for Florida's 14th Congressional District",
+          "url": "https://www.wmnf.org/listen-on-wmnf-u-s-rep-kathy-castor-and-former-state-rep-mike-beltran-debate-for-floridas-14th-congressional-district/",
+          "date": "2026-10-02"
         },
         {
-          "title": "Is the era of political debates over in Florida? (Tampa Bay Times)",
-          "url": "https://www.yahoo.com/news/politics/articles/era-political-debates-over-florida-110000547.html",
-          "date": "2026-09-24"
+          "title": "Kathy Castor agrees to 2 debates, Mike Beltran wants more",
+          "url": "https://floridapolitics.com/archives/821051-kathy-castor-agrees-to-2-debates-mike-beltran-wants-more/",
+          "date": "2026-09-21"
         }
       ]
     },
     {
-      "date": "Later in October 2026, exact date not announced",
-      "host": "Not yet announced. Roll Call reported on Oct. 1 that Castor and Beltran were set for the WMNF radio debate “as well as a second debate later this month”; no host, venue or date has been published, and no cancellation was found (checked Oct. 7, 2026). (Agreed; date, host and venue not yet announced)",
-      "who": "Kathy Castor (D), Mike Beltran (R)",
+      "date": "2026-10-16",
+      "host": "Tampa Tiger Bay Club, Cuban Club ballroom, Ybor City (in-person candidate forum, noon). Held. This was the second of the two debates Castor committed to (after the Oct. 2 WMNF radio debate); it is the 'later this month' event, and no further CD 14 debate (including a televised one Beltran sought) has been announced.",
+      "who": "Kathy Castor (D) and Mike Beltran (R) took part; Libertarian Brian Lambert is not mentioned in any coverage. CD 12 Democrat Kimberly Overman and CD 15 Democrat Robert People also appeared.",
       "sources": [
         {
-          "title": "At the Races: Debate demands and dodges (Roll Call)",
-          "url": "https://rollcall.com/2026/10/01/at-the-races-debate-demands-and-dodges/",
-          "date": "2026-10-01"
+          "title": "Kathy Castor, Mike Beltran square off in a rare debate for Congress",
+          "url": "https://www.wusf.org/politics-issues/2026-10-17/kathy-castor-mike-beltran-square-off-in-a-rare-debate-for-congress",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Kathy Castor and Mike Beltran put each other’s political records on trial at Tampa forum",
+          "url": "https://floridapolitics.com/archives/825388-kathy-castor-and-mike-beltran-put-each-others-political-records-on-trial-at-tampa-forum/",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Castor, Beltran get testy during congressional candidate forum (Tampa Bay Times, via Yahoo News)",
+          "url": "https://www.yahoo.com/news/politics/articles/castor-beltran-testy-during-congressional-214426705.html",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Kathy Castor agrees to 2 debates, Mike Beltran wants more",
+          "url": "https://floridapolitics.com/archives/821051-kathy-castor-agrees-to-2-debates-mike-beltran-wants-more/",
+          "date": "2026-09-21"
         }
       ]
     }

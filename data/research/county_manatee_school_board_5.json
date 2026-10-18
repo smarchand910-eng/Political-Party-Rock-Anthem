@@ -240,7 +240,18 @@
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "The Bradenton Times (editorial recommendation; published Sept. 29)",
+          "sources": [
+            {
+              "title": "For Manatee County School Board District 5, we recommend Jonathan Mullis (The Bradenton Times)",
+              "url": "https://thebradentontimes.com/stories/for-manatee-county-school-board-district-5-we-recommend-jonathan-mullis,214564",
+              "date": "2026-09-29"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -252,30 +263,18 @@
   "events": [
     {
       "date": "2026-10-07",
-      "host": "League of Women Voters of Manatee County (Zoom, 5-6 p.m.; registration required)",
-      "who": "Camden Bedinghaus and Jonathan Mullis",
+      "host": "League of Women Voters of Manatee County, Zoom, 5-6 p.m. Held: LWV posted a recording (YouTube, published Oct. 7). The video could not be watched (YouTube blocked automated access) and no written account was found, so nothing said there is coded.",
+      "who": "Camden T. Bedinghaus and Jonathan Mullis (listed by LWV)",
       "sources": [
         {
-          "title": "Events – League of Women Voters of Manatee County",
-          "url": "https://lwvmanatee.org/events/",
-          "date": "2026-09"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-07",
-      "host": "League of Women Voters of Manatee County — Zoom, 5:00-6:00 p.m.",
-      "who": "camden_cam_bedinghaus, jonathan_mullis",
-      "sources": [
-        {
-          "title": "Candidate Forums Guide (LWV of Manatee County)",
+          "title": "Candidate Forums Guide (League of Women Voters of Manatee County) (undated; accessed 2026-10-17)",
           "url": "https://lwvmanatee.org/voting-videos/",
-          "date": "2026-09"
+          "date": "2026-10-17"
         },
         {
-          "title": "Candidate Forums Offer Sarasota, Manatee Voters a Chance to Hear From Contenders",
-          "url": "https://www.sarasotamagazine.com/news-and-profiles/2026/09/candidate-forums-offer-sarasota-manatee-voters-a-chance-to-hear-from-contenders",
-          "date": "2026-09-22"
+          "title": "2026 School Board of Manatee Country District 5 Candidate Forum (LWV Manatee County YouTube video; title and Oct. 7 publish date read from YouTube metadata, video not watched)",
+          "url": "https://youtu.be/YtEeSkvro_I",
+          "date": "2026-10-07"
         }
       ]
     }

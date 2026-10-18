@@ -123,6 +123,32 @@
               "date": "2026-07-28"
             }
           ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Kendall said Florida's abortion restrictions should be more strict and that she believes life begins at conception.",
+          "quote": "More strict. I am pro-life and believe life begins at conception.",
+          "sources": [
+            {
+              "title": "Jacksonville Today, Compare the candidates | Nov. 3 St. Johns County voter guide",
+              "url": "https://jaxtoday.org/2026/10/14/nov-3-st-johns-county-voter-guide/",
+              "date": "2026-10-14"
+            }
+          ]
+        },
+        "energy": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "On utility costs, Kendall said regulators must protect grid stability without shifting costs to consumers and that Florida should look to nuclear power and liquefied natural gas; she did not mention renewables.",
+          "quote": "Florida also needs to look at reliable energy sources such as nuclear power and liquid natural gas.",
+          "sources": [
+            {
+              "title": "Jacksonville Today, Compare the candidates | Nov. 3 St. Johns County voter guide",
+              "url": "https://jaxtoday.org/2026/10/14/nov-3-st-johns-county-voter-guide/",
+              "date": "2026-10-14"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -374,6 +400,32 @@
               "date": "2026-09"
             }
           ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Stresing said he will vote no on the property-tax amendment because local governments would lose revenue for police, fire, EMTs and schools or have to raise sales taxes.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Jacksonville Today, Compare the candidates | Nov. 3 St. Johns County voter guide",
+              "url": "https://jaxtoday.org/2026/10/14/nov-3-st-johns-county-voter-guide/",
+              "date": "2026-10-14"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Asked whether he agrees with current immigration enforcement, Stresing said no, citing his immigrant mother and late wife and fear of people being detained because of skin color.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Jacksonville Today, Compare the candidates | Nov. 3 St. Johns County voter guide",
+              "url": "https://jaxtoday.org/2026/10/14/nov-3-st-johns-county-voter-guide/",
+              "date": "2026-10-14"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -390,7 +442,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

@@ -39,11 +39,17 @@
           ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says he will vote yes on Amendment 3 and would make up the lost revenue with budget cuts.",
+          "quote": "Yes. Budget cuts.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council District 1 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-volusia-county-council-district-1-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -53,11 +59,17 @@
           "sources": []
         },
         "housing": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked how to address affordability, answered that free-market principles, not new government programs, are the solution.",
+          "quote": "To allow the free market principles that built this country.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council District 1 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-volusia-county-council-district-1-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
         },
         "immigration": {
           "stance": null,
@@ -191,7 +203,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Data centers",
+          "summary": "Told News 6 he sponsored an ordinance to permanently ban data centers.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council District 1 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-volusia-county-council-district-1-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted Sept. 22, 2026, with a unanimous County Council, to adopt the rolled-back general-fund millage of 3.1007 for FY2026-27, after saying he had changed his position from the flat rate he backed at the earlier hearing.",
@@ -200,6 +224,21 @@
               "title": "Volusia County Council adopts rollback rate for general fund, cuts funding for law library program",
               "url": "https://www.observerlocalnews.com/news/2026/sep/23/volusia-county-council-adopts-rollback-rate-for-general-fund-cuts-funding-for-law-library-program/",
               "date": "2026-09-23"
+            }
+          ]
+        },
+        {
+          "item": "Oct. 6, 2026: voted with the 6-1 majority on first reading of an ordinance banning large-scale (50 MW+) data centers in unincorporated Volusia County; he had raised sinkhole and aquifer concerns. Final vote set for Oct. 20.",
+          "sources": [
+            {
+              "title": "County moves to ban huge AI complexes in its domain (The West Volusia Beacon)",
+              "url": "https://www.beacononlinenews.com/articles/news/county-moves-to-ban-huge-ai-complexes-in-its-domain/",
+              "date": "2026-10-16"
+            },
+            {
+              "title": "Volusia County moves data center ban ordinance forward (Spectrum News 13)",
+              "url": "https://mynews13.com/fl/orlando/news/2026/10/06/volusia-county-data-center-ban-heads-to-first-reading",
+              "date": "2026-10-06"
             }
           ]
         }
@@ -401,7 +440,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Data centers",
+          "summary": "Says each community should have the right to ban AI data centers; where approved, they should generate their own power, recycle their water and not raise other customers' rates.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Volusia County Council District 1 runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-volusia-county-council-district-1-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [

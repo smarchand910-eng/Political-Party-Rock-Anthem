@@ -22,7 +22,7 @@
       "id": "chad_bailey",
       "name": "Chad Bailey",
       "party": "Nonpartisan",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
       "website": null,

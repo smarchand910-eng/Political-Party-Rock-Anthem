@@ -370,6 +370,28 @@
               "date": null
             }
           ]
+        },
+        {
+          "title": "Former Pinellas nuclear plant workers",
+          "summary": "Bilirakis said former Largo nuclear-weapons plant workers deserve timely, fair review of their federal medical claims and that he is looking into whether there are unnecessary barriers.",
+          "sources": [
+            {
+              "title": "Tampa Bay members of Congress demand answers for sick nuclear workers",
+              "url": "https://www.tampabay.com/news/environment/2026/10/07/anna-paulina-luna-bilirakis-castor-ashley-moody-florida/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "title": "Did not attend Oct. 16 Tiger Bay forum",
+          "summary": "Bilirakis did not appear at the Tampa Tiger Bay Club congressional forum his opponent attended.",
+          "sources": [
+            {
+              "title": "Kathy Castor, Mike Beltran square off in a rare debate for Congress",
+              "url": "https://www.wusf.org/politics-issues/2026-10-17/kathy-castor-mike-beltran-square-off-in-a-rare-debate-for-congress",
+              "date": "2026-10-17"
+            }
+          ]
         }
       ],
       "record": [
@@ -606,9 +628,50 @@
               "date": "2026-09-16"
             }
           ]
+        },
+        {
+          "item": "Introduced the bipartisan Puerto Rico Medicare Advantage Fairness Act (announced Oct. 13) with Reps. Raul Ruiz and Darren Soto and Resident Commissioner Pablo José Hernández.",
+          "sources": [
+            {
+              "title": "Bilirakis Introduces Bipartisan Bill to Fix Medicare Advantage Payments in Puerto Rico",
+              "url": "https://bilirakis.house.gov/media/press-releases/bilirakis-introduces-bipartisan-bill-fix-medicare-advantage-payments-puerto",
+              "date": "2026-10-13"
+            }
+          ]
+        },
+        {
+          "item": "Co-signed the Moody-Buchanan letter asking the Department of War to increase Florida's National Guard allocation after Hurricane Isaias.",
+          "sources": [
+            {
+              "title": "In Aftermath of Isaias, Senator Moody Calls for Increase in Total Allocation for Florida National Guard to Better Protect Floridians",
+              "url": "https://www.moody.senate.gov/press-releases/in-aftermath-of-isaias-senator-moody-calls-for-increase-in-total-allocation-for-florida-national-guard-to-better-protect-floridians/",
+              "date": "2026-10-14"
+            }
+          ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Tampa Bay Times (Gallaty and Brink both chose Bilirakis)",
+          "sources": [
+            {
+              "title": "Our picks for U.S. House of Representatives | Recommendations",
+              "url": "https://www.tampabay.com/viewpoints/2026/10/09/congress-candidates-recommendations-florida/",
+              "date": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "by": "Armenian National Committee of America (ANCA)",
+          "sources": [
+            {
+              "title": "ANCA endorses congressional allies for 2026 midterm elections",
+              "url": "https://armenianweekly.com/2026/10/16/anca-endorses-congressional-allies-for-2026-midterm-elections/",
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
@@ -880,6 +943,22 @@
               "date": null
             }
           ]
+        },
+        {
+          "title": "Education and federal role (Tiger Bay forum)",
+          "summary": "At the Oct. 16 Tampa Tiger Bay forum, Overman opposed dismantling the U.S. Department of Education, said federal education standards may be needed if states won't set them, and (per Florida Politics) called for stronger oversight of Florida's school voucher programs and more federal transit investment.",
+          "sources": [
+            {
+              "title": "Kathy Castor, Mike Beltran square off in a rare debate for Congress",
+              "url": "https://www.wusf.org/politics-issues/2026-10-17/kathy-castor-mike-beltran-square-off-in-a-rare-debate-for-congress",
+              "date": "2026-10-17"
+            },
+            {
+              "title": "Kathy Castor and Mike Beltran put each other’s political records on trial at Tampa forum",
+              "url": "https://floridapolitics.com/archives/825388-kathy-castor-and-mike-beltran-put-each-others-political-records-on-trial-at-tampa-forum/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       ],
       "record": [
@@ -1137,18 +1216,6 @@
   ],
   "events": [
     {
-      "date": "",
-      "host": "No debate has been scheduled, despite the challenger asking for one (checked 2026-09-24)",
-      "who": "Gus Bilirakis, Kimberly Overman",
-      "sources": [
-        {
-          "title": "Is the era of political debates over in Florida? (Tampa Bay Times)",
-          "url": "https://www.yahoo.com/news/politics/articles/era-political-debates-over-florida-110000547.html",
-          "date": "2026-09-24"
-        }
-      ]
-    },
-    {
       "host": "None. Roll Call's Oct. 1 debate round-up named only the two CD 14 events in Florida; the Tampa Bay Times reported on Sept. 24 that Tampa Bay's Republican congressional incumbents had turned down debates. (No debate scheduled - unchanged (checked 2026-10-07))",
       "who": "Gus Bilirakis (R), Kimberly Overman (D), Branden Scrivener (NPA)",
       "sources": [
@@ -1161,6 +1228,23 @@
           "title": "Castor and GOP challenger spar over abortion, socialism in CD14 debate (Tampa Bay Times, read via Yahoo syndication)",
           "url": "https://www.yahoo.com/news/politics/articles/castor-gop-challenger-spar-over-202435456.html",
           "date": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "host": "Tampa Tiger Bay Club forum, Cuban Club, Ybor City. Held (forum covering Hillsborough's CD 12, 14 and 15).",
+      "who": "Kimberly Overman (D) took part; incumbent Gus Bilirakis (R) did not appear. Branden Scrivener (NPA) is not mentioned in coverage.",
+      "sources": [
+        {
+          "title": "Kathy Castor, Mike Beltran square off in a rare debate for Congress",
+          "url": "https://www.wusf.org/politics-issues/2026-10-17/kathy-castor-mike-beltran-square-off-in-a-rare-debate-for-congress",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Castor, Beltran get testy during congressional candidate forum (Tampa Bay Times, via Yahoo News)",
+          "url": "https://www.yahoo.com/news/politics/articles/castor-beltran-testy-during-congressional-214426705.html",
+          "date": "2026-10-16"
         }
       ]
     }

@@ -39,11 +39,17 @@
           ]
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says that as of now he would vote no on Amendment 3 unless shown it is not a 'shell game'; says he supports real tax relief but not shifting costs to fees or cutting public safety and roads.",
+          "quote": "As of today, I would vote no, unless someone can show me this is not simply a shell game before the November election.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Lake County Commission District 2 (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-lake-county-commission-district-2/",
+              "date": "2026-10-16"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -197,8 +203,36 @@
           "sources": []
         }
       },
-      "other_issues": [],
-      "record": [],
+      "other_issues": [
+        {
+          "title": "Data centers",
+          "summary": "Says data centers should pay the full cost of the power and infrastructure they need ('cost-causer pays') and that he supported the county's pause on data centers; defended listening to the Lake 100 business group, which backs a conditional-use permit approach.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Lake County Commission District 2 (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-lake-county-commission-district-2/",
+              "date": "2026-10-16"
+            },
+            {
+              "title": "Lake County considers tighter rules for data centers as residents call for ban (News 6)",
+              "url": "https://www.clickorlando.com/news/local/2026/10/09/lake-county-considers-tighter-rules-for-data-centers-as-residents-call-for-ban/",
+              "date": "2026-10-09"
+            }
+          ]
+        }
+      ],
+      "record": [
+        {
+          "item": "Oct. 13, 2026: commission voted 3-2 to postpone authorizing a public hearing on draft data-center rules after Parks proposed edits the rest of the board had not reviewed, and asked staff to draft a 90-day extension of the moratorium; Campione and Sabatini were the no votes (per a Mid Florida Newspapers report summarized by Strisker).",
+          "sources": [
+            {
+              "title": "Data Centers: Daily Notes, October 15, 2026 (Strisker; summarizes Mid Florida Newspapers report 'Lake County delays vote on data center rules, weighs moratorium extension')",
+              "url": "https://writing.strisker.com/data-centers-daily-notes-october-15-2026/",
+              "date": "2026-10-15"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "sources": [
         {

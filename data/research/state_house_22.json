@@ -271,6 +271,19 @@
               "date": "2026"
             }
           ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "At the Sept. 27 League of Women Voters forum in Gainesville, Trask joined HD 10 Democrat Merrillee Malwitz-Jipson in voicing concern about water conservation (as summarized by the reporter; no direct quote on this point).",
+          "quote": "",
+          "sources": [
+            {
+              "title": "The Independent Florida Alligator, Local candidates discuss future of Gainesville, Alachua County in midterm forum",
+              "url": "https://www.alligator.org/article/2026/09/local-candidates-midterm-forum",
+              "date": "2026-09-29"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -370,7 +383,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No further debate or candidate forum is scheduled in this race (checked Oct. 17, 2026).",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",
@@ -381,6 +394,18 @@
           "title": "News (League of Women Voters of Florida)",
           "url": "https://www.lwvfl.org/news/",
           "date": "2026-10-07"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "host": "Bob Graham Center for Public Service, with questions led by the League of Women Voters of Alachua County, Pugh Hall, University of Florida, Gainesville; candidate Q&A. HAPPENED (not in the guide's Oct. 7 events list).",
+      "who": "Democrat Amy Trask took part; Republican Rep. Chad Johnson did not attend (scheduling conflict or illness, per the local League president).",
+      "sources": [
+        {
+          "title": "The Independent Florida Alligator, Local candidates discuss future of Gainesville, Alachua County in midterm forum",
+          "url": "https://www.alligator.org/article/2026/09/local-candidates-midterm-forum",
+          "date": "2026-09-29"
         }
       ]
     }

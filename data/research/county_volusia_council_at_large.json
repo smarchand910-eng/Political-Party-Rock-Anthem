@@ -402,7 +402,24 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Data centers",
+          "summary": "Spoke in favor of the county's data-center ban at the Oct. 6 council meeting and, in the News 6 guide, said hyperscale data centers should not be built in Volusia.",
+          "sources": [
+            {
+              "title": "County moves to ban huge AI complexes in its domain (The West Volusia Beacon)",
+              "url": "https://www.beacononlinenews.com/articles/news/county-moves-to-ban-huge-ai-complexes-in-its-domain/",
+              "date": "2026-10-16"
+            },
+            {
+              "title": "2026 Voter's Guide - Volusia County Council At-Large seat runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-volusia-county-council-at-large-seat-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [

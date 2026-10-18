@@ -533,6 +533,68 @@
               "date": "2026-09-30"
             }
           ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Beckman answered no on eliminating property taxes, saying it would shift costs to fees and renters and threaten local services; he says he is committed to property-tax reform in 2027.",
+          "quote": "No. Local services that our communities depend on like public hospitals, first responders, parks, and schools, rely on property taxes.",
+          "sources": [
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 58 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            },
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 58 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129000",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Beckman said he would strengthen consumer protections and hold insurers accountable, and backs a better-funded state catastrophe fund for hurricane risk.",
+          "quote": "I will listen to experts that call for a better funded state catastrophic fund that addresses hurricane impacts",
+          "sources": [
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 58 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            },
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 58 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129000",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "If proof of citizenship becomes required, Beckman said Florida must provide a free process for records and he would fight anything that works like a poll tax.",
+          "quote": "I would fight any system that effectively becomes a poll tax.",
+          "sources": [
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 58 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129000",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Beckman said he supports border security and deporting violent criminals, along with federal reform that includes an earned path to legal status.",
+          "quote": "I support strong border security and deporting violent criminals, while recognizing immigrants' contributions.",
+          "sources": [
+            {
+              "title": "WUSF / Florida Public Media 2026 Voter Guide, Florida State House District 58 (undated; accessed 2026-10-17)",
+              "url": "https://www.wusf.org/2026-voter-guide",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -572,7 +634,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

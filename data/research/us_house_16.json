@@ -829,6 +829,16 @@
               "date": "2026-09-25"
             }
           ]
+        },
+        {
+          "by": "Tampa Bay Times (Gallaty and Brink both chose Kirschner)",
+          "sources": [
+            {
+              "title": "Our picks for U.S. House of Representatives | Recommendations",
+              "url": "https://www.tampabay.com/viewpoints/2026/10/09/congress-candidates-recommendations-florida/",
+              "date": "2026-10-09"
+            }
+          ]
         }
       ]
     },
@@ -1123,6 +1133,18 @@
   ],
   "events": [
     {
+      "date": "",
+      "host": "Further forum invitations outstanding; a Gruters spokesperson cited limited time because the redrawn district spans six counties",
+      "who": "No further forum scheduled as of 2026-09-29 · Sydney Gruters, Kelly Kirschner, Mark Davis",
+      "sources": [
+        {
+          "title": "Is the era of political debates over in Florida? (Tampa Bay Times)",
+          "url": "https://www.yahoo.com/news/politics/articles/era-political-debates-over-florida-110000547.html",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    {
       "date": "2026-09-23 — Held",
       "host": "League of Women Voters of Manatee County and League of Women Voters of the St. Petersburg Area (virtual Zoom forum, noon-1 p.m.; moderator Trevor Pettiford)",
       "who": "Sydney Gruters (R), Kelly Kirschner (D), Mark Davis (NPA)",
@@ -1145,31 +1167,14 @@
       ]
     },
     {
-      "date": "",
-      "host": "Further forum invitations outstanding; a Gruters spokesperson cited limited time because the redrawn district spans six counties",
-      "who": "No further forum scheduled as of 2026-09-29 · Sydney Gruters, Kelly Kirschner, Mark Davis",
-      "sources": [
-        {
-          "title": "Is the era of political debates over in Florida? (Tampa Bay Times)",
-          "url": "https://www.yahoo.com/news/politics/articles/era-political-debates-over-florida-110000547.html",
-          "date": "2026-09-24"
-        }
-      ]
-    },
-    {
       "date": "2026-10-16",
-      "host": "St. Petersburg Area Chamber of Commerce 'Friday Forum' for U.S. Congress and U.S. Senate candidates, Chamber members only (Host event scheduled; Kirschner engaged with the host, other candidates not confirmed)",
-      "who": "Kelly Kirschner (D) is the only CD 16 candidate featured in the Chamber's Candidates Corner; Sydney Gruters (R) and Mark Davis (NPA) are not listed",
+      "host": "St. Petersburg Area Chamber of Commerce 'Friday Forum' (members only). Scheduled; whether it happened and who attended is UNCONFIRMED (no coverage found).",
+      "who": "CD 16 candidates invited; attendance unknown.",
       "sources": [
         {
-          "title": "Candidates Corner - Friday Forums (St. Petersburg Area Chamber of Commerce)",
+          "title": "Candidates Corner (St. Petersburg Chamber of Commerce) (undated; accessed 2026-10-17)",
           "url": "https://www.stpete.com/candidates-corner/",
-          "date": "2026-10"
-        },
-        {
-          "title": "Friday Forum: Happy Hour with the Candidates (St. Petersburg Area Chamber of Commerce event listing)",
-          "url": "https://business.stpete.com/eventcalendar/details/friday-forum-happy-hour-with-the-candidates-1904365",
-          "date": "2026-10"
+          "date": "2026-10-17"
         }
       ]
     },

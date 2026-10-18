@@ -268,7 +268,18 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "The Bradenton Times (editorial recommendation)",
+          "sources": [
+            {
+              "title": "For Manatee County Commission District 6, We Recommend Reggie Bellamy (The Bradenton Times)",
+              "url": "https://thebradentontimes.com/stories/for-manatee-county-commission-district-6-we-recommend-reggie-bellamy,216731",
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

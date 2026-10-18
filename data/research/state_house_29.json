@@ -521,6 +521,32 @@
               "date": "2026-09"
             }
           ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Kanfer said he does not agree with current enforcement: immigration laws should be enforced, but current methods ignore constitutional safeguards.",
+          "quote": "While immigration laws need to be enforced, the current haphazard methods currently being used are ignoring constitutional safeguards and trampling on citizen’s rights.",
+          "sources": [
+            {
+              "title": "WKMG News 6 ClickOrlando, 2026 Voter's Guide - Florida House District 29",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-house-district-29/",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Kanfer named overdevelopment and destruction of environmentally sensitive land, plus flooding, as top environmental issues, and said data centers should have to prove no environmental impact and supply their own power.",
+          "quote": "Overdevelopment and destruction of environmentally sensitive lands, along with traffic congestion and flooding.",
+          "sources": [
+            {
+              "title": "WKMG News 6 ClickOrlando, 2026 Voter's Guide - Florida House District 29",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-house-district-29/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -531,7 +557,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

@@ -328,6 +328,16 @@
               "date": "2026-09-01"
             }
           ]
+        },
+        {
+          "by": "U.S. Chamber of Commerce",
+          "sources": [
+            {
+              "title": "U.S. Chamber lines up behind Austin Rogers in CD 2 race",
+              "url": "https://floridapolitics.com/archives/823821-u-s-chamber-lines-up-behind-austin-rogers-in-cd-2-race/",
+              "date": "2026-10-07"
+            }
+          ]
         }
       ],
       "links": [
@@ -673,18 +683,28 @@
               "url": "https://a4al.org/articles/alliance-4-american-leadership-pac-endorses-amanda-green-for-cd-2"
             }
           ]
+        },
+        {
+          "by": "Blue Dog PAC",
+          "sources": [
+            {
+              "title": "Blue Dogs rush in for Amanda Marie Green in CD 2",
+              "url": "https://floridapolitics.com/archives/824974-blue-dogs-rush-in-for-amanda-marie-green-in-cd-2/",
+              "date": "2026-10-14"
+            }
+          ]
         }
       ]
     }
   ],
   "events": [
     {
-      "date": "Late October 2026, exact date not set",
-      "host": "Not yet determined - the two campaigns were still working out details as of Oct. 1; WJHG/WECP said it would report the date once set (Newly agreed; date, host and venue not yet announced)",
-      "who": "Austin Rogers (R), Amanda Marie Green (D) - both have agreed",
+      "date": "Late October 2026 (no date set as of Oct. 17)",
+      "host": "Agreed in principle on Oct. 1; no host, date or venue announced. WJHG said it would report the date; no update found on WJHG, WCTV, WTXL or the campaign websites as of Oct. 17. Not yet held.",
+      "who": "Austin Rogers (R) and Amanda Marie Green (D)",
       "sources": [
         {
-          "title": "Rogers, Green agree to debate ahead of Florida's 2nd Congressional District election (WJHG/WECP)",
+          "title": "Rogers, Green agree to debate ahead of Florida’s 2nd Congressional District election",
           "url": "https://www.wjhg.com/2026/10/02/rogers-green-agree-debate-ahead-floridas-2nd-congressional-district-election/",
           "date": "2026-10-01"
         }

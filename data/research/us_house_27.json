@@ -441,6 +441,17 @@
               "date": "2026-09-25"
             }
           ]
+        },
+        {
+          "title": "Response to Miami Herald endorsement of opponent",
+          "summary": "Newsweek reported that Salazar replied on X that a Miami Herald endorsement 'has become the kiss of death for candidates who get it,' and that she has declined the three debates Rodriguez's campaign proposed.",
+          "sources": [
+            {
+              "title": "Democrats Set Sights on Flipping MAGA District in Trump’s Backyard",
+              "url": "https://www.newsweek.com/jeffries-rodriguez-salazar-florida-27th-district-democrats-12576471",
+              "date": "2026-10-16"
+            }
+          ]
         }
       ],
       "record": [
@@ -775,6 +786,36 @@
               "title": "'Humane public policy': Animal protection group endorses Maria Elvira Salazar for CD 27 (Florida Politics)",
               "url": "https://floridapolitics.com/archives/822709-humane-public-policy-animal-protection-group-endorses-maria-elvira-salazar-for-cd-27/",
               "date": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "by": "María Corina Machado (Venezuelan opposition leader)",
+          "sources": [
+            {
+              "title": "María Corina Machado, Everglades Trust endorse María Elvira Salazar for re-election in CD 27",
+              "url": "https://floridapolitics.com/archives/824019-maria-corina-machado-everglades-trust-endorse-maria-elvira-salazar-for-re-election-in-cd-27/",
+              "date": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "by": "Everglades Trust",
+          "sources": [
+            {
+              "title": "María Corina Machado, Everglades Trust endorse María Elvira Salazar for re-election in CD 27",
+              "url": "https://floridapolitics.com/archives/824019-maria-corina-machado-everglades-trust-endorse-maria-elvira-salazar-for-re-election-in-cd-27/",
+              "date": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "by": "Colombian President Abelardo de la Espriella (support video)",
+          "sources": [
+            {
+              "title": "Delegation for 10.13.26: After Isaias — drilling divide — rail revival — sulfur squeeze — foreign friends",
+              "url": "https://floridapolitics.com/archives/824704-delegation-for-10-13-26-after-isaias-drilling-divide-rail-revival-sulfur-squeeze-foreign-friends/",
+              "date": "2026-10-13"
             }
           ]
         }
@@ -1142,6 +1183,17 @@
               "date": "2026-10-05"
             }
           ]
+        },
+        {
+          "title": "Campaign event with House Democratic Leader Hakeem Jeffries",
+          "summary": "Jeffries campaigned with Rodriguez in Miami on Oct. 16; the campaign says Rodriguez is running on lowering living costs, preserving Social Security and Medicare, and comprehensive immigration reform.",
+          "sources": [
+            {
+              "title": "Hakeem Jeffries heads to Miami to campaign with Eliott Rodriguez in CD 27",
+              "url": "https://floridapolitics.com/archives/825196-hakeem-jeffries-heads-to-miami-to-campaign-with-eliott-rodriguez-in-cd-27/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       ],
       "record": [
@@ -1171,46 +1223,40 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "Miami-Dade Mayor Daniella Levine Cava",
+          "sources": [
+            {
+              "title": "‘He cares deeply’: Eliott Rodriguez nets endorsements from Daniella Levine Cava, Eileen Higgins",
+              "url": "https://floridapolitics.com/archives/824918-he-cares-deeply-eliott-rodriguez-nets-endorsements-from-daniella-levine-cava-eileen-higgins/",
+              "date": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "by": "Miami Mayor Eileen Higgins",
+          "sources": [
+            {
+              "title": "‘He cares deeply’: Eliott Rodriguez nets endorsements from Daniella Levine Cava, Eileen Higgins",
+              "url": "https://floridapolitics.com/archives/824918-he-cares-deeply-eliott-rodriguez-nets-endorsements-from-daniella-levine-cava-eileen-higgins/",
+              "date": "2026-10-14"
+            }
+          ]
+        }
+      ]
     }
   ],
   "events": [
     {
-      "host": "Miami TV stations (CBS Miami, WPLG Local 10, Telemundo 51) invited both candidates; no debate scheduled",
-      "who": "Eliott Rodriguez accepted; Maria Elvira Salazar has not accepted",
+      "date": "None",
+      "host": "Newsweek reports Salazar has declined the three debates Rodriguez's campaign proposed (two in English, one in Spanish). No debate.",
+      "who": "María Elvira Salazar (R), Eliott Rodriguez (D)",
       "sources": [
         {
-          "title": "Maria Elvira Salazar tells Trump in TV ad he's gone 'too far' on immigration (Political Cortadito)",
-          "url": "https://politicalcortadito.com/2026/09/18/maria-elvira-salazar-trump-tv-ad-immigration/",
-          "date": "2026-09-18"
-        }
-      ]
-    },
-    {
-      "date": "",
-      "host": "CBS 4 Miami, WPLG Local 10 and Telemundo 51 invitations",
-      "who": "No debate scheduled as of 2026-09-29 · Eliott Rodriguez accepted all three; Maria Elvira Salazar let a Sept. 1 deadline pass without responding",
-      "sources": [
-        {
-          "title": "Phil Ehr challenges Carlos Gimenez, Eddy Rojas to CD 28 debates amid statewide debate drought",
-          "url": "https://floridapolitics.com/archives/821220-phil-ehr-challenges-carlos-gimenez-eddy-rojas-to-cd-28-debates-amid-statewide-debate-drought/",
-          "date": "2026-09-22"
-        },
-        {
-          "title": "Conservative commentators pile on Maria Elvira Salazar over Donald Trump immigration rebuke",
-          "url": "https://floridapolitics.com/archives/821668-conservative-commentators-pile-on-maria-elvira-salazar-over-donald-trump-immigration-rebuke/",
-          "date": "2026-09-24"
-        }
-      ]
-    },
-    {
-      "host": "CBS 4 Miami, WPLG Local 10 and Telemundo 51 invitations; Salazar let a Sept. 1 deadline pass without responding. Florida Politics restated on Oct. 1 that she 'did not respond to three televised debate invitations that Rodriguez accepted.' (No debate scheduled - unchanged (checked 2026-10-07))",
-      "who": "Eliott Rodriguez (D) accepted all three; Maria Elvira Salazar (R) has not accepted",
-      "sources": [
-        {
-          "title": "'Humane public policy': Animal protection group endorses Maria Elvira Salazar for CD 27 (Florida Politics)",
-          "url": "https://floridapolitics.com/archives/822709-humane-public-policy-animal-protection-group-endorses-maria-elvira-salazar-for-cd-27/",
-          "date": "2026-10-01"
+          "title": "Democrats Set Sights on Flipping MAGA District in Trump’s Backyard",
+          "url": "https://www.newsweek.com/jeffries-rodriguez-salazar-florida-27th-district-democrats-12576471",
+          "date": "2026-10-16"
         }
       ]
     }

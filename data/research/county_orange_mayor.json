@@ -224,6 +224,17 @@
               "date": "2026-09-22"
             }
           ]
+        },
+        {
+          "title": "Budget and transit (Spectrum News 13 debate)",
+          "summary": "In the Spectrum News 13 debate, said she would look at consolidating departments, freezing some hiring and timing capital projects, and favors a more connected rail system including seven-day SunRail service.",
+          "sources": [
+            {
+              "title": "Orange County mayoral candidates debate the budget, Amendment 3, and affordability in Spectrum News debate (Spectrum News 13)",
+              "url": "https://mynews13.com/fl/orlando/politics/2026/10/12/orange-county-florida-mayoral-debate-oct-14",
+              "date": "2026-10-12"
+            }
+          ]
         }
       ],
       "record": [],
@@ -259,11 +270,17 @@
       "primary_result": "Second in Aug 18 primary with 28% (45,882 votes)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Pledges to cut about $200 million a year in county programs through audits and zero-based budgeting so the county can invest without raising taxes, and possibly while cutting them.",
+          "quote": "We’ll utilize a forensic audit team, zero-based budgeting, and fiscal discipline to cut $200M/ year in programs which are unnecessary, inefficient, or both.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Orange County Mayor runoff (News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-orange-county-mayor-runoff/",
+              "date": "2026-10-16"
+            }
+          ]
         },
         "property_tax": {
           "stance": 2,
@@ -457,6 +474,17 @@
               "date": "2026-09-22"
             }
           ]
+        },
+        {
+          "title": "Budget and transit (Spectrum News 13 debate)",
+          "summary": "In the Spectrum News 13 debate, said he would eliminate redundant programs and shift Lynx toward smaller, point-to-point, on-demand buses.",
+          "sources": [
+            {
+              "title": "Orange County mayoral candidates debate the budget, Amendment 3, and affordability in Spectrum News debate (Spectrum News 13)",
+              "url": "https://mynews13.com/fl/orlando/politics/2026/10/12/orange-county-florida-mayoral-debate-oct-14",
+              "date": "2026-10-12"
+            }
+          ]
         }
       ],
       "record": [],
@@ -494,6 +522,30 @@
           "title": "Moore Russell, Messina differ sharply on property taxes, county's future",
           "url": "https://theapopkachief.com/moore-russell-messina-differ-sharply-on-property-taxes-countys-future/",
           "date": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "date": "Taped at Spectrum News 13 studios; report published 2026-10-12 (page address suggests an Oct. 14 airing)",
+      "host": "Spectrum News 13 televised debate. Held.",
+      "who": "Tiffany Moore Russell and Chris Messina",
+      "sources": [
+        {
+          "title": "Orange County mayoral candidates debate the budget, Amendment 3, and affordability in Spectrum News debate (Spectrum News 13)",
+          "url": "https://mynews13.com/fl/orlando/politics/2026/10/12/orange-county-florida-mayoral-debate-oct-14",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "host": "WFTV Channel 9 televised debate, 7 p.m., in partnership with the Orlando Economic Partnership. Scheduled.",
+      "who": "Chris Messina and Tiffany Moore Russell",
+      "sources": [
+        {
+          "title": "The Orlando Regional Perspective - October 9, 2026 (Orlando Economic Partnership)",
+          "url": "https://news.orlando.org/blog/the-orlando-regional-perspective-october-9-2026/",
+          "date": "2026-10-09"
         }
       ]
     }

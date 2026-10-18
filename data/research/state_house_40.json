@@ -294,7 +294,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Fundraising",
+          "summary": "The state campaign-finance database showed $34,456 in contributions for Young as of Oct. 6; no contribution records were listed for Le, per the guide.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Ra'Shon Young, Florida House District 40",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-rashon-young-running-for-florida-house-district-40/",
+              "date": "2026-10-12"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted against CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; because the vote sent the question to voters rather than cutting taxes itself, a vote for it is coded as leaning toward sharply reducing homestead property taxes rather than as full agreement.",
@@ -325,7 +337,18 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Orlando Sentinel editorial board",
+          "sources": [
+            {
+              "title": "Orlando Sentinel editorial board, Endorsement: RaShon Young a good fit for Florida House 40",
+              "url": "https://www.orlandosentinel.com/2026/10/07/endorsement-rashon-young-a-good-fit-for-florida-house-40/",
+              "date": "2026-10-07"
+            }
+          ]
+        }
+      ],
       "sources": [
         {
           "title": "With qualifying days away, 4 competitive House seats remain unchallenged (Florida Politics)",
@@ -396,6 +419,76 @@
               "title": "Ballotpedia Candidate Connection survey - Tuan Le (2022, congressional campaign)",
               "url": "https://ballotpedia.org/Tuan_Le",
               "date": "2022"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In an interview for the voter guide, Le said a family's first or only home should not be taxed, while rental and investment property should be.",
+          "quote": "For me, across Florida, if you have only one property, I don’t want to tax on that property.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Tuan Le, Florida House District 40",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-tuan-le-running-for-florida-house-district-40/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked about expanding Medicaid, Le focused on fraud and said the system must be cleaned up first; he did not endorse expansion.",
+          "quote": "So the most important [issue] is we have to clean the house.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Tuan Le, Florida House District 40",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-tuan-le-running-for-florida-house-district-40/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        "guns": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Le said he supports the Second Amendment and likes gun law the way it is, placing responsibility on parents to keep guns away from children.",
+          "quote": "I love it the way it is because nobody protects you better than yourself.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Tuan Le, Florida House District 40",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-tuan-le-running-for-florida-house-district-40/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Le said abortion should be allowed only for medical reasons; on VOTE411 he described himself as pro-life with exceptions for serious threats to the mother's life or health.",
+          "quote": "I am pro-life, a father and believe human life deserves protection.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Tuan Le, Florida House District 40",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-tuan-le-running-for-florida-house-district-40/",
+              "date": "2026-10-12"
+            },
+            {
+              "title": "VOTE411 (League of Women Voters) voter guide, State Representative 40 (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/m/race-detail.do?id=27129054",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "education_choice": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Le said he personally supports school choice but that public money should stay in public schools and private schools should raise their own funds from donors.",
+          "quote": "So the money have to stay in the public school.",
+          "sources": [
+            {
+              "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Tuan Le, Florida House District 40",
+              "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-tuan-le-running-for-florida-house-district-40/",
+              "date": "2026-10-12"
             }
           ]
         }

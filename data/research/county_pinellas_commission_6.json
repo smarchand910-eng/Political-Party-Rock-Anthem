@@ -351,8 +351,30 @@
           ]
         }
       ],
-      "record": [],
-      "endorsements": [],
+      "record": [
+        {
+          "item": "Oct. 13, 2026: commission voted unanimously to end the county's sexual-assault forensic exam funding agreement with Suncoast Center as of Dec. 31, shifting the service to hospitals; Peters questioned whether a workable system could be ready by Jan. 1.",
+          "sources": [
+            {
+              "title": "Pinellas ends Suncoast Center sexual assault exam deal, shifts costs to hospitals (Florida Politics; text read via site RSS feed)",
+              "url": "https://floridapolitics.com/archives/824558-pinellas-ends-suncoast-center-sexual-assault-exam-deal-shifts-costs-to-hospitals/",
+              "date": "2026-10-13"
+            }
+          ]
+        }
+      ],
+      "endorsements": [
+        {
+          "by": "Tampa Bay Times (editorial recommendation; published Oct. 1)",
+          "sources": [
+            {
+              "title": "Candidate recommendations: Pinellas County Commission (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/viewpoints/2026/10/01/times-candidate-recommendations-pinellas-commission/",
+              "date": "2026-10-01"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

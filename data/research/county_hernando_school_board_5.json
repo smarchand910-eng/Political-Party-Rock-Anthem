@@ -97,7 +97,7 @@
       "id": "susan_duval",
       "name": "Susan Duval",
       "party": "Nonpartisan",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": "assets/photos/susan_duval.jpg",
       "photo_source": "Ballotpedia candidate photo (downloaded copy in assets/photos)",
       "website": null,

@@ -704,6 +704,16 @@
               "date": "2026-09-25"
             }
           ]
+        },
+        {
+          "item": "Co-signed the Moody-Buchanan letter asking the Department of War to increase Florida's National Guard allocation after Hurricane Isaias.",
+          "sources": [
+            {
+              "title": "In Aftermath of Isaias, Senator Moody Calls for Increase in Total Allocation for Florida National Guard to Better Protect Floridians",
+              "url": "https://www.moody.senate.gov/press-releases/in-aftermath-of-isaias-senator-moody-calls-for-increase-in-total-allocation-for-florida-national-guard-to-better-protect-floridians/",
+              "date": "2026-10-14"
+            }
+          ]
         }
       ],
       "endorsements": [],
@@ -1096,6 +1106,16 @@
               "date": "2026-09-21"
             }
           ]
+        },
+        {
+          "by": "The Steady State (network of former national-security officials)",
+          "sources": [
+            {
+              "title": "More former national security officials back Phil Ehr against Carlos Giménez in CD 28",
+              "url": "https://floridapolitics.com/archives/823772-more-former-national-security-officials-back-phil-ehr-against-carlos-gimenez-in-cd-28/",
+              "date": "2026-10-07"
+            }
+          ]
         }
       ]
     },
@@ -1319,25 +1339,14 @@
   ],
   "events": [
     {
-      "date": "",
-      "host": "Two debates proposed by Phil Ehr, one in Miami-Dade County and one in Monroe County, to be hosted by independent media or civic groups and televised or streamed; replies requested by 5 p.m. Friday, Sept. 25",
-      "who": "Invitation issued 2026-09-22; no acceptance reported as of 2 · Phil Ehr (inviting), Carlos Gimenez, Eddy Rojas",
+      "date": "None",
+      "host": "Ehr's Sept. 22 proposal for two debates (Miami-Dade and Monroe) remains unanswered as of Oct. 17. No debate.",
+      "who": "Carlos Giménez (R), Phil Ehr (D), Eddy Rojas (NPA) invited",
       "sources": [
         {
-          "title": "Phil Ehr challenges Carlos Gimenez, Eddy Rojas to CD 28 debates amid statewide debate drought",
-          "url": "https://floridapolitics.com/archives/821220-phil-ehr-challenges-carlos-gimenez-eddy-rojas-to-cd-28-debates-amid-statewide-debate-drought/",
-          "date": "2026-09-22"
-        }
-      ]
-    },
-    {
-      "host": "Two debates proposed by Phil Ehr on Sept. 22, one in Miami-Dade and one in Monroe County, with replies requested by Sept. 25. No acceptance by Gimenez or Rojas has been reported, and Roll Call's Oct. 1 round-up listed no FL-28 debate. (No acceptance reported - unchanged (checked 2026-10-07))",
-      "who": "Phil Ehr (D) inviting; Carlos Gimenez (R), Eddy Rojas (NPA)",
-      "sources": [
-        {
-          "title": "At the Races: Debate demands and dodges (Roll Call)",
-          "url": "https://rollcall.com/2026/10/01/at-the-races-debate-demands-and-dodges/",
-          "date": "2026-10-01"
+          "title": "Giménez, Ehr, Rojas Race for Florida District 28 Seat",
+          "url": "https://hoodline.com/2026/10/gimenez-faces-two-challengers-in-florida-s-district-28-race-debate-offer-unanswered/",
+          "date": "2026-10-17"
         }
       ]
     }

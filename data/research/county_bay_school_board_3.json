@@ -120,7 +120,7 @@
       "id": "chris_moore",
       "name": "Chris Moore",
       "party": "Nonpartisan",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
       "website": null,

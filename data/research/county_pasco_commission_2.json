@@ -417,7 +417,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Housing and transparency proposals",
+          "summary": "Proposes a county rule requiring larger developments to include affordable homes, repeal or major reform of the Live Local Act, evening commission meetings and a Resident Growth Advisory Council; says the county should cut waste before raising taxes. Weightman did not answer the Hernando Sun's questions.",
+          "sources": [
+            {
+              "title": "Pasco BOCC Candidate Q+A District 2 (Hernando Sun; full text read via the site's RSS feed because the article page blocks automated access)",
+              "url": "https://www.hernandosun.com/2026/10/16/pasco-bocc-candidate-qa-district-2/",
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "sources": [
