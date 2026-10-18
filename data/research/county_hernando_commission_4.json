@@ -26,11 +26,17 @@
       "primary_result": "Won Aug 18 Republican primary with 59.07% (13,139) over Marvin Baynham 40.93% (9,103) (Hernando Sun)",
       "positions": {
         "taxes": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Holcomb said the county budget has grown 84% since he left the commission and must come down, with a focus on property-tax and fee cuts, though he also said the county should be 'conservative, but not a cheap county' in investing in infrastructure.",
+          "quote": "We must bring these numbers down and focus on property tax cuts as well as cuts to other fees.",
+          "sources": [
+            {
+              "title": "Hernando County Commission District 4 Candidate Q&A (Hernando Sun)",
+              "url": "https://www.hernandosun.com/2026/07/30/hernando-county-commission-district-4-candidate-qa/",
+              "date": "2026-07-30"
+            }
+          ]
         },
         "property_tax": {
           "stance": 1,
@@ -180,11 +186,17 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Holcomb said he would propose an ordinance increasing fines and penalties for developers who do not follow rules on site entry, dust mitigation and burning permits, so new projects do not cost neighbors sleep or money.",
+          "quote": "I plan to bring up an ordinance to add increased fines and penalties for all developers that build in Hernando County.",
+          "sources": [
+            {
+              "title": "Hernando County Commission District 4 Candidate Q&A (Hernando Sun)",
+              "url": "https://www.hernandosun.com/2026/07/30/hernando-county-commission-district-4-candidate-qa/",
+              "date": "2026-07-30"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,

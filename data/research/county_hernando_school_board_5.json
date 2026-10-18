@@ -64,6 +64,19 @@
               "date": "2026-07-27"
             }
           ]
+        },
+        "school_books": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Asked about library and curriculum material, Champion said inappropriate material is being addressed by the board's more recent members, and that children should have books that inspire creativity but are appropriate for their age.",
+          "quote": "The inappropriate material in the school libraries thankfully is being addressed by the more recent school board members.",
+          "sources": [
+            {
+              "title": "Hernando School Board District 5 Candidate Q&A (Hernando Sun)",
+              "url": "https://www.hernandosun.com/2026/07/24/hernando-school-board-district-5-candidate-qa/",
+              "date": "2026-07-24"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -124,6 +137,19 @@
               "title": "Board approves three new charter schools (Tampa Bay Beacons / Hernando Today)",
               "url": "https://www.tampabaybeacons.com/2026/06/08/board-approves-three-new-charter-schools/",
               "date": "2026-06-08"
+            }
+          ]
+        },
+        "school_books": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked about the book and curriculum controversy, Duval said it reflected 'self promoting politics' and that the board handled every concern under its existing review policies. (In May 2023 she voted with a unanimous board to remove one challenged book while noting the review committee had found it appropriate.)",
+          "quote": "My take on the controversy regarding books and curriculum is that it demonstrated a view of self promoting politics.",
+          "sources": [
+            {
+              "title": "Hernando School Board District 5 Candidate Q&A (Hernando Sun)",
+              "url": "https://www.hernandosun.com/2026/07/24/hernando-school-board-district-5-candidate-qa/",
+              "date": "2026-07-24"
             }
           ]
         }

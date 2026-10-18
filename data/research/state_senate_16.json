@@ -485,7 +485,18 @@
           ]
         }
       ],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Sierra Club Florida",
+          "sources": [
+            {
+              "title": "Sierra Club Florida Political Endorsements (Sierra Club Florida chapter page; undated; accessed 2026-10-18)",
+              "url": "https://www.sierraclub.org/florida/florida-sierra-club-political-endorsements",
+              "date": "2026-10-18"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",
