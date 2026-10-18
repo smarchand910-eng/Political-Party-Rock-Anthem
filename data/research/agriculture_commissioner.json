@@ -506,6 +506,17 @@
               "date": "2026-09-22"
             }
           ]
+        },
+        {
+          "title": "Poll released since Oct. 6",
+          "summary": "James Madison Institute/Targoz (Sept. 28-Oct. 4): Simpson 50%, Atkins 39% among likely voters, 8% undecided.",
+          "sources": [
+            {
+              "title": "Byron Donalds 52%, David Jolly 42% in JMI poll as Blaise Ingoglia and Annette Taddeo tie at 43% (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824045-byron-donalds-52-david-jolly-42-in-jmi-poll-as-blaise-ingoglia-and-annette-taddeo-tie-at-43/",
+              "date": "2026-10-09"
+            }
+          ]
         }
       ],
       "record": [
@@ -683,6 +694,26 @@
               "date": "2026-10-01"
             }
           ]
+        },
+        {
+          "item": "Hurricane Isaias: opened the Agriculture and Aquaculture Producers Natural Disaster Recovery Loan Program to affected producers in 30 counties, offering interest-free loans of up to $500,000 to repair or replace damaged property, remove debris or restock aquaculture.",
+          "sources": [
+            {
+              "title": "Commissioner Wilton Simpson Launches Loan Program for Florida Farmers Impacted by Hurricane Isaias (FDACS)",
+              "url": "https://www.fdacs.gov/News-Events/Press-Releases/2026-Press-Releases/Commissioner-Wilton-Simpson-Launches-Loan-Program-for-Florida-Farmers-Impacted-by-Hurricane-Isaias",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "item": "Announced conservation easements permanently protecting nearly 1,500 acres on two ranches inside the Florida Wildlife Corridor through the Rural and Family Lands Protection Program.",
+          "sources": [
+            {
+              "title": "Commissioner Wilton Simpson Announces Permanent Protection of Two Florida Ranches Through Rural and Family Lands Protection Program (FDACS)",
+              "url": "https://www.fdacs.gov/News-Events/Press-Releases/2026-Press-Releases/Commissioner-Wilton-Simpson-Announces-Permanent-Protection-of-Two-Florida-Ranches-Through-Rural-and-Family-Lands-Protection-Program",
+              "date": "2026-10-16"
+            }
+          ]
         }
       ],
       "endorsements": [
@@ -748,6 +779,16 @@
               "title": "DeSantis endorses Donalds for Florida governor despite past tensions - WLRN",
               "url": "https://www.wlrn.org/government-politics/2026-09-03/desantis-endorses-donalds-florida-governor-despite-past-tensions",
               "date": "2026-09-03"
+            }
+          ]
+        },
+        {
+          "by": "Palm Beach Post Editorial Board",
+          "sources": [
+            {
+              "title": "Post backs Jolly, Rodriguez, Taddeo and Simpson | Endorsement (Palm Beach Post, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/post-backs-jolly-rodriguez-taddeo-193827006.html",
+              "date": "2026-10-16"
             }
           ]
         }
@@ -1136,7 +1177,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or forum has been scheduled in this race (checked Oct. 7, 2026)",
+      "host": "No debate or forum has been scheduled in this race (checked Oct. 17, 2026)",
       "who": "No agriculture commissioner debate or joint forum between Simpson and Atkins has been scheduled; none was found newly agreed through Oct. 7, 2026.",
       "sources": [
         {

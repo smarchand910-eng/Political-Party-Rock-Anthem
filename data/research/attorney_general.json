@@ -514,6 +514,22 @@
               "date": "2026-09-22"
             }
           ]
+        },
+        {
+          "title": "Polls released since Oct. 6",
+          "summary": "St. Pete Polls for Florida Politics (Oct. 5-7): Uthmeier 45%, Rodríguez 43%, 12% undecided. James Madison Institute/Targoz (Sept. 28-Oct. 4): Uthmeier 50%, Rodríguez 40% among likely voters.",
+          "sources": [
+            {
+              "title": "Republicans hold 2-point edges in Cabinet races: James Uthmeier 45%-43% over José Javier Rodríguez, Blaise Ingoglia 44%-42% over Annette Taddeo (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823945-republicans-hold-2-point-edges-in-cabinet-races-james-uthmeier-45-43-over-jose-javier-rodriguez-blaise-ingoglia-44-42-over-annette-taddeo/",
+              "date": "2026-10-08"
+            },
+            {
+              "title": "Byron Donalds 52%, David Jolly 42% in JMI poll as Blaise Ingoglia and Annette Taddeo tie at 43% (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824045-byron-donalds-52-david-jolly-42-in-jmi-poll-as-blaise-ingoglia-and-annette-taddeo-tie-at-43/",
+              "date": "2026-10-09"
+            }
+          ]
         }
       ],
       "record": [
@@ -807,6 +823,96 @@
               "title": "Attorney General James Uthmeier Files Lawsuit Against TP-Link Systems (news release index)",
               "url": "https://www.myfloridalegal.com/newsreleases",
               "date": "2026-10-06"
+            }
+          ]
+        },
+        {
+          "item": "Hurricane Isaias: opened the state price-gouging reporting form/hotline after the Oct. 7 emergency declaration, and after landfall warned of repair and text-message scams, saying violations carry penalties of up to $25,000 per day.",
+          "sources": [
+            {
+              "title": "Florida price gouging hotline activated ahead of Tropical Storm Isaias (News4JAX)",
+              "url": "https://www.news4jax.com/news/local/2026/10/07/florida-price-gouging-hotline-activated-ahead-of-tropical-storm-isaias/",
+              "date": "2026-10-07"
+            },
+            {
+              "title": "Florida officials warn of price gouging, repair scams after Hurricane Isaias (News4JAX)",
+              "url": "https://www.news4jax.com/money/2026/10/10/florida-attorney-general-warns-of-price-gouging-repair-scams-after-hurricane-isaias/",
+              "date": "2026-10-10"
+            }
+          ]
+        },
+        {
+          "item": "Filed an 85-page motion for a temporary injunction against Meta in Pasco County, seeking age verification, removal of users under 14 and an end to 'addictive' features; Florida had declined to join the multistate settlement.",
+          "sources": [
+            {
+              "title": "Florida taking next step against Instagram after rejecting nationwide settlement (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/10/08/florida-taking-next-step-against-instagram-after-rejecting-nationwide-settlement/",
+              "date": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "item": "Sued router maker TP-Link in Polk County, alleging it misled consumers about its products' security and ties to China.",
+          "sources": [
+            {
+              "title": "Takeaways from Tallahassee — The first of many (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824087-takeaways-from-tallahassee-the-first-of-many/",
+              "date": "2026-10-10"
+            }
+          ]
+        },
+        {
+          "item": "Said he will investigate Broward County Public Schools' laptop-contract bidding after a county inspector general report.",
+          "sources": [
+            {
+              "title": "James Uthmeier plans Broward Schools probe after watchdog flags contract-bidding failures (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824219-james-uthmeier-plans-broward-schools-probe-after-watchdog-flags-contract-bidding-failures/",
+              "date": "2026-10-09"
+            }
+          ]
+        },
+        {
+          "item": "Announced 20+ arrests in a multicounty drug-trafficking case (Oct. 13), prison sentences for three men convicted of child-pornography charges (Oct. 14), and the official-misconduct conviction of former Fort Pierce City Manager Nick Mimms, crediting his new Public Integrity Unit (Oct. 14).",
+          "sources": [
+            {
+              "title": "James Uthmeier details crackdown on suspected multicounty drug trafficking ring (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824699-james-uthmeier-details-crackdown-on-suspected-multicounty-drug-trafficking-ring/",
+              "date": "2026-10-13"
+            },
+            {
+              "title": "James Uthmeier announces sentences for 3 found guilty of child pornography charges (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824946-james-uthmeier-announces-sentences-for-3-found-guilty-of-child-pornography-charges/",
+              "date": "2026-10-14"
+            },
+            {
+              "title": "James Uthmeier praises new Public Integrity Unit after conviction of former Fort Pierce City Manager Nick Mimms (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824858-james-uthmeier-praises-new-public-integrity-unit-for-conviction-of-former-fort-pierce-city-manager-nick-mimms/",
+              "date": "2026-10-14"
+            }
+          ]
+        },
+        {
+          "item": "Sued Discord in Glades County, alleging it deceived parents about safety and failed to verify ages or protect minors from predators.",
+          "sources": [
+            {
+              "title": "James Uthmeier sues Discord, alleging messaging platform fails to protect children from predators (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/825121-james-uthmeier-sues-discord-alleging-messaging-platform-fails-to-protect-children-from-predators/",
+              "date": "2026-10-15"
+            },
+            {
+              "title": "Attorney General James Uthmeier Files Lawsuit Against Discord for Deceiving Florida Families and Exposing Children to Predators (Office of the Attorney General; accessed 2026-10-17)",
+              "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-lawsuit-against-discord-deceiving-florida",
+              "date": "2026-10-15"
+            }
+          ]
+        },
+        {
+          "item": "Issued a civil investigative subpoena to Performance Food Group, expanding an investigation into potassium bromate in Florida's food supply.",
+          "sources": [
+            {
+              "title": "Attorney General James Uthmeier Expands Investigation into Possible Cancer-Causing Agent Potassium Bromate in Food Supply (Office of the Attorney General)",
+              "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-expands-investigation-possible-cancer-causing-agent",
+              "date": "2026-10-16"
             }
           ]
         }
@@ -1348,6 +1454,17 @@
               "date": "2026-09-20"
             }
           ]
+        },
+        {
+          "title": "National Democratic spending",
+          "summary": "The Florida Phoenix reported that the Democratic Attorneys General Association announced a $5 million investment in Rodríguez's campaign in the week before Oct. 14.",
+          "sources": [
+            {
+              "title": "Democratic Governors Association expands its map, but not yet to Florida (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/10/14/democratic-governors-association-expands-its-map-but-not-yet-to-florida/",
+              "date": "2026-10-14"
+            }
+          ]
         }
       ],
       "record": [
@@ -1522,6 +1639,46 @@
               "date": "2026-08"
             }
           ]
+        },
+        {
+          "by": "Palm Beach Post Editorial Board",
+          "sources": [
+            {
+              "title": "Post backs Jolly, Rodriguez, Taddeo and Simpson | Endorsement (Palm Beach Post, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/post-backs-jolly-rodriguez-taddeo-193827006.html",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "by": "The Bradenton Times (editorial recommendation)",
+          "sources": [
+            {
+              "title": "For Florida Attorney General, we recommend José Javier Rodríguez (The Bradenton Times)",
+              "url": "https://thebradentontimes.com/stories/for-florida-attorney-general-we-recommend-jos-javier-rodrguez,216318",
+              "date": "2026-10-13"
+            }
+          ]
+        },
+        {
+          "by": "Leon County Sheriff Walt McNeil",
+          "sources": [
+            {
+              "title": "Leon Sheriff Walt McNeil endorses José Javier Rodríguez for Attorney General (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823826-leon-sheriff-walt-mcneil-endorses-jose-javier-rodriguez-for-attorney-general/",
+              "date": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "by": "Florida Planned Parenthood PAC",
+          "sources": [
+            {
+              "title": "Florida Planned Parenthood PAC backs Democrats to fight for abortion rights (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824483-florida-planned-parenthood-pac-backs-democrats-to-fight-for-abortion-rights/",
+              "date": "2026-10-12"
+            }
+          ]
         }
       ]
     }
@@ -1546,7 +1703,7 @@
     },
     {
       "date": "",
-      "host": "No debate or forum has been scheduled in this race (checked Oct. 7, 2026)",
+      "host": "No debate or forum has been scheduled in this race (checked Oct. 17, 2026)",
       "who": "Uthmeier never answered Rodriguez's Sept. 20 challenge to a student-run debate at the University of Florida and no attorney general debate has been scheduled. Rodriguez went on the air with a statewide ad campaign on Sept. 27 instead.",
       "sources": [
         {

@@ -164,6 +164,27 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "date": "2026-10-17",
+          "item": "WUSF/WLRN reported Oct. 15 that Byron Donalds opposes it (per a campaign spokesperson) and David Jolly supports it with guardrails. The Republican Party of Florida supports it and Gov. DeSantis opposes it. The Miami-Dade and Palm Beach County Democratic parties recommend a no vote; Palm Beach Democrats' $16.4 billion figure is the party's own estimate, not an official one. No new lawsuit, organized campaign committee or official fiscal analysis found. A Tampa Bay Times editorial titled 'How to vote on Florida's constitutional amendments' ran Oct. 8, but its recommendations sit behind a paywall and could not be read.",
+          "sources": [
+            {
+              "title": "What Florida voters need to know about Amendments 1 and 2 (WUSF/WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-15/what-florida-voters-need-to-know-about-amendments-1-and-2",
+              "date": "2026-10-15"
+            },
+            {
+              "title": "Amendment 1 scrambles traditional partisan lines, pitting David Jolly and the Florida GOP against Ron DeSantis (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823095-a1-jolly-floridagop-desantis/",
+              "date": "2026-10-03"
+            },
+            {
+              "title": "How to vote on Florida's constitutional amendments | Opinion (Tampa Bay Times; body paywalled, headline and byline read)",
+              "url": "https://www.tampabay.com/viewpoints/2026/10/08/florida-homestead-exemption-property-taxes/",
+              "date": "2026-10-08"
+            }
+          ]
         }
       ]
     },
@@ -311,6 +332,17 @@
               "title": "Here's what to know about Florida's newest amendment proposals",
               "url": "https://www.clickorlando.com/news/florida/2026/10/02/heres-what-to-know-about-floridas-newest-amendment-proposals/",
               "date": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-17",
+          "item": "WUSF/WLRN reported Oct. 15 that a legislative analysis estimates about $31 million a year less local property-tax revenue starting in FY 2027-28. Sponsor Sen. Keith Truenow supports it; the Hillsborough County Democratic Party opposes it. No new lawsuit, organized committee or new official fiscal analysis found.",
+          "sources": [
+            {
+              "title": "What Florida voters need to know about Amendments 1 and 2 (WUSF/WLRN)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-15/what-florida-voters-need-to-know-about-amendments-1-and-2",
+              "date": "2026-10-15"
             }
           ]
         }
@@ -806,6 +838,57 @@
               "title": "Donalds vs. Jolly: Where Florida's governor candidates stand on AI, data centers and Amendment 3",
               "url": "https://www.news4jax.com/news/politics/2026/10/06/jolly-vs-donalds-where-floridas-governor-candidates-stand-on-ai-data-centers-and-amendment-3/",
               "date": "2026-10-06"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-17",
+          "item": "(1) Money: the National Association of Realtors gave $2,016,500 on Oct. 9, bringing the Vote Yes on 3 committee to $21.5 million (all earlier money came from Florida Realtors). The two opposing committees reported $537,357 combined through Sept. 25. (2) Polls: St. Pete Polls (Oct. 5-7) 42% yes; Mason-Dixon (Sept. 28-Oct. 1) 55%; JMI (Sept. 28-Oct. 4) 63% of likely voters; McLaughlin for Associated Industries of Florida (Sept. 28-Oct. 1, released ~Oct. 13) 53%; Stetson (Oct. 1-9) 56% yes, 21% no; EDGE/MDW (Oct. 4-10) 50%. Passage needs 60%. (3) Candidates: Donalds still backs it but said courts may strike the five-year waiting period for new residents; Jolly opposes it. (4) Fiscal estimate unchanged: state economists project $4.95 billion less local non-school revenue in FY 2027-28, rising to $11.86 billion a year. No new lawsuit found since Oct. 6; the earlier ballot-language case ended with the attorney general rewriting the language in August under court order. Opposition continues from the Florida Sheriffs Association, FOP, Professional Firefighters, Florida TaxWatch and local business groups.",
+          "sources": [
+            {
+              "title": "National Association of Realtors helps push pro-Amendment 3 committee over $21M raised (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/825457-national-association-of-realtors-helps-push-amendment-3-committee-over-21m-raised/",
+              "date": "2026-10-17"
+            },
+            {
+              "title": "Going the wrong way: Amendment 3's $250K homestead exemption slips to 42% support, 18 points shy of passage (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823931-going-the-wrong-way-amendment-3s-250000-homestead-exemption-slips-to-42-support-18-points-shy-of-passage/",
+              "date": "2026-10-08"
+            },
+            {
+              "title": "Byron Donalds 52%, David Jolly 42% in JMI poll as Blaise Ingoglia and Annette Taddeo tie at 43% (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824045-byron-donalds-52-david-jolly-42-in-jmi-poll-as-blaise-ingoglia-and-annette-taddeo-tie-at-43/",
+              "date": "2026-10-09"
+            },
+            {
+              "title": "Amendment 3 support insufficient among informed voters, AIF-commissioned poll finds (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824767-amendment-3-support-insufficient-among-informed-voters-aif-commissioned-poll-finds/",
+              "date": "2026-10-14"
+            },
+            {
+              "title": "Stetson University poll shows support for Amendment 3 short of passage threshold (WFTV)",
+              "url": "https://www.wftv.com/news/local/stetson-university-poll-shows-support-amendment-3-short-passage-threshold/VKTEZZNL5FGJJC7GQUVNUGEO7A/",
+              "date": "2026-10-14"
+            },
+            {
+              "title": "Poll: Amendment 3's fate rides on undecided voters as support sits at 50% (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824892-poll-amendment-3s-fate-rides-on-undecided-voters-as-support-sits-at-50/",
+              "date": "2026-10-14"
+            },
+            {
+              "title": "Realtor.com economist's price warning complicates Florida Realtors' affordability case for Amendment 3 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824765-realtor-com-economists-price-warning-complicates-florida-realtors-affordability-case-for-amendment-3/",
+              "date": "2026-10-13"
+            },
+            {
+              "title": "Byron Donalds wants to move beyond 'one size fits all' property tax system (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824935-donalds-one-size-fits-all/",
+              "date": "2026-10-14"
+            },
+            {
+              "title": "With Election Day Looming, Polls Differ on Florida Property Tax Cut Amendment (RISMedia)",
+              "url": "https://www.rismedia.com/2026/10/14/election-day-looming-polls-differ-florida-property-tax-cut-amendment/",
+              "date": "2026-10-14"
             }
           ]
         }

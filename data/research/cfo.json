@@ -501,6 +501,33 @@
               "date": "2026-09-22"
             }
           ]
+        },
+        {
+          "title": "Insurer payments to affiliated companies",
+          "summary": "Responding to newspaper reporting on a state-commissioned analysis, Ingoglia said there should be more transparency in payments between property insurers and their affiliated companies, and noted he had backed affiliate-oversight legislation as a state senator.",
+          "sources": [
+            {
+              "title": "Ingoglia seeks 'transparency' on property insurance payments to affiliates (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2026/10/07/ingoglia-seeks-transparency-on-property-insurance-payments-to-affiliates/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "title": "Polls released since Oct. 6",
+          "summary": "St. Pete Polls for Florida Politics (Oct. 5-7): Ingoglia 44%, Taddeo 42%, 14% undecided. James Madison Institute/Targoz (Sept. 28-Oct. 4): 43%-43% among likely voters, 10% undecided.",
+          "sources": [
+            {
+              "title": "Republicans hold 2-point edges in Cabinet races: James Uthmeier 45%-43% over José Javier Rodríguez, Blaise Ingoglia 44%-42% over Annette Taddeo (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823945-republicans-hold-2-point-edges-in-cabinet-races-james-uthmeier-45-43-over-jose-javier-rodriguez-blaise-ingoglia-44-42-over-annette-taddeo/",
+              "date": "2026-10-08"
+            },
+            {
+              "title": "Byron Donalds 52%, David Jolly 42% in JMI poll as Blaise Ingoglia and Annette Taddeo tie at 43% (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824045-byron-donalds-52-david-jolly-42-in-jmi-poll-as-blaise-ingoglia-and-annette-taddeo-tie-at-43/",
+              "date": "2026-10-09"
+            }
+          ]
         }
       ],
       "record": [
@@ -706,6 +733,36 @@
               "title": "Chief Financial Officer and State Fire Marshal Blaise Ingoglia Highlights 2026 Fire Prevention Week",
               "url": "https://myfloridacfo.com/news/pressreleases/press-release-details/2026/10/05/chief-financial-officer-and-state-fire-marshal-blaise-ingoglia-highlights-2026-fire-prevention-week---charge-into-fire-safety.-safe-charging-is-a-superpower",
               "date": "2026-10-05"
+            }
+          ]
+        },
+        {
+          "item": "Hurricane Isaias: before landfall, sent property insurers a letter asking them to staff post-storm insurance assistance hubs and urged EV owners to move vehicles out of flood zones; after landfall, opened two Insurance Assistance Hubs within 48 hours (the first in Destin), deployed three Disaster Fraud Action Strike Teams, coordinated urban search-and-rescue teams, and toured damage in Washington, Holmes and Escambia counties.",
+          "sources": [
+            {
+              "title": "Chief Financial Officer and State Fire Marshal Blaise Ingoglia Shares Hurricane Isaias Preparedness Efforts from the Florida Department of Financial Services (DFS)",
+              "url": "https://myfloridacfo.com/news/pressreleases/press-release-details/2026/10/09/chief-financial-officer-and-state-fire-marshal-blaise-ingoglia-shares-hurricane-isaias-preparedness-efforts-from-the-florida-department-of-financial-services",
+              "date": "2026-10-09"
+            },
+            {
+              "title": "Blaise Ingoglia puts insurance companies on notice ahead of Hurricane Isaias, plans to open post-storm 'insurance hubs' (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824161-blaise-ingoglia-puts-insurance-companies-on-notice-ahead-of-hurricane-isaias-plans-to-open-post-storm-insurance-hubs/",
+              "date": "2026-10-09"
+            },
+            {
+              "title": "Chief Financial Officer Blaise Ingoglia Opens First Insurance Assistance Hub Following Hurricane Isaias (Florida Department of Financial Services)",
+              "url": "http://myfloridacfo.com/news/pressreleases/press-release-details/2026/10/11/chief-financial-officer-blaise-ingoglia-opens-first-insurance-assistance-hub-following-hurricane-isaias",
+              "date": "2026-10-11"
+            },
+            {
+              "title": "Chief Financial Officer and State Fire Marshal Blaise Ingoglia Shares Hurricane Isaias Response Efforts from the Florida Department of Financial Services (DFS)",
+              "url": "http://myfloridacfo.com/news/pressreleases/press-release-details/2026/10/13/chief-financial-officer-and-state-fire-marshal-blaise-ingoglia-shares-hurricane-isaias-response-efforts-from-the-florida-department-of-financial-services",
+              "date": "2026-10-13"
+            },
+            {
+              "title": "PHOTO RELEASE: Chief Financial Officer and State Fire Marshal Blaise Ingoglia Visits Washington, Holmes, and Escambia Counties Following Hurricane Isaias (DFS)",
+              "url": "https://myfloridacfo.com/news/pressreleases/press-release-details/2026/10/12/photo-release--chief-financial-officer-and-state-fire-marshal-blaise-ingoglia-visits-washington--holmes-and-escambia-counties-following-hurricane-isaias",
+              "date": "2026-10-12"
             }
           ]
         }
@@ -967,11 +1024,22 @@
           "sources": []
         },
         "environment": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Taddeo said growth from energy-intensive industries such as AI and data centers should not come at the expense of the state's water, energy resources or communities, in a statement accepting a youth climate group's endorsement.",
+          "quote": "we need to make sure growth does not come at the expense of our water, energy resources, or communities.",
+          "sources": [
+            {
+              "title": "'Climate champion' Annette Taddeo adds endorsement from youth-led Florida eco group (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823705-climate-champion-annette-taddeo-adds-endorsement-from-youth-led-florida-eco-group/",
+              "date": "2026-10-07"
+            },
+            {
+              "title": "Climate Organization genCLEO Endorses Annette Tadeo For CFO (The Floridian)",
+              "url": "https://floridianpress.com/2026/10/climate-organization-gencleo-endorses-annette-tadeo-for-cfo/",
+              "date": "2026-10-07"
+            }
+          ]
         },
         "growth": {
           "stance": null,
@@ -1173,6 +1241,28 @@
               "date": "2026-09-22"
             }
           ]
+        },
+        {
+          "title": "New digital ad 'Enough'",
+          "summary": "Taddeo released a 30-second digital ad using AI-generated imagery that criticizes Ingoglia over insurer reinsurance funding and the Hope Florida matter; in it she says she would lower insurance rates. Florida Politics notes Ingoglia voted for the $1 billion reinsurance set-aside and that the Hope Florida transfer predates his time as CFO.",
+          "sources": [
+            {
+              "title": "Annette Taddeo targets Blaise Ingoglia with corruption claims in new ad for CFO race (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/824263-annette-taddeo-targets-blaise-ingoglia-with-corruption-claims-in-new-ad-for-cfo-race/",
+              "date": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "title": "Statewide campaign swing Oct. 15-18",
+          "summary": "Taddeo announced eight stops from Sarasota and The Villages to Orlando and South Florida, including a UCF candidates' forum with Rep. Maxwell Frost, Rep. Anna Eskamani and Lt. Gov. nominee Gwen Graham.",
+          "sources": [
+            {
+              "title": "Annette Taddeo plans 8-stop campaign swing with Maxwell Frost, Angie Nixon, Gwen Graham (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/825156-annette-taddeo-plans-8-stop-campaign-swing-with-maxwell-frost-angie-nixon-gwen-graham/",
+              "date": "2026-10-15"
+            }
+          ]
         }
       ],
       "record": [
@@ -1357,6 +1447,26 @@
               "date": "2026-09-15"
             }
           ]
+        },
+        {
+          "by": "Palm Beach Post Editorial Board",
+          "sources": [
+            {
+              "title": "Post backs Jolly, Rodriguez, Taddeo and Simpson | Endorsement (Palm Beach Post, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/post-backs-jolly-rodriguez-taddeo-193827006.html",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "by": "genCLEO Action (youth-led climate group)",
+          "sources": [
+            {
+              "title": "'Climate champion' Annette Taddeo adds endorsement from youth-led Florida eco group (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823705-climate-champion-annette-taddeo-adds-endorsement-from-youth-led-florida-eco-group/",
+              "date": "2026-10-07"
+            }
+          ]
         }
       ]
     }
@@ -1364,7 +1474,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or forum has been scheduled in this race (checked Oct. 7, 2026)",
+      "host": "No debate or forum has been scheduled in this race (checked Oct. 17, 2026)",
       "who": "No CFO debate or joint forum between Ingoglia and Taddeo has been scheduled; none was found newly agreed through Oct. 7, 2026.",
       "sources": [
         {
