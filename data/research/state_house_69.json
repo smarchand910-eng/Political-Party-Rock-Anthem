@@ -594,6 +594,24 @@
               "date": "2026-09-25"
             }
           ]
+        },
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Wants laws requiring insurers to answer claims within 30 days, legislative approval of rate increases and big penalties for bad-faith denials; says the state should regulate and subsidize more.",
+          "quote": "I will fight to pass legislation that would require insurance companies to respond to claims within 30 days, require legislative approval for rate increases",
+          "sources": [
+            {
+              "title": "Ballotpedia: Ashley Herrmann - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/Ashley_Herrmann",
+              "date": "2026-10-18"
+            },
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Ashley Elizabeth Herrmann, State Representative 69 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940666",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -660,7 +678,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

@@ -41,11 +41,16 @@
       ],
       "positions": {
         "property_tax": {
-          "stance": 2,
+          "stance": 0,
           "confidence": "record",
-          "summary": "Voted yes on HJR 1-F in the June 2026 special session, which placed Amendment 3 on the November ballot to raise the homestead exemption for non-school property taxes to $150,000 in 2027 and $250,000 in 2028 and to limit how counties and cities may spend property-tax revenue.",
-          "quote": "",
+          "summary": "Mixed. Nix voted for HJR 1-F in the June 2026 special session, which put Amendment 3 on the ballot. At an October 2026 North Port event he said the amendment shifts costs to fees rather than cutting taxes, raised concerns about first responders and local bond ratings, and would not tell voters how to vote on it.",
+          "quote": "There’s never been a tax cut I didn’t love. But this isn’t a tax cut. It’s tax shift.",
           "sources": [
+            {
+              "title": "Danny Nix, others talk property tax reform: 'eyes wide opened, be prepared' (yoursun.com)",
+              "url": "https://www.yoursun.com/northport/news/danny-nix-others-talk-property-tax-reform-eyes-wide-opened-be-prepared/article_a9d47293-d780-495b-9f93-cc5e39d8b164.html",
+              "date": "2026-10-04"
+            },
             {
               "title": "Florida House roll-call vote, CS/HJR 1F (Save our Homes from Excessive Property Taxes), passage 75-26",
               "url": "https://www.flhouse.gov/Sections/Bills/floorvote.aspx?VoteId=25213&BillId=84452",
@@ -128,7 +133,30 @@
           ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Data centers and growth",
+          "summary": "Told the Sun editorial board he is not very concerned about data centers, that Charlotte County could find land for them west of I-75 with some parameters, and that builders must have water capacity before building.",
+          "sources": [
+            {
+              "title": "EDITORIAL: Nix faces Butler in fight for House seat (The Daily Sun / yoursun.com)",
+              "url": "https://www.yoursun.com/charlotte/opinion/editorials/editorial-nix-faces-butler-in-fight-for-house-seat/article_4f393c21-917f-4727-a294-c51377417552.html",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "title": "Campaign money",
+          "summary": "The Sun reported Nix had about $124,000 in campaign donations to Butler's nearly $5,000.",
+          "sources": [
+            {
+              "title": "EDITORIAL: Nix faces Butler in fight for House seat (The Daily Sun / yoursun.com)",
+              "url": "https://www.yoursun.com/charlotte/opinion/editorials/editorial-nix-faces-butler-in-fight-for-house-seat/article_4f393c21-917f-4727-a294-c51377417552.html",
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted yes on CS/HJR 1F (homestead property-tax exemption increase / Amendment 3), House passage 75-26, June 2, 2026.",
@@ -222,7 +250,28 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "Chief Executive Officers of Management Companies (CEOMC), trade group for Florida community association managers",
+          "sources": [
+            {
+              "title": "Community association managers back Byron Donalds, Blaise Ingoglia in group's first statewide endorsements (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823217-community-association-managers-back-byron-donalds-blaise-ingoglia-in-groups-first-statewide-endorsements/",
+              "date": "2026-10-05"
+            }
+          ]
+        },
+        {
+          "by": "The Daily Sun (Charlotte Sun) editorial board",
+          "sources": [
+            {
+              "title": "EDITORIAL: Nix faces Butler in fight for House seat (The Daily Sun / yoursun.com)",
+              "url": "https://www.yoursun.com/charlotte/opinion/editorials/editorial-nix-faces-butler-in-fight-for-house-seat/article_4f393c21-917f-4727-a294-c51377417552.html",
+              "date": "2026-09-30"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "cynthia_butler",
@@ -283,6 +332,104 @@
               "date": "2026-09"
             }
           ]
+        },
+        "energy": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls for moving Florida off fossil fuels toward clean and solar power and for accountability from utilities.",
+          "quote": "We need to move away from our reliance on the fossil fuel industry.",
+          "sources": [
+            {
+              "title": "COLUMN: I will work for a better life for all Floridians, by Cynthia Butler (yoursun.com, Charlotte edition)",
+              "url": "https://www.yoursun.com/charlotte/opinion/columnists/column-i-will-work-for-a-better-life-for-all-floridians/article_406761a2-5f1b-4ab1-9030-9d1836664fe9.html",
+              "date": "2026-10-05"
+            },
+            {
+              "title": "COLUMN: I will work for a better life for all Floridians, by Cynthia Butler (yoursun.com, Venice edition)",
+              "url": "https://www.yoursun.com/venice/opinion/columnists/column-i-will-work-for-a-better-life-for-all-floridians/article_cbb789f3-fa51-4cd0-be08-07e769681ab3.html",
+              "date": "2026-10-17"
+            },
+            {
+              "title": "Ballotpedia: Cynthia Butler - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/Cynthia_Butler",
+              "date": "2026-10-18"
+            }
+          ]
+        },
+        "environment": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says Florida must address climate change and protect land, water and wildlife from overdevelopment, citing data centers' strain on the aquifer.",
+          "quote": "We need to protect our land, water, and wildlife from over development.",
+          "sources": [
+            {
+              "title": "COLUMN: I will work for a better life for all Floridians, by Cynthia Butler (yoursun.com, Charlotte edition)",
+              "url": "https://www.yoursun.com/charlotte/opinion/columnists/column-i-will-work-for-a-better-life-for-all-floridians/article_406761a2-5f1b-4ab1-9030-9d1836664fe9.html",
+              "date": "2026-10-05"
+            },
+            {
+              "title": "COLUMN: I will work for a better life for all Floridians, by Cynthia Butler (yoursun.com, Venice edition)",
+              "url": "https://www.yoursun.com/venice/opinion/columnists/column-i-will-work-for-a-better-life-for-all-floridians/article_cbb789f3-fa51-4cd0-be08-07e769681ab3.html",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Calls for an immediate end to immigrant detention and opposes current enforcement.",
+          "quote": "We need to stop kidnapping and imprisoning immigrants immediately.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Cynthia L Butler, State Representative 75 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940676",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants insurers held accountable for unpaid or underpaid claims and stronger My Safe Florida Home-type mitigation programs; told the Sun editorial board she wants home insurance rates brought down.",
+          "quote": "They are out of state and their practices are despicable. There needs to be accountability.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Cynthia L Butler, State Representative 75 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940676",
+              "date": "2026-10-17"
+            },
+            {
+              "title": "EDITORIAL: Nix faces Butler in fight for House seat (The Daily Sun / yoursun.com)",
+              "url": "https://www.yoursun.com/charlotte/opinion/editorials/editorial-nix-faces-butler-in-fight-for-house-seat/article_4f393c21-917f-4727-a294-c51377417552.html",
+              "date": "2026-09-30"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says property taxes are more local and acceptable than insurance costs, though sometimes misused.",
+          "quote": "Property taxes are more local and acceptable even though they are misused as well.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Cynthia L Butler, State Representative 75 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940676",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "If proof of citizenship is required, would set up a state fund and program to help people get birth and marriage certificates.",
+          "quote": "Set up a fund and program to get birth and marriage certificates.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Cynthia L Butler, State Representative 75 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940676",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -307,6 +454,22 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "title": "Data centers",
+          "summary": "Wants more regulation of data centers and a public say before they are built, citing the district's limestone water table and aquifers.",
+          "sources": [
+            {
+              "title": "EDITORIAL: Nix faces Butler in fight for House seat (The Daily Sun / yoursun.com)",
+              "url": "https://www.yoursun.com/charlotte/opinion/editorials/editorial-nix-faces-butler-in-fight-for-house-seat/article_4f393c21-917f-4727-a294-c51377417552.html",
+              "date": "2026-09-30"
+            },
+            {
+              "title": "COLUMN: I will work for a better life for all Floridians, by Cynthia Butler (yoursun.com, Charlotte edition)",
+              "url": "https://www.yoursun.com/charlotte/opinion/columnists/column-i-will-work-for-a-better-life-for-all-floridians/article_406761a2-5f1b-4ab1-9030-9d1836664fe9.html",
+              "date": "2026-10-05"
+            }
+          ]
         }
       ],
       "record": [],
@@ -316,13 +479,18 @@
   "events": [
     {
       "date": "2026-10-08",
-      "host": "Informed Voter Coalition - nine Charlotte County groups (DKG International Society of Key Women Educators, Indivisible of Southwest Florida, LULAC, NAACP, PFLAG, Social Justice Alliance of Florida Suncoast, Unitarian Universalist Association, Veterans for Common Sense, Zonta Club of Punta Gorda/Port Charlotte); St. Mary's Baptist Church, 605 Mary St., Punta Gorda, 5:30-8:30 p.m. (scheduled)",
-      "who": "Cynthia Butler (D) is listed as attending. Rep. Danny Nix Jr. (R) said he has a conflict and cannot attend. Each candidate gets five minutes, then audience questions.",
+      "host": "Informed Voter Coalition (nine Charlotte County groups) nonpartisan forum, St. Mary's Baptist Church, Punta Gorda, 5:30-8:30 p.m.; five-minute statements then audience questions. Whether it took place could not be confirmed: the Sun ran the notice through Oct. 7 but no post-event coverage was found as of Oct. 18.",
+      "who": "Cynthia Butler (D) confirmed; Rep. Danny Nix Jr. (R) said he had a conflict.",
       "sources": [
         {
-          "title": "Political forums scheduled (The Daily Sun, Englewood)",
-          "url": "https://www.yoursun.com/englewood/news/political-forums-scheduled/article_1b43d135-91fd-4ff1-9f1a-cf78f825a7cd.html",
-          "date": "2026-10-06"
+          "title": "Political forums scheduled (yoursun.com)",
+          "url": "https://www.yoursun.com/englewood/news/political-forums-scheduled/article_723d9ca4-2510-4060-9e95-1bedab59ff0b.html",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "LETTER: Three candidates will skip our forum (yoursun.com)",
+          "url": "https://www.yoursun.com/charlotte/opinion/letters_to_editor/letter-three-candidates-will-skip-our-forum/article_6aa083e9-72af-406d-b5e5-a307b536c50e.html",
+          "date": "2026-09-29"
         }
       ]
     },
@@ -335,6 +503,18 @@
           "title": "Political forums scheduled (The Daily Sun, Englewood)",
           "url": "https://www.yoursun.com/englewood/news/political-forums-scheduled/article_1b43d135-91fd-4ff1-9f1a-cf78f825a7cd.html",
           "date": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "date": "about Sept. 30, 2026",
+      "host": "North Port Area Chamber of Commerce Foundation and Friends of the North Port Library information session on Amendment 3 (single-issue panel, not a candidate forum). Held.",
+      "who": "Rep. Danny Nix Jr. (R) spoke with Jeff Kottkamp (Florida TaxWatch), Sarasota County Commissioner Ron Cutsinger and North Port's finance director; Cynthia Butler was not a panelist.",
+      "sources": [
+        {
+          "title": "Danny Nix, others talk property tax reform: 'eyes wide opened, be prepared' (yoursun.com)",
+          "url": "https://www.yoursun.com/northport/news/danny-nix-others-talk-property-tax-reform-eyes-wide-opened-be-prepared/article_a9d47293-d780-495b-9f93-cc5e39d8b164.html",
+          "date": "2026-10-04"
         }
       ]
     }

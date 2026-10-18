@@ -155,6 +155,16 @@
               "date": "2026-06-10"
             }
           ]
+        },
+        {
+          "by": "Chief Executive Officers of Management Companies (CEOMC), trade group for Florida community association managers",
+          "sources": [
+            {
+              "title": "Community association managers back Byron Donalds, Blaise Ingoglia in group's first statewide endorsements (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823217-community-association-managers-back-byron-donalds-blaise-ingoglia-in-groups-first-statewide-endorsements/",
+              "date": "2026-10-05"
+            }
+          ]
         }
       ]
     },
@@ -310,6 +320,45 @@
               "date": "2026-09"
             }
           ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Opposes making voting harder; wants free documents and agency coordination if proof of citizenship is required.",
+          "quote": "Voting should be secure, but security cannot become an excuse for voter suppression. My goal is to make voting easier for eligible Floridians, not harder.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Cindy Banyai, State Representative 78 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020239",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says the state has taken too much decision-making from local communities and would restore home rule.",
+          "quote": "I would oppose unnecessary preemption and work to restore meaningful home rule so local governments can respond to the people they actually serve.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Cindy Banyai, State Representative 78 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020239",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Opposes eliminating property taxes because they fund schools, police, fire and other local services; proposes a summer sales-tax holiday instead.",
+          "quote": "I also oppose solving affordability by eliminating property taxes altogether.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Cindy Banyai, State Representative 78 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020239",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -349,7 +398,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

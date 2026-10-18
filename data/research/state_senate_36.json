@@ -500,11 +500,17 @@
           "sources": []
         },
         "property_tax": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Objects to homestead property-tax cuts if lost revenue is replaced by higher sales taxes that renters would pay.",
+          "quote": "if the exemption only reaches homeowners but the lost revenue is replaced by a higher sales tax, you do not get relief — you get the bill twice",
+          "sources": [
+            {
+              "title": "Ballotpedia: George Lavin - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/George_Lavin",
+              "date": "2026-10-18"
+            }
+          ]
         },
         "insurance": {
           "stance": null,
@@ -542,11 +548,17 @@
           "sources": []
         },
         "healthcare": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Criticizes the state for turning down federal dollars to cover working people who fall in the coverage gap.",
+          "quote": "There are federal dollars — our own tax dollars — available to cover working people in this community who fall in the gap",
+          "sources": [
+            {
+              "title": "Ballotpedia: George Lavin - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/George_Lavin",
+              "date": "2026-10-18"
+            }
+          ]
         },
         "social_security": {
           "stance": null,
@@ -570,11 +582,17 @@
           "sources": []
         },
         "growth": {
-          "stance": null,
-          "confidence": "unknown",
-          "summary": "No public position found as of Sept 2026.",
-          "quote": null,
-          "sources": []
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Criticizes repeated legislative bills restricting local governments as a transfer of self-government to Tallahassee.",
+          "quote": "It is a pattern: a steady transfer of self-government to the capital.",
+          "sources": [
+            {
+              "title": "Ballotpedia: George Lavin - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/George_Lavin",
+              "date": "2026-10-18"
+            }
+          ]
         },
         "marijuana": {
           "stance": null,
@@ -651,7 +669,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

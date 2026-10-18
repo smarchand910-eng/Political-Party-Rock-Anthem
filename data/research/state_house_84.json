@@ -493,6 +493,58 @@
               "date": "2026-09-16"
             }
           ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports abortion access when a woman and her provider decide it is right, including rape, incest, health risks and fetal anomalies.",
+          "quote": "It is a woman's choice.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Jennifer Massey, State Representative 84 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940696",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports restoring local control over development and land use and opposes unnecessary state preemption.",
+          "quote": "I support restoring and protecting meaningful local control and oppose unnecessary state preemption.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Jennifer Massey, State Representative 84 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940696",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would create a low-cost document assistance program so no eligible voter is priced out by a proof-of-citizenship rule.",
+          "quote": "Our goal should be secure elections and access.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Jennifer Massey, State Representative 84 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940696",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Backs stronger oversight of insurers, transparency on how premiums are set and mitigation investment, while keeping insurers financially sound.",
+          "quote": "I support stronger oversight of insurance practices, greater transparency in how premiums are calculated, and continued investment in mitigation and resilient construction",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Jennifer Massey, State Representative 84 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940696",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -526,7 +578,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

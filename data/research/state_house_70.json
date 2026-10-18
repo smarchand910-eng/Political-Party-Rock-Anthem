@@ -284,6 +284,58 @@
               "date": "2026-09-30"
             }
           ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would expand Medicaid eligibility, accept available federal dollars and strengthen community health centers.",
+          "quote": "I will work to responsibly expand Medicaid eligibility and protect health care coverage for children, seniors, people with disabilities, and working families.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Luther Keith Wilkins, State Representative 70 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940670",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says reproductive decisions belong to women, naming rape, incest, risk to the mother's life or health and serious fetal complications.",
+          "quote": "I believe a woman should have the right to decide what happens to her body regarding reproductive health care.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Luther Keith Wilkins, State Representative 70 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940670",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Would provide free or low-cost records and name-change help so eligible voters are not priced out under a proof-of-citizenship rule.",
+          "quote": "Voting security and access should complement each other, not create needless obstacles for eligible Floridians.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Luther Keith Wilkins, State Representative 70 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940670",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Backs more transparency and accountability for insurers, tougher consumer protections and home hardening, alongside a stable, competitive market.",
+          "quote": "I support more transparency and accountability for insurance companies. I support tougher consumer protections.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Luther Keith Wilkins, State Representative 70 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940670",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -294,7 +346,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

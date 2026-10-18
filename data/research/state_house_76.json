@@ -168,7 +168,28 @@
           ]
         }
       ],
-      "endorsements": []
+      "endorsements": [
+        {
+          "by": "Chief Executive Officers of Management Companies (CEOMC), trade group for Florida community association managers",
+          "sources": [
+            {
+              "title": "Community association managers back Byron Donalds, Blaise Ingoglia in group's first statewide endorsements (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/823217-community-association-managers-back-byron-donalds-blaise-ingoglia-in-groups-first-statewide-endorsements/",
+              "date": "2026-10-05"
+            }
+          ]
+        },
+        {
+          "by": "The Daily Sun (Charlotte Sun) editorial board",
+          "sources": [
+            {
+              "title": "Oliver, Carter clash in race for Florida House (The Daily Sun / yoursun.com, editorial)",
+              "url": "https://www.yoursun.com/charlotte/opinion/editorials/oliver-carter-clash-in-race-for-florida-house/article_db58dd55-3d3f-4684-9c57-de979aa9d791.html",
+              "date": "2026-09-29"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "phillip_carter",
@@ -255,9 +276,78 @@
               "date": "2024-11-01"
             }
           ]
+        },
+        "healthcare": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls for free health care for everyone through Medicaid for all.",
+          "quote": "I believe we must fight for free Medicaid for all!",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Phillip Ray Carter, State Representative 76 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020237",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says the state should regulate insurance companies more, make coverage terms clearer and regulate out-of-state contractors.",
+          "quote": "There are a number of things the state can do to regulate the insurance companies, and make clearer what recipients are getting with their plans.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Phillip Ray Carter, State Representative 76 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020237",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "If proof of citizenship is required, wants the government to provide the needed documents at no cost.",
+          "quote": "put the burden on the government to provide a means to achieve the documents they need at no cost and minimal effort.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Phillip Ray Carter, State Representative 76 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020237",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Told the Sun editorial board that if Amendment 3 passes, lost property-tax money would shift to other fees and raise questions about paying police and fire.",
+          "quote": "If it does, then it will just push the (lost tax money) to other fees",
+          "sources": [
+            {
+              "title": "Oliver, Carter clash in race for Florida House (The Daily Sun / yoursun.com, editorial)",
+              "url": "https://www.yoursun.com/charlotte/opinion/editorials/oliver-carter-clash-in-race-for-florida-house/article_db58dd55-3d3f-4684-9c57-de979aa9d791.html",
+              "date": "2026-09-29"
+            }
+          ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Home rule and corruption",
+          "summary": "Told the Sun editorial board that bills limiting home rule and the Punta Gorda water dispute angered constituents, and that dark money and corruption are major issues; his Vote411 answers name corruption and affordability as top challenges.",
+          "sources": [
+            {
+              "title": "Oliver, Carter clash in race for Florida House (The Daily Sun / yoursun.com, editorial)",
+              "url": "https://www.yoursun.com/charlotte/opinion/editorials/oliver-carter-clash-in-race-for-florida-house/article_db58dd55-3d3f-4684-9c57-de979aa9d791.html",
+              "date": "2026-09-29"
+            },
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Phillip Ray Carter, State Representative 76 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020237",
+              "date": "2026-10-17"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [],
       "links": [
@@ -271,13 +361,30 @@
   "events": [
     {
       "date": "2026-10-08",
-      "host": "Informed Voter Coalition (same nine Charlotte County groups); St. Mary's Baptist Church, 605 Mary St., Punta Gorda, 5:30-8:30 p.m. (scheduled)",
-      "who": "Phillip Carter (D) is listed as attending. Rep. Vanessa Oliver (R) had not responded to the invitation as of Oct. 6.",
+      "host": "Informed Voter Coalition nonpartisan forum, St. Mary's Baptist Church, Punta Gorda (same event as HD 75). Whether it took place could not be confirmed: no post-event coverage found as of Oct. 18.",
+      "who": "Phillip Carter (D) confirmed; Rep. Vanessa Oliver (R) had not responded.",
       "sources": [
         {
-          "title": "Political forums scheduled (The Daily Sun, Englewood)",
-          "url": "https://www.yoursun.com/englewood/news/political-forums-scheduled/article_1b43d135-91fd-4ff1-9f1a-cf78f825a7cd.html",
-          "date": "2026-10-06"
+          "title": "Political forums scheduled (yoursun.com)",
+          "url": "https://www.yoursun.com/englewood/news/political-forums-scheduled/article_723d9ca4-2510-4060-9e95-1bedab59ff0b.html",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "LETTER: Three candidates will skip our forum (yoursun.com)",
+          "url": "https://www.yoursun.com/charlotte/opinion/letters_to_editor/letter-three-candidates-will-skip-our-forum/article_6aa083e9-72af-406d-b5e5-a307b536c50e.html",
+          "date": "2026-09-29"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "host": "Punta Gorda Isles Civic Association 'Meet The Candidates' meet-and-greet (not a debate; table and short self-introduction), 5-7 p.m. Scheduled; no report found on whether it was held.",
+      "who": "Phillip Carter (D) listed as confirmed; Rep. Vanessa Oliver (R) not listed.",
+      "sources": [
+        {
+          "title": "Meet The Candidates for Elected Public Office - Punta Gorda Isles Civic Association (undated; accessed 2026-10-18)",
+          "url": "https://www.pgica.org/content.aspx?page_id=4091&club_id=799073&item_id=3053036",
+          "date": "2026-10-18"
         }
       ]
     }

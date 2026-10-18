@@ -178,6 +178,45 @@
               "date": "2026-09"
             }
           ]
+        },
+        "elections": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Supports verifying citizenship before registration (Florida's SAVE Act) while making required records available at little or no cost.",
+          "quote": "We should never weaken citizenship verification.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Anthony Louis Bonna, State Representative 85 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940700",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports protecting SHIP funding, public-private partnerships and easing ADU rules, but says he would not have voted for the Live Local Act's zoning mandates.",
+          "quote": "I would not have voted for the Live Local Act because its one-size-fits-all zoning mandates went too far in overriding local communities.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Anthony Louis Bonna, State Representative 85 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940700",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Emphasizes price transparency, competition and directing limited Medicaid dollars to those who truly need them rather than expanding coverage.",
+          "quote": "ensure limited Medicaid dollars are directed to those who truly need them",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Anthony Louis Bonna, State Representative 85 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940700",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -190,6 +229,16 @@
               "title": "Anthony Bonna - Ballotpedia (2026 Candidate Connection survey)",
               "url": "https://ballotpedia.org/Anthony_Bonna",
               "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "by": "Associated Builders and Contractors (ABC) Florida East Coast Chapter",
+          "sources": [
+            {
+              "title": "ABC Florida East Coast Announces 2026 General Election Endorsements",
+              "url": "https://abceastflorida.com/abc-florida-east-coast-announces-2026-general-election-endorsements/",
+              "date": "2026-10-15"
             }
           ]
         }
@@ -268,6 +317,71 @@
               "title": "Wayne Richter - Ballotpedia (2026 Candidate Connection survey)",
               "url": "https://ballotpedia.org/Wayne_Richter",
               "date": "2026-09"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Opposes Amendment 3, calling it a slash-and-burn measure and warning lost revenue would return as fees.",
+          "quote": "If we value those services, then the legislature must find an alternative to the proposed slash and burn amendment.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Rainer Wayne Richter, State Representative 85 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940704",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Supports restoring access early in pregnancy with exceptions for rape, incest, fatal fetal abnormalities and the mother's life or health.",
+          "quote": "I support restoring access early in a pregnancy and includes clear exceptions for rape, incest, fatal fetal abnormalities, and threats to the life or health of the mother.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Rainer Wayne Richter, State Representative 85 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940704",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants the Legislature to use its oversight powers to hold insurers accountable and make them deal fairly with families.",
+          "quote": "The legislature needs to exercise its oversight powers over insurance companies and require that they deal fairly with working families.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Rainer Wayne Richter, State Representative 85 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940704",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants incentives for developers to build affordable homes, streamlined permitting and public-private partnerships for workforce housing.",
+          "quote": "the state can incentivize developers to build affordable homes over apartments.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Rainer Wayne Richter, State Representative 85 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940704",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Calls the proof-of-citizenship push unnecessary and says the state, not voters, should bear the cost of documents.",
+          "quote": "the burden of providing these documents, at no cost, and with efficiency, should fall on the states not individuals.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Rainer Wayne Richter, State Representative 85 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940704",
+              "date": "2026-10-17"
             }
           ]
         }
@@ -410,6 +524,58 @@
               "date": "2026-09"
             }
           ]
+        },
+        "property_tax": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Calls for getting rid of property taxes for owners.",
+          "quote": "Get rid of property taxes for owners and for renters make more money or build more housing.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Amr Metwally, State Representative 85 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940702",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Lists only incest or rape as circumstances in which he would support abortion access.",
+          "quote": "Incest or rape.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Amr Metwally, State Representative 85 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940702",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "growth": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says the current balance between state preemption and home rule is appropriate.",
+          "quote": "It’s appropriate.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Amr Metwally, State Representative 85 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940702",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Rejects a larger state role, saying the country is bankrupt and people should seek treatment abroad.",
+          "quote": "America is bankrupt just go to Mexico or Colombia for medical treatment",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Amr Metwally, State Representative 85 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940702",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -530,7 +696,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

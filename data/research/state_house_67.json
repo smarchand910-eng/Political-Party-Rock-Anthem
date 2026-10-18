@@ -142,6 +142,58 @@
               "date": "2026-09-30"
             }
           ]
+        },
+        "abortion": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Supports Gov. DeSantis' abortion restrictions and protecting unborn life.",
+          "quote": "I support Governor DeSantis’ pro-life legislation because I believe it has strengthened protections for unborn children",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Lisette R. Bonano, State Representative 67 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940656",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Supports protecting election integrity under any proof-of-citizenship rule while reducing fees and helping eligible citizens get documents.",
+          "quote": "We can secure our elections and respect our citizens at the same time.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Lisette R. Bonano, State Representative 67 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940656",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "housing": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Supports reducing government barriers that raise construction costs and local input on planning, but warns against policies that create dependency.",
+          "quote": "Florida must avoid policies that create dependency or reward poor planning.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Lisette R. Bonano, State Representative 67 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940656",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Favors continuing current insurance reforms focused on fraud and market stability, with consumer protection.",
+          "quote": "The state must continue working on meaningful insurance reforms, addressing fraud, improving market stability, and protecting consumers.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Lisette R. Bonano, State Representative 67 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940656",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -339,6 +391,17 @@
               "date": "2026-09-30"
             }
           ]
+        },
+        {
+          "title": "Leaving Tampa City Council",
+          "summary": "Florida Politics reports Viera's resignation from the Tampa City Council takes effect Nov. 2 so he can run for House District 67.",
+          "sources": [
+            {
+              "title": "Tampa takes a step toward financing its $80M Rays stadium commitment (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/825079-tampa-takes-a-step-toward-financing-its-80m-rays-stadium-commitment/",
+              "date": "2026-10-15"
+            }
+          ]
         }
       ],
       "record": [],
@@ -354,7 +417,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

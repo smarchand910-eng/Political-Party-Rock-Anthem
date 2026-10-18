@@ -183,6 +183,45 @@
               "date": "2026-09"
             }
           ]
+        },
+        "abortion": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Pro-life but supports abortion access in cases of rape, incest or danger to the mother's life.",
+          "quote": "I am pro-life but support access to abortion in cases of rape, incest or when the mother’s life is in danger, after all other options are exhausted.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Liesa Priddy, State Representative 82 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690981",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "elections": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Supports requiring proof of eligibility to register, comparing it to other services that require ID, while asking agencies to provide documents promptly and online.",
+          "quote": "Making sure that only those legally qualified to vote is a basic requirement for ballot integrity.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Liesa Priddy, State Representative 82 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690981",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Focuses on lowering costs through price transparency, more providers and telehealth rather than subsidies; wants Medicaid flexibility and fraud control.",
+          "quote": "Subsidies and Medicaid dollars only paper over costs that are far too high to begin with.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Liesa Priddy, State Representative 82 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72690981",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -285,6 +324,71 @@
               "date": "2026-09"
             }
           ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Supports access before viability and afterward for life, health or severe fetal conditions; calls the six-week ban too restrictive.",
+          "quote": "Florida’s six-week ban is too restrictive and often takes effect before a woman knows she is pregnant.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Arthur Boyer, State Representative 82 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020241",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Opposes any financial or administrative barrier for eligible citizens; would waive record fees and offer provisional registration and time to fix documents.",
+          "quote": "I would oppose any requirement that creates a financial or administrative barrier for eligible citizens.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Arthur Boyer, State Representative 82 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020241",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says preemption has gone too far and local governments should be able to adopt stronger protections on housing, growth and environment.",
+          "quote": "Florida’s balance of power has shifted too far toward state preemption.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Arthur Boyer, State Representative 82 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020241",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants more transparency and accountability in the insurance industry and relief from excessive premiums.",
+          "quote": "increase transparency and accountability in the insurance industry",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Arthur Boyer, State Representative 82 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020241",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Says property taxes fund essential services and cutting them sharply without a replacement could hurt communities or shift costs to renters.",
+          "quote": "Eliminating or drastically reducing them without a responsible replacement could weaken communities or shift costs onto renters and consumers.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Arthur Boyer, State Representative 82 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=73020241",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -301,7 +405,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

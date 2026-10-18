@@ -244,7 +244,19 @@
           ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Campaign money",
+          "summary": "Florida Politics reported Weinberger had about $117,000 in her campaign account, Holmes about $2,000 and Barrow about $8,000.",
+          "sources": [
+            {
+              "title": "Bobby Williams, the other Democrat in HD 94, says he is 'totally against' Elizabeth Holmes (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/825056-bobby-williams-the-other-democrat-in-hd-94-says-he-is-totally-against-elizabeth-holmes/",
+              "date": "2026-10-15"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted yes on HJR 1-F (2026 special session), HJR 203 (2026) and SB 2-C (2025). Sponsored Dexter's Law (2025) on animal-cruelty convictions.",
@@ -336,6 +348,16 @@
               "title": "Glades sweep: Belle Glade's entire City Commission, South Bay leaders endorse Meg Weinberger (Florida Politics)",
               "url": "https://floridapolitics.com/archives/823331-glades-sweep-belle-glades-entire-city-commission-south-bay-leaders-endorse-meg-weinberger/",
               "date": "2026-10-05"
+            }
+          ]
+        },
+        {
+          "by": "Associated Builders and Contractors (ABC) Florida East Coast Chapter",
+          "sources": [
+            {
+              "title": "ABC Florida East Coast Announces 2026 General Election Endorsements",
+              "url": "https://abceastflorida.com/abc-florida-east-coast-announces-2026-general-election-endorsements/",
+              "date": "2026-10-15"
             }
           ]
         }
@@ -449,6 +471,32 @@
               "date": "2026-09-18"
             }
           ]
+        },
+        "elections": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would work to repeal the proof-of-citizenship law and fund free, easy access to replacement birth certificates.",
+          "quote": "I would work with my colleagues to repeal the bill.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Elizabeth Anne Holmes, State Representative 94 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940724",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says reproductive decisions belong to a woman and her doctor, not lawmakers.",
+          "quote": "A woman's reproductive choices are between her and her doctor.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Elizabeth Anne Holmes, State Representative 94 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940724",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -476,6 +524,17 @@
               "title": "Elizabeth Holmes dangled 'easy' service hours in front of students to boost her state House campaign (Florida Politics)",
               "url": "https://floridapolitics.com/archives/823061-elizabeth-holmes-dangled-easy-service-hours-in-front-of-students-to-boost-her-state-house-campaign/",
               "date": "2026-10-03"
+            }
+          ]
+        },
+        {
+          "title": "Data centers",
+          "summary": "Says data centers should be kept out of local communities to protect the environment and water supply.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Elizabeth Holmes - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/Elizabeth_Holmes",
+              "date": "2026-10-18"
             }
           ]
         }
@@ -586,6 +645,45 @@
               "date": "2026-09"
             }
           ]
+        },
+        "abortion": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Says government has no place in decisions about people's health and bodies.",
+          "quote": "I do not think the government has a place in these decisions",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Douglas Alan Barrow, State Representative 94 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940722",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Supports requiring that voters be citizens while ensuring eligible citizens are not blocked by bureaucracy.",
+          "quote": "We should be able to require that voters are U.S. citizens while also ensuring that legitimate citizens are not prevented from voting because of unnecessary government bureaucracy.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Douglas Alan Barrow, State Representative 94 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940722",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Focuses on lowering costs; would evaluate federal Medicaid funding options but guard against commitments that could become unaffordable.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Douglas Alan Barrow, State Representative 94 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940722",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -602,6 +700,17 @@
               "title": "Doug Barrow - Ballotpedia (2026 Candidate Connection survey)",
               "url": "https://ballotpedia.org/Doug_Barrow",
               "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Data centers",
+          "summary": "Names unchecked data-center development as one of Florida's two most important challenges.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Douglas Alan Barrow, State Representative 94 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940722",
+              "date": "2026-10-17"
             }
           ]
         }

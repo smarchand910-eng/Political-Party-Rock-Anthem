@@ -116,6 +116,19 @@
               "date": "2026-09"
             }
           ]
+        },
+        "property_tax": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Lists lowering property taxes, along with insurance premiums, as a top affordability goal.",
+          "quote": "We must lower insurance premiums and property taxes so that those who have worked so hard to earn a living can continue to afford to live here.",
+          "sources": [
+            {
+              "title": "Ballotpedia: Nick Pachota - 2026 Candidate Connection survey (undated; accessed 2026-10-18)",
+              "url": "https://ballotpedia.org/Nick_Pachota",
+              "date": "2026-10-18"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -264,7 +277,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

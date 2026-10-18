@@ -513,6 +513,32 @@
               "date": "2026-09"
             }
           ]
+        },
+        "abortion": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Says women have the right to make health decisions, cites rape and incest, and says other abortion decisions belong to a woman and her physician.",
+          "quote": "Other abortion decisions are the joint responsibility of woman and her physician.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): William Moskal, State Representative 80 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940686",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "elections": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants county-level structures so all eligible citizens can document eligibility and vote.",
+          "quote": "Mechanisms need to be in place along with local structures to ensure that all eligible citizens are able to vote.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): William Moskal, State Representative 80 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940686",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -540,7 +566,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",

@@ -531,6 +531,45 @@
               "date": "2026-09"
             }
           ]
+        },
+        "housing": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Would repeal the state ban on local rent control, consider limits on rent increases for low-income, elderly and manufactured-home communities, and restore abandoned homes for low-cost purchase.",
+          "quote": "Reverse the bill that prevents localities from enacting any rent controls",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Leigh Estes, State Representative 83 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940692",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "insurance": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Wants limits on insurance rate increases and says state regulators have lost authority to the companies they regulate.",
+          "quote": "Absolutely, there needs to be a limit on the amount insurance can be increased under normal circumstances.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Leigh Estes, State Representative 83 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940692",
+              "date": "2026-10-17"
+            }
+          ]
+        },
+        "healthcare": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Wants more competition and says money spent on the Alligator Alcatraz detention site could have subsidized coverage and the state Medicaid fund.",
+          "quote": "The $1 billion spent on Alligator Alcatraz could have been used to subsidize many customers and provided a large financial pool for the state Medicaid fund.",
+          "sources": [
+            {
+              "title": "VOTE411 voter guide (League of Women Voters): Leigh Estes, State Representative 83 candidate responses (undated; accessed 2026-10-17)",
+              "url": "https://onyourballot.vote411.org/candidate-detail.do?id=72940692",
+              "date": "2026-10-17"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -559,7 +598,7 @@
   "events": [
     {
       "date": "",
-      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 7, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
+      "host": "No debate or candidate forum has been scheduled in this race (checked Oct. 17, 2026). Checked Vote411's Florida debates-and-forums calendar, the League of Women Voters of Florida newsroom, the county Leagues, chambers of commerce, Tiger Bay clubs and local NAACP branches; every legislative forum they list was held during the primary.",
       "sources": [
         {
           "title": "Upcoming Florida Debates and Forums (VOTE411)",
