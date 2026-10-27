@@ -115,7 +115,19 @@
           ]
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Cape View Elementary closure and budget transparency",
+          "summary": "Florida Today reported that Savage, a former Cape View Elementary teacher, has made the board's January vote to close the school a campaign issue, and said the board must be more transparent about finances, criticizing discussion of a $100 million tax anticipation note at an off-site work session.",
+          "sources": [
+            {
+              "title": "Brevard school board race heats up over budget cuts (Florida Today, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/brevard-school-board-race-heats-090630147.html",
+              "date": "2026-10-22"
+            }
+          ]
+        }
+      ],
       "record": [],
       "endorsements": [
         {
