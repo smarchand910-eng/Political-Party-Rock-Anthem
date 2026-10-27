@@ -149,6 +149,19 @@
               "date": "2026-10"
             }
           ]
+        },
+        "lgbtq": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "At the Sept. 28 House District 9 forum, Robinson supported restrictions on classroom instruction involving race and gender identity, according to a news account of the forum (reporter's summary, not a direct quote).",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Tant, Robinson Offer Contrasting Views on Vaccines, Education and Elections (Tallahassee Reports)",
+              "url": "https://tallahasseereports.com/2026/10/22/tant-robinson-offer-contrasting-views-on-vaccines-education-and-elections/",
+              "date": "2026-10-22"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -602,17 +615,13 @@
   "events": [
     {
       "date": "2026-09-28",
-      "host": " (held)",
+      "host": "Candidate forum at WFSU Studios, Tallahassee, organized by the Capital Region News Collaborative, the League of Women Voters of Tallahassee and the Tallahassee Democrat. HELD. Topics covered childhood vaccine requirements, school vouchers, election administration and economic development.",
+      "who": "Democrat Allison Tant (incumbent) and Republican Tracy Robinson both took part.",
       "sources": [
         {
-          "title": "Tant and Robinson say affordability is the top issue in Florida House District 9 race",
-          "url": "https://news.wfsu.org/state-news/2026-09-28/tant-and-robinson-say-affordability-is-the-top-issue-in-florida-house-district-9-race",
-          "date": "2026-09-28"
-        },
-        {
-          "title": "Tallahassee candidate forums address District 9 priorities and issues affecting women and girls",
-          "url": "https://www.wtxl.com/news/local-news/in-your-neighborhood/south-tallahassee/tallahassee-candidate-forums-address-district-9-priorities-and-issues-affecting-women-and-girls",
-          "date": "2026-09"
+          "title": "Tant, Robinson Offer Contrasting Views on Vaccines, Education and Elections (Tallahassee Reports)",
+          "url": "https://tallahasseereports.com/2026/10/22/tant-robinson-offer-contrasting-views-on-vaccines-education-and-elections/",
+          "date": "2026-10-22"
         }
       ]
     }

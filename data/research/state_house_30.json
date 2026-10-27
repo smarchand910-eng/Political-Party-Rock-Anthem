@@ -514,6 +514,19 @@
               "date": "2026-10-16"
             }
           ]
+        },
+        "property_tax": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Munoz says he will vote no on eliminating property taxes because it would cut funding for schools, police, fire and local services without a replacement plan; he says he supports narrower relief such as homestead protections.",
+          "quote": "I will not support elimination without knowing exactly what replaces that funding.",
+          "sources": [
+            {
+              "title": "2026 Voter’s Guide - Florida House District 30 (WKMG News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-house-district-30/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       },
       "other_issues": [],

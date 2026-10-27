@@ -140,6 +140,32 @@
               "date": "2026-10-12"
             }
           ]
+        },
+        "environment": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Huntley names protecting local water resources as the top environmental issue and says she will focus on state funding to convert septic systems to sewer near local lakes.",
+          "quote": "My focus will be environmental appropriations for septic to sewer nearby our local lakes.",
+          "sources": [
+            {
+              "title": "2026 Voter’s Guide - Florida House District 45 (WKMG News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-house-district-45/",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        "growth": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Huntley calls herself a supporter of home rule for local governments, but adds that property owners' right to sell and develop their land should not be taken away.",
+          "quote": "I’m a home rule person.",
+          "sources": [
+            {
+              "title": "2026 Voter’s Guide - Florida House District 45 (WKMG News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-house-district-45/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -361,6 +387,19 @@
               "title": "Orlando Sentinel / News Collaborative of Central Florida, 2026 Voters Guide: Leonard Spencer, Florida House District 45",
               "url": "https://www.orlandosentinel.com/2026/10/12/2026-voters-guide-leonard-spencer-running-for-florida-house-district-45/",
               "date": "2026-10-12"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Spencer says data centers must pay the full cost of the energy and infrastructure they need, and that regulators should put existing ratepayers first and review projects' effects on rates before approval.",
+          "quote": "First, data centers must be responsible for the full cost of the energy and infrastructure they require.",
+          "sources": [
+            {
+              "title": "2026 Voter’s Guide - Florida House District 45 (WKMG News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-house-district-45/",
+              "date": "2026-10-16"
             }
           ]
         }
