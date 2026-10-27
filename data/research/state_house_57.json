@@ -601,7 +601,18 @@
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Creative Loafing Tampa Bay (voting guide)",
+          "sources": [
+            {
+              "title": "Creative Loafing voting guide 2026: Pinellas state representatives, county commission, and school board (Creative Loafing Tampa Bay)",
+              "url": "https://www.cltampa.com/news/creative-loafing-voting-guide-2026-pinellas-state-representatives-county-commission-and-school-board/",
+              "date": "2026-10-23"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

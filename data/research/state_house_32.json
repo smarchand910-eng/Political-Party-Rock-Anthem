@@ -216,6 +216,19 @@
               "date": "2026-10-16"
             }
           ]
+        },
+        "taxes": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Hodgers calls rising property taxes the district's biggest issue and says he will keep pushing for property tax relief and less wasteful spending, while keeping essential services funded.",
+          "quote": "I will continue fighting for meaningful property tax relief, reducing wasteful spending, and keeping Florida affordable while ensuring government lives within its means.",
+          "sources": [
+            {
+              "title": "2026 Voter’s Guide - Florida House District 32 (WKMG News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-house-district-32/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       },
       "other_issues": [],

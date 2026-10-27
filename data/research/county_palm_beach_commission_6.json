@@ -705,6 +705,16 @@
               "date": "2026-10-18"
             }
           ]
+        },
+        {
+          "by": "Palm Beach Post Editorial Board",
+          "sources": [
+            {
+              "title": "Voter guides and endorsements for the 2026 midterm elections (WLRN roundup of newspaper editorial boards)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-23/voter-guides-endorsements-election-midterms-ballot-questions",
+              "date": "2026-10-23"
+            }
+          ]
         }
       ],
       "links": [
@@ -730,13 +740,23 @@
     },
     {
       "date": "2026-10-15",
-      "host": "Acreage Landowners' Association community forum, The Dancing Crane ballroom (Sandhill Crane Golf Club), 6:30-8:30 p.m., impartial outside moderator, audience-submitted questions. Scheduled; no post-event report found, so whether it happened and who spoke is unconfirmed.",
-      "who": "District 6 candidates invited; as of Sept. 30 Sara Baxter was expected to attend (Waldron's attendance not reported)",
+      "host": "Acreage Landowners' Association community candidate forum, The Dancing Crane, 6:30-8:30 p.m. UNCONFIRMED: no report, recording or write-up found as of Oct. 27 (checked the Town-Crier, whose next issue is due Oct. 30, The Acreage Advocate, and the Palm Beach Post's Oct. 23 race preview, which does not mention it). Whether it happened and who spoke cannot be confirmed.",
+      "who": "District 6 candidates invited; before the event, only Sara Baxter was reported as expected to attend",
       "sources": [
+        {
+          "title": "ALA To Host Candidate Forum On Thursday, Oct. 15 (Town-Crier)",
+          "url": "https://gotowncrier.com/2026/10/ala-to-host-candidate-forum-on-thursday-oct-15/",
+          "date": "2026-10-02"
+        },
         {
           "title": "Local candidate forum set for Oct. 15 (The Acreage Advocate)",
           "url": "https://theacreageadvocate.substack.com/p/local-candidate-forum-set-for-oct",
           "date": "2026-09-30"
+        },
+        {
+          "title": "Baxter, Waldron vie for Palm Beach County Commission seat (Palm Beach Post, via Yahoo News)",
+          "url": "https://www.yahoo.com/news/politics/articles/baxter-waldron-vie-palm-beach-162412553.html",
+          "date": "2026-10-23"
         }
       ]
     }

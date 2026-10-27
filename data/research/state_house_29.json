@@ -547,6 +547,19 @@
               "date": "2026-10-16"
             }
           ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Kanfer supports encouraging home rooftop solar to cut utility bills and says any data centers that are permitted should have to be energy neutral, with no impact on the power grid or utility bills.",
+          "quote": "They would also have to be energy neutral, meaning they would have to generate their own power or prove that they would have no impact on our power grid and utility bills.",
+          "sources": [
+            {
+              "title": "2026 Voter’s Guide - Florida House District 29 (WKMG News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-house-district-29/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       },
       "other_issues": [],

@@ -142,6 +142,19 @@
               "date": "2026-10-12"
             }
           ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Cruz says utility regulators should protect consumers by making data centers pay their fair share and keeping utility rates fair and transparent.",
+          "quote": "Utility regulators should protect consumers by ensuring data centers pay their fair share of costs, improving the electric grid, and keeping utility rates fair and transparent.",
+          "sources": [
+            {
+              "title": "2026 Voter’s Guide - Florida House District 46 (WKMG News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-house-district-46/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -328,6 +341,19 @@
               "title": "Central Florida Public Media / News Collaborative 2026 Voter Guide, Florida State House District 46 (undated; accessed 2026-10-17)",
               "url": "https://www.cfpublic.org/voter-guide-2026",
               "date": "2026-10-17"
+            }
+          ]
+        },
+        "energy": {
+          "stance": 1,
+          "confidence": "stated",
+          "summary": "Alvarez says data center developers should pay for the electric, water, sewer and road upgrades they need, and that regulators should require water-efficient cooling and review aquifer impacts before approval.",
+          "quote": "Data center developers should pay for the upgrades needed to electric, water, sewer, and transportation systems so existing residents are not left subsidizing new development.",
+          "sources": [
+            {
+              "title": "2026 Voter’s Guide - Florida House District 46 (WKMG News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-house-district-46/",
+              "date": "2026-10-16"
             }
           ]
         }

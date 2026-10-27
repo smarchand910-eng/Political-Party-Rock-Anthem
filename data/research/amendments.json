@@ -67,12 +67,10 @@
           ]
         },
         {
-          "who": "No organized opposition campaign identified",
-          "argument": "The League of Women Voters of Florida's July 21, 2026 analysis lists 'Opponents - None known at this time' and takes no position on Amendment 1; Florida TaxWatch, Florida Policy Institute, the Florida Chamber and Americans for Prosperity had no published position found as of Sept. 17, 2026. Explanatory coverage (Bradenton Times, VOTE411) notes the trade-off that mandatory deposits reduce money available for current-year spending or tax cuts.",
+          "who": "League of Women Voters of Florida; Florida Education Association",
+          "argument": "The League's VOTE411 synopsis of the 2026 amendments lists the League of Women Voters of Florida and the Florida Education Association as opponents of Amendment 1.",
           "sources": [
-            "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
-            "https://thebradentontimes.com/stories/2026-constitutional-amendment-1-budget-stabilization-fund,212210",
-            "https://onyourballot.vote411.org/race-detail.do?id=71659260"
+            "https://www.lwvfl.org/wp-content/uploads/2026-State-Amendments-Synopses-English-from-Vote411-1.pdf"
           ]
         }
       ],
@@ -99,7 +97,7 @@
       "constitution_sections": "Article III, Section 19",
       "neutral_analyses": [
         {
-          "who": "League of Women Voters of Florida analysis (no position on Amendment 1)",
+          "who": "League of Women Voters of Florida analysis (July 21, 2026; the League has since listed itself as an opponent)",
           "url": "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf"
         },
         {
@@ -196,6 +194,85 @@
               "date": "2026-10-13"
             }
           ]
+        },
+        {
+          "date": "2026-10-20",
+          "item": "Two more newspaper editorial boards recommend a No vote on Amendment 1: TCPalm (Oct. 14), which wrote 'There is no compelling reason to mandate this or centralize power in Tallahassee even more,' and the Palm Beach Post (Oct. 20), which wrote that 'it's not a practical change that belongs in the Florida Constitution.' Quotes are as reported in a USA TODAY Network-Florida roundup; the editorials themselves could not be opened (paywall).",
+          "sources": [
+            {
+              "title": "How to vote on 2026 amendments, according to 5 Florida newspapers (Palm Beach Post / USA TODAY Network-Florida, via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/vote-2026-amendments-according-5-110144236.html",
+              "date": "2026-10-22"
+            },
+            {
+              "title": "TCPalm Editorial Board general election recommendations (original; not opened, returned HTTP 402)",
+              "url": "https://www.tcpalm.com/story/opinion/editorials/2026/10/14/heres-who-editorial-board-recommended-in-general-election/92000200007/",
+              "date": "2026-10-14"
+            },
+            {
+              "title": "Palm Beach Post editorial: Florida voters should reject amendments (original; not opened, returned HTTP 402)",
+              "url": "https://www.palmbeachpost.com/story/opinion/endorsements/2026/10/20/florida-voters-should-reject-amendments-and-approve-extending-school-levy/92344537007/",
+              "date": "2026-10-20"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-30",
+          "item": "The Orlando Sentinel and South Florida Sun-Sentinel editorial boards recommended No on Amendments 1 and 2 in Sept. 30 editorials; the Sun-Sentinel wrote that Amendments 1 and 2 'are less publicized but equally worthy of your \"no\" vote.' WLRN's Oct. 23 voter-guide roundup also lists the Sun-Sentinel as No on all three amendments.",
+          "sources": [
+            {
+              "title": "How to vote on 2026 amendments, according to 5 Florida newspapers (Palm Beach Post / USA TODAY Network-Florida, via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/vote-2026-amendments-according-5-110144236.html",
+              "date": "2026-10-22"
+            },
+            {
+              "title": "Orlando Sentinel endorsement: Vote no on Amendments 1 and 2 (original; not opened)",
+              "url": "https://www.orlandosentinel.com/2026/09/30/endorsement-vote-no-on-amendments-1-and-2/",
+              "date": "2026-09-30"
+            },
+            {
+              "title": "Sun-Sentinel: Just say no to all three state amendments (original; not opened)",
+              "url": "https://www.sun-sentinel.com/2026/09/30/just-say-no-to-all-three-state-amendments-endorsement/",
+              "date": "2026-09-30"
+            },
+            {
+              "title": "Not sure who to vote for? Here is our guide to voter guides for the 2026 midterms - WLRN",
+              "url": "https://www.wlrn.org/government-politics/2026-10-23/voter-guides-endorsements-election-midterms-ballot-questions",
+              "date": "2026-10-23"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "item": "Poll: Stetson University (field Oct. 1-9; 826 Florida adults including 716 registered voters; opt-in panel, reported precision about +/-4.2 points for likely voters) found Amendment 1 at 46% support, 30% opposed and 23% undecided. Passage requires 60%.",
+          "sources": [
+            {
+              "title": "Stetson poll: Donalds, Moody maintain leads as Florida amendments face 60% threshold - Daytona Times",
+              "url": "https://www.daytonatimes.com/news/stetson-poll-donalds-moody-maintain-leads-as-florida-amendments-face-60-threshold/article_ebb7274b-f9b2-4b88-8c28-fe5102283b07.html",
+              "date": "2026-10-15"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-23",
+          "item": "The League of Women Voters of Florida's VOTE411 synopsis lists the Florida Education Association and the League of Women Voters of Florida as opponents of Amendment 1. A WUWF explainer (Oct. 23) gives the same opponents, plus Gov. DeSantis and Americans for Tax Reform; no second source was found for the Americans for Tax Reform listing.",
+          "sources": [
+            {
+              "title": "LWV of Florida / VOTE411: 2026 State Amendments Synopses (PDF)",
+              "url": "https://www.lwvfl.org/wp-content/uploads/2026-State-Amendments-Synopses-English-from-Vote411-1.pdf",
+              "date": "2026-09-17"
+            },
+            {
+              "title": "Ballot Issues 2026 - League of Women Voters of Palm Beach County",
+              "url": "https://www.lwvpbc.org/content.aspx?page_id=22&club_id=294802&module_id=768656",
+              "date": "2026-10-27"
+            },
+            {
+              "title": "Ballot explainer: Amendment 1 Budget Stabilization Fund - WUWF",
+              "url": "https://www.wuwf.org/local-news/2026-10-23/ballot-explainer-amendment-1-budget-stabilization-fund",
+              "date": "2026-10-23"
+            }
+          ]
         }
       ]
     },
@@ -259,11 +336,10 @@
           ]
         },
         {
-          "who": "No organized opposition group identified",
-          "argument": "The League of Women Voters of Florida analysis (July 21, 2026) lists 'Opponents: None known at this time' and takes no position; Florida TaxWatch, Florida Policy Institute, Florida Association of Counties, Florida League of Cities, the Florida Chamber and Americans for Prosperity had no published position on Amendment 2 found as of Sept. 17, 2026. Explanatory coverage notes the exemption reduces local revenue and shifts a share of the local tax burden away from agricultural operations.",
+          "who": "League of Women Voters of Florida; Florida Education Association",
+          "argument": "The League's VOTE411 synopsis of the 2026 amendments lists the League of Women Voters of Florida and the Florida Education Association as opponents of Amendment 2.",
           "sources": [
-            "https://lwvmanatee.org/wp-content/uploads/2026/07/Amendments-on-2026-General-Election-Ballot.pdf",
-            "https://thebradentontimes.com/stories/2026-constitutional-amendment-2-agricultural-tangible-personal-property-tax-exemption,212219"
+            "https://www.lwvfl.org/wp-content/uploads/2026-State-Amendments-Synopses-English-from-Vote411-1.pdf"
           ]
         }
       ],
@@ -365,6 +441,75 @@
               "title": "Herald Ed Board urges Florida voters to reject 3 ballot amendments. What to know (Miami Herald)",
               "url": "https://www.miamiherald.com/opinion/election-recommendations/article317608557.html",
               "date": "2026-10-13"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-20",
+          "item": "Newspaper editorial boards are split on Amendment 2. TCPalm (Oct. 14) recommends Yes ('agriculture is an essential part of our state's food system, economy and heritage'). The Palm Beach Post (Oct. 20) recommends No, saying 'the Florida Legislature's response has no place in the state constitution.' Quotes are as reported in a USA TODAY Network-Florida roundup; the editorials themselves could not be opened (paywall).",
+          "sources": [
+            {
+              "title": "How to vote on 2026 amendments, according to 5 Florida newspapers (Palm Beach Post / USA TODAY Network-Florida, via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/vote-2026-amendments-according-5-110144236.html",
+              "date": "2026-10-22"
+            },
+            {
+              "title": "TCPalm Editorial Board general election recommendations (original; not opened, returned HTTP 402)",
+              "url": "https://www.tcpalm.com/story/opinion/editorials/2026/10/14/heres-who-editorial-board-recommended-in-general-election/92000200007/",
+              "date": "2026-10-14"
+            },
+            {
+              "title": "Palm Beach Post editorial: Florida voters should reject amendments (original; not opened, returned HTTP 402)",
+              "url": "https://www.palmbeachpost.com/story/opinion/endorsements/2026/10/20/florida-voters-should-reject-amendments-and-approve-extending-school-levy/92344537007/",
+              "date": "2026-10-20"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-30",
+          "item": "The Orlando Sentinel and South Florida Sun-Sentinel editorial boards recommended No on Amendment 2 (Sept. 30), as did the Miami Herald.",
+          "sources": [
+            {
+              "title": "How to vote on 2026 amendments, according to 5 Florida newspapers (Palm Beach Post / USA TODAY Network-Florida, via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/vote-2026-amendments-according-5-110144236.html",
+              "date": "2026-10-22"
+            },
+            {
+              "title": "Not sure who to vote for? Here is our guide to voter guides for the 2026 midterms - WLRN",
+              "url": "https://www.wlrn.org/government-politics/2026-10-23/voter-guides-endorsements-election-midterms-ballot-questions",
+              "date": "2026-10-23"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-15",
+          "item": "Poll: Stetson University (field Oct. 1-9; 716 registered voters within 826 adults; opt-in panel) found Amendment 2 at 56% support, 21% opposed and 23% unsure. Passage requires 60%.",
+          "sources": [
+            {
+              "title": "Stetson poll: Donalds, Moody maintain leads as Florida amendments face 60% threshold - Daytona Times",
+              "url": "https://www.daytonatimes.com/news/stetson-poll-donalds-moody-maintain-leads-as-florida-amendments-face-60-threshold/article_ebb7274b-f9b2-4b88-8c28-fe5102283b07.html",
+              "date": "2026-10-15"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-22",
+          "item": "The League of Women Voters of Florida's VOTE411 synopsis lists the Florida Education Association and the League of Women Voters of Florida as opponents of Amendment 2. A Hoodline summary of WLRN reporting (Oct. 22) lists these backers: the Florida Fruit & Vegetable Association, the Florida Chamber of Commerce, the Florida Farm Bureau Federation, the National Federation of Independent Business and the state agriculture department. It also gives estimated savings for named farms, for example about $1.2 million a year for Atlantic Sapphire.",
+          "sources": [
+            {
+              "title": "LWV of Florida / VOTE411: 2026 State Amendments Synopses (PDF)",
+              "url": "https://www.lwvfl.org/wp-content/uploads/2026-State-Amendments-Synopses-English-from-Vote411-1.pdf",
+              "date": "2026-09-17"
+            },
+            {
+              "title": "Ballot Issues 2026 - League of Women Voters of Palm Beach County",
+              "url": "https://www.lwvpbc.org/content.aspx?page_id=22&club_id=294802&module_id=768656",
+              "date": "2026-10-27"
+            },
+            {
+              "title": "Florida Amendment 2: Farm Tax Break on 2026 Ballot - Hoodline",
+              "url": "https://hoodline.com/2026/10/florida-s-amendment-2-could-save-farms-millions-and-cost-rural-towns-just-as-much/",
+              "date": "2026-10-22"
             }
           ]
         }
@@ -512,6 +657,21 @@
               "url": "https://floridataxwatch.org/the-florida-taxpayers-guide-for-the-2026-constitutional-amendments/",
               "date": "2026-09-17"
             }
+          ]
+        },
+        {
+          "who": "Senate President Ben Albritton (R-Wauchula)",
+          "argument": "Voted to put Amendment 3 on the ballot but said on Oct. 21-22, 2026 he will vote no, saying it 'would eliminate up to 30% of resources for Florida's rural counties.'",
+          "sources": [
+            "https://cbs12.com/news/florida/florida-senate-president-says-hes-against-amendment-3-citing-cuts-to-towns-couties"
+          ]
+        },
+        {
+          "who": "Former Senate President Kathleen Passidomo (R-Naples)",
+          "argument": "Voted to put the measure on the ballot but told a Greater Naples Chamber event on Sept. 30, 2026 that she will vote against it, citing the effect on local governments.",
+          "sources": [
+            "https://www.gulfshorebusiness.com/news/florida-sen-passidomo-explains-why-she-opposes-amendment-3/article_af91b764-8c9d-4e9b-a5c7-a2e427ba7a71.html",
+            "https://flaglerlive.com/passidomo-no/"
           ]
         }
       ],
@@ -933,6 +1093,182 @@
               "title": "Herald Ed Board urges Florida voters to reject 3 ballot amendments. What to know (Miami Herald)",
               "url": "https://www.miamiherald.com/opinion/election-recommendations/article317608557.html",
               "date": "2026-10-13"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-21",
+          "item": "Senate President Ben Albritton (R-Wauchula), who presided over the Senate that placed Amendment 3 on the ballot, said he will vote no: 'Amendment 3 would eliminate up to 30% of resources for Florida's rural counties' and 'Tax relief shouldn't fall hardest on the communities least able to absorb it.' He pointed to the 2027 Taxation and Budget Reform Commission as a better venue for the issue. Gov. DeSantis responded that support for the measure is 'bottom up, it's not top down.' The Florida Sheriffs Association and Sheriff Grady Judd publicized Albritton's statement.",
+          "sources": [
+            {
+              "title": "Senate President Ben Albritton opposes Amendment 3 with backing from Florida Sheriffs Association, Grady Judd - Florida's Voice",
+              "url": "https://flvoicenews.com/senate-president-ben-albritton-opposes-amendment-3-with-backing-from-florida-sheriffs-association-grady-judd/",
+              "date": "2026-10-21"
+            },
+            {
+              "title": "Florida Senate president now says he's against Amendment 3, citing cuts to towns, counties - CBS12 (News Service of Florida)",
+              "url": "https://cbs12.com/news/florida/florida-senate-president-says-hes-against-amendment-3-citing-cuts-to-towns-couties",
+              "date": "2026-10-22"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-02",
+          "item": "Former Senate President Kathleen Passidomo (R-Naples), who voted to place the measure on the ballot, told a Greater Naples Chamber event on Sept. 30 that she will vote against it: 'I think it is a well-intentioned bill, but you know, the road to hell is paved with them.'",
+          "sources": [
+            {
+              "title": "Passidomo says she'll vote against Amendment 3 - Gulfshore Business",
+              "url": "https://www.gulfshorebusiness.com/news/florida-sen-passidomo-explains-why-she-opposes-amendment-3/article_af91b764-8c9d-4e9b-a5c7-a2e427ba7a71.html",
+              "date": "2026-10-02"
+            },
+            {
+              "title": "Ex-Senate President Who Put Amendment 3 on Ballot Is Voting Against It - FlaglerLive",
+              "url": "https://flaglerlive.com/passidomo-no/",
+              "date": "2026-10-10"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-21",
+          "item": "Gov. DeSantis held a roundtable for Amendment 3 at the Miami-Dade Sheriff's Office on Oct. 21, saying 'Amendment 3 creates a path to full elimination of property taxes for homesteaded Floridians.' Miami-Dade Sheriff Rosie Cordero-Stutz backed it ('tax relief and public safety are not competing priorities'). Miami-Dade Mayor Daniella Levine Cava opposes it and estimates county losses of $378 million in the first year and nearly $700 million in the second.",
+          "sources": [
+            {
+              "title": "Governor Ron DeSantis Hosts Miami Roundtable in Support of Amendment 3 Property Tax Relief - Executive Office of the Governor",
+              "url": "https://www.flgov.com/eog/news/press/2026/governor-ron-desantis-hosts-miami-roundtable-support-amendment-3-property-tax",
+              "date": "2026-10-21"
+            },
+            {
+              "title": "Tax relief vs. government service cuts: Miami-Dade leaders clash over controversial Amendment 3 - WLRN",
+              "url": "https://www.wlrn.org/the-south-florida-roundup/2026-10-23/tax-relief-vs-government-service-cuts-miami-dade-leaders-clash-over-controversial-amendment-3",
+              "date": "2026-10-23"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-21",
+          "item": "Poll: University of North Florida Public Opinion Research Lab (field Oct. 12-19; 1,471 likely voters; phone, English and Spanish; +/-2.81 points) found 50% yes, 35% no and 14% don't know (crosstab table; the release text says 30% no). By party: Republicans 64% yes, unaffiliated 50% yes, Democrats 32% yes. Respondents heard a shortened description, not the full ballot text.",
+          "sources": [
+            {
+              "title": "UNF PORL Fall Statewide 2026 poll press release (PDF)",
+              "url": "https://static1.squarespace.com/static/6994d571bce3436c60d86870/t/6ad8a5ec13c20404a1f8052b/1792583148294/UNF+PORL+FALL+Statewide+2026+FLLV+-+Press+Release+1021+EMBARGO.pdf",
+              "date": "2026-10-21"
+            },
+            {
+              "title": "Homestead tax amendment falling short of 60% support needed to pass, UNF poll finds - News4Jax",
+              "url": "https://www.news4jax.com/news/local/2026/10/21/unf-poll-shows-tight-florida-governor-senate-races/",
+              "date": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-23",
+          "item": "Poll: a survey of 760 likely Hispanic voters (Oct. 14-18) by pollster David Wolfson for HispanicVotes.org, a group founded by Republican National Hispanic Assembly officer Barbara Casanova, reported that 72% wanted lower property taxes. WLRN's report gave no yes/no result for Amendment 3 and no margin of error.",
+          "sources": [
+            {
+              "title": "Poll: Florida's Hispanic voters back Amendment 3, lean Democratic in tightening governor's race - WLRN",
+              "url": "https://www.wlrn.org/government-politics/2026-10-23/poll-floridas-hispanic-voters-back-amendment-3-lean-democratic-in-tightening-governors-race",
+              "date": "2026-10-23"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-26",
+          "item": "New editorial recommendations, all No: TCPalm (Oct. 14; 'we would limit the rights we have, through local officials, to control our taxes and services'), the Palm Beach Post (Oct. 20; 'the cost to local governments threaten to eat into any perceived savings by homeowners') and the Charlotte Sun (Oct. 26; 'the haste in writing Amendment 3 left too many questions unanswered'). The TCPalm and Post quotes come from a USA TODAY Network-Florida roundup; the Charlotte Sun editorial was read directly.",
+          "sources": [
+            {
+              "title": "How to vote on Amendment 3, according to 5 Florida newspapers (Palm Beach Post / USA TODAY Network-Florida, via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/vote-amendment-3-according-5-195959741.html",
+              "date": "2026-10-21"
+            },
+            {
+              "title": "TCPalm Editorial Board general election recommendations (original; not opened, returned HTTP 402)",
+              "url": "https://www.tcpalm.com/story/opinion/editorials/2026/10/14/heres-who-editorial-board-recommended-in-general-election/92000200007/",
+              "date": "2026-10-14"
+            },
+            {
+              "title": "Palm Beach Post editorial: Florida voters should reject amendments (original; not opened, returned HTTP 402)",
+              "url": "https://www.palmbeachpost.com/story/opinion/endorsements/2026/10/20/florida-voters-should-reject-amendments-and-approve-extending-school-levy/92344537007/",
+              "date": "2026-10-20"
+            },
+            {
+              "title": "EDITORIAL: Amendment 3 is not the answer - Charlotte Sun",
+              "url": "https://www.yoursun.com/charlotte/opinion/editorials/editorial-amendment-3-is-not-the-answer/article_413868bd-1a50-470f-851b-681e102ec5af.html",
+              "date": "2026-10-26"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-24",
+          "item": "The Orlando Sentinel and South Florida Sun-Sentinel editorial boards recommended No on Amendment 3 in a joint editorial ('If you do nothing else at the polls this November, vote no on Amendment 3'), dated Sept. 19 (Sun-Sentinel) and Sept. 24 (Orlando Sentinel).",
+          "sources": [
+            {
+              "title": "How to vote on Amendment 3, according to 5 Florida newspapers (Palm Beach Post / USA TODAY Network-Florida, via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/vote-amendment-3-according-5-195959741.html",
+              "date": "2026-10-21"
+            },
+            {
+              "title": "Orlando Sentinel: No, no, no on awful Amendment 3 (original; not opened)",
+              "url": "https://www.orlandosentinel.com/2026/09/24/no-no-no-on-awful-amendment-3-endorsement/",
+              "date": "2026-09-24"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-23",
+          "item": "Money (Florida Division of Elections reports through Oct. 23): Vote Yes on 3 (chair Margaret Grant) raised $21,516,510 (Florida Realtors plus $2,016,500 from the National Association of Realtors on Oct. 9; nothing new after Oct. 9) and spent $20,316,080, mostly payments to SGS Inc. Opposing committees: Floridians for Shared Prosperity raised $794,976 (plus $27,734 in-kind) and spent $527,937, including $302,100 from the Hopewell Fund on Oct. 19 and $200,000 from Scott Barancik in early October. Vote No on 3 Florida raised $512,931 and spent $456,612.",
+          "sources": [
+            {
+              "title": "Campaign Finance Activity: Vote Yes on 3 (account 93318) - Florida Division of Elections",
+              "url": "https://dos.elections.myflorida.com/cgi-bin/TreSel.exe?account=93318",
+              "date": "2026-10-27"
+            },
+            {
+              "title": "Campaign Finance Activity: Floridians for Shared Prosperity, Inc. (account 93209) - Florida Division of Elections",
+              "url": "https://dos.elections.myflorida.com/cgi-bin/TreSel.exe?account=93209",
+              "date": "2026-10-27"
+            },
+            {
+              "title": "Campaign Finance Activity: Vote No on 3 Florida, Inc. (account 92021) - Florida Division of Elections",
+              "url": "https://dos.elections.myflorida.com/cgi-bin/TreSel.exe?account=92021",
+              "date": "2026-10-27"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-26",
+          "item": "Opponents held a Tampa news conference on Oct. 26 with Polk Sheriff Grady Judd and Florida Professional Firefighters president Wayne Bernoska. Judd: 'Amendment 3 is the wrong solution to the right issue.' Supporter Rep. Toby Overdorf (R-Stuart): 'I think long term, if in fact this does pass, the sheriffs will be just fine.'",
+          "sources": [
+            {
+              "title": "Grady Judd, public safety leaders raise emergency service concerns about Amendment 3 - FOX 13",
+              "url": "https://www.fox13news.com/news/grady-judd-public-safety-leaders-emergency-service-concerns-florida-amendment-3-warning",
+              "date": "2026-10-26"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-25",
+          "item": "Florida Policy Institute, which has helped fund the opposition campaign, released an estimate that Children's Services Councils and trusts in 14 counties could lose about $100 million in FY 2027-28 and $278 million over two years; MomsRising also opposes the amendment. Vote Yes on 3 chair Margy Grant says the average homeowner would see 'more than $1,000 in property tax savings' in 2027.",
+          "sources": [
+            {
+              "title": "Some families fear Amendment 3 will hurt child care and kids' programs - WUSF",
+              "url": "https://www.wusf.org/politics-issues/2026-10-25/some-families-fear-amendment-3-will-hurt-child-care-and-kids-programs",
+              "date": "2026-10-25"
+            },
+            {
+              "title": "What's at stake for Florida's housing market and water resources under Amendment 3 - WUSF",
+              "url": "https://www.wusf.org/politics-issues/2026-10-24/whats-at-stake-for-floridas-housing-market-and-water-resources-under-amendment-3",
+              "date": "2026-10-24"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-14",
+          "item": "PolitiFact reviewed competing claims about public-safety funding and gave no rating. It concluded that the amendment does not guarantee police, fire or EMS funding; it quoted the Tax Foundation's Jared Walczak ('The provision doesn't appear to restrict how property tax revenue can be spent in any meaningful way') and a Florida League of Cities finding that 85 cities could not fund public safety at current levels.",
+          "sources": [
+            {
+              "title": "FL's Amendment 3 would cut property taxes. Could it gut local police, fire, emergency money? - PolitiFact via NBC 6",
+              "url": "https://www.nbcmiami.com/news/politics/politifact/florida-amendment-3-property-taxes-cuts-public-services/3872923/",
+              "date": "2026-10-14"
             }
           ]
         }

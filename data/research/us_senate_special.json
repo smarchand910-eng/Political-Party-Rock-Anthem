@@ -734,6 +734,17 @@
               "date": "2026-10-13"
             }
           ]
+        },
+        {
+          "title": "Poll: UNF statewide survey (Oct. 12-19)",
+          "summary": "University of North Florida poll of 1,471 likely voters: Moody 49%, Nixon 45%, 5% undecided (margin of error about +/-2.8 points).",
+          "sources": [
+            {
+              "title": "UNF Public Opinion Research Lab: 'UNF Poll shows dead heat in race for Florida governor; Moody in slim lead for Senate' (press release)",
+              "url": "https://static1.squarespace.com/static/6994d571bce3436c60d86870/t/6ad8a5ec13c20404a1f8052b/1792583148294/UNF+PORL+FALL+Statewide+2026+FLLV+-+Press+Release+1021+EMBARGO.pdf",
+              "date": "2026-10-21"
+            }
+          ]
         }
       ],
       "record": [
@@ -1395,6 +1406,16 @@
               "title": "Angie Nixon Rallies USF Students in Tampa Senate Campaign Stop",
               "url": "https://hoodline.com/2026/10/angie-nixon-fires-up-usf-students-launches-senate-town-hall-series-in-tampa/",
               "date": "2026-10"
+            },
+            {
+              "title": "Rep. Angie Nixon Condemns Trump Administration Decision To Kick 750,000+ Americans Off Health Insurance",
+              "url": "https://angienixon.com/rep-angie-nixon-condemns-trump-administration-decision-to-kick-750000-americans-off-health-insurance/",
+              "date": "2026-09-26"
+            },
+            {
+              "title": "National Nurses United endorses Angie Nixon to represent Florida in the U.S. Senate",
+              "url": "https://www.nationalnursesunited.org/press/national-nurses-united-endorses-angie-nixon-to-represent-florida-in-the-us-senate",
+              "date": "2026-09-23"
             }
           ]
         },
@@ -1938,6 +1959,17 @@
               "date": "2026-10-12"
             }
           ]
+        },
+        {
+          "title": "Poll: UNF statewide survey (Oct. 12-19)",
+          "summary": "University of North Florida poll of 1,471 likely voters: Moody 49%, Nixon 45%, 5% undecided; independents favored Nixon by 15 points. Moody led by 8 in UNF's July poll.",
+          "sources": [
+            {
+              "title": "UNF Public Opinion Research Lab: 'UNF Poll shows dead heat in race for Florida governor; Moody in slim lead for Senate' (press release)",
+              "url": "https://static1.squarespace.com/static/6994d571bce3436c60d86870/t/6ad8a5ec13c20404a1f8052b/1792583148294/UNF+PORL+FALL+Statewide+2026+FLLV+-+Press+Release+1021+EMBARGO.pdf",
+              "date": "2026-10-21"
+            }
+          ]
         }
       ],
       "record": [
@@ -2220,6 +2252,21 @@
               "title": "Who to vote for in the U.S. Senate race? Our answer | Recommendation",
               "url": "https://www.tampabay.com/viewpoints/2026/10/16/angie-nixon-ashley-moody-us-senate/",
               "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "by": "Former President Barack Obama (video endorsement, Oct. 23-24)",
+          "sources": [
+            {
+              "title": "Obama backs Angie Nixon as Pres. Trump, Gov. DeSantis endorse Ashley Moody (CBS12)",
+              "url": "https://cbs12.com/news/local/obama-backs-angie-nixon-as-trump-desantis-endorse-ashley-moody-barack-obama-angie-nixon-ashley-moody-florida-senate-race-us-senate-election-florida-politics-2026-florida-election-democratic-party-republican-party-obama-endorsement-angie-nixon",
+              "date": "2026-10-24"
+            },
+            {
+              "title": "First Clinton, and now Jolly picks up an endorsement from Obama (Florida Today / USA TODAY Network, via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/first-clinton-now-jolly-picks-162004916.html",
+              "date": "2026-10-24"
             }
           ]
         }
@@ -2584,26 +2631,26 @@
   ],
   "events": [
     {
-      "date": "2026-10-13 — One candidate only",
-      "host": "Decision 2026: Before YOU Vote, Florida Atlantic University, Boca Raton (U.S. Senate); 7-8 p.m. statewide TV",
-      "who": "Nixon accepted all three Senate debate offers. Moody has declined, saying she will not 'give a stage or any attention' to Nixon; Nixon called it 'pure cowardice.' As of Sept. 22, 2026 no Senate debate was scheduled.",
+      "date": "2026-10-13",
+      "host": "Decision 2026: Before YOU Vote, Florida Atlantic University, Boca Raton (U.S. Senate). No Moody-Nixon debate took place (Moody declined). No coverage was found of any Nixon-only appearance in this slot, so a solo event can't be confirmed.",
+      "who": "Angie Nixon (accepted), Ashley Moody (declined)",
       "sources": [
         {
-          "title": "Florida could go without debates in any general election statewide political race",
-          "url": "https://www.wusf.org/politics-issues/2026-09-22/florida-no-debates-general-election-statewide-political-race",
-          "date": "2026-09-22"
+          "title": "Obama backs Angie Nixon as Pres. Trump, Gov. DeSantis endorse Ashley Moody (CBS12)",
+          "url": "https://cbs12.com/news/local/obama-backs-angie-nixon-as-trump-desantis-endorse-ashley-moody-barack-obama-angie-nixon-ashley-moody-florida-senate-race-us-senate-election-florida-politics-2026-florida-election-democratic-party-republican-party-obama-endorsement-angie-nixon",
+          "date": "2026-10-24"
         }
       ]
     },
     {
       "date": "2026-10-16",
-      "host": "St. Petersburg Area Chamber of Commerce 'Friday Forum' (members only). Scheduled; whether it happened and who attended is UNCONFIRMED (no coverage found). No Moody-Nixon debate has been held or scheduled.",
-      "who": "U.S. Senate candidates invited; attendance unknown.",
+      "host": "St. Petersburg Area Chamber of Commerce 'Friday Forum' (members only, informal). Still UNCONFIRMED as of Oct. 27: no news coverage or Chamber recap found. No Moody-Nixon debate was held or scheduled before Nov. 3.",
+      "who": "U.S. Senate candidates invited; attendance unknown",
       "sources": [
         {
-          "title": "Candidates Corner (St. Petersburg Chamber of Commerce) (undated; accessed 2026-10-17)",
-          "url": "https://www.stpete.com/candidates-corner/",
-          "date": "2026-10-17"
+          "title": "St. Petersburg Area Chamber of Commerce event calendar: Friday Forum - Happy Hour with the Candidates (undated; accessed 2026-10-27)",
+          "url": "https://business.stpete.com/eventcalendar/ICal/friday-forum-happy-hour-with-the-candidates-1904365.ics",
+          "date": "2026-10-27"
         }
       ]
     }

@@ -317,13 +317,13 @@
       "id": "mike_crabb",
       "name": "Mike Crabb",
       "party": "Nonpartisan",
-      "incumbent": false,
+      "incumbent": true,
       "photo_url": null,
       "photo_source": null,
       "website": "https://ilikemikecrabb.com/",
       "occupation": null,
       "residence": null,
-      "background": "Advanced to the runoff as runner-up in the District 2 primary (other candidates: George Oliver III, Marsha Summersill, Wes Hodge).",
+      "background": "Orange County Sheriff's Office lieutenant and owner of The Shirt Shop USA in Ocoee. Gov. Ron DeSantis appointed him to the District 2 seat in late July 2026, after Commissioner Christine Moore resigned to run for Apopka mayor; he was sworn in Aug. 25. He advanced to the runoff as runner-up in the District 2 primary (other candidates: George Oliver III, Marsha Summersill, Wes Hodge).",
       "primary_result": "Second in Aug 18 primary with close to 26%",
       "positions": {
         "taxes": {
@@ -539,7 +539,18 @@
           ]
         }
       ],
-      "record": [],
+      "record": [
+        {
+          "item": "Appointed Orange County Commissioner, District 2, by Gov. Ron DeSantis to fill the vacancy left by Christine Moore's resignation (reported Aug. 3, 2026).",
+          "sources": [
+            {
+              "title": "DeSantis taps sheriff's deputy to fill Orange County Commission vacancy (Orlando Weekly)",
+              "url": "https://www.orlandoweekly.com/news/orlando-area-news/desantis-taps-sheriffs-deputy-to-fill-orange-county-commission-vacancy/",
+              "date": "2026-08-03"
+            }
+          ]
+        }
+      ],
       "endorsements": [],
       "sources": [
         {

@@ -300,7 +300,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Data centers and utility costs",
+          "summary": "In a News 6 voter-guide questionnaire, Brodeur said data centers should pay their fair share of the energy and water infrastructure they require so costs are not shifted to households, citing a provision of SB 484 (2026), and that such projects should be sited responsibly.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Florida Senate District 10 (WKMG News 6 / News Collaborative of Central Florida; candidate questionnaire compiled by Oviedo Community News)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-senate-district-10/",
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted for CS/HJR 1-F (2026), the June 2026 joint resolution that placed Amendment 3 on the ballot to raise the non-school homestead exemption to $250,000 by 2028 and let counties and cities exempt homesteads entirely; because the vote sent the question to voters rather than cutting taxes itself, a vote for it is coded as leaning toward sharply reducing homestead property taxes rather than as full agreement.",
@@ -712,6 +724,28 @@
               "date": "2026-06-01"
             }
           ]
+        },
+        {
+          "title": "Data centers and utility costs",
+          "summary": "In a News 6 voter-guide questionnaire, Lowndes said regulators must keep data-center energy demand from shifting costs onto residential customers and protect water and air; he also proposed capping the return-on-equity portion of utility rate hikes at the national average and a public-option windstorm insurance program.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Florida Senate District 10 (WKMG News 6 / News Collaborative of Central Florida; candidate questionnaire compiled by Oviedo Community News)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-senate-district-10/",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        {
+          "title": "Late campaign advertising",
+          "summary": "Politico reported in late October that SD 10 has drawn a flurry of ads criticizing Lowndes over his record as Maitland mayor and clients he has represented as an attorney, while Brodeur has an on-camera endorsement ad featuring Gov. DeSantis.",
+          "sources": [
+            {
+              "title": "Florida GOP spends millions in push to save Tallahassee supermajority (Politico, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/florida-gop-spends-millions-push-200000150.html",
+              "date": "2026-10-26"
+            }
+          ]
         }
       ],
       "record": [],
@@ -723,6 +757,21 @@
               "title": "Disney World union workers knock on doors to support Democrats in Orange County (Florida Politics)",
               "url": "https://floridapolitics.com/archives/823660-disney-world-union-workers-knock-on-doors-to-support-democrats-in-orange-county/",
               "date": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "by": "Orlando Sentinel Editorial Board",
+          "sources": [
+            {
+              "title": "List of Orlando Sentinel's endorsements, recommendations for the November general election",
+              "url": "https://www.orlandosentinel.com/2026/10/15/list-of-orlando-sentinels-endorsements-recommendations-for-the-november-general-election/",
+              "date": "2026-10-15"
+            },
+            {
+              "title": "Endorsement: Send John Lowndes to fight for locals in the Senate (Orlando Sentinel Editorial Board; paywalled beyond first paragraph)",
+              "url": "https://www.orlandosentinel.com/2026/10/08/endorsement-send-john-lowndes-to-fight-for-locals-in-the-senate/",
+              "date": "2026-10-08"
             }
           ]
         }

@@ -19,7 +19,10 @@ for rid,cands in spec.items():
             st,summ,quote,srcs=spec_[:4]; conf=spec_[4] if len(spec_)>4 else 'stated'
             assert iid in issues, iid
             assert srcs, (cid,iid)
-            c['positions'][iid]={"stance":st,"confidence":conf,"summary":summ,"quote":quote,"sources":[{"title":t,"url":u,"date":dt} for t,u,dt in srcs]}
+            new_src=[{"title":t,"url":u,"date":dt} for t,u,dt in srcs]
+            # a re-coded issue keeps its earlier evidence: older sources not cited again are appended
+            old_src=[s for s in ((c['positions'].get(iid) or {}).get('sources') or []) if s.get('url') not in {x['url'] for x in new_src}]
+            c['positions'][iid]={"stance":st,"confidence":conf,"summary":summ,"quote":quote,"sources":new_src+old_src}
             n+=1
         if d.get('coverage')=='roster' and any(v.get('stance') is not None for v in c['positions'].values()): d['coverage']='partial'
     ind=1 if raw.startswith('{\n "') else 2

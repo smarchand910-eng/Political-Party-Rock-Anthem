@@ -360,6 +360,17 @@
               "date": "2026-10-16"
             }
           ]
+        },
+        {
+          "title": "Congressional stock trading",
+          "summary": "Singer said: \"I believe we need stronger penalties against congressional stock trading and I think we need them in the executive branch too.\"",
+          "sources": [
+            {
+              "title": "Scott Singer and Jared Moskowitz spar over attack ads at Boca Raton forum in Florida's 25th District race (CBS News Miami)",
+              "url": "https://www.cbsnews.com/miami/news/singer-moskowitz-forum-boca-raton-25th-congressional-district-ads/",
+              "date": "2026-10-20"
+            }
+          ]
         }
       ],
       "record": [
@@ -955,6 +966,22 @@
               "date": "2026-10-07"
             }
           ]
+        },
+        {
+          "title": "Israel",
+          "summary": "At the Oct. 20 Boca Raton forum Moskowitz pointed to his record supporting Israel and fighting antisemitism, saying he is \"proud to be known as the most pro-Israel Jewish Democrat in Congress.\"",
+          "sources": [
+            {
+              "title": "Jared Moskowitz, Scott Singer discuss Israel, economy in Boca Raton at congressional forum (WFLX)",
+              "url": "https://www.wflx.com/2026/10/21/moskowitz-singer-discuss-israel-economy-boca-raton-congressional-forum/",
+              "date": "2026-10-21"
+            },
+            {
+              "title": "Candidates in Florida's District 25 clash on key issues during forum with Jewish residents (CBS12)",
+              "url": "https://cbs12.com/news/local/candidates-in-floridas-district-25-clash-on-key-issues-during-forum-with-jewish-residents-florida-news-florida-politics-local-news-local-politics",
+              "date": "2026-10-20"
+            }
+          ]
         }
       ],
       "record": [
@@ -1241,6 +1268,36 @@
               "date": "2026-09-28"
             }
           ]
+        },
+        {
+          "by": "Miami Herald Editorial Board",
+          "sources": [
+            {
+              "title": "Not sure who to vote for? Here is our guide to voter guides for the 2026 midterms (WLRN, compiles Miami Herald, Palm Beach Post and Sun Sentinel editorial-board picks)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-23/voter-guides-endorsements-election-midterms-ballot-questions",
+              "date": "2026-10-23"
+            }
+          ]
+        },
+        {
+          "by": "Palm Beach Post Editorial Board",
+          "sources": [
+            {
+              "title": "Not sure who to vote for? Here is our guide to voter guides for the 2026 midterms (WLRN, compiles Miami Herald, Palm Beach Post and Sun Sentinel editorial-board picks)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-23/voter-guides-endorsements-election-midterms-ballot-questions",
+              "date": "2026-10-23"
+            }
+          ]
+        },
+        {
+          "by": "South Florida Sun Sentinel Editorial Board",
+          "sources": [
+            {
+              "title": "Not sure who to vote for? Here is our guide to voter guides for the 2026 midterms (WLRN, compiles Miami Herald, Palm Beach Post and Sun Sentinel editorial-board picks)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-23/voter-guides-endorsements-election-midterms-ballot-questions",
+              "date": "2026-10-23"
+            }
+          ]
         }
       ]
     },
@@ -1416,13 +1473,62 @@
   "events": [
     {
       "date": "Dates not announced",
-      "host": "No televised debate (the WPLG Local 10 debate was canceled in September). On Oct. 14 Moskowitz told CBS News Miami the two will face off on a Sun Sentinel Zoom and at two community forums; no dates or hosts given. Scheduled per Moskowitz, not confirmed.",
+      "host": "Update: the two met at a forum at Congregation B'nai Israel, Boca Raton, on Oct. 20 (held), and were scheduled to meet again at the Miami Beach JCC on Tuesday, Oct. 27. No televised debate; Singer challenged Moskowitz to one on Oct. 20, and no acceptance was reported. A Sun Sentinel Zoom event Moskowitz mentioned on Oct. 14 has not been confirmed.",
       "who": "Jared Moskowitz (D), Scott Singer (R)",
       "sources": [
         {
-          "title": "Democrat Jared Moskowitz taking on Republican Scott Singer in race for Florida's District 25",
-          "url": "https://www.cbsnews.com/miami/news/democrat-jared-moskowitz-republican-scott-singer-floridas-district-25/",
-          "date": "2026-10-14"
+          "title": "Scott Singer and Jared Moskowitz spar over attack ads at Boca Raton forum in Florida's 25th District race (CBS News Miami)",
+          "url": "https://www.cbsnews.com/miami/news/singer-moskowitz-forum-boca-raton-25th-congressional-district-ads/",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Candidates in Florida's District 25 clash on key issues during forum with Jewish residents (CBS12)",
+          "url": "https://cbs12.com/news/local/candidates-in-floridas-district-25-clash-on-key-issues-during-forum-with-jewish-residents-florida-news-florida-politics-local-news-local-politics",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Jared Moskowitz, Scott Singer discuss Israel, economy in Boca Raton at congressional forum (WFLX)",
+          "url": "https://www.wflx.com/2026/10/21/moskowitz-singer-discuss-israel-economy-boca-raton-congressional-forum/",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "host": "Candidate forum at Congregation B'nai Israel, Boca Raton (about an hour, 100+ attendees). Held. Topics included Israel and antisemitism, Iran, Cuba, Ukraine, Social Security and insurance costs; the two sparred over attack ads and congressional stock trading. Singer: \"I believe we need stronger penalties against congressional stock trading.\" Moskowitz: \"proud to be known as the most pro-Israel Jewish Democrat in Congress.\"",
+      "who": "Jared Moskowitz (D), Scott Singer (R)",
+      "sources": [
+        {
+          "title": "Scott Singer and Jared Moskowitz spar over attack ads at Boca Raton forum in Florida's 25th District race (CBS News Miami)",
+          "url": "https://www.cbsnews.com/miami/news/singer-moskowitz-forum-boca-raton-25th-congressional-district-ads/",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Candidates in Florida's District 25 clash on key issues during forum with Jewish residents (CBS12)",
+          "url": "https://cbs12.com/news/local/candidates-in-floridas-district-25-clash-on-key-issues-during-forum-with-jewish-residents-florida-news-florida-politics-local-news-local-politics",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Jared Moskowitz, Scott Singer discuss Israel, economy in Boca Raton at congressional forum (WFLX)",
+          "url": "https://www.wflx.com/2026/10/21/moskowitz-singer-discuss-israel-economy-boca-raton-congressional-forum/",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "host": "Candidate forum at the Miami Beach JCC. Scheduled (for 'next Tuesday,' per Oct. 20-21 reports), not yet reported on.",
+      "who": "Jared Moskowitz (D), Scott Singer (R)",
+      "sources": [
+        {
+          "title": "Candidates in Florida's District 25 clash on key issues during forum with Jewish residents (CBS12)",
+          "url": "https://cbs12.com/news/local/candidates-in-floridas-district-25-clash-on-key-issues-during-forum-with-jewish-residents-florida-news-florida-politics-local-news-local-politics",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Jared Moskowitz, Scott Singer discuss Israel, economy in Boca Raton at congressional forum (WFLX)",
+          "url": "https://www.wflx.com/2026/10/21/moskowitz-singer-discuss-israel-economy-boca-raton-congressional-forum/",
+          "date": "2026-10-21"
         }
       ]
     }

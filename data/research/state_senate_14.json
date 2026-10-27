@@ -235,6 +235,22 @@
               "date": "2026-09-30"
             }
           ]
+        },
+        {
+          "title": "Campaign mailers and outside spending",
+          "summary": "Florida Republican Senatorial Campaign Committee mailers approved by Tomkow tie Nathan to socialist groups; Nathan called the claims lies and denied any affiliation with socialist or communist groups. Politico reported Senate Republicans have spent millions trying to win back the seat.",
+          "sources": [
+            {
+              "title": "Socialism accusations emerge in bitter Nathan-Tomkow rematch (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/10/14/brian-nathan-josie-tomkow-socialism-repubican-senatorial-campaign-committee/",
+              "date": "2026-10-14"
+            },
+            {
+              "title": "Florida GOP spends millions in push to save Tallahassee supermajority (Politico, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/florida-gop-spends-millions-push-200000150.html",
+              "date": "2026-10-26"
+            }
+          ]
         }
       ],
       "record": [
@@ -590,7 +606,19 @@
           "sources": []
         }
       },
-      "other_issues": [],
+      "other_issues": [
+        {
+          "title": "Campaign mailers",
+          "summary": "The Tampa Bay Times reported that Tomkow approved Florida Republican Senatorial Campaign Committee mailers describing Nathan as a socialist; an FRSCC spokesperson defended them by citing Nathan's endorsement by Florida Rising.",
+          "sources": [
+            {
+              "title": "Socialism accusations emerge in bitter Nathan-Tomkow rematch (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/news/florida-politics/elections/2026/10/14/brian-nathan-josie-tomkow-socialism-repubican-senatorial-campaign-committee/",
+              "date": "2026-10-14"
+            }
+          ]
+        }
+      ],
       "record": [
         {
           "item": "Voted for CS/CS/HB 1645 (2024), the 2024 energy law that removed climate change as a priority of state energy policy, repealed several renewable-energy goals and grant programs, banned offshore wind turbines in state waters and eased regulation of natural-gas pipelines; a vote for it is coded as leaning against promoting renewable energy.",

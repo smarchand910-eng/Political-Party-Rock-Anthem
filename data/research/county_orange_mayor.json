@@ -235,6 +235,28 @@
               "date": "2026-10-12"
             }
           ]
+        },
+        {
+          "title": "Data centers",
+          "summary": "In an Oct. 2026 News 6 interview, Moore Russell said she does not support the large AI data centers being proposed, citing water use, power demand and water quality, and said she commended the county for seeking a moratorium. Quote: \"But I do not support the big data centers, the AI data centers that is being proposed today.\"",
+          "sources": [
+            {
+              "title": "Orange County mayoral candidates share concerns about large AI data centers (WKMG News 6)",
+              "url": "https://www.clickorlando.com/news/local/2026/10/19/orange-county-mayoral-candidates-share-concerns-about-large-ai-data-centers/",
+              "date": "2026-10-20"
+            }
+          ]
+        },
+        {
+          "title": "Jobs and economic development",
+          "summary": "In a News 6 interview, Moore Russell said the county should provide more incentives to attract businesses, called county permitting an impediment for those who want to invest, and said the county should keep investing in CareerSource and trades training.",
+          "sources": [
+            {
+              "title": "Orange County mayoral candidates pitch plans to bring high-paying jobs (WKMG News 6)",
+              "url": "https://www.clickorlando.com/news/local/2026/10/20/orange-county-mayoral-candidates-pitch-plans-to-bring-high-paying-jobs/",
+              "date": "2026-10-21"
+            }
+          ]
         }
       ],
       "record": [],
@@ -485,6 +507,28 @@
               "date": "2026-10-12"
             }
           ]
+        },
+        {
+          "title": "Data centers",
+          "summary": "In an Oct. 2026 News 6 interview, Messina said small data centers are needed but hyperscale data centers are not right for Florida, citing water impact; he suggested data centers make their own energy and said he likes the idea of putting them in space. Quote: \"It's the hyperscale data centers, the ones that are football fields in size, those I don't feel are right for Florida.\"",
+          "sources": [
+            {
+              "title": "Orange County mayoral candidates share concerns about large AI data centers (WKMG News 6)",
+              "url": "https://www.clickorlando.com/news/local/2026/10/19/orange-county-mayoral-candidates-share-concerns-about-large-ai-data-centers/",
+              "date": "2026-10-20"
+            }
+          ]
+        },
+        {
+          "title": "Jobs and economic development",
+          "summary": "In a News 6 interview, Messina described Orange County as a potential \"space tech capital,\" proposed redeveloping blighted strip malls into mixed-use places, and pointed to a shortage of skilled-trades workers.",
+          "sources": [
+            {
+              "title": "Orange County mayoral candidates pitch plans to bring high-paying jobs (WKMG News 6)",
+              "url": "https://www.clickorlando.com/news/local/2026/10/20/orange-county-mayoral-candidates-pitch-plans-to-bring-high-paying-jobs/",
+              "date": "2026-10-21"
+            }
+          ]
         }
       ],
       "record": [],
@@ -539,13 +583,30 @@
     },
     {
       "date": "2026-10-28",
-      "host": "WFTV Channel 9 televised debate, 7 p.m., in partnership with the Orlando Economic Partnership. Scheduled.",
-      "who": "Chris Messina and Tiffany Moore Russell",
+      "host": "WFTV Channel 9 and the Orlando Economic Partnership; televised one-hour debate moderated by Channel 9 anchors Greg Warmoth and Martha Sugalski. WFTV's Oct. 26 article gives the time as 8 to 9 p.m. (an earlier Orlando Economic Partnership newsletter said 7 p.m.). Watch on WFTV Channel 9, stream live at wftv.com/video, or use WFTV's free news and smart-TV apps. Format: 90-second openings and answers, optional 45-second rebuttals, 60-second closings. Still SCHEDULED as of Oct. 26.",
+      "who": "Tiffany Moore Russell and Chris Messina",
       "sources": [
         {
-          "title": "The Orlando Regional Perspective - October 9, 2026 (Orlando Economic Partnership)",
+          "title": "Tiffany Moore Russell and Chris Messina to debate for Orange County mayor (WFTV)",
+          "url": "https://www.wftv.com/news/local/tiffany-moore-russell-chris-messina-debate-orange-county-mayor/X37XBULAKFEKBEEZ5AZKICY4CQ/",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "The Orlando Regional Perspective, Oct. 9, 2026 (Orlando Economic Partnership)",
           "url": "https://news.orlando.org/blog/the-orlando-regional-perspective-october-9-2026/",
           "date": "2026-10-09"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "host": "League of Women Voters of Orange County forum in Winter Park, moderated by former Orange County Mayor Linda Chapin. HELD. Topics included affordable housing and tourist-tax dollars, transit, data centers and home rule.",
+      "who": "Tiffany Moore Russell and Chris Messina",
+      "sources": [
+        {
+          "title": "Mayoral candidate forum puts Orange County mayoral candidates in the hot seat on hot issues (WFTV)",
+          "url": "https://www.wftv.com/news/local/mayoral-candidate-forum-puts-orange-county-mayoral-candidates-hot-seat-hot-issues/BMOANAKRN5D57GUT5ON4U3P5GU/",
+          "date": "2026-09-09"
         }
       ]
     }

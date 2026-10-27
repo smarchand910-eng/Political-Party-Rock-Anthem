@@ -372,6 +372,32 @@
               "date": "2026-10-16"
             }
           ]
+        },
+        "marijuana": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "Hannoush lists ending cannabis prohibition as one of his top three priorities, calling possession a victimless crime and saying it is time to repeal the ban.",
+          "quote": "Cannabis possession is a victimless “crime”. It is time to repeal.",
+          "sources": [
+            {
+              "title": "2026 Voter’s Guide - Florida House District 28 (WKMG News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-house-district-28/",
+              "date": "2026-10-16"
+            }
+          ]
+        },
+        "housing": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Asked about housing affordability, Hannoush pointed to lower taxes and less government rather than new government programs, and said he favors eliminating property taxes on all properties.",
+          "quote": "We The People have more money in our own pockets for things such as housing when the government takes less of it.",
+          "sources": [
+            {
+              "title": "2026 Voter’s Guide - Florida House District 28 (WKMG News 6 / News Collaborative of Central Florida)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-house-district-28/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       },
       "other_issues": [

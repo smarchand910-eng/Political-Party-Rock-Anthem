@@ -118,6 +118,19 @@
               "date": "2026-09"
             }
           ]
+        },
+        "property_tax": {
+          "stance": 2,
+          "confidence": "stated",
+          "summary": "In an Oct. 2026 radio interview, Maples was described as a strong supporter of Amendment 3, the homestead-exemption increase, and said past homestead-exemption increases did not harm the economy.",
+          "quote": "Over the years in the history of Florida when this has been approved, the world didn't come crashing down, the economy didn't collapse.",
+          "sources": [
+            {
+              "title": "Palm Beach State House Race Continues To Get National Attention After Flipping Blue Last Spring (1290 WJNO Election Spotlight)",
+              "url": "https://wjno.iheart.com/featured/election-spotlight/content/2026-10-23-palm-beach-state-house-race-continues-to-get-national-attention-after-flipping-blue-last-spring/",
+              "date": "2026-10-23"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -134,6 +147,17 @@
               "title": "Jon Maples - Ballotpedia (2026 Candidate Connection survey)",
               "url": "https://ballotpedia.org/Jon_Maples",
               "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Ad spending",
+          "summary": "Politico reported both parties have spent hundreds of thousands of dollars on ads in HD 87, and incoming House Speaker Sam Garrison said Republicans will make sure Maples has the resources to get his message out.",
+          "sources": [
+            {
+              "title": "Florida GOP spends millions in push to save Tallahassee supermajority (Politico, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/florida-gop-spends-millions-push-200000150.html",
+              "date": "2026-10-26"
             }
           ]
         }
@@ -287,6 +311,19 @@
               "date": "2026-10-17"
             }
           ]
+        },
+        "immigration": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Gregory said she was disappointed to see Temporary Protected Status ended for Haitian immigrants, citing their role in the local workforce in nursing facilities, food service and home health.",
+          "quote": "And those protections to be ripped away, I was disappointed to see.",
+          "sources": [
+            {
+              "title": "Palm Beach State House Race Continues To Get National Attention After Flipping Blue Last Spring (1290 WJNO Election Spotlight)",
+              "url": "https://wjno.iheart.com/featured/election-spotlight/content/2026-10-23-palm-beach-state-house-race-continues-to-get-national-attention-after-flipping-blue-last-spring/",
+              "date": "2026-10-23"
+            }
+          ]
         }
       },
       "other_issues": [
@@ -303,6 +340,22 @@
               "title": "Issues - Emily Gregory for State House",
               "url": "https://www.emilygregoryforflorida.com/issues",
               "date": "2026-09"
+            }
+          ]
+        },
+        {
+          "title": "Ad spending and Amendment 3",
+          "summary": "Politico reported both parties have spent hundreds of thousands of dollars on ads in HD 87. In a WJNO interview Gregory called Amendment 3 a tax shift that would hurt municipalities and said she had supported a $100,000 homestead-exemption increase instead.",
+          "sources": [
+            {
+              "title": "Florida GOP spends millions in push to save Tallahassee supermajority (Politico, via Yahoo News)",
+              "url": "https://www.yahoo.com/news/politics/articles/florida-gop-spends-millions-push-200000150.html",
+              "date": "2026-10-26"
+            },
+            {
+              "title": "Palm Beach State House Race Continues To Get National Attention After Flipping Blue Last Spring (1290 WJNO Election Spotlight)",
+              "url": "https://wjno.iheart.com/featured/election-spotlight/content/2026-10-23-palm-beach-state-house-race-continues-to-get-national-attention-after-flipping-blue-last-spring/",
+              "date": "2026-10-23"
             }
           ]
         }
