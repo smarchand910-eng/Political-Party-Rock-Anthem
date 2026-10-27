@@ -40,9 +40,24 @@
       "headline_es": "Huracán Isaías: qué significa para votar en 30 condados de Florida",
       "headline_county_en": "Hurricane Isaias: what it means for voting in your county",
       "headline_county_es": "Huracán Isaías: qué significa para votar en su condado",
-      "body_en": "Isaias came ashore near Destin on Oct. 9 as a Category 2 hurricane, and a state of emergency covers 30 counties. As of Oct. 18, neither the Governor nor the Secretary of State has changed any election date, deadline or voting rule because of the storm (after Hurricanes Helene and Milton in 2024 such an order came later, so check again closer to Election Day). Mail ballots still have to reach your Supervisor of Elections by 7 p.m. on Nov. 3, and postmarks do not count. The Pensacola mail-processing plant was closed Oct. 9-12 and the Postal Service suspended about 70 Panhandle post offices on Oct. 11; service was restored by Oct. 15 except in Valparaiso, whose mail moved to Niceville. If you vote by mail, return your ballot early, or hand it in at an early-voting drop box or your Supervisor's office. Supervisors in Bay, Hillsborough, Leon, Levy, Okaloosa, Pasco, Pinellas and Santa Rosa have confirmed early voting is going ahead as scheduled; elsewhere this guide could not confirm it, so check your Supervisor of Elections before you go.",
-      "body_es": "Isaías tocó tierra cerca de Destin el 9 de octubre como huracán de categoría 2, y hay estado de emergencia en 30 condados. Al 18 de octubre, ni el Gobernador ni el Secretario de Estado han cambiado ninguna fecha, plazo o regla de votación por la tormenta (después de los huracanes Helene y Milton en 2024 esa orden llegó más tarde, así que vuelva a verificar cerca del día de la elección). Las boletas por correo todavía deben llegar a su Supervisor de Elecciones antes de las 7 p.m. del 3 de noviembre, y el matasellos no cuenta. La planta de procesamiento de correo de Pensacola estuvo cerrada del 9 al 12 de octubre y el Servicio Postal suspendió unas 70 oficinas del Panhandle el 11 de octubre; el servicio se restableció antes del 15 de octubre, excepto en Valparaiso, cuyo correo pasó a Niceville. Si vota por correo, devuelva su boleta pronto o entréguela en un buzón de votación anticipada o en la oficina de su Supervisor. Los supervisores de Bay, Hillsborough, Leon, Levy, Okaloosa, Pasco, Pinellas y Santa Rosa confirmaron que la votación anticipada sigue según lo previsto; en los demás condados esta guía no pudo confirmarlo, así que consulte a su Supervisor de Elecciones antes de ir.",
+      "body_en": "Isaias came ashore near Destin on Oct. 9 as a Category 2 hurricane, and a state of emergency covers 30 counties. As of Oct. 27, no election date, deadline or voting rule has been changed because of the storm: the Governor has issued no election order, and the Secretary of State's Oct. 26 update says early voting is under way statewide, with every county open at least Oct. 24-31. The state's daily figures for Oct. 27 show early ballots already cast in all 30 of these counties. Mail ballots must reach your Supervisor of Elections by 7 p.m. on Nov. 3; postmarks do not count, and the deadline to request a mailed ballot passed on Oct. 22. With a week left, it is safer to hand in a mail ballot than to mail it: use a drop box at an early-voting site during early-voting hours, or take it to your Supervisor's office. Panhandle mail service was restored by Oct. 15, except the Valparaiso post office, whose service is still at the Niceville post office. Check your Supervisor of Elections for your county's early-voting sites and hours.",
+      "body_es": "Isaías tocó tierra cerca de Destin el 9 de octubre como huracán de categoría 2, y hay estado de emergencia en 30 condados. Al 27 de octubre, la tormenta no ha cambiado ninguna fecha, plazo ni regla de votación: el Gobernador no ha emitido ninguna orden electoral, y el aviso del Secretario de Estado del 26 de octubre dice que la votación anticipada está en marcha en todo el estado, con todos los condados abiertos al menos del 24 al 31 de octubre. Las cifras diarias del estado del 27 de octubre muestran votos anticipados ya emitidos en los 30 condados. Las boletas por correo deben llegar a su Supervisor de Elecciones antes de las 7 p.m. del 3 de noviembre; el matasellos no cuenta, y el plazo para pedir una boleta por correo venció el 22 de octubre. A una semana de la elección, es más seguro entregar la boleta que enviarla por correo: use un buzón en un sitio de votación anticipada durante el horario de votación o llévela a la oficina de su Supervisor. El servicio de correo del Panhandle se restableció antes del 15 de octubre, excepto la oficina de Valparaiso, cuyo servicio sigue en la oficina de correos de Niceville. Consulte a su Supervisor de Elecciones para conocer los sitios y horarios de votación anticipada de su condado.",
       "sources": [
+        {
+          "title": "Secretary of State Cord Byrd Provides Election Readiness Update for the November 3rd General Election (Florida Department of State)",
+          "url": "https://dos.fl.gov/communications/press-releases/2026/secretary-of-state-cord-byrd-provides-election-readiness-update-for-the-november-3rd-general-election/",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Vote-by-Mail and Early Voting Statistics, 2026 General Election, by county (Florida Division of Elections; compiled Oct. 27, 2026, 8:07 a.m.)",
+          "url": "https://countyfilesvbm-ev.floridados.gov/VoteByMailEarlyVotingReports/PublicStats",
+          "date": "2026-10-27"
+        },
+        {
+          "title": "Executive Orders (Office of the Governor; newest is EO 26-213 of Oct. 16, 2026, on May tornadoes; checked 2026-10-27)",
+          "url": "https://www.flgov.com/eog/news/executive-orders",
+          "date": "2026-10-27"
+        },
         {
           "title": "Executive Order 26-212 (Hurricane Isaias), amending Executive Order 26-202",
           "url": "https://www.flgov.com/eog/sites/default/files/executive-orders/2026/EO%2026-212.pdf",
@@ -54,89 +69,19 @@
           "date": "2026-10-09"
         },
         {
-          "title": "Residential service disruptions: Florida (U.S. Postal Service)",
-          "url": "https://about.usps.com/newsroom/service-alerts/residential/florida.htm",
-          "date": "2026-10-16"
-        },
-        {
-          "title": "Bay County election officials prepare for early voting (WMBB, via Yahoo News)",
-          "url": "https://www.yahoo.com/news/politics/articles/bay-county-election-officials-prepare-220130649.html",
-          "date": "2026-10-14"
-        },
-        {
-          "title": "Vote Early, Bay County SOE (undated; accessed 2026-10-17)",
-          "url": "https://www.bayvotesfl.gov/vote-early/",
-          "date": "2026-10-17"
-        },
-        {
-          "title": "Office Closure, Bay County SOE",
-          "url": "https://www.bayvotesfl.gov/announcements/office-closure/",
-          "date": "2026-10-07"
-        },
-        {
-          "title": "Bay County SOE home page, Facebook post 'Our Sample Ballot Mailout was slightly delayed due to the storm' (shown as posted 9 hours ago; accessed 2026-10-17)",
-          "url": "https://www.bayvotesfl.gov/",
-          "date": "2026-10-17"
-        },
-        {
-          "title": "Two Full Weeks Of Early Voting Kick Off Monday Across Hillsborough County (Tampa Free Press)",
-          "url": "https://www.tampafp.com/two-full-weeks-of-early-voting-kick-off-monday-across-hillsborough-county/",
-          "date": "2026-10-16"
-        },
-        {
-          "title": "Early Voting in your county: When and where (WMNF)",
-          "url": "https://www.wmnf.org/early-voting-your-county-when-where-wmnf/",
-          "date": "2026-10-16"
-        },
-        {
-          "title": "Leon County Supervisor of Elections Announces Early Voting Schedule for 2026 General Election",
-          "url": "https://www.leonvotes.gov/Your-Elections-Office/News-and-Notices/ArtMID/465/ArticleID/85/Leon-County-Supervisor-of-Elections-Announces-Early-Voting-Schedule-for-2026-General-Election",
-          "date": "2026-10-16"
-        },
-        {
-          "title": "Early Voting for the 2026 General Election, Levy County SOE",
-          "url": "https://www.votelevy.gov/announcements/early-voting-for-the-2026-general-election/",
-          "date": "2026-10-15"
-        },
-        {
           "title": "Supervisors of elections: Early voting not affected by Hurricane Isaias (Navarre Press)",
           "url": "https://navarrepress.com/supervisors-of-elections-early-voting-not-affected-by-hurricane-isaias/",
           "date": "2026-10-15"
         },
         {
-          "title": "General Election Early Voting, Okaloosa County SOE (undated; accessed 2026-10-17)",
-          "url": "https://www.voteokaloosa.gov/events/general-election-early-voting/",
-          "date": "2026-10-17"
-        },
-        {
-          "title": "October 9, 2026 - Hurricane Isaias Office Closure, Okaloosa County SOE",
-          "url": "https://www.voteokaloosa.gov/announcements/october-9-2026-hurricane-isaias-office-closure/",
-          "date": "2026-10-07"
-        },
-        {
-          "title": "Early Voting for the 2026 General Election (media alert), Pasco County SOE",
-          "url": "https://www.pascovotes.gov/news_detail_T21_R111.php",
-          "date": "2026-10-14"
-        },
-        {
-          "title": "Early Voting for the 2026 Primary Election (media alert), Pasco County SOE",
-          "url": "https://www.pascovotes.gov/news_detail_T21_R91.php",
-          "date": "2026-08-05"
-        },
-        {
-          "title": "Early voting starts Monday across the Tampa Bay area. Here's where you can cast your ballot (WUSF)",
-          "url": "https://www.wusf.org/politics-issues/2026-10-16/early-voting-starts-monday-tampa-bay-area-where-to-cast-your-ballot",
-          "date": "2026-10-16"
-        },
-        {
-          "title": "Early Voting, Santa Rosa County SOE (banner: offices reopen Oct 14) (undated; accessed 2026-10-17)",
-          "url": "https://votesantarosa.gov/voter-information/how-to-vote/early-voting/",
-          "date": "2026-10-17"
-        },
-        {
           "title": "USPS Business service disruptions: Florida",
           "url": "https://about.usps.com/newsroom/service-alerts/business/florida.htm",
           "date": "2026-10-16"
+        },
+        {
+          "title": "Residential service disruptions: Florida (U.S. Postal Service; latest entry Oct. 16; checked 2026-10-27)",
+          "url": "https://about.usps.com/newsroom/service-alerts/residential/florida.htm",
+          "date": "2026-10-27"
         }
       ]
     },
@@ -148,8 +93,8 @@
       ],
       "headline_en": "Jackson County: mail-ballot problems after Hurricane Isaias",
       "headline_es": "Condado de Jackson: problemas con las boletas por correo tras el huracán Isaías",
-      "body_en": "Supervisor of Elections Carol Dunaway said on Oct. 14 that rain left some voters' return envelopes sealed shut before they could put their ballot in; if that happened to you, call her office for a new return envelope. Ballot mailing paused while the Pensacola mail plant was closed and restarted around Oct. 13, so allow 7 to 10 days for a ballot to arrive, and call the office if yours has not come within 10 days. The deadline to request a mail ballot is Oct. 22. Early voting in Jackson County runs Oct. 22-31, and early-voting sites have secure drop boxes for returning mail ballots.",
-      "body_es": "La Supervisora de Elecciones Carol Dunaway dijo el 14 de octubre que la lluvia dejó sellados los sobres de devolución de algunos votantes antes de que pudieran meter su boleta; si le pasó, llame a su oficina para pedir un sobre nuevo. El envío de boletas se detuvo mientras la planta de correo de Pensacola estuvo cerrada y se reanudó alrededor del 13 de octubre, así que espere de 7 a 10 días para que llegue la boleta y llame a la oficina si no ha llegado en 10 días. El plazo para pedir una boleta por correo es el 22 de octubre. La votación anticipada en el condado de Jackson es del 22 al 31 de octubre, y los sitios tienen buzones seguros para devolver las boletas por correo.",
+      "body_en": "Supervisor of Elections Carol Dunaway said on Oct. 14 that rain left some voters' return envelopes sealed shut before they could put their ballot in; if that happened to you, call her office for a new envelope, or bring the ballot to the office. Mailing of ballots paused while the Pensacola mail plant was closed and restarted around Oct. 13. The deadline to request a mailed ballot passed on Oct. 22, and a mail ballot must reach the office by 7 p.m. on Nov. 3. If yours has not arrived or is damaged, call the office, or vote early instead: early voting in Jackson County runs through Oct. 31 (the state's figures show 2,740 early ballots cast there as of Oct. 27), and early-voting sites have secure drop boxes for returning mail ballots.",
+      "body_es": "La Supervisora de Elecciones Carol Dunaway dijo el 14 de octubre que la lluvia dejó sellados los sobres de devolución de algunos votantes antes de que pudieran meter su boleta; si le pasó, llame a su oficina para pedir un sobre nuevo o lleve la boleta a la oficina. El envío de boletas se detuvo mientras la planta de correo de Pensacola estuvo cerrada y se reanudó alrededor del 13 de octubre. El plazo para pedir una boleta por correo venció el 22 de octubre, y la boleta debe llegar a la oficina antes de las 7 p.m. del 3 de noviembre. Si la suya no ha llegado o está dañada, llame a la oficina o vote en persona: la votación anticipada en el condado de Jackson sigue hasta el 31 de octubre (las cifras del estado muestran 2.740 votos anticipados emitidos allí al 27 de octubre), y los sitios tienen buzones seguros para devolver las boletas por correo.",
       "sources": [
         {
           "title": "Recent weather impacts vote by mail process (WMBB, via Yahoo News)",
@@ -162,9 +107,9 @@
           "date": "2026-10-17"
         },
         {
-          "title": "USPS Business service disruptions: Florida",
-          "url": "https://about.usps.com/newsroom/service-alerts/business/florida.htm",
-          "date": "2026-10-16"
+          "title": "Vote-by-Mail and Early Voting Statistics, 2026 General Election, by county (Florida Division of Elections; compiled Oct. 27, 2026, 8:07 a.m.)",
+          "url": "https://countyfilesvbm-ev.floridados.gov/VoteByMailEarlyVotingReports/PublicStats",
+          "date": "2026-10-27"
         }
       ]
     },
@@ -176,13 +121,18 @@
       ],
       "headline_en": "Lake County, Congressional District 6: a candidate was left off some mail ballots",
       "headline_es": "Condado de Lake, Distrito Congresional 6: un candidato quedó fuera de algunas boletas por correo",
-      "body_en": "About 9,000 vote-by-mail ballots Lake County sent to voters in Congressional District 6 left off Libertarian candidate Andrew Parrott. Voters who received one are being sent a postcard about it. If you got one of those ballots and want a corrected ballot, ask the Lake County Supervisor of Elections; the office will hand one out in person or mail it to you. Parrott's name is on the ballot for early voting and on Election Day. This affects only the District 6 race on Lake County mail ballots.",
-      "body_es": "Unas 9.000 boletas por correo que el condado de Lake envió a votantes del Distrito Congresional 6 omitieron al candidato libertario Andrew Parrott. Los votantes que recibieron una reciben una postal al respecto. Si recibió una de esas boletas y quiere una corregida, pídala al Supervisor de Elecciones del condado de Lake; la oficina la entrega en persona o se la envía por correo. El nombre de Parrott sí aparece en la boleta de votación anticipada y del día de la elección. Esto afecta solo a la contienda del Distrito 6 en las boletas por correo del condado de Lake.",
+      "body_en": "About 9,000 vote-by-mail ballots Lake County sent to voters in Congressional District 6 left off Libertarian candidate Andrew Parrott, and those voters are being sent a postcard about it. If you got one of those ballots and want a corrected one, contact the Lake County Supervisor of Elections; by state law the last day the office could mail a ballot was Oct. 24, so ask about getting one in person. Parrott's name is on the ballot at early voting (through Oct. 31 in Lake County) and on Election Day. This affects only the District 6 race on those Lake County mail ballots.",
+      "body_es": "Unas 9.000 boletas por correo que el condado de Lake envió a votantes del Distrito Congresional 6 omitieron al candidato libertario Andrew Parrott, y esos votantes reciben una postal al respecto. Si recibió una de esas boletas y quiere una corregida, comuníquese con el Supervisor de Elecciones del condado de Lake; por ley estatal, el último día en que la oficina podía enviar una boleta por correo fue el 24 de octubre, así que pregunte cómo obtenerla en persona. El nombre de Parrott aparece en la boleta de votación anticipada (hasta el 31 de octubre en el condado de Lake) y del día de la elección. Esto afecta solo a la contienda del Distrito 6 en esas boletas por correo del condado de Lake.",
       "sources": [
         {
           "title": "Lake County offers new mail-in ballots after officials forgot the Libertarian in CD 6 — but so far, there are no takers (Florida Politics)",
           "url": "https://floridapolitics.com/archives/824902-lake-county-offers-new-mail-in-ballots-after-officials-forgot-the-libertarian-in-cd-6-but-so-far-there-are-no-takers/",
           "date": "2026-10-14"
+        },
+        {
+          "title": "Secretary of State Cord Byrd Provides Election Readiness Update for the November 3rd General Election (Florida Department of State)",
+          "url": "https://dos.fl.gov/communications/press-releases/2026/secretary-of-state-cord-byrd-provides-election-readiness-update-for-the-november-3rd-general-election/",
+          "date": "2026-10-26"
         }
       ]
     }

@@ -12,10 +12,10 @@
     "Duval"
   ],
   "what_it_does": "Represents District 13 in the Florida House of Representatives; votes on state laws and the state budget.",
-  "on_november_ballot": true,
-  "decided_note": "Open seat: Democratic Rep. Angie Nixon is running for U.S. Senate. Audrey Gibson won the Aug. 18 Democratic primary over Leslie Jean-Bart; her only November opponent is a write-in candidate, so the write-in's name will not appear on the ballot.",
+  "on_november_ballot": false,
+  "decided_note": "Open seat: Democratic Rep. Angie Nixon is running for U.S. Senate. Audrey Gibson won the Aug. 18 Democratic primary over Leslie Jean-Bart. Her only November opponent, write-in candidate Brice Gaillard, withdrew; the Florida Division of Elections candidate list (checked Oct. 27, 2026) now lists Gibson as unopposed, which means she is elected without a vote. Mail ballots printed before the withdrawal may still show a write-in line for this race; anything written there is not counted.",
   "coverage": "partial",
-  "verified_ballot_note": "CBS Miami / News Service of Florida (Aug. 19, 2026) reported Audrey Gibson defeated Leslie Jean-Bart in the HD 13 Democratic primary and that 'her only general election opponent is a write-in candidate' (https://www.cbsnews.com/miami/news/florida-house-senate-primary-election-results-2026/). The write-in's name was not found. Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot.",
+  "verified_ballot_note": "CBS Miami / News Service of Florida (Aug. 19, 2026) reported Audrey Gibson defeated Leslie Jean-Bart in the HD 13 Democratic primary and that 'her only general election opponent is a write-in candidate' (https://www.cbsnews.com/miami/news/florida-house-senate-primary-election-results-2026/). The write-in's name was not found. Research limitation: every WebFetch (Ballotpedia, Wikipedia, Division of Elections, county SOEs, news sites) was blocked and the search budget was capped, so this roster comes only from search-result snippets and should be re-verified against the county Supervisor of Elections sample ballot. Update Oct. 27, 2026: the Florida Division of Elections candidate list shows Brice Gaillard (write-in) as Withdrew and Audrey Gibson as Unopposed (https://dos.elections.myflorida.com/candidates/CanList.asp).",
   "candidates": [
     {
       "id": "audrey_gibson",
@@ -318,7 +318,8 @@
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Brice_Gaillard"
         }
-      ]
+      ],
+      "withdrawn": "Withdrew (Florida Division of Elections candidate list, checked Oct. 27, 2026)"
     }
   ],
   "events": [

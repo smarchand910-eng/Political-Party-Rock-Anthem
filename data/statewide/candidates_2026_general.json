@@ -1,5 +1,5 @@
 {
- "_source": "Florida Division of Elections Candidate Tracking System, 20261103-GEN, state and local candidate extracts downloaded 2026-10-07 from https://dos.elections.myflorida.com/candidates/downloadcanlist.asp. Contact fields removed. Status meanings per the Division: Qualified = qualified for the ballot; Unopposed = no opponent (elected without a vote); Defeated = lost in the primary; Withdrew / Did Not Qualify / Removed = not on the ballot.",
+ "_source": "Florida Division of Elections Candidate Tracking System, 20261103-GEN, state and local candidate extracts downloaded 2026-10-27 from https://dos.elections.myflorida.com/candidates/downloadcanlist.asp. Contact fields removed. Status meanings per the Division: Qualified = qualified for the ballot; Unopposed = no opponent (elected without a vote); Defeated = lost in the primary; Withdrew / Did Not Qualify / Removed = not on the ballot.",
  "candidates": [
   {
    "ElectionID": "20261103-GEN",
@@ -2189,7 +2189,7 @@
    "PartyDesc": "No Party Affiliation (nonpartisan offices)",
    "NameLast": "Aull",
    "NameFirst": "Roy",
-   "NameMiddle": "E",
+   "NameMiddle": "E.",
    "County": "POL",
    "scope": "local"
   },
@@ -19767,8 +19767,8 @@
    "OfficeDesc": "State Representative",
    "Juris1num": "013",
    "Juris2num": "",
-   "StatusCode": "QUA",
-   "StatusDesc": "Qualified",
+   "StatusCode": "WIT",
+   "StatusDesc": "Withdrew",
    "PartyCode": "WRI",
    "PartyDesc": "Write-In",
    "NameLast": "Gaillard",
@@ -20599,8 +20599,8 @@
    "OfficeDesc": "State Representative",
    "Juris1num": "013",
    "Juris2num": "",
-   "StatusCode": "QUA",
-   "StatusDesc": "Qualified",
+   "StatusCode": "UNO",
+   "StatusDesc": "Unopposed",
    "PartyCode": "DEM",
    "PartyDesc": "Florida Democratic Party",
    "NameLast": "Gibson",
@@ -32509,7 +32509,7 @@
    "PartyDesc": "No Party Affiliation (nonpartisan offices)",
    "NameLast": "Lee",
    "NameFirst": "Michael",
-   "NameMiddle": "E",
+   "NameMiddle": "E.",
    "County": "POL",
    "scope": "local"
   },
@@ -35405,7 +35405,7 @@
    "PartyDesc": "No Party Affiliation (nonpartisan offices)",
    "NameLast": "Marsh",
    "NameFirst": "Kevin",
-   "NameMiddle": "R",
+   "NameMiddle": "R.",
    "County": "POL",
    "scope": "local"
   },
@@ -40381,7 +40381,7 @@
    "PartyDesc": "No Party Affiliation (nonpartisan offices)",
    "NameLast": "Murray",
    "NameFirst": "Deborah",
-   "NameMiddle": "J",
+   "NameMiddle": "J.",
    "County": "POL",
    "scope": "local"
   },
@@ -49613,7 +49613,7 @@
    "PartyDesc": "No Party Affiliation (nonpartisan offices)",
    "NameLast": "Schouten",
    "NameFirst": "Michael",
-   "NameMiddle": "C",
+   "NameMiddle": "C.",
    "County": "POL",
    "scope": "local"
   },
@@ -53629,7 +53629,7 @@
    "PartyDesc": "No Party Affiliation (nonpartisan offices)",
    "NameLast": "Svarczkopf",
    "NameFirst": "Frank",
-   "NameMiddle": "J",
+   "NameMiddle": "J.",
    "County": "POL",
    "scope": "local"
   },
