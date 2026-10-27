@@ -719,7 +719,18 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "The Bradenton Times (editorial recommendation)",
+          "sources": [
+            {
+              "title": "For Florida Senate District 20, we recommend Gerald Baldi (The Bradenton Times)",
+              "url": "https://thebradentontimes.com/stories/for-florida-senate-district-20-we-recommend-gerald-baldi,216732",
+              "date": "2026-10-16"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

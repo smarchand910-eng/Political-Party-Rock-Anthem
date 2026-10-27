@@ -265,6 +265,17 @@
               "date": "2026-10-01"
             }
           ]
+        },
+        {
+          "title": "Child safety and Chinese surrogacy",
+          "summary": "Rogers said his top day-one priority is passing the Safe Kids Act on Chinese surrogacy, which he called \"a massive national security issue. It's a massive human trafficking issue.\" He also supports expanding health savings accounts and interstate insurance shopping.",
+          "sources": [
+            {
+              "title": "Meet your Republican nominee for Florida's second district, Austin Rogers (WFSU)",
+              "url": "https://news.wfsu.org/state-news/2026-10-26/meet-your-republican-nominee-for-floridas-second-district-austin-rogers",
+              "date": "2026-10-26"
+            }
+          ]
         }
       ],
       "record": [
@@ -625,6 +636,17 @@
               "date": "2026-10-01"
             }
           ]
+        },
+        {
+          "title": "Congressional ethics",
+          "summary": "Green supports congressional term limits and banning members of Congress from owning and trading individual stocks, and wants \"dark money out of politics.\"",
+          "sources": [
+            {
+              "title": "Meet your Democratic nominee for Florida's 2nd district, Amanda Marie Green (WFSU)",
+              "url": "https://news.wfsu.org/state-news/2026-10-26/meet-your-democratic-nominee-for-floridas-2nd-district-amanda-marie-green",
+              "date": "2026-10-26"
+            }
+          ]
         }
       ],
       "record": [
@@ -693,20 +715,47 @@
               "date": "2026-10-14"
             }
           ]
+        },
+        {
+          "by": "North Florida Chapter of the Alliance for Retired Americans",
+          "sources": [
+            {
+              "title": "Amanda Green, Austin Rogers to face off in only Tallahassee forum (Tallahassee Democrat, via Yahoo)",
+              "url": "https://www.yahoo.com/news/politics/articles/amanda-green-austin-rogers-face-090255784.html",
+              "date": "2026-10-19"
+            }
+          ]
         }
       ]
     }
   ],
   "events": [
     {
-      "date": "Late October 2026 (no date set as of Oct. 17)",
-      "host": "Agreed in principle on Oct. 1; no host, date or venue announced. WJHG said it would report the date; no update found on WJHG, WCTV, WTXL or the campaign websites as of Oct. 17. Not yet held.",
-      "who": "Austin Rogers (R) and Amanda Marie Green (D)",
+      "date": "Agreed Oct. 1; no date ever announced (checked Oct. 27, 2026)",
+      "host": "The broadcast debate Rogers and Green agreed to on Oct. 1 (WJHG said it would report the date). As of Oct. 27 no host, date or venue has been announced and no coverage of a debate has been found; with Election Day on Nov. 3 it can't be confirmed that it will happen. The Tallahassee Democrat describes the Oct. 27 NEBA luncheon as the candidates' only Leon County forum.",
+      "who": "Austin Rogers (R), Amanda Marie Green (D)",
       "sources": [
         {
-          "title": "Rogers, Green agree to debate ahead of Florida’s 2nd Congressional District election",
+          "title": "Rogers, Green agree to debate ahead of Florida's 2nd Congressional District election (WJHG)",
           "url": "https://www.wjhg.com/2026/10/02/rogers-green-agree-debate-ahead-floridas-2nd-congressional-district-election/",
           "date": "2026-10-01"
+        },
+        {
+          "title": "Amanda Green, Austin Rogers to face off in only Tallahassee forum (Tallahassee Democrat, via Yahoo)",
+          "url": "https://www.yahoo.com/news/politics/articles/amanda-green-austin-rogers-face-090255784.html",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "host": "Network of Entrepreneurs & Business Advocates (NEBA) luncheon and candidate forum, Capital City Country Club, Tallahassee. Scheduled for today (Oct. 27); the Tallahassee Democrat calls it the candidates' only Leon County forum. Not yet reported on.",
+      "who": "Austin Rogers (R), Amanda Marie Green (D)",
+      "sources": [
+        {
+          "title": "Amanda Green, Austin Rogers to face off in only Tallahassee forum (Tallahassee Democrat, via Yahoo)",
+          "url": "https://www.yahoo.com/news/politics/articles/amanda-green-austin-rogers-face-090255784.html",
+          "date": "2026-10-19"
         }
       ]
     }

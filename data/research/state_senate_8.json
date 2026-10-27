@@ -298,6 +298,17 @@
               "date": "2026-09"
             }
           ]
+        },
+        {
+          "title": "Data centers and utility costs",
+          "summary": "In a News 6 voter-guide questionnaire, Johansson said regulators should find ways for data centers to pay their own way and named microreactors as a good start.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Florida Senate District 8 (WKMG News 6 / News Collaborative of Central Florida; responses compiled by Central Florida Public Media)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-senate-district-8/",
+              "date": "2026-10-16"
+            }
+          ]
         }
       ],
       "record": [],
@@ -1165,6 +1176,19 @@
               "title": "Judy Ngying for Senate 8 - Issues",
               "url": "https://www.judyforsenate8.com/issues",
               "date": "2026-09"
+            }
+          ]
+        },
+        "immigration": {
+          "stance": -2,
+          "confidence": "stated",
+          "summary": "Asked whether she agrees with current federal and state immigration enforcement, Ngying said she does not; she said violent immigrants should be deported or jailed but that most people without papers are awaiting their turn before a judge.",
+          "quote": "Not at all. It is barbaric and against what America has always stood for: freedom, justice and the rule of law.",
+          "sources": [
+            {
+              "title": "2026 Voter's Guide - Florida Senate District 8 (WKMG News 6 / News Collaborative of Central Florida; responses compiled by Central Florida Public Media)",
+              "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-senate-district-8/",
+              "date": "2026-10-16"
             }
           ]
         }

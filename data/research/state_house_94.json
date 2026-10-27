@@ -540,7 +540,18 @@
         }
       ],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "Palm Beach Post Editorial Board",
+          "sources": [
+            {
+              "title": "Not sure who to vote for? Here is our guide to voter guides for the 2026 midterms (WLRN; lists Miami Herald, Palm Beach Post and Sun Sentinel editorial-board picks)",
+              "url": "https://www.wlrn.org/government-politics/2026-10-23/voter-guides-endorsements-election-midterms-ballot-questions",
+              "date": "2026-10-23"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

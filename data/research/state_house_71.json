@@ -974,7 +974,18 @@
       },
       "other_issues": [],
       "record": [],
-      "endorsements": [],
+      "endorsements": [
+        {
+          "by": "The Bradenton Times (editorial recommendation)",
+          "sources": [
+            {
+              "title": "For Florida House District 71, we recommend Ocean Fitts (The Bradenton Times)",
+              "url": "https://thebradentontimes.com/stories/for-florida-house-district-71-we-recommend-ocean-fitts,217407",
+              "date": "2026-10-22"
+            }
+          ]
+        }
+      ],
       "links": [
         {
           "title": "Ballotpedia profile",

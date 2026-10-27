@@ -654,6 +654,55 @@
               "date": "2025-09-10"
             }
           ]
+        },
+        "tariffs": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "Jenkins's platform says she will oppose tariffs she calls reckless because they raise the cost of everyday goods, and in the WESH 2 debate she cited tariffs among the economic harms of current federal policy.",
+          "quote": "Oppose reckless tariffs that drive up the cost of everyday goods.",
+          "sources": [
+            {
+              "title": "Priorities - Jennifer Jenkins for U.S. Congress (campaign website) (undated; accessed 2026-10-27)",
+              "url": "https://jenkinsforfl.com/priorities",
+              "date": "2026-10-27"
+            },
+            {
+              "title": "Mike Haridopolos & Jennifer Jenkins Face Off in FL CD 8 Debate (The Floridian)",
+              "url": "https://floridianpress.com/2026/10/mike-haridopolos-jennifer-jenkins-face-off-in-fl-cd-8-debate/",
+              "date": "2026-10-07"
+            }
+          ]
+        },
+        "trump": {
+          "stance": -1,
+          "confidence": "stated",
+          "summary": "In the WESH 2 debate Jenkins criticized the economic effects of Trump administration policies (the One Big Beautiful Bill Act, the Iran conflict and tariffs), and her platform criticizes Medicaid cuts and expired ACA subsidies under GOP leadership.",
+          "quote": "",
+          "sources": [
+            {
+              "title": "Mike Haridopolos & Jennifer Jenkins Face Off in FL CD 8 Debate (The Floridian)",
+              "url": "https://floridianpress.com/2026/10/mike-haridopolos-jennifer-jenkins-face-off-in-fl-cd-8-debate/",
+              "date": "2026-10-07"
+            },
+            {
+              "title": "Priorities - Jennifer Jenkins for U.S. Congress (campaign website) (undated; accessed 2026-10-27)",
+              "url": "https://jenkinsforfl.com/priorities",
+              "date": "2026-10-27"
+            }
+          ]
+        },
+        "crime": {
+          "stance": 0,
+          "confidence": "stated",
+          "summary": "Jenkins's platform pairs stable funding, training and mental-health support for first responders with evidence-based strategies to reduce violence and recidivism.",
+          "quote": "Support evidence-based public safety strategies that reduce violence and recidivism.",
+          "sources": [
+            {
+              "title": "Priorities - Jennifer Jenkins for U.S. Congress (campaign website) (undated; accessed 2026-10-27)",
+              "url": "https://jenkinsforfl.com/priorities",
+              "date": "2026-10-27"
+            }
+          ]
         }
       },
       "other_issues": [],
@@ -724,6 +773,20 @@
         {
           "title": "Ballotpedia profile",
           "url": "https://ballotpedia.org/Jennifer_Jenkins"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "Early October 2026 (reported Oct. 7)",
+      "host": "WESH 2 Florida's 8th Congressional District general-election debate, moderated by Greg Fox; televised. Held. Topics included affordability, health care, Amendment 3, beach renourishment funding and veterans. Haridopolos credited the One Big Beautiful Bill Act's tax cuts (\"saved the average Floridian about $2,000\"); Jenkins criticized the economic effects of the Trump administration's policies, including tariffs.",
+      "who": "Mike Haridopolos (R), Jennifer Jenkins (D)",
+      "sources": [
+        {
+          "title": "Mike Haridopolos & Jennifer Jenkins Face Off in FL CD 8 Debate (The Floridian)",
+          "url": "https://floridianpress.com/2026/10/mike-haridopolos-jennifer-jenkins-face-off-in-fl-cd-8-debate/",
+          "date": "2026-10-07"
         }
       ]
     }

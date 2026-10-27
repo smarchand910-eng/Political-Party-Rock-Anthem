@@ -361,30 +361,25 @@
   "events": [
     {
       "date": "2026-10-08",
-      "host": "Informed Voter Coalition nonpartisan forum, St. Mary's Baptist Church, Punta Gorda (same event as HD 75). Whether it took place could not be confirmed: no post-event coverage found as of Oct. 18.",
-      "who": "Phillip Carter (D) confirmed; Rep. Vanessa Oliver (R) had not responded.",
+      "host": "Informed Voter Coalition nonpartisan forum, St. Mary's Baptist Church, Punta Gorda (same event as HD 75). Whether it HAPPENED could not be confirmed: no post-event coverage found as of Oct. 27.",
+      "who": "Phillip Carter (D) invited; Rep. Vanessa Oliver (R) had not responded, per the Sun's pre-event notice.",
       "sources": [
         {
-          "title": "Political forums scheduled (yoursun.com)",
+          "title": "Political forums scheduled (Englewood Sun / Charlotte Sun)",
           "url": "https://www.yoursun.com/englewood/news/political-forums-scheduled/article_723d9ca4-2510-4060-9e95-1bedab59ff0b.html",
           "date": "2026-10-07"
-        },
-        {
-          "title": "LETTER: Three candidates will skip our forum (yoursun.com)",
-          "url": "https://www.yoursun.com/charlotte/opinion/letters_to_editor/letter-three-candidates-will-skip-our-forum/article_6aa083e9-72af-406d-b5e5-a307b536c50e.html",
-          "date": "2026-09-29"
         }
       ]
     },
     {
       "date": "2026-10-06",
-      "host": "Punta Gorda Isles Civic Association 'Meet The Candidates' meet-and-greet (not a debate; table and short self-introduction), 5-7 p.m. Scheduled; no report found on whether it was held.",
+      "host": "Punta Gorda Isles Civic Association 'Meet The Candidates' meet-and-greet, 2001 Shreve St., Punta Gorda, 5-7 p.m. (not a debate; tables and short self-introductions). Whether it HAPPENED could not be confirmed: the event page still lists it, with no report afterward.",
       "who": "Phillip Carter (D) listed as confirmed; Rep. Vanessa Oliver (R) not listed.",
       "sources": [
         {
-          "title": "Meet The Candidates for Elected Public Office - Punta Gorda Isles Civic Association (undated; accessed 2026-10-18)",
+          "title": "Meet The Candidates for Elected Public Office (Punta Gorda Isles Civic Association event page) (undated; accessed 2026-10-27)",
           "url": "https://www.pgica.org/content.aspx?page_id=4091&club_id=799073&item_id=3053036",
-          "date": "2026-10-18"
+          "date": "2026-10-27"
         }
       ]
     }
