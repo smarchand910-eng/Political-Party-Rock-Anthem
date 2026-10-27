@@ -1,5 +1,5 @@
 {
- "_source": "FEC bulk candidate summary file for the 2025-2026 cycle (https://www.fec.gov/files/bulk-downloads/2026/weball26.zip), processed 2026-10-17. Totals are as reported through each candidate's latest filing (see 'through').",
+ "_source": "FEC bulk candidate summary file for the 2025-2026 cycle (https://www.fec.gov/files/bulk-downloads/2026/weball26.zip), processed 2026-10-27. Totals are as reported through each candidate's latest filing (see 'through').",
  "candidates": [
   {
    "fec_id": "H2FL00318",
@@ -35,13 +35,13 @@
    "party": "DEM",
    "office": "H",
    "district": "01",
-   "receipts": 275770.12,
-   "disbursements": 238642.92,
-   "cash_on_hand": 37127.2,
-   "individual": 269340.18,
+   "receipts": 295713.87,
+   "disbursements": 260991.04,
+   "cash_on_hand": 34722.83,
+   "individual": 289283.93,
    "pac": 4885.26,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H0FL01146",
@@ -203,13 +203,13 @@
    "party": "REP",
    "office": "H",
    "district": "01",
-   "receipts": 4371825.46,
-   "disbursements": 3473932.48,
-   "cash_on_hand": 897892.98,
-   "individual": 3539210.37,
-   "pac": 654300.0,
+   "receipts": 4467312.53,
+   "disbursements": 3527838.22,
+   "cash_on_hand": 939474.31,
+   "individual": 3615971.16,
+   "pac": 671300.0,
    "self": 12000.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL01408",
@@ -357,13 +357,13 @@
    "party": "DEM",
    "office": "H",
    "district": "02",
-   "receipts": 608896.0,
-   "disbursements": 538230.91,
-   "cash_on_hand": 70665.09,
-   "individual": 582011.01,
+   "receipts": 658316.41,
+   "disbursements": 630177.85,
+   "cash_on_hand": 28138.56,
+   "individual": 631431.42,
    "pac": 24000.0,
    "self": 2577.07,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL02398",
@@ -441,13 +441,13 @@
    "party": "REP",
    "office": "H",
    "district": "02",
-   "receipts": 1301031.69,
-   "disbursements": 960563.47,
-   "cash_on_hand": 340468.22,
-   "individual": 775144.62,
-   "pac": 150500.0,
+   "receipts": 1359851.76,
+   "disbursements": 1261556.5,
+   "cash_on_hand": 98295.26,
+   "individual": 800464.69,
+   "pac": 184000.0,
    "self": 375000.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL02349",
@@ -511,13 +511,13 @@
    "party": "DEM",
    "office": "H",
    "district": "03",
-   "receipts": 136467.56,
-   "disbursements": 90656.93,
-   "cash_on_hand": 45810.63,
-   "individual": 135037.64,
-   "pac": 0.0,
+   "receipts": 172434.58,
+   "disbursements": 128289.26,
+   "cash_on_hand": 44145.32,
+   "individual": 170738.66,
+   "pac": 266.0,
    "self": 1155.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL03115",
@@ -581,13 +581,13 @@
    "party": "REP",
    "office": "H",
    "district": "03",
-   "receipts": 2406547.77,
-   "disbursements": 1969389.71,
-   "cash_on_hand": 992708.96,
-   "individual": 1041327.14,
-   "pac": 933528.24,
+   "receipts": 2437580.31,
+   "disbursements": 2030841.86,
+   "cash_on_hand": 962289.35,
+   "individual": 1055862.88,
+   "pac": 934528.24,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H0FL03209",
@@ -665,13 +665,13 @@
    "party": "NPA",
    "office": "H",
    "district": "03",
-   "receipts": 119331.69,
-   "disbursements": 98936.85,
-   "cash_on_hand": 20394.84,
-   "individual": 35371.79,
+   "receipts": 120556.13,
+   "disbursements": 108144.35,
+   "cash_on_hand": 12411.78,
+   "individual": 35781.79,
    "pac": 0.0,
-   "self": 83959.9,
-   "through": "09/30/2026"
+   "self": 84774.34,
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL04195",
@@ -735,13 +735,13 @@
    "party": "DEM",
    "office": "H",
    "district": "04",
-   "receipts": 53761.15,
-   "disbursements": 21598.22,
-   "cash_on_hand": 42602.93,
-   "individual": 53273.15,
+   "receipts": 58546.29,
+   "disbursements": 24880.85,
+   "cash_on_hand": 44105.44,
+   "individual": 58058.29,
    "pac": 488.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL04211",
@@ -749,13 +749,13 @@
    "party": "REP",
    "office": "H",
    "district": "04",
-   "receipts": 2521861.77,
-   "disbursements": 2022779.73,
-   "cash_on_hand": 973803.03,
-   "individual": 1039304.6,
-   "pac": 1347650.01,
+   "receipts": 2682266.58,
+   "disbursements": 2579023.86,
+   "cash_on_hand": 577963.71,
+   "individual": 1073231.6,
+   "pac": 1426900.01,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL04253",
@@ -777,13 +777,13 @@
    "party": "OTH",
    "office": "H",
    "district": "04",
-   "receipts": 24186.0,
-   "disbursements": 14938.63,
-   "cash_on_hand": -582.63,
-   "individual": 14093.0,
+   "receipts": 24206.0,
+   "disbursements": 15016.63,
+   "cash_on_hand": 4857.0,
+   "individual": 14113.0,
    "pac": 0.0,
    "self": 10093.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H0FL04033",
@@ -847,13 +847,13 @@
    "party": "DEM",
    "office": "H",
    "district": "05",
-   "receipts": 417184.49,
-   "disbursements": 320098.82,
-   "cash_on_hand": 90057.6,
-   "individual": 411739.4,
+   "receipts": 448142.58,
+   "disbursements": 375233.44,
+   "cash_on_hand": 65881.07,
+   "individual": 442697.49,
    "pac": 0.0,
    "self": 4807.18,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL05284",
@@ -889,13 +889,13 @@
    "party": "REP",
    "office": "H",
    "district": "05",
-   "receipts": 895397.86,
-   "disbursements": 841296.14,
-   "cash_on_hand": 231771.37,
-   "individual": 327489.52,
-   "pac": 554750.0,
+   "receipts": 913650.12,
+   "disbursements": 851256.31,
+   "cash_on_hand": 240063.46,
+   "individual": 330991.78,
+   "pac": 569500.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL05201",
@@ -973,13 +973,13 @@
    "party": "DEM",
    "office": "H",
    "district": "06",
-   "receipts": 525921.82,
-   "disbursements": 421868.52,
-   "cash_on_hand": 104053.3,
-   "individual": 523182.26,
+   "receipts": 619304.84,
+   "disbursements": 522399.44,
+   "cash_on_hand": 96905.4,
+   "individual": 616565.28,
    "pac": 250.0,
    "self": 2064.56,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL06381",
@@ -1085,13 +1085,13 @@
    "party": "REP",
    "office": "H",
    "district": "06",
-   "receipts": 4615231.29,
-   "disbursements": 4454318.34,
-   "cash_on_hand": 160912.95,
-   "individual": 2692197.01,
+   "receipts": 4645044.9,
+   "disbursements": 4460456.43,
+   "cash_on_hand": 184588.47,
+   "individual": 2722010.62,
    "pac": 523360.19,
    "self": 950000.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL06324",
@@ -1156,12 +1156,12 @@
    "office": "H",
    "district": "06",
    "receipts": 3185.92,
-   "disbursements": 926781.19,
-   "cash_on_hand": 628329.93,
+   "disbursements": 927516.26,
+   "cash_on_hand": 627594.86,
    "individual": 0.0,
    "pac": 0.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL06290",
@@ -1281,13 +1281,13 @@
    "party": "DEM",
    "office": "H",
    "district": "07",
-   "receipts": 2137357.53,
-   "disbursements": 1693850.45,
-   "cash_on_hand": 443507.08,
-   "individual": 1799796.73,
-   "pac": 307125.01,
+   "receipts": 2334663.82,
+   "disbursements": 2132409.93,
+   "cash_on_hand": 202253.89,
+   "individual": 1961800.57,
+   "pac": 319625.01,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL08213",
@@ -1379,13 +1379,13 @@
    "party": "REP",
    "office": "H",
    "district": "07",
-   "receipts": 703149.37,
-   "disbursements": 470054.82,
-   "cash_on_hand": 233094.55,
-   "individual": 472549.37,
-   "pac": 96500.0,
+   "receipts": 818460.2,
+   "disbursements": 645454.08,
+   "cash_on_hand": 173006.12,
+   "individual": 520460.2,
+   "pac": 125500.0,
    "self": 134100.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL07249",
@@ -1421,13 +1421,13 @@
    "party": "DEM",
    "office": "H",
    "district": "08",
-   "receipts": 913654.1,
-   "disbursements": 707758.49,
-   "cash_on_hand": 205895.61,
-   "individual": 877654.1,
-   "pac": 18000.0,
+   "receipts": 960174.42,
+   "disbursements": 807452.37,
+   "cash_on_hand": 152722.05,
+   "individual": 919674.42,
+   "pac": 22500.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL08270",
@@ -1491,13 +1491,13 @@
    "party": "REP",
    "office": "H",
    "district": "08",
-   "receipts": 1994333.29,
-   "disbursements": 1276240.08,
-   "cash_on_hand": 976256.04,
-   "individual": 925060.88,
-   "pac": 816000.0,
+   "receipts": 2049237.21,
+   "disbursements": 1825049.83,
+   "cash_on_hand": 482350.21,
+   "individual": 943080.51,
+   "pac": 842750.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H8FL15107",
@@ -1519,13 +1519,13 @@
    "party": "DEM",
    "office": "H",
    "district": "09",
-   "receipts": 3464996.15,
-   "disbursements": 2137322.62,
-   "cash_on_hand": 1341792.07,
-   "individual": 1435524.39,
-   "pac": 1997050.0,
+   "receipts": 3652279.81,
+   "disbursements": 3416403.68,
+   "cash_on_hand": 249994.67,
+   "individual": 1567917.37,
+   "pac": 2051050.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H0FL09115",
@@ -1673,13 +1673,13 @@
    "party": "REP",
    "office": "H",
    "district": "09",
-   "receipts": 2187321.82,
-   "disbursements": 1671485.88,
-   "cash_on_hand": 516285.94,
-   "individual": 204346.82,
-   "pac": 135000.0,
-   "self": 1840000.0,
-   "through": "09/30/2026"
+   "receipts": 2692713.23,
+   "disbursements": 2243203.48,
+   "cash_on_hand": 449959.75,
+   "individual": 247588.23,
+   "pac": 197150.0,
+   "self": 2240000.0,
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL10185",
@@ -1701,13 +1701,13 @@
    "party": "DEM",
    "office": "H",
    "district": "10",
-   "receipts": 3799850.17,
-   "disbursements": 3678922.65,
-   "cash_on_hand": 1212653.24,
-   "individual": 3386195.86,
-   "pac": 361850.0,
+   "receipts": 3835169.08,
+   "disbursements": 3871032.37,
+   "cash_on_hand": 1055862.43,
+   "individual": 3419514.77,
+   "pac": 363850.0,
    "self": 9250.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL10358",
@@ -1771,13 +1771,13 @@
    "party": "DEM",
    "office": "H",
    "district": "11",
-   "receipts": 197288.78,
-   "disbursements": 175408.13,
-   "cash_on_hand": 21880.65,
-   "individual": 112823.78,
-   "pac": 19500.0,
+   "receipts": 225867.92,
+   "disbursements": 190672.27,
+   "cash_on_hand": 35195.65,
+   "individual": 130903.9,
+   "pac": 24500.0,
    "self": 64965.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H0FL08208",
@@ -1841,13 +1841,13 @@
    "party": "REP",
    "office": "H",
    "district": "11",
-   "receipts": 349275.67,
-   "disbursements": 261052.65,
-   "cash_on_hand": 88223.02,
-   "individual": 92368.36,
+   "receipts": 349206.82,
+   "disbursements": 349206.82,
+   "cash_on_hand": 0.0,
+   "individual": 92234.49,
    "pac": 2500.0,
    "self": 254148.15,
-   "through": "09/30/2026"
+   "through": "11/03/2026"
   },
   {
    "fec_id": "H6FL11316",
@@ -1869,13 +1869,13 @@
    "party": "REP",
    "office": "H",
    "district": "11",
-   "receipts": 5434537.62,
-   "disbursements": 4614554.48,
-   "cash_on_hand": 819983.14,
-   "individual": 353537.62,
-   "pac": 81000.0,
+   "receipts": 5512075.39,
+   "disbursements": 4652007.69,
+   "cash_on_hand": 860067.7,
+   "individual": 413825.39,
+   "pac": 95750.0,
    "self": 5000000.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL11340",
@@ -1925,13 +1925,13 @@
    "party": "DEM",
    "office": "H",
    "district": "12",
-   "receipts": 259933.72,
-   "disbursements": 229360.97,
-   "cash_on_hand": 30572.75,
-   "individual": 245080.42,
+   "receipts": 280117.97,
+   "disbursements": 250591.48,
+   "cash_on_hand": 29526.49,
+   "individual": 265264.67,
    "pac": 852.26,
    "self": 14001.04,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL09070",
@@ -1939,13 +1939,13 @@
    "party": "REP",
    "office": "H",
    "district": "12",
-   "receipts": 2167986.41,
-   "disbursements": 1792804.61,
-   "cash_on_hand": 496598.84,
-   "individual": 840583.25,
-   "pac": 1150450.01,
+   "receipts": 2255341.81,
+   "disbursements": 2122512.78,
+   "cash_on_hand": 254246.07,
+   "individual": 889029.09,
+   "pac": 1185450.01,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL12223",
@@ -1967,13 +1967,13 @@
    "party": "NPA",
    "office": "H",
    "district": "12",
-   "receipts": 8095.29,
-   "disbursements": 8056.09,
-   "cash_on_hand": -213.71,
-   "individual": 1095.26,
+   "receipts": 8195.29,
+   "disbursements": 8128.56,
+   "cash_on_hand": 27.53,
+   "individual": 1195.26,
    "pac": 0.0,
    "self": 7000.03,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL13220",
@@ -2037,13 +2037,13 @@
    "party": "DEM",
    "office": "H",
    "district": "13",
-   "receipts": 569488.62,
-   "disbursements": 553303.6,
-   "cash_on_hand": 16185.02,
-   "individual": 554379.33,
+   "receipts": 689951.44,
+   "disbursements": 700689.28,
+   "cash_on_hand": -10737.84,
+   "individual": 674729.58,
    "pac": 5000.0,
    "self": 10000.0,
-   "through": "03/31/2026"
+   "through": "09/30/2026"
   },
   {
    "fec_id": "H6FL13247",
@@ -2081,11 +2081,11 @@
    "district": "13",
    "receipts": 10638.58,
    "disbursements": 8588.97,
-   "cash_on_hand": 1572.56,
+   "cash_on_hand": 706.61,
    "individual": 7320.96,
    "pac": 0.0,
    "self": 3317.62,
-   "through": "06/30/2026"
+   "through": "09/30/2026"
   },
   {
    "fec_id": "H6FL13296",
@@ -2107,13 +2107,13 @@
    "party": "DEM",
    "office": "H",
    "district": "13",
-   "receipts": 2567273.31,
-   "disbursements": 1966771.45,
-   "cash_on_hand": 600501.86,
-   "individual": 2154805.99,
-   "pac": 296400.0,
+   "receipts": 2917664.89,
+   "disbursements": 2261242.12,
+   "cash_on_hand": 656422.77,
+   "individual": 2469263.52,
+   "pac": 307834.05,
    "self": 7115.2,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H0FL13158",
@@ -2121,13 +2121,13 @@
    "party": "REP",
    "office": "H",
    "district": "13",
-   "receipts": 4089079.71,
-   "disbursements": 3135895.62,
-   "cash_on_hand": 1084599.64,
-   "individual": 2525461.69,
-   "pac": 181000.0,
+   "receipts": 4351791.83,
+   "disbursements": 3736252.21,
+   "cash_on_hand": 746955.17,
+   "individual": 2747014.26,
+   "pac": 219500.0,
    "self": 97.37,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL13279",
@@ -2177,13 +2177,13 @@
    "party": "DEM",
    "office": "H",
    "district": "14",
-   "receipts": 4502016.74,
-   "disbursements": 3219313.6,
-   "cash_on_hand": 1509433.01,
-   "individual": 2761517.77,
-   "pac": 1316725.18,
+   "receipts": 4930537.26,
+   "disbursements": 4579831.79,
+   "cash_on_hand": 577435.34,
+   "individual": 3078538.29,
+   "pac": 1417725.18,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL11125",
@@ -2331,13 +2331,13 @@
    "party": "REP",
    "office": "H",
    "district": "14",
-   "receipts": 2614967.75,
-   "disbursements": 777024.97,
-   "cash_on_hand": 1837942.78,
-   "individual": 284118.7,
-   "pac": 112000.0,
+   "receipts": 2731427.99,
+   "disbursements": 999910.27,
+   "cash_on_hand": 1731517.72,
+   "individual": 331241.19,
+   "pac": 167775.0,
    "self": 2014000.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL14252",
@@ -2359,13 +2359,13 @@
    "party": "LIB",
    "office": "H",
    "district": "14",
-   "receipts": 10780.0,
-   "disbursements": 10628.47,
-   "cash_on_hand": 151.53,
-   "individual": 10600.0,
+   "receipts": 17091.52,
+   "disbursements": 14614.84,
+   "cash_on_hand": 2476.68,
+   "individual": 12080.0,
    "pac": 0.0,
-   "self": 180.0,
-   "through": "06/30/2026"
+   "self": 1522.52,
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL14269",
@@ -2415,13 +2415,13 @@
    "party": "DEM",
    "office": "H",
    "district": "15",
-   "receipts": 59151.23,
-   "disbursements": 47208.52,
-   "cash_on_hand": 11942.71,
-   "individual": 38879.62,
+   "receipts": 82518.46,
+   "disbursements": 55893.61,
+   "cash_on_hand": 26624.85,
+   "individual": 62246.85,
    "pac": 200.0,
    "self": 17071.61,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL07206",
@@ -2457,13 +2457,13 @@
    "party": "REP",
    "office": "H",
    "district": "15",
-   "receipts": 2684458.95,
-   "disbursements": 966204.97,
-   "cash_on_hand": 2153024.48,
-   "individual": 506232.77,
-   "pac": 986000.0,
+   "receipts": 2711189.14,
+   "disbursements": 1825503.39,
+   "cash_on_hand": 1320456.25,
+   "individual": 512962.96,
+   "pac": 1006000.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H8FL15230",
@@ -2569,13 +2569,13 @@
    "party": "DEM",
    "office": "H",
    "district": "16",
-   "receipts": 751617.25,
-   "disbursements": 398837.0,
-   "cash_on_hand": 352780.25,
-   "individual": 744115.25,
-   "pac": 7000.0,
+   "receipts": 876363.29,
+   "disbursements": 615224.22,
+   "cash_on_hand": 261139.07,
+   "individual": 861361.29,
+   "pac": 14500.0,
    "self": 502.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H4FL16179",
@@ -2603,7 +2603,7 @@
    "individual": 296368.26,
    "pac": 589009.5,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL16133",
@@ -2625,13 +2625,13 @@
    "party": "REP",
    "office": "H",
    "district": "16",
-   "receipts": 1573617.2,
-   "disbursements": 957312.08,
-   "cash_on_hand": 616305.12,
-   "individual": 1187417.59,
-   "pac": 331000.0,
+   "receipts": 1618888.17,
+   "disbursements": 1366391.11,
+   "cash_on_hand": 252497.06,
+   "individual": 1212438.56,
+   "pac": 351250.0,
    "self": 7000.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL06365",
@@ -2639,13 +2639,13 @@
    "party": "NPA",
    "office": "H",
    "district": "16",
-   "receipts": 64411.56,
-   "disbursements": 60787.79,
-   "cash_on_hand": 3623.77,
-   "individual": 51459.95,
+   "receipts": 66969.03,
+   "disbursements": 65269.61,
+   "cash_on_hand": 1699.42,
+   "individual": 54017.42,
    "pac": 0.0,
    "self": 9185.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H4FL17052",
@@ -2667,13 +2667,13 @@
    "party": "DEM",
    "office": "H",
    "district": "17",
-   "receipts": 148184.84,
-   "disbursements": 115162.82,
-   "cash_on_hand": 32982.02,
-   "individual": 109287.34,
+   "receipts": 156274.33,
+   "disbursements": 131111.49,
+   "cash_on_hand": 25122.84,
+   "individual": 117344.8,
    "pac": 0.0,
-   "self": 38897.5,
-   "through": "09/30/2026"
+   "self": 38929.53,
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL17065",
@@ -2695,13 +2695,13 @@
    "party": "REP",
    "office": "H",
    "district": "17",
-   "receipts": 1556646.96,
-   "disbursements": 1026800.33,
-   "cash_on_hand": 2121142.43,
-   "individual": 534488.16,
-   "pac": 740500.0,
+   "receipts": 1587826.76,
+   "disbursements": 1047067.22,
+   "cash_on_hand": 2132055.34,
+   "individual": 555167.96,
+   "pac": 751000.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL17081",
@@ -2709,13 +2709,13 @@
    "party": "NPA",
    "office": "H",
    "district": "17",
-   "receipts": 14926.94,
-   "disbursements": 11786.28,
+   "receipts": 32487.55,
+   "disbursements": 29346.89,
    "cash_on_hand": 3140.66,
    "individual": 100.0,
    "pac": 0.0,
-   "self": 14826.939999999999,
-   "through": "09/30/2026"
+   "self": 32387.55,
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL17106",
@@ -2765,13 +2765,13 @@
    "party": "REP",
    "office": "H",
    "district": "18",
-   "receipts": 987521.71,
-   "disbursements": 393572.74,
-   "cash_on_hand": 1075844.45,
-   "individual": 419329.58,
-   "pac": 460000.0,
+   "receipts": 1026403.99,
+   "disbursements": 625068.7,
+   "cash_on_hand": 883230.77,
+   "individual": 436590.58,
+   "pac": 480500.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL18138",
@@ -2793,13 +2793,13 @@
    "party": "NPA",
    "office": "H",
    "district": "18",
-   "receipts": 27028.8,
-   "disbursements": 28725.11,
-   "cash_on_hand": -1696.31,
-   "individual": 22008.8,
+   "receipts": 29703.8,
+   "disbursements": 31220.09,
+   "cash_on_hand": -1516.29,
+   "individual": 24683.8,
    "pac": 5000.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H4FL14091",
@@ -2863,13 +2863,13 @@
    "party": "REP",
    "office": "H",
    "district": "19",
-   "receipts": 4908252.59,
-   "disbursements": 4828212.78,
-   "cash_on_hand": 80082.81,
-   "individual": 322072.4,
-   "pac": 57000.0,
-   "self": 4440000.0,
-   "through": "09/30/2026"
+   "receipts": 7357432.7,
+   "disbursements": 5476245.76,
+   "cash_on_hand": 1881229.94,
+   "individual": 383626.04,
+   "pac": 119500.0,
+   "self": 6690000.0,
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL14186",
@@ -2933,13 +2933,13 @@
    "party": "REP",
    "office": "H",
    "district": "19",
-   "receipts": 5442607.42,
+   "receipts": 5442627.42,
    "disbursements": 3703960.33,
-   "cash_on_hand": 1738647.09,
-   "individual": 313823.66,
+   "cash_on_hand": 1738667.09,
+   "individual": 313843.66,
    "pac": 9750.0,
    "self": 5007095.86,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL19137",
@@ -2947,13 +2947,13 @@
    "party": "REP",
    "office": "H",
    "district": "19",
-   "receipts": 2790637.86,
-   "disbursements": 2251944.5,
-   "cash_on_hand": 538693.36,
-   "individual": 1191101.52,
-   "pac": 128000.0,
+   "receipts": 2828902.86,
+   "disbursements": 2322691.45,
+   "cash_on_hand": 506211.41,
+   "individual": 1217866.52,
+   "pac": 139500.0,
    "self": 1460000.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL19145",
@@ -3046,12 +3046,12 @@
    "office": "H",
    "district": "19",
    "receipts": 3410000.0,
-   "disbursements": 2462419.55,
-   "cash_on_hand": 947580.45,
+   "disbursements": 3410000.0,
+   "cash_on_hand": 0.0,
    "individual": 0.0,
    "pac": 0.0,
    "self": 3410000.0,
-   "through": "07/29/2026"
+   "through": "08/20/2026"
   },
   {
    "fec_id": "H6FL19301",
@@ -3073,13 +3073,13 @@
    "party": "REP",
    "office": "H",
    "district": "19",
-   "receipts": 21337.7,
-   "disbursements": 18762.97,
-   "cash_on_hand": 2574.73,
-   "individual": 6317.7,
+   "receipts": 25667.39,
+   "disbursements": 25667.39,
+   "cash_on_hand": 0.0,
+   "individual": 6421.8,
    "pac": 0.0,
-   "self": 15020.0,
-   "through": "07/29/2026"
+   "self": 19245.59,
+   "through": "09/30/2026"
   },
   {
    "fec_id": "H6FL19319",
@@ -3093,7 +3093,7 @@
    "individual": 0.0,
    "pac": 0.0,
    "self": 8000.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL20159",
@@ -3115,13 +3115,13 @@
    "party": "DEM",
    "office": "H",
    "district": "20",
-   "receipts": 3643468.52,
-   "disbursements": 3926133.4,
-   "cash_on_hand": 774644.04,
-   "individual": 2714057.93,
-   "pac": 871532.0,
+   "receipts": 3707925.05,
+   "disbursements": 3980663.58,
+   "cash_on_hand": 784570.39,
+   "individual": 2745732.32,
+   "pac": 903532.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H4FL20098",
@@ -3144,12 +3144,12 @@
    "office": "H",
    "district": "20",
    "receipts": 1337928.38,
-   "disbursements": 1328897.7,
-   "cash_on_hand": 9030.68,
+   "disbursements": 1335773.46,
+   "cash_on_hand": 2154.92,
    "individual": 1323624.51,
    "pac": 3500.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL20135",
@@ -3255,13 +3255,13 @@
    "party": "REP",
    "office": "H",
    "district": "20",
-   "receipts": 92565.58,
-   "disbursements": 74379.3,
-   "cash_on_hand": 18186.28,
-   "individual": 92565.58,
+   "receipts": 100349.66,
+   "disbursements": 83794.93,
+   "cash_on_hand": 16554.73,
+   "individual": 100349.66,
    "pac": 0.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL20119",
@@ -3269,13 +3269,13 @@
    "party": "IND",
    "office": "H",
    "district": "20",
-   "receipts": 18049.0,
-   "disbursements": 15507.62,
-   "cash_on_hand": 2541.38,
-   "individual": 9990.0,
+   "receipts": 126572.76,
+   "disbursements": 67221.55,
+   "cash_on_hand": 59351.21,
+   "individual": 13513.76,
    "pac": 0.0,
-   "self": 8059.0,
-   "through": "06/30/2026"
+   "self": 113059.0,
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL18096",
@@ -3325,13 +3325,13 @@
    "party": "DEM",
    "office": "H",
    "district": "21",
-   "receipts": 772560.78,
-   "disbursements": 689973.75,
-   "cash_on_hand": 82587.03,
-   "individual": 619155.89,
+   "receipts": 821778.76,
+   "disbursements": 770880.38,
+   "cash_on_hand": 50898.38,
+   "individual": 668373.87,
    "pac": 2000.0,
    "self": 150001.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL21082",
@@ -3367,13 +3367,13 @@
    "party": "REP",
    "office": "H",
    "district": "21",
-   "receipts": 4938231.74,
-   "disbursements": 3842099.97,
-   "cash_on_hand": 2867509.43,
-   "individual": 3684656.51,
-   "pac": 456200.0,
+   "receipts": 5097731.89,
+   "disbursements": 4490346.76,
+   "cash_on_hand": 2378762.79,
+   "individual": 3812767.66,
+   "pac": 484700.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL21066",
@@ -3409,13 +3409,13 @@
    "party": "NPA",
    "office": "H",
    "district": "21",
-   "receipts": 27157.99,
-   "disbursements": 25917.07,
-   "cash_on_hand": 1240.92,
-   "individual": 7163.0,
+   "receipts": 30244.18,
+   "disbursements": 28859.86,
+   "cash_on_hand": 1384.32,
+   "individual": 7313.0,
    "pac": 0.0,
-   "self": 19994.99,
-   "through": "09/30/2026"
+   "self": 22931.18,
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL21059",
@@ -3423,13 +3423,13 @@
    "party": "DEM",
    "office": "H",
    "district": "22",
-   "receipts": 3930911.6,
-   "disbursements": 2833915.42,
-   "cash_on_hand": 1096996.18,
-   "individual": 3095902.57,
-   "pac": 288872.0,
+   "receipts": 4619822.46,
+   "disbursements": 3884717.23,
+   "cash_on_hand": 735105.23,
+   "individual": 3601978.98,
+   "pac": 339872.0,
    "self": 247000.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL22222",
@@ -3591,13 +3591,13 @@
    "party": "REP",
    "office": "H",
    "district": "22",
-   "receipts": 4969074.64,
-   "disbursements": 4879059.83,
-   "cash_on_hand": 90014.81,
-   "individual": 322072.4,
-   "pac": 57000.0,
-   "self": 4440000.0,
-   "through": "09/30/2026"
+   "receipts": 7418254.75,
+   "disbursements": 5527092.81,
+   "cash_on_hand": 1891161.94,
+   "individual": 383626.04,
+   "pac": 119500.0,
+   "self": 6690000.0,
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL22255",
@@ -3661,13 +3661,13 @@
    "party": "DEM",
    "office": "H",
    "district": "23",
-   "receipts": 2580736.86,
-   "disbursements": 1920639.81,
-   "cash_on_hand": 947524.3,
-   "individual": 1838817.59,
-   "pac": 649000.0,
+   "receipts": 2631967.91,
+   "disbursements": 2355305.54,
+   "cash_on_hand": 564089.62,
+   "individual": 1863048.64,
+   "pac": 676000.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL23260",
@@ -3717,13 +3717,13 @@
    "party": "REP",
    "office": "H",
    "district": "23",
-   "receipts": 196857.44,
-   "disbursements": 170007.48,
-   "cash_on_hand": 30458.1,
-   "individual": 108681.93,
+   "receipts": 201144.96,
+   "disbursements": 171963.25,
+   "cash_on_hand": 32789.85,
+   "individual": 112969.45,
    "pac": 0.0,
    "self": 87003.65,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H4FL23126",
@@ -3885,13 +3885,13 @@
    "party": "DEM",
    "office": "H",
    "district": "24",
-   "receipts": 1278406.84,
-   "disbursements": 1008858.85,
-   "cash_on_hand": 269547.99,
-   "individual": 1189406.84,
-   "pac": 89000.0,
+   "receipts": 1458355.31,
+   "disbursements": 1031060.76,
+   "cash_on_hand": 427294.55,
+   "individual": 1328355.31,
+   "pac": 130000.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL24111",
@@ -3969,13 +3969,13 @@
    "party": "REP",
    "office": "H",
    "district": "24",
-   "receipts": 313396.57,
-   "disbursements": 130228.89,
-   "cash_on_hand": 183167.68,
-   "individual": 7328.08,
+   "receipts": 313459.03,
+   "disbursements": 144183.35,
+   "cash_on_hand": 169275.68,
+   "individual": 7390.54,
    "pac": 0.0,
    "self": 306068.33,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H0FL23041",
@@ -4011,13 +4011,13 @@
    "party": "DEM",
    "office": "H",
    "district": "25",
-   "receipts": 5093834.5,
-   "disbursements": 3628095.28,
-   "cash_on_hand": 1815025.92,
-   "individual": 3730198.6,
-   "pac": 898709.9,
+   "receipts": 5710776.47,
+   "disbursements": 4849990.04,
+   "cash_on_hand": 1210073.13,
+   "individual": 4169140.57,
+   "pac": 945209.9,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL23154",
@@ -4123,13 +4123,13 @@
    "party": "REP",
    "office": "H",
    "district": "25",
-   "receipts": 2989408.56,
-   "disbursements": 2429548.32,
-   "cash_on_hand": 559860.24,
-   "individual": 1857210.29,
-   "pac": 163300.0,
+   "receipts": 3255312.89,
+   "disbursements": 2788688.37,
+   "cash_on_hand": 466624.52,
+   "individual": 1935536.24,
+   "pac": 216200.0,
    "self": 724010.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H6FL25043",
@@ -4193,13 +4193,13 @@
    "party": "DEM",
    "office": "H",
    "district": "26",
-   "receipts": 560596.57,
-   "disbursements": 428587.81,
-   "cash_on_hand": 132008.76,
-   "individual": 308677.17,
+   "receipts": 599526.7,
+   "disbursements": 489536.92,
+   "cash_on_hand": 109989.78,
+   "individual": 347607.3,
    "pac": 0.0,
    "self": 250918.38,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H0FL25038",
@@ -4221,13 +4221,13 @@
    "party": "REP",
    "office": "H",
    "district": "26",
-   "receipts": 2606687.1,
-   "disbursements": 2354822.03,
-   "cash_on_hand": 2071185.27,
-   "individual": 1530988.19,
-   "pac": 1066400.0,
+   "receipts": 2763195.61,
+   "disbursements": 2906303.14,
+   "cash_on_hand": 1676212.67,
+   "individual": 1586496.7,
+   "pac": 1167400.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H4FL26111",
@@ -4347,13 +4347,13 @@
    "party": "DEM",
    "office": "H",
    "district": "27",
-   "receipts": 1339983.8,
-   "disbursements": 660596.02,
-   "cash_on_hand": 679387.78,
-   "individual": 1314483.8,
-   "pac": 18500.0,
+   "receipts": 1567392.71,
+   "disbursements": 945601.63,
+   "cash_on_hand": 621791.08,
+   "individual": 1513392.71,
+   "pac": 47000.0,
    "self": 7000.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H8FL27052",
@@ -4389,13 +4389,13 @@
    "party": "REP",
    "office": "H",
    "district": "27",
-   "receipts": 2368783.21,
-   "disbursements": 1772150.2,
-   "cash_on_hand": 2007460.15,
-   "individual": 626420.42,
-   "pac": 692078.55,
+   "receipts": 2519401.34,
+   "disbursements": 2249750.07,
+   "cash_on_hand": 1680478.41,
+   "individual": 639449.37,
+   "pac": 742578.55,
    "self": 2492.77,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H4FL28042",
@@ -4431,13 +4431,13 @@
    "party": "REP",
    "office": "H",
    "district": "28",
-   "receipts": 697484.55,
-   "disbursements": 531359.53,
-   "cash_on_hand": 742152.99,
-   "individual": 226287.89,
-   "pac": 347750.0,
+   "receipts": 722290.55,
+   "disbursements": 757535.32,
+   "cash_on_hand": 540783.2,
+   "individual": 230593.89,
+   "pac": 368250.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "H2FL26073",
@@ -4571,13 +4571,13 @@
    "party": "DEM",
    "office": "S",
    "district": "00",
-   "receipts": 913654.1,
-   "disbursements": 707758.49,
-   "cash_on_hand": 205895.61,
-   "individual": 877654.1,
-   "pac": 18000.0,
+   "receipts": 960174.42,
+   "disbursements": 807452.37,
+   "cash_on_hand": 152722.05,
+   "individual": 919674.42,
+   "pac": 22500.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "S6FL00806",
@@ -4599,13 +4599,13 @@
    "party": "DEM",
    "office": "S",
    "district": "00",
-   "receipts": 8177943.83,
-   "disbursements": 4052942.27,
-   "cash_on_hand": 4113082.56,
-   "individual": 8024793.83,
-   "pac": 153150.0,
+   "receipts": 11319380.4,
+   "disbursements": 8052585.63,
+   "cash_on_hand": 3266794.77,
+   "individual": 11008158.24,
+   "pac": 218222.16,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "S6FL00855",
@@ -4697,13 +4697,13 @@
    "party": "REP",
    "office": "S",
    "district": "00",
-   "receipts": 13338185.45,
-   "disbursements": 10518105.73,
-   "cash_on_hand": 2820079.72,
-   "individual": 6450625.42,
-   "pac": 2361500.0,
+   "receipts": 14524031.96,
+   "disbursements": 13707676.85,
+   "cash_on_hand": 816355.11,
+   "individual": 6832682.27,
+   "pac": 2404500.0,
    "self": 0.0,
-   "through": "09/30/2026"
+   "through": "10/14/2026"
   },
   {
    "fec_id": "S6FL00657",
@@ -4717,7 +4717,7 @@
    "individual": 5938.1,
    "pac": 0.0,
    "self": 26937.73,
-   "through": "06/30/2026"
+   "through": "09/30/2026"
   },
   {
    "fec_id": "S6FL00848",
@@ -4781,13 +4781,13 @@
    "party": "NPA",
    "office": "S",
    "district": "00",
-   "receipts": 13212.81,
-   "disbursements": 12312.61,
-   "cash_on_hand": 900.2,
+   "receipts": 13283.81,
+   "disbursements": 12650.24,
+   "cash_on_hand": 633.57,
    "individual": 8000.0,
    "pac": 0.0,
-   "self": 3622.56,
-   "through": "09/30/2026"
+   "self": 3627.56,
+   "through": "10/14/2026"
   }
  ]
 }
