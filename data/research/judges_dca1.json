@@ -1,0 +1,602 @@
+{
+  "court": "First District Court of Appeal",
+  "dca": 1,
+  "ballot_note": "The Florida Bar News reports that Joseph Lewis, Jr., Rachel Nordby, Tim Osterhaus, Clay Roberts and Raymond Treadwell of the First DCA qualified for merit retention on the Nov. 3, 2026 general-election ballot. Ballotpedia's 2026 page lists Adam Tanenbaum instead of Treadwell; Florida Phoenix reported in January 2026 that Tanenbaum was elevated to the Florida Supreme Court, which is consistent with the Florida Bar list. The Florida Bar notes that no Florida appellate jurist has ever failed a retention vote; a 'yes' vote retains the judge for a six-year term.",
+  "ballot_note_sources": [
+    {
+      "title": "Justice Muñiz and 22 DCA judges to stand for merit retention (Florida Bar News)",
+      "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+      "date": "2026"
+    },
+    {
+      "title": "Florida intermediate appellate court elections, 2026 (Ballotpedia)",
+      "url": "https://ballotpedia.org/Florida_intermediate_appellate_court_elections,_2026",
+      "date": null
+    },
+    {
+      "title": "Tanenbaum Supreme Court elevation leaves a spot on First District Court of Appeal (Florida Phoenix)",
+      "url": "https://floridaphoenix.com/2026/01/16/tanenbaum-supreme-court-elevation-leaves-a-spot-on-first-district-court-of-appeal/",
+      "date": "2026-01-16"
+    },
+    {
+      "title": "Supreme Court Justice Carlos Muniz, 22 district court judges face merit retention votes (Florida Trib)",
+      "url": "https://floridatrib.org/2026/10/26/supreme-court-justice-carlos-muniz-22-district-court-judges-face-merit-retention-votes/",
+      "date": "2026-10-26"
+    }
+  ],
+  "judges": [
+    {
+      "name": "Joseph Lewis, Jr.",
+      "court": "First District Court of Appeal",
+      "ballot_question": "Shall Judge Joseph Lewis, Jr. of the First District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Jeb Bush",
+      "appointed_year": 2000,
+      "background": "Joseph Lewis Jr. was born in Tallahassee in 1953 and earned degrees from the University of Montana (1974) and Florida State University College of Law (1977). He began his career as a judicial research aide, worked as an assistant public defender, and spent most of 1981 to 1995 in the Florida Attorney General's office, where he became a bureau chief. Gov. Jeb Bush announced his appointment to the First District Court of Appeal on Nov. 17, 2000, to fill the seat of retiring Judge Arthur Lawrence; he took office on Jan. 2, 2001, becoming the second African-American judge to serve on the court. He served as the court's chief judge from July 2013 to July 2015. Ballotpedia reports he won a merit-retention election on Nov. 3, 2020, and his current term ends Jan. 5, 2027.",
+      "rulings": [
+        {
+          "case": "Florida Carry v. University of Florida (guns in campus housing)",
+          "date": "2015-10",
+          "topic": "Guns / state firearms preemption",
+          "what_it_decided": "The panel upheld the University of Florida's policy barring firearms in student housing, rejecting a challenge by the gun-rights group Florida Carry. The opinion said reaching the group's result would require a strained reading of the statutes and noted that the Legislature may one day choose to amend the law to permit firearms in university housing; it also found the group lacked sufficient standing to appeal.",
+          "vote": "3-0 on the outcome (per news reports, Judges Makar and Osterhaus agreed with the result)",
+          "role": "Author of majority opinion",
+          "note": null,
+          "sources": [
+            {
+              "title": "1st DCA upholds UF policy against guns in student housing (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/193563-1st-dca-upholds-uf-policy-against-guns-in-student-housing/",
+              "date": "2015-10"
+            },
+            {
+              "title": "Court upholds UF policy barring guns in dorms (News4Jax / News Service of Florida)",
+              "url": "https://www.news4jax.com/news/2015/10/30/court-upholds-uf-policy-barring-guns-in-dorms/",
+              "date": "2015-10-30"
+            }
+          ]
+        },
+        {
+          "case": "Levey v. Detzner (candidate qualifying fee)",
+          "date": "2014",
+          "topic": "Elections / ballot access",
+          "what_it_decided": "In a 2-1 decision, the court held that state law clearly requires a candidate's qualifying fee to be paid before the qualifying period ends, and that if a qualifying check is returned for any reason the candidate must pay by cashier's check before the period closes. Then-Chief Judge Lewis wrote the majority opinion.",
+          "vote": "2-1",
+          "role": "Author of majority opinion",
+          "note": "Source is a third-party case summary (Studicata); the dissent's reasoning was not available in search results.",
+          "sources": [
+            {
+              "title": "Levey v. Detzner (2014) case summary (Studicata)",
+              "url": "https://www.studicata.com/summaries/district-court-of-appeal-of-florida/levey-v-detzner-2014-pzbffq",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record_summary": "Only two signed opinions by Judge Lewis could be tied to him through search results; most recent First DCA decisions naming him are unsigned per curiam affirmances on which he sat with other judges (for example, Mency v. State, Jan. 30, 2026, and McCray v. State, March 26, 2026, per the Counsel Stack and FLexlaw case aggregators). Florida Phoenix reported that Judge Lewis was among three judges recused from the court's December 2023 en banc decision in the North Florida congressional redistricting case (Black Voters Matter v. Byrd), so he took no part in that ruling. Note that several search results about dissents by a 'Justice Lewis' concern former Florida Supreme Court Justice R. Fred Lewis, not this judge. In past Florida Bar member polls (years not stated in the snippets), 81 percent and 84 percent of responding lawyers favored retaining him; no 2026 poll figure was found. No organized campaign for or against his retention was found in search results. The Florida Bar notes that no Florida appellate jurist has ever failed a merit-retention vote.",
+      "photo_url": null,
+      "sources": [
+        {
+          "title": "Joseph Lewis (Ballotpedia)",
+          "url": "https://ballotpedia.org/Joseph_Lewis",
+          "date": null
+        },
+        {
+          "title": "Joseph Lewis Jr. (Florida judge) (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Joseph_Lewis_Jr._(Florida_judge)",
+          "date": null
+        },
+        {
+          "title": "2000 Gov. Bush press release announcing Lewis appointment (Scribd copy)",
+          "url": "https://www.scribd.com/document/436529593/2000-Bush-Press-Release-Lewis",
+          "date": "2000-11-17"
+        },
+        {
+          "title": "NSU news item on Chief Judge Joseph Lewis Jr.",
+          "url": "https://nsunews.nova.edu/index1c7d.html?p=69810",
+          "date": null
+        },
+        {
+          "title": "Justice Muñiz and 22 DCA judges to stand for merit retention (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+          "date": "2026"
+        },
+        {
+          "title": "Florida intermediate appellate court elections, 2026 (Ballotpedia)",
+          "url": "https://ballotpedia.org/Florida_intermediate_appellate_court_elections,_2026",
+          "date": null
+        },
+        {
+          "title": "State appeals court upholds diminishment of Black voting strength in North Florida (Florida Phoenix)",
+          "url": "https://floridaphoenix.com/2023/12/01/state-appeals-court-upholds-diminishment-of-black-voting-strength-in-north-florida/",
+          "date": "2023-12-01"
+        },
+        {
+          "title": "Florida lawyers rate jurists facing retention vote (Florida Bar News, earlier cycle)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/florida-lawyers-rate-jurists-facing-retention-vote/",
+          "date": null
+        },
+        {
+          "title": "Mency v. State of Florida, 1D2025-1158 (Counsel Stack)",
+          "url": "https://law.counselstack.com/opinion/mency-v-state-of-florida-fladistctapp-2026",
+          "date": "2026-01-30"
+        }
+      ]
+    },
+    {
+      "name": "Rachel Nordby",
+      "court": "First District Court of Appeal",
+      "ballot_question": "Shall Judge Rachel Nordby of the First District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Ron DeSantis",
+      "appointed_year": 2019,
+      "background": "Rachel Nordby earned a bachelor's degree in classical studies from the University of Florida and a J.D. from Florida State University College of Law, where she was editor-in-chief of the law review. She clerked for Judge Bradford L. Thomas on the First District Court of Appeal, served as senior deputy solicitor general under Attorney General Pam Bondi, and was a partner and vice-chair of the appellate practice group in the Tallahassee office of Shutts & Bowen LLP. Gov. Ron DeSantis appointed her to the First DCA on Oct. 16, 2019, and she took office on Oct. 23, 2019. Ballotpedia reports she won a merit-retention election on Nov. 3, 2020, with 66.9 percent of the vote; her current term ends Jan. 5, 2027. She chaired the Florida Supreme Court's Workgroup on Vexatious Litigation, created by Chief Justice Carlos Muñiz, and presented its findings to a state Senate committee.",
+      "rulings": [
+        {
+          "case": "Florida Center for Government Accountability v. Executive Office of the Governor (migrant-flight public records)",
+          "date": "2025-02",
+          "topic": "Public records",
+          "what_it_decided": "A three-judge panel overturned a trial-court ruling and sided with Gov. DeSantis's office in a public-records dispute over communications about the 2022 migrant flights to Martha's Vineyard. Writing for the panel, Judge Nordby concluded the governor's office did not unlawfully delay releasing the records, reasoning that its response time was reasonable given the size and scope of the request and a hurricane emergency that coincided with it.",
+          "vote": "3-0",
+          "role": "Author of majority opinion",
+          "note": "Judges Brad Thomas and Thomas Winokur joined the opinion.",
+          "sources": [
+            {
+              "title": "Appeals court rules that Gov. DeSantis did not delay release of migrant flight communications (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/721898-appeals-court-rules-that-gov-desantis-did-not-delay-release-of-migrant-flight-communications/",
+              "date": "2025-02"
+            },
+            {
+              "title": "An appeals court backs DeSantis, overturns ruling on providing migrant flight records (WUSF / News Service of Florida)",
+              "url": "https://wusf.org/text/courts-law/2025-02-19/appeals-court-backs-desantis-providing-migrant-flight-records",
+              "date": "2025-02-19"
+            }
+          ]
+        },
+        {
+          "case": "Parental-consent abortion appeal from Calhoun County (minor's judicial waiver)",
+          "date": "2023-12",
+          "topic": "Abortion / parental consent",
+          "what_it_decided": "A unanimous three-judge panel upheld a Calhoun County circuit judge's ruling that denied a minor's request to obtain an abortion without parental notice and consent under Florida's parental-consent law. Judge Nordby sat on the panel with Judges Robert Long and M. Kemmerly Thomas.",
+          "vote": "3-0",
+          "role": "Joined majority",
+          "note": "The news report does not identify an author of the opinion.",
+          "sources": [
+            {
+              "title": "Florida appellate panel upholds blocking a minor's abortion under consent law (WUSF / News Service of Florida)",
+              "url": "https://www.wusf.org/courts-law/2023-12-18/florida-appellate-panel-upholds-blocking-a-minors-abortion-under-consent-law",
+              "date": "2023-12-18"
+            }
+          ]
+        }
+      ],
+      "record_summary": "Search results tied Judge Nordby to one signed opinion (the 2025 migrant-flight public-records case) and one panel decision she joined (the 2023 parental-consent appeal). Florida Phoenix reported that she was one of three judges recused from the court's December 2023 en banc decision upholding the DeSantis-drawn North Florida congressional map (Black Voters Matter v. Byrd), so she took no part in that ruling. Case aggregators (Hall Approved, FLexlaw) list her as a concurring judge on many unsigned per curiam affirmances in 2024-2026 (for example, Edwards v. State, July 31, 2026, and West v. West, March 6, 2026). A Florida Bar member poll from an earlier cycle reported 71 percent of responding lawyers favored her retention; no 2026 poll figure was found. The Federalist Society lists her among its speakers and contributors. No organized campaign for or against her retention was found in search results.",
+      "photo_url": null,
+      "sources": [
+        {
+          "title": "Rachel Nordby (Ballotpedia)",
+          "url": "https://ballotpedia.org/Rachel_Nordby",
+          "date": null
+        },
+        {
+          "title": "Rachel Nordby biography (The Federalist Society)",
+          "url": "https://fedsoc.org/bio/rachel-nordby",
+          "date": null
+        },
+        {
+          "title": "Rachel Nordby, Adam Tanenbaum named to 1st District Court of Appeal (Florida Politics)",
+          "url": "https://floridapolitics.com/archives/308598-rachel-nordby-adam-tanenbaum-named-to-1st-district-court-of-appeal/",
+          "date": "2019-10"
+        },
+        {
+          "title": "Legislature sends vexatious litigation reform to the governor (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/legislature-sends-vexatious-litigation-reform-to-the-governor/",
+          "date": null
+        },
+        {
+          "title": "Justice Muñiz and 22 DCA judges to stand for merit retention (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+          "date": "2026"
+        },
+        {
+          "title": "Merit Retention Election biographies (The Florida Bar)",
+          "url": "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/",
+          "date": null
+        },
+        {
+          "title": "Florida intermediate appellate court elections, 2026 (Ballotpedia)",
+          "url": "https://ballotpedia.org/Florida_intermediate_appellate_court_elections,_2026",
+          "date": null
+        },
+        {
+          "title": "State appeals court upholds diminishment of Black voting strength in North Florida (Florida Phoenix)",
+          "url": "https://floridaphoenix.com/2023/12/01/state-appeals-court-upholds-diminishment-of-black-voting-strength-in-north-florida/",
+          "date": "2023-12-01"
+        },
+        {
+          "title": "Florida lawyers rate jurists facing retention vote (Florida Bar News, earlier cycle)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/florida-lawyers-rate-jurists-facing-retention-vote/",
+          "date": null
+        },
+        {
+          "title": "Edwards v. State (2026) panel listing (FLexlaw)",
+          "url": "https://flexlaw.co/case/3427079/2026-edwards-v-state",
+          "date": "2026-07-31"
+        }
+      ]
+    },
+    {
+      "name": "Tim Osterhaus",
+      "court": "First District Court of Appeal",
+      "ballot_question": "Shall Judge Tim Osterhaus of the First District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Rick Scott",
+      "appointed_year": 2013,
+      "background": "Timothy D. Osterhaus earned a bachelor's degree with highest honors from King College in 1993 and a law degree from the University of Virginia in 1997. He clerked for U.S. District Judge Kenneth Ryskamp, worked in private practice (including at Arent Fox and Howrey & Simon), and was an assistant general counsel at the Florida Department of Education before serving as Florida's deputy solicitor general (2007-2012) and solicitor general (2012-2013). Gov. Rick Scott appointed him to the First District Court of Appeal on May 20, 2013, to fill the seat of retiring Judge Marguerite Davis. Ballotpedia reports he won a merit-retention election on Nov. 3, 2020, and his current term ends Jan. 5, 2027; a Florida Bar News report on an earlier retention cycle lists him as retained with 63.38 percent of the vote. News reports from 2024 through 2026 identify him as the court's chief judge.",
+      "rulings": [
+        {
+          "case": "State v. Gainesville Woman Care (24-hour abortion waiting period)",
+          "date": "2019-08",
+          "topic": "Abortion",
+          "what_it_decided": "In a 2-1 decision, the court reversed a trial judge's summary judgment that had struck down Florida's 24-hour abortion waiting-period law and sent the case back for further proceedings. The majority, written by Judge Osterhaus and joined by Judge Harvey Jay, said the trial judge applied the wrong test for a facial challenge and that genuine factual disputes remained, including state physician declarations saying a waiting period fits informed-consent standards.",
+          "vote": "2-1",
+          "role": "Author of majority opinion",
+          "note": "Judge James Wolf dissented, writing that he agreed with the trial court that the waiting period is unconstitutional and that there was no evidence abortion information is more complex than other medical procedures.",
+          "sources": [
+            {
+              "title": "New state court ruling revives specter of 24-hour wait for abortion (Florida Phoenix)",
+              "url": "https://www.floridaphoenix.com/blog/new-state-court-ruling-revives-specter-of-24-hour-wait-for-abortion/",
+              "date": "2019-08"
+            },
+            {
+              "title": "Court puts abortion waiting period back in spotlight (News4Jax / News Service of Florida)",
+              "url": "https://www.news4jax.com/news/2019/08/01/court-puts-abortion-waiting-period-back-in-spotlight/",
+              "date": "2019-08-01"
+            },
+            {
+              "title": "State v. Gainesville Woman Care, LLC, No. 1D18-623 (Justia)",
+              "url": "https://law.justia.com/cases/florida/first-district-court-of-appeal/2019/18-0623.html",
+              "date": "2019-08-01"
+            }
+          ]
+        },
+        {
+          "case": "Medical-marijuana 'Leafly' memo case (Department of Health rulemaking)",
+          "date": "2023-08",
+          "topic": "Administrative law / medical marijuana",
+          "what_it_decided": "The court held that a Florida Department of Health memo barring medical-marijuana treatment centers from working with the online platform Leafly was an unadopted rule that the department could not enforce without going through formal rulemaking. The panel rejected the department's arguments that the memo was not a rule and merely restated existing law.",
+          "vote": "3-0 (per news report describing a three-judge panel)",
+          "role": "Author of majority opinion",
+          "note": "Date is approximate, derived from the Florida Politics report's publication timing.",
+          "sources": [
+            {
+              "title": "Busted: Florida appeals court says state's marijuana memo is an illegal rule (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/628426-busted-florida-appeals-court-says-states-marijuana-memo-is-an-illegal-rule/",
+              "date": "2023"
+            }
+          ]
+        },
+        {
+          "case": "Engle-progeny tobacco cases filed for deceased clients",
+          "date": "2018-02",
+          "topic": "Civil litigation / attorney conduct",
+          "what_it_decided": "The court upheld the dismissal of tobacco lawsuits that had been filed on behalf of clients who were already dead. Judge Osterhaus's opinion criticized the plaintiffs' lawyers for not verifying their claims before filing.",
+          "vote": null,
+          "role": "Author of majority opinion",
+          "note": null,
+          "sources": [
+            {
+              "title": "Tobacco cases rejected because of dead clients (News4Jax / News Service of Florida)",
+              "url": "https://www.news4jax.com/news/2018/02/08/tobacco-cases-rejected-because-of-dead-clients/",
+              "date": "2018-02-08"
+            }
+          ]
+        },
+        {
+          "case": "Department of Health 'dogs in bars' rule (Tampa and Orlando establishments)",
+          "date": "2025-04",
+          "topic": "Administrative law / state agency authority",
+          "what_it_decided": "A panel of Chief Judge Osterhaus and Judges Stephanie Ray and M. Kemmerly Thomas overturned an administrative law judge and sided with the Florida Department of Health's interpretation of its rule, which had the effect of blocking bars in Tampa and Orlando from allowing dogs.",
+          "vote": "3-0",
+          "role": "Joined majority",
+          "note": "The news report does not identify an author of the opinion.",
+          "sources": [
+            {
+              "title": "Appeals court sides with health department in blocking dogs in bars in Tampa, Orlando (WUSF / News Service of Florida)",
+              "url": "https://www.wusf.org/courts-law/2025-04-30/appeals-court-sides-with-florida-department-of-health-in-blocking-dogs-in-bars-in-tampa-orlando",
+              "date": "2025-04-30"
+            }
+          ]
+        },
+        {
+          "case": "Baker County babysitter hot-car death convictions",
+          "date": "2026-10",
+          "topic": "Criminal law / jury instructions",
+          "what_it_decided": "The court overturned the convictions of a Baker County babysitter in the death of a 10-month-old left in a hot car, finding a jury-instruction error. Chief Judge Osterhaus partially dissented, arguing that only the felony-murder conviction should have been vacated.",
+          "vote": "2-1 in part",
+          "role": "Dissent",
+          "note": "Osterhaus's partial dissent would have left the remaining convictions in place while vacating only the felony-murder count.",
+          "sources": [
+            {
+              "title": "'Most tragic of cases': Appeals court overturns Baker County babysitter's convictions in 10-month-old's hot car death (News4Jax)",
+              "url": "https://www.news4jax.com/news/local/2026/10/02/most-tragic-of-cases-appeals-court-overturns-baker-county-babysitters-convictions-in-10-month-olds-hot-car-death/",
+              "date": "2026-10-02"
+            }
+          ]
+        }
+      ],
+      "record_summary": "News reports tie Judge Osterhaus to signed opinions in administrative-law, abortion-regulation, tobacco-litigation and criminal cases, and to a 2015 decision he joined upholding the University of Florida's ban on guns in student housing (see the Lewis entry). He also wrote a 2016 opinion deferring to the Department of Children and Families' interpretation of Medicaid rules in a nursing-home expense case (WUSF, April 6, 2016). The Federalist Society lists him among its speakers and contributors. The Florida Bar reported his lawyer-poll and election figures in earlier cycles; no 2026 Florida Bar poll figure was found. No organized campaign for or against his retention was found in search results. Note: the September 2025 open-carry decision McDaniels v. State was written by Judge Stephanie Ray and joined by Judges M.K. Thomas and Lori Rowe; no source placed Osterhaus or the other judges in this file on that panel.",
+      "photo_url": null,
+      "sources": [
+        {
+          "title": "Timothy D. Osterhaus (Ballotpedia)",
+          "url": "https://ballotpedia.org/Timothy_D._Osterhaus",
+          "date": null
+        },
+        {
+          "title": "Timothy Osterhaus biography (The Federalist Society)",
+          "url": "https://fedsoc.org/bio/timothy-osterhaus",
+          "date": null
+        },
+        {
+          "title": "Fla. Gov. Appoints Solicitor General To Appeals Court (Law360)",
+          "url": "https://law360.com/articles/443371",
+          "date": "2013-05"
+        },
+        {
+          "title": "Appellate court panel featuring Niceville grad Judge Lori Rowe to hear local cases in Okaloosa (Get The Coast)",
+          "url": "https://www.getthecoast.com/appellate-court-panel-featuring-niceville-grad-judge-lori-rowe-to-hear-local-cases-in-okaloosa/",
+          "date": "2024"
+        },
+        {
+          "title": "All DCA judges retained, judicial runoffs decided (Florida Bar News, earlier cycle)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/all-dca-judges-retained-judicial-runoffs-decided/",
+          "date": null
+        },
+        {
+          "title": "Court Backs DCF In Nursing Home Expenses Case (WUSF / News Service of Florida)",
+          "url": "https://www.wusf.org/2016-04-06/court-backs-dcf-in-nursing-home-expenses-case",
+          "date": "2016-04-06"
+        },
+        {
+          "title": "Appeals court shoots down Florida's open carry ban (Courthouse News)",
+          "url": "https://www.courthousenews.com/appeals-court-shoots-down-floridas-open-carry-ban/",
+          "date": "2025-09-10"
+        },
+        {
+          "title": "Justice Muñiz and 22 DCA judges to stand for merit retention (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+          "date": "2026"
+        },
+        {
+          "title": "Merit Retention Election biographies (The Florida Bar)",
+          "url": "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/",
+          "date": null
+        },
+        {
+          "title": "Florida intermediate appellate court elections, 2026 (Ballotpedia)",
+          "url": "https://ballotpedia.org/Florida_intermediate_appellate_court_elections,_2026",
+          "date": null
+        }
+      ]
+    },
+    {
+      "name": "Clay Roberts",
+      "court": "First District Court of Appeal",
+      "ballot_question": "Shall Judge Clay Roberts of the First District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Charlie Crist",
+      "appointed_year": 2007,
+      "background": "L. Clayton 'Clay' Roberts earned a B.S. in military history from the U.S. Military Academy at West Point in 1987 and a J.D. from Florida State University (Ballotpedia lists 1991; an FSU College of Law article describes him as a 1998 graduate, so sources conflict on the year). Before joining the bench he held state government posts, including director of the Florida Division of Elections (1999-2002) and deputy attorney general (2006). Gov. Charlie Crist announced his appointment to the First District Court of Appeal during a surprise visit to an FSU law classroom, to succeed retired Judge Richard Ervin III; he assumed office on Jan. 18, 2007. He served as the court's chief judge from 2015 to 2017. Ballotpedia reports he won a merit-retention election on Nov. 3, 2020, and his term ends in 2027; a Florida Bar News report on an earlier retention cycle lists him as retained with 64.15 percent of the vote.",
+      "rulings": [
+        {
+          "case": "Clark v. State (Clay County DUI-manslaughter ATV death)",
+          "date": "2021-04",
+          "topic": "Criminal law",
+          "what_it_decided": "The court upheld a Clay County man's DUI-manslaughter conviction in the death of his son in an ATV crash. Judge Roberts's six-page opinion found the evidence sufficient for a jury to conclude the defendant was in physical control of the ATV.",
+          "vote": "3-0",
+          "role": "Author of majority opinion",
+          "note": "Judges Timothy Osterhaus and Harvey Jay joined.",
+          "sources": [
+            {
+              "title": "Clay County man's DUI conviction upheld in son's ATV death (News4Jax)",
+              "url": "https://www.news4jax.com/news/2021/04/07/clay-county-mans-dui-conviction-upheld-in-sons-atv-death/",
+              "date": "2021-04-07"
+            }
+          ]
+        },
+        {
+          "case": "Arson prosecution of an 11-year-old",
+          "date": "2016",
+          "topic": "Criminal law / juvenile",
+          "what_it_decided": "The court reversed a trial court's refusal to dismiss an arson charge against an 11-year-old. Judge Roberts's opinion concluded the state had not shown the fire was started unlawfully and said the state's position would effectively rewrite the arson statute to remove the element of unlawfulness.",
+          "vote": null,
+          "role": "Author of majority opinion",
+          "note": null,
+          "sources": [
+            {
+              "title": "1st DCA overturns state prosecutors' arson case against 11-year-old (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/196795-1st-dca-overturns-pam-bondi-state-prosecutors-arson-case-against-11-year-old/",
+              "date": "2016"
+            }
+          ]
+        },
+        {
+          "case": "AT&T challenge to $360 million state telecommunications contract",
+          "date": "2016-10",
+          "topic": "State contracting / administrative law",
+          "what_it_decided": "Writing as chief judge for a unanimous panel, Roberts affirmed the Department of Management Services' award of a state telecommunications contract to a Harris Corp. subsidiary and rejected all of AT&T's arguments against the award.",
+          "vote": "3-0",
+          "role": "Author of majority opinion",
+          "note": null,
+          "sources": [
+            {
+              "title": "Court rejects AT&T appeal over $360M state contract (Florida Politics)",
+              "url": "http://floridapolitics.com/archives/225152-appellate-rejects-att-contract",
+              "date": "2016-10"
+            },
+            {
+              "title": "Sunburn - 10.24.16 (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/225302-sunburn-morning-read-whats-hot-florida-politics-10-24-16/",
+              "date": "2016-10-24"
+            }
+          ]
+        },
+        {
+          "case": "Public-records exemption for insurance claim disputes",
+          "date": "2018",
+          "topic": "Public records",
+          "what_it_decided": "The court approved the application of a public-records exemption covering certain insurance-claim records but, in Judge Roberts's opinion, described the exemption as limited in scope and said the trial court's further inquiry was not within its purview.",
+          "vote": null,
+          "role": "Author of majority opinion",
+          "note": null,
+          "sources": [
+            {
+              "title": "Court OKs open records exemption for insurance claim disputes (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/261881-public-records-exemption-insurance/",
+              "date": "2018"
+            }
+          ]
+        },
+        {
+          "case": "Communications services tax challenge (satellite vs. cable providers)",
+          "date": "2015",
+          "topic": "Taxes / state constitution",
+          "what_it_decided": "Judge L. Clayton Roberts wrote a 20-page majority opinion holding that Florida's communications services tax was unconstitutional because it unfairly favored cable providers over satellite providers.",
+          "vote": null,
+          "role": "Author of majority opinion",
+          "note": "The year is not stated in the search snippet and should be confirmed against the opinion; the Florida Politics tag page for the judge is the source.",
+          "sources": [
+            {
+              "title": "L. Clayton Roberts tag page (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/tag/l-clayton-roberts/",
+              "date": null
+            }
+          ]
+        }
+      ],
+      "record_summary": "News reports tie Judge Roberts to signed opinions in criminal, state-contracting, public-records and tax cases, and to a 2016 decision he joined (with Judges Scott Makar and Simone Marstiller) reversing a contempt finding against a lawyer whom a trial judge had ordered to take a breath test (Florida Politics). He sat on the panel that upheld James Leon Jackson's conviction in a 1984 Jacksonville child murder (News4Jax, April 30, 2020). Florida Bar News has quoted him on appellate administrative issues, including a proposal to let DCA judges establish alternate headquarters and the two-year appellate time limit under Marsy's Law. No 2026 Florida Bar poll figure was found. No organized campaign for or against his retention was found in search results.",
+      "photo_url": null,
+      "sources": [
+        {
+          "title": "L. Clayton Roberts (Ballotpedia)",
+          "url": "https://ballotpedia.org/L._Clayton_Roberts",
+          "date": null
+        },
+        {
+          "title": "Governor Appoints FSU Professor to Bench During Judicial Law Lesson (FSU College of Law)",
+          "url": "https://law.fsu.edu/node/8161",
+          "date": "2007"
+        },
+        {
+          "title": "First District Court of Appeals elects Judge L. Clayton Roberts (WTXL)",
+          "url": "https://www.wtxl.com/news/first-district-court-of-appeals-elects-judge-l-clayton-roberts/article_37493958-0e2b-11e5-854f-57ceabbdbcf3.html",
+          "date": "2015"
+        },
+        {
+          "title": "Florida First District Court of Appeal (Wikipedia)",
+          "url": "https://Www.Wikipedia.org/wiki/Florida_First_District_Court_of_Appeal",
+          "date": null
+        },
+        {
+          "title": "Judge wrong to submit lawyer to breath test, appellate court finds (Florida Politics)",
+          "url": "https://floridapolitics.com/archives/197275-judge-2/",
+          "date": "2016"
+        },
+        {
+          "title": "Appeals court upholds conviction in 1984 murder of Jacksonville child (News4Jax)",
+          "url": "https://www.news4jax.com/news/local/2020/04/30/appeals-court-upholds-conviction-in-1984-murder-of-jacksonville-child/",
+          "date": "2020-04-30"
+        },
+        {
+          "title": "Measure would expand DCA judges' alternate headquarters (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/measure-would-expand-dca-judges-alternate-headquarters/",
+          "date": null
+        },
+        {
+          "title": "Self-implementing Marsy's Law needs some implementing help (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/self-implementing-marsys-law-needs-some-implementing-help/",
+          "date": null
+        },
+        {
+          "title": "All DCA judges retained, judicial runoffs decided (Florida Bar News, earlier cycle)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/all-dca-judges-retained-judicial-runoffs-decided/",
+          "date": null
+        },
+        {
+          "title": "Justice Muñiz and 22 DCA judges to stand for merit retention (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+          "date": "2026"
+        },
+        {
+          "title": "Merit Retention Election biographies (The Florida Bar)",
+          "url": "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/",
+          "date": null
+        },
+        {
+          "title": "Florida intermediate appellate court elections, 2026 (Ballotpedia)",
+          "url": "https://ballotpedia.org/Florida_intermediate_appellate_court_elections,_2026",
+          "date": null
+        }
+      ]
+    },
+    {
+      "name": "Raymond Treadwell",
+      "court": "First District Court of Appeal",
+      "ballot_question": "Shall Judge Raymond Treadwell of the First District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Ron DeSantis",
+      "appointed_year": 2025,
+      "background": "Ray Treadwell earned a bachelor's degree from the University of Florida and a J.D. from Yale Law School. He served as chief deputy general counsel in the Executive Office of the Governor under Gov. Ron DeSantis and as general counsel of the Florida Department of Business and Professional Regulation, and from 2023 was a shareholder at the Tallahassee firm Lawson Huck Gonzalez PLLC, co-founded by former Florida Supreme Court Justice Alan Lawson. Gov. DeSantis appointed him to the First District Court of Appeal on May 23, 2025, to fill the seat vacated by Judge Bradford Thomas; he was chosen from six finalists and assumed office on June 17, 2025. The November 2026 election is his first merit-retention vote.",
+      "rulings": [],
+      "record_summary": "No signed opinion, concurrence or dissent by Judge Treadwell could be tied to him through search results, which is consistent with his having joined the court in mid-2025. Third-party case aggregators (Counsel Stack, FLexlaw, Hall Approved) list him as a concurring judge on a number of unsigned per curiam affirmances in criminal and civil appeals, including Nero v. State (Jan. 7, 2026), Lincoln v. State (March 26, 2026), Wesson v. State (June 30, 2026) and Edwards v. State (July 31, 2026); those decisions affirm trial courts without written reasoning. No source placed him on the panels for the court's October 2026 Hope Florida grand-jury-report rulings or other high-profile 2026 cases. The Tallahassee Democrat (via Yahoo News) described him as one of the governor's former lawyers, and Mainstreet Daily News noted his former firm is a frequent outside counsel for the DeSantis administration. No Florida Bar poll figure and no organized campaign for or against his retention were found in search results.",
+      "photo_url": null,
+      "sources": [
+        {
+          "title": "Governor Ron DeSantis Makes One Judicial Appointment (Executive Office of the Governor)",
+          "url": "https://www.flgov.com/eog/news/press/2025/governor-ron-desantis-makes-one-judicial-appointment-1",
+          "date": "2025-05-23"
+        },
+        {
+          "title": "Ray Treadwell appointed to the First DCA (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/ray-treadwell-appointed-to-the-first-dca/",
+          "date": "2025-05"
+        },
+        {
+          "title": "Ray Treadwell (Ballotpedia)",
+          "url": "https://ballotpedia.org/Ray_Treadwell",
+          "date": null
+        },
+        {
+          "title": "DeSantis selects former general counsel as next appeals court judge (Mainstreet Daily News)",
+          "url": "https://www.mainstreetdailynews.com/?p=114763",
+          "date": "2025-05"
+        },
+        {
+          "title": "Gov. DeSantis appoints one of his former lawyers for Tallahassee appellate court vacancy (Tallahassee Democrat via Yahoo News)",
+          "url": "https://www.yahoo.com/news/gov-desantis-appoints-one-former-180428177.html",
+          "date": "2025-05"
+        },
+        {
+          "title": "Nero v. State of Florida, 1D2024-1425 (Counsel Stack)",
+          "url": "https://law.counselstack.com/opinion/nero-v-state-of-florida-fladistctapp-2026",
+          "date": "2026-01-07"
+        },
+        {
+          "title": "Wesson v. State (2026) panel listing (FLexlaw)",
+          "url": "https://www.flexlaw.co/case/3425666/2026-wesson-v-state",
+          "date": "2026-06-30"
+        },
+        {
+          "title": "Edwards v. State (2026) panel listing (FLexlaw)",
+          "url": "https://flexlaw.co/case/3427079/2026-edwards-v-state",
+          "date": "2026-07-31"
+        },
+        {
+          "title": "Justice Muñiz and 22 DCA judges to stand for merit retention (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+          "date": "2026"
+        },
+        {
+          "title": "Merit Retention Election biographies (The Florida Bar)",
+          "url": "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/",
+          "date": null
+        }
+      ]
+    }
+  ]
+}
