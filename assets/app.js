@@ -161,9 +161,9 @@
     const bits = [];
     if (prof.county) bits.push(T(`${prof.county} County`, `Condado de ${prof.county}`));
     if (prof.cd) bits.push(`${T('Congressional District', 'Distrito Congresional')} ${prof.cd}${prof.cd_unconfirmed ? T(' (confirm)', ' (confirmar)') : ''}`);
-    if (prof.approx) bits.push(T('estimated from ZIP ' + prof.zip, 'estimado del código postal ' + prof.zip));
     if (prof.sd) bits.push(`${T('Senate District', 'Distrito del Senado')} ${prof.sd}`);
     if (prof.hd) bits.push(`${T('House District', 'Distrito de la Cámara')} ${prof.hd}`);
+    if (prof.approx) bits.push(T('estimated from ZIP ' + prof.zip, 'estimado del código postal ' + prof.zip));
     return bits.join(' · ');
   }
   function coverageNote(r) {
