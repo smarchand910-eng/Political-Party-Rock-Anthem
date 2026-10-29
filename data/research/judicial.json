@@ -8,7 +8,7 @@
     "https://supremecourt.flcourts.gov/Justices/Merit-Selection-Retention-Retirement"
   ],
   "ballot_context": "Every Florida ballot asks whether Supreme Court Justice Carlos G. Muñiz should be retained. Voters also answer a retention question for each District Court of Appeal judge standing in their district; which judges appear depends on the county (enter your address above to see yours). Names are verified against The Florida Bar's 2026 merit-retention list and county sample ballots. The Florida Bar discontinued its merit-retention poll in 2023, so there is no 2026 Bar poll.",
-  "research_note": "Third pass (Sept 17, 2026): the sample ballot and The Florida Bar's merit-retention page were fetched directly; the earlier question of a possible fourth Fifth DCA judge is resolved (there are three). Biographies were checked against the Governor's 2019 appointment release (Muñiz), Wikipedia (Makar) and Ballotpedia/Space Coast Daily/Law360 search results (Harris, Wallis); the court's own judge pages did not render in this environment.",
+  "research_note": "Third pass (Sept 17, 2026): the sample ballot and The Florida Bar's merit-retention page were fetched directly; the earlier question of a possible fourth Fifth DCA judge is resolved (there are three). Biographies were checked against the Governor's 2019 appointment release (Muñiz), Wikipedia (Makar) and Ballotpedia/Space Coast Daily/Law360 search results (Harris, Wallis); the court's own judge pages did not render in this environment. Roster reconciled Oct. 2026: 5 (First) + 4 (Second) + 5 (Third) + 5 (Fourth, incl. Caroline Cahill Shepherd) + 3 (Fifth) = 22, matching The Florida Bar count.",
   "list_complete": true,
   "judges": [
     {
@@ -835,7 +835,7 @@
   ],
   "dca_judges_on_2026_ballot_by_district": {
     "source": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
-    "note": "Names as reported in search snippets of the Florida Bar News article; only Fifth DCA judges appear on Sumter County ballots.",
+    "note": "Names as reported by The Florida Bar News ('Justice Muñiz and 22 DCA judges to stand for merit retention'). With five Fourth DCA judges (including Caroline Cahill Shepherd), the Bar's total of 22 is reached with exactly three Fifth DCA judges, so the Fifth District list is treated as complete.",
     "First DCA": [
       "Joseph Lewis, Jr.",
       "Rachel Nordby",
@@ -860,13 +860,13 @@
       "Alan O. Forst",
       "Mark W. Klingensmith",
       "Johnathan D. Lott",
-      "Shannon K. Shaw"
+      "Shannon K. Shaw",
+      "Caroline Cahill Shepherd"
     ],
     "Fifth DCA": [
       "John M. Harris",
       "Scott D. Makar",
-      "Frederic Rand Wallis",
-      "(possible fourth judge not confirmed)"
+      "Frederic Rand Wallis"
     ],
     "Sixth DCA": []
   },
