@@ -1,0 +1,136 @@
+{
+  "court": "Second District Court of Appeal",
+  "dca": 2,
+  "ballot_note": "The Florida Bar News (April 29, 2026) reported that four Second District Court of Appeal judges qualified for merit retention on the November 3, 2026 general election ballot: Drew Atkinson, Morris Silberman, Daniel H. Sleet and Andrea Teves Smith. Merit-retention is a yes/no vote; a judge who receives a majority of 'yes' votes serves another six-year term.",
+  "ballot_sources": [
+    {"title": "Justice Muñiz and 22 DCA judges to stand for merit retention - The Florida Bar News", "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/", "date": "2026-04-29"},
+    {"title": "Florida intermediate appellate court elections, 2026 - Ballotpedia", "url": "https://ballotpedia.org/Florida_intermediate_appellate_court_elections,_2026", "date": null}
+  ],
+  "judges": [
+    {
+      "name": "J. Andrew \"Drew\" Atkinson",
+      "court": "Second District Court of Appeal",
+      "ballot_question": "Shall Judge J. Andrew Atkinson of the Second District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Rick Scott",
+      "appointed_year": 2018,
+      "background": "Judge Atkinson grew up in Fort Lauderdale and Bradenton, earned a bachelor's degree from Florida State University and a law degree with honors from Nova Southeastern University, and served as an enlisted soldier in the U.S. Army's 75th Ranger Regiment from 1997 to 2001. He began his legal career in the Florida Attorney General's Criminal Appeals Division and as a Deputy Solicitor General, clerked for Judge Melanie G. May of the Fourth District Court of Appeal, served as Assistant General Counsel to the Governor, practiced at the law firm Broad and Cassel, and was General Counsel of the Florida Department of State and then the Florida Department of Management Services. Gov. Rick Scott appointed him to the Second District Court of Appeal in January 2018 to fill the vacancy created by the resignation of Judge Douglas A. Wallace; he was 44 and living in Tampa at the time. Voters retained him in the November 3, 2020 merit-retention election, and his current term ends January 5, 2027. In The Florida Bar's 2020 merit-retention poll of lawyers, 76% of responding lawyers who said they had knowledge of him supported retention.",
+      "rulings": [
+        {
+          "case": "Rivera v. State (No. 2D17-496)",
+          "date": "2019-04",
+          "topic": "Criminal law; 'Stand Your Ground' self-defense immunity",
+          "what_it_decided": "Writing for a unanimous three-judge panel, Judge Atkinson reversed an aggravated-battery conviction and sent the case back for a new immunity hearing because, while the appeal was pending, the Legislature changed the 'Stand Your Ground' law to put the burden on the prosecution (rather than the defendant) at immunity hearings. The panel followed the court's earlier decision in Martin v. State treating the change as procedural and therefore applicable to pending cases, rejected the State's argument that the error was harmless because a jury had already rejected self-defense, and certified a conflict with the Third and Fourth District Courts of Appeal, which had reached the opposite conclusion.",
+          "vote": "3-0",
+          "role": "Author of majority opinion",
+          "note": "The Florida Supreme Court later resolved the conflict in Love v. State (2019), holding the amended burden of proof applies to immunity hearings held after the law's effective date, and sent Rivera back to the Second District; Judge Atkinson authored the court's follow-up opinion on remand on May 1, 2020. The text of that remand opinion could not be retrieved in this research.",
+          "sources": [
+            {"title": "Rivera v. State, Fla. 2d DCA, opinion filed April 12, 2019 (HallApproved / CourtListener data)", "url": "https://hallapproved.com/fl/cases/appeals/2019/4609732/", "date": "2019-04-12"},
+            {"title": "Rivera v. State, on remand from the Supreme Court of Florida, Fla. 2d DCA, May 1, 2020 (Leagle)", "url": "https://www.leagle.com/decision/inflco20200501324", "date": "2020-05-01"},
+            {"title": "Julian Rivera vs State of Florida, 2D17-0496 (Justia)", "url": "https://law.justia.com/cases/florida/second-district-court-of-appeal/2020/17-0496.html", "date": "2020-05-01"}
+          ]
+        },
+        {
+          "case": "Franklin v. State, 272 So. 3d 860 (No. 2D17-2958), order on rehearing",
+          "date": "2019-05",
+          "topic": "Criminal post-conviction; motion for rehearing and to certify conflict",
+          "what_it_decided": "The court, in an order written by then-Chief Judge LaRose, denied the State's motion for rehearing and its motion to certify a conflict with other appellate courts in a self-represented prisoner's case. Judge Atkinson concurred in the result only and wrote a separate opinion explaining his reasoning.",
+          "vote": "3-0 on the result",
+          "role": "Concurring opinion",
+          "note": "Only the heading of Judge Atkinson's separate opinion was accessible; its text could not be retrieved, so his reasoning is not summarized here.",
+          "sources": [
+            {"title": "Franklin v. State, order on respondent's motion for rehearing and motion to certify conflict, Fla. 2d DCA (Leagle)", "url": "https://www.leagle.com/decision/inflco20190529220", "date": "2019-05-29"}
+          ]
+        }
+      ],
+      "record_summary": "No organized campaign for or against Judge Atkinson's retention was found in searches as of late October 2026, and no news coverage characterizing his record was located. Case-law databases show him sitting on many unsigned per curiam affirmances in 2024-2025 (for example Ademoye v. State, Rodriguez v. State and Dixon v. State, all October 2025), which by their nature do not identify an author or give reasons. Beyond the two items above, authored opinions could not be tied to him with the sources available in this research. The Florida Bar's biennial retention poll reported 76% support among responding lawyers in 2020; 2026 poll results were not located.",
+      "photo_url": null,
+      "sources": [
+        {"title": "Judge Atkinson bio (Hillsborough County Bar Association PDF)", "url": "https://cdn.ymaws.com/www.hillsbar.com/resource/resmgr/docs/judge_atkinson_bio.pdf", "date": "2024-11"},
+        {"title": "Rick Scott announces four new judges - Florida Politics", "url": "https://floridapolitics.com/archives/254080-rick-scott-new-judges", "date": "2018-01"},
+        {"title": "Governor Rick Scott Appoints Florida Circuit Court, Appeals Judges During January 2018 - Colodny Fass", "url": "https://www.colodnyfass.com/blog/governor-rick-scott-appoints-florida-circuit-court-appeals-judges-january-2018", "date": "2018-01"},
+        {"title": "J. Andrew Atkinson - Ballotpedia", "url": "https://ballotpedia.org/J._Andrew_Atkinson", "date": null},
+        {"title": "Florida lawyers rate jurists facing retention vote - The Florida Bar News", "url": "https://www.floridabar.org/the-florida-bar-news/florida-lawyers-rate-jurists-facing-retention-vote/", "date": "2020-09-18"},
+        {"title": "Justice Muñiz and 22 DCA judges to stand for merit retention - The Florida Bar News", "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/", "date": "2026-04-29"}
+      ]
+    },
+    {
+      "name": "Morris Silberman",
+      "court": "Second District Court of Appeal",
+      "ballot_question": "Shall Judge Morris Silberman of the Second District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Jeb Bush",
+      "appointed_year": 2000,
+      "background": "Judge Silberman earned a bachelor's degree from Tulane University and a law degree from the University of Florida College of Law in 1982. He clerked for Judge Herboth S. Ryder of the Second District Court of Appeal, practiced with firms in Sarasota and Clearwater, and in 1988 founded his own Clearwater firm handling civil, business and contract litigation and appeals; he was president of the Clearwater Bar Association (1993-94) and served on The Florida Bar Board of Governors (1996-2000). Gov. Jeb Bush appointed him to the Second District in November 2000 from a field of 28 applicants to fill the seat of retiring Judge Monterey Campbell, and he took office January 2, 2001. He served as the court's chief judge from July 1, 2011 to June 30, 2013, served on the Florida Judicial Qualifications Commission from 2003 to 2012 including as its chairman, and was president of the Council of Chief Judges of the State Courts of Appeal in 2021-22. Voters retained him in 2002 (69.7% yes), and again in 2008, 2014 and 2020; his current term ends January 5, 2027. In The Florida Bar's lawyer polls, 94% supported his retention in 2014 and 90% in 2020.",
+      "rulings": [
+        {
+          "case": "Mendes v. Citizens Property Insurance Corp. (No. 2D2024-0128)",
+          "date": "2025-01",
+          "topic": "Property insurance; civil procedure (summary disposition vs. summary judgment)",
+          "what_it_decided": "A three-judge panel reversed a county-court judgment for Citizens Property Insurance in a homeowner's claim after Citizens conceded that the trial court had wrongly treated its motion for summary disposition as a motion for summary judgment. The court sent the case back for further proceedings without deciding the merits of the insurance dispute.",
+          "vote": "3-0",
+          "role": "Joined majority",
+          "note": "Opinion written by Judge Rothstein-Youakim; Judges Northcutt and Silberman concurred.",
+          "sources": [
+            {"title": "Mendes v. Citizens Property Insurance Corp., Fla. 2d DCA, Jan. 22, 2025 (HallApproved / CourtListener data)", "url": "https://hallapproved.com/fl/cases/appeals/2025/10318415/", "date": "2025-01-22"}
+          ]
+        }
+      ],
+      "record_summary": "No organized campaign for or against Judge Silberman's retention was found in searches as of late October 2026. A 2014 Tampa Bay Times editorial recommended retaining him (along with Judges Altenbernd and Sleet), noting each had at least 91% support in that year's Florida Bar poll. Case-law databases show him on numerous unsigned per curiam affirmances in 2024-2026 (for example Loveland v. State, March 2025; Edwards v. State and Sands v. State, November 2025), which do not identify an author or give reasons. No opinion authored by Judge Silberman could be tied to him with the sources available in this research, so only one case in which he joined a reasoned ruling is listed. The Florida Bar's 2026 retention-poll results were not located.",
+      "photo_url": null,
+      "sources": [
+        {"title": "Morris Silberman profile - American Law Institute", "url": "https://www.ali.org/profile/4503", "date": null},
+        {"title": "Morris Silberman - Ballotpedia", "url": "https://ballotpedia.org/Morris_Silberman", "date": null},
+        {"title": "Clearwater lawyer wins seat on appeals court - Tampa Bay Times (St. Petersburg Times archive)", "url": "https://www.tampabay.com/archive/2000/11/18/clearwater-lawyer-wins-seat-on-appeals-court", "date": "2000-11-18"},
+        {"title": "Voters return all appellate judges standing for retention - The Florida Bar News", "url": "https://www.floridabar.org/the-florida-bar-news/voters-return-all-appellate-judges-standing-for-retention/", "date": "2002-12-01"},
+        {"title": "Times recommends: Retain 2nd DCA judges - Tampa Bay Times editorial", "url": "https://www.tampabay.com/opinion/editorials/times-recommends-retain-2nd-dca-judges/2200647", "date": "2014"},
+        {"title": "Florida lawyers rate jurists facing retention vote - The Florida Bar News", "url": "https://www.floridabar.org/the-florida-bar-news/florida-lawyers-rate-jurists-facing-retention-vote/", "date": "2020-09-18"},
+        {"title": "Judge Morris Silberman - Legal Talk Network guest profile", "url": "https://legaltalknetwork.com/guests/judge-morris-silberman/", "date": "2015"},
+        {"title": "Justice Muñiz and 22 DCA judges to stand for merit retention - The Florida Bar News", "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/", "date": "2026-04-29"}
+      ]
+    },
+    {
+      "name": "Daniel H. Sleet",
+      "court": "Second District Court of Appeal",
+      "ballot_question": "Shall Judge Daniel H. Sleet of the Second District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Rick Scott",
+      "appointed_year": 2012,
+      "background": "Judge Sleet graduated from Furman University in 1984 with a bachelor's degree in history and from Cumberland School of Law in 1987. He was a magistrate for the city of Birmingham, Alabama (1986-87), an assistant state attorney in Florida's 13th Judicial Circuit (Hillsborough County) from 1987 to 1991, and a lawyer in private practice with the Tampa firm Barr, Murman, Tonelli, Slother & Sleet from 1991 to 2006. Gov. Jeb Bush appointed him a circuit judge in the 13th Judicial Circuit in 2006, where he was later assigned to the domestic-relations (family) division. Gov. Rick Scott appointed him to the Second District Court of Appeal on December 21, 2012, to fill the vacancy left by the resignation of Judge James W. Whatley; he was 51 and living in Tampa. He served as the court's chief judge, including during 2023-2024, when he announced progress on the court's new St. Petersburg courthouse after the court's relocation from Lakeland. Voters retained him in 2014 and 2020, and his current term ends January 5, 2027. In The Florida Bar's lawyer polls, 91% supported his retention in 2014 and 85% in 2020.",
+      "rulings": [],
+      "record_summary": "No opinion authored by Judge Sleet could be tied to him with the sources available in this research, so no rulings are listed. Case-law databases show him on many unsigned per curiam affirmances, including several in 2024 captioned with him as chief judge (Riddle v. State, February 2024; Cannata v. Knott, February 2024; Deleon v. State, July 2024; Copley v. State, August 2024; Medico v. State, December 2024) and others in 2025 (Hamlett v. State, Carter v. State, Brown v. State); such opinions do not name an author or give reasons. No organized campaign for or against his retention was found as of late October 2026. A 2014 Tampa Bay Times editorial recommended retaining him, and a 2014 voter blog (Sparker's Soapbox) said it found 'nothing of note' in his record. The Florida Bar's 2026 retention-poll results were not located.",
+      "photo_url": null,
+      "sources": [
+        {"title": "Daniel Sleet named to 2nd District Court of Appeal - Sunshine State News", "url": "https://sunshinestatenews.com/blog/daniel-sleet-named-2nd-district-court-appeal", "date": "2012-12-21"},
+        {"title": "Judge profile, The Record (Florida Bar Appellate Practice Section), Spring 2014", "url": "https://therecord.flabarappellate.org/?p=556", "date": "2014"},
+        {"title": "Judges in Transition - Thirteenth Judicial Circuit announcement (PDF)", "url": "https://www.fljud13.org/Portals/0/Announcements/Judges%20in%20Transition.pdf", "date": null},
+        {"title": "Judge Daniel H. Sleet joins Hillsborough County family law bench - Family Diplomacy", "url": "https://familydiplomacy.com/?p=869", "date": "2011-11"},
+        {"title": "Work on the Second District Court of Appeal's new courthouse is underway - The Florida Bar News", "url": "https://www.floridabar.org/the-florida-bar-news/work-on-the-second-district-court-of-appeals-new-courthouse-is-underway/", "date": "2023-10-13"},
+        {"title": "Florida Second District Court of Appeal - Ballotpedia", "url": "https://ballotpedia.org/Florida_Second_District_Court_of_Appeal", "date": null},
+        {"title": "Times recommends: Retain 2nd DCA judges - Tampa Bay Times editorial", "url": "https://www.tampabay.com/opinion/editorials/times-recommends-retain-2nd-dca-judges/2200647", "date": "2014"},
+        {"title": "Our Merit Retention Decisions (Part 2) - Sparker's Soapbox", "url": "https://www.sparkers-soapbox.com/?p=196", "date": "2014-09-16"},
+        {"title": "Florida lawyers rate jurists facing retention vote - The Florida Bar News", "url": "https://www.floridabar.org/the-florida-bar-news/florida-lawyers-rate-jurists-facing-retention-vote/", "date": "2020-09-18"},
+        {"title": "Medico v. State, 2D2023-0266 (Justia)", "url": "https://law.justia.com/cases/florida/second-district-court-of-appeal/2024/2d2023-0266.html", "date": "2024-12-13"},
+        {"title": "Cannata v. Knott, 2D22-3352 (HallApproved / CourtListener data)", "url": "https://hallapproved.com/fl/cases/appeals/2024/9479055/", "date": "2024-02-28"},
+        {"title": "Justice Muñiz and 22 DCA judges to stand for merit retention - The Florida Bar News", "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/", "date": "2026-04-29"}
+      ]
+    },
+    {
+      "name": "Andrea Teves Smith",
+      "court": "Second District Court of Appeal",
+      "ballot_question": "Shall Judge Andrea Teves Smith of the Second District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Rick Scott",
+      "appointed_year": 2019,
+      "background": "Judge Teves Smith earned her undergraduate degree from the University of Florida and her law degree from Stetson University College of Law in 1994. She practiced law in Polk County with the firm Peterson & Myers, P.A., from 1994 to 2013, becoming a partner. Gov. Rick Scott appointed her a circuit judge in the Tenth Judicial Circuit (Polk, Hardee and Highlands counties) in June 2013, replacing retired Judge J. David Langford; there she served in the felony, family and civil divisions, was administrative judge over the civil divisions, and chaired the circuit's Fairness and Diversity team. Gov. Scott announced her appointment to the Second District Court of Appeal on January 7, 2019, to fill the vacancy created by the resignation of Judge Marva Crenshaw; she was 49 and living in Lakeland, and she took office February 1, 2019. Voters retained her in the November 3, 2020 election with 75.0% voting yes, and her current term ends January 5, 2027. In The Florida Bar's 2020 merit-retention poll, 82% of responding lawyers supported her retention.",
+      "rulings": [],
+      "record_summary": "No opinion authored by Judge Teves Smith could be tied to her with the sources available in this research, so no rulings are listed. Case-law databases list a Judge Smith on numerous unsigned Second District per curiam affirmances in 2024-2025 (for example State v. Caulkins, April 2024; Diaz-Rivera v. State, November 2024; Campbell v. State and Dedaj v. State, November 2025), which do not name an author or give reasons. No organized campaign for or against her retention and no news coverage characterizing her record were found as of late October 2026. Note on sourcing: the Wikipedia roster for the court lists Gov. Ron DeSantis as her appointing governor, but the governor's office appointment announcement of January 7, 2019 (published by Capital Soup) and her resignation letter from the circuit bench show the appointment was made by Gov. Rick Scott in the final days of his term; this file follows the appointment announcement. The Florida Bar's 2026 retention-poll results were not located.",
+      "photo_url": null,
+      "sources": [
+        {"title": "Appointments by Governor Rick Scott for Monday, January 7, 2019 - Capital Soup", "url": "https://capitalsoup.com/2019/01/07/appointments-by-governor-rick-scott-for-monday-january-7-2019", "date": "2019-01-07"},
+        {"title": "Andrea Teves Smith - Ballotpedia", "url": "https://ballotpedia.org/Andrea_Teves_Smith", "date": null},
+        {"title": "Judge profile, The Record (Florida Bar Appellate Practice Section)", "url": "https://therecord.flabarappellate.org/?p=1047", "date": null},
+        {"title": "Judge Smith resignation letter from the Tenth Judicial Circuit (Executive Office of the Governor, PDF)", "url": "https://flgov.com/eog/sites/default/files/judicial/2024/Smith%20Resignation%20Letter-%20ADA.pdf", "date": "2019-01"},
+        {"title": "Florida Second District Court of Appeal - Wikipedia", "url": "https://en.wikipedia.org/wiki/Florida_Second_District_Court_of_Appeal", "date": null},
+        {"title": "Florida lawyers rate jurists facing retention vote - The Florida Bar News", "url": "https://www.floridabar.org/the-florida-bar-news/florida-lawyers-rate-jurists-facing-retention-vote/", "date": "2020-09-18"},
+        {"title": "Justice Muñiz and 22 DCA judges to stand for merit retention - The Florida Bar News", "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/", "date": "2026-04-29"}
+      ]
+    }
+  ]
+}
