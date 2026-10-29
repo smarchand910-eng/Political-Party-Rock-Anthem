@@ -21,8 +21,10 @@
       "background": "Born June 25, 1969, in Chicago. B.A. with high honors, University of Virginia (1991); J.D., Yale Law School (1997), where he was an editor of the Yale Law Journal. Law clerk to U.S. District Judge Thomas A. Flannery (D.C.) and Judge José A. Cabranes (U.S. Court of Appeals, 2nd Circuit). Deputy general counsel to Gov. Jeb Bush (2001), general counsel of the Department of Financial Services, deputy chief of staff and counsel to House Speaker Marco Rubio, deputy attorney general and chief of staff to Attorney General Pam Bondi (2011-2014), and general counsel of the U.S. Department of Education (2018-2019). Appointed to the Florida Supreme Court Jan. 22, 2019, as its 89th justice and the first Nicaraguan-American justice; retained by voters in 2020; served as the 57th Chief Justice of Florida from July 2022 to June 2026.",
       "notable": [
         {
-          "item": "Authored the court's April 1, 2024 majority opinion in Planned Parenthood of Southwest and Central Florida v. State, holding that the Florida Constitution's privacy clause does not protect abortion and upholding the state's 15-week abortion law (which allowed the six-week law to take effect).",
+          "item": "Joined the court's 6-1 majority opinion (written by Justice Jamie Grosshans) in Planned Parenthood of Southwest and Central Florida v. State (April 1, 2024), holding that the Florida Constitution's privacy clause does not protect abortion and upholding the state's 15-week abortion law (which allowed the six-week law to take effect). An earlier version of this entry said he authored the opinion; sources identify Grosshans as the author.",
           "sources": [
+            "https://news.ballotpedia.org/2024/04/03/florida-supreme-court-rules-on-abortion-there-is-no-right-to-abortion-in-the-states-privacy-clause-but-voters-will-decide-the-issue-in-nov/",
+            "https://religionclause.blogspot.com/2024/04/florida-supreme-court-overrules-cases.html",
             "https://en.wikipedia.org/wiki/Carlos_G._Mu%C3%B1iz",
             "https://ballotpedia.org/Carlos_Mu%C3%B1iz"
           ]
@@ -62,7 +64,537 @@
         "https://www.sparkers-soapbox.com/florida-supreme-court-merit-retention-2026-general/"
       ],
       "confirmation_status": "On the Nov. 3, 2026 ballot (verified on The Florida Bar's 2026 merit-retention list and county sample ballots, including Sumter County's)",
-      "photo_source": "Ballotpedia photo of Justice Carlos Muñiz (downloaded copy in assets/photos)"
+      "photo_source": "Ballotpedia photo of Justice Carlos Muñiz (downloaded copy in assets/photos)",
+      "rulings": [
+        {
+          "case": "Planned Parenthood of Southwest and Central Florida v. State (15-week abortion law)",
+          "date": "2024-04-01",
+          "topic": "Abortion",
+          "what_it_decided": "The court held that the privacy clause of the Florida Constitution does not protect a right to abortion, receding from its 1989 decision In re T.W. and later cases, and upheld the state's 15-week abortion law. Because the 2023 six-week law was written to take effect 30 days after such a ruling, the decision allowed the six-week law to take effect on May 1, 2024.",
+          "vote": "6-1",
+          "muniz_role": "Joined majority",
+          "note": "The majority opinion was written by Justice Jamie Grosshans and joined by Justices Muñiz, Canady, Couriel and Francis; Justice Sasso concurred separately on standing; Justice Labarga dissented. (The earlier claim in this file that Muñiz authored the majority was not supported by sources.)",
+          "sources": [
+            {
+              "title": "Florida Supreme Court Overrules Cases Finding That State Constitution Protects Abortion Rights",
+              "url": "https://religionclause.blogspot.com/2024/04/florida-supreme-court-overrules-cases.html",
+              "date": "2024-04-01"
+            },
+            {
+              "title": "Florida Supreme Court rules on abortion: there is no right to abortion in the state's privacy clause, but voters will decide the issue in Nov. (Ballotpedia News)",
+              "url": "https://news.ballotpedia.org/2024/04/03/florida-supreme-court-rules-on-abortion-there-is-no-right-to-abortion-in-the-states-privacy-clause-but-voters-will-decide-the-issue-in-nov/",
+              "date": "2024-04-03"
+            },
+            {
+              "title": "Planned Parenthood of Southwest and Central Florida et al. v. State of Florida et al. (Network for Public Health Law summary)",
+              "url": "https://www.networkforphl.org/resources/planned-parenthood-of-southwest-and-central-florida-et-al-v-state-of-florida-et-al/",
+              "date": "2024-04"
+            },
+            {
+              "title": "Planned Parenthood v. Florida (VotingForJustice case page listing joinders)",
+              "url": "https://votingforjustice.com/appellate-cases/planned-parenthood-v-florida",
+              "date": null
+            },
+            {
+              "title": "Florida Supreme Court upends abortion landscape in the South (Roll Call)",
+              "url": "https://rollcall.com/2024/04/01/florida-supreme-court-upends-abortion-landscape-in-the-south/",
+              "date": "2024-04-01"
+            }
+          ]
+        },
+        {
+          "case": "Advisory Opinion to the Attorney General re: Limiting Government Interference with Abortion (Amendment 4 ballot placement)",
+          "date": "2024-04-01",
+          "topic": "Ballot initiatives",
+          "what_it_decided": "The court approved the citizen-initiated abortion-rights amendment (Amendment 4) for the November 2024 ballot, finding that it addressed a single subject and that its ballot summary was not misleading. Voters later gave it about 57%, short of the 60% needed to pass.",
+          "vote": "4-3",
+          "muniz_role": "Concurring opinion",
+          "note": "Muñiz was in the four-justice majority and wrote a separate opinion saying the initiative was an appropriate matter to put before voters; Justice Grosshans dissented (joined by Justice Sasso) saying the summary 'misleads by omission,' and Justice Sasso wrote a dissent joined by Justices Grosshans and Francis. The author of the majority opinion (reported as the court's opinion) was not identified in available sources.",
+          "sources": [
+            {
+              "title": "Florida Supreme Court rules abortion rights will appear on Florida's ballot (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/667181-draft-florida-supreme-court-rules-abortion-rights-will-appear-on-floridas-ballot",
+              "date": "2024-04-01"
+            },
+            {
+              "title": "Florida Supreme Court Clears the Way for the Proposed Abortion Amendment to Be Placed on the Ballot in November (WQCS)",
+              "url": "https://www.wqcs.org/2024-04-01/florida-supreme-court-rules-abortion-amendment-will-be-on-the-ballot",
+              "date": "2024-04-01"
+            },
+            {
+              "title": "Florida voters will consider abortion rights ballot measure in November, court rules (ABC)",
+              "url": "https://abc7.com/post/florida-voters-will-consider-abortion-rights-ballot-measure-in-november-court-rules/14603876/",
+              "date": "2024-04-01"
+            },
+            {
+              "title": "Supreme Court won't let abortion proposal sponsor challenge GOP 'dirty trick' (Florida Bulldog; recaps April dissents)",
+              "url": "https://floridabulldog.org/2024/08/supreme-court-wont-let-abortion-proposal-sponsor-challenge-gop-dirty-trick",
+              "date": "2024-08"
+            }
+          ]
+        },
+        {
+          "case": "Advisory Opinion to the Attorney General re: Adult Personal Use of Marijuana (Amendment 3 ballot placement)",
+          "date": "2024-04-01",
+          "topic": "Ballot initiatives",
+          "what_it_decided": "The court approved the recreational-marijuana initiative (Amendment 3) for the November 2024 ballot, rejecting Attorney General Ashley Moody's arguments that the summary was misleading and covered more than one subject. The measure received about 56% of the vote in November 2024 and failed to reach the 60% threshold.",
+          "vote": "5-2",
+          "muniz_role": "Concurring opinion",
+          "note": "The majority opinion was written by Justice Jamie Grosshans; Muñiz joined it and wrote a separate concurrence saying the court should in the future require initiative sponsors to pay closer attention to whether a proposal complies with the U.S. Constitution.",
+          "sources": [
+            {
+              "title": "Florida Supreme Court Approves Adult-Use Marijuana Initiative for November 2024 Ballot (Greenspoon Marder)",
+              "url": "https://www.gmlaw.com/news/florida-supreme-court-approves-adult-use-marijuana-initiative-for-november-2024-ballot/",
+              "date": "2024-04"
+            },
+            {
+              "title": "Recreational marijuana is going on the ballot (Jacksonville Today)",
+              "url": "https://jaxtoday.org/2024/04/01/recreational-marijuana-is-going-on-the-ballot/",
+              "date": "2024-04-01"
+            },
+            {
+              "title": "Recreational marijuana on 2024 ballot, Florida Supreme Court rules (WUSF)",
+              "url": "https://www.wusf.org/politics-issues/2024-04-01/recreational-marijuana-on-2024-ballot-florida-supreme-court",
+              "date": "2024-04-01"
+            },
+            {
+              "title": "2024 Florida Amendment 3 (Wikipedia)",
+              "url": "https://en.wikipedia.org/wiki/2024_Florida_Amendment_3",
+              "date": null
+            }
+          ]
+        },
+        {
+          "case": "Floridians Protecting Freedom v. Financial Impact Estimating Conference (Amendment 4 financial impact statement)",
+          "date": "2024-08",
+          "topic": "Ballot initiatives",
+          "what_it_decided": "The court rejected the Amendment 4 sponsor's challenge to the revised financial impact statement that appeared with the abortion amendment on the November 2024 ballot, leaving the state-written statement in place.",
+          "vote": "6-1",
+          "muniz_role": "Author of majority opinion",
+          "note": "Justices Canady, Couriel, Grosshans and Sasso joined Muñiz's opinion; Justice Francis concurred; Justice Labarga dissented.",
+          "sources": [
+            {
+              "title": "Florida Supreme Court OKs revised abortion statement for November ballot (News4Jax / News Service of Florida)",
+              "url": "https://www.news4jax.com/news/politics/2024/08/22/florida-supreme-court-oks-revised-abortion-statement-for-november-ballot/",
+              "date": "2024-08-22"
+            },
+            {
+              "title": "Florida Supreme Court OKs impact statement on costs of the abortion amendment (WUSF)",
+              "url": "https://www.wusf.org/health-news-florida/2024-08-22/florida-supreme-court-oks-impact-statement-on-costs-of-the-abortion-amendment",
+              "date": "2024-08-22"
+            },
+            {
+              "title": "Supreme Court won't let abortion proposal sponsor challenge GOP 'dirty trick' (Florida Bulldog)",
+              "url": "https://floridabulldog.org/2024/08/supreme-court-wont-let-abortion-proposal-sponsor-challenge-gop-dirty-trick",
+              "date": "2024-08"
+            }
+          ]
+        },
+        {
+          "case": "State v. Poole",
+          "date": "2020-01-23",
+          "topic": "Death penalty",
+          "what_it_decided": "The court receded in part from its 2016 Hurst v. State decision, holding that the Florida and U.S. constitutions do not require a unanimous jury recommendation before a judge may impose a death sentence; it reinstated a death sentence that an 11-1 jury had recommended. The ruling did not itself change the 2017 statute requiring unanimity, but the Legislature later (2023) lowered the requirement to an 8-4 jury vote.",
+          "vote": "4-1",
+          "muniz_role": "Joined majority",
+          "note": "The opinion was unsigned (per curiam); the court had five sitting members at the time. Justice Labarga dissented, writing that the decision returned Florida to 'absolute outlier' status among death-penalty states.",
+          "sources": [
+            {
+              "title": "State v. Poole, No. SC18-245 (Fla. Jan. 23, 2020) (Justia)",
+              "url": "https://law.justia.com/cases/florida/supreme-court/2020/sc18-245.html",
+              "date": "2020-01-23"
+            },
+            {
+              "title": "Florida Supreme Court: State v. Poole (ABA Death Penalty Representation Project)",
+              "url": "https://americanbar.org/groups/committees/death_penalty_representation/project_press/2020/spring/florida-supreme-court-state-v-poole",
+              "date": "2020"
+            },
+            {
+              "title": "Florida Supreme Court says unanimous jury not needed for death penalty in major reversal (Tampa Bay Times)",
+              "url": "https://www.tampabay.com/florida-politics/buzz/2020/01/23/florida-supreme-court-says-unanimous-jury-not-needed-for-death-penalty-in-major-reversal/",
+              "date": "2020-01-23"
+            },
+            {
+              "title": "Florida Supreme Court Retracts Jury Unanimity Requirement, Reinstates Non-Unanimous Death Sentence (Death Penalty Information Center)",
+              "url": "https://deathpenaltyinfo.org/florida-supreme-court-retracts-jury-unanimity-requirement-reinstates-non-unanimous-death-sentence",
+              "date": "2020-01"
+            }
+          ]
+        },
+        {
+          "case": "Advisory Opinion to the Governor re: Implementation of Amendment 4, the Voting Restoration Amendment",
+          "date": "2020-01-16",
+          "topic": "Voting rights",
+          "what_it_decided": "In a non-binding advisory opinion requested by Gov. DeSantis, the court concluded that the phrase 'all terms of sentence' in the 2018 felon-voting amendment includes legal financial obligations such as fines, fees and restitution, so a person with a felony conviction must pay those before regaining the right to vote.",
+          "vote": "Majority of Canady, Polston, Lawson and Muñiz; Labarga wrote separately (reported as 4-1 by Florida Politics, as unanimous on the core holding by Florida Phoenix)",
+          "muniz_role": "Joined majority",
+          "note": "The court had five members at the time. Justice Labarga agreed with the result in part but wrote separately, objecting to the majority's strictly textual approach and a point about informing voters.",
+          "sources": [
+            {
+              "title": "Florida Supreme Court affirms felons must complete financial sentences to vote (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/316212-florida-supreme-court-affirms-felons-must-complete-financial-sentences-to-vote",
+              "date": "2020-01-16"
+            },
+            {
+              "title": "FL Supreme Court advisory opinion on Amendment 4 is a win for governor, GOP (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2020/01/16/fl-supreme-court-advisory-opinion-on-amendment-4-is-a-win-for-governor-gop-voting-rights-advocates-vow-to-fight-on/",
+              "date": "2020-01-16"
+            },
+            {
+              "title": "Felons in Florida must pay all fees and fines before they can vote, state's top court says (ABA Journal)",
+              "url": "https://www.abajournal.com/news/article/felons-in-florida-must-pay-all-fees-and-fines-before-they-can-vote-states-top-court-says-in-advisory-opinion",
+              "date": "2020-01"
+            }
+          ]
+        },
+        {
+          "case": "In re Amendments to the Florida Evidence Code (adoption of the Daubert standard)",
+          "date": "2019-05-23",
+          "topic": "Courts & procedure",
+          "what_it_decided": "Using its rulemaking power, the court adopted the Legislature's 2013 'Daubert' amendments governing when expert testimony is admissible, replacing the older 'Frye' general-acceptance test and reversing the court's own 2017 and 2018 decisions that had kept Frye. The change affects how judges screen expert witnesses in civil and criminal trials.",
+          "vote": "5-2",
+          "muniz_role": "Joined majority",
+          "note": "The decision was per curiam; Muñiz also joined Justice Lawson's concurrence responding to Justice Luck's procedural dissent. Justices Labarga and Luck dissented separately.",
+          "sources": [
+            {
+              "title": "Supreme Court replaces Frye with Daubert in evidence rules (Florida Bar News)",
+              "url": "https://www.floridabar.org/the-florida-bar-news/supreme-court-replaces-frye-with-daubert-in-evidence-rules/",
+              "date": "2019-05"
+            },
+            {
+              "title": "In re Amendments to the Florida Evidence Code, No. SC19-107 (Justia)",
+              "url": "https://law.justia.com/cases/florida/supreme-court/2019/sc19-107.html",
+              "date": "2019-05-23"
+            },
+            {
+              "title": "In Reversal of Prior Opinion, Florida Supreme Court Adopts Daubert Standard, Rejects Frye (Rumberger Kirk)",
+              "url": "https://www.rumberger.com/insights/in-reversal-of-prior-opinion-florida-supreme-court-adopts-daubert-standard-rejects-frye/",
+              "date": "2019-05"
+            },
+            {
+              "title": "Florida Supreme Court Says Goodbye to Frye and Doubles Back to Daubert (Washington Legal Foundation)",
+              "url": "https://www.wlf.org/2019/06/07/publishing/florida-supreme-court-says-goodbye-to-frye-and-doubles-back-to-daubert-on-expert-testimony/",
+              "date": "2019-06-07"
+            }
+          ]
+        },
+        {
+          "case": "Advisory Opinion to the Attorney General re: Prohibits Possession of Defined Assault Weapons (assault-weapons ban initiative)",
+          "date": "2020-06-04",
+          "topic": "Guns",
+          "what_it_decided": "The court removed a proposed constitutional amendment banning 'assault weapons' from consideration for the ballot, finding the ballot summary misleading because it told voters existing weapons would be exempted and registered when the text exempted only the current owner's possession. The court reviewed only the ballot wording, not the merits of a ban; sponsors would have had to restart the petition process.",
+          "vote": "4-1",
+          "muniz_role": "Joined majority",
+          "note": "Chief Justice Canady and Justices Polston, Lawson and Muñiz formed the majority; Justice Labarga dissented.",
+          "sources": [
+            {
+              "title": "FL Supreme Court kills proposed constitutional amendment to ban assault weapons (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2020/06/04/fl-supreme-court-kills-proposed-constitutional-amendment-to-ban-assault-weapons/",
+              "date": "2020-06-04"
+            },
+            {
+              "title": "Florida Supreme Court Nixes Effort To Ban Assault Weapons (WUSF / News Service of Florida)",
+              "url": "https://www.wusf.org/news/2020-06-04/florida-supreme-court-nixes-effort-to-ban-assault-weapons",
+              "date": "2020-06-04"
+            },
+            {
+              "title": "Florida Supreme Court Strikes Gun Ban from Ballot (NRA-ILA)",
+              "url": "https://nraila.org/articles/20200608/florida-supreme-court-strikes-gun-ban-from-ballot",
+              "date": "2020-06-08"
+            }
+          ]
+        },
+        {
+          "case": "Black Voters Matter Capacity Building Institute v. Byrd (2022 congressional map)",
+          "date": "2025-07-17",
+          "topic": "Redistricting",
+          "what_it_decided": "The court upheld the 2022 congressional map that dismantled a North Florida district in which Black voters had been able to elect their candidate of choice. It held that the challengers had not shown a district could be drawn that satisfied the state constitution's 'non-diminishment' rule without race predominating in violation of the federal Equal Protection Clause, and that lawmakers' federal obligation took precedence.",
+          "vote": "5-1 (Justice Canady recused)",
+          "muniz_role": "Author of majority opinion",
+          "note": "Justice Labarga dissented, writing that the decision left in place a plan that is unconstitutional under the Florida Constitution and should have been returned to the trial court.",
+          "sources": [
+            {
+              "title": "Florida Supreme Court upholds congressional district maps (Florida Phoenix)",
+              "url": "https://floridaphoenix.com/2025/07/17/florida-supreme-court-upholds-congressional-district-maps/",
+              "date": "2025-07-17"
+            },
+            {
+              "title": "Florida congressional districts that eliminated a majority-Black seat upheld by state Supreme Court (AP via Spectrum News 13)",
+              "url": "https://mynews13.com/fl/orlando/ap-online/2025/07/17/florida-congressional-districts-that-eliminated-a-majority-black-seat-upheld-by-state-supreme-court",
+              "date": "2025-07-17"
+            },
+            {
+              "title": "Black Voters Matter v. Byrd case tracker (State Court Report)",
+              "url": "https://statecourtreport.org/case-tracker/black-voters-matter-v-byrd",
+              "date": null
+            },
+            {
+              "title": "Black Voters Matter Capacity Building Institute v. Byrd (Constitutional Accountability Center)",
+              "url": "https://www.theusconstitution.org/litigation/black-voters-matter-capacity-building-institute-v-byrd",
+              "date": null
+            }
+          ]
+        },
+        {
+          "case": "Equal Ground Education Fund v. State (request to block the 2026 congressional map)",
+          "date": "2026-06-10",
+          "topic": "Redistricting",
+          "what_it_decided": "The court declined to take up a request by Equal Ground Education Fund to intervene in, or use its 'all writs' power to bypass, a pending First District Court of Appeal case over a trial court's refusal to block the Legislature's 2026 congressional map, saying it lacked jurisdiction at that stage. The practical effect was that the new map governed the 2026 congressional elections.",
+          "vote": "6-1",
+          "muniz_role": "Joined majority",
+          "note": "Justice Labarga was the lone dissenter, arguing the constitution anticipates expedited review of urgent statewide matters. The opinion's author was not identified in available reports (one outlet attributes a quoted statement to Justice Adam Tanenbaum); Muñiz's membership in the majority is inferred from the 6-1 vote with Labarga as the only dissenter.",
+          "sources": [
+            {
+              "title": "Florida Supreme Court won't intervene in challenge to new congressional map (The Capitolist)",
+              "url": "https://thecapitolist.com/florida-supreme-court-wont-intervene-in-challenge-to-new-congressional-map/",
+              "date": "2026-06-10"
+            },
+            {
+              "title": "Florida Supreme Court refuses to intervene in congressional redistricting lawsuit (ClickOrlando / News Service of Florida)",
+              "url": "https://www.clickorlando.com/election-2026/2026/06/10/florida-supreme-court-refuses-to-intervene-in-congressional-redistricting-lawsuit/",
+              "date": "2026-06-10"
+            },
+            {
+              "title": "Florida Supreme Court keeps new congressional districts in place (Florida Trend / News Service of Florida)",
+              "url": "https://www.floridatrend.com/articles/2026/06/11/florida-supreme-court-keeps-new-congressional-districts-place/",
+              "date": "2026-06-11"
+            },
+            {
+              "title": "Florida Supreme Court leaves in place new GOP-boosting US House map for elections (WUSF)",
+              "url": "https://wusf.org/text/politics-issues/2026-06-11/florida-supreme-court-leaves-in-place-new-gop-boosting-us-house-map-for-elections",
+              "date": "2026-06-11"
+            }
+          ]
+        },
+        {
+          "case": "Thompson v. DeSantis (appointment of Justice Renatha Francis)",
+          "date": "2020-08-27",
+          "topic": "Courts & procedure",
+          "what_it_decided": "The court held that Gov. DeSantis exceeded his authority when he appointed Renatha Francis to the Supreme Court because she had not yet been a Florida Bar member for the 10 years the constitution requires, but it denied the petitioner's request to force a new appointment from a fresh list of nominees, so the appointment was not undone by the ruling. (Francis later withdrew and was appointed again in 2022.)",
+          "vote": "5-0 (Justice Couriel recused)",
+          "muniz_role": "Author of majority opinion",
+          "note": "Justices Labarga and Polston each wrote separate concurrences.",
+          "sources": [
+            {
+              "title": "Thompson v. DeSantis, No. SC20-985 (Justia)",
+              "url": "https://law.justia.com/cases/florida/supreme-court/2020/sc20-985.html",
+              "date": "2020-08-27"
+            },
+            {
+              "title": "Florida Supreme Court says Gov. DeSantis 'exceeded his authority' in Renatha Francis appointment (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/362371-florida-supreme-court-says-gov-desantis-exceeded-his-authority-in-renatha-francis-appointment",
+              "date": "2020-08-27"
+            },
+            {
+              "title": "Justices say DeSantis overstepped authority with Supreme Court pick (News4Jax / News Service of Florida)",
+              "url": "https://news4jax.com/news/florida/2020/08/28/justices-say-desantis-overstepped-authority-with-supreme-court-pick",
+              "date": "2020-08-28"
+            },
+            {
+              "title": "Supreme Court dismisses challenge to Justice Francis appointment (Florida Bar News)",
+              "url": "https://www.floridabar.org/the-florida-bar-news/supreme-court-dismisses-challenge-to-justice-francis-appointment/",
+              "date": "2020"
+            }
+          ]
+        },
+        {
+          "case": "Prentice v. R.J. Reynolds Tobacco Co. (Engle-progeny smoker lawsuits)",
+          "date": "2022-03-17",
+          "topic": "Other",
+          "what_it_decided": "The court held that smokers (or their survivors) suing tobacco companies for fraudulent concealment or conspiracy in 'Engle progeny' cases must prove they relied on specific statements or omissions by the companies, rather than letting juries infer reliance generally. The ruling made it harder for plaintiffs in the thousands of remaining Florida tobacco cases to win fraud claims.",
+          "vote": "6-1",
+          "muniz_role": "Author of majority opinion",
+          "note": "Justice Labarga dissented, writing that settled Florida law had allowed juries to infer reliance. Muñiz's authorship is reported by Florida Bulldog; the Justia docket (SC20-943) carries the opinion.",
+          "sources": [
+            {
+              "title": "Prentice v. R.J. Reynolds Tobacco Co., No. SC20-943 (Justia)",
+              "url": "https://law.justia.com/cases/florida/supreme-court/2022/sc20-943.html",
+              "date": "2022-03-17"
+            },
+            {
+              "title": "Tobacco Industry Gets Win at Supreme Court (Daily Business Review)",
+              "url": "https://law.com/dailybusinessreview/2022/03/18/tobacco-industry-gets-win-at-supreme-court",
+              "date": "2022-03-18"
+            },
+            {
+              "title": "Ruling dooms Florida tobacco lawsuits, Supreme Court justice says (Legal Newsline)",
+              "url": "https://legalnewsline.com/stories/622290475-ruling-dooms-florida-tobacco-lawsuits-supreme-court-justice-says",
+              "date": "2022-03"
+            },
+            {
+              "title": "Politics and Florida's Supreme Court: the remarkable rise of the next chief justice (Florida Bulldog)",
+              "url": "https://floridabulldog.org/2022/04/politics-and-floridas-supreme-court-the-remarkable-rise-of-the-next-chief-justice",
+              "date": "2022-04"
+            }
+          ]
+        },
+        {
+          "case": "City of Tallahassee v. Florida Police Benevolent Association (Marsy's Law and police officers' names)",
+          "date": "2023-11-30",
+          "topic": "Other",
+          "what_it_decided": "The court held that Marsy's Law, the 2018 crime-victims' rights amendment, does not give any victim, including a police officer who used force, a right to keep his or her name out of public records. The decision reversed a First DCA ruling and allowed the City of Tallahassee to release the names of two officers involved in 2020 shootings.",
+          "vote": "6-0 (Justice Sasso did not participate)",
+          "muniz_role": "Joined majority",
+          "note": "The opinion was written by Justice John Couriel; the decision was unanimous among participating justices.",
+          "sources": [
+            {
+              "title": "City of Tallahassee v. Fla. Police Benevolent Ass'n, No. SC2021-0651 (Justia)",
+              "url": "https://law.justia.com/cases/florida/supreme-court/2023/sc2021-0651.html",
+              "date": "2023-11-30"
+            },
+            {
+              "title": "Florida Supreme Court: Marsy's Law doesn't shield names, including police officers (WUSF / News Service of Florida)",
+              "url": "https://www.wusf.org/courts-law/2023-11-30/florida-supreme-court-marsys-law-doesnt-shield-names-including-police-officers",
+              "date": "2023-11-30"
+            },
+            {
+              "title": "Florida Supreme Court Says 'Marsy's Law' Doesn't Shield Names (Daily Business Review)",
+              "url": "https://law.com/dailybusinessreview/2023/12/01/florida-supreme-court-says-marsys-law-doesnt-shield-names",
+              "date": "2023-12-01"
+            }
+          ]
+        },
+        {
+          "case": "In re Amendments to Rules Regulating The Florida Bar (continuing-legal-education diversity policy)",
+          "date": "2021-04",
+          "topic": "Courts & procedure",
+          "what_it_decided": "Acting on its own motion, the court amended Bar rules so that Florida lawyers cannot receive continuing-legal-education credit for programs that require panels to meet diversity quotas, a response to a policy adopted by the Bar's Business Law Section modeled on an American Bar Association guideline. After taking comments, the court reaffirmed the rule with minor changes, effective Jan. 1, 2022.",
+          "vote": "6-1",
+          "muniz_role": "Joined majority",
+          "note": "Justice Labarga was the lone dissenter in both the initial and revised orders; Muñiz's membership in the majority is inferred from the 6-1 vote. Florida Bulldog later reported that in 2024 the court also removed 'bias elimination' from required CLE topics, again over a Labarga dissent.",
+          "sources": [
+            {
+              "title": "Conservative Florida Supreme Court targets Bar leaders for diversity quotas in continuing legal education (Florida Bulldog)",
+              "url": "https://www.floridabulldog.org/2021/08/conservative-florida-supreme-court-targets-bar-leaders-for-diversity-quotas-in-continuing-legal-education/",
+              "date": "2021-08"
+            },
+            {
+              "title": "Florida Supreme Court justice warns of series of 'drastic changes' by conservative colleagues (Florida Bulldog)",
+              "url": "https://floridabulldog.org/2021/12/florida-supreme-court-justice-warns-of-series-of-drastic-changes-by-conservative-colleagues",
+              "date": "2021-12"
+            },
+            {
+              "title": "Florida's Anti-DEI Push Axes Bias-Elimination Lawyer Training (Bloomberg Law)",
+              "url": "https://news.bloomberglaw.com/social-justice/floridas-anti-dei-push-axes-bias-elimination-lawyer-training",
+              "date": "2024"
+            }
+          ]
+        },
+        {
+          "case": "Judicial nominating commission residency case",
+          "date": "2022-12",
+          "topic": "Courts & procedure",
+          "what_it_decided": "The court rejected challenges to a judicial nominating commission's nomination of a candidate who did not live in the judicial circuit at the time of nomination, holding that an appointee must meet constitutional eligibility (including residency) at the time of appointment rather than at nomination.",
+          "vote": "Not reported in the available source",
+          "muniz_role": "Author of majority opinion",
+          "note": "Reported by the Daily Business Review; the vote split was not stated in the search snippet.",
+          "sources": [
+            {
+              "title": "Florida Supreme Court ruling allows judicial commissions to nominate nonresident candidates (Daily Business Review)",
+              "url": "https://law.com/dailybusinessreview/2022/12/16/florida-supreme-court-ruling-allows-judicial-commissions-to-nominate-nonresident-candidates",
+              "date": "2022-12-16"
+            }
+          ]
+        },
+        {
+          "case": "Smart & Safe Florida v. Secretary of State (2026 recreational-marijuana initiative signatures)",
+          "date": "2026-03",
+          "topic": "Ballot initiatives",
+          "what_it_decided": "The court declined to hear the sponsor's petition challenging the state's invalidation of roughly 70,600 petition signatures under 2025 initiative-law changes, leaving in place a First DCA ruling and effectively ending the effort to place recreational marijuana on the 2026 ballot. The Department of State had already announced in February 2026 that none of the 22 active citizen initiatives qualified.",
+          "vote": "Not reported (order declining review)",
+          "muniz_role": "Not reported",
+          "note": "Individual justices' votes on the order were not reported in available sources.",
+          "sources": [
+            {
+              "title": "Recreational Marijuana Effort Fizzles After Florida High Court Declines to Review (Insurance Journal)",
+              "url": "https://www.insurancejournal.com/news/southeast/2026/03/11/861432.htm",
+              "date": "2026-03-11"
+            },
+            {
+              "title": "No citizen initiatives on 2026 Florida ballot, including marijuana amendment, state says (ClickOrlando)",
+              "url": "https://www.clickorlando.com/news/florida/2026/02/02/no-citizen-initiatives-on-2026-florida-ballot-including-marijuana-amendment-state-says/",
+              "date": "2026-02-02"
+            },
+            {
+              "title": "Florida recreational marijuana initiative one step closer to appearing on 2026 ballot (CBS Miami)",
+              "url": "https://www.cbsnews.com/amp/miami/news/florida-recreational-marijuana-question-2026-ballot",
+              "date": "2025"
+            }
+          ]
+        }
+      ],
+      "chief_justice_tenure": {
+        "summary": "Muñiz was elected chief justice unanimously by his colleagues in 2022 (term beginning July 1, 2022) and re-elected to a second two-year term in 2024; Wikipedia lists John D. Couriel as his successor as of July 1, 2026. As chief justice he was the judicial branch's chief administrator and spokesperson to the Legislature on budget and policy.",
+        "items": [
+          {
+            "item": "Oversaw a rewrite of Florida's civil procedure rules, effective Jan. 1, 2025, that requires early case-management orders, firmer deadlines and changes to discovery; Florida Bar News describes it as the most significant overhaul of the state's civil justice system in over half a century. Muñiz has called the reforms a work in progress and said the court will keep studying unintended consequences.",
+            "sources": [
+              "https://www.floridabar.org/the-florida-bar-news/chief-justice-muniz-discusses-key-changes-to-floridas-civil-justice-system/",
+              "https://www.floridabar.org/the-florida-bar-news/supreme-court-monitors-civil-justice-reforms/",
+              "https://www.floridabar.org/the-florida-bar-news/court-sends-sweeping-recommendations-to-improve-the-resolution-of-civil-cases-to-various-committees-for-more-study/"
+            ]
+          },
+          {
+            "item": "Led the court's legislative budget requests for case-management technology, court reporters and interpreters, and judgeships; the court certified a need for 50 additional judgeships in a December order and the Legislature approved 39 new trial and appellate judgeships in 2025. He has briefed House panels on court efficiency reforms.",
+            "sources": [
+              "https://www.floridabar.org/the-florida-bar-news/courts-seek-legislative-support-to-strengthen-case-management-security-and-staffing/",
+              "https://www.floridabar.org/the-florida-bar-news/chief-justice-muniz-briefs-house-panel-on-court-reforms-efficiency-push/"
+            ]
+          },
+          {
+            "item": "Elected chief justice by unanimous vote of the court in 2022, succeeding Charles Canady, and re-elected in 2024 for a second term beginning July 1, 2024.",
+            "sources": [
+              "https://www.floridabar.org/the-florida-bar-news/muniz-to-serve-as-floridas-next-chief-justice/",
+              "https://floridaphoenix.com/2024/04/25/muniz-will-continue-as-floridas-chief-justice/",
+              "https://en.wikipedia.org/wiki/Carlos_G._Mu%C3%B1iz"
+            ]
+          }
+        ]
+      },
+      "record_summary": "Observers across the spectrum describe Muñiz as a reliable member of the court's majority: Florida Bulldog, which has been critical of the court, characterizes the DeSantis-era court as 'conservative' and notes its decisions tend to be unanimous or 6-1 with Justice Jorge Labarga as the usual dissenter, while the Florida Phoenix's 2026 voter guide notes that his 2019 appointment was praised by John Stemberger of the Florida Family Policy Council, an anti-abortion group, and points voters to his votes upholding the 15-week abortion law, allowing the 2024 abortion and marijuana amendments onto the ballot, and upholding the congressional map that eliminated a majority-Black North Florida district. The Florida Trib reported in October 2026 that the Miami Herald editorial board urged voters not to retain him while the Sun Sentinel editorial board said he deserves retention. The Florida Bar's last merit-retention polls (2020) found 71% of responding lawyers favored retaining him. As of late October 2026, no organized 'vote no' or 'vote yes' committee, campaign spending, or formal position from Planned Parenthood, the Florida Democratic Party, Florida Rising, or the League of Women Voters on his retention was found in searches; Ballotpedia and news outlets note that no Florida Supreme Court justice has ever lost a retention vote.",
+      "record_summary_sources": [
+        {
+          "title": "Supreme Court justice retention (Florida Phoenix 2026 voter guide)",
+          "url": "https://floridaphoenix.com/voter-guides/ballot-measures/2026-supreme-court-retention/",
+          "date": "2026-09"
+        },
+        {
+          "title": "Supreme Court Justice Carlos Muñiz, 22 district court judges face merit retention votes (Florida Trib)",
+          "url": "https://floridatrib.org/2026/10/26/supreme-court-justice-carlos-muniz-22-district-court-judges-face-merit-retention-votes/",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "2026 voters guide: Florida Supreme Court justice retention (ClickOrlando)",
+          "url": "https://www.clickorlando.com/voters-guide/2026/10/16/2026-voters-guide-florida-supreme-court-justice-retention/",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Florida Supreme Court elections, 2026 (Ballotpedia)",
+          "url": "https://ballotpedia.org/Florida_Supreme_Court_elections,_2026",
+          "date": null
+        },
+        {
+          "title": "Politics and Florida's Supreme Court: the remarkable rise of the next chief justice (Florida Bulldog)",
+          "url": "https://floridabulldog.org/2022/04/politics-and-floridas-supreme-court-the-remarkable-rise-of-the-next-chief-justice",
+          "date": "2022-04"
+        },
+        {
+          "title": "Conservative Florida Supreme Court targets Bar leaders for diversity quotas (Florida Bulldog)",
+          "url": "https://www.floridabulldog.org/2021/08/conservative-florida-supreme-court-targets-bar-leaders-for-diversity-quotas-in-continuing-legal-education/",
+          "date": "2021-08"
+        },
+        {
+          "title": "FL Bar members give high marks to Carlos Muñiz, other appeals judges up for merit retention (Florida Phoenix)",
+          "url": "https://floridaphoenix.com/briefs/fl-bar-members-give-high-marks-to-carlos-muniz-other-appeals-judges-up-for-merit-retention/",
+          "date": "2020"
+        },
+        {
+          "title": "Justice Muñiz and 22 DCA judges to stand for merit retention (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+          "date": "2026"
+        }
+      ],
+      "rulings_research_note": "Compiled Oct. 29, 2026 from web-search snippets (court opinions could not be fetched directly). Roles marked 'inferred' rest on reported vote splits with Justice Labarga as sole dissenter. Not located during this pass: any Florida Supreme Court merits ruling during Muñiz's tenure on school vouchers, the 2020 parental-consent abortion law, open carry, local-government preemption, or the Disney special district (the open-carry and Disney matters were decided in other courts)."
     },
     {
       "name": "John M. Harris",
@@ -100,6 +632,25 @@
         "https://en.wikipedia.org/wiki/Florida_Fifth_District_Court_of_Appeal",
         "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
         "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/"
+      ],
+      "rulings": [],
+      "rulings_note": "No signed opinion, concurrence or dissent authored by Judge Harris was found in searches (Oct. 2026). The Fifth DCA decisions located for 2025 list him only as a concurring member of panels issuing per curiam affirmances without written opinions, mostly in criminal appeals from Brevard, Citrus, Hernando, Marion and Sumter counties (e.g., Bass v. State, 5D2025-0274, a Sumter County appeal affirmed Nov. 18, 2025). Ballotpedia records that he took office in 2018 and was retained in 2020.",
+      "rulings_sources": [
+        {
+          "title": "Bass v. State, Fifth District Court of Appeal, decided Nov. 18, 2025 (hallapproved.com case listing; Harris concurring in per curiam affirmance)",
+          "url": "https://hallapproved.com/fl/cases/appeals/2025/10753273/",
+          "date": "2025-11-18"
+        },
+        {
+          "title": "Cruz v. State, Fifth District Court of Appeal, decided Nov. 20, 2025 (hallapproved.com case listing; Harris concurring)",
+          "url": "https://hallapproved.com/fl/cases/appeals/2025/10753287/",
+          "date": "2025-11-20"
+        },
+        {
+          "title": "John M. Harris (Ballotpedia)",
+          "url": "https://ballotpedia.org/John_M._Harris",
+          "date": null
+        }
       ]
     },
     {
@@ -134,7 +685,89 @@
         "https://en.wikipedia.org/wiki/Scott_Makar",
         "https://ballotpedia.org/Florida_Fifth_District_Court_of_Appeal",
         "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/"
-      ]
+      ],
+      "rulings": [
+        {
+          "case": "Barger v. Candow-Yost (5D2024-0904)",
+          "date": "2025-01-10",
+          "topic": "Other",
+          "what_it_decided": "A Fifth DCA panel affirmed the trial court without a written majority opinion (per curiam).",
+          "vote": "2-1",
+          "judge_role": "Dissent",
+          "note": "Judges Edwards and Eisnaugle concurred; Makar dissented with a written opinion. The reasoning of the dissent was not available in search results.",
+          "sources": [
+            {
+              "title": "Barger v. Candow-Yost, Fifth District Court of Appeal, decided Jan. 10, 2025 (hallapproved.com case listing)",
+              "url": "https://hallapproved.com/fl/cases/appeals/2025/10311776/",
+              "date": "2025-01-10"
+            }
+          ]
+        },
+        {
+          "case": "Pendergrass v. State (5D23-2860) and Nye v. State (5D23-2776)",
+          "date": "2024-01-26",
+          "topic": "Courts & procedure",
+          "what_it_decided": "In two criminal appeals decided the same day, the panel affirmed the convictions; Makar concurred in the result but wrote separately, declining to rely on the court's summary-affirmance rule.",
+          "vote": "3-0 (concurring in result)",
+          "judge_role": "Concurring opinion",
+          "note": "Both concurrences take the same position on the summary-affirmance rule.",
+          "sources": [
+            {
+              "title": "Pendergrass v. State, Fifth District Court of Appeal, decided Jan. 26, 2024 (hallapproved.com case listing)",
+              "url": "https://hallapproved.com/fl/cases/appeals/2024/9469295/",
+              "date": "2024-01-26"
+            },
+            {
+              "title": "Nye v. State, Fifth District Court of Appeal, decided Jan. 26, 2024 (hallapproved.com case listing)",
+              "url": "https://hallapproved.com/fl/cases/appeals/2024/9469294/",
+              "date": "2024-01-26"
+            }
+          ]
+        },
+        {
+          "case": "Johnson v. State (First DCA)",
+          "date": "2019",
+          "topic": "Courts & procedure",
+          "what_it_decided": "The First DCA denied, per curiam, a petition for a belated appeal; Makar dissented, arguing the hearing officer had read the petitioner's factual allegations too narrowly.",
+          "vote": "2-1",
+          "judge_role": "Dissent",
+          "note": "From Makar's First DCA years (2012-2022), before he was reassigned to the Fifth DCA in 2023.",
+          "sources": [
+            {
+              "title": "Johnson v. State, First District Court of Appeal, 2019 (hallapproved.com case listing)",
+              "url": "https://hallapproved.com/fl/cases/appeals/2019/7714409/",
+              "date": "2019"
+            }
+          ]
+        },
+        {
+          "case": "Joseph v. Dyck-O'Neal, Inc. and Higgins v. Dyck-O'Neal, Inc. (First DCA)",
+          "date": "2016-09",
+          "topic": "Other",
+          "what_it_decided": "In mortgage deficiency-judgment cases, the First DCA reversed per curiam; Makar dissented, writing that he would affirm or, alternatively, certify conflict with other district courts so the Florida Supreme Court could resolve it, and separately dissented from the denial of certification.",
+          "vote": "2-1",
+          "judge_role": "Dissent",
+          "note": "Makar's dissents in these consumer-debt cases are among his more frequently indexed First DCA separate writings.",
+          "sources": [
+            {
+              "title": "Joseph v. Dyck-O'Neal, Inc., First District Court of Appeal, Sept. 6, 2016 (Leagle)",
+              "url": "https://www.leagle.com/decision/inflco20160906094",
+              "date": "2016-09-06"
+            },
+            {
+              "title": "Florida District Courts of Appeal, 2016 (hallapproved.com case listing)",
+              "url": "https://hallapproved.com/fl/cases/appeals/2016/4254104/",
+              "date": "2016"
+            },
+            {
+              "title": "Higgins v. Dyck-O'Neal, Inc., 2016 (hallapproved.com case listing)",
+              "url": "https://hallapproved.com/fl/cases/appeals/2016/5015506/",
+              "date": "2016"
+            }
+          ]
+        }
+      ],
+      "rulings_research_note": "Separate writings located via case-listing sites; full opinion text was not retrievable, so holdings are summarized from headers and snippets. Case-to-URL mapping for the hallapproved.com listings is based on decision dates and should be spot-checked."
     },
     {
       "name": "F. Rand Wallis",
@@ -170,6 +803,25 @@
         "https://ballotpedia.org/Florida_Fifth_District_Court_of_Appeal",
         "https://5dca.flcourts.gov/Judges",
         "https://www.floridabar.org/public/faircts/votes010/merit-retention-biographies/"
+      ],
+      "rulings": [],
+      "rulings_note": "No signed opinion, concurrence or dissent authored by Judge Wallis was found in searches (Oct. 2026). Decisions located for 2021-2023 list him only as a concurring member of panels issuing per curiam affirmances without written opinions (e.g., Riggs v. State, decided Oct. 10, 2023, with Judges Lambert and MacIver; Bullis v. State, Aug. 22, 2023; Davis v. State, July 11, 2023). Ballotpedia records that he took office May 29, 2013.",
+      "rulings_sources": [
+        {
+          "title": "Riggs v. State, Fifth District Court of Appeal, decided Oct. 10, 2023 (flexlaw.co case listing; Wallis concurring in per curiam affirmance)",
+          "url": "https://flexlaw.co/case/1516595/2023-riggs-v-state",
+          "date": "2023-10-10"
+        },
+        {
+          "title": "Florida District Courts of Appeal, 2023 (hallapproved.com case listing; Wallis concurring)",
+          "url": "https://hallapproved.com/fl/cases/appeals/2023/9445147/",
+          "date": "2023"
+        },
+        {
+          "title": "F. Rand Wallis (Ballotpedia)",
+          "url": "https://ballotpedia.org/F._Rand_Wallis",
+          "date": null
+        }
       ]
     }
   ],

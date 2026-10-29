@@ -1,0 +1,378 @@
+{
+  "court": "Third District Court of Appeal",
+  "dca": 3,
+  "notes": "Research compiled Oct 29, 2026 from web-search snippets only (full opinions and most news sites could not be fetched). Rulings are listed only where a source ties the judge to the opinion or panel. The statewide 2026 Florida Bar merit-retention poll results could not be located; the local Miami-Dade County Bar Association 2026 poll is cited instead. No organized campaigns for or against retention of any of these judges were found.",
+  "judges": [
+    {
+      "name": "Kansas R. Gooden",
+      "court": "Third District Court of Appeal",
+      "ballot_question": "Shall Judge Kansas R. Gooden of the Third District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Ron DeSantis",
+      "appointed_year": 2024,
+      "background": "Kansas R. Gooden holds a bachelor's degree from James Madison University and a law degree from St. Thomas University. Before joining the bench she spent about 16 years in private practice, most recently as a shareholder and appellate practice group leader at the firm Boyd & Jenerette, where she was board certified in appellate practice and handled more than 400 civil appeals. Gov. Ron DeSantis appointed her to the Third District Court of Appeal on June 28, 2024, to fill the seat left vacant by the death of Judge Eric Hendon. This is her first merit-retention election; judges appointed to a district court of appeal must stand for retention at the next general election held more than one year after taking office.",
+      "rulings": [
+        {
+          "case": "Contragolpe LLC v. 505 NE 30 Street, LLC (No. 3D23-1487)",
+          "date": "2025-01",
+          "topic": "Contract dispute / summary judgment",
+          "what_it_decided": "A three-judge panel reversed a Miami-Dade trial court's summary judgment, holding that the contract language was ambiguous and the trial judge should not have resolved that ambiguity by weighing conflicting outside evidence at the summary-judgment stage. The case was sent back for further proceedings.",
+          "vote": "Unanimous panel (Fernandez, Bokor, Gooden)",
+          "role": "Joined majority",
+          "note": "Opinion written by Judge Bokor.",
+          "sources": [
+            {"title": "Contragolpe LLC, et al. v. 505 NE 30 Street, LLC, et al. (Justia)", "url": "https://law.justia.com/cases/florida/third-district-court-of-appeal/2025/3d23-1487.html", "date": "2025-01-29"},
+            {"title": "Contragolpe LLC v. 505 NE 30 Street, LLC (CourtListener)", "url": "https://www.courtlistener.com/opinion/10323047/contragolpe-llc-v-505-ne-30-street-llc/", "date": "2025-01-29"}
+          ]
+        },
+        {
+          "case": "Universal Property & Casualty Insurance Co. v. Williams (No. 3D24-0252)",
+          "date": "2025-09",
+          "topic": "Homeowner's insurance appeal",
+          "what_it_decided": "The panel affirmed a Miami-Dade trial court ruling for the homeowner in a property-insurance dispute in a short unsigned (per curiam) opinion that cited an earlier Third DCA decision, Citizens Property Insurance Corp. v. Laguerre (2018).",
+          "vote": "Unanimous panel (Scales, Miller, Gooden)",
+          "role": "Joined majority",
+          "note": "Per curiam affirmance; no individual author.",
+          "sources": [
+            {"title": "Universal Property & Casualty Insurance Co. v. Johnny Williams (Hall Approved case listing)", "url": "https://hallapproved.com/fl/cases/appeals/2025/10669133/", "date": "2025-09-10"}
+          ]
+        },
+        {
+          "case": "Pilac Management, Ltd. v. Parque Towers Developers, LLC (No. 3D25-1698)",
+          "date": "2026-10",
+          "topic": "Condominium purchase deposits",
+          "what_it_decided": "The panel reversed a trial court decision and sent the case back in a dispute over deposits owed to condominium purchasers, relying on the court's earlier ruling in the same litigation that the developer's construction delay did not breach the purchase agreements.",
+          "vote": "Unanimous panel (Logue, Lindsey, Gooden)",
+          "role": "Joined majority",
+          "note": "Opinion written by Chief Judge Logue.",
+          "sources": [
+            {"title": "Pilac Management, Ltd., Etc. v. Parque Towers Developers, LLC, Etc. (CourtListener)", "url": "https://www.courtlistener.com/opinion/11033639/pilac-management-ltd-etc-v-parque-towers-developers-llc-etc/", "date": "2026-10-14"}
+          ]
+        }
+      ],
+      "record_summary": "No opinion authored by Judge Gooden could be located through search snippets; the rulings listed above are cases where published panel listings show she joined the decision. In Wright-Johnson v. State (No. 3D23-1452, 2025) the Justia listing shows her as concurring in the result only, but the snippet did not describe the ruling. In the Miami-Dade County Bar Association's 2026 judicial poll (631 respondents, closed July 3, 2026), 232 lawyers said she should be retained, 91 said no and 247 had no opinion, about 71.8% 'yes' among those expressing a view. The Federalist Society lists her as a contributor on its website. No organized retention campaign for or against her was found.",
+      "photo_url": null,
+      "sources": [
+        {"title": "Governor DeSantis appoints Kansas Gooden to the Third DCA (Florida Bar News)", "url": "https://www.floridabar.org/the-florida-bar-news/governors-appoints-kansas-gooden-to-the-third-dca/", "date": "2024-07"},
+        {"title": "Governor Ron DeSantis Makes One Judicial Appointment (flgov.com)", "url": "https://flgov.com/2024/06/28/governor-ron-desantis-makes-one-judicial-appointment-21", "date": "2024-06-28"},
+        {"title": "Kansas Gooden Appointed to Serve as a Judge on the Third District Court of Appeal (WQCS)", "url": "https://www.wqcs.org/wqcs-news/2024-07-01/kansas-gooden-appointed-to-serve-as-a-judge-on-the-third-district-court-of-appeal", "date": "2024-07-01"},
+        {"title": "Kansas Gooden: Soaring Ever Higher (St. Thomas University)", "url": "https://www.stu.edu/news/kansas-gooden-soaring-ever-higher/", "date": "2024"},
+        {"title": "Kansas Gooden (Ballotpedia)", "url": "https://ballotpedia.org/Kansas_Gooden", "date": null},
+        {"title": "Florida Governor Names Insurance Defense Lawyer to Appeals Court (Insurance Journal)", "url": "https://insurancejournal.com/news/southeast/2024/07/08/782480.htm", "date": "2024-07-08"},
+        {"title": "Kansas Gooden (Federalist Society contributor page)", "url": "https://fedsoc.org/bio/kansas-gooden", "date": null},
+        {"title": "2026 Judicial Poll (Miami-Dade County Bar Association)", "url": "https://www.miamidadebar.org/wp-content/uploads/2026/07/2026-Judicial-Poll-Miami-Dade-Bar-1.pdf", "date": "2026-07"},
+        {"title": "Justice Muniz and 22 DCA judges to stand for merit retention (Florida Bar News)", "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/", "date": "2026"}
+      ]
+    },
+    {
+      "name": "Monica Gordo",
+      "court": "Third District Court of Appeal",
+      "ballot_question": "Shall Judge Monica Gordo of the Third District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Ron DeSantis",
+      "appointed_year": 2019,
+      "background": "Monica Gordo earned both her bachelor's degree and her law degree from the University of Miami and was admitted to the Florida Bar in 1999. She worked for more than 11 years as an assistant state attorney in Miami-Dade, where she became a division chief supervising a felony division. She was elected to the Eleventh Judicial Circuit (Miami-Dade) in 2010, was sworn in in January 2011 and served about eight years in the criminal, civil and family divisions. Gov. Ron DeSantis appointed her to the Third District Court of Appeal on April 25, 2019, to fill the vacancy created when Barbara Lagoa was elevated to the Florida Supreme Court. Voters retained her on Nov. 3, 2020, with about 73.8% voting yes.",
+      "rulings": [
+        {
+          "case": "City of Aventura v. Stein (No. 3D19-0523)",
+          "date": "2020-06",
+          "topic": "Red-light camera citations",
+          "what_it_decided": "The panel reversed a county court's dismissal of a right-on-red camera ticket. The driver did not dispute that the camera photos showed probable cause but argued the city's vendor guidelines violated state law; the court rejected that argument and reinstated the citation.",
+          "vote": "Unanimous panel (Logue, Salter, Gordo)",
+          "role": "Joined majority",
+          "note": "Opinion written by Judge Logue.",
+          "sources": [
+            {"title": "City of Aventura v. Stein (Justia)", "url": "https://law.justia.com/cases/florida/third-district-court-of-appeal/2020/3d19-0523.html", "date": "2020-06-24"},
+            {"title": "Weiss Serota client alert on Aventura v. Stein", "url": "https://www.wsh-law.com/?p=7566", "date": "2020"}
+          ]
+        },
+        {
+          "case": "City of Miami v. Miami-Dade County (No. 3D21-1411)",
+          "date": "2022",
+          "topic": "Dispute between the City of Miami and Miami-Dade County",
+          "what_it_decided": "Judge Gordo wrote a dissent from the panel's decision in this case between the city and the county. The search snippet available did not describe the subject of the dispute or the reasoning of the majority or the dissent.",
+          "vote": "Divided panel",
+          "role": "Dissent",
+          "note": "Details of the dissent could not be verified from available snippets; see the opinion text at the source link.",
+          "sources": [
+            {"title": "City of Miami v. Miami-Dade County, 2022 (Justia)", "url": "https://law.justia.com/cases/florida/third-district-court-of-appeal/2022/3d21-1411.html", "date": "2022"}
+          ]
+        },
+        {
+          "case": "Valdes v. State (No. 3D23-633)",
+          "date": "2024-03",
+          "topic": "Criminal appeal / community control revocation",
+          "what_it_decided": "After the State conceded error, the court reversed an order revoking a defendant's community control because the written order listed violations the trial judge had not announced in open court, and sent the case back for the order to be corrected.",
+          "vote": "Unanimous panel",
+          "role": "Author of majority opinion",
+          "note": null,
+          "sources": [
+            {"title": "Lazaro Oyanse Valdes v. The State of Florida (CourtListener)", "url": "https://www.courtlistener.com/opinion/9481524/lazaro-oyanse-valdes-v-the-state-of-florida/", "date": "2024-03-06"}
+          ]
+        },
+        {
+          "case": "City of Miami v. Marcos (No. 3D24-0082)",
+          "date": "2025-02",
+          "topic": "Civil lawsuit against the City of Miami / default judgment",
+          "what_it_decided": "The court reversed a default judgment on liability that had been entered against the City of Miami, finding that the trial judge abused her discretion by striking the city's pleadings and entering a default. The case was sent back for a new trial on liability only, leaving the damages award in place.",
+          "vote": "Unanimous panel",
+          "role": "Author of majority opinion",
+          "note": null,
+          "sources": [
+            {"title": "City of Miami v. Vilma Marcos (CourtListener)", "url": "https://www.courtlistener.com/opinion/10335491/city-of-miami-v-vilma-marcos/", "date": "2025-02-19"}
+          ]
+        },
+        {
+          "case": "Miami-Dade County v. Garavan (No. 3D25-0014)",
+          "date": "2026-03",
+          "topic": "Sovereign immunity / damages against the county",
+          "what_it_decided": "The court upheld most of a judgment against Miami-Dade County but reversed the award of non-economic damages, holding that the county is entitled to sovereign immunity and the plaintiff's recovery is limited to the kinds of damages the state has expressly waived immunity for.",
+          "vote": "Unanimous panel",
+          "role": "Author of majority opinion",
+          "note": null,
+          "sources": [
+            {"title": "Miami-Dade County v. Dr. David Fintan Garavan (CourtListener)", "url": "https://www.courtlistener.com/opinion/10814726/miami-dade-county-v-dr-david-fintan-garavan/", "date": "2026-03-25"}
+          ]
+        }
+      ],
+      "record_summary": "In the Florida Bar's 2020 statewide merit-retention poll, 78% of responding lawyers recommended retaining Judge Gordo, and voters retained her that year with about 73.8% (Ballotpedia). In the Miami-Dade County Bar Association's 2026 judicial poll (631 respondents, closed July 3, 2026), 339 lawyers said she should be retained, 101 said no and 125 had no opinion, about 77.1% 'yes' among those expressing a view. The Federalist Society lists her as a contributor on its website. No organized retention campaign for or against her was found.",
+      "photo_url": null,
+      "sources": [
+        {"title": "Monica Gordo (Ballotpedia)", "url": "https://ballotpedia.org/Monica_Gordo", "date": null},
+        {"title": "Judge Monica Gordo biography (National Association of Women Judges)", "url": "https://www.nawj.org/uploads/files/events/webinars/judgemonicagordobio.pdf", "date": null},
+        {"title": "Governor Ron DeSantis Appoints Monica Gordo and Fleur Lobree to the Third District Court of Appeal (Capital Soup / Governor's office release)", "url": "https://capitalsoup.com/2019/04/25/governor-ron-desantis-appoints-monica-gordo-and-fleur-lobree-to-the-third-district-court-of-appeal", "date": "2019-04-25"},
+        {"title": "DeSantis appoints two judges to South Florida appellate court (Florida Phoenix)", "url": "https://floridaphoenix.com/2019/04/26/desantis-appoints-two-judges-to-south-florida-appellate-court/", "date": "2019-04-26"},
+        {"title": "Judge Monica Gordo, J.D. '99: Proud to Serve on the Appellate Bench (University of Miami School of Law)", "url": "https://news.miami.edu/law/stories/2020/04/judge-monica-gordo,-j.d.-99-proud-to-serve-on-the-appellate-bench.html", "date": "2020-04"},
+        {"title": "Monica Gordo (Federalist Society contributor page)", "url": "https://fedsoc.org/bio/monica-gordo-1", "date": null},
+        {"title": "Florida Bar poll shows support for appellate judges in merit retention elections (Florida Bar, 2020)", "url": "https://www.floridabar.org/news-release/merit-retention/florida-bar-poll-shows-support-for-appellate-judges-in-merit-retention-elections-2/", "date": "2020"},
+        {"title": "2026 Judicial Poll (Miami-Dade County Bar Association)", "url": "https://www.miamidadebar.org/wp-content/uploads/2026/07/2026-Judicial-Poll-Miami-Dade-Bar-1.pdf", "date": "2026-07"}
+      ]
+    },
+    {
+      "name": "Fleur Jeannine Lobree",
+      "court": "Third District Court of Appeal",
+      "ballot_question": "Shall Judge Fleur Jeannine Lobree of the Third District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Ron DeSantis",
+      "appointed_year": 2019,
+      "background": "Fleur Jeannine Lobree earned her bachelor's degree from Florida State University and her law degree from the University of Miami. Her earlier career included work as an assistant state attorney in Miami-Dade, an assistant attorney general, a law clerk to Third DCA Judge Rodolfo Sorondo Jr., and an associate at the law firm Hicks, Anderson & Kneale. She served as a Miami-Dade County Court judge from 2011 to 2013 and, after appointment by Gov. Rick Scott, as an Eleventh Judicial Circuit judge from 2013 to 2015, then returned to the State Attorney's Office. Gov. Ron DeSantis appointed her to the Third District Court of Appeal on April 25, 2019, to fill the vacancy created when Robert Luck was elevated to the Florida Supreme Court. Voters retained her on Nov. 3, 2020, with about 72.8% voting yes.",
+      "rulings": [
+        {
+          "case": "Miami-Dade County v. Miami Gardens Square One, Inc. (No. 3D20-1512)",
+          "date": "2020-11",
+          "topic": "COVID-19 county curfew orders",
+          "what_it_decided": "The court reversed a trial judge's temporary injunction that had blocked Miami-Dade County from enforcing curfew provisions in its COVID-19 emergency orders against a business. The panel found the business had not shown it was likely to win its claim that state orders preempted the county curfew, and vacated the injunction.",
+          "vote": "Unanimous panel",
+          "role": "Author of majority opinion",
+          "note": null,
+          "sources": [
+            {"title": "Miami-Dade County v. Miami Gardens Square One, Inc. (CourtListener)", "url": "https://www.courtlistener.com/opinion/4804276/miami-dade-county-v-miami-gardens-square-one-inc/", "date": "2020-11-04"}
+          ]
+        },
+        {
+          "case": "Ramle International Corp. v. Miami-Dade County (No. 3D20-0114)",
+          "date": "2023-10",
+          "topic": "Civil suit against Miami-Dade County",
+          "what_it_decided": "The court affirmed a trial court's involuntary dismissal of a company's lawsuit against Miami-Dade County.",
+          "vote": "Unanimous panel",
+          "role": "Author of majority opinion",
+          "note": "The search snippet did not describe the subject of the underlying suit.",
+          "sources": [
+            {"title": "Ramle International Corp. v. Miami-Dade County, Florida (CourtListener)", "url": "https://www.courtlistener.com/opinion/9433531/ramle-international-corp-v-miami-dade-county-florida/", "date": "2023-10-18"}
+          ]
+        },
+        {
+          "case": "D.J. v. State (No. 3D23-1210)",
+          "date": "2023-11",
+          "topic": "Involuntary commitment",
+          "what_it_decided": "After the State conceded error, the panel reversed a Miami-Dade order involuntarily committing a person in a short unsigned opinion.",
+          "vote": "Unanimous panel",
+          "role": "Joined majority",
+          "note": "Per curiam opinion; no individual author.",
+          "sources": [
+            {"title": "D.J. v. The State of Florida (Justia)", "url": "https://law.justia.com/cases/florida/third-district-court-of-appeal/2023/3d23-1210.html", "date": "2023-11-15"}
+          ]
+        },
+        {
+          "case": "Fox One, LLC v. City of Miami (Nos. 3D24-0211 & 3D24-0936)",
+          "date": "2025-12",
+          "topic": "Building-permit fees / class action against the City of Miami",
+          "what_it_decided": "The court reversed the dismissal of a proposed class action claiming the City of Miami collected building-permit fee surpluses beyond what the law allows, holding that the question could not be decided on a motion to dismiss and the case should proceed.",
+          "vote": "Unanimous panel",
+          "role": "Joined majority",
+          "note": "Opinion written by Judge Bronwyn Miller.",
+          "sources": [
+            {"title": "Fox One, LLC v. City of Miami (CourtListener)", "url": "https://www.courtlistener.com/opinion/10751072/fox-one-llc-v-city-of-miami/", "date": "2025-12-03"}
+          ]
+        }
+      ],
+      "record_summary": "In the Florida Bar's 2020 statewide merit-retention poll, 79% of responding lawyers recommended retaining Judge Lobree, and voters retained her that year with about 72.8% (Ballotpedia). In the Miami-Dade County Bar Association's 2026 judicial poll (631 respondents, closed July 3, 2026), 342 lawyers said she should be retained, 76 said no and 151 had no opinion, about 81.8% 'yes' among those expressing a view. Published case listings show she frequently sits on panels issuing short unsigned affirmances. No organized retention campaign for or against her was found.",
+      "photo_url": null,
+      "sources": [
+        {"title": "Fleur J. Lobree (Ballotpedia)", "url": "https://ballotpedia.org/Fleur_J._Lobree", "date": null},
+        {"title": "Judge Fleur Lobree biography (National Association of Women Judges)", "url": "https://www.nawj.org/uploads/files/events/webinars/judgefleurlobreebio.pdf", "date": null},
+        {"title": "Governor Ron DeSantis Appoints Monica Gordo and Fleur Lobree to the Third District Court of Appeal (Capital Soup / Governor's office release)", "url": "https://capitalsoup.com/2019/04/25/governor-ron-desantis-appoints-monica-gordo-and-fleur-lobree-to-the-third-district-court-of-appeal", "date": "2019-04-25"},
+        {"title": "DeSantis appoints two judges to South Florida appellate court (Florida Phoenix)", "url": "https://floridaphoenix.com/2019/04/26/desantis-appoints-two-judges-to-south-florida-appellate-court/", "date": "2019-04-26"},
+        {"title": "Fla. Gov. Appoints 2 To Appeals Court In Miami (Law360)", "url": "https://law360.com/articles/1153738", "date": "2019-04"},
+        {"title": "Florida Bar poll shows support for appellate judges in merit retention elections (Florida Bar, 2020)", "url": "https://www.floridabar.org/news-release/merit-retention/florida-bar-poll-shows-support-for-appellate-judges-in-merit-retention-elections-2/", "date": "2020"},
+        {"title": "2026 Judicial Poll (Miami-Dade County Bar Association)", "url": "https://www.miamidadebar.org/wp-content/uploads/2026/07/2026-Judicial-Poll-Miami-Dade-Bar-1.pdf", "date": "2026-07"}
+      ]
+    },
+    {
+      "name": "Thomas Logue",
+      "court": "Third District Court of Appeal",
+      "ballot_question": "Shall Judge Thomas Logue of the Third District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Rick Scott",
+      "appointed_year": 2012,
+      "background": "Thomas W. Logue earned his undergraduate degree from Dickinson College and his law degree from Duke University, where he served on the editorial board of the Duke Law Journal. Before joining the bench he spent about 30 years as an assistant county attorney for Miami-Dade County, litigating cases and arguing appeals in state and federal courts and advising the county commission and property appraiser. Gov. Rick Scott appointed him to the Third District Court of Appeal in 2012 (Ballotpedia lists his start date as June 7, 2012; the Florida Bar's appellate section newsletter reports the appointment as July 6, 2012). He has served as the court's chief judge; 2025 opinions list him as 'Logue, C.J.' He was retained by voters on Nov. 3, 2020, and has taught at the Florida Judicial College.",
+      "rulings": [
+        {
+          "case": "City of Aventura v. Jimenez",
+          "date": "2016-07",
+          "topic": "Red-light camera citations",
+          "what_it_decided": "The court reversed the dismissal of a red-light camera ticket issued by a private vendor on Aventura's behalf. Judge Logue wrote that the vendor's role in sorting camera images was essentially clerical and that a police officer must still make a real review before a citation issues. The ruling disagreed with a Fourth District decision striking down Hollywood's program, and the court certified questions to the Florida Supreme Court.",
+          "vote": "Unanimous panel",
+          "role": "Author of majority opinion",
+          "note": null,
+          "sources": [
+            {"title": "Appeals courts reach different decisions on red light cameras (WFSU / News Service of Florida)", "url": "https://news.wfsu.org/state-news/2016-07-28/appeals-courts-reach-different-decisions-on-red-light-cameras", "date": "2016-07-28"},
+            {"title": "State ex rel. City of Aventura v. Jimenez (Cetient case page)", "url": "https://cetient.com/case/4019200/state-ex-rel-city-of-aventura-v-jimenez", "date": "2016"}
+          ]
+        },
+        {
+          "case": "McGillis v. Department of Economic Opportunity (No. 3D15-2758)",
+          "date": "2017-02",
+          "topic": "Gig-economy employment status / unemployment benefits",
+          "what_it_decided": "The court held that a former Uber driver was an independent contractor, not an employee, for purposes of state reemployment-assistance (unemployment) benefits. Judge Logue wrote that the key factor is how much control the company has over the work, and that drivers decide whether, when, where and how to give rides, which does not fit the control an employer has over a traditional employee.",
+          "vote": "Unanimous panel (Logue, Lagoa, Salter)",
+          "role": "Author of majority opinion",
+          "note": "The ruling addressed only unemployment benefits, not employment status for all purposes.",
+          "sources": [
+            {"title": "McGillis v. Department of Economic Opportunity (Justia)", "url": "https://law.justia.com/cases/florida/third-district-court-of-appeal/2017/3d15-2758.html", "date": "2017-02-01"},
+            {"title": "Court: Uber Drivers Are Independent Contractors, Not Employees (CBS Miami)", "url": "https://www.cbsnews.com/miami/news/court-uber-drivers-contractors-employees", "date": "2017-02"}
+          ]
+        },
+        {
+          "case": "Perez-Gurri Corp. v. McLeod (Nos. 3D15-2590 & 3D17-1478)",
+          "date": "2017",
+          "topic": "Civil summary judgment",
+          "what_it_decided": "The court reversed a summary judgment entered by a Miami-Dade trial court, finding that a genuine dispute over a material fact remained and the case should not have been decided without a trial.",
+          "vote": "Unanimous panel",
+          "role": "Author of majority opinion",
+          "note": null,
+          "sources": [
+            {"title": "Perez-Gurri Corp. v. McLeod (CourtListener)", "url": "https://www.courtlistener.com/opinion/4445762/perez-gurri-corp-v-mcleod/", "date": "2017"}
+          ]
+        },
+        {
+          "case": "City of Aventura v. Stein (No. 3D19-0523)",
+          "date": "2020-06",
+          "topic": "Red-light camera citations",
+          "what_it_decided": "The court reversed a county court's dismissal of a right-on-red camera ticket. The driver did not dispute that the camera photos showed probable cause but argued the city's vendor guidelines violated state law; the panel rejected that argument and reinstated the citation.",
+          "vote": "Unanimous panel (Logue, Salter, Gordo)",
+          "role": "Author of majority opinion",
+          "note": null,
+          "sources": [
+            {"title": "City of Aventura v. Stein (Justia)", "url": "https://law.justia.com/cases/florida/third-district-court-of-appeal/2020/3d19-0523.html", "date": "2020-06-24"},
+            {"title": "Weiss Serota client alert on Aventura v. Stein", "url": "https://www.wsh-law.com/?p=7566", "date": "2020"}
+          ]
+        },
+        {
+          "case": "Pilac Management, Ltd. v. Parque Towers Developers, LLC (No. 3D25-1698)",
+          "date": "2026-10",
+          "topic": "Condominium purchase deposits",
+          "what_it_decided": "The court reversed a trial court decision and sent the case back in a dispute over deposits owed to condominium purchasers, relying on the court's earlier ruling in the same litigation that the developer's construction delay did not breach the purchase agreements.",
+          "vote": "Unanimous panel (Logue, Lindsey, Gooden)",
+          "role": "Author of majority opinion",
+          "note": null,
+          "sources": [
+            {"title": "Pilac Management, Ltd., Etc. v. Parque Towers Developers, LLC, Etc. (CourtListener)", "url": "https://www.courtlistener.com/opinion/11033639/pilac-management-ltd-etc-v-parque-towers-developers-llc-etc/", "date": "2026-10-14"}
+          ]
+        }
+      ],
+      "record_summary": "In the Florida Bar's 2020 statewide merit-retention poll, 85% of responding lawyers recommended retaining Judge Logue, the highest share among Third DCA judges on that ballot; voters retained him on Nov. 3, 2020 (Ballotpedia; the percentage was not captured in search snippets). In the Miami-Dade County Bar Association's 2026 judicial poll (631 respondents, closed July 3, 2026), 343 lawyers said he should be retained, 61 said no and 158 had no opinion, about 84.9% 'yes' among those expressing a view, the highest of the five Third DCA judges on the 2026 ballot. A St. Thomas University law school profile says he has written hundreds of opinions, including on the employment status of Uber drivers and camera-based traffic citations. No organized retention campaign for or against him was found.",
+      "photo_url": null,
+      "sources": [
+        {"title": "Thomas W. Logue (Ballotpedia)", "url": "https://ballotpedia.org/Thomas_W._Logue", "date": null},
+        {"title": "The Record, Summer 2013 (Florida Bar Appellate Practice Section) profile of Judge Logue", "url": "https://therecord.flabarappellate.org/?p=618", "date": "2013"},
+        {"title": "Judge Thomas Logue profile (St. Thomas University College of Law)", "url": "https://www.stu.edu/law/?p=829", "date": null},
+        {"title": "Third DCA Spring Seminar Speaker Bios (Miami-Dade County Bar Association)", "url": "https://www.miamidadebar.org/wp-content/uploads/2024/04/Third-DCA-Spring-Seminar-Speaker-Bios.pdf", "date": "2024-04"},
+        {"title": "Deljimmyo Wright-Johnson v. State (Justia; panel listing 'Logue, C.J.')", "url": "https://law.justia.com/cases/florida/third-district-court-of-appeal/2025/3d23-1452.html", "date": "2025"},
+        {"title": "Florida Bar poll shows support for appellate judges in merit retention elections (Florida Bar, 2020)", "url": "https://www.floridabar.org/news-release/merit-retention/florida-bar-poll-shows-support-for-appellate-judges-in-merit-retention-elections-2/", "date": "2020"},
+        {"title": "2026 Judicial Poll (Miami-Dade County Bar Association)", "url": "https://www.miamidadebar.org/wp-content/uploads/2026/07/2026-Judicial-Poll-Miami-Dade-Bar-1.pdf", "date": "2026-07"}
+      ]
+    },
+    {
+      "name": "Bronwyn Catherine Miller",
+      "court": "Third District Court of Appeal",
+      "ballot_question": "Shall Judge Bronwyn Catherine Miller of the Third District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Rick Scott",
+      "appointed_year": 2018,
+      "background": "Bronwyn C. Miller earned her bachelor's degree from Barnard College and her law degree from the University of Miami. She began her career as a prosecutor in the Miami-Dade State Attorney's Office and has taught as an adjunct professor at Florida International University. Gov. Jeb Bush appointed her to the Miami-Dade County Court in 2005, and Gov. Charlie Crist elevated her to the Eleventh Judicial Circuit in 2010. Gov. Rick Scott appointed her to the Third District Court of Appeal in late 2018; she was sworn in in early 2019 (Ballotpedia lists 2019 as her start). Voters retained her on Nov. 3, 2020, with about 75% voting yes.",
+      "rulings": [
+        {
+          "case": "Gutierrez v. Gutierrez (No. 3D24-0895)",
+          "date": "2025-09",
+          "topic": "Family law / attorney's fees",
+          "what_it_decided": "Judge Miller wrote the panel's opinion in a former husband's appeal of an order denying his request for attorney's fees and costs in a family-law case. The search snippet did not show how the appeal was decided.",
+          "vote": "Panel of Miller, Lobree and Gooden",
+          "role": "Author of majority opinion",
+          "note": "Disposition could not be verified from available snippets; see the opinion text at the source link.",
+          "sources": [
+            {"title": "Remy E. Gutierrez v. Hilda Gutierrez (Justia)", "url": "https://law.justia.com/cases/florida/third-district-court-of-appeal/2025/3d24-0895.html", "date": "2025-09-03"}
+          ]
+        },
+        {
+          "case": "Universal Property & Casualty Insurance Co. v. Williams (No. 3D24-0252)",
+          "date": "2025-09",
+          "topic": "Homeowner's insurance appeal",
+          "what_it_decided": "The panel affirmed a Miami-Dade trial court ruling for the homeowner in a property-insurance dispute in a short unsigned (per curiam) opinion that cited an earlier Third DCA decision, Citizens Property Insurance Corp. v. Laguerre (2018).",
+          "vote": "Unanimous panel (Scales, Miller, Gooden)",
+          "role": "Joined majority",
+          "note": "Per curiam affirmance; no individual author.",
+          "sources": [
+            {"title": "Universal Property & Casualty Insurance Co. v. Johnny Williams (Hall Approved case listing)", "url": "https://hallapproved.com/fl/cases/appeals/2025/10669133/", "date": "2025-09-10"}
+          ]
+        },
+        {
+          "case": "Fox One, LLC v. City of Miami (Nos. 3D24-0211 & 3D24-0936)",
+          "date": "2025-12",
+          "topic": "Building-permit fees / class action against the City of Miami",
+          "what_it_decided": "The court reversed the dismissal of a proposed class action claiming the City of Miami collected building-permit fee surpluses beyond what the law allows, holding that the question could not be decided on a motion to dismiss and the case should proceed.",
+          "vote": "Unanimous panel (including Lobree)",
+          "role": "Author of majority opinion",
+          "note": null,
+          "sources": [
+            {"title": "Fox One, LLC v. City of Miami (CourtListener)", "url": "https://www.courtlistener.com/opinion/10751072/fox-one-llc-v-city-of-miami/", "date": "2025-12-03"}
+          ]
+        },
+        {
+          "case": "Scott v. State (No. 3D24-2211)",
+          "date": "2026-10",
+          "topic": "Criminal appeal / probation revocation and sentencing",
+          "what_it_decided": "The court affirmed the revocation of a defendant's probation and his sentence of life in prison as a prison releasee reoffender. Judge Miller concurred.",
+          "vote": "Affirmed",
+          "role": "Concurring opinion",
+          "note": "The snippet identifies Miller as concurring but does not describe her separate reasoning.",
+          "sources": [
+            {"title": "Renardo Scott v. State of Florida (CourtListener)", "url": "https://www.courtlistener.com/opinion/11033494/renardo-scott-v-state-of-florida/", "date": "2026-10-14"}
+          ]
+        }
+      ],
+      "record_summary": "In the Florida Bar's 2020 statewide merit-retention poll, 83% of responding lawyers recommended retaining Judge Miller, and voters retained her that year with about 75% (Ballotpedia). In October 2025 the Florida Judicial Qualifications Commission (JQC) filed formal charges against her over text messages she exchanged with Miami-Dade State Attorney Katherine Fernandez Rundle; according to the ABA Journal and Florida Bulldog, the JQC alleged the texts sought to influence how the State Attorney's Office handled a post-conviction resentencing case in which Miller was a victim and witness, and the charges cite Canons 1, 2A, 3B(9) and 5A of the Florida Code of Judicial Conduct. Her attorney, Warren Lindsey, filed a motion to dismiss in April 2026 arguing the texts are speech protected by the First Amendment and that she was acting as a crime victim and fact witness; the JQC hearing panel chaired by Judge Morris Silberman said it would rule in writing. No ruling on the motion, and no Florida Supreme Court decision (which would make any final determination on discipline), was found in search results as of late October 2026. A column on SocialMiami.com argued she was unfairly accused. In the Miami-Dade County Bar Association's 2026 judicial poll (631 respondents, closed July 3, 2026), 314 lawyers said she should be retained, 172 said no and 91 had no opinion, about 64.6% 'yes' among those expressing a view, the lowest of the five Third DCA judges on the 2026 ballot. No organized retention campaign for or against her was found.",
+      "photo_url": null,
+      "sources": [
+        {"title": "Bronwyn C. Miller (Ballotpedia)", "url": "https://ballotpedia.org/Bronwyn_C._Miller", "date": null},
+        {"title": "Judge Bronwyn Miller biography (National Association of Women Judges)", "url": "https://www.nawj.org/uploads/files/events/webinars/judgebronwynmillerbio.pdf", "date": null},
+        {"title": "Bronwyn Miller investiture (Daily Business Review)", "url": "https://law.com/dailybusinessreview/2019/02/26/bronwyn-miller-investiture", "date": "2019-02-26"},
+        {"title": "Third DCA Spring Seminar Speaker Bios (Miami-Dade County Bar Association)", "url": "https://www.miamidadebar.org/wp-content/uploads/2024/04/Third-DCA-Spring-Seminar-Speaker-Bios.pdf", "date": "2024-04"},
+        {"title": "Panel: Appellate judge demeaned office in text messages (Legal Newsline / Florida Record)", "url": "https://legalnewsline.com/florida-record/panel-appellate-judge-demeaned-office-in-text-messages/article_73cc282c-aee1-4663-8f0d-a9cbb78855ec.html", "date": "2025-10"},
+        {"title": "Appeals judge told state attorney how to handle resentencing while badmouthing others, texts show (ABA Journal)", "url": "https://abajournal.com/news/article/appeals-judge-told-state-attorney-how-to-handle-resentencing-while-badmouthing-others-texts-show", "date": "2025"},
+        {"title": "Miami appellate judge Bronwyn Miller faces charges over controversial texts with prosecutor (Hoodline)", "url": "https://hoodline.com/2025/10/miami-appellate-judge-bronwyn-miller-faces-charges-over-controversial-texts-with-prosecutor/", "date": "2025-10"},
+        {"title": "Miami judge Miller, fighting ethics charges, says First Amendment protects her (Florida Bulldog)", "url": "https://www.floridabulldog.org/2026/04/miami-judge-miller-fighting-ethics-charges-says-first-amendment-protects-her/", "date": "2026-04"},
+        {"title": "Miami appeals judge fights to kill ethics rap over Rundle texts (Hoodline)", "url": "https://hoodline.com/2026/04/miami-appeals-judge-fights-to-kill-ethics-rap-over-rundle-texts/", "date": "2026-04"},
+        {"title": "Miami judge under fire for text exchanges wants disciplinary charges dismissed (Miami Herald via Yahoo News)", "url": "https://www.yahoo.com/news/articles/miami-judge-under-fire-text-214830136.html", "date": "2026-04"},
+        {"title": "OPINION: Judge Bronwyn Miller Unfairly Accused (SocialMiami)", "url": "https://socialmiami.com/opinion-judge-bronwyn-miller-unfairly-accused/", "date": "2025"},
+        {"title": "Florida Bar poll shows support for appellate judges in merit retention elections (Florida Bar, 2020)", "url": "https://www.floridabar.org/news-release/merit-retention/florida-bar-poll-shows-support-for-appellate-judges-in-merit-retention-elections-2/", "date": "2020"},
+        {"title": "2026 Judicial Poll (Miami-Dade County Bar Association)", "url": "https://www.miamidadebar.org/wp-content/uploads/2026/07/2026-Judicial-Poll-Miami-Dade-Bar-1.pdf", "date": "2026-07"}
+      ]
+    }
+  ]
+}
