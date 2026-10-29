@@ -820,7 +820,7 @@
       ${addressPanel(!!prof)}
       ${j.ballot_context ? `<p class="notice">${esc(j.ballot_context)}</p>` : ''}
       <h2 class="section">${T('Florida Supreme Court (every Florida ballot)', 'Corte Suprema de Florida (en todas las boletas de Florida)')}</h2><div class="stack">${supreme.map(judgeCard).join('')}</div>
-      ${dca ? dcaBlock(dca) : `<h2 class="section">${T('District Courts of Appeal', 'Tribunales de Apelación de Distrito')}</h2><p class="muted">${T('Which appellate judges appear on your ballot depends on your county. Enter your address above to see yours, or expand a district below.', 'Los jueces de apelación que aparecen en su boleta dependen de su condado. Ingrese su dirección arriba para ver los suyos, o abra un distrito abajo.')}</p>${[1,2,3,4,5,6].map(d => `<details style="margin-top:8px"><summary>${esc((FL.dca_names && FL.dca_names[d]) || ordinal[d] + ' DCA')}</summary>${dcaBlock(d)}</details>`).join('')}`}
+      ${dca ? dcaBlock(dca) : `<h2 class="section">${T('District Courts of Appeal', 'Tribunales de Apelación de Distrito')}</h2><p class="muted">${T('Which appellate judges appear on your ballot depends on your county. Enter your address above to see yours, or expand a district below.', 'Los jueces de apelación que aparecen en su boleta dependen de su condado. Ingrese su dirección arriba para ver los suyos, o abra un distrito abajo.')}</p>${[1,2,3,4,5,6].map(d => `<details open style="margin-top:8px"><summary>${esc((FL.dca_names && FL.dca_names[d]) || ordinal[d] + ' DCA')}</summary>${dcaBlock(d)}</details>`).join('')}`}
       ${j.not_on_2026_ballot_note ? `<p class="muted section"><small>${esc(j.not_on_2026_ballot_note)}</small>${sourcesHtml(j.not_on_2026_sources)}</p>` : ''}`;
   }
 
