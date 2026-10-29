@@ -161,6 +161,7 @@
     const bits = [];
     if (prof.county) bits.push(T(`${prof.county} County`, `Condado de ${prof.county}`));
     if (prof.cd) bits.push(`${T('Congressional District', 'Distrito Congresional')} ${prof.cd}${prof.cd_unconfirmed ? T(' (confirm)', ' (confirmar)') : ''}`);
+    if (prof.approx) bits.push(T('estimated from ZIP ' + prof.zip, 'estimado del código postal ' + prof.zip));
     if (prof.sd) bits.push(`${T('Senate District', 'Distrito del Senado')} ${prof.sd}`);
     if (prof.hd) bits.push(`${T('House District', 'Distrito de la Cámara')} ${prof.hd}`);
     return bits.join(' · ');
@@ -174,13 +175,14 @@
   }
   function addressPanel(compact) {
     const prof = loadProfile();
-    const cdWarn = prof && prof.cd_unconfirmed ? `<p class="notice notice-warn" style="margin-top:10px"><strong>${T('Check your congressional district.', 'Verifique su distrito congresional.')}</strong> ${T("Florida adopted a new congressional map in May 2026 that changed 21 of 28 districts, and the Census Bureau's lookup still uses the old lines. Your county and state legislative districts are reliable; for the U.S. House race,", 'Florida adoptó un nuevo mapa congresional en mayo de 2026 que cambió 21 de los 28 distritos, y la búsqueda de la Oficina del Censo todavía usa las líneas antiguas. Su condado y sus distritos legislativos estatales son confiables; para la contienda de la Cámara de Representantes de EE. UU.,')} <a href="https://registration.elections.myflorida.com/CheckVoterStatus" target="_blank" rel="noopener">${T('look up your district on the state voter site', 'busque su distrito en el sitio estatal del votante')}</a> ${T('and', 'e')} <a href="#/where">${T('enter it manually', 'ingréselo manualmente')}</a> ${T('if it differs from', 'si es distinto de')} ${esc(String(prof.cd))}.</p>` : '';
+    const zipWarn = prof && prof.approx ? `<p class="notice notice-warn" style="margin-top:10px"><strong>${T('Estimated from a ZIP code.', 'Estimado a partir de un código postal.')}</strong> ${T(`ZIP codes often cross district lines, so these districts are the best estimate for the center of ZIP ${esc(prof.zip)}. For an exact match, enter your street address or check the`, `Los códigos postales suelen cruzar límites de distrito, así que estos distritos son la mejor estimación para el centro del código postal ${esc(prof.zip)}. Para un resultado exacto, ingrese su dirección o consulte el`)} <a href="https://registration.elections.myflorida.com/CheckVoterStatus" target="_blank" rel="noopener">${T('state voter site', 'sitio estatal del votante')}</a>.</p>` : '';
+    const cdWarn = (prof && prof.cd_unconfirmed ? `<p class="notice notice-warn" style="margin-top:10px"><strong>${T('Check your congressional district.', 'Verifique su distrito congresional.')}</strong> ${T("Florida adopted a new congressional map in May 2026 that changed 21 of 28 districts, and the Census Bureau's lookup still uses the old lines. Your county and state legislative districts are reliable; for the U.S. House race,", 'Florida adoptó un nuevo mapa congresional en mayo de 2026 que cambió 21 de los 28 distritos, y la búsqueda de la Oficina del Censo todavía usa las líneas antiguas. Su condado y sus distritos legislativos estatales son confiables; para la contienda de la Cámara de Representantes de EE. UU.,')} <a href="https://registration.elections.myflorida.com/CheckVoterStatus" target="_blank" rel="noopener">${T('look up your district on the state voter site', 'busque su distrito en el sitio estatal del votante')}</a> ${T('and', 'e')} <a href="#/where">${T('enter it manually', 'ingréselo manualmente')}</a> ${T('if it differs from', 'si es distinto de')} ${esc(String(prof.cd))}.</p>` : '') + zipWarn;
     if (prof && compact) { const code = countyCodeFor(prof.county); return `<div class="card addr-bar"><div><span class="eyebrow" style="margin:0">${T('Your ballot', 'Su boleta')}</span> <strong>${esc(profileSummary(prof))}</strong> <small class="muted">${prof.label && !/preset/.test(prof.label) ? '· ' + esc(prof.label) : ''}</small></div><div class="btn-row" style="margin:0">${code ? `<a class="btn btn-sm" href="#/county/${esc(code)}">${T(`Official line-up for ${esc(prof.county)} County`, `Lista oficial del condado de ${esc(prof.county)}`)}</a>` : ''}<a class="btn btn-sm" href="#/where">${T('Change', 'Cambiar')}</a></div></div>${cdWarn}`; }
     return `<div class="card addr-panel">
       <div class="eyebrow">${T('Where do you vote?', '¿Dónde vota usted?')}</div>
       ${prof ? `<p>${T('Currently set to', 'Actualmente:')} <strong>${esc(profileSummary(prof))}</strong>${prof.label && !/preset/.test(prof.label) ? ` <small class="muted">(${esc(prof.label)})</small>` : ''}.</p>` : `<p class="muted">${T("Enter your Florida street address to see exactly the races and questions on your ballot. The address is sent once to the U.S. Census Bureau's public geocoder and is not stored; your county and district numbers are kept only while this page is open.", 'Ingrese su dirección en Florida para ver exactamente las contiendas y preguntas de su boleta. La dirección se envía una sola vez al geocodificador público de la Oficina del Censo de EE. UU. y no se guarda; su condado y sus números de distrito se conservan solo mientras esta página esté abierta.')}</p>`}
       <form class="addr-form" data-addr-form>
-        <input class="search" type="text" name="address" placeholder="${T('Street address, city, FL  (e.g. 400 S Monroe St, Tallahassee, FL)', 'Dirección, ciudad, FL  (ej. 400 S Monroe St, Tallahassee, FL)')}" autocomplete="street-address" required />
+        <input class="search" type="text" name="address" placeholder="${T('Street address (400 S Monroe St, Tallahassee, FL) or a 5-digit ZIP code', 'Dirección (400 S Monroe St, Tallahassee, FL) o un código postal de 5 dígitos')}" autocomplete="street-address" required />
         <button type="submit" class="btn btn-primary">${T('Find my ballot', 'Buscar mi boleta')}</button>
       </form>
       <div class="addr-status muted" data-addr-status></div>
@@ -211,15 +213,47 @@
       document.head.appendChild(script);
     });
   }
+  function censusAt(lon, lat) {
+    return new Promise((resolve, reject) => {
+      const cb = 'ccGeoPt' + Date.now();
+      const script = document.createElement('script');
+      const timer = setTimeout(() => { cleanup(); reject(new Error(T('The Census geocoder did not respond. Try again or use the manual option.', 'El geocodificador del Censo no respondió. Intente de nuevo o use la opción manual.'))); }, 15000);
+      function cleanup() { clearTimeout(timer); delete window[cb]; script.remove(); }
+      window[cb] = data => { cleanup(); resolve(data); };
+      script.onerror = () => { cleanup(); reject(new Error(T('Could not reach the Census geocoder.', 'No se pudo conectar con el geocodificador del Censo.'))); };
+      script.src = 'https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=' + encodeURIComponent(lon) + '&y=' + encodeURIComponent(lat) + '&benchmark=Public_AR_Current&vintage=Current_Current&layers=all&format=jsonp&callback=' + cb;
+      document.head.appendChild(script);
+    });
+  }
+  // ZIP code -> approximate profile. The ZIP's center point comes from a public, keyless ZIP service; the Census geocoder
+  // then returns the county and districts at that point. ZIP codes can straddle district lines, so the result is marked approximate.
+  async function zipLookup(zip) {
+    let place;
+    try {
+      const resp = await fetch('https://api.zippopotam.us/us/' + encodeURIComponent(zip));
+      if (!resp.ok) throw new Error('nf');
+      const j = await resp.json(); place = j.places && j.places[0];
+    } catch (e) { throw new Error(T('That ZIP code was not found. Check the digits, or enter a street address.', 'No se encontró ese código postal. Revise los dígitos o ingrese una dirección.')); }
+    if (!place) throw new Error(T('That ZIP code was not found.', 'No se encontró ese código postal.'));
+    if (place['state abbreviation'] && place['state abbreviation'] !== 'FL') throw new Error(T(`ZIP ${zip} is in ${place.state}, not Florida.`, `El código postal ${zip} está en ${place.state}, no en Florida.`));
+    const data = await censusAt(place.longitude, place.latitude);
+    const g = data && data.result && data.result.geographies;
+    if (!g) throw new Error(T('Could not determine districts for that ZIP code. Try a street address or the manual option.', 'No se pudieron determinar los distritos de ese código postal. Pruebe con una dirección o la opción manual.'));
+    const prof = profileFromGeographies(g, T(`ZIP ${zip} (${place['place name']})`, `código postal ${zip} (${place['place name']})`));
+    if (prof && !prof.error) { prof.approx = true; prof.zip = zip; }
+    return prof;
+  }
   function profileFromGeo(data, address) {
     const m = data && data.result && data.result.addressMatches && data.result.addressMatches[0];
     if (!m) return null;
-    const g = m.geographies || {};
+    return profileFromGeographies(m.geographies || {}, m.matchedAddress || address);
+  }
+  function profileFromGeographies(g, label) {
     const pick = re => { const k = Object.keys(g).find(k => re.test(k)); return k && g[k] && g[k][0]; };
     const county = pick(/^Counties$/i), cd = pick(/Congressional Districts/i), sd = pick(/Legislative Districts - Upper/i), hd = pick(/Legislative Districts - Lower/i), st = pick(/^States$/i);
     if (st && st.BASENAME && st.BASENAME !== 'Florida') return { error: T(`That address geocodes to ${st.BASENAME}, not Florida.`, `Esa dirección corresponde a ${st.BASENAME}, no a Florida.`) };
     const num = o => { if (!o) return null; const v = parseInt(String(o.BASENAME || o.NAME || '').replace(/\D/g, ''), 10); return isNaN(v) ? null : v; };
-    return { county: county ? String(county.BASENAME || county.NAME || '').replace(/ County$/, '') : null, cd: num(cd), cd_unconfirmed: true, sd: num(sd), hd: num(hd), label: m.matchedAddress || address };
+    return { county: county ? String(county.BASENAME || county.NAME || '').replace(/ County$/, '') : null, cd: num(cd), cd_unconfirmed: true, sd: num(sd), hd: num(hd), label };
   }
   function bindAddress(root) {
     const form = root.querySelector('[data-addr-form]'); const status = root.querySelector('[data-addr-status]');
@@ -228,8 +262,9 @@
       const addr = form.address.value.trim(); if (!addr) return;
       status.textContent = T('Looking up your districts…', 'Buscando sus distritos…');
       try {
-        const data = await geocode(/florida|,\s*fl\b/i.test(addr) ? addr : addr + ', FL');
-        const prof = profileFromGeo(data, addr);
+        let prof;
+        if (/^\d{5}(-\d{4})?$/.test(addr)) { prof = await zipLookup(addr.slice(0, 5)); }
+        else { const data = await geocode(/florida|,\s*fl\b/i.test(addr) ? addr : addr + ', FL'); prof = profileFromGeo(data, addr); }
         if (!prof) { status.textContent = T('No match for that address. Check the spelling, add the city, or use the manual option below.', 'No se encontró esa dirección. Revise la ortografía, añada la ciudad o use la opción manual de abajo.'); return; }
         if (prof.error) { status.textContent = prof.error; return; }
         saveProfile(prof); status.textContent = ''; render();
@@ -891,10 +926,35 @@
       <select data-county-picker aria-label="${T('Choose your Florida county', 'Elija su condado de Florida')}">
         <option value="">${T('Select a county…', 'Seleccione un condado…')}</option>
         ${countyList().map(c => `<option value="${esc(c.code)}"${c.code === selected ? ' selected' : ''}>${esc(c.name)}</option>`).join('')}
-      </select></label>`;
+      </select></label>
+      <form class="zip-form" data-zip-form novalidate><span class="muted">${T('or enter your ZIP code', 'o ingrese su código postal')}</span>
+        <input type="text" inputmode="numeric" pattern="[0-9]{5}" maxlength="10" name="zip" placeholder="${T('ZIP code', 'Código postal')}" aria-label="${T('Your 5-digit ZIP code', 'Su código postal de 5 dígitos')}" />
+        <button type="submit" class="btn btn-sm">${T('Find my county &amp; districts', 'Buscar mi condado y distritos')}</button>
+        <span class="zip-status muted" data-zip-status aria-live="polite"></span>
+      </form>`;
+  }
+  let zipHint = null; // in-memory only, like the county choice
+  function likelyTag(kind, district) {
+    if (!zipHint || zipHint[kind] == null || Number(zipHint[kind]) !== Number(district)) return '';
+    return ` <span class="tag tag-likely" title="${T(`The center of ZIP ${esc(zipHint.zip)} falls in this district. ZIP codes can cross district lines, so confirm with the state voter lookup.`, `El centro del código postal ${esc(zipHint.zip)} cae en este distrito. Los códigos postales pueden cruzar límites, así que confirme en el sitio estatal del votante.`)}">${T('Likely yours', 'Probablemente el suyo')} (ZIP ${esc(zipHint.zip)})</span>`;
   }
   function bindCountyPicker(root) {
-    root.querySelectorAll('[data-county-picker]').forEach(sel => sel.addEventListener('change', () => { if (sel.value) { saveCounty(sel.value); location.hash = '#/county/' + sel.value; } }));
+    root.querySelectorAll('[data-county-picker]').forEach(sel => sel.addEventListener('change', () => { if (sel.value) { zipHint = null; saveCounty(sel.value); location.hash = '#/county/' + sel.value; } }));
+    root.querySelectorAll('[data-zip-form]').forEach(form => form.addEventListener('submit', async ev => {
+      ev.preventDefault();
+      const status = form.querySelector('[data-zip-status]');
+      const zip = (form.zip.value || '').trim().slice(0, 5);
+      if (!/^\d{5}$/.test(zip)) { status.textContent = T('Enter a 5-digit ZIP code.', 'Ingrese un código postal de 5 dígitos.'); return; }
+      status.textContent = T('Looking up…', 'Buscando…');
+      try {
+        const prof = await zipLookup(zip);
+        if (!prof || prof.error) { status.textContent = (prof && prof.error) || T('Could not determine the county for that ZIP code.', 'No se pudo determinar el condado de ese código postal.'); return; }
+        const county = countyList().find(c => c.name.toLowerCase() === String(prof.county || '').toLowerCase());
+        if (!county) { status.textContent = T(`Could not match "${prof.county}" to a Florida county. Please pick it from the list.`, `No se pudo asociar "${prof.county}" con un condado de Florida. Elíjalo de la lista.`); return; }
+        zipHint = { zip, cd: prof.cd, sd: prof.sd, hd: prof.hd, code: county.code, place: prof.label }; status.textContent = '';
+        if (location.hash === '#/county/' + county.code) route(); else location.hash = '#/county/' + county.code;
+      } catch (e) { status.textContent = e.message; }
+    }));
   }
   function swParty(c) { return `<span class="tag tag-party ${partyClass(c.party_label)}">${esc(c.party_label || c.party)}</span>`; }
   function swCandList(list, opts) {
@@ -926,14 +986,14 @@
     const cdBlocks = c.congressional.map(d => {
       const list = R.us_house[String(d.district)] || [];
       const ours = ourRace('us_house_' + d.district);
-      return `<div class="card"><h3>${T('U.S. House, District', 'Cámara de EE. UU., Distrito')} ${d.district}${c.congressional.length > 1 ? ` <span class="muted">${T(`(about ${esc(d.pct_land)}% of the county's land area)`, `(cerca del ${esc(d.pct_land)}% del área del condado)`)}</span>` : ''}</h3>${swCandList(list)}${ours ? `<p><a class="btn btn-sm" href="#/race/${esc(ours.id)}">${ours.coverage === 'full' || ours.coverage === 'partial' ? T('Researched positions and comparison →', 'Posiciones investigadas y comparación →') : T('Race page →', 'Página de la contienda →')}</a></p>` : ''}</div>`;
+      return `<div class="card"><h3>${T('U.S. House, District', 'Cámara de EE. UU., Distrito')} ${d.district}${likelyTag('cd', d.district)}${c.congressional.length > 1 ? ` <span class="muted">${T(`(about ${esc(d.pct_land)}% of the county's land area)`, `(cerca del ${esc(d.pct_land)}% del área del condado)`)}</span>` : ''}</h3>${swCandList(list)}${ours ? `<p><a class="btn btn-sm" href="#/race/${esc(ours.id)}">${ours.coverage === 'full' || ours.coverage === 'partial' ? T('Researched positions and comparison →', 'Posiciones investigadas y comparación →') : T('Race page →', 'Página de la contienda →')}</a></p>` : ''}</div>`;
     }).join('');
     const senBlocks = c.senate.map(d => d.on_ballot
-      ? `<div class="card"><h3>${T('Florida Senate, District', 'Senado de Florida, Distrito')} ${d.district}${d.whole_county ? '' : ` <span class="muted">${T('(part of the county)', '(parte del condado)')}</span>`}</h3><p class="muted"><small>${T('Covers:', 'Cubre:')} ${esc(SW.senate_district_counties[String(d.district)] || '')}</small></p>${swCandList(R.state_senate[String(d.district)] || [])}${ourRace('state_senate_' + d.district) ? `<p><a class="btn btn-sm" href="#/race/state_senate_${d.district}">${T('Race page →', 'Página de la contienda →')}</a></p>` : ''}</div>`
-      : `<div class="card"><h3>${T('Florida Senate, District', 'Senado de Florida, Distrito')} ${d.district}${d.whole_county ? '' : ` <span class="muted">${T('(part of the county)', '(parte del condado)')}</span>`}</h3><p class="muted">${T('Not on the 2026 ballot: odd-numbered Senate districts are next up in 2028.', 'No está en la boleta de 2026: los distritos impares del Senado se eligen en 2028.')}</p></div>`).join('');
+      ? `<div class="card"><h3>${T('Florida Senate, District', 'Senado de Florida, Distrito')} ${d.district}${likelyTag('sd', d.district)}${d.whole_county ? '' : ` <span class="muted">${T('(part of the county)', '(parte del condado)')}</span>`}</h3><p class="muted"><small>${T('Covers:', 'Cubre:')} ${esc(SW.senate_district_counties[String(d.district)] || '')}</small></p>${swCandList(R.state_senate[String(d.district)] || [])}${ourRace('state_senate_' + d.district) ? `<p><a class="btn btn-sm" href="#/race/state_senate_${d.district}">${T('Race page →', 'Página de la contienda →')}</a></p>` : ''}</div>`
+      : `<div class="card"><h3>${T('Florida Senate, District', 'Senado de Florida, Distrito')} ${d.district}${likelyTag('sd', d.district)}${d.whole_county ? '' : ` <span class="muted">${T('(part of the county)', '(parte del condado)')}</span>`}</h3><p class="muted">${T('Not on the 2026 ballot: odd-numbered Senate districts are next up in 2028.', 'No está en la boleta de 2026: los distritos impares del Senado se eligen en 2028.')}</p></div>`).join('');
     const houseBlocks = c.house.map(d => {
       const ours = ourRace('state_house_' + d.district);
-      return `<div class="card"><h3>${T('Florida House, District', 'Cámara de Florida, Distrito')} ${d.district}${d.whole_county ? '' : ` <span class="muted">${T('(part of the county)', '(parte del condado)')}</span>`}</h3><p class="muted"><small>${T('Covers:', 'Cubre:')} ${esc(SW.house_district_counties[String(d.district)] || '')}</small></p>${swCandList(R.state_house[String(d.district)] || [])}${ours ? `<p><a class="btn btn-sm" href="#/race/${esc(ours.id)}">${ours.coverage === 'full' || ours.coverage === 'partial' ? T('Researched positions and comparison →', 'Posiciones investigadas y comparación →') : T('Race page →', 'Página de la contienda →')}</a></p>` : ''}</div>`;
+      return `<div class="card"><h3>${T('Florida House, District', 'Cámara de Florida, Distrito')} ${d.district}${likelyTag('hd', d.district)}${d.whole_county ? '' : ` <span class="muted">${T('(part of the county)', '(parte del condado)')}</span>`}</h3><p class="muted"><small>${T('Covers:', 'Cubre:')} ${esc(SW.house_district_counties[String(d.district)] || '')}</small></p>${swCandList(R.state_house[String(d.district)] || [])}${ours ? `<p><a class="btn btn-sm" href="#/race/${esc(ours.id)}">${ours.coverage === 'full' || ours.coverage === 'partial' ? T('Researched positions and comparison →', 'Posiciones investigadas y comparación →') : T('Race page →', 'Página de la contienda →')}</a></p>` : ''}</div>`;
     }).join('');
     const dcaList = R.dca_judges[String(c.dca)] || [];
     const circuitList = (R.circuit_judges[String(c.circuit)] || []).filter(x => x.status === 'QUA');
@@ -945,6 +1005,7 @@
     const soe = c.supervisor;
     return `<div class="county-head">${countyPicker(c.code)}</div>
       <h1>${T(`${esc(c.name)} County ballot — November 3, 2026`, `Boleta del condado de ${esc(c.name)}: 3 de noviembre de 2026`)}</h1>${LANG === 'es' ? ES_NOTE : ''}
+      ${zipHint && zipHint.code === c.code ? `<p class="notice notice-warn"><strong>${T(`Found from ${esc(zipHint.place || 'ZIP ' + zipHint.zip)}.`, `Encontrado a partir de ${esc(zipHint.place || 'código postal ' + zipHint.zip)}.`)}</strong> ${T('Where this county is split between districts, the ones marked "Likely yours" contain the center of your ZIP code. ZIP codes can straddle district lines, so if it matters, confirm with the state\'s', 'Donde este condado está dividido entre distritos, los marcados "Probablemente el suyo" contienen el centro de su código postal. Los códigos postales pueden cruzar límites, así que, si importa, confirme en la')} <a href="https://registration.elections.myflorida.com/CheckVoterStatus" target="_blank" rel="noopener">${T('voter lookup ↗', 'búsqueda de votantes del estado ↗')}</a>.</p>` : ''}
       <p class="lead muted">${T(`Official candidate line-up from the Florida Division of Elections (downloaded ${esc(SW.generated_at)}), plus the districts that cover ${esc(c.name)} County. Where a district covers only part of the county, your address decides which one you vote in: use the state's`, `Lista oficial de candidatos de la División de Elecciones de Florida (descargada el ${esc(SW.generated_at)}), más los distritos que cubren el condado de ${esc(c.name)}. Cuando un distrito cubre solo parte del condado, su dirección decide en cuál vota: use la`)} <a href="https://registration.elections.myflorida.com/CheckVoterStatus" target="_blank" rel="noopener">${T('voter lookup ↗', 'búsqueda de votantes del estado ↗')}</a> ${T('or your county sample ballot.', 'o la boleta de muestra de su condado.')}</p>
       <p class="notice">${T("This page is the official line-up from the state's candidate list. For researched positions and the match tool on the races you actually vote in,", 'Esta página es la lista oficial de la lista estatal de candidatos. Para ver posiciones investigadas y la herramienta de coincidencia en las contiendas en las que usted vota,')} <a href="#/where">${T('enter where you vote', 'ingrese dónde vota')}</a>${T('; races this guide has researched are linked below where they apply.', '; las contiendas que esta guía ha investigado están enlazadas abajo donde corresponde.')}</p>
       <section class="section"><h2>${T('Statewide (same everywhere in Florida)', 'Estatales (iguales en toda Florida)')}</h2><div class="grid grid-2">

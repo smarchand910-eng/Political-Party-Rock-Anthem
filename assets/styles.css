@@ -376,3 +376,10 @@ a.tag-link:hover, a.tag-link:focus-visible { outline: 2px solid var(--accent); o
 .stance--2, .stance--1 { color: var(--danger-text); }
 .avatar { color: var(--avatar-text); }
 p a:not(.btn), li a:not(.btn), dd a, small a, .sources a, .notice a, .lead a, .muted a, td a, th a, .breadcrumb a, .section-head a, .profile-links a, .map-tray a, .map-note a, .card p a, .cand-card h3 a { text-decoration: underline; text-underline-offset: 2px; text-decoration-thickness: 1px; }
+
+/* ---------- ZIP lookup ---------- */
+.zip-form { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: 6px; }
+.zip-form input { font: inherit; padding: 9px 12px; border: 1px solid var(--border, #cbd5e1); border-radius: var(--radius-sm, 8px); background: var(--card, #fff); color: inherit; width: 120px; }
+.hero-picker .zip-form input { font-size: 1.05rem; padding: 12px 14px; width: 140px; }
+.zip-status { min-height: 1.2em; }
+.tag-likely { background: color-mix(in srgb, var(--accent) 16%, var(--surface)); color: var(--accent); border-color: transparent; }
