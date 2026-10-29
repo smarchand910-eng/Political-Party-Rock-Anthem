@@ -1,0 +1,460 @@
+{
+  "court": "Fourth District Court of Appeal",
+  "dca": 4,
+  "ballot_note": "Florida Bar News reported that Chief Justice Carlos G. Muñiz and 22 DCA judges qualified for the November 2026 merit-retention ballot, listing Fourth DCA Judges Alan O. Forst, Mark W. Klingensmith, Johnathan D. Lott, Shannon K. Shaw and Caroline Cahill Shepherd. (Shepherd was outside the scope of this file.) Ballotpedia's earlier 2026 list named Forst, Klingensmith and Martha Warner and predates Warner's retirement and the later appointments.",
+  "ballot_sources": [
+    {
+      "title": "Justice Muñiz and 22 DCA judges to stand for merit retention (Florida Bar News)",
+      "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+      "date": "2026"
+    },
+    {
+      "title": "Florida intermediate appellate court elections, 2026 (Ballotpedia)",
+      "url": "https://ballotpedia.org/Florida_intermediate_appellate_court_elections,_2026",
+      "date": "2026"
+    }
+  ],
+  "research_notes": "Compiled Oct. 29, 2026 from web-search snippets only (site fetching unavailable). Opinion authorship was confirmed only for Forst's 2018 Restoration 1 v. Ark Royal opinion; all other rulings are panel decisions the judge joined, mostly unsigned per curiam affirmances. No 2026 Florida Bar merit-retention poll figures were located.",
+  "judges": [
+    {
+      "name": "Alan O. Forst",
+      "court": "Fourth District Court of Appeal",
+      "ballot_question": "Shall Judge Alan O. Forst of the Fourth District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Rick Scott",
+      "appointed_year": 2013,
+      "background": "Alan O. Forst was appointed to the Fourth District Court of Appeal by Gov. Rick Scott on March 7, 2013 and took the oath of office in April 2013. He attended Georgetown University and earned his law degree from the Catholic University of America, according to The Ballot Brief. Before joining the court he spent more than two decades in federal positions in Washington, D.C. (including the Justice and Labor departments, the Merit Systems Protection Board and the EEOC), practiced at the Crary Buchanan firm in Stuart, and from 2001 chaired Florida's Unemployment Appeals Commission (now the Reemployment Assistance Appeals Commission) under Govs. Jeb Bush and Charlie Crist, according to his Federalist Society biography. He was previously retained by voters in 2014 (75.07 percent, per Florida Bar News) and in 2020 (percentage not located; the Florida Bar's 2020 lawyer poll showed 78 percent recommending retention). He lives in Martin County.",
+      "rulings": [
+        {
+          "case": "Restoration 1 of Port St. Lucie v. Ark Royal Insurance Co.",
+          "date": "2018-09",
+          "topic": "Property insurance / assignment of benefits",
+          "what_it_decided": "The court held that a homeowner's insurance policy may require the written consent of all insureds and the mortgagee before a post-loss assignment of benefits to a contractor is valid. The decision disagreed with a 2017 Fifth District ruling on similar policy language; the Legislature later changed the assignment-of-benefits law in 2019.",
+          "vote": "3-0",
+          "role": "Author of majority opinion",
+          "note": "Florida Politics reported the opinion was written by Judge Forst for a unanimous three-judge panel.",
+          "sources": [
+            {
+              "title": "Court upholds insurers' assignment-of-benefits restrictions (Florida Politics)",
+              "url": "https://floridapolitics.com/archives/273967-court-upholds-insurers-assignment",
+              "date": "2018-09"
+            },
+            {
+              "title": "Florida Appeals Court Deals Insurers a Win in AOB Fight with Policy Language Ruling (Insurance Journal)",
+              "url": "https://www.insurancejournal.com/news/southeast/2018/09/20/501785.htm",
+              "date": "2018-09-20"
+            },
+            {
+              "title": "4th DCA allows conditions on assignment of benefits (Radey Law)",
+              "url": "https://radeylaw.com/2018/09/10/4th-dca-allows-conditions-of-assignment-of-benefits",
+              "date": "2018-09-10"
+            }
+          ]
+        },
+        {
+          "case": "Peterson v. (Parkland shooting victims' families) - Scot Peterson civil appeal",
+          "date": "2025-01",
+          "topic": "Parkland school shooting / government-employee liability",
+          "what_it_decided": "A three-judge panel (Judges Damoorgian, Levine and Forst) rejected former Broward school resource officer Scot Peterson's argument that a trial judge should have granted him summary judgment, allowing negligence lawsuits by victims' families to move toward trial. The court issued its ruling without a written explanation.",
+          "vote": "3-0 (no written opinion)",
+          "role": "Joined majority",
+          "note": "The Hill identified the panel members; no opinion author is listed because the decision was issued without reasoning.",
+          "sources": [
+            {
+              "title": "Florida appeals court allows lawsuits against Parkland resource officer to proceed (The Hill)",
+              "url": "https://digital-release.thehill.com/homenews/education/5079699-florida-parkland-school-shooting-marjory-stoneman-douglas/amp",
+              "date": "2025-01"
+            },
+            {
+              "title": "Former Broward County deputy loses appeal, civil suits to move forward in Parkland shooting (WLRN)",
+              "url": "https://www.wlrn.org/light/news-in-brief/2025-01-10/parkland-shooting-lawsuits-upheld",
+              "date": "2025-01-10"
+            }
+          ]
+        },
+        {
+          "case": "Boca Raton cemetery sale attorney-fees dispute",
+          "date": "2018-01",
+          "topic": "Attorney fees / civil litigation",
+          "what_it_decided": "The panel ruled for the developer and law-firm defendants in a dispute over attorney fees arising from the $6.2 million sale of a Boca Raton cemetery. Judge Spencer Levine wrote the opinion; the Daily Business Review reported that Judge Forst joined it but 'seemed especially torn.'",
+          "vote": "3-0",
+          "role": "Joined majority",
+          "note": "Characterization of Forst's view is the Daily Business Review's.",
+          "sources": [
+            {
+              "title": "Judge compelled to rule for South Florida developers in attorney fees dispute (Daily Business Review)",
+              "url": "https://www.law.com/sites/dailybusinessreview/2018/01/25/judge-compelled-to-rule-for-south-florida-developers-in-attorney-fees-dispute/",
+              "date": "2018-01-25"
+            }
+          ]
+        },
+        {
+          "case": "Coney v. State (4D2024-2828) and similar 2025 criminal appeals",
+          "date": "2025-10",
+          "topic": "Criminal appeals (per curiam affirmances)",
+          "what_it_decided": "In this and numerous other 2025 criminal appeals (e.g., Youngblood v. State, Gary v. State, Isreal v. State), panels including Judge Forst affirmed trial-court judgments without a written opinion.",
+          "vote": "3-0 (per curiam, unsigned)",
+          "role": "Joined majority",
+          "note": "Listed to show routine workload; these one-line affirmances contain no reasoning.",
+          "sources": [
+            {
+              "title": "Coney v. State, Fla. 4th DCA, Oct. 30, 2025 (CourtListener data via hallapproved.com)",
+              "url": "https://hallapproved.com/fl/cases/appeals/2025/10752828/",
+              "date": "2025-10-30"
+            },
+            {
+              "title": "Isreal v. State, Fla. 4th DCA, Dec. 18, 2025 (CourtListener data via hallapproved.com)",
+              "url": "https://hallapproved.com/fl/cases/appeals/2025/10760857/",
+              "date": "2025-12-18"
+            }
+          ]
+        }
+      ],
+      "record_summary": "Judge Forst's name appears on the Florida Bar's list of 22 district court of appeal judges who qualified for the November 2026 merit-retention ballot. He has twice been retained by voters (2014 and 2020). In 2013 Sunshine State News described him as a 'conservative jurist' when Gov. Scott appointed him, and the Federalist Society's website hosts a contributor biography for him; this guide does not characterize his judicial philosophy. Most of his publicly indexed recent decisions are unsigned per curiam affirmances; the signed opinion most widely covered in the press is the 2018 assignment-of-benefits insurance ruling. No organized campaign for or against his retention, and no 2026 Florida Bar merit-retention poll result, was found in the sources searched.",
+      "photo_url": null,
+      "sources": [
+        {
+          "title": "Alan Forst - contributor biography (Federalist Society)",
+          "url": "https://fedsoc.org/bio/alan-forst-1",
+          "date": null
+        },
+        {
+          "title": "Alan O. Forst - candidate profile (The Ballot Brief)",
+          "url": "https://theballotbrief.com/candidate/alan-o-forst-ca379412-1339-491d-93df-021962a9c111",
+          "date": null
+        },
+        {
+          "title": "Rick Scott appoints Alan Forst to 4th District Court of Appeal (Sunshine State News)",
+          "url": "https://sunshinestatenews.com/story/rick-scott-foils-liberal-activists-appoints-alan-forst-4th-district-court-appeal",
+          "date": "2013"
+        },
+        {
+          "title": "All DCA judges retained, judicial runoffs decided (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/all-dca-judges-retained-judicial-runoffs-decided/",
+          "date": "2014"
+        },
+        {
+          "title": "Voters retain justice, appellate judges (WLRN / News Service of Florida)",
+          "url": "https://www.wlrn.org/2020-11-04/voters-retain-justice-appellate-judges",
+          "date": "2020-11-04"
+        },
+        {
+          "title": "Florida Bar poll shows support for appellate judges in upcoming merit retention elections (Florida Bar)",
+          "url": "https://www.floridabar.org/news-release/bar-announcements/florida-bar-poll-shows-support-for-appellate-judges-in-upcoming-merit-retention-elections/",
+          "date": "2020"
+        },
+        {
+          "title": "Justice Muñiz and 22 DCA judges to stand for merit retention (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+          "date": "2026"
+        },
+        {
+          "title": "Florida intermediate appellate court elections, 2026 (Ballotpedia)",
+          "url": "https://ballotpedia.org/Florida_intermediate_appellate_court_elections,_2026",
+          "date": "2026"
+        }
+      ]
+    },
+    {
+      "name": "Mark W. Klingensmith",
+      "court": "Fourth District Court of Appeal",
+      "ballot_question": "Shall Judge Mark W. Klingensmith of the Fourth District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Rick Scott",
+      "appointed_year": 2013,
+      "background": "Mark W. Klingensmith was appointed to the Fourth District Court of Appeal by Gov. Rick Scott and assumed office on June 27, 2013, after serving as a circuit judge in the 19th Judicial Circuit (2011-2013). He earned his bachelor's (1982) and law (1985) degrees from the University of Florida and an LL.M. in judicial studies from Duke University in 2016. Before taking the bench he spent about 25 years in civil litigation private practice, became board certified in civil trial law in 2001, and served as an elected commissioner, vice mayor and mayor of the Town of Sewall's Point. He served as the Fourth DCA's chief judge beginning June 10, 2022 (re-elected in 2023) and in January 2024 was elected president of the Florida Conference of District Court of Appeal Judges. Voters retained him in 2014 (74.27 percent, per Florida Bar News) and in 2020 (63.0 percent, per Ballotpedia).",
+      "rulings": [
+        {
+          "case": "Cole v. Universal Property & Casualty Insurance Co. (4D22-1054)",
+          "date": "2023-05",
+          "topic": "Property insurance / pre-suit notice law",
+          "what_it_decided": "The court held that Florida's 2021 requirement that homeowners give insurers pre-suit notice before filing a lawsuit (section 627.70152) is procedural and therefore applies to policies issued before the law took effect, affirming dismissal of a homeowner's suit. Other district courts later split on the question.",
+          "vote": "unknown",
+          "role": "Joined majority",
+          "note": "The Daily Business Review's coverage names Judges Klingensmith, Levine and Damoorgian as the panel; the search results did not confirm which judge authored the opinion.",
+          "sources": [
+            {
+              "title": "Court finds Florida law requiring pre-suit notice in insurance cases applies retroactively (Daily Business Review)",
+              "url": "https://law.com/dailybusinessreview/2023/05/15/court-finds-florida-law-requiring-pre-suit-notice-in-insurance-cases-applies-retroactively",
+              "date": "2023-05-15"
+            },
+            {
+              "title": "Florida's 4th DCA decides insurer's presuit notice requirement is procedural and applies retroactively (Marshall Dennehey)",
+              "url": "https://www.marshalldennehey.com/professional-liability/thought-leadership/floridas-4th-district-court-of-appeal-decides-insurers-presuit-notice-requirement-is-procedural-in-nature-and-applies-retroactively",
+              "date": "2023"
+            }
+          ]
+        },
+        {
+          "case": "Palm Beach County Board of County Commissioners v. Herring",
+          "date": "2026-07",
+          "topic": "Local government litigation (Palm Beach County)",
+          "what_it_decided": "The court affirmed the trial court's ruling in a case involving the Palm Beach County Board of County Commissioners; Judges Conner and Klingensmith and an associate judge concurred, with the associate judge writing a separate concurrence. The search results did not show the underlying subject matter.",
+          "vote": "3-0",
+          "role": "Joined majority",
+          "note": "Only the disposition line was available in the search snippet.",
+          "sources": [
+            {
+              "title": "Palm Beach County Board of County Commissioners v. Herring (Leagle)",
+              "url": "https://www.leagle.com/decision/inflco20260723138",
+              "date": "2026-07-23"
+            }
+          ]
+        },
+        {
+          "case": "Bluestone v. Broward County",
+          "date": "2024-06",
+          "topic": "Broward County appeal (per curiam affirmance)",
+          "what_it_decided": "A panel including then-Chief Judge Klingensmith affirmed a Broward County trial-court ruling without a written opinion.",
+          "vote": "3-0 (per curiam, unsigned)",
+          "role": "Joined majority",
+          "note": "Unsigned affirmance; no reasoning available.",
+          "sources": [
+            {
+              "title": "Bluestone v. Broward County, Fla. 4th DCA, June 13, 2024 (CourtListener data via hallapproved.com)",
+              "url": "https://hallapproved.com/fl/cases/appeals/2024/9492672/",
+              "date": "2024-06-13"
+            }
+          ]
+        }
+      ],
+      "record_summary": "Judge Klingensmith is on the Florida Bar's list of DCA judges who qualified for the November 2026 merit-retention ballot and has been retained twice before (2014 and 2020). Bar-association and Florida Bar News coverage of him focuses on his administrative roles as the court's chief judge (2022-2024) and as president of the statewide conference of DCA judges. The search results surfaced him mainly as a panel member on unsigned affirmances; no news coverage identifying him as the author of a particular opinion was found, so the rulings listed here describe panel decisions he joined. No organized campaign for or against his retention, and no 2026 Florida Bar merit-retention poll result, was found in the sources searched.",
+      "photo_url": null,
+      "sources": [
+        {
+          "title": "Mark W. Klingensmith (Ballotpedia)",
+          "url": "https://ballotpedia.org/Mark_W._Klingensmith",
+          "date": null
+        },
+        {
+          "title": "Klingensmith becomes chief judge of the Fourth DCA (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/klingensmith-becomes-chief-judge-of-the-fourth-dca/",
+          "date": "2022"
+        },
+        {
+          "title": "Judge Mark W. Klingensmith re-elected as Fourth DCA chief judge; Judge Jeffrey T. Kuntz named chief judge-elect (Palm Beach County Bar Association)",
+          "url": "https://www.palmbeachbar.org/judge-mark-w-klingensmith-re-elected-as-fourth-dca-chief-judge-judge-jeffrey-t-kuntz-named-chief-judge-elect/",
+          "date": "2023"
+        },
+        {
+          "title": "Chief Judge Mark W. Klingensmith elected president of the Florida Conference of District Court of Appeal Judges (Palm Beach County Bar Association)",
+          "url": "https://www.palmbeachbar.org/chief-judge-mark-w-klingensmith-elected-president-of-the-florida-conference-of-district-court-of-appeal-judges/",
+          "date": "2024-01"
+        },
+        {
+          "title": "All DCA judges retained, judicial runoffs decided (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/all-dca-judges-retained-judicial-runoffs-decided/",
+          "date": "2014"
+        },
+        {
+          "title": "Voters retain justice, appellate judges (WLRN / News Service of Florida)",
+          "url": "https://www.wlrn.org/2020-11-04/voters-retain-justice-appellate-judges",
+          "date": "2020-11-04"
+        },
+        {
+          "title": "Justice Muñiz and 22 DCA judges to stand for merit retention (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+          "date": "2026"
+        },
+        {
+          "title": "Florida intermediate appellate court elections, 2026 (Ballotpedia)",
+          "url": "https://ballotpedia.org/Florida_intermediate_appellate_court_elections,_2026",
+          "date": "2026"
+        }
+      ]
+    },
+    {
+      "name": "Johnathan D. Lott",
+      "court": "Fourth District Court of Appeal",
+      "ballot_question": "Shall Judge Johnathan D. Lott of the Fourth District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Ron DeSantis",
+      "appointed_year": 2025,
+      "background": "Johnathan D. Lott (his first name is also spelled 'Jonathan' in some official sources) was appointed to the Fourth District Court of Appeal by Gov. Ron DeSantis in the fall of 2025; the governor's appointment letter was dated Oct. 30, 2025, and Ballotpedia lists him as assuming office on Nov. 12, 2025. He filled the vacancy created when Judge Ed Artau left the court for the federal bench. He earned his bachelor's degree from the University of Florida and his law degree from the University of Chicago Law School (2014), and previously served as an Assistant United States Attorney for the Southern District of Florida. DeSantis first appointed him to the 17th Judicial Circuit (Broward County) bench in November 2024, where he took office Jan. 1, 2025 and served in the family division. This is his first merit-retention election.",
+      "rulings": [
+        {
+          "case": "Lewis v. Barrett (4D2024-2362)",
+          "date": "2026-03",
+          "topic": "Broward civil appeal (per curiam affirmance)",
+          "what_it_decided": "A panel of Judges Gross, Ciklin and Lott affirmed a Broward circuit court ruling without a written opinion.",
+          "vote": "3-0 (per curiam, unsigned)",
+          "role": "Joined majority",
+          "note": "Unsigned affirmance; no reasoning available.",
+          "sources": [
+            {
+              "title": "Dan Lewis v. Lynn Barrett, Fla. 4th DCA, Mar. 5, 2026 (Counsel Stack)",
+              "url": "https://law.counselstack.com/opinion/dan-lewis-v-lynn-barrett-fladistctapp-2026",
+              "date": "2026-03-05"
+            }
+          ]
+        },
+        {
+          "case": "Bovell v. Jablonski (4D2025-1526)",
+          "date": "2026-03",
+          "topic": "Broward civil appeal (per curiam affirmance)",
+          "what_it_decided": "A panel of Judges Klingensmith, Shaw and Lott affirmed the trial court without a written opinion.",
+          "vote": "3-0 (per curiam, unsigned)",
+          "role": "Joined majority",
+          "note": "Unsigned affirmance; no reasoning available.",
+          "sources": [
+            {
+              "title": "Donovan R. Bovell v. Jablonski, Fla. 4th DCA, Mar. 26, 2026 (FlexLaw)",
+              "url": "https://flexlaw.co/case/1526623",
+              "date": "2026-03-26"
+            }
+          ]
+        },
+        {
+          "case": "Lee v. State (4D2025-2314 / 4D2025-2316)",
+          "date": "2026-05",
+          "topic": "Criminal appeal (per curiam affirmance)",
+          "what_it_decided": "A panel of Judges Ciklin, Gerber and Lott affirmed the defendant's convictions or sentences in consolidated appeals without a written opinion.",
+          "vote": "3-0 (per curiam, unsigned)",
+          "role": "Joined majority",
+          "note": "Unsigned affirmance; no reasoning available.",
+          "sources": [
+            {
+              "title": "Antavion Antorry Jamal Lee v. State, Fla. 4th DCA, May 7, 2026 (FlexLaw)",
+              "url": "https://flexlaw.co/case/3394051",
+              "date": "2026-05-07"
+            }
+          ]
+        }
+      ],
+      "record_summary": "Judge Lott has served on the Fourth DCA for less than a year and is on the Florida Bar's list of judges who qualified for the November 2026 merit-retention ballot. The 17th Circuit's chief judge praised him as a respected jurist when he was elevated, according to Florida Bar News. No signed opinion authored by Judge Lott, and no news coverage of a ruling he wrote, was found in the sources searched; the decisions listed are unsigned affirmances he joined. No organized campaign for or against his retention, and no Florida Bar merit-retention poll result for him, was found.",
+      "photo_url": null,
+      "sources": [
+        {
+          "title": "Judge Johnathan D. Lott appointed to the Fourth DCA (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/judge-jonathan-d-lott-appointed-to-the-fourth-dca/",
+          "date": "2025-11"
+        },
+        {
+          "title": "Jonathan D. Lott (Florida) (Ballotpedia)",
+          "url": "https://ballotpedia.org/Jonathan_D._Lott_(Florida)",
+          "date": null
+        },
+        {
+          "title": "Jonathan D. Lott, '14, appointed to Florida's Fourth District Court of Appeal (University of Chicago Law School)",
+          "url": "https://www.law.uchicago.edu/news/jonathan-d-lott-14-appointed-floridas-fourth-district-court-appeal",
+          "date": "2025"
+        },
+        {
+          "title": "Governor makes three judicial appointments in October, including one to the Fourth DCA (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/governor-makes-three-judicial-appointment-in-october-including-one-to-the-fourth-dca/",
+          "date": "2025"
+        },
+        {
+          "title": "Governor DeSantis appoints Circuit Judge Jonathan D. Lott to Fourth DCA (Caribbean National Weekly)",
+          "url": "https://www.caribbeannationalweekly.com/news/governor-desantis-appoints-circuit-judge-jonathan-d-lott-to-fourth-dca/",
+          "date": "2025"
+        },
+        {
+          "title": "Justice Muñiz and 22 DCA judges to stand for merit retention (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+          "date": "2026"
+        }
+      ]
+    },
+    {
+      "name": "Shannon K. Shaw",
+      "court": "Fourth District Court of Appeal",
+      "ballot_question": "Shall Judge Shannon K. Shaw of the Fourth District Court of Appeal be retained in office?",
+      "appointed_by": "Gov. Ron DeSantis",
+      "appointed_year": 2025,
+      "background": "Shannon K. Shaw, of Jupiter, was appointed to the Fourth District Court of Appeal by Gov. Ron DeSantis on July 17, 2025, filling the vacancy created by the resignation of Judge Martha Warner; Ballotpedia lists her as assuming office on Oct. 1, 2025. She earned her bachelor's degree from Duke University and her law degree from Vanderbilt University Law School. Before her appointment she served as an Assistant United States Attorney for the Southern District of Florida beginning in 2017, was an associate at the law firm Hunton & Williams, and clerked for U.S. District Judges K. Michael Moore and James King in the Southern District of Florida. This is her first merit-retention election.",
+      "rulings": [
+        {
+          "case": "Ardella v. State (4D2025-0035)",
+          "date": "2025-12",
+          "topic": "Criminal appeal (per curiam affirmance)",
+          "what_it_decided": "A panel of Chief Judge Kuntz and Judges Ciklin and Shaw affirmed the trial court without a written opinion.",
+          "vote": "3-0 (per curiam, unsigned)",
+          "role": "Joined majority",
+          "note": "Unsigned affirmance; no reasoning available.",
+          "sources": [
+            {
+              "title": "Ardella v. State, Fla. 4th DCA, Dec. 4, 2025 (CourtListener data via hallapproved.com)",
+              "url": "https://hallapproved.com/fl/cases/appeals/2025/10751131/",
+              "date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "case": "Lakey v. State (4D2025-2111)",
+          "date": "2025-11",
+          "topic": "Criminal appeal (per curiam affirmance)",
+          "what_it_decided": "A panel of Judges Conner, Klingensmith and Shaw affirmed the trial court without a written opinion.",
+          "vote": "3-0 (per curiam, unsigned)",
+          "role": "Joined majority",
+          "note": "Unsigned affirmance; no reasoning available.",
+          "sources": [
+            {
+              "title": "Lakey v. State, Fla. 4th DCA, Nov. 13, 2025 (CourtListener data via hallapproved.com)",
+              "url": "https://hallapproved.com/fl/cases/appeals/2025/10752917/",
+              "date": "2025-11-13"
+            }
+          ]
+        },
+        {
+          "case": "7th Avenue Village v. Perez (4D2025-0315)",
+          "date": "2025-12",
+          "topic": "Civil appeal (per curiam affirmance)",
+          "what_it_decided": "A panel of Chief Judge Kuntz and Judges Ciklin and Shaw affirmed the trial court without a written opinion.",
+          "vote": "3-0 (per curiam, unsigned)",
+          "role": "Joined majority",
+          "note": "Unsigned affirmance; no reasoning available.",
+          "sources": [
+            {
+              "title": "7th Avenue Village v. Perez, Fla. 4th DCA, Dec. 4, 2025 (CourtListener data via hallapproved.com)",
+              "url": "https://hallapproved.com/fl/cases/appeals/2025/10752741/",
+              "date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "case": "Bovell v. Jablonski (4D2025-1526)",
+          "date": "2026-03",
+          "topic": "Broward civil appeal (per curiam affirmance)",
+          "what_it_decided": "A panel of Judges Klingensmith, Shaw and Lott affirmed the trial court without a written opinion.",
+          "vote": "3-0 (per curiam, unsigned)",
+          "role": "Joined majority",
+          "note": "Unsigned affirmance; no reasoning available.",
+          "sources": [
+            {
+              "title": "Donovan R. Bovell v. Jablonski, Fla. 4th DCA, Mar. 26, 2026 (FlexLaw)",
+              "url": "https://flexlaw.co/case/1526623",
+              "date": "2026-03-26"
+            }
+          ]
+        }
+      ],
+      "record_summary": "Judge Shaw has served on the Fourth DCA for about a year and is on the Florida Bar's list of judges who qualified for the November 2026 merit-retention ballot. No signed opinion authored by Judge Shaw, and no news coverage of a ruling she wrote, was found in the sources searched; the decisions listed are unsigned affirmances she joined. No organized campaign for or against her retention, and no Florida Bar merit-retention poll result for her, was found.",
+      "photo_url": null,
+      "sources": [
+        {
+          "title": "Shannon K. Shaw (Ballotpedia)",
+          "url": "https://ballotpedia.org/Shannon_K._Shaw",
+          "date": null
+        },
+        {
+          "title": "Governor Ron DeSantis makes four judicial appointments (Executive Office of the Governor)",
+          "url": "https://flgov.com/eog/news/press/2025/governor-ron-desantis-makes-four-judicial-appointments-0",
+          "date": "2025-07-17"
+        },
+        {
+          "title": "Governor makes Fourth DCA and 13th Circuit judicial appointments (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/governor-makes-fourth-dca-and-13th-circuit-judicial-appointments/",
+          "date": "2025-07"
+        },
+        {
+          "title": "Personnel File: People on the move, July 21, 2025 (News Service of Florida)",
+          "url": "https://www.newsserviceflorida.com/features/personnel/personnel-file-----people-on-the-move-july-21-2025/article_54e0c778-6d45-45c4-a9b7-a73e7521470b.html",
+          "date": "2025-07-21"
+        },
+        {
+          "title": "Justice Muñiz and 22 DCA judges to stand for merit retention (Florida Bar News)",
+          "url": "https://www.floridabar.org/the-florida-bar-news/justice-muniz-and-22-dca-judges-to-stand-for-merit-retention/",
+          "date": "2026"
+        }
+      ]
+    }
+  ]
+}
