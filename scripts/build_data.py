@@ -163,6 +163,14 @@ def main():
         'early_voting_dates': 'Oct 24 – Oct 31 (confirm county hours)',
     })
     judicial = load(os.path.join(RESEARCH, 'judicial.json'), {}) or {}
+    # Merge per-court judge files (judges_dca<N>.json) into the judges list, without duplicating names
+    have = {j['name'].lower() for j in judicial.get('judges', [])}
+    for fn in sorted(os.listdir(RESEARCH)):
+        if re.match(r'^judges_dca\d\.json$', fn):
+            extra = load(os.path.join(RESEARCH, fn), {}) or {}
+            for j in extra.get('judges', []):
+                if j.get('name') and j['name'].lower() not in have:
+                    judicial.setdefault('judges', []).append(j); have.add(j['name'].lower())
     for j in judicial.get('judges', []):
         slug = 'judge_' + re.sub(r'[^a-z_]', '', j['name'].lower().replace(' ', '_').replace('ñ', 'n'))
         for ext in ('jpg', 'jpeg', 'png'):
