@@ -383,3 +383,8 @@ p a:not(.btn), li a:not(.btn), dd a, small a, .sources a, .notice a, .lead a, .m
 .hero-picker .zip-form input { font-size: 1.05rem; padding: 12px 14px; width: 140px; }
 .zip-status { min-height: 1.2em; }
 .tag-likely { background: color-mix(in srgb, var(--accent) 16%, var(--surface)); color: var(--accent); border-color: transparent; }
+
+/* ---------- Judge rulings table ---------- */
+table.rulings td { font-size: .9rem; }
+table.rulings td:first-child { min-width: 170px; }
+table.rulings td:nth-child(2) { min-width: 260px; }
