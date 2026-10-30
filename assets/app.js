@@ -163,7 +163,7 @@
     if (prof.cd) bits.push(`${T('Congressional District', 'Distrito Congresional')} ${prof.cd}${prof.cd_unconfirmed ? T(' (confirm)', ' (confirmar)') : ''}`);
     if (prof.sd) bits.push(`${T('Senate District', 'Distrito del Senado')} ${prof.sd}`);
     if (prof.hd) bits.push(`${T('House District', 'Distrito de la Cámara')} ${prof.hd}`);
-    if (prof.approx) bits.push(T('estimated from ZIP ' + prof.zip, 'estimado del código postal ' + prof.zip));
+    if (prof.approx) bits.push(prof.zip ? T('estimated from ZIP ' + prof.zip, 'estimado del código postal ' + prof.zip) : T('approximate location', 'ubicación aproximada'));
     return bits.join(' · ');
   }
   function coverageNote(r) {
@@ -175,7 +175,7 @@
   }
   function addressPanel(compact) {
     const prof = loadProfile();
-    const zipWarn = prof && prof.approx ? `<p class="notice notice-warn" style="margin-top:10px"><strong>${T('Estimated from a ZIP code.', 'Estimado a partir de un código postal.')}</strong> ${T(`ZIP codes often cross district lines, so these districts are the best estimate for the center of ZIP ${esc(prof.zip)}. For an exact match, enter your street address or check the`, `Los códigos postales suelen cruzar límites de distrito, así que estos distritos son la mejor estimación para el centro del código postal ${esc(prof.zip)}. Para un resultado exacto, ingrese su dirección o consulte el`)} <a href="https://registration.elections.myflorida.com/CheckVoterStatus" target="_blank" rel="noopener">${T('state voter site', 'sitio estatal del votante')}</a>.</p>` : '';
+    const zipWarn = prof && prof.county_only ? `<p class="notice notice-warn" style="margin-top:10px"><strong>${T('County found, districts not.', 'Se encontró el condado, pero no los distritos.')}</strong> ${T("The Census Bureau's district service was unavailable, so only your county is set. Your statewide and county races are shown; add your district numbers below using the", 'El servicio de distritos de la Oficina del Censo no estaba disponible, así que solo se fijó su condado. Se muestran sus contiendas estatales y de condado; añada sus números de distrito abajo usando el')} <a href="https://registration.elections.myflorida.com/CheckVoterStatus" target="_blank" rel="noopener">${T('state voter site', 'sitio estatal del votante')}</a>.</p>` : prof && prof.approx && prof.zip ? `<p class="notice notice-warn" style="margin-top:10px"><strong>${T('Estimated from a ZIP code.', 'Estimado a partir de un código postal.')}</strong> ${T(`ZIP codes often cross district lines, so these districts are the best estimate for the center of ZIP ${esc(prof.zip)}. For an exact match, enter your street address or check the`, `Los códigos postales suelen cruzar límites de distrito, así que estos distritos son la mejor estimación para el centro del código postal ${esc(prof.zip)}. Para un resultado exacto, ingrese su dirección o consulte el`)} <a href="https://registration.elections.myflorida.com/CheckVoterStatus" target="_blank" rel="noopener">${T('state voter site', 'sitio estatal del votante')}</a>.</p>` : '';
     const cdWarn = (prof && prof.cd_unconfirmed ? `<p class="notice notice-warn" style="margin-top:10px"><strong>${T('Check your congressional district.', 'Verifique su distrito congresional.')}</strong> ${T("Florida adopted a new congressional map in May 2026 that changed 21 of 28 districts, and the Census Bureau's lookup still uses the old lines. Your county and state legislative districts are reliable; for the U.S. House race,", 'Florida adoptó un nuevo mapa congresional en mayo de 2026 que cambió 21 de los 28 distritos, y la búsqueda de la Oficina del Censo todavía usa las líneas antiguas. Su condado y sus distritos legislativos estatales son confiables; para la contienda de la Cámara de Representantes de EE. UU.,')} <a href="https://registration.elections.myflorida.com/CheckVoterStatus" target="_blank" rel="noopener">${T('look up your district on the state voter site', 'busque su distrito en el sitio estatal del votante')}</a> ${T('and', 'e')} <a href="#/where">${T('enter it manually', 'ingréselo manualmente')}</a> ${T('if it differs from', 'si es distinto de')} ${esc(String(prof.cd))}.</p>` : '') + zipWarn;
     if (prof && compact) { const code = countyCodeFor(prof.county); return `<div class="card addr-bar"><div><span class="eyebrow" style="margin:0">${T('Your ballot', 'Su boleta')}</span> <strong>${esc(profileSummary(prof))}</strong> <small class="muted">${prof.label && !/preset/.test(prof.label) ? '· ' + esc(prof.label) : ''}</small></div><div class="btn-row" style="margin:0">${code ? `<a class="btn btn-sm" href="#/county/${esc(code)}">${T(`Official line-up for ${esc(prof.county)} County`, `Lista oficial del condado de ${esc(prof.county)}`)}</a>` : ''}<a class="btn btn-sm" href="#/where">${T('Change', 'Cambiar')}</a></div></div>${cdWarn}`; }
     return `<div class="card addr-panel">
@@ -201,36 +201,52 @@
       ${cdWarn}
     </div>`;
   }
-  function geocode(address) {
+  // --- Lookup plumbing. The Census Bureau geocoder is tried as a direct request first (it allows cross-site requests),
+  // then as a script-tag (JSONP) request; if the Census service is unavailable, OpenStreetMap's Nominatim gives at least the county.
+  function withTimeout(promise, ms, msg) { return Promise.race([promise, new Promise((_, rej) => setTimeout(() => rej(new Error(msg)), ms))]); }
+  function jsonp(url, label) {
     return new Promise((resolve, reject) => {
-      const cb = 'ccGeo' + Date.now();
+      const cb = 'ccGeo' + Date.now() + Math.floor(Math.random() * 1e6);
       const script = document.createElement('script');
-      const timer = setTimeout(() => { cleanup(); reject(new Error(T('The Census geocoder did not respond. Try again or use the manual option.', 'El geocodificador del Censo no respondió. Intente de nuevo o use la opción manual.'))); }, 15000);
+      const timer = setTimeout(() => { cleanup(); reject(new Error(label + ': no response after 15 seconds')); }, 15000);
       function cleanup() { clearTimeout(timer); delete window[cb]; script.remove(); }
       window[cb] = data => { cleanup(); resolve(data); };
-      script.onerror = () => { cleanup(); reject(new Error(T('Could not reach the Census geocoder.', 'No se pudo conectar con el geocodificador del Censo.'))); };
-      script.src = 'https://geocoding.geo.census.gov/geocoder/geographies/onelineaddress?address=' + encodeURIComponent(address) + '&benchmark=Public_AR_Current&vintage=Current_Current&layers=all&format=jsonp&callback=' + cb;
+      script.onerror = () => { cleanup(); reject(new Error(label + ': could not be reached')); };
+      script.src = url + '&format=jsonp&callback=' + cb;
       document.head.appendChild(script);
     });
   }
-  function censusAt(lon, lat) {
-    return new Promise((resolve, reject) => {
-      const cb = 'ccGeoPt' + Date.now();
-      const script = document.createElement('script');
-      const timer = setTimeout(() => { cleanup(); reject(new Error(T('The Census geocoder did not respond. Try again or use the manual option.', 'El geocodificador del Censo no respondió. Intente de nuevo o use la opción manual.'))); }, 15000);
-      function cleanup() { clearTimeout(timer); delete window[cb]; script.remove(); }
-      window[cb] = data => { cleanup(); resolve(data); };
-      script.onerror = () => { cleanup(); reject(new Error(T('Could not reach the Census geocoder.', 'No se pudo conectar con el geocodificador del Censo.'))); };
-      script.src = 'https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=' + encodeURIComponent(lon) + '&y=' + encodeURIComponent(lat) + '&benchmark=Public_AR_Current&vintage=Current_Current&layers=all&format=jsonp&callback=' + cb;
-      document.head.appendChild(script);
-    });
+  async function censusRequest(url, label) {
+    let lastErr;
+    try {
+      const resp = await withTimeout(fetch(url + '&format=json', { mode: 'cors' }), 15000, label + ': no response after 15 seconds');
+      if (!resp.ok) throw new Error(label + ': HTTP ' + resp.status);
+      return await resp.json();
+    } catch (e) { lastErr = e; }
+    try { return await jsonp(url, label); } catch (e) { lastErr = e; }
+    throw lastErr || new Error(label + ' failed');
+  }
+  const CENSUS_BASE = 'https://geocoding.geo.census.gov/geocoder/geographies/';
+  const CENSUS_PARAMS = '&benchmark=Public_AR_Current&vintage=Current_Current&layers=all';
+  function geocode(address) { return censusRequest(CENSUS_BASE + 'onelineaddress?address=' + encodeURIComponent(address) + CENSUS_PARAMS, T('Census geocoder', 'Geocodificador del Censo')); }
+  function censusAt(lon, lat) { return censusRequest(CENSUS_BASE + 'coordinates?x=' + encodeURIComponent(lon) + '&y=' + encodeURIComponent(lat) + CENSUS_PARAMS, T('Census geocoder', 'Geocodificador del Censo')); }
+  // Fallback geocoder (OpenStreetMap Nominatim): returns the county and a point; districts are then attempted from the Census point lookup.
+  async function osmLookup(address) {
+    const resp = await withTimeout(fetch('https://nominatim.openstreetmap.org/search?format=jsonv2&addressdetails=1&limit=1&countrycodes=us&q=' + encodeURIComponent(address), { headers: { 'Accept': 'application/json' } }), 15000, 'OpenStreetMap: no response after 15 seconds');
+    if (!resp.ok) throw new Error('OpenStreetMap: HTTP ' + resp.status);
+    const arr = await resp.json(); const hit = arr && arr[0];
+    if (!hit || !hit.address) return null;
+    const a = hit.address;
+    if (a.state && a.state !== 'Florida') return { error: T(`That address is in ${a.state}, not Florida.`, `Esa dirección está en ${a.state}, no en Florida.`) };
+    const county = (a.county || '').replace(/ County$/i, '');
+    return { county: county || null, lat: hit.lat, lon: hit.lon, label: hit.display_name };
   }
   // ZIP code -> approximate profile. The ZIP's center point comes from a public, keyless ZIP service; the Census geocoder
   // then returns the county and districts at that point. ZIP codes can straddle district lines, so the result is marked approximate.
   async function zipLookup(zip) {
     let place;
     try {
-      const resp = await fetch('https://api.zippopotam.us/us/' + encodeURIComponent(zip));
+      const resp = await withTimeout(fetch('https://api.zippopotam.us/us/' + encodeURIComponent(zip)), 15000, 'ZIP service: no response');
       if (!resp.ok) throw new Error('nf');
       const j = await resp.json(); place = j.places && j.places[0];
     } catch (e) { throw new Error(T('That ZIP code was not found. Check the digits, or enter a street address.', 'No se encontró ese código postal. Revise los dígitos o ingrese una dirección.')); }
@@ -242,6 +258,32 @@
     const prof = profileFromGeographies(g, T(`ZIP ${zip} (${place['place name']})`, `código postal ${zip} (${place['place name']})`));
     if (prof && !prof.error) { prof.approx = true; prof.zip = zip; }
     return prof;
+  }
+  // Street address -> profile, with the fallback chain described above. Returns {profile} or {error} (never throws).
+  async function addressLookup(addr) {
+    const full = /florida|,\s*fl\b/i.test(addr) ? addr : addr + ', FL';
+    let censusErr = null;
+    try {
+      const data = await geocode(full);
+      const prof = profileFromGeo(data, addr);
+      if (prof && prof.error) return { error: prof.error };
+      if (prof) return { profile: prof };
+      // Census reached but no match: try OSM for a point, then Census districts at that point
+    } catch (e) { censusErr = e; }
+    try {
+      const osm = await osmLookup(full);
+      if (osm && osm.error) return { error: osm.error };
+      if (osm && osm.lat) {
+        try {
+          const data = await censusAt(osm.lon, osm.lat);
+          const g = data && data.result && data.result.geographies;
+          if (g) { const prof = profileFromGeographies(g, osm.label); if (prof && !prof.error) { prof.approx = true; prof.approx_note = 'address located by OpenStreetMap'; return { profile: prof }; } }
+        } catch (e) { censusErr = censusErr || e; }
+        if (osm.county) return { profile: { county: osm.county, cd: null, sd: null, hd: null, label: osm.label, approx: true, county_only: true } };
+      }
+    } catch (e) { /* fall through */ }
+    if (censusErr) return { error: T(`The Census Bureau's address service could not be reached (${censusErr.message}). Please use the manual option below, or try again in a minute.`, `No se pudo conectar con el servicio de direcciones de la Oficina del Censo (${censusErr.message}). Use la opción manual de abajo o inténtelo de nuevo en un minuto.`) };
+    return { error: T('No match for that address. Check the spelling, add the city, or use the manual option below.', 'No se encontró esa dirección. Revise la ortografía, añada la ciudad o use la opción manual de abajo.') };
   }
   function profileFromGeo(data, address) {
     const m = data && data.result && data.result.addressMatches && data.result.addressMatches[0];
@@ -264,7 +306,7 @@
       try {
         let prof;
         if (/^\d{5}(-\d{4})?$/.test(addr)) { prof = await zipLookup(addr.slice(0, 5)); }
-        else { const data = await geocode(/florida|,\s*fl\b/i.test(addr) ? addr : addr + ', FL'); prof = profileFromGeo(data, addr); }
+        else { const res = await addressLookup(addr); if (res.error) { status.textContent = res.error; return; } prof = res.profile; }
         if (!prof) { status.textContent = T('No match for that address. Check the spelling, add the city, or use the manual option below.', 'No se encontró esa dirección. Revise la ortografía, añada la ciudad o use la opción manual de abajo.'); return; }
         if (prof.error) { status.textContent = prof.error; return; }
         saveProfile(prof); status.textContent = ''; render();
